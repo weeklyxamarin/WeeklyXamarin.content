@@ -1,0 +1,23 @@
+{
+  "updatedTimeStamp": "2020-04-10T09:40:58+01:00",
+  "editions": [
+    {
+      "id": 254,
+      "name": "Edition 254",
+      "summary": "This is a summary text for Edition 254",
+      "updatedTimeStamp": "2020-04-10T09:40:58+01:00"
+    },
+    {
+      "id": 253,
+      "name": "Edition 253",
+      "summary": "This is a summary text for Edition 253",
+      "updatedTimeStamp": "2020-04-10T09:40:58+01:00"
+    },
+    {
+      "id": 252,
+      "name": "Edition 252",
+      "summary": "This is a summary text for Edition 252",
+      "updatedTimeStamp": "2020-04-10T09:40:58+01:00"
+    }
+  ]
+}

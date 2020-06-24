@@ -1,0 +1,41 @@
+{
+  "authors": [
+    {
+      "name": "Lachlan Gordon",
+      "id": "https://twitter.com/lachlanwgordon",
+      "aliases": [
+        {
+          "type": "twitter",
+          "alias": "https://twitter.com/lachlanwgordon"
+        },
+        {
+          "type": "blog",
+          "alias": "https://mfractor.com/author/lachlanwgordon"
+        },
+        {
+          "type": "twitch",
+          "alias": "https://twitch.tv/lachlanwgordon"
+        }
+      ]
+    },
+    {
+      "name": "Kym Phillpotts",
+      "id": "https://twitter.com/kphillpotts",
+      "aliases": [
+        {
+          "type": "twitter",
+          "alias": "https://twitter.com/kphillpotts"
+        },
+        {
+          "type": "blog",
+          "alias": "https://kymphillpotts.com"
+        },
+        {
+          "type": "twitch",
+          "alias": "https://twitch.tv/kymphillpotts"
+        }
+      ]
+    }
+
+  ]
+}
