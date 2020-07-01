@@ -4,6 +4,7 @@
     {
       "Id": "265",
       "Name": "Issue 265",
+      "Summary": "A bumper issue this week, with lots of information about Apples WWDC announcements and more on MAUI. Let's not forget productivity tips and snippets to super charge your Xamarin.Forms development.",
       "UpdatedTimeStamp": "0001-01-01T00:00:00",
       "PublishDate": "2020-06-27T04:12:57Z",
       "Curators": "",
@@ -12,6 +13,7 @@
     {
       "Id": "264",
       "Name": "Issue 264",
+      "Summary": "Another great week of content again, including some fantastic code snippets as part of the #XamarinMonth event."
       "UpdatedTimeStamp": "0001-01-01T00:00:00",
       "PublishDate": "2020-06-19T10:32:05Z",
       "Curators": "",
