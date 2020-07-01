@@ -1,0 +1,167 @@
+{
+  "Id": "263",
+  "Name": "Issue 263",
+  "UpdatedTimeStamp": "0001-01-01T00:00:00",
+  "PublishDate": "2020-06-13T04:46:01Z",
+  "Curators": "",
+  "Articles": [
+    {
+      "Title": "Consuming REST API with Swagger",
+      "Url": "https://nicksnettravelsblog.azurewebsites.net/consuming-swagger/",
+      "Description": "<p>Nick looks at consuming a REST based API by first importing its Swagger and using that to generate the code for accessing the API.</p>\n\n<p><a href=\"https://nicksnettravelsblog.azurewebsites.net/consuming-swagger/\"><strong>Consuming REST API with Swagger / OpenAPI in Xamarin and Uno Applications</strong></a> by <a href=\"https://nicksnettravelsblog.azurewebsites.net/author/nick/\">Nick</a></p>",
+      "EditionId": "263",
+      "Author": "https://twitter.com/thenickrandolph",
+      "Category": "CODE"
+    },
+    {
+      "Title": "How To Convert Base 64 to Image in Xamarin",
+      "Url": "https://logeshpalani.blogspot.com/2020/06/how-to-convert-base-64-to-image-in.html",
+      "Description": "<p>Learn how to convert Image to base 64 and vice versa which is useful for transferring image data.</p>\n\n<p><a href=\"https://logeshpalani.blogspot.com/2020/06/how-to-convert-base-64-to-image-in.html\"><strong>How To Convert Base 64 to Image in Xamarin</strong></a> by <a href=\"https://twitter.com/logeshpalani98\">Logesh Palani</a></p>",
+      "EditionId": "263",
+      "Author": "https://twitter.com/logeshpalani98",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Visualizing Easings",
+      "Url": "https://easings.co/",
+      "Description": "<p>A useful site to view common easing curves on a range of interfaces.</p>\n\n<p><a href=\"https://easings.co/\"><strong>Easings - Generate Cubic Bezier Easing Curves</strong></a> by <a href=\"https://twitter.com/worksdotpm\">Works</a></p>",
+      "EditionId": "263",
+      "Author": "https://twitter.com/worksdotpm",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Stack Overflow Developer Survey 2020",
+      "Url": "https://insights.stackoverflow.com/survey/2020/?utm_source=social-share&utm_medium=social&utm_campaign=dev-survey-2020",
+      "Description": "<p>This report is based on a survey of 65,000 software developers from 186 countries around the world.</p>\n\n<p><a href=\"https://insights.stackoverflow.com/survey/2020/?utm_source=social-share&amp;utm_medium=social&amp;utm_campaign=dev-survey-2020\"><strong>Stack Overflow Developer Survey 2020</strong></a> by [Stack Overflow]</p>",
+      "EditionId": "263",
+      "Category": "BUSINESS & MARKETING"
+    },
+    {
+      "Title": "Code Snippet for Xamarin Month: It's all in the Name",
+      "Url": "https://tomsoderling.github.io/Unit-Test-Code-Snippet/",
+      "Description": "<p>Naming is hard! But consistency is also important. In this entry to #XamarinMonth, Tom shares a code snippet for creating test methods, that help prompt for a consistent and clear naming style.</p>\n\n<p><a href=\"https://tomsoderling.github.io/Unit-Test-Code-Snippet/\"><strong>Code Snippet for Xamarin Month: It's all in the Name</strong></a> by <a href=\"https://twitter.com/tomsoderling\">Tom Soderling</a></p>",
+      "EditionId": "263",
+      "Author": "https://twitter.com/tomsoderling",
+      "Category": "TESTING"
+    },
+    {
+      "Title": "Building and releasing a Xamarin WatchOS app to TestFlight",
+      "Url": "https://damian.fyi/2020/06/06/building-releasing-xamarin-watchos-app/",
+      "Description": "<p>A really helpful and detailed story here from Damian on building and relasing a WatchOS app to TestFlight for beta testing. Not only does he cover how, but also the issues he faced and how he resolved them. A troubleshooting masterclass!</p>\n\n<p><a href=\"https://damian.fyi/2020/06/06/building-releasing-xamarin-watchos-app/\"><strong>Building and releasing a Xamarin WatchOS app to TestFlightBuilding and releasing a Xamarin WatchOS app to TestFlight</strong></a> by <a href=\"https://twitter.com/DamianMehers\">Damian Mehers</a></p>",
+      "EditionId": "263",
+      "Author": "https://twitter.com/damianmehers",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Simplifying Xamarin.Forms Grid Column and Row Definitions",
+      "Url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/simplifying-xamarin-forms-grid-column-row-definitions/",
+      "Description": "<p>One of the downsides of XAML is that it can become very verbose. A specific area where this happens is when using a Grid and you start defining rows and columns. To overcome this, a change has been merged that will make your live (and XAML!) a whole lot easier. In this post you will learn how.</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/xamarin-forms-xamarin/simplifying-xamarin-forms-grid-column-row-definitions/\"><strong>Simplifying Xamarin.Forms Grid Column and Row Definitions</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald</a></p>",
+      "EditionId": "263",
+      "Author": "https://blog.verslu.is/author/admin/",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Iconic Text Avatars",
+      "Url": "https://itnext.io/create-iconic-text-avatars-using-skiasharp-and-xamarin-forms-e1334ae263d8",
+      "Description": "<p>Text Avatars are the most elegant alternative to profile pictures in modern design.  In this post, Ahmed shares how to achieve this with SkiaSharp.</p>\n\n<p><a href=\"https://itnext.io/create-iconic-text-avatars-using-skiasharp-and-xamarin-forms-e1334ae263d8\"><strong>Create Iconic Text Avatars using skiasharp and xamarin forms</strong></a> by <a href=\"https://itnext.io/@csharpwriter\">Ahmed Fouad</a></p>",
+      "EditionId": "263",
+      "Author": "https://twitter.com/mcc_ahmed",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Get started with TinyMvvm",
+      "Url": "https://danielhindrikes.se/index.php/2020/06/10/get-started-with-tinymvvm/",
+      "Description": "<p>This is a tutorial that will guide you through how to get started building an app using Xamarin.Forms and TinyMvvm.</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2020/06/10/get-started-with-tinymvvm/\"><strong>Get started with TinyMvvm</strong></a> by <a href=\"https://danielhindrikes.se/index.php/author/dhindrik/\">Daniel Hindrikes</a></p>",
+      "EditionId": "263",
+      "Author": "https://twitter.com/hindrikes",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Cleanup Your Xamarin.Forms MVVM Bindings Using Value Converters",
+      "Url": "https://www.mfractor.com/blogs/news/cleanup-your-xamarin-forms-mvvm-bindings-using-value-converters",
+      "Description": "<p>When working with Data Binding in Xamarin.Forms you can often end up with a property in your ViewModel that's of the wrong type or needs to be converted.</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/cleanup-your-xamarin-forms-mvvm-bindings-using-value-converters\"><strong>Cleanup Your Xamarin.Forms MVVM Bindings Using Value Converters</strong></a> by <a href=\"https://twitter.com/lachlanwgordon\">Lachlan Gordon</a></p>",
+      "EditionId": "263",
+      "Author": "https://twitter.com/lachlanwgordon",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Snippets for TinyMvvm",
+      "Url": "https://danielhindrikes.se/index.php/2020/06/11/snippets-for-tinymvvm/",
+      "Description": "<p>This blog post is a part of the Xamarin Month, a great initiative by Luis Matos. Daniel shares his favorite snippets for using TinyMvvm.</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2020/06/11/snippets-for-tinymvvm/\"><strong>Snippets for TinyMvvm</strong></a> by <a href=\"https://danielhindrikes.se/index.php/author/dhindrik/\">Daniel Hindrikes</a></p>",
+      "EditionId": "263",
+      "Author": "https://twitter.com/hindrikes",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Validation Snippets in Xamarin Forms",
+      "Url": "https://xamgirl.com/validation-snippets-in-xamarin-forms/",
+      "Description": "<p>In this article Charlin Agramonte shares snippets for form Validation which is an important part of any application that allows data entry.</p>\n\n<p><a href=\"https://xamgirl.com/validation-snippets-in-xamarin-forms/\"><strong>Validation Snippets in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/Chard003\">Charlin Agramonte</a></p>",
+      "EditionId": "263",
+      "Author": "https://twitter.com/chard003",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Working with connectivity in Xamarin Forms",
+      "Url": "https://askxammy.com/working-with-connectivity-in-xamarin-forms/",
+      "Description": "<p>As Developers, it's important to handle the connection states of our applications because you can make decisions based on what to show or do in our App when a certain state is notified.</p>\n\n<p><a href=\"https://askxammy.com/working-with-connectivity-in-xamarin-forms/\"><strong>Working with connectivity in Xamarin Forms</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+      "EditionId": "263",
+      "Author": "https://twitter.com/leomarisreyes11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Overriding Back Button in Xamarin.Forms Shell",
+      "Url": "https://theconfuzedsourcecode.wordpress.com/2020/06/09/overriding-back-button-in-xamarin-forms-shell/",
+      "Description": "<p>Udara shares lessons learnt about overriding the the Back Button navigation in Xamarin.Forms Shell applications.</p>\n\n<p><a href=\"https://theconfuzedsourcecode.wordpress.com/2020/06/09/overriding-back-button-in-xamarin-forms-shell/\"><strong>Overriding Back Button in Xamarin.Forms Shell…</strong></a> by <a href=\"https://github.com/UdaraAlwis\">Udara Alwis</a></p>",
+      "EditionId": "263",
+      "Author": "https://twitter.com/udara_alwis",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin Month - XAML code snippets",
+      "Url": "https://www.andreasnesheim.no/xamarin-month-xaml-code-snippets/",
+      "Description": "<p>A lot of us love Xamarin.Forms and also love XAML. This #XamarinMonth entry from Andreas, sharing snippets of common XAML components we use like listview and collectionview, is definitely a really helpful one, not just for saving time but also helping you learn how the parts work if you are new to creating them.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/xamarin-month-xaml-code-snippets/\"><strong>Xamarin Month - XAML code snippets</strong></a> by <a href=\"https://twitter.com/AndreasNesheim\">Andreas Nesheim</a></p>",
+      "EditionId": "263",
+      "Author": "https://twitter.com/andreasnesheim",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Code Snippets for Xamarin.Forms BindableProperty",
+      "Url": "https://msicc.net/code-snippets-for-xamarin-forms-bindableproperty/",
+      "Description": "<p>Another post as part of #XamarinMonth CodeSnippets. This time a great one from Marco Siccardi on BindableProperty and how to speed up creating those!</p>\n\n<p><a href=\"https://msicc.net/code-snippets-for-xamarin-forms-bindableproperty/\"><strong>Code Snippets for Xamarin.Forms BindableProperty</strong></a> by <a href=\"https://twitter.com/msicc\">Marco Siccardi</a></p>",
+      "EditionId": "263",
+      "Author": "https://twitter.com/msicc",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Sharpnado.Shadows",
+      "Url": "https://www.sharpnado.com/sharpnado-shadows-add-many-shadows-to-any-xamarin-forms-view/",
+      "Description": "<p>For when one shadow is never enough - Sharpnado.Shadows is here to help you out.</p>\n\n<p><a href=\"https://www.sharpnado.com/sharpnado-shadows-add-many-shadows-to-any-xamarin-forms-view/\"><strong>Sharpnado.Shadows: add many shadows to any Xamarin.Forms view</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi's Picture</a></p>",
+      "EditionId": "263",
+      "Author": "https://www.sharpnado.com/author/roubachof/",
+      "Category": "NUGET OF THE WEEK"
+    },
+    {
+      "Title": "Xamarin Community Standup - Build 2020 Recap + .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=bB1z4p1HYjY",
+      "Description": "<p>Join the Mobile .NET Teams for our community standup covering great community contributions for Mobile .NET, Xamarin, Xamarin.Forms, Components, and more. This time doing a build recap and a dive into Maui.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=bB1z4p1HYjY\"><strong>Xamarin: .NET Community Standup - June 11th 2020 - Build 2020 Recap + .NET MAUI</strong></a> by <a href=\"https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg\">Xamarin Developers</a></p>",
+      "EditionId": "263",
+      "Author": "https://www.youtube.com/channel/uce-f02uzgexdhmhpc3loaqg",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Build 2020 Updates",
+      "Url": "https://www.xamarinpodcast.com/74",
+      "Description": "<p>James and Matt recap all of the great Xamarin announcements - and then you can go out and watch all the sessions. Plus this episode covers how to build iOS extension while reusing some Xamarin.Forms pages a new Azure + Mobile documentation center and so much more.</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/74\"><strong>Build 2020 Updates</strong></a> by <a href=\"\">Xamarin</a></p>",
+      "EditionId": "263",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 205: Monetization",
+      "Url": "https://www.mergeconflict.fm/205",
+      "Description": "<p>In episode 85 of running a business and building apps we discuss ads! Why your app and website should have them or maybe not and if so how to make money.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/205\"><strong>Merge Conflict: 205: Monetization</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+      "EditionId": "263",
+      "Author": "https://www.mergeconflict.fm/",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

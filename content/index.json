@@ -1,23 +1,37 @@
 {
-  "updatedTimeStamp": "2020-04-10T09:40:58+01:00",
-  "editions": [
+  "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
+  "Editions": [
     {
-      "id": 254,
-      "name": "Edition 254",
-      "summary": "This is a summary text for Edition 254",
-      "updatedTimeStamp": "2020-04-10T09:40:58+01:00"
+      "Id": "265",
+      "Name": "Issue 265",
+      "UpdatedTimeStamp": "0001-01-01T00:00:00",
+      "PublishDate": "2020-06-27T04:12:57Z",
+      "Curators": "",
+      "Articles": []
     },
     {
-      "id": 253,
-      "name": "Edition 253",
-      "summary": "This is a summary text for Edition 253",
-      "updatedTimeStamp": "2020-04-10T09:40:58+01:00"
+      "Id": "264",
+      "Name": "Issue 264",
+      "UpdatedTimeStamp": "0001-01-01T00:00:00",
+      "PublishDate": "2020-06-19T10:32:05Z",
+      "Curators": "",
+      "Articles": []
     },
     {
-      "id": 252,
-      "name": "Edition 252",
-      "summary": "This is a summary text for Edition 252",
-      "updatedTimeStamp": "2020-04-10T09:40:58+01:00"
+      "Id": "263",
+      "Name": "Issue 263",
+      "UpdatedTimeStamp": "0001-01-01T00:00:00",
+      "PublishDate": "2020-06-13T04:46:01Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
+      "Id": "262",
+      "Name": "Issue 262",
+      "UpdatedTimeStamp": "0001-01-01T00:00:00",
+      "PublishDate": "2020-06-05T04:52:34Z",
+      "Curators": "",
+      "Articles": []
     }
   ]
 }
