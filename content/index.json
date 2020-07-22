@@ -2,10 +2,37 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "268",
+      "Name": "Issue 268",
+      "UpdatedTimeStamp": "2020-07-17T07:33:51Z",
+      "Summary": "Styleable Buttons, VS Productivity Tips, UI Challenges, App Themes and a nifty Range Selector control. So much goodness!",
+      "PublishDate": "2020-07-17T07:33:46Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
+      "Id": "267",
+      "Name": "Issue 267",
+      "UpdatedTimeStamp": "2020-07-10T19:39:40Z",
+      "Summary": "No Edition Summary",
+      "PublishDate": "2020-07-10T19:39:33Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
+      "Id": "266",
+      "Name": "Issue 266",
+      "UpdatedTimeStamp": "2020-07-04T02:30:16Z",
+      "Summary": "This month there we have posts on Xamarin.Forms Shapes, UI Designs and Snippets to name just a few things.",
+      "PublishDate": "2020-07-04T02:30:11Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "265",
       "Name": "Issue 265",
-      "Summary": "A bumper issue this week, with lots of information about Apples WWDC announcements and more on MAUI. Let's not forget productivity tips and snippets to super charge your Xamarin.Forms development.",
       "UpdatedTimeStamp": "0001-01-01T00:00:00",
+      "Summary": "A bumper issue this week, with lots of information about Apples WWDC announcements and more on MAUI. Let's not forget productivity tips and snippets to super charge your Xamarin.Forms development.",
       "PublishDate": "2020-06-27T04:12:57Z",
       "Curators": "",
       "Articles": []
@@ -13,8 +40,8 @@
     {
       "Id": "264",
       "Name": "Issue 264",
-      "Summary": "Another great week of content again, including some fantastic code snippets as part of the #XamarinMonth event.",
       "UpdatedTimeStamp": "0001-01-01T00:00:00",
+      "Summary": "Another great week of content again, including some fantastic code snippets as part of the #XamarinMonth event.",
       "PublishDate": "2020-06-19T10:32:05Z",
       "Curators": "",
       "Articles": []
@@ -34,6 +61,25 @@
       "PublishDate": "2020-06-05T04:52:34Z",
       "Curators": "",
       "Articles": []
+    },
+    {
+      "Id": "261",
+      "Name": "Issue 261",
+      "UpdatedTimeStamp": "2020-05-29T13:58:29Z",
+      "Summary": "No Edition Summary",
+      "PublishDate": "2020-05-29T13:58:25Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
+      "Id": "260",
+      "Name": "Issue 260",
+      "UpdatedTimeStamp": "2020-05-23T01:28:58Z",
+      "Summary": "No Edition Summary",
+      "PublishDate": "2020-05-23T01:28:53Z",
+      "Curators": "",
+      "Articles": []
     }
-  ]
+  ],
+  "FetchedDate": "0001-01-01T00:00:00"
 }

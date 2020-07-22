@@ -1,127 +1,143 @@
 {
   "Id": "264",
   "Name": "Issue 264",
-  "UpdatedTimeStamp": "0001-01-01T00:00:00",
+  "UpdatedTimeStamp": "2020-06-19T10:32:08Z",
+  "Summary": "No Edition Summary",
   "PublishDate": "2020-06-19T10:32:05Z",
   "Curators": "",
   "Articles": [
     {
       "Title": "Commonly used code in Xamarin.UITest",
       "Url": "https://marcofolio.net/snippets-xamarin-uitest/",
-      "Description": "<p>Part of #XamarinMonth</p>\n\n<p>If you’re trying to create automated tests for your Xamarin app, you must have stumbled across Xamarin.UITest. It’s a great way to bring the quality of your application to the next level. Just make sure to apply the best practices when using Xamarin.UITest (especially the Page Object Pattern) otherwise your code can get messy really fast. But when everything is set up properly, you can automatically test your application through the UI on over 1000 devices using Visual Studio App Center!</p>\n\n<p><a href=\"https://marcofolio.net/snippets-xamarin-uitest/\"><strong>Commonly used code in Xamarin.UITest</strong></a> by <a href=\"https://twitter.com/marcofolio\">Marco Kuiper</a></p>",
+      "Description": "Part of #XamarinMonth If you’re trying to create automated tests for your Xamarin app, you must have stumbled across Xamarin.UITest. It’s a great way to bring the quality of your application to the next level. Just make sure to apply the best practices when using Xamarin.UITest (especially the Page Object Pattern) otherwise your code can get messy really fast. But when everything is set up properly, you can automatically test your application through the UI on over 1000 devices using Visual Studio App Center!",
       "EditionId": "264",
       "Author": "https://twitter.com/marcofolio",
+      "Id": "264-1",
       "Category": "TESTING"
     },
     {
       "Title": "Autofac vs TinyIoC",
       "Url": "https://danielhindrikes.se/index.php/2020/06/17/autofac-vs-tinyioc/",
-      "Description": "<p>Daniel was asked to support IoC in TinyMvvm so he created TinyIoC, but he decided to do some measurements to compare Autofac with TinyIoC in terms of performance. Its a fascinating read!</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2020/06/17/autofac-vs-tinyioc/\"><strong>Autofac vs TinyIoC</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+      "Description": "Daniel was asked to support IoC in TinyMvvm so he created TinyIoC, but he decided to do some measurements to compare Autofac with TinyIoC in terms of performance. Its a fascinating read!",
       "EditionId": "264",
       "Author": "https://twitter.com/hindrikes",
+      "Id": "264-2",
       "Category": "PERFORMANCE"
     },
     {
       "Title": "Xamarin DevOps Snippets (aka Pipeline Templates)",
       "Url": "https://nicksnettravels.builttoroam.com/xamarin-devops-snippets/?utm_source=rss&utm_medium=rss&utm_campaign=xamarin-devops-snippets",
-      "Description": "<p>Part of #XamarinMonth</p>\n\n<p>Azure Pipeline Templates are really powerful. They are even reusable across different repositories! Nick shares some code snippets to allow you to get started with Azure DevOps and your Xamarin apps!</p>\n\n<p><a href=\"https://nicksnettravels.builttoroam.com/xamarin-devops-snippets/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=xamarin-devops-snippets\"><strong>Xamarin DevOps Snippets (aka Pipeline Templates)</strong></a> by <a href=\"https://twitter.com/thenickrandolph\">Nick Randolph</a></p>",
+      "Description": "Part of #XamarinMonth  Azure Pipeline Templates are really powerful. They are even reusable across different repositories! Nick shares some code snippets to allow you to get started with Azure DevOps and your Xamarin apps!",
       "EditionId": "264",
       "Author": "https://twitter.com/thenickrandolph",
+      "Id": "264-3",
       "Category": "DEVOPS"
     },
     {
       "Title": "Code snippets for Xamarin Forms XAML Platform-specifics",
       "Url": "https://damian.fyi/2020/06/19/snippets-platform-specifics/",
-      "Description": "<p>Part of #XamarinMonth</p>\n\n<p>Platform-Specifics is a useful and powerful feature that opens up a whole new experience for users. However sometimes they can be hard to remember. The one I experience most, which is what made this post from Damian catch my eye, is SafeArea on iOS, the little nugget that means your UI isnt ruined by the notch! There are a load of useful snippets in here too!</p>\n\n<p><a href=\"https://damian.fyi/2020/06/19/snippets-platform-specifics/\"><strong>Code snippets for Xamarin Forms XAML Platform-specifics</strong></a> by <a href=\"https://twitter.com/DamianMehers\">Damian Mehers</a></p>",
+      "Description": "Part of #XamarinMonth  Platform-Specifics is a useful and powerful feature that opens up a whole new experience for users. However sometimes they can be hard to remember. The one I experience most, which is what made this post from Damian catch my eye, is SafeArea on iOS, the little nugget that means your UI isnt ruined by the notch! There are a load of useful snippets in here too!",
       "EditionId": "264",
       "Author": "https://twitter.com/damianmehers",
+      "Id": "264-4",
       "Category": "XAMARIN FORMS"
     },
     {
       "Title": "Xamarin Forms Prism Code Snippets",
       "Url": "https://www.xamboy.com/2020/06/17/xamarin-forms-prism-code-snippets/",
-      "Description": "<p>Part of #XamarinMonth</p>\n\n<p>Prism is a popular framework that many developers add to their application. So this entry to the Code Snippet month by Rendy will definitely be very valuable for a lot of people!</p>\n\n<p><a href=\"https://www.xamboy.com/2020/06/17/xamarin-forms-prism-code-snippets/\"><strong>Xamarin Forms Prism Code Snippets</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+      "Description": "Part of #XamarinMonth  Prism is a popular framework that many developers add to their application. So this entry to the Code Snippet month by Rendy will definitely be very valuable for a lot of people!",
       "EditionId": "264",
       "Author": "https://twitter.com/rdelrosario",
+      "Id": "264-5",
       "Category": "XAMARIN FORMS"
     },
     {
       "Title": "Easy Steps to Access Files in Dropbox and Use Them in a Xamarin App",
       "Url": "https://www.syncfusion.com/blogs/post/access-files-in-dropbox-and-use-them-in-xamarin-app.aspx",
-      "Description": "<p>We have often stored and accessed local files on a device but have you ever wanted to know how to use Dropbox in your Xamarin.Forms app? This great post shows you how to get started!</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/access-files-in-dropbox-and-use-them-in-xamarin-app.aspx\"><strong>Easy Steps to Access Files in Dropbox and Use Them in a Xamarin App</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/ramkumarrsyncfusion-com\">Ramkumar Ravy</a></p>",
+      "Description": "We have often stored and accessed local files on a device but have you ever wanted to know how to use Dropbox in your Xamarin.Forms app? This great post shows you how to get started!",
       "EditionId": "264",
       "Author": "https://www.syncfusion.com/blogs/author/ramkumarrsyncfusion-com",
+      "Id": "264-6",
       "Category": "XAMARIN FORMS"
     },
     {
       "Title": "So I took up on TravelMonkey, the Xamarin + Cognitive Services Challenge!",
       "Url": "https://theconfuzedsourcecode.wordpress.com/2020/06/13/so-i-took-up-on-travelmonkey-the-xamarin-cognitive-services-challenge/",
-      "Description": "<p>You may recall the recent Xamarin Challenge, Travel Monkey which helped you learn how to use Cognitive Services! Udara took part in the challenge to add a new feature of your choice and this is a really great write up of his experience!</p>\n\n<p><a href=\"https://theconfuzedsourcecode.wordpress.com/2020/06/13/so-i-took-up-on-travelmonkey-the-xamarin-cognitive-services-challenge/\"><strong>So I took up on TravelMonkey, the Xamarin + Cognitive Services Challenge!</strong></a> by <a href=\"https://twitter.com/Udara_Alwis\">Udara Alwis</a></p>",
+      "Description": "You may recall the recent Xamarin Challenge, Travel Monkey which helped you learn how to use Cognitive Services! Udara took part in the challenge to add a new feature of your choice and this is a really great write up of his experience!",
       "EditionId": "264",
       "Author": "https://twitter.com/udara_alwis",
+      "Id": "264-7",
       "Category": "XAMARIN FORMS"
     },
     {
       "Title": "Create Iconic Text Avatars using skiasharp and xamarin forms",
       "Url": "https://itnext.io/create-iconic-text-avatars-using-skiasharp-and-xamarin-forms-e1334ae263d8",
-      "Description": "<p>Text Avatars are the most elegant alternative to profile pictures in modern design, their usage is not limited only to when the profile picture is missing or not loaded but in some systems and mobile apps, they are used as a full replacement of profile pics.</p>\n\n<p><a href=\"https://itnext.io/create-iconic-text-avatars-using-skiasharp-and-xamarin-forms-e1334ae263d8\"><strong>Create Iconic Text Avatars using skiasharp and xamarin forms</strong></a> by <a href=\"https://twitter.com/MCC_Ahmed\">Ahmed Fouad</a></p>",
+      "Description": "Text Avatars are the most elegant alternative to profile pictures in modern design, their usage is not limited only to when the profile picture is missing or not loaded but in some systems and mobile apps, they are used as a full replacement of profile pics.",
       "EditionId": "264",
       "Author": "https://twitter.com/mcc_ahmed",
+      "Id": "264-8",
       "Category": "XAMARIN FORMS"
     },
     {
       "Title": "Xamarin Magic Code Snippets",
       "Url": "https://medium.com/@benetskyybogdan/xamarin-magic-code-snippets-96b2c142b460",
-      "Description": "<p>Part of #XamarinMonth</p>\n\n<p>I discovered MagicGradients last year, it's a powerful way to do awesome gradients in your application, and it even supports CSS! So I am really excited to see that Bohdan has featured it in this month's code snippets calendar.</p>\n\n<p><a href=\"https://medium.com/@benetskyybogdan/xamarin-magic-code-snippets-96b2c142b460\"><strong>Xamarin Magic Code Snippets</strong></a> by <a href=\"https://twitter.com/bbenetskyy\">Bohdan Benetskyi</a></p>",
+      "Description": "Part of #XamarinMonth  I discovered MagicGradients last year, it's a powerful way to do awesome gradients in your application, and it even supports CSS! So I am really excited to see that Bohdan has featured it in this month's code snippets calendar.",
       "EditionId": "264",
       "Author": "https://twitter.com/bbenetskyy",
+      "Id": "264-9",
       "Category": "XAMARIN FORMS"
     },
     {
       "Title": "Cross-platform Images Simplified with Resizetizer.NT | The Xamarin Show",
       "Url": "https://channel9.msdn.com/Shows/XamarinShow/Cross-platform-Images-Simplified-with-ResizetizerNT--The-Xamarin-Show",
-      "Description": "<p>This week, James is joined by friend of the show and Xamarin Engineer Lead, Jonathan Dick. Are you tired of copying files in and out of different folders? Are you tired of worrying about different image resolutions? Then ResizetizerNT is for you! An amazing library from Jon that enables you to add all of your images into your .NET Standard project and have them resized and added to the correct platform folders and build time! You have to check this awesome library out.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Cross-platform-Images-Simplified-with-ResizetizerNT--The-Xamarin-Show\"><strong>Cross-platform Images Simplified with Resizetizer.NT</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+      "Description": "This week, James is joined by friend of the show and Xamarin Engineer Lead, Jonathan Dick. Are you tired of copying files in and out of different folders? Are you tired of worrying about different image resolutions? Then ResizetizerNT is for you! An amazing library from Jon that enables you to add all of your images into your .NET Standard project and have them resized and added to the correct platform folders and build time! You have to check this awesome library out.",
       "EditionId": "264",
       "Author": "https://channel9.msdn.com/niners/jamesmontemagno",
+      "Id": "264-10",
       "Category": "PODCASTS & VIDEOS"
     },
     {
       "Title": "Null Pointers 5: Open Source Contributions",
       "Url": "https://nullpointers.io/OSS/",
-      "Description": "<p>Ever considered contributing to an Open Source project? In our fifth episode we discuss about contributing to open source projects. We discuss why and how to get started, what different ways there are to contribute and some of the interpersonal pitfalls that can arise when taking part in your open source endeavour.</p>\n\n<p><a href=\"https://nullpointers.io/OSS/\"><strong>Null Pointers 5: Open Source Contributions</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+      "Description": "Ever considered contributing to an Open Source project? In our fifth episode we discuss about contributing to open source projects. We discuss why and how to get started, what different ways there are to contribute and some of the interpersonal pitfalls that can arise when taking part in your open source endeavour.",
       "EditionId": "264",
       "Author": "https://nullpointers.io/",
+      "Id": "264-11",
       "Category": "PODCASTS & VIDEOS"
     },
     {
       "Title": "DevTalk 39: .NET MAUI and the future of Xamarin. With David Ortinau",
       "Url": "https://kerry.lothrop.de/devtalk-39/",
-      "Description": "<p>On episode 39 of DevTalk, Kerry speaks to David Ortinau about the future of Xamarin and .NET MAUI.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-39/\"><strong>DevTalk 39: .NET MAUI and the future of Xamarin. With David Ortinau</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+      "Description": "On episode 39 of DevTalk, Kerry speaks to David Ortinau about the future of Xamarin and .NET MAUI.",
       "EditionId": "264",
       "Author": "https://twitter.com/kwlothrop",
+      "Id": "264-12",
       "Category": "PODCASTS & VIDEOS"
     },
     {
       "Title": "Merge Conflict: 206: IoT Build Status with BuildLight",
       "Url": "https://www.mergeconflict.fm/206",
-      "Description": "<p>Frank is off with another #holidayhack... in June with his BuildLight project!.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/206\"><strong>206: IoT Build Status with BuildLight</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+      "Description": "Frank is off with another #holidayhack... in June with his BuildLight project!.",
       "EditionId": "264",
       "Author": "https://www.mergeconflict.fm/",
+      "Id": "264-13",
       "Category": "PODCASTS & VIDEOS"
     },
     {
       "Title": "The Xamarin Podcast Episode 74: Build 2020 Updates",
       "Url": "https://www.xamarinpodcast.com/74",
-      "Description": "<p>//Build 2020 just happened - remotely!</p>\n\n<p>James and Matt recap all of the great Xamarin announcements - and then you can go out and watch all the sessions.</p>\n\n<p>Plus this episode covers how to build iOS extension while reusing some Xamarin.Forms pages a new Azure + Mobile documentation center and so much more.</p>\n\n<p>And of course, the Azure Service of the Month and Pick of the Pod!</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/74\"><strong>The Xamarin Podcast Episode 74: Build 2020 Updates</strong></a></p>",
+      "Description": "//Build 2020 just happened - remotely! James and Matt recap all of the great Xamarin announcements - and then you can go out and watch all the sessions. Plus this episode covers how to build iOS extension while reusing some Xamarin.Forms pages a new Azure + Mobile documentation center and so much more. And of course, the Azure Service of the Month and Pick of the Pod! [**The Xamarin Podcast Episode 74: Build 2020 Updates**](https://www.xamarinpodcast.com/74)",
       "EditionId": "264",
+      "Id": "264-14",
       "Category": "PODCASTS & VIDEOS"
     },
     {
       "Title": "Try the Latest Xamarin.Forms 4.7 Features Today!",
       "Url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-4-7/",
-      "Description": "<p>Xamarin.Forms 4.7 is out and I couldn't be more excited for this release! It includes a long overdue simplification of rows and columns definitions, shapes and paths (pretty icons incoming) and much more!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-forms-4-7/\"><strong>Try the Latest Xamarin.Forms 4.7 Features Today!</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jacobkirsch/\">Jacob Kirsch</a></p>",
+      "Description": "Xamarin.Forms 4.7 is out and I couldn't be more excited for this release! It includes a long overdue simplification of rows and columns definitions, shapes and paths (pretty icons incoming) and much more!",
       "EditionId": "264",
       "Author": "https://devblogs.microsoft.com/xamarin/author/jacobkirsch/",
+      "Id": "264-15",
       "Category": "RELEASES"
     }
   ]
