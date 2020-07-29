@@ -1,0 +1,566 @@
+{
+  "number": 253,
+  "title": "Issue 253",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/253",
+  "publication_status": "published",
+  "published_at": "2020-04-03T09:29:06+01:00",
+  "updated_at": "2020-04-03T09:29:08+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday,</p>\n\n<p>So April 1st has come and gone but unfortunately the global pandemic wasn't an April Fools joke.  So stay inside and stay safe everyone.</p>\n\n<p>In this weeks issue we have a truck-load of resources, including some great tools, training resources and articles.</p>\n\n<p>Have a great weekend everyone.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Friday,\r\n\r\nSo April 1st has come and gone but unfortunately the global pandemic wasn't an April Fools joke.  So stay inside and stay safe everyone.\r\n\r\nIn this weeks issue we have a truck-load of resources, including some great tools, training resources and articles.\r\n\r\nHave a great weekend everyone.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "9YEySzl",
+          "type": "Link",
+          "title": "",
+          "url_domain": "xablu.com",
+          "url": "https://www.xablu.com/xamarin-forms-training/",
+          "description": "<p><strong>25% Discount on Remote Xamarin.Forms Training in April 2020, book your free intake now!</strong></p>\n\n<p>In order to support remote working, Xablu offers a 25% discount on their Xamarin.Forms training in April 2020! Our trainers have experience with providing remote trainings to teams, and we look forward to helping your team from a distance! Book a free intake with us so we can discuss your training needs.</p>\n\n<p>This training will teach you and your team how to use Xamarin.Forms to build polished, efficient and fully native Android, iOS and Windows apps with Xamarin and C#.</p>",
+          "description_markdown": "**25% Discount on Remote Xamarin.Forms Training in April 2020, book your free intake now!**\r\n\r\nIn order to support remote working, Xablu offers a 25% discount on their Xamarin.Forms training in April 2020! Our trainers have experience with providing remote trainings to teams, and we look forward to helping your team from a distance! Book a free intake with us so we can discuss your training needs.\r\n\r\nThis training will teach you and your team how to use Xamarin.Forms to build polished, efficient and fully native Android, iOS and Windows apps with Xamarin and C#.",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "dd67d141-ee04-486b-b5db-e9fe01430ad4.png",
+          "image_extra_large_filename": "original_ratio_extra_large_dd67d141-ee04-486b-b5db-e9fe01430ad4.png",
+          "image_medium_filename": "original_ratio_medium_dd67d141-ee04-486b-b5db-e9fe01430ad4.png"
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "Nl72qIT",
+          "type": "Link",
+          "title": "Free Pluralsight!",
+          "url_domain": "pluralsight.com",
+          "url": "https://www.pluralsight.com/blog/news/stay-home-skill-up-for-free",
+          "description": "<p>Pluralsight is opening up their entire training library for the month of April.  No credit card required.  So if you are stuck inside it might be a great time to feed your brain and upskill.</p>\n\n<p><a href=\"https://www.pluralsight.com/blog/news/stay-home-skill-up-for-free\"><strong>Stay Home and Skill Up for Free</strong></a> by Aaron Skonnard</p>",
+          "description_markdown": "Pluralsight is opening up their entire training library for the month of April.  No credit card required.  So if you are stuck inside it might be a great time to feed your brain and upskill.\r\n\r\n[**Stay Home and Skill Up for Free**](https://www.pluralsight.com/blog/news/stay-home-skill-up-for-free) by Aaron Skonnard",
+          "embedded_links": [
+            {
+              "identifier": "2l94BDz",
+              "title": "**Stay Home and Skill Up for Free**",
+              "url_domain": "pluralsight.com",
+              "url": "https://www.pluralsight.com/blog/news/stay-home-skill-up-for-free"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "appoftheweek",
+      "name": "APP OF THE WEEK",
+      "items": [
+        {
+          "identifier": "JX07JZL",
+          "type": "Link",
+          "title": "Xamarin App to Track and Manage COVID-19",
+          "url_domain": "mobile-angel.com",
+          "url": "https://mobile-angel.com/2020/03/new-xamarin-application-developed-to-track-and-manage-covid-19-in-real-time/",
+          "description": "<p>It is great to see a Xamarin app stepping up to the challenge of helping with the current pandemic.</p>\n\n<blockquote><p>Volunteers re-engineer cancer treatment software to monitor coronavirus pandemic using Microsoft’s Xamarin mobile framework with Azure.  Mobile Angel has released a new mobile application built on the Xamarin platform to manage potential and at-risk coronavirus patients in real-time.</p></blockquote>\n\n<p><a href=\"https://mobile-angel.com/2020/03/new-xamarin-application-developed-to-track-and-manage-covid-19-in-real-time/\"><strong>New Xamarin Application Developed to Track and Manage COVID-19 in Real-time</strong></a> by <a href=\"https://mobile-angel.com/author/mobile-angel/\">Mobile-Angel</a></p>",
+          "description_markdown": "It is great to see a Xamarin app stepping up to the challenge of helping with the current pandemic.\r\n\r\n> Volunteers re-engineer cancer treatment software to monitor coronavirus pandemic using Microsoft’s Xamarin mobile framework with Azure.  Mobile Angel has released a new mobile application built on the Xamarin platform to manage potential and at-risk coronavirus patients in real-time.\r\n\r\n[**New Xamarin Application Developed to Track and Manage COVID-19 in Real-time**](https://mobile-angel.com/2020/03/new-xamarin-application-developed-to-track-and-manage-covid-19-in-real-time/) by [Mobile-Angel](https://mobile-angel.com/author/mobile-angel/)",
+          "embedded_links": [
+            {
+              "identifier": "mQSHeez",
+              "title": "**New Xamarin Application Developed to Track and Manage COVID-19 in Real-time**",
+              "url_domain": "mobile-angel.com",
+              "url": "https://mobile-angel.com/2020/03/new-xamarin-application-developed-to-track-and-manage-covid-19-in-real-time/"
+            },
+            {
+              "identifier": "yJoYbqH",
+              "title": "Mobile-Angel",
+              "url_domain": "mobile-angel.com",
+              "url": "https://mobile-angel.com/author/mobile-angel/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "MUnknJp",
+          "type": "Link",
+          "title": "What's the Difference between .NET Core, .NET Framework, and Xamarin?",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/difference-between-net-core-net-framework-xamarin",
+          "description": "<p>Naming things is hard. Learn the difference between .NET Core, .NET Framework and Xamarin and which you should use for your application development.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/difference-between-net-core-net-framework-xamarin\"><strong>What's the Difference between .NET Core, .NET Framework, and Xamarin?</strong></a> by <a href=\"https://www.telerik.com/blogs/author/peter-mbanugo\">Peter Mbanugo</a></p>",
+          "description_markdown": "Naming things is hard. Learn the difference between .NET Core, .NET Framework and Xamarin and which you should use for your application development.\r\n\r\n[**What's the Difference between .NET Core, .NET Framework, and Xamarin?**](https://www.telerik.com/blogs/difference-between-net-core-net-framework-xamarin) by [Peter Mbanugo](https://www.telerik.com/blogs/author/peter-mbanugo)",
+          "embedded_links": [
+            {
+              "identifier": "ZOrbAug",
+              "title": "**What's the Difference between .NET Core, .NET Framework, and Xamarin?**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/difference-between-net-core-net-framework-xamarin"
+            },
+            {
+              "identifier": "QgESwKk",
+              "title": "Peter Mbanugo",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/peter-mbanugo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "vmShcY4",
+          "type": "Link",
+          "title": "Interface Design Patterns Checklists",
+          "url_domain": "smashingmagazine.com",
+          "url": "https://www.smashingmagazine.com/2020/03/smart-interface-design-patterns-checklists/",
+          "description": "<p>Smashing Magazine has a nice free PDF Checklist of great Interface guidelines and checklists.</p>\n\n<p><strong>Note: You will need to signup to the newsletter in order to access them</strong> (but it's totally worth it)</p>\n\n<p><a href=\"https://www.smashingmagazine.com/2020/03/smart-interface-design-patterns-checklists/\"><strong>Smart Interface Design Patterns Checklists PDF</strong></a></p>",
+          "description_markdown": "Smashing Magazine has a nice free PDF Checklist of great Interface guidelines and checklists. \r\n\r\n**Note: You will need to signup to the newsletter in order to access them** (but it's totally worth it)\r\n\r\n[**Smart Interface Design Patterns Checklists PDF**](https://www.smashingmagazine.com/2020/03/smart-interface-design-patterns-checklists/)",
+          "embedded_links": [
+            {
+              "identifier": "8N5zVWM",
+              "title": "**Smart Interface Design Patterns Checklists PDF**",
+              "url_domain": "smashingmagazine.com",
+              "url": "https://www.smashingmagazine.com/2020/03/smart-interface-design-patterns-checklists/"
+            }
+          ]
+        },
+        {
+          "identifier": "gqm2MFx",
+          "type": "Link",
+          "title": "Animockup —Free Animated Mockup Maker",
+          "url_domain": "animockup.com",
+          "url": "https://animockup.com/",
+          "description": "<p>With Animockup, you can showcase your product in action within a device mockup. Just drag some screen footage into the browser-based tool, and Animockup automatically places it into your desired mockup. You can add text, images, and adjust the styling, and choose from a selection of presets to optimize your mockup for sharing on Twitter, Dribble, Instagram and the like. A useful little helper.</p>\n\n<p><a href=\"https://animockup.com/\"><strong>Animockup —Free Animated Mockup Maker</strong></a> by <a href=\"\"></a></p>",
+          "description_markdown": "With Animockup, you can showcase your product in action within a device mockup. Just drag some screen footage into the browser-based tool, and Animockup automatically places it into your desired mockup. You can add text, images, and adjust the styling, and choose from a selection of presets to optimize your mockup for sharing on Twitter, Dribble, Instagram and the like. A useful little helper.\r\n\r\n[**Animockup —Free Animated Mockup Maker**](https://animockup.com/) by []()",
+          "embedded_links": [
+            {
+              "identifier": "WRyExNj",
+              "title": "**Animockup —Free Animated Mockup Maker**",
+              "url_domain": "animockup.com",
+              "url": "https://animockup.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "opensource",
+      "name": "OPEN SOURCE",
+      "items": [
+        {
+          "identifier": "eAjyyNE",
+          "type": "Link",
+          "title": "Cross platform xamarin and windows plugins for PCLs",
+          "url_domain": "github.com",
+          "url": "https://github.com/jamesmontemagno/Xamarin.Plugins",
+          "description": "<p>James has updated the readme for the Xamarin.Plugins repo to include a fantastic list of the finest plugins and packages available for us Xamarin devlopers.</p>\n\n<p><a href=\"https://github.com/jamesmontemagno/Xamarin.Plugins\"><strong>Cross platform xamarin and windows plugins for PCLs</strong></a> by James Montemagno</p>",
+          "description_markdown": "James has updated the readme for the Xamarin.Plugins repo to include a fantastic list of the finest plugins and packages available for us Xamarin devlopers.\r\n\r\n[**Cross platform xamarin and windows plugins for PCLs**](https://github.com/jamesmontemagno/Xamarin.Plugins) by James Montemagno",
+          "embedded_links": [
+            {
+              "identifier": "2IOCQPS",
+              "title": "**Cross platform xamarin and windows plugins for PCLs**",
+              "url_domain": "github.com",
+              "url": "https://github.com/jamesmontemagno/Xamarin.Plugins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "IpJYqUl",
+          "type": "Link",
+          "title": "Paste A Class From The Clipboard In Visual Studio Mac",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/easily-add-a-class-from-the-clipboard-in-visual-studio-mac",
+          "description": "<p>MFractor has some new features including the ability to generate a new class file using the contents of the clipboard in Visual Studio Mac. Copy pasta has never been so delicious!</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/easily-add-a-class-from-the-clipboard-in-visual-studio-mac\"><strong>Easily Add A Class From The Clipboard In Visual Studio Mac</strong></a> by Matthew Robbins</p>",
+          "description_markdown": "MFractor has some new features including the ability to generate a new class file using the contents of the clipboard in Visual Studio Mac. Copy pasta has never been so delicious!\r\n\r\n[**Easily Add A Class From The Clipboard In Visual Studio Mac**](https://www.mfractor.com/blogs/news/easily-add-a-class-from-the-clipboard-in-visual-studio-mac) by Matthew Robbins",
+          "embedded_links": [
+            {
+              "identifier": "j8zRACH",
+              "title": "**Easily Add A Class From The Clipboard In Visual Studio Mac**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/easily-add-a-class-from-the-clipboard-in-visual-studio-mac"
+            }
+          ]
+        },
+        {
+          "identifier": "iPCiNwm",
+          "type": "Link",
+          "title": "Surface Duo Emulator",
+          "url_domain": "knzwhalen.com",
+          "url": "https://knzwhalen.com/2020/03/31/2-ways-to-run-surface-duo-emulator/",
+          "description": "<p>Microsoft announced they will be releasing the new Surface Duo in December of 2020. The Duo runs on Android and is one of their dual-screen devices that gives users new ways to interact with their apps. It also introduces new challenges for developers to provide the optimal experience for our users.  This article will help you get started with getting those emulators running</p>\n\n<p><a href=\"https://knzwhalen.com/2020/03/31/2-ways-to-run-surface-duo-emulator/\"><strong>2 Ways to Run Surface Duo Emulator</strong></a> by Kenzie Whalen</p>",
+          "description_markdown": "Microsoft announced they will be releasing the new Surface Duo in December of 2020. The Duo runs on Android and is one of their dual-screen devices that gives users new ways to interact with their apps. It also introduces new challenges for developers to provide the optimal experience for our users.  This article will help you get started with getting those emulators running\r\n\r\n[**2 Ways to Run Surface Duo Emulator**](https://knzwhalen.com/2020/03/31/2-ways-to-run-surface-duo-emulator/) by Kenzie Whalen",
+          "embedded_links": [
+            {
+              "identifier": "o6zzBGl",
+              "title": "**2 Ways to Run Surface Duo Emulator**",
+              "url_domain": "knzwhalen.com",
+              "url": "https://knzwhalen.com/2020/03/31/2-ways-to-run-surface-duo-emulator/"
+            }
+          ]
+        },
+        {
+          "identifier": "jx5KH2o",
+          "type": "Link",
+          "title": "Shared Whiteboarding App ",
+          "url_domain": "excalidraw.com",
+          "url": "https://excalidraw.com",
+          "description": "<p>Not anything to do with Xamarin, but did see this excellent lightweight web based tool for doing collaborative drawing.  Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.</p>\n\n<p><a href=\"https://excalidraw.com\"><strong>Excalidraw</strong></a></p>",
+          "description_markdown": "Not anything to do with Xamarin, but did see this excellent lightweight web based tool for doing collaborative drawing.  Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.\r\n\r\n[**Excalidraw**](https://excalidraw.com)",
+          "embedded_links": [
+            {
+              "identifier": "pQfZdFN",
+              "title": "**Excalidraw**",
+              "url_domain": "excalidraw.com",
+              "url": "https://excalidraw.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "SC4NVVc",
+          "type": "Link",
+          "title": "App size reduction at Microsoft SwiftKey",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/android-microsoft/app-size-reduction-at-microsoft-swiftkey-f77d7d5916b",
+          "description": "<p>This is an interesting article on real world experience reducing the App package size of SwiftKey.</p>\n\n<p><a href=\"https://medium.com/android-microsoft/app-size-reduction-at-microsoft-swiftkey-f77d7d5916b\"><strong>App size reduction at Microsoft SwiftKey</strong></a> by <a href=\"https://medium.com/@swiftkey\">SwiftKey</a></p>",
+          "description_markdown": "This is an interesting article on real world experience reducing the App package size of SwiftKey.\r\n\r\n[**App size reduction at Microsoft SwiftKey**](https://medium.com/android-microsoft/app-size-reduction-at-microsoft-swiftkey-f77d7d5916b) by [SwiftKey](https://medium.com/@swiftkey)",
+          "embedded_links": [
+            {
+              "identifier": "bMb2NNp",
+              "title": "**App size reduction at Microsoft SwiftKey**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/android-microsoft/app-size-reduction-at-microsoft-swiftkey-f77d7d5916b"
+            },
+            {
+              "identifier": "PvAgDp1",
+              "title": "SwiftKey",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@swiftkey"
+            }
+          ]
+        },
+        {
+          "identifier": "4m0OqFD",
+          "type": "Link",
+          "title": "Android Color Picker Library",
+          "url_domain": "ostebaronen.dk",
+          "url": "https://blog.ostebaronen.dk/2020/03/colorpickers.html",
+          "description": "<p>The Cheesebaron has packaged up some nice color pickers into nuget packages for use with Xamarin.Android Applications.</p>\n\n<p><a href=\"https://blog.ostebaronen.dk/2020/03/colorpickers.html\"><strong>Released a Color Picker Library</strong></a> by Tomasz Cielecki</p>",
+          "description_markdown": "The Cheesebaron has packaged up some nice color pickers into nuget packages for use with Xamarin.Android Applications.\r\n\r\n[**Released a Color Picker Library**](https://blog.ostebaronen.dk/2020/03/colorpickers.html) by Tomasz Cielecki",
+          "embedded_links": [
+            {
+              "identifier": "xTBVgKT",
+              "title": "**Released a Color Picker Library**",
+              "url_domain": "ostebaronen.dk",
+              "url": "https://blog.ostebaronen.dk/2020/03/colorpickers.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "P5s4vPW",
+          "type": "Link",
+          "title": "Image Classification with TensorFlow Lite & Azure Services",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/image-classification-xamarin-android/",
+          "description": "<p>Image Classification allows our Xamarin apps to recognize objects in a photo. Being able to take a photo and recognize its contents is becoming more and more common. We experience it in our banking apps when making a mobile deposit, in our photo apps when adding filters, and in our HotDog apps to determine whether or not our meal is a hotdog. #hotdogornot</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/image-classification-xamarin-android/\"><strong>Image Classification with TensorFlow Lite &amp; Azure Services : Xamarin Blog</strong></a> by <a href=\"\"></a></p>",
+          "description_markdown": "Image Classification allows our Xamarin apps to recognize objects in a photo. Being able to take a photo and recognize its contents is becoming more and more common. We experience it in our banking apps when making a mobile deposit, in our photo apps when adding filters, and in our HotDog apps to determine whether or not our meal is a hotdog. #hotdogornot\r\n\r\n[**Image Classification with TensorFlow Lite & Azure Services : Xamarin Blog**](https://devblogs.microsoft.com/xamarin/image-classification-xamarin-android/) by []()",
+          "embedded_links": [
+            {
+              "identifier": "gNrX8Lc",
+              "title": "**Image Classification with TensorFlow Lite & Azure Services : Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/image-classification-xamarin-android/"
+            }
+          ]
+        },
+        {
+          "identifier": "ICO0lda",
+          "type": "Link",
+          "title": "Databinding Scope in Xamarin.Forms",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/databinding-scope-in-xamarin-forms/",
+          "description": "<p>Gerald has a post that tackles a common problem people have with scope in databinding in relation to commands and ListView Items.</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/xamarin-forms-xamarin/databinding-scope-in-xamarin-forms/\"><strong>Databinding Scope in Xamarin.Forms</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald</a></p>",
+          "description_markdown": "Gerald has a post that tackles a common problem people have with scope in databinding in relation to commands and ListView Items.\r\n\r\n[**Databinding Scope in Xamarin.Forms**](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/databinding-scope-in-xamarin-forms/) by [Gerald](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "KewIq3Q",
+              "title": "**Databinding Scope in Xamarin.Forms**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/databinding-scope-in-xamarin-forms/"
+            },
+            {
+              "identifier": "GImYl8r",
+              "title": "Gerald",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "7w230i0",
+          "type": "Link",
+          "title": "Learning About Material Design in Xamarin Forms",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/learning-about-material-design-in-xamarin-forms",
+          "description": "<p>Wondering how to achieve the same look for your Xamarin Forms application on both Android and iOS? Learn how to implement Material Design in your Xamarin Forms apps and make this easy.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/learning-about-material-design-in-xamarin-forms\"><strong>Learning About Material Design in Xamarin Forms</strong></a> by <a href=\"https://www.telerik.com/blogs/author/leomaris-reyes\">Leomaris Reyes</a></p>",
+          "description_markdown": "Wondering how to achieve the same look for your Xamarin Forms application on both Android and iOS? Learn how to implement Material Design in your Xamarin Forms apps and make this easy.\r\n\r\n[**Learning About Material Design in Xamarin Forms**](https://www.telerik.com/blogs/learning-about-material-design-in-xamarin-forms) by [Leomaris Reyes](https://www.telerik.com/blogs/author/leomaris-reyes)",
+          "embedded_links": [
+            {
+              "identifier": "2RKZA57",
+              "title": "**Learning About Material Design in Xamarin Forms**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/learning-about-material-design-in-xamarin-forms"
+            },
+            {
+              "identifier": "mIxTIEr",
+              "title": "Leomaris Reyes",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/leomaris-reyes"
+            }
+          ]
+        },
+        {
+          "identifier": "26dcGKs",
+          "type": "Link",
+          "title": "Replicating Exotic Fruits App",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-exotic-fruits-app-in-xamarin-forms/",
+          "description": "<p>Leomaris is back with another Xamarin UI Challenge, this time with a great looking Fruit app.</p>\n\n<p><a href=\"https://askxammy.com/replicating-exotic-fruits-app-in-xamarin-forms/\"><strong>Replicating Exotic Fruits App in Xamarin Forms</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris is back with another Xamarin UI Challenge, this time with a great looking Fruit app.\r\n\r\n[**Replicating Exotic Fruits App in Xamarin Forms**](https://askxammy.com/replicating-exotic-fruits-app-in-xamarin-forms/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "xZe0WYJ",
+              "title": "**Replicating Exotic Fruits App in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-exotic-fruits-app-in-xamarin-forms/"
+            },
+            {
+              "identifier": "KZ4vrjl",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "security",
+      "name": "SECURITY",
+      "items": [
+        {
+          "identifier": "otCABgF",
+          "type": "Link",
+          "title": "Social Authentication with Xamarin.Essentials and ASP.NET Core",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/authentication-xamarin-essentials-aspnet/",
+          "description": "<p>Many apps require adding user authentication. This often means enabling users to sign into existing Microsoft, Facebook, Google, and (now) Apple Sign-In accounts. Microsoft Authentication Library (MSAL) provides an excellent turn-key solution to adding authentication to your app.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/authentication-xamarin-essentials-aspnet/\"><strong>Social Authentication with Xamarin.Essentials and ASP.NET Core</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/redth/\">Jon Dick</a></p>",
+          "description_markdown": "Many apps require adding user authentication. This often means enabling users to sign into existing Microsoft, Facebook, Google, and (now) Apple Sign-In accounts. Microsoft Authentication Library (MSAL) provides an excellent turn-key solution to adding authentication to your app.\r\n\r\n[**Social Authentication with Xamarin.Essentials and ASP.NET Core**](https://devblogs.microsoft.com/xamarin/authentication-xamarin-essentials-aspnet/) by [Jon Dick](https://devblogs.microsoft.com/xamarin/author/redth/)",
+          "embedded_links": [
+            {
+              "identifier": "Ypy3yIb",
+              "title": "**Social Authentication with Xamarin.Essentials and ASP.NET Core**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/authentication-xamarin-essentials-aspnet/"
+            },
+            {
+              "identifier": "OCP8n5b",
+              "title": "Jon Dick",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/redth/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "meetups",
+      "name": "MEETUPS",
+      "items": [
+        {
+          "identifier": "POHB0hB",
+          "type": "Link",
+          "title": "Virtual Xamarin and .NET Events in April",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/virtual-xamarin-events-april/",
+          "description": "<p>Just because we are all locked in our houses, doesn't mean that we can't connect up.  Here is a great list of events happening online this month.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/virtual-xamarin-events-april/\"><strong>Virtual Xamarin and .NET Events in April</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "Just because we are all locked in our houses, doesn't mean that we can't connect up.  Here is a great list of events happening online this month. \r\n\r\n[**Virtual Xamarin and .NET Events in April**](https://devblogs.microsoft.com/xamarin/virtual-xamarin-events-april/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "oeWgeza",
+              "title": "**Virtual Xamarin and .NET Events in April**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/virtual-xamarin-events-april/"
+            },
+            {
+              "identifier": "rtBnDL8",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "nuget",
+      "name": "NUGET OF THE WEEK",
+      "items": [
+        {
+          "identifier": "xojS29P",
+          "type": "Link",
+          "title": "TinySvgHelper",
+          "url_domain": "danielhindrikes.se",
+          "url": "https://danielhindrikes.se/index.php/2020/03/31/introducing-tinysvghelper/",
+          "description": "<p>Daniel Hindrikes has packaged up some useful helper code for working with SVGs in Xamarin.Forms.</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2020/03/31/introducing-tinysvghelper/\"><strong>Introducing TinySvgHelper</strong></a> by <a href=\"https://danielhindrikes.se/index.php/author/dhindrik/\">dhindrik</a></p>",
+          "description_markdown": "Daniel Hindrikes has packaged up some useful helper code for working with SVGs in Xamarin.Forms. \r\n \r\n[**Introducing TinySvgHelper**](https://danielhindrikes.se/index.php/2020/03/31/introducing-tinysvghelper/) by [dhindrik](https://danielhindrikes.se/index.php/author/dhindrik/)",
+          "embedded_links": [
+            {
+              "identifier": "kH9io9H",
+              "title": "**Introducing TinySvgHelper**",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/2020/03/31/introducing-tinysvghelper/"
+            },
+            {
+              "identifier": "ILbRyeC",
+              "title": "dhindrik",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/author/dhindrik/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "CR9l3jL",
+          "type": "Link",
+          "title": "Theme Detection (Xamarin.Essentials API of the Week)",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Theme-Detection-XamarinEssentials-API-of-the-Week",
+          "description": "<p>On this week's Xamarin.Essential API of the week we take a look at the App Theme API that enables developers to detect if the device and app should be running in dark mode.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Theme-Detection-XamarinEssentials-API-of-the-Week\"><strong>Theme Detection (Xamarin.Essentials API of the Week)</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "On this week's Xamarin.Essential API of the week we take a look at the App Theme API that enables developers to detect if the device and app should be running in dark mode.\r\n\r\n[**Theme Detection (Xamarin.Essentials API of the Week)**](https://channel9.msdn.com/Shows/XamarinShow/Theme-Detection-XamarinEssentials-API-of-the-Week) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "VGx6vrV",
+              "title": "**Theme Detection (Xamarin.Essentials API of the Week)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Theme-Detection-XamarinEssentials-API-of-the-Week"
+            },
+            {
+              "identifier": "zEUkGBd",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "Vps4CdF",
+          "type": "Link",
+          "title": "EliteKit - Awesome Xamarin.Forms Controls ",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/eliteKit-Awesome-XamarinForms-Controls--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by friend of the show Dominik Ganic, founder &amp; creator of eliteKit, who shows off what the amazing team at eliteKit has been up to for Xamarin developers. He shows off everything that eliteKit has for Xamarin.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/eliteKit-Awesome-XamarinForms-Controls--The-Xamarin-Show\"><strong>eliteKit - Awesome Xamarin.Forms Controls | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by friend of the show Dominik Ganic, founder & creator of eliteKit, who shows off what the amazing team at eliteKit has been up to for Xamarin developers. He shows off everything that eliteKit has for Xamarin.\r\n\r\n[**eliteKit - Awesome Xamarin.Forms Controls | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/eliteKit-Awesome-XamarinForms-Controls--The-Xamarin-Show) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "wV06rx2",
+              "title": "**eliteKit - Awesome Xamarin.Forms Controls | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/eliteKit-Awesome-XamarinForms-Controls--The-Xamarin-Show"
+            },
+            {
+              "identifier": "uEe88lJ",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "H45EBT9",
+          "type": "Link",
+          "title": "Merge Conflict 195: The Hanselman Machine Learning Model",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/195",
+          "description": "<p>We dive back into machine learning with more automagical ML. James tries to pull off some sentiment analysis for his app and we discuss a few options.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/195\"><strong>195: The Hanselman Machine Learning Model</strong></a></p>",
+          "description_markdown": "We dive back into machine learning with more automagical ML. James tries to pull off some sentiment analysis for his app and we discuss a few options.\r\n\r\n[**195: The Hanselman Machine Learning Model**](https://www.mergeconflict.fm/195)",
+          "embedded_links": [
+            {
+              "identifier": "6iakM5F",
+              "title": "**195: The Hanselman Machine Learning Model**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "U1LRTWN",
+          "type": "Link",
+          "title": "Syncfusion Essential Studio 2020 Volume 1 is Here!",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/syncfusion-essential-studio-2020-volume-1-is-here.aspx",
+          "description": "<p>Syncfusion is glad to announce the Essential Studio 2020 Volume 1 release. We have introduced some new components and enhanced various other components by adding new features. Also, several bug fixes are included for this release.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/syncfusion-essential-studio-2020-volume-1-is-here.aspx\"><strong>Syncfusion Essential Studio 2020 Volume 1 is Here!</strong></a></p>",
+          "description_markdown": "Syncfusion is glad to announce the Essential Studio 2020 Volume 1 release. We have introduced some new components and enhanced various other components by adding new features. Also, several bug fixes are included for this release.\r\n\r\n[**Syncfusion Essential Studio 2020 Volume 1 is Here!**](https://www.syncfusion.com/blogs/post/syncfusion-essential-studio-2020-volume-1-is-here.aspx)",
+          "embedded_links": [
+            {
+              "identifier": "KzC0jZn",
+              "title": "**Syncfusion Essential Studio 2020 Volume 1 is Here!**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/syncfusion-essential-studio-2020-volume-1-is-here.aspx"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

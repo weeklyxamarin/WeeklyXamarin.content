@@ -727,6 +727,16 @@
       ]
     },
     {
+      "Name": "Mobile-Angel",
+      "Id": "https://mobile-angel.com/author/mobile-angel/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://mobile-angel.com/author/mobile-angel/"
+        }
+      ]
+    },
+    {
       "Name": "Nat Friedman",
       "Id": "https://github.com/nat",
       "Aliases": [
@@ -791,6 +801,16 @@
         {
           "Type": "blog",
           "Name": "https://www.telerik.com/blogs/author/pavel-pavlov"
+        }
+      ]
+    },
+    {
+      "Name": "Peter Mbanugo",
+      "Id": "https://www.telerik.com/blogs/author/peter-mbanugo",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.telerik.com/blogs/author/peter-mbanugo"
         }
       ]
     },
@@ -969,6 +989,16 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/msftimagine"
+        }
+      ]
+    },
+    {
+      "Name": "SwiftKey",
+      "Id": "https://medium.com/@swiftkey",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@swiftkey"
         }
       ]
     },

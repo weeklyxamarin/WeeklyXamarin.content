@@ -1,0 +1,198 @@
+{
+  "Id": "253",
+  "Name": "Issue 253",
+  "UpdatedTimeStamp": "2020-04-03T08:29:08Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Happy Friday, So April 1st has come and gone but unfortunately the global pandemic wasn't an April Fools joke.  So stay inside and stay safe everyone. In this weeks issue we have a truck-load of resources, including some great tools, training resources and articles. Have a great weekend everyone. ❤ Kym",
+  "PublishDate": "2020-04-03T08:29:06Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Free Pluralsight!",
+      "Url": "https://www.pluralsight.com/blog/news/stay-home-skill-up-for-free",
+      "Description": "Pluralsight is opening up their entire training library for the month of April.  No credit card required.  So if you are stuck inside it might be a great time to feed your brain and upskill. [**Stay Home and Skill Up for Free**](https://www.pluralsight.com/blog/news/stay-home-skill-up-for-free) by Aaron Skonnard",
+      "EditionId": "253",
+      "Id": "253-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Xamarin App to Track and Manage COVID-19",
+      "Url": "https://mobile-angel.com/2020/03/new-xamarin-application-developed-to-track-and-manage-covid-19-in-real-time/",
+      "Description": "It is great to see a Xamarin app stepping up to the challenge of helping with the current pandemic. > Volunteers re-engineer cancer treatment software to monitor coronavirus pandemic using Microsoft’s Xamarin mobile framework with Azure.  Mobile Angel has released a new mobile application built on the Xamarin platform to manage potential and at-risk coronavirus patients in real-time.",
+      "EditionId": "253",
+      "Author": "Mobile-Angel",
+      "Id": "253-2",
+      "Category": "APP OF THE WEEK"
+    },
+    {
+      "Title": "What's the Difference between .NET Core, .NET Framework, and Xamarin?",
+      "Url": "https://www.telerik.com/blogs/difference-between-net-core-net-framework-xamarin",
+      "Description": "Naming things is hard. Learn the difference between .NET Core, .NET Framework and Xamarin and which you should use for your application development.",
+      "EditionId": "253",
+      "Author": "Peter Mbanugo",
+      "Id": "253-3",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Interface Design Patterns Checklists",
+      "Url": "https://www.smashingmagazine.com/2020/03/smart-interface-design-patterns-checklists/",
+      "Description": "Smashing Magazine has a nice free PDF Checklist of great Interface guidelines and checklists.  **Note: You will need to signup to the newsletter in order to access them** (but it's totally worth it) [**Smart Interface Design Patterns Checklists PDF**](https://www.smashingmagazine.com/2020/03/smart-interface-design-patterns-checklists/)",
+      "EditionId": "253",
+      "Id": "253-4",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Animockup —Free Animated Mockup Maker",
+      "Url": "https://animockup.com/",
+      "Description": "With Animockup, you can showcase your product in action within a device mockup. Just drag some screen footage into the browser-based tool, and Animockup automatically places it into your desired mockup. You can add text, images, and adjust the styling, and choose from a selection of presets to optimize your mockup for sharing on Twitter, Dribble, Instagram and the like. A useful little helper.",
+      "EditionId": "253",
+      "Id": "253-5",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Cross platform xamarin and windows plugins for PCLs",
+      "Url": "https://github.com/jamesmontemagno/Xamarin.Plugins",
+      "Description": "James has updated the readme for the Xamarin.Plugins repo to include a fantastic list of the finest plugins and packages available for us Xamarin devlopers. [**Cross platform xamarin and windows plugins for PCLs**](https://github.com/jamesmontemagno/Xamarin.Plugins) by James Montemagno",
+      "EditionId": "253",
+      "Id": "253-6",
+      "Category": "OPEN SOURCE"
+    },
+    {
+      "Title": "Paste A Class From The Clipboard In Visual Studio Mac",
+      "Url": "https://www.mfractor.com/blogs/news/easily-add-a-class-from-the-clipboard-in-visual-studio-mac",
+      "Description": "MFractor has some new features including the ability to generate a new class file using the contents of the clipboard in Visual Studio Mac. Copy pasta has never been so delicious! [**Easily Add A Class From The Clipboard In Visual Studio Mac**](https://www.mfractor.com/blogs/news/easily-add-a-class-from-the-clipboard-in-visual-studio-mac) by Matthew Robbins",
+      "EditionId": "253",
+      "Id": "253-7",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Surface Duo Emulator",
+      "Url": "https://knzwhalen.com/2020/03/31/2-ways-to-run-surface-duo-emulator/",
+      "Description": "Microsoft announced they will be releasing the new Surface Duo in December of 2020. The Duo runs on Android and is one of their dual-screen devices that gives users new ways to interact with their apps. It also introduces new challenges for developers to provide the optimal experience for our users.  This article will help you get started with getting those emulators running [**2 Ways to Run Surface Duo Emulator**](https://knzwhalen.com/2020/03/31/2-ways-to-run-surface-duo-emulator/) by Kenzie Whalen",
+      "EditionId": "253",
+      "Id": "253-8",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Shared Whiteboarding App ",
+      "Url": "https://excalidraw.com/",
+      "Description": "Not anything to do with Xamarin, but did see this excellent lightweight web based tool for doing collaborative drawing.  Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them. [**Excalidraw**](https://excalidraw.com)",
+      "EditionId": "253",
+      "Id": "253-9",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "App size reduction at Microsoft SwiftKey",
+      "Url": "https://medium.com/android-microsoft/app-size-reduction-at-microsoft-swiftkey-f77d7d5916b",
+      "Description": "This is an interesting article on real world experience reducing the App package size of SwiftKey.",
+      "EditionId": "253",
+      "Author": "SwiftKey",
+      "Id": "253-10",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Android Color Picker Library",
+      "Url": "https://blog.ostebaronen.dk/2020/03/colorpickers.html",
+      "Description": "The Cheesebaron has packaged up some nice color pickers into nuget packages for use with Xamarin.Android Applications. [**Released a Color Picker Library**](https://blog.ostebaronen.dk/2020/03/colorpickers.html) by Tomasz Cielecki",
+      "EditionId": "253",
+      "Id": "253-11",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Image Classification with TensorFlow Lite & Azure Services",
+      "Url": "https://devblogs.microsoft.com/xamarin/image-classification-xamarin-android/",
+      "Description": "Image Classification allows our Xamarin apps to recognize objects in a photo. Being able to take a photo and recognize its contents is becoming more and more common. We experience it in our banking apps when making a mobile deposit, in our photo apps when adding filters, and in our HotDog apps to determine whether or not our meal is a hotdog. #hotdogornot",
+      "EditionId": "253",
+      "Id": "253-12",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Databinding Scope in Xamarin.Forms",
+      "Url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/databinding-scope-in-xamarin-forms/",
+      "Description": "Gerald has a post that tackles a common problem people have with scope in databinding in relation to commands and ListView Items.",
+      "EditionId": "253",
+      "Author": "Gerald Versluis",
+      "Id": "253-13",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Learning About Material Design in Xamarin Forms",
+      "Url": "https://www.telerik.com/blogs/learning-about-material-design-in-xamarin-forms",
+      "Description": "Wondering how to achieve the same look for your Xamarin Forms application on both Android and iOS? Learn how to implement Material Design in your Xamarin Forms apps and make this easy.",
+      "EditionId": "253",
+      "Author": "Leomaris Reyes",
+      "Id": "253-14",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Replicating Exotic Fruits App",
+      "Url": "https://askxammy.com/replicating-exotic-fruits-app-in-xamarin-forms/",
+      "Description": "Leomaris is back with another Xamarin UI Challenge, this time with a great looking Fruit app.",
+      "EditionId": "253",
+      "Author": "Leomaris Reyes",
+      "Id": "253-15",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Social Authentication with Xamarin.Essentials and ASP.NET Core",
+      "Url": "https://devblogs.microsoft.com/xamarin/authentication-xamarin-essentials-aspnet/",
+      "Description": "Many apps require adding user authentication. This often means enabling users to sign into existing Microsoft, Facebook, Google, and (now) Apple Sign-In accounts. Microsoft Authentication Library (MSAL) provides an excellent turn-key solution to adding authentication to your app.",
+      "EditionId": "253",
+      "Author": "Jon Dick",
+      "Id": "253-16",
+      "Category": "SECURITY"
+    },
+    {
+      "Title": "Virtual Xamarin and .NET Events in April",
+      "Url": "https://devblogs.microsoft.com/xamarin/virtual-xamarin-events-april/",
+      "Description": "Just because we are all locked in our houses, doesn't mean that we can't connect up.  Here is a great list of events happening online this month.",
+      "EditionId": "253",
+      "Author": "James Montemagno",
+      "Id": "253-17",
+      "Category": "MEETUPS"
+    },
+    {
+      "Title": "TinySvgHelper",
+      "Url": "https://danielhindrikes.se/index.php/2020/03/31/introducing-tinysvghelper/",
+      "Description": "Daniel Hindrikes has packaged up some useful helper code for working with SVGs in Xamarin.Forms.",
+      "EditionId": "253",
+      "Author": "Daniel Hindrikes",
+      "Id": "253-18",
+      "Category": "NUGET OF THE WEEK"
+    },
+    {
+      "Title": "Theme Detection (Xamarin.Essentials API of the Week)",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Theme-Detection-XamarinEssentials-API-of-the-Week",
+      "Description": "On this week's Xamarin.Essential API of the week we take a look at the App Theme API that enables developers to detect if the device and app should be running in dark mode.",
+      "EditionId": "253",
+      "Author": "James Montemagno",
+      "Id": "253-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "EliteKit - Awesome Xamarin.Forms Controls ",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/eliteKit-Awesome-XamarinForms-Controls--The-Xamarin-Show",
+      "Description": "This week, James is joined by friend of the show Dominik Ganic, founder & creator of eliteKit, who shows off what the amazing team at eliteKit has been up to for Xamarin developers. He shows off everything that eliteKit has for Xamarin.",
+      "EditionId": "253",
+      "Author": "James Montemagno",
+      "Id": "253-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 195: The Hanselman Machine Learning Model",
+      "Url": "https://www.mergeconflict.fm/195",
+      "Description": "We dive back into machine learning with more automagical ML. James tries to pull off some sentiment analysis for his app and we discuss a few options. [**195: The Hanselman Machine Learning Model**](https://www.mergeconflict.fm/195)",
+      "EditionId": "253",
+      "Id": "253-21",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Syncfusion Essential Studio 2020 Volume 1 is Here!",
+      "Url": "https://www.syncfusion.com/blogs/post/syncfusion-essential-studio-2020-volume-1-is-here.aspx",
+      "Description": "Syncfusion is glad to announce the Essential Studio 2020 Volume 1 release. We have introduced some new components and enhanced various other components by adding new features. Also, several bug fixes are included for this release. [**Syncfusion Essential Studio 2020 Volume 1 is Here!**](https://www.syncfusion.com/blogs/post/syncfusion-essential-studio-2020-volume-1-is-here.aspx)",
+      "EditionId": "253",
+      "Id": "253-22",
+      "Category": "RELEASES"
+    }
+  ]
+}
