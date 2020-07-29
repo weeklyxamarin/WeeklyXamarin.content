@@ -1,0 +1,506 @@
+{
+  "number": 266,
+  "title": "Issue 266",
+  "summary": "This month there we have posts on Xamarin.Forms Shapes, UI Designs and Snippets to name just a few things.",
+  "url": "http://weeklyxamarin.com/issues/266",
+  "publication_status": "published",
+  "published_at": "2020-07-04T03:30:11+01:00",
+  "updated_at": "2020-07-04T03:30:16+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Wow, we are already half way through the year.  Where does the time go.  This month we have some great posts on the new Shapes feature, more WWDC reviews and great Xamarin.Forms posts.</p>",
+          "description_markdown": "Wow, we are already half way through the year.  Where does the time go.  This month we have some great posts on the new Shapes feature, more WWDC reviews and great Xamarin.Forms posts.",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "T72sgot",
+          "type": "Link",
+          "title": "Virtual Events for Xamarin and .NET in July",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/virtual-events-july/",
+          "description": "<p>With life gone virtual, there are tons of new ways to take your development skills to the next level! Here are just a few of the amazing online events, streams, and videos to tune into this July.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/virtual-events-july/\"><strong>Virtual Events for Xamarin and .NET in July : Xamarin Blog</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jaymesingleton/\">Jayme Singleton</a></p>",
+          "description_markdown": "With life gone virtual, there are tons of new ways to take your development skills to the next level! Here are just a few of the amazing online events, streams, and videos to tune into this July.\r\n\r\n[**Virtual Events for Xamarin and .NET in July : Xamarin Blog**](https://devblogs.microsoft.com/xamarin/virtual-events-july/) by [Jayme Singleton](https://devblogs.microsoft.com/xamarin/author/jaymesingleton/)",
+          "embedded_links": [
+            {
+              "identifier": "WuvHZmQ",
+              "title": "**Virtual Events for Xamarin and .NET in July : Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/virtual-events-july/"
+            },
+            {
+              "identifier": "lTzndn0",
+              "title": "Jayme Singleton",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jaymesingleton/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "Mhl2EKc",
+          "type": "Link",
+          "title": "Skeuomorphic comeback?",
+          "url_domain": "applypixels.com",
+          "url": "https://applypixels.com/blog/comeback",
+          "description": "<p>Will the new Apple Human Interface Guidelines bring back a resurgence in skeuomorphic design? I for one can't wait to get back my leather-bound notepad application icons.</p>\n\n<p><a href=\"https://applypixels.com/blog/comeback\"><strong>The Comeback of Fun in Visual Design</strong></a> by <a href=\"https://twitter.com/flarup/\">Michael Flarup</a></p>",
+          "description_markdown": "Will the new Apple Human Interface Guidelines bring back a resurgence in skeuomorphic design? I for one can't wait to get back my leather-bound notepad application icons.\r\n\r\n[**The Comeback of Fun in Visual Design**](https://applypixels.com/blog/comeback) by [Michael Flarup](https://twitter.com/flarup/)",
+          "embedded_links": [
+            {
+              "identifier": "cip22So",
+              "title": "**The Comeback of Fun in Visual Design**",
+              "url_domain": "applypixels.com",
+              "url": "https://applypixels.com/blog/comeback"
+            },
+            {
+              "identifier": "GsrfTQ1",
+              "title": "Michael Flarup",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/flarup/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "anayltics",
+      "name": "ANAYLTICS",
+      "items": [
+        {
+          "identifier": "S9TsvS7",
+          "type": "Link",
+          "title": "Code Snippets for App Center Analytics",
+          "url_domain": "wordpress.com",
+          "url": "https://codesandchips.wordpress.com/2020/06/26/xamarin-month-code-snippets-for-app-center-analytics/",
+          "description": "<p>If you use App Center then you'll appreciate these code snippets provided by Kirk.</p>\n\n<p><a href=\"https://codesandchips.wordpress.com/2020/06/26/xamarin-month-code-snippets-for-app-center-analytics/\"><strong>Xamarin Month: Code Snippets for App Center Analytics</strong></a> by <a href=\"https://codesandchips.wordpress.com/author/kirtoy/\">Kirk</a></p>",
+          "description_markdown": "If you use App Center then you'll appreciate these code snippets provided by Kirk.\r\n\r\n[**Xamarin Month: Code Snippets for App Center Analytics**](https://codesandchips.wordpress.com/2020/06/26/xamarin-month-code-snippets-for-app-center-analytics/) by [Kirk](https://codesandchips.wordpress.com/author/kirtoy/)",
+          "embedded_links": [
+            {
+              "identifier": "H8Lj9kG",
+              "title": "**Xamarin Month: Code Snippets for App Center Analytics**",
+              "url_domain": "wordpress.com",
+              "url": "https://codesandchips.wordpress.com/2020/06/26/xamarin-month-code-snippets-for-app-center-analytics/"
+            },
+            {
+              "identifier": "GaRqtgx",
+              "title": "Kirk",
+              "url_domain": "wordpress.com",
+              "url": "https://codesandchips.wordpress.com/author/kirtoy/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "ruj1lta",
+          "type": "Link",
+          "title": "Simplifying Grids In Xamarin.Forms",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/simplifying-grids-in-xamarin-forms",
+          "description": "<p>Grids have a delightful new syntax available in Xamarin.Forms 4.7 and it's also supported by everyones favorite Xamarin.Forms extension mFractor.</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/simplifying-grids-in-xamarin-forms\"><strong>Simplifying Grids In Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/matthewrdev\">Matthew Robbins</a></p>",
+          "description_markdown": "Grids have a delightful new syntax available in Xamarin.Forms 4.7 and it's also supported by everyones favorite Xamarin.Forms extension mFractor.\r\n\r\n[**Simplifying Grids In Xamarin.Forms**](https://www.mfractor.com/blogs/news/simplifying-grids-in-xamarin-forms) by [Matthew Robbins](https://twitter.com/matthewrdev)",
+          "embedded_links": [
+            {
+              "identifier": "n0B2BQB",
+              "title": "**Simplifying Grids In Xamarin.Forms**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/simplifying-grids-in-xamarin-forms"
+            },
+            {
+              "identifier": "G1va7vG",
+              "title": "Matthew Robbins",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/matthewrdev"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "xoGqc4n",
+          "type": "Link",
+          "title": "WWDC 2020 Viewing Guide",
+          "url_domain": "useyourloaf.com",
+          "url": "https://useyourloaf.com/blog/wwdc-2020-viewing-guide/",
+          "description": "<p>If you are looking for a summary of the best sessions to watch from WWDC2020, then look no further. Keith Harrison gives you his recommendations.</p>\n\n<p><a href=\"https://useyourloaf.com/blog/wwdc-2020-viewing-guide/\"><strong>WWDC 2020 Viewing Guide</strong></a> by <a href=\"https://twitter.com/kharrison\">Keith Harrison</a></p>",
+          "description_markdown": "If you are looking for a summary of the best sessions to watch from WWDC2020, then look no further. Keith Harrison gives you his recommendations.\r\n\r\n[**WWDC 2020 Viewing Guide**](https://useyourloaf.com/blog/wwdc-2020-viewing-guide/) by [Keith Harrison](https://twitter.com/kharrison)",
+          "embedded_links": [
+            {
+              "identifier": "oymJW0K",
+              "title": "**WWDC 2020 Viewing Guide**",
+              "url_domain": "useyourloaf.com",
+              "url": "https://useyourloaf.com/blog/wwdc-2020-viewing-guide/"
+            },
+            {
+              "identifier": "xGyeF64",
+              "title": "Keith Harrison",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kharrison"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "u3DiSpW",
+          "type": "Link",
+          "title": "Tips and tricks working with Shapes",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2020/06/30/xamarin-forms-tips-and-tricks-working-with-shapes/",
+          "description": "<p>Javier shares some tips and tricks with working with the new Shapes in Xamarin.Forms 4.7.  More specifically he provides some tools you can use to visually design shapes.</p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2020/06/30/xamarin-forms-tips-and-tricks-working-with-shapes/\"><strong>[Xamarin.Forms] Tips and tricks working with Shapes</strong></a> by <a href=\"https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/\">Javier Suárez Ruiz</a></p>",
+          "description_markdown": "Javier shares some tips and tricks with working with the new Shapes in Xamarin.Forms 4.7.  More specifically he provides some tools you can use to visually design shapes.  \r\n\r\n[**[Xamarin.Forms] Tips and tricks working with Shapes**](https://javiersuarezruiz.wordpress.com/2020/06/30/xamarin-forms-tips-and-tricks-working-with-shapes/) by [Javier Suárez Ruiz](https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/)",
+          "embedded_links": [
+            {
+              "identifier": "9hxLr7B",
+              "title": "Xamarin.Forms] Tips and tricks working with Shapes**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2020/06/30/xamarin-forms-tips-and-tricks-working-with-shapes/"
+            },
+            {
+              "identifier": "aCYZA3a",
+              "title": "Javier Suárez Ruiz",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/"
+            }
+          ]
+        },
+        {
+          "identifier": "KtKgD5J",
+          "type": "Link",
+          "title": "Xamarin.Forms UI Challenges - Pizza Shop",
+          "url_domain": "kymphillpotts.com",
+          "url": "https://kymphillpotts.com/pizza-shop.html",
+          "description": "<p>Pizza is like the entire food pyramid. And this Xamarin UI Challenge, like our friend the pizza, has lots of delicious ingredients including animations, transitions, custom buttons, fonts and a sprinkle of SkiaSharp. Nom Nom.</p>\n\n<p><a href=\"https://kymphillpotts.com/pizza-shop.html\"><strong>Xamarin.Forms UI Challenges - Pizza Shop</strong></a> by <a href=\"https://kymphillpotts.com/author/kphillpotts\">Kym Phillpotts</a></p>",
+          "description_markdown": "Pizza is like the entire food pyramid. And this Xamarin UI Challenge, like our friend the pizza, has lots of delicious ingredients including animations, transitions, custom buttons, fonts and a sprinkle of SkiaSharp. Nom Nom.\r\n\r\n[**Xamarin.Forms UI Challenges - Pizza Shop**](https://kymphillpotts.com/pizza-shop.html) by [Kym Phillpotts](https://kymphillpotts.com/author/kphillpotts)",
+          "embedded_links": [
+            {
+              "identifier": "nlR9QEb",
+              "title": "**Xamarin.Forms UI Challenges - Pizza Shop**",
+              "url_domain": "kymphillpotts.com",
+              "url": "https://kymphillpotts.com/pizza-shop.html"
+            },
+            {
+              "identifier": "UKD9Kwb",
+              "title": "Kym Phillpotts",
+              "url_domain": "kymphillpotts.com",
+              "url": "https://kymphillpotts.com/author/kphillpotts"
+            }
+          ]
+        },
+        {
+          "identifier": "mE5MZpc",
+          "type": "Link",
+          "title": "Building a Rating Control using Xamarin.Forms Shapes",
+          "url_domain": "danielhindrikes.se",
+          "url": "https://danielhindrikes.se/index.php/2020/06/30/building-a-rating-control-using-xamarin-forms-shapes/",
+          "description": "<p>In this blog post Daniel will show how you can use Xamarin.Forms and Shapes to create a rating control without using an external library.</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2020/06/30/building-a-rating-control-using-xamarin-forms-shapes/\"><strong>Building a Rating Control using Xamarin.Forms Shapes</strong></a> by <a href=\"https://danielhindrikes.se/index.php/author/dhindrik/\">dhindrik</a></p>",
+          "description_markdown": "In this blog post Daniel will show how you can use Xamarin.Forms and Shapes to create a rating control without using an external library.\r\n\r\n[**Building a Rating Control using Xamarin.Forms Shapes**](https://danielhindrikes.se/index.php/2020/06/30/building-a-rating-control-using-xamarin-forms-shapes/) by [dhindrik](https://danielhindrikes.se/index.php/author/dhindrik/)",
+          "embedded_links": [
+            {
+              "identifier": "pMQF0Sc",
+              "title": "dhindrik",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/author/dhindrik/"
+            },
+            {
+              "identifier": "6nTs0lL",
+              "title": "**Building a Rating Control using Xamarin.Forms Shapes**",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/2020/06/30/building-a-rating-control-using-xamarin-forms-shapes/"
+            }
+          ]
+        },
+        {
+          "identifier": "luot67V",
+          "type": "Link",
+          "title": "Create a Colorful Geometric Background using Xamarin.Forms Shapes",
+          "url_domain": "marcofolio.net",
+          "url": "https://marcofolio.net/geometric-xamarin-forms-shapes/",
+          "description": "<p>Xamarin recently added new functionality for developers to build mobile apps: Xamarin.Forms Shapes. As the name suggest, it allows developers to create shapes without being restricted to rectangles or ellipses.</p>\n\n<p><a href=\"https://marcofolio.net/geometric-xamarin-forms-shapes/\"><strong>Create a Colorful Geometric Background using Xamarin.Forms Shapes</strong></a> by <a href=\"https://marcofolio.net/author/marco/\">Marco</a></p>",
+          "description_markdown": "Xamarin recently added new functionality for developers to build mobile apps: Xamarin.Forms Shapes. As the name suggest, it allows developers to create shapes without being restricted to rectangles or ellipses.\r\n\r\n[**Create a Colorful Geometric Background using Xamarin.Forms Shapes**](https://marcofolio.net/geometric-xamarin-forms-shapes/) by [Marco](https://marcofolio.net/author/marco/)",
+          "embedded_links": [
+            {
+              "identifier": "ovu7Z9b",
+              "title": "**Create a Colorful Geometric Background using Xamarin.Forms Shapes**",
+              "url_domain": "marcofolio.net",
+              "url": "https://marcofolio.net/geometric-xamarin-forms-shapes/"
+            },
+            {
+              "identifier": "Kj8SfPR",
+              "title": "Marco",
+              "url_domain": "marcofolio.net",
+              "url": "https://marcofolio.net/author/marco/"
+            }
+          ]
+        },
+        {
+          "identifier": "RG0Lv0b",
+          "type": "Link",
+          "title": "Xamarin Forms OTP verification ",
+          "url_domain": "xamaringuyshow.com",
+          "url": "https://xamaringuyshow.com/2020/07/01/xamarin-forms-otp-verification-twilio/",
+          "description": "<p>OTP verification is a 2 Factor authentication which adds extra layer of security. Samir shares setting this up using Twillio and Xamarin.Forms.</p>\n\n<p><a href=\"https://xamaringuyshow.com/2020/07/01/xamarin-forms-otp-verification-twilio/\"><strong>Xamarin Forms OTP verification Twilio – Welcome to Xamarin Guy Show Blog</strong></a> by <a href=\"https://xamaringuyshow.com/author/samirgc/\">samirgc</a></p>",
+          "description_markdown": "OTP verification is a 2 Factor authentication which adds extra layer of security. Samir shares setting this up using Twillio and Xamarin.Forms.\r\n\r\n[**Xamarin Forms OTP verification Twilio – Welcome to Xamarin Guy Show Blog**](https://xamaringuyshow.com/2020/07/01/xamarin-forms-otp-verification-twilio/) by [samirgc](https://xamaringuyshow.com/author/samirgc/)",
+          "embedded_links": [
+            {
+              "identifier": "zmzlInr",
+              "title": "**Xamarin Forms OTP verification Twilio – Welcome to Xamarin Guy Show Blog**",
+              "url_domain": "xamaringuyshow.com",
+              "url": "https://xamaringuyshow.com/2020/07/01/xamarin-forms-otp-verification-twilio/"
+            },
+            {
+              "identifier": "8SQXnR3",
+              "title": "samirgc",
+              "url_domain": "xamaringuyshow.com",
+              "url": "https://xamaringuyshow.com/author/samirgc/"
+            }
+          ]
+        },
+        {
+          "identifier": "zePADFv",
+          "type": "Link",
+          "title": "Two Cards Transition Control",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/simple-two-cards-transition-control-in-xamarin-forms/",
+          "description": "<p>Charlin tackles creating a control that shows two elements (cards) stacked on top of each other and animate switching between them.</p>\n\n<p><a href=\"https://xamgirl.com/simple-two-cards-transition-control-in-xamarin-forms/\"><strong>Simple Two Cards Transition Control in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/Chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "Charlin tackles creating a control that shows two elements (cards) stacked on top of each other and animate switching between them.\r\n\r\n[**Simple Two Cards Transition Control in Xamarin Forms**](https://xamgirl.com/simple-two-cards-transition-control-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/Chard003)",
+          "embedded_links": [
+            {
+              "identifier": "AodCeTc",
+              "title": "**Simple Two Cards Transition Control in Xamarin Forms**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/simple-two-cards-transition-control-in-xamarin-forms/"
+            },
+            {
+              "identifier": "LcZX1zw",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "xg26ydI",
+          "type": "Link",
+          "title": "Base page concept using ContentView – Part 1",
+          "url_domain": "thewissen.io",
+          "url": "https://www.thewissen.io/revisiting-the-base-page-concept-using-contentview/",
+          "description": "<p>Steven starts a blog series on bringing consistency to pages in your application by having a consistent base page.</p>\n\n<p><a href=\"https://www.thewissen.io/revisiting-the-base-page-concept-using-contentview/\"><strong>Revisiting the base page concept using ContentView – Part 1</strong></a> by <a href=\"https://www.thewissen.io/author/steven/\">Steven Thewissen</a></p>",
+          "description_markdown": "Steven starts a blog series on bringing consistency to pages in your application by having a consistent base page. \r\n\r\n[**Revisiting the base page concept using ContentView – Part 1**](https://www.thewissen.io/revisiting-the-base-page-concept-using-contentview/) by [Steven Thewissen](https://www.thewissen.io/author/steven/)",
+          "embedded_links": [
+            {
+              "identifier": "AQYP3Hn",
+              "title": "**Revisiting the base page concept using ContentView – Part 1**",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/revisiting-the-base-page-concept-using-contentview/"
+            },
+            {
+              "identifier": "RZsIjiW",
+              "title": "Steven Thewissen",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/author/steven/"
+            }
+          ]
+        },
+        {
+          "identifier": "mIoYFR",
+          "type": "Link",
+          "title": "Code-Snippets for Visual Studio",
+          "url_domain": "tsjdev-apps.de",
+          "url": "https://www.tsjdev-apps.de/nuetzliche-code-snippets-fuer-visual-studio/",
+          "description": "<p>Sebastian shares some Xamarin code snippets for Visual Studio.</p>\n\n<p><em>Note - Post is in German</em></p>\n\n<p><a href=\"https://www.tsjdev-apps.de/nuetzliche-code-snippets-fuer-visual-studio/\"><strong>Nützliche Code-Snippets für Visual Studio</strong></a> by <a href=\"https://www.tsjdev-apps.de/author/tsjdev/\">Sebastian Jensen</a></p>",
+          "description_markdown": "Sebastian shares some Xamarin code snippets for Visual Studio.\r\n\r\n*Note - Post is in German*\r\n\r\n[**Nützliche Code-Snippets für Visual Studio**](https://www.tsjdev-apps.de/nuetzliche-code-snippets-fuer-visual-studio/) by [Sebastian Jensen](https://www.tsjdev-apps.de/author/tsjdev/)",
+          "embedded_links": [
+            {
+              "identifier": "a3xNe7n",
+              "title": "**Nützliche Code-Snippets für Visual Studio**",
+              "url_domain": "tsjdev-apps.de",
+              "url": "https://www.tsjdev-apps.de/nuetzliche-code-snippets-fuer-visual-studio/"
+            },
+            {
+              "identifier": "K0ajwJ0",
+              "title": "Sebastian Jensen",
+              "url_domain": "tsjdev-apps.de",
+              "url": "https://www.tsjdev-apps.de/author/tsjdev/"
+            }
+          ]
+        },
+        {
+          "identifier": "NJAfHeU",
+          "type": "Link",
+          "title": "Playing Audio with the MediaManager Plugin",
+          "url_domain": "wordpress.com",
+          "url": "https://theconfuzedsourcecode.wordpress.com/2020/06/28/playing-audio-with-the-mediamanager-plugin-for-xamarin-forms/",
+          "description": "<p>You can play Audio in Xamarin.Forms across Android, iOS and Windows UWP using the super easy plug and play MediaManager Plugin.</p>\n\n<p><a href=\"https://theconfuzedsourcecode.wordpress.com/2020/06/28/playing-audio-with-the-mediamanager-plugin-for-xamarin-forms/\"><strong>Playing Audio with the MediaManager Plugin for Xamarin.Forms!</strong></a> by <a href=\"https://github.com/UdaraAlwis\">Udara Alwis</a></p>",
+          "description_markdown": "You can play Audio in Xamarin.Forms across Android, iOS and Windows UWP using the super easy plug and play MediaManager Plugin. \r\n\r\n[**Playing Audio with the MediaManager Plugin for Xamarin.Forms!**](https://theconfuzedsourcecode.wordpress.com/2020/06/28/playing-audio-with-the-mediamanager-plugin-for-xamarin-forms/) by [Udara Alwis](https://github.com/UdaraAlwis)",
+          "embedded_links": [
+            {
+              "identifier": "1fe8D7o",
+              "title": "**Playing Audio with the MediaManager Plugin for Xamarin.Forms!**",
+              "url_domain": "wordpress.com",
+              "url": "https://theconfuzedsourcecode.wordpress.com/2020/06/28/playing-audio-with-the-mediamanager-plugin-for-xamarin-forms/"
+            },
+            {
+              "identifier": "WXnRaFQ",
+              "title": "Udara Alwis",
+              "url_domain": "github.com",
+              "url": "https://github.com/UdaraAlwis"
+            }
+          ]
+        },
+        {
+          "identifier": "zJ6JQMb",
+          "type": "Link",
+          "title": "Why Should You Choose Essential UI Kit",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/why-should-you-choose-essential-ui-kit-to-develop-xamarin-applications.aspx",
+          "description": "<p>Leomaris looks at Syncfusion Essential UI Kit a good introduction if you are looking at using Syncfusion controls in your project.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/why-should-you-choose-essential-ui-kit-to-develop-xamarin-applications.aspx\"><strong>Why Should You Choose Essential UI Kit to Develop Xamarin Applications?</strong></a> by <a href=\"\"></a></p>",
+          "description_markdown": "Leomaris looks at Syncfusion Essential UI Kit a good introduction if you are looking at using Syncfusion controls in your project.\r\n\r\n[**Why Should You Choose Essential UI Kit to Develop Xamarin Applications?**](https://www.syncfusion.com/blogs/post/why-should-you-choose-essential-ui-kit-to-develop-xamarin-applications.aspx) by []()",
+          "embedded_links": [
+            {
+              "identifier": "ARdl6lb",
+              "title": "**Why Should You Choose Essential UI Kit to Develop Xamarin Applications?**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/why-should-you-choose-essential-ui-kit-to-develop-xamarin-applications.aspx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "dDrsF72",
+          "type": "Link",
+          "title": "MFractor for Windows | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/MFractor-for-Windows--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by Matthew Robbins from the MFractor team who shows off the brand new version of MFractor with Windows support! MFractor adds several features so you can make great Xamarin and Xamarin.Forms apps faster.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/MFractor-for-Windows--The-Xamarin-Show\"><strong>MFractor for Windows | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by Matthew Robbins from the MFractor team who shows off the brand new version of MFractor with Windows support! MFractor adds several features so you can make great Xamarin and Xamarin.Forms apps faster.\r\n\r\n[**MFractor for Windows | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/MFractor-for-Windows--The-Xamarin-Show) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "Yvve5jR",
+              "title": "**MFractor for Windows | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/MFractor-for-Windows--The-Xamarin-Show"
+            },
+            {
+              "identifier": "dd4B4ls",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "TQSEXhp",
+          "type": "Link",
+          "title": "Merge Conflict 208: WWDC Detox + DTK Hype",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/208",
+          "description": "<p>Frank lost his phone, James bought an iPhone, and WWDC is over!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/208\"><strong>208: WWDC Detox + DTK Hype</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Frank lost his phone, James bought an iPhone, and WWDC is over!\r\n\r\n[**208: WWDC Detox + DTK Hype**](https://www.mergeconflict.fm/208) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "FEKsKDG",
+              "title": "**208: WWDC Detox + DTK Hype**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/208"
+            },
+            {
+              "identifier": "9tzkbgK",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "wDu8Yep",
+          "type": "Link",
+          "title": "DevTalk 40:  With Brandon Minnick",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-40/",
+          "description": "<p>On episode 40 of DevTalk Kerry speaks to Brandon Minnick about the road to publishing the developer productivity app GitTrends.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-40/\"><strong>40: The road to publishing GitTrends. With Brandon Minnick</strong></a> by <a href=\"https://kerry.lothrop.de/en/author/lothrop/\">kerry</a></p>",
+          "description_markdown": "On episode 40 of DevTalk Kerry speaks to Brandon Minnick about the road to publishing the developer productivity app GitTrends.\r\n\r\n[**40: The road to publishing GitTrends. With Brandon Minnick**](https://kerry.lothrop.de/devtalk-40/) by [kerry](https://kerry.lothrop.de/en/author/lothrop/)",
+          "embedded_links": [
+            {
+              "identifier": "zALUvtI",
+              "title": "**40: The road to publishing GitTrends. With Brandon Minnick**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-40/"
+            },
+            {
+              "identifier": "3JkoqS6",
+              "title": "kerry",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/en/author/lothrop/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "ndtIyOH",
+          "type": "Link",
+          "title": "Xamarin.Forms Segmented Control with Sharpnado 1.7",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/segmented-control/",
+          "description": "<p>An updated version of the awesome Sharpnado controls is here with Segmented Controls and even moar shadows.</p>\n\n<p><a href=\"https://www.sharpnado.com/segmented-control/\"><strong>Xamarin.Forms Segmented Control with Sharpnado 1.7</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "An updated version of the awesome Sharpnado controls is here with Segmented Controls and even moar shadows.\r\n\r\n[**Xamarin.Forms Segmented Control with Sharpnado 1.7**](https://www.sharpnado.com/segmented-control/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)",
+          "embedded_links": [
+            {
+              "identifier": "t8AdXwt",
+              "title": "**Xamarin.Forms Segmented Control with Sharpnado 1.7**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/segmented-control/"
+            },
+            {
+              "identifier": "1yuo27K",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
