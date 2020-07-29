@@ -545,6 +545,16 @@
       ]
     },
     {
+      "Name": "Martin Zikmund",
+      "Id": "https://twitter.com/mzikmunddev",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/mzikmunddev"
+        }
+      ]
+    },
+    {
       "Name": "Matt Soucoup",
       "Id": "https://devblogs.microsoft.com/xamarin/author/matt-soucoup/",
       "Aliases": [
@@ -743,6 +753,16 @@
         {
           "Type": "blog",
           "Name": "https://www.tsjdev-apps.de/author/tsjdev/"
+        }
+      ]
+    },
+    {
+      "Name": "Selva Ganapathy Kathiresan",
+      "Id": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
         }
       ]
     },

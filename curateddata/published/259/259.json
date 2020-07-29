@@ -1,0 +1,448 @@
+{
+  "number": 259,
+  "title": "Issue 259",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/259",
+  "publication_status": "published",
+  "published_at": "2020-05-15T13:55:47+01:00",
+  "updated_at": "2020-05-15T16:32:37+01:00",
+  "categories": [
+    {
+      "code": "lucecarter",
+      "name": "LUCE CARTER",
+      "items": [
+        {
+          "type": "Text",
+          "title": "Happy Friday!",
+          "description": "<p>Hey everyone,</p>\n\n<p>Welcome back to another great issue of Weekly Xamarin, full of amazing content as ever! Thanks to everyone who contributed this week :)</p>\n\n<p>Corona virus continues to impact us all, but we have a reason to smile and look forward to next week as Build is here! One of the rare benefits to this pandemic is that Build has gone virtual and free, so we all have a chance to get involved and have a front of the sofa seat for all the huge announcements that are coming!</p>\n\n<p>Both Kym and I will be getting involved in various things going on so keep an eye on our Twitter for further news on how you can join us!</p>\n\n<p>I also have to add 1 to my age before we come back for next week's issue so big thanks to everyone for making this past year so good in the Xamarin community. Each year it gets better and better!</p>\n\n<p>Have a great weekend and most of all, Happy Build!!</p>\n\n<p>🧡\nLuce</p>",
+          "description_markdown": "Hey everyone,\r\n\r\nWelcome back to another great issue of Weekly Xamarin, full of amazing content as ever! Thanks to everyone who contributed this week :)\r\n\r\nCorona virus continues to impact us all, but we have a reason to smile and look forward to next week as Build is here! One of the rare benefits to this pandemic is that Build has gone virtual and free, so we all have a chance to get involved and have a front of the sofa seat for all the huge announcements that are coming!\r\n\r\nBoth Kym and I will be getting involved in various things going on so keep an eye on our Twitter for further news on how you can join us!\r\n\r\nI also have to add 1 to my age before we come back for next week's issue so big thanks to everyone for making this past year so good in the Xamarin community. Each year it gets better and better!\r\n\r\nHave a great weekend and most of all, Happy Build!!\r\n\r\n🧡\r\nLuce",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "appoftheweek",
+      "name": "APP OF THE WEEK",
+      "items": [
+        {
+          "identifier": "ZTWzzwU",
+          "type": "Link",
+          "title": "Introducing Island Tracker for Animal Crossing New Horizons",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/introducing-island-tracker-for-animal-crossing-new-horizons/",
+          "description": "<p>Animal Crossing is everywhere at the moment, definitely helped by Covid-19. One of the parts of Animal Crossing that everyone is talking about is turnips and turnip prices. James identified a need for an app to help track those prices with your friends, so you know which island to visit to make that sweet profit! He went ahead and built it on his stream over a few weeks and now it is live!</p>\n\n<p><a href=\"https://montemagno.com/introducing-island-tracker-for-animal-crossing-new-horizons/\"><strong>Introducing Island Tracker for Animal Crossing New Horizons</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Animal Crossing is everywhere at the moment, definitely helped by Covid-19. One of the parts of Animal Crossing that everyone is talking about is turnips and turnip prices. James identified a need for an app to help track those prices with your friends, so you know which island to visit to make that sweet profit! He went ahead and built it on his stream over a few weeks and now it is live!\r\n\r\n[**Introducing Island Tracker for Animal Crossing New Horizons**](https://montemagno.com/introducing-island-tracker-for-animal-crossing-new-horizons/) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "4SkTmjH",
+              "title": "**Introducing Island Tracker for Animal Crossing New Horizons**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/introducing-island-tracker-for-animal-crossing-new-horizons/"
+            },
+            {
+              "identifier": "75YZqZW",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "AVHyswV",
+          "type": "Link",
+          "title": "iOS and macOS Dark Mode Dynamic Colors Overview",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/xamarin/ios-macos-dark-mode-dynamic-colors-overview/?utm_source=rss&utm_medium=rss&utm_campaign=ios-macos-dark-mode-dynamic-colors-overview",
+          "description": "<p>While working on adding the integration of Dark Mode on macOS into Xamarin.Forms, Gerald found that there wasn’t an overview for all the Dynamic Colors, so he decided to share his findings for reference for us and his future self!</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/ios-macos-dark-mode-dynamic-colors-overview/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ios-macos-dark-mode-dynamic-colors-overview\"><strong>iOS and macOS Dark Mode Dynamic Colors Overview</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "While working on adding the integration of Dark Mode on macOS into Xamarin.Forms, Gerald found that there wasn’t an overview for all the Dynamic Colors, so he decided to share his findings for reference for us and his future self!\r\n\r\n[**iOS and macOS Dark Mode Dynamic Colors Overview**](https://blog.verslu.is/xamarin/ios-macos-dark-mode-dynamic-colors-overview/?utm_source=rss&utm_medium=rss&utm_campaign=ios-macos-dark-mode-dynamic-colors-overview) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "7NomqcM",
+              "title": "**iOS and macOS Dark Mode Dynamic Colors Overview**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/xamarin/ios-macos-dark-mode-dynamic-colors-overview/?utm_source=rss&utm_medium=rss&utm_campaign=ios-macos-dark-mode-dynamic-colors-overview"
+            },
+            {
+              "identifier": "TSbjp0r",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "mxktgvt",
+          "type": "Link",
+          "title": "The mystery of the missing iOS app icon",
+          "url_domain": "mzikmund.com",
+          "url": "https://blog.mzikmund.com/2020/05/the-mystery-of-the-missing-ios-app-icon/",
+          "description": "<p>Really useful and interesting post from Martin about how he helped solved a mystery of a missing iOS icon. I've seen this happen before and the reason is not always obvious so I thought this was really helpful!</p>\n\n<p><a href=\"https://blog.mzikmund.com/2020/05/the-mystery-of-the-missing-ios-app-icon/\"><strong>The mystery of the missing iOS app icon</strong></a> by <a href=\"https://twitter.com/mzikmunddev\">Martin Zikmund</a></p>",
+          "description_markdown": "Really useful and interesting post from Martin about how he helped solved a mystery of a missing iOS icon. I've seen this happen before and the reason is not always obvious so I thought this was really helpful!\r\n\r\n[**The mystery of the missing iOS app icon**](https://blog.mzikmund.com/2020/05/the-mystery-of-the-missing-ios-app-icon/) by [Martin Zikmund](https://twitter.com/mzikmunddev)",
+          "embedded_links": [
+            {
+              "identifier": "4tWUoiu",
+              "title": "**The mystery of the missing iOS app icon**",
+              "url_domain": "mzikmund.com",
+              "url": "https://blog.mzikmund.com/2020/05/the-mystery-of-the-missing-ios-app-icon/"
+            },
+            {
+              "identifier": "4JOUSlC",
+              "title": "Martin Zikmund",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mzikmunddev"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "J9ELViV",
+          "type": "Link",
+          "title": "Xamarin Forms tips: Manipulating iOS Safe Area Insets with Xamarin Forms",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/ios-safe-area-insets-with-xamarin-forms-after/",
+          "description": "<p>Damien is back with another useful post on Xamarin.Forms tips. This week it's iOS Safe Areas, or as I like to think of it \"What I need to configure so the notch doesn't get in the way\".</p>\n\n<p><a href=\"https://doumer.me/ios-safe-area-insets-with-xamarin-forms-after/\"><strong>Xamarin Forms tips: Manipulating iOS Safe Area Insets with Xamarin Forms</strong></a> by <a href=\"https://twitter.com/Damien_Doumer\">Damien Doumer</a></p>",
+          "description_markdown": "Damien is back with another useful post on Xamarin.Forms tips. This week it's iOS Safe Areas, or as I like to think of it \"What I need to configure so the notch doesn't get in the way\".\r\n\r\n[**Xamarin Forms tips: Manipulating iOS Safe Area Insets with Xamarin Forms**](https://doumer.me/ios-safe-area-insets-with-xamarin-forms-after/) by [Damien Doumer](https://twitter.com/Damien_Doumer)",
+          "embedded_links": [
+            {
+              "identifier": "H0f0qV8",
+              "title": "**Xamarin Forms tips: Manipulating iOS Safe Area Insets with Xamarin Forms**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/ios-safe-area-insets-with-xamarin-forms-after/"
+            },
+            {
+              "identifier": "3NRm3ng",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Damien_Doumer"
+            }
+          ]
+        },
+        {
+          "identifier": "kRNno5c",
+          "type": "Link",
+          "title": "(Part 1) Replicating Flight UI: Preparing the project to work with MVVM",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/part-1-replicating-flight-ui-preparing-the-project-to-work-with-mvvm/",
+          "description": "<p>Here at Weekly Xamarin, we love beautiful UI's! Kym makes them, I dream about them! With Covid-19 keeping so many of us indoors, we can only dream about where we might go in the future. So I love that Leomaris has started a series on replicating a flight UI. We can build the gorgeous looking app and pretend we can fly away somewere exotic!</p>\n\n<p><a href=\"https://askxammy.com/part-1-replicating-flight-ui-preparing-the-project-to-work-with-mvvm/\"><strong>(Part 1) Replicating Flight UI: Preparing the project to work with MVVM</strong></a> by <a href=\"https://twitter.com/LeomarisReyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Here at Weekly Xamarin, we love beautiful UI's! Kym makes them, I dream about them! With Covid-19 keeping so many of us indoors, we can only dream about where we might go in the future. So I love that Leomaris has started a series on replicating a flight UI. We can build the gorgeous looking app and pretend we can fly away somewere exotic!\r\n\r\n[**(Part 1) Replicating Flight UI: Preparing the project to work with MVVM**](https://askxammy.com/part-1-replicating-flight-ui-preparing-the-project-to-work-with-mvvm/) by [Leomaris Reyes](https://twitter.com/LeomarisReyes11)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "btxsnm0",
+              "title": "**(Part 1) Replicating Flight UI: Preparing the project to work with MVVM**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/part-1-replicating-flight-ui-preparing-the-project-to-work-with-mvvm/"
+            },
+            {
+              "identifier": "CWvmMOs",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/LeomarisReyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "sT3YPkm",
+          "type": "Link",
+          "title": "Code Snippets' Xamarin Month",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/code-snippetss-xamarin-month/",
+          "description": "<p>Xamarin Months based on a theme are always hugely popular! Luis is back with a new month and new theme, code snippets! In June, awesome community members will share code snippets that are useful for all things Xamarin! In this post, Luis covers how you can sign up!</p>\n\n<p><a href=\"https://luismts.com/code-snippetss-xamarin-month/\"><strong>Code Snippets' Xamarin Month</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Xamarin Months based on a theme are always hugely popular! Luis is back with a new month and new theme, code snippets! In June, awesome community members will share code snippets that are useful for all things Xamarin! In this post, Luis covers how you can sign up!\r\n\r\n[**Code Snippets' Xamarin Month**](https://luismts.com/code-snippetss-xamarin-month/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "n3orIeV",
+              "title": "**Code Snippets' Xamarin Month**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/code-snippetss-xamarin-month/"
+            },
+            {
+              "identifier": "NVobEEw",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "Y7FWnId",
+          "type": "Link",
+          "title": "Test Xamarin.Forms bugfixes by downloading PR NuGet packages",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/test-xamarin-forms-bugfixes/?utm_source=rss&utm_medium=rss&utm_campaign=test-xamarin-forms-bugfixes",
+          "description": "<p>As part of the Xamarin.Forms open-source nature the builds are also accessible for you to see. While the advantages are more than one, two really stand out. First, as a contributor, you can now see how your changes integrate with the rest of the code. Second, as a user, you can access the artifacts of a build, test and verify if a PR fixes your issue. This last one is what we will learn in this blog post.</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/xamarin-forms-xamarin/test-xamarin-forms-bugfixes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=test-xamarin-forms-bugfixes\"><strong>Test Xamarin.Forms bugfixes by downloading PR NuGet packages</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "As part of the Xamarin.Forms open-source nature the builds are also accessible for you to see. While the advantages are more than one, two really stand out. First, as a contributor, you can now see how your changes integrate with the rest of the code. Second, as a user, you can access the artifacts of a build, test and verify if a PR fixes your issue. This last one is what we will learn in this blog post.\r\n\r\n[**Test Xamarin.Forms bugfixes by downloading PR NuGet packages**](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/test-xamarin-forms-bugfixes/?utm_source=rss&utm_medium=rss&utm_campaign=test-xamarin-forms-bugfixes) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "QyqxB4y",
+              "title": "**Test Xamarin.Forms bugfixes by downloading PR NuGet packages**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/test-xamarin-forms-bugfixes/?utm_source=rss&utm_medium=rss&utm_campaign=test-xamarin-forms-bugfixes"
+            },
+            {
+              "identifier": "AC4JpKn",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "mCOVmnz",
+          "type": "Link",
+          "title": "Here’s the World’s First and Only UI Controls for Xamarin.Forms WPF",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/heres-the-worlds-first-and-only-ui-controls-for-xamarin-forms-wpf.aspx",
+          "description": "<p>Although Xamarin.Forms WPF falls under community support, this hasn't stopped SyncFusion from extending some of their controls to support it. This post summarises those controls!</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/heres-the-worlds-first-and-only-ui-controls-for-xamarin-forms-wpf.aspx\"><strong>Here’s the World’s First and Only UI Controls for Xamarin.Forms WPF</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "Although Xamarin.Forms WPF falls under community support, this hasn't stopped SyncFusion from extending some of their controls to support it. This post summarises those controls!\r\n\r\n[**Here’s the World’s First and Only UI Controls for Xamarin.Forms WPF**](https://www.syncfusion.com/blogs/post/heres-the-worlds-first-and-only-ui-controls-for-xamarin-forms-wpf.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)",
+          "embedded_links": [
+            {
+              "identifier": "IMNAkEJ",
+              "title": "**Here’s the World’s First and Only UI Controls for Xamarin.Forms WPF**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/heres-the-worlds-first-and-only-ui-controls-for-xamarin-forms-wpf.aspx"
+            },
+            {
+              "identifier": "Hn6sWRE",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        },
+        {
+          "identifier": "1p2l78Z",
+          "type": "Link",
+          "title": "Shell Quick Tip - Passing Data When Navigating | Xamarin Blog",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-query-parameters/",
+          "description": "<p>Every mobile application needs navigation. Xamarin.Forms Shell offers built-in route based navigation to enable easy navigation to and from pages in your application. Additionally, since it is based on a route schema, you can navigate using absolute or relative routes that will even inflate a full back stack. But how do you pass data between pages? James has you covered!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-query-parameters/\"><strong>Shell Quick Tip - Passing Data When Navigating</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "Every mobile application needs navigation. Xamarin.Forms Shell offers built-in route based navigation to enable easy navigation to and from pages in your application. Additionally, since it is based on a route schema, you can navigate using absolute or relative routes that will even inflate a full back stack. But how do you pass data between pages? James has you covered!\r\n\r\n[**Shell Quick Tip - Passing Data When Navigating**](https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-query-parameters/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "GGiiEl1",
+              "title": "**Shell Quick Tip - Passing Data When Navigating**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-query-parameters/"
+            },
+            {
+              "identifier": "zTmPxP3",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        },
+        {
+          "identifier": "HSEYEWj",
+          "type": "Link",
+          "title": "Xamarin.Forms - DataGrid",
+          "url_domain": "blogspot.com",
+          "url": "https://logeshpalani.blogspot.com/2020/05/xamarinforms-datagrid.html",
+          "description": "<p>Displaying data is one of the most common UI tasks we try to achieve in our mobile apps. In some ways, everything is data! So having different component options for displaying that data is never a bad thing! Logesh talks you through a package that will help you implement one called DataGrid.</p>\n\n<p><a href=\"https://logeshpalani.blogspot.com/2020/05/xamarinforms-datagrid.html\"><strong>Xamarin.Forms - DataGrid</strong></a> by <a href=\"https://twitter.com/DimisMs/\">Logesh Palani</a></p>",
+          "description_markdown": "Displaying data is one of the most common UI tasks we try to achieve in our mobile apps. In some ways, everything is data! So having different component options for displaying that data is never a bad thing! Logesh talks you through a package that will help you implement one called DataGrid.\r\n\r\n[**Xamarin.Forms - DataGrid**](https://logeshpalani.blogspot.com/2020/05/xamarinforms-datagrid.html) by [Logesh Palani](https://twitter.com/DimisMs/)",
+          "embedded_links": [
+            {
+              "identifier": "vqbyS9L",
+              "title": "**Xamarin.Forms - DataGrid**",
+              "url_domain": "blogspot.com",
+              "url": "https://logeshpalani.blogspot.com/2020/05/xamarinforms-datagrid.html"
+            },
+            {
+              "identifier": "vFTCw6H",
+              "title": "Logesh Palani",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DimisMs/"
+            }
+          ]
+        },
+        {
+          "identifier": "NKBvBUk",
+          "type": "Link",
+          "title": "(Part 2) Replicating Flight UI: Working with the XAML",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/part-2-replicating-flight-ui-working-with-the-xaml/",
+          "description": "<p>This is part 2 of Leomaris' fantastic series on creating a Flight UI in Xamarin.Forms. Look out for Part 1 also in this week's newsletter!</p>\n\n<p><a href=\"https://askxammy.com/part-2-replicating-flight-ui-working-with-the-xaml/\"><strong>(Part 2) Replicating Flight UI: Working with the XAML</strong></a> by <a href=\"https://twitter.com/LeomarisReyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "This is part 2 of Leomaris' fantastic series on creating a Flight UI in Xamarin.Forms. Look out for Part 1 also in this week's newsletter!\r\n\r\n[**(Part 2) Replicating Flight UI: Working with the XAML**](https://askxammy.com/part-2-replicating-flight-ui-working-with-the-xaml/) by [Leomaris Reyes](https://twitter.com/LeomarisReyes11)",
+          "embedded_links": [
+            {
+              "identifier": "viJY7sE",
+              "title": "**(Part 2) Replicating Flight UI: Working with the XAML**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/part-2-replicating-flight-ui-working-with-the-xaml/"
+            },
+            {
+              "identifier": "YsQ1MjO",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/LeomarisReyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "BHSvcWi",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 73: Essentials 1.6, Forms 4.6 and Contact Tracing",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/73",
+          "description": "<p>Xamarin.Essentials and Xamarin.Forms have new releases. And the Xamarin engineering team was hard at work to get a cross-platform API out for the new contact tracing API from Apple and Google.</p>\n\n<p>James and Matt also talk about //Build, a couple of cool new case studies, and recap the wackiness of the Crazy Cognitive Service Combo Challenge!</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/73\"><strong>The Xamarin Podcast Episode 73: Essentials 1.6, Forms 4.6 and Contact Tracing</strong></a></p>",
+          "description_markdown": "Xamarin.Essentials and Xamarin.Forms have new releases. And the Xamarin engineering team was hard at work to get a cross-platform API out for the new contact tracing API from Apple and Google.\r\n\r\nJames and Matt also talk about //Build, a couple of cool new case studies, and recap the wackiness of the Crazy Cognitive Service Combo Challenge!\r\n\r\n[**The Xamarin Podcast Episode 73: Essentials 1.6, Forms 4.6 and Contact Tracing**](https://www.xamarinpodcast.com/73)",
+          "embedded_links": [
+            {
+              "identifier": "JYqAnxt",
+              "title": "**The Xamarin Podcast Episode 73: Essentials 1.6, Forms 4.6 and Contact Tracing**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/73"
+            }
+          ]
+        },
+        {
+          "identifier": "xZnrVSH",
+          "type": "Link",
+          "title": "Merge Conflict: 201: Release It Already!",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/201",
+          "description": "<p>James struggles to release his app and walks through all of his fears while Frank tries to talk him into just clicking the button!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/201\"><strong>Merge Conflict: 201: Release It Already!</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "James struggles to release his app and walks through all of his fears while Frank tries to talk him into just clicking the button!\r\n\r\n[**Merge Conflict: 201: Release It Already!**](https://www.mergeconflict.fm/201) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "yFeVfvO",
+              "title": "**Merge Conflict: 201: Release It Already!**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/201"
+            },
+            {
+              "identifier": "UDzXntS",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        },
+        {
+          "identifier": "KxfkiDl",
+          "type": "Link",
+          "title": "Xamarin.Forms 101: Intro to CollectionView and RefreshView | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Intro-to-CollectionView-and-RefreshView",
+          "description": "<p>In this week's Xamarin.Forms 101, Maddy takes you through CollectionView and RefreshView and how to migrate to them from an existing ListView. Data has never been easier to display!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Intro-to-CollectionView-and-RefreshView\"><strong>Xamarin.Forms 101: Intro to CollectionView and RefreshView</strong></a> by <a href=\"https://channel9.msdn.com/Niners/maddyleger1\">Maddy Leger</a></p>",
+          "description_markdown": "In this week's Xamarin.Forms 101, Maddy takes you through CollectionView and RefreshView and how to migrate to them from an existing ListView. Data has never been easier to display!\r\n\r\n[**Xamarin.Forms 101: Intro to CollectionView and RefreshView**](https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Intro-to-CollectionView-and-RefreshView) by [Maddy Leger](https://channel9.msdn.com/Niners/maddyleger1)",
+          "embedded_links": [
+            {
+              "identifier": "SWcWAVb",
+              "title": "**Xamarin.Forms 101: Intro to CollectionView and RefreshView**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Intro-to-CollectionView-and-RefreshView"
+            },
+            {
+              "identifier": "D7fkAdZ",
+              "title": "Maddy Leger",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/maddyleger1"
+            }
+          ]
+        },
+        {
+          "identifier": "g0rLftu",
+          "type": "Link",
+          "title": "Introduction to Fabulous a F# MVU Framework for Xamarin | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Introduction-to-Fabulous-a-F-MVU-Framework-for-Xamarin--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by the designer and architect of F# Don Syme and Microsoft MVP and Fabulous maintainer Timothé Larivière. They are here to show off how F# and Fabulous create an awesome way to build cross-platform apps with Xamarin. Leveraging functional programming and MVU style of development create a lovely environment for build apps. Tune in for a full crash course!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Introduction-to-Fabulous-a-F-MVU-Framework-for-Xamarin--The-Xamarin-Show\"><strong>Introduction to Fabulous a F# MVU Framework for Xamarin</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by the designer and architect of F# Don Syme and Microsoft MVP and Fabulous maintainer Timothé Larivière. They are here to show off how F# and Fabulous create an awesome way to build cross-platform apps with Xamarin. Leveraging functional programming and MVU style of development create a lovely environment for build apps. Tune in for a full crash course!\r\n\r\n[**Introduction to Fabulous a F# MVU Framework for Xamarin**](https://channel9.msdn.com/Shows/XamarinShow/Introduction-to-Fabulous-a-F-MVU-Framework-for-Xamarin--The-Xamarin-Show) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "iqIKT35",
+              "title": "**Introduction to Fabulous a F# MVU Framework for Xamarin**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Introduction-to-Fabulous-a-F-MVU-Framework-for-Xamarin--The-Xamarin-Show"
+            },
+            {
+              "identifier": "RSgQCxJ",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "vk2ZM4p",
+          "type": "Link",
+          "title": "Staying Home – Null Pointers – Your opinionated podcast on development, tech and every day struggles.",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/corona/",
+          "description": "<p>Woop, we have a new podcast on the block! This time from 3 of my favourite European Xamarin friends and experts; Gerald, Mark and Steven! Find them on your favourite podcast services like iTunes, PocketCast, Overcast, Spotify and more. In this first episode, they discuss these strange times working from home and how it differs to a normal remote job.</p>\n\n<p><a href=\"https://nullpointers.io/corona/\"><strong>Staying Home – Null Pointers</strong></a> by <a href=\"https://nullpointers.io\">Null Pointers</a></p>",
+          "description_markdown": "Woop, we have a new podcast on the block! This time from 3 of my favourite European Xamarin friends and experts; Gerald, Mark and Steven! Find them on your favourite podcast services like iTunes, PocketCast, Overcast, Spotify and more. In this first episode, they discuss these strange times working from home and how it differs to a normal remote job.\r\n\r\n[**Staying Home – Null Pointers**](https://nullpointers.io/corona/) by [Null Pointers](https://nullpointers.io)",
+          "embedded_links": [
+            {
+              "identifier": "QKUNzcI",
+              "title": "**Staying Home – Null Pointers**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/corona/"
+            },
+            {
+              "identifier": "XdqXesr",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "ENKbxE6",
+          "type": "Link",
+          "title": "MFractor 4.1 Now Available for Visual Studio Windows+Mac",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/mfractor-4-1-now-available-for-visual-studio-windows-mac",
+          "description": "<p>MFractor 4.1 is now available for both Windows and Mac. With it comes some huge new features that make the product even better! This includes automatic 30-day trials for MFractor Pro, adornments to make it easier to understand your XAML at a glance, enhancements to font tooling support and much more.</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/mfractor-4-1-now-available-for-visual-studio-windows-mac\"><strong>MFractor 4.1 Now Available for Visual Studio Windows+Mac</strong></a> by <a href=\"https://twitter.com/matthewrdev\">Matthew Robbins</a></p>",
+          "description_markdown": "MFractor 4.1 is now available for both Windows and Mac. With it comes some huge new features that make the product even better! This includes automatic 30-day trials for MFractor Pro, adornments to make it easier to understand your XAML at a glance, enhancements to font tooling support and much more.\r\n\r\n[**MFractor 4.1 Now Available for Visual Studio Windows+Mac**](https://www.mfractor.com/blogs/news/mfractor-4-1-now-available-for-visual-studio-windows-mac) by [Matthew Robbins](https://twitter.com/matthewrdev)",
+          "embedded_links": [
+            {
+              "identifier": "wCxeSo",
+              "title": "**MFractor 4.1 Now Available for Visual Studio Windows+Mac**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/mfractor-4-1-now-available-for-visual-studio-windows-mac"
+            },
+            {
+              "identifier": "yhAGSVY",
+              "title": "Matthew Robbins",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/matthewrdev"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

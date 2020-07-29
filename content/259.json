@@ -1,0 +1,162 @@
+{
+  "Id": "259",
+  "Name": "Issue 259",
+  "UpdatedTimeStamp": "2020-05-15T15:32:37Z",
+  "Summary": "No Edition Summary",
+  "PublishDate": "2020-05-15T12:55:47Z",
+  "Curators": "",
+  "Articles": [
+    {
+      "Title": "Introducing Island Tracker for Animal Crossing New Horizons",
+      "Url": "https://montemagno.com/introducing-island-tracker-for-animal-crossing-new-horizons/",
+      "Description": "Animal Crossing is everywhere at the moment, definitely helped by Covid-19. One of the parts of Animal Crossing that everyone is talking about is turnips and turnip prices. James identified a need for an app to help track those prices with your friends, so you know which island to visit to make that sweet profit! He went ahead and built it on his stream over a few weeks and now it is live!",
+      "EditionId": "259",
+      "Author": "James Montemagno",
+      "Id": "259-1",
+      "Category": "APP OF THE WEEK"
+    },
+    {
+      "Title": "iOS and macOS Dark Mode Dynamic Colors Overview",
+      "Url": "https://blog.verslu.is/xamarin/ios-macos-dark-mode-dynamic-colors-overview/?utm_source=rss&utm_medium=rss&utm_campaign=ios-macos-dark-mode-dynamic-colors-overview",
+      "Description": "While working on adding the integration of Dark Mode on macOS into Xamarin.Forms, Gerald found that there wasn’t an overview for all the Dynamic Colors, so he decided to share his findings for reference for us and his future self!",
+      "EditionId": "259",
+      "Author": "Gerald Versluis",
+      "Id": "259-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "The mystery of the missing iOS app icon",
+      "Url": "https://blog.mzikmund.com/2020/05/the-mystery-of-the-missing-ios-app-icon/",
+      "Description": "Really useful and interesting post from Martin about how he helped solved a mystery of a missing iOS icon. I've seen this happen before and the reason is not always obvious so I thought this was really helpful!",
+      "EditionId": "259",
+      "Author": "Martin Zikmund",
+      "Id": "259-3",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Xamarin Forms tips: Manipulating iOS Safe Area Insets with Xamarin Forms",
+      "Url": "https://doumer.me/ios-safe-area-insets-with-xamarin-forms-after/",
+      "Description": "Damien is back with another useful post on Xamarin.Forms tips. This week it's iOS Safe Areas, or as I like to think of it \"What I need to configure so the notch doesn't get in the way\".",
+      "EditionId": "259",
+      "Author": "Damien Doumer",
+      "Id": "259-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "(Part 1) Replicating Flight UI: Preparing the project to work with MVVM",
+      "Url": "https://askxammy.com/part-1-replicating-flight-ui-preparing-the-project-to-work-with-mvvm/",
+      "Description": "Here at Weekly Xamarin, we love beautiful UI's! Kym makes them, I dream about them! With Covid-19 keeping so many of us indoors, we can only dream about where we might go in the future. So I love that Leomaris has started a series on replicating a flight UI. We can build the gorgeous looking app and pretend we can fly away somewere exotic!",
+      "EditionId": "259",
+      "Author": "Leomaris Reyes",
+      "Id": "259-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Code Snippets' Xamarin Month",
+      "Url": "https://luismts.com/code-snippetss-xamarin-month/",
+      "Description": "Xamarin Months based on a theme are always hugely popular! Luis is back with a new month and new theme, code snippets! In June, awesome community members will share code snippets that are useful for all things Xamarin! In this post, Luis covers how you can sign up!",
+      "EditionId": "259",
+      "Author": "Luis Matos",
+      "Id": "259-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Test Xamarin.Forms bugfixes by downloading PR NuGet packages",
+      "Url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/test-xamarin-forms-bugfixes/?utm_source=rss&utm_medium=rss&utm_campaign=test-xamarin-forms-bugfixes",
+      "Description": "As part of the Xamarin.Forms open-source nature the builds are also accessible for you to see. While the advantages are more than one, two really stand out. First, as a contributor, you can now see how your changes integrate with the rest of the code. Second, as a user, you can access the artifacts of a build, test and verify if a PR fixes your issue. This last one is what we will learn in this blog post.",
+      "EditionId": "259",
+      "Author": "Gerald Versluis",
+      "Id": "259-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Here’s the World’s First and Only UI Controls for Xamarin.Forms WPF",
+      "Url": "https://www.syncfusion.com/blogs/post/heres-the-worlds-first-and-only-ui-controls-for-xamarin-forms-wpf.aspx",
+      "Description": "Although Xamarin.Forms WPF falls under community support, this hasn't stopped SyncFusion from extending some of their controls to support it. This post summarises those controls!",
+      "EditionId": "259",
+      "Author": "Selva Ganapathy Kathiresan",
+      "Id": "259-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Shell Quick Tip - Passing Data When Navigating | Xamarin Blog",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-query-parameters/",
+      "Description": "Every mobile application needs navigation. Xamarin.Forms Shell offers built-in route based navigation to enable easy navigation to and from pages in your application. Additionally, since it is based on a route schema, you can navigate using absolute or relative routes that will even inflate a full back stack. But how do you pass data between pages? James has you covered!",
+      "EditionId": "259",
+      "Author": "James Montemagno",
+      "Id": "259-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms - DataGrid",
+      "Url": "https://logeshpalani.blogspot.com/2020/05/xamarinforms-datagrid.html",
+      "Description": "Displaying data is one of the most common UI tasks we try to achieve in our mobile apps. In some ways, everything is data! So having different component options for displaying that data is never a bad thing! Logesh talks you through a package that will help you implement one called DataGrid.",
+      "EditionId": "259",
+      "Author": "Logesh Palani",
+      "Id": "259-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "(Part 2) Replicating Flight UI: Working with the XAML",
+      "Url": "https://askxammy.com/part-2-replicating-flight-ui-working-with-the-xaml/",
+      "Description": "This is part 2 of Leomaris' fantastic series on creating a Flight UI in Xamarin.Forms. Look out for Part 1 also in this week's newsletter!",
+      "EditionId": "259",
+      "Author": "Leomaris Reyes",
+      "Id": "259-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "The Xamarin Podcast Episode 73: Essentials 1.6, Forms 4.6 and Contact Tracing",
+      "Url": "https://www.xamarinpodcast.com/73",
+      "Description": "Xamarin.Essentials and Xamarin.Forms have new releases. And the Xamarin engineering team was hard at work to get a cross-platform API out for the new contact tracing API from Apple and Google. James and Matt also talk about //Build, a couple of cool new case studies, and recap the wackiness of the Crazy Cognitive Service Combo Challenge! [**The Xamarin Podcast Episode 73: Essentials 1.6, Forms 4.6 and Contact Tracing**](https://www.xamarinpodcast.com/73)",
+      "EditionId": "259",
+      "Id": "259-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 201: Release It Already!",
+      "Url": "https://www.mergeconflict.fm/201",
+      "Description": "James struggles to release his app and walks through all of his fears while Frank tries to talk him into just clicking the button!",
+      "EditionId": "259",
+      "Author": "Merge Conflict",
+      "Id": "259-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms 101: Intro to CollectionView and RefreshView | The Xamarin Show",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Intro-to-CollectionView-and-RefreshView",
+      "Description": "In this week's Xamarin.Forms 101, Maddy takes you through CollectionView and RefreshView and how to migrate to them from an existing ListView. Data has never been easier to display!",
+      "EditionId": "259",
+      "Author": "Maddy Leger",
+      "Id": "259-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Introduction to Fabulous a F# MVU Framework for Xamarin | The Xamarin Show",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Introduction-to-Fabulous-a-F-MVU-Framework-for-Xamarin--The-Xamarin-Show",
+      "Description": "This week, James is joined by the designer and architect of F# Don Syme and Microsoft MVP and Fabulous maintainer Timothé Larivière. They are here to show off how F# and Fabulous create an awesome way to build cross-platform apps with Xamarin. Leveraging functional programming and MVU style of development create a lovely environment for build apps. Tune in for a full crash course!",
+      "EditionId": "259",
+      "Author": "James Montemagno",
+      "Id": "259-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Staying Home – Null Pointers – Your opinionated podcast on development, tech and every day struggles.",
+      "Url": "https://nullpointers.io/corona/",
+      "Description": "Woop, we have a new podcast on the block! This time from 3 of my favourite European Xamarin friends and experts; Gerald, Mark and Steven! Find them on your favourite podcast services like iTunes, PocketCast, Overcast, Spotify and more. In this first episode, they discuss these strange times working from home and how it differs to a normal remote job.",
+      "EditionId": "259",
+      "Author": "Null Pointers",
+      "Id": "259-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "MFractor 4.1 Now Available for Visual Studio Windows+Mac",
+      "Url": "https://www.mfractor.com/blogs/news/mfractor-4-1-now-available-for-visual-studio-windows-mac",
+      "Description": "MFractor 4.1 is now available for both Windows and Mac. With it comes some huge new features that make the product even better! This includes automatic 30-day trials for MFractor Pro, adornments to make it easier to understand your XAML at a glance, enhancements to font tooling support and much more.",
+      "EditionId": "259",
+      "Author": "Matthew Robbins",
+      "Id": "259-17",
+      "Category": "RELEASES"
+    }
+  ]
+}
