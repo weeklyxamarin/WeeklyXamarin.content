@@ -1,0 +1,422 @@
+{
+  "number": 257,
+  "title": "Issue 257",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/257",
+  "publication_status": "published",
+  "published_at": "2020-05-01T10:42:52+01:00",
+  "updated_at": "2020-05-01T10:42:56+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hope everyone's social isolation is going well.  Take care of yourselves and enjoy the newsletter.</p>\n\n<p>Big news is that Xamarin.Forms 4.6 has been released with some crazy good enhancements.</p>\n\n<p>Stay safe</p>\n\n<p>♥</p>\n\n<p>Kym</p>",
+          "description_markdown": "Hope everyone's social isolation is going well.  Take care of yourselves and enjoy the newsletter.\r\n\r\nBig news is that Xamarin.Forms 4.6 has been released with some crazy good enhancements.\r\n\r\nStay safe\r\n\r\n♥\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "2ZjUzzY",
+          "type": "Link",
+          "title": "“Limited time offer: a free support hour for your Xamarin project!",
+          "url_domain": "calendly.com",
+          "url": "https://calendly.com/henk_xablu/free-xamarin-support-hour-intake",
+          "description": "<p>Are you running into problems with your project, or could you use some advice? At Xablu, we offer case-by-case support from topnotch developers. You can create a ticket for your issue, our developers will create tailored solutions and they will guide you through their work. No subscription or underlying costs: only pay for the support you need! Book your free hour of support now!”</p>",
+          "description_markdown": "Are you running into problems with your project, or could you use some advice? At Xablu, we offer case-by-case support from topnotch developers. You can create a ticket for your issue, our developers will create tailored solutions and they will guide you through their work. No subscription or underlying costs: only pay for the support you need! Book your free hour of support now!”",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "d9eefff3-1845-4785-8832-0561e51a4c28.png",
+          "image_extra_large_filename": "original_ratio_extra_large_d9eefff3-1845-4785-8832-0561e51a4c28.png",
+          "image_medium_filename": "original_ratio_medium_d9eefff3-1845-4785-8832-0561e51a4c28.png"
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "lOL9N9p",
+          "type": "Link",
+          "title": "GitHub Protips: Tips, tricks, hacks, and secrets from Alyson La",
+          "url_domain": "github.blog",
+          "url": "https://github.blog/2020-04-23-github-protips-tips-tricks-hacks-and-secrets-from-alyson-la/",
+          "description": "<p>This is the fourth in a series of posts featuring protips from GitHubbers for improving productivity, efficiency, and more.</p>\n\n<p><a href=\"https://github.blog/2020-04-23-github-protips-tips-tricks-hacks-and-secrets-from-alyson-la/\"><strong>GitHub Protips: Tips, tricks, hacks, and secrets from Alyson La</strong></a> by <a href=\"https://github.blog/author/alysonla/\">Alyson La</a></p>",
+          "description_markdown": "This is the fourth in a series of posts featuring protips from GitHubbers for improving productivity, efficiency, and more. \r\n\r\n[**GitHub Protips: Tips, tricks, hacks, and secrets from Alyson La**](https://github.blog/2020-04-23-github-protips-tips-tricks-hacks-and-secrets-from-alyson-la/) by [Alyson La](https://github.blog/author/alysonla/)",
+          "embedded_links": [
+            {
+              "identifier": "tGv8rhl",
+              "title": "**GitHub Protips: Tips, tricks, hacks, and secrets from Alyson La**",
+              "url_domain": "github.blog",
+              "url": "https://github.blog/2020-04-23-github-protips-tips-tricks-hacks-and-secrets-from-alyson-la/"
+            },
+            {
+              "identifier": "GZ5Q5E7",
+              "title": "Alyson La",
+              "url_domain": "github.blog",
+              "url": "https://github.blog/author/alysonla/"
+            }
+          ]
+        },
+        {
+          "identifier": "z4iPZHg",
+          "type": "Link",
+          "title": "Enabling LLVM for your Xamarin.iOS custom build targets",
+          "url_domain": "mallibone.com",
+          "url": "https://mallibone.com/post/custom-targets-llvm",
+          "description": "<p>Build targets are not only great to differentiate between a Debug and Release builds. You can also use them for targeting different environments or configurations of your app.</p>\n\n<p><a href=\"https://mallibone.com/post/custom-targets-llvm\"><strong>Enabling LLVM for your Xamarin.iOS custom build targets</strong></a> by <a href=\"https://twitter.com/mallibone\">Mark Allibone</a></p>",
+          "description_markdown": "Build targets are not only great to differentiate between a Debug and Release builds. You can also use them for targeting different environments or configurations of your app.\r\n\r\n[**Enabling LLVM for your Xamarin.iOS custom build targets**](https://mallibone.com/post/custom-targets-llvm) by [Mark Allibone](https://twitter.com/mallibone)",
+          "embedded_links": [
+            {
+              "identifier": "aiUUNH7",
+              "title": "**Enabling LLVM for your Xamarin.iOS custom build targets**",
+              "url_domain": "mallibone.com",
+              "url": "https://mallibone.com/post/custom-targets-llvm"
+            },
+            {
+              "identifier": "Y295kiL",
+              "title": "Mark Allibone",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mallibone"
+            }
+          ]
+        },
+        {
+          "identifier": "F5bWCBQ",
+          "type": "Link",
+          "title": "Connecting to locahost over HTTPS",
+          "url_domain": "davidbritch.com",
+          "url": "https://www.davidbritch.com/2020/04/connecting-to-locahost-over-https-from.html",
+          "description": "<p>Last year, David Britch wrote about how to connect to localhost over HTTPS from iOS simulators and Android emulators. Things have moved on and now he has updated it.</p>\n\n<p><a href=\"https://www.davidbritch.com/2020/04/connecting-to-locahost-over-https-from.html\"><strong>Connecting to locahost over HTTPS from simulators and emulators (revisited)</strong></a> by <a href=\"https://www.blogger.com/profile/08228714867310322959\">David Britch</a></p>",
+          "description_markdown": "Last year, David Britch wrote about how to connect to localhost over HTTPS from iOS simulators and Android emulators. Things have moved on and now he has updated it.\r\n\r\n[**Connecting to locahost over HTTPS from simulators and emulators (revisited)**](https://www.davidbritch.com/2020/04/connecting-to-locahost-over-https-from.html) by [David Britch](https://www.blogger.com/profile/08228714867310322959)",
+          "embedded_links": [
+            {
+              "identifier": "1WLTUtG",
+              "title": "**Connecting to locahost over HTTPS from simulators and emulators (revisited)**",
+              "url_domain": "davidbritch.com",
+              "url": "https://www.davidbritch.com/2020/04/connecting-to-locahost-over-https-from.html"
+            },
+            {
+              "identifier": "t1Yudf1",
+              "title": "David Britch",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/08228714867310322959"
+            }
+          ]
+        },
+        {
+          "identifier": "HKdoY4G",
+          "type": "Link",
+          "title": "Running older versions of Xcode and Xamarin",
+          "url_domain": "damian.fyi",
+          "url": "https://damian.fyi/2020/04/27/old-xcode-xamarin/",
+          "description": "<p>We have all faced the nightmare of updating our tools such as the IDE and being met with messages when we try to do something such as build or run. Damian faced such an issue recently with Xcode and Xamarin and has shared how he resolved it.</p>\n\n<p><a href=\"https://damian.fyi/2020/04/27/old-xcode-xamarin/\"><strong>Running older versions of Xcode and Xamarin</strong></a> by <a href=\"https://twitter.com/DamianMehers\">Damian Mehers</a></p>",
+          "description_markdown": "We have all faced the nightmare of updating our tools such as the IDE and being met with messages when we try to do something such as build or run. Damian faced such an issue recently with Xcode and Xamarin and has shared how he resolved it.\r\n\r\n[**Running older versions of Xcode and Xamarin**](https://damian.fyi/2020/04/27/old-xcode-xamarin/) by [Damian Mehers](https://twitter.com/DamianMehers)",
+          "embedded_links": [
+            {
+              "identifier": "3c6rUHo",
+              "title": "**Running older versions of Xcode and Xamarin**",
+              "url_domain": "damian.fyi",
+              "url": "https://damian.fyi/2020/04/27/old-xcode-xamarin/"
+            },
+            {
+              "identifier": "jxe6xYT",
+              "title": "Damian Mehers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DamianMehers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "PjcarfH",
+          "type": "Link",
+          "title": "MaterialFrame leveled up with a Blur theme!",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/materialframe-blur/",
+          "description": "<p>MaterialFrame is a great looking control that implements different themes, including Acrylic.  Well it does now after someone pointed out that it was doing it all wrong ;-)  But it's fixed now.</p>\n\n<p><a href=\"https://www.sharpnado.com/materialframe-blur/\"><strong>MaterialFrame leveled up with a Blur theme!</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "MaterialFrame is a great looking control that implements different themes, including Acrylic.  Well it does now after someone pointed out that it was doing it all wrong ;-)  But it's fixed now.\r\n\r\n[**MaterialFrame leveled up with a Blur theme!**](https://www.sharpnado.com/materialframe-blur/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)",
+          "embedded_links": [
+            {
+              "identifier": "OvkL0od",
+              "title": "**MaterialFrame leveled up with a Blur theme!**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/materialframe-blur/"
+            },
+            {
+              "identifier": "ETCK10p",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        },
+        {
+          "identifier": "yDPhOoi",
+          "type": "Link",
+          "title": "EmptyView with BindableLayouts",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2020/04/27/xamarin-forms-emptyview-llega-a-bindablelayouts/",
+          "description": "<p>With Xamarin.Forms 4.6  we get support for EmptyView in BindableLayouts. That's was a missing piece from the incredibly useful BIndableLayout component.</p>\n\n<p><strong>Note: Article is in Spanish</strong></p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2020/04/27/xamarin-forms-emptyview-llega-a-bindablelayouts/\"><strong>[Xamarin.Forms] EmptyView llega a BindableLayouts</strong></a> by <a href=\"https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/\">Javier Suárez Ruiz</a></p>",
+          "description_markdown": "With Xamarin.Forms 4.6  we get support for EmptyView in BindableLayouts. That's was a missing piece from the incredibly useful BIndableLayout component.\r\n\r\n**Note: Article is in Spanish**\r\n\r\n[**[Xamarin.Forms] EmptyView llega a BindableLayouts**](https://javiersuarezruiz.wordpress.com/2020/04/27/xamarin-forms-emptyview-llega-a-bindablelayouts/) by [Javier Suárez Ruiz](https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/)",
+          "embedded_links": [
+            {
+              "identifier": "5pmjnsU",
+              "title": "Xamarin.Forms] EmptyView llega a BindableLayouts**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2020/04/27/xamarin-forms-emptyview-llega-a-bindablelayouts/"
+            },
+            {
+              "identifier": "Q6jcrCN",
+              "title": "Javier Suárez Ruiz",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/"
+            }
+          ]
+        },
+        {
+          "identifier": "OUvNKow",
+          "type": "Link",
+          "title": "Examples, and tips for creating applications in Xamarin Forms",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/examples-and-tips-for-creating-applications-in-xamarin-forms/",
+          "description": "<p>Luis Matos brings together some tips to improve your mobile development application skills with Examples and Tips for Xamarin Forms.</p>\n\n<p><a href=\"https://luismts.com/examples-and-tips-for-creating-applications-in-xamarin-forms/\"><strong>Examples, and tips for creating applications in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Luis Matos brings together some tips to improve your mobile development application skills with Examples and Tips for Xamarin Forms.\r\n\r\n[**Examples, and tips for creating applications in Xamarin Forms**](https://luismts.com/examples-and-tips-for-creating-applications-in-xamarin-forms/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "ebCoklM",
+              "title": "**Examples, and tips for creating applications in Xamarin Forms**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/examples-and-tips-for-creating-applications-in-xamarin-forms/"
+            },
+            {
+              "identifier": "mrb7Erf",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "eenPVfQ",
+          "type": "Link",
+          "title": "Quarantine Bingo",
+          "url_domain": "codemilltech.com",
+          "url": "https://codemilltech.com/quarantine-bingo/",
+          "description": "<p>When I saw Matt had created this I was super excited, what a fun use of some of my favourite technologies! Using Speech to Text and Xamarin, he created an app that will automate part of playing bingo!!</p>\n\n<p><a href=\"https://codemilltech.com/quarantine-bingo/\"><strong>Quarantine Bingo</strong></a> by <a href=\"https://twitter.com/codemillmatt\">Matt Soucoup</a></p>",
+          "description_markdown": "When I saw Matt had created this I was super excited, what a fun use of some of my favourite technologies! Using Speech to Text and Xamarin, he created an app that will automate part of playing bingo!!\r\n\r\n[**Quarantine Bingo**](https://codemilltech.com/quarantine-bingo/) by [Matt Soucoup](https://twitter.com/codemillmatt)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "dx2vI67",
+              "title": "**Quarantine Bingo**",
+              "url_domain": "codemilltech.com",
+              "url": "https://codemilltech.com/quarantine-bingo/"
+            },
+            {
+              "identifier": "Kc9bjxV",
+              "title": "Matt Soucoup",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/codemillmatt"
+            }
+          ]
+        },
+        {
+          "identifier": "Mv1rLuM",
+          "type": "Link",
+          "title": "Xamarin.Forms ColorPicker component",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-colorpicker-5191ca6b6c96",
+          "description": "<p>Ever needed a ColorPicker component for Xamarin.Forms? There's a nuget for that.</p>\n\n<p><strong>Note: Article is in Portuguese</strong></p>\n\n<p><a href=\"https://medium.com/@bertuzzi/o-x-do-xamarin-forms-colorpicker-5191ca6b6c96\"><strong>O X do Xamarin Forms</strong></a> by <a href=\"https://medium.com/@bertuzzi\">Thiago Bertuzzi</a></p>",
+          "description_markdown": "Ever needed a ColorPicker component for Xamarin.Forms? There's a nuget for that.\r\n\r\n**Note: Article is in Portuguese**\r\n\r\n[**O X do Xamarin Forms**](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-colorpicker-5191ca6b6c96) by [Thiago Bertuzzi](https://medium.com/@bertuzzi)",
+          "embedded_links": [
+            {
+              "identifier": "IkUXWLu",
+              "title": "**O X do Xamarin Forms**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-colorpicker-5191ca6b6c96"
+            },
+            {
+              "identifier": "yDo5dvE",
+              "title": "Thiago Bertuzzi",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi"
+            }
+          ]
+        },
+        {
+          "identifier": "pc9GTtj",
+          "type": "Link",
+          "title": "Xamarin Forms Acrylic Material Frames",
+          "url_domain": "xamaringuyshow.com",
+          "url": "https://xamaringuyshow.com/2020/04/26/xamarin-forms-acrylic-material-frames/",
+          "description": "<p>The Fluent Design System helps you create modern, bold UI that incorporates light, depth, motion, material, and scale. Acrylic is a Fluent Design System component that adds physical texture (material) and depth to your app.</p>\n\n<p><a href=\"https://xamaringuyshow.com/2020/04/26/xamarin-forms-acrylic-material-frames/\"><strong>Xamarin Forms Acrylic Material Frames</strong></a> by <a href=\"https://twitter.com/XamarinGuy\">Samir G.C</a></p>",
+          "description_markdown": "The Fluent Design System helps you create modern, bold UI that incorporates light, depth, motion, material, and scale. Acrylic is a Fluent Design System component that adds physical texture (material) and depth to your app.\r\n\r\n[**Xamarin Forms Acrylic Material Frames**](https://xamaringuyshow.com/2020/04/26/xamarin-forms-acrylic-material-frames/) by [Samir G.C](https://twitter.com/XamarinGuy)",
+          "embedded_links": [
+            {
+              "identifier": "UFXLNm5",
+              "title": "**Xamarin Forms Acrylic Material Frames**",
+              "url_domain": "xamaringuyshow.com",
+              "url": "https://xamaringuyshow.com/2020/04/26/xamarin-forms-acrylic-material-frames/"
+            },
+            {
+              "identifier": "z5YkNgM",
+              "title": "Samir G.C",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinGuy"
+            }
+          ]
+        },
+        {
+          "identifier": "h5Rxoqd",
+          "type": "Link",
+          "title": "6 Ways in Which Xamarin Forms Evolved",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/6-ways-in-which-xamarin-forms-evolved/",
+          "description": "<p>This a great post from Damien, discussing how Xamarin.Forms has evolved over the years. It is a fantastic reminder of just how far we have come and the amazing work from the team and the community.</p>\n\n<p><a href=\"https://doumer.me/6-ways-in-which-xamarin-forms-evolved/\"><strong>6 Ways in Which Xamarin Forms Evolved</strong></a> by <a href=\"https://twitter.com/Damien_Doumer\">Damien Doumer</a></p>",
+          "description_markdown": "This a great post from Damien, discussing how Xamarin.Forms has evolved over the years. It is a fantastic reminder of just how far we have come and the amazing work from the team and the community.\r\n\r\n[**6 Ways in Which Xamarin Forms Evolved**](https://doumer.me/6-ways-in-which-xamarin-forms-evolved/) by [Damien Doumer](https://twitter.com/Damien_Doumer)",
+          "embedded_links": [
+            {
+              "identifier": "O8eq7P2",
+              "title": "**6 Ways in Which Xamarin Forms Evolved**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/6-ways-in-which-xamarin-forms-evolved/"
+            },
+            {
+              "identifier": "N7TKAtS",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Damien_Doumer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "G6I9O9D",
+          "type": "Link",
+          "title": "Six Things to Love in Xamarin.Forms 4.6 | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Six-Things-to-Love-in-XamarinForms-46--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by friend of the show David Ortinau, Principal Program Manager for Xamarin, who shows off one of the coolest new features in Xamarin.Forms 4.6. This including updates to Visual Material, Shell, Expander, C# UI markup extensions, font embedding, and more!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Six-Things-to-Love-in-XamarinForms-46--The-Xamarin-Show\"><strong>Six Things to Love in Xamarin.Forms 4.6 | The Xamarin Show</strong></a></p>",
+          "description_markdown": "This week, James is joined by friend of the show David Ortinau, Principal Program Manager for Xamarin, who shows off one of the coolest new features in Xamarin.Forms 4.6. This including updates to Visual Material, Shell, Expander, C# UI markup extensions, font embedding, and more!\r\n\r\n[**Six Things to Love in Xamarin.Forms 4.6 | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Six-Things-to-Love-in-XamarinForms-46--The-Xamarin-Show)",
+          "embedded_links": [
+            {
+              "identifier": "MZzubjH",
+              "title": "**Six Things to Love in Xamarin.Forms 4.6 | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Six-Things-to-Love-in-XamarinForms-46--The-Xamarin-Show"
+            }
+          ]
+        },
+        {
+          "identifier": "vvA7DIo",
+          "type": "Link",
+          "title": "COVIDSafe App Teardown & Panel Discussion",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=U3dN99ljgD4",
+          "description": "<p>The Australian Government has released the COVIDSafe app for helping track cases of community transmission of COVID.  Whilst technically not a Xamarin application, some of our wonderful community members have taken apart the application and done a technical evaluation.</p>\n\n<p>WIth: Alec Tucker, Geoff Huntley, Kate Carruthers, Matthew Robbins and Troy Hunt</p>\n\n<p>It's also worth checking out an interesting <a href=\"https://twitter.com/matthewrdev/status/1254336105203200000\">Twitter thread</a> by Matthew Robbins</p>",
+          "description_markdown": "The Australian Government has released the COVIDSafe app for helping track cases of community transmission of COVID.  Whilst technically not a Xamarin application, some of our wonderful community members have taken apart the application and done a technical evaluation.  \r\n\r\nWIth: Alec Tucker, Geoff Huntley, Kate Carruthers, Matthew Robbins and Troy Hunt\r\n\r\nIt's also worth checking out an interesting [Twitter thread](https://twitter.com/matthewrdev/status/1254336105203200000) by Matthew Robbins",
+          "embedded_links": [
+            {
+              "identifier": "rSkXEWY",
+              "title": "Twitter thread",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/matthewrdev/status/1254336105203200000"
+            }
+          ]
+        },
+        {
+          "identifier": "DbQ4syd",
+          "type": "Link",
+          "title": "Xamarin.Forms 101: Basic Animations",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Basic-Animations",
+          "description": "<p>Let's take a step back in a new mini-series that I like to call Xamarin.Forms 101. In each episode we will walk through a basic building block of Xamarin.Forms to help you build awesome cross-platform iOS, Android, and Windows applications in .NET.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Basic-Animations\"><strong>Xamarin.Forms 101: Basic Animations</strong></a> by <a href=\"https://channel9.msdn.com/Niners/maddyleger1\">Maddy Leger</a></p>",
+          "description_markdown": "Let's take a step back in a new mini-series that I like to call Xamarin.Forms 101. In each episode we will walk through a basic building block of Xamarin.Forms to help you build awesome cross-platform iOS, Android, and Windows applications in .NET.\r\n\r\n[**Xamarin.Forms 101: Basic Animations**](https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Basic-Animations) by [Maddy Leger](https://channel9.msdn.com/Niners/maddyleger1)",
+          "embedded_links": [
+            {
+              "identifier": "5pW8XvS",
+              "title": "**Xamarin.Forms 101: Basic Animations**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Basic-Animations"
+            },
+            {
+              "identifier": "JQVuXZS",
+              "title": "Maddy Leger",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/maddyleger1"
+            }
+          ]
+        },
+        {
+          "identifier": "9fVHVxa",
+          "type": "Link",
+          "title": "Merge Conflict: 199: Update, Rewrite, or Throw It Away",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/199",
+          "description": "<p>Frank is having a debate on whether he should update iCircuit to the latest bits or rewrite the apps with Xamarin.Forms. They discuss his options and James throws a bunch of crazy ideas his way.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/199\"><strong>Merge Conflict: 199: Update, Rewrite, or Throw It Away</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "Frank is having a debate on whether he should update iCircuit to the latest bits or rewrite the apps with Xamarin.Forms. They discuss his options and James throws a bunch of crazy ideas his way.\r\n\r\n[**Merge Conflict: 199: Update, Rewrite, or Throw It Away**](https://www.mergeconflict.fm/199) by [Merge Conflict](https://www.mergeconflict.fm)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "4oniWzM",
+              "title": "**Merge Conflict: 199: Update, Rewrite, or Throw It Away**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/199"
+            },
+            {
+              "identifier": "ZI3ilYc",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "sEQmBfO",
+          "type": "Link",
+          "title": "Xamarin.Forms 4.6 Available",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-4-6/",
+          "description": "<p>Today Xamarin.Forms 4.6 ships with a host of improvements, including several new feature previews.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-forms-4-6/\"><strong>Xamarin.Forms 4.6 Available Today! : Xamarin Blog</strong></a> by [David Ortinau]</p>",
+          "description_markdown": "Today Xamarin.Forms 4.6 ships with a host of improvements, including several new feature previews.\r\n\r\n[**Xamarin.Forms 4.6 Available Today! : Xamarin Blog**](https://devblogs.microsoft.com/xamarin/xamarin-forms-4-6/) by [David Ortinau]",
+          "embedded_links": [
+            {
+              "identifier": "Wonnck2",
+              "title": "**Xamarin.Forms 4.6 Available Today! : Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-4-6/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "Id": "257",
+  "Name": "Issue 257",
+  "UpdatedTimeStamp": "2020-05-01T09:42:56Z",
+  "Summary": "No Edition Summary",
+  "PublishDate": "2020-05-01T09:42:52Z",
+  "Curators": "",
+  "Articles": [
+    {
+      "Title": "GitHub Protips: Tips, tricks, hacks, and secrets from Alyson La",
+      "Url": "https://github.blog/2020-04-23-github-protips-tips-tricks-hacks-and-secrets-from-alyson-la/",
+      "Description": "This is the fourth in a series of posts featuring protips from GitHubbers for improving productivity, efficiency, and more.",
+      "EditionId": "257",
+      "Author": "Alyson La",
+      "Id": "257-1",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Enabling LLVM for your Xamarin.iOS custom build targets",
+      "Url": "https://mallibone.com/post/custom-targets-llvm",
+      "Description": "Build targets are not only great to differentiate between a Debug and Release builds. You can also use them for targeting different environments or configurations of your app.",
+      "EditionId": "257",
+      "Author": "Mark Allibone",
+      "Id": "257-2",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Connecting to locahost over HTTPS",
+      "Url": "https://www.davidbritch.com/2020/04/connecting-to-locahost-over-https-from.html",
+      "Description": "Last year, David Britch wrote about how to connect to localhost over HTTPS from iOS simulators and Android emulators. Things have moved on and now he has updated it.",
+      "EditionId": "257",
+      "Author": "David Britch",
+      "Id": "257-3",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Running older versions of Xcode and Xamarin",
+      "Url": "https://damian.fyi/2020/04/27/old-xcode-xamarin/",
+      "Description": "We have all faced the nightmare of updating our tools such as the IDE and being met with messages when we try to do something such as build or run. Damian faced such an issue recently with Xcode and Xamarin and has shared how he resolved it.",
+      "EditionId": "257",
+      "Author": "Damian Mehers",
+      "Id": "257-4",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "MaterialFrame leveled up with a Blur theme!",
+      "Url": "https://www.sharpnado.com/materialframe-blur/",
+      "Description": "MaterialFrame is a great looking control that implements different themes, including Acrylic.  Well it does now after someone pointed out that it was doing it all wrong ;-)  But it's fixed now.",
+      "EditionId": "257",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "257-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "EmptyView with BindableLayouts",
+      "Url": "https://javiersuarezruiz.wordpress.com/2020/04/27/xamarin-forms-emptyview-llega-a-bindablelayouts/",
+      "Description": "With Xamarin.Forms 4.6  we get support for EmptyView in BindableLayouts. That's was a missing piece from the incredibly useful BIndableLayout component. **Note: Article is in Spanish**",
+      "EditionId": "257",
+      "Author": "Javier Suárez Ruiz",
+      "Id": "257-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Examples, and tips for creating applications in Xamarin Forms",
+      "Url": "https://luismts.com/examples-and-tips-for-creating-applications-in-xamarin-forms/",
+      "Description": "Luis Matos brings together some tips to improve your mobile development application skills with Examples and Tips for Xamarin Forms.",
+      "EditionId": "257",
+      "Author": "Luis Matos",
+      "Id": "257-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Quarantine Bingo",
+      "Url": "https://codemilltech.com/quarantine-bingo/",
+      "Description": "When I saw Matt had created this I was super excited, what a fun use of some of my favourite technologies! Using Speech to Text and Xamarin, he created an app that will automate part of playing bingo!!",
+      "EditionId": "257",
+      "Author": "Matt Soucoup",
+      "Id": "257-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms ColorPicker component",
+      "Url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-colorpicker-5191ca6b6c96",
+      "Description": "Ever needed a ColorPicker component for Xamarin.Forms? There's a nuget for that. **Note: Article is in Portuguese**",
+      "EditionId": "257",
+      "Author": "Thiago Bertuzzi",
+      "Id": "257-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin Forms Acrylic Material Frames",
+      "Url": "https://xamaringuyshow.com/2020/04/26/xamarin-forms-acrylic-material-frames/",
+      "Description": "The Fluent Design System helps you create modern, bold UI that incorporates light, depth, motion, material, and scale. Acrylic is a Fluent Design System component that adds physical texture (material) and depth to your app.",
+      "EditionId": "257",
+      "Author": "Samir G.C",
+      "Id": "257-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "6 Ways in Which Xamarin Forms Evolved",
+      "Url": "https://doumer.me/6-ways-in-which-xamarin-forms-evolved/",
+      "Description": "This a great post from Damien, discussing how Xamarin.Forms has evolved over the years. It is a fantastic reminder of just how far we have come and the amazing work from the team and the community.",
+      "EditionId": "257",
+      "Author": "Damien Doumer",
+      "Id": "257-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Six Things to Love in Xamarin.Forms 4.6 | The Xamarin Show",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Six-Things-to-Love-in-XamarinForms-46--The-Xamarin-Show",
+      "Description": "This week, James is joined by friend of the show David Ortinau, Principal Program Manager for Xamarin, who shows off one of the coolest new features in Xamarin.Forms 4.6. This including updates to Visual Material, Shell, Expander, C# UI markup extensions, font embedding, and more! [**Six Things to Love in Xamarin.Forms 4.6 | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Six-Things-to-Love-in-XamarinForms-46--The-Xamarin-Show)",
+      "EditionId": "257",
+      "Id": "257-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "COVIDSafe App Teardown & Panel Discussion",
+      "Url": "https://www.youtube.com/watch?v=U3dN99ljgD4",
+      "Description": "The Australian Government has released the COVIDSafe app for helping track cases of community transmission of COVID.  Whilst technically not a Xamarin application, some of our wonderful community members have taken apart the application and done a technical evaluation.   WIth: Alec Tucker, Geoff Huntley, Kate Carruthers, Matthew Robbins and Troy Hunt It's also worth checking out an interesting [Twitter thread](https://twitter.com/matthewrdev/status/1254336105203200000) by Matthew Robbins",
+      "EditionId": "257",
+      "Id": "257-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms 101: Basic Animations",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Basic-Animations",
+      "Description": "Let's take a step back in a new mini-series that I like to call Xamarin.Forms 101. In each episode we will walk through a basic building block of Xamarin.Forms to help you build awesome cross-platform iOS, Android, and Windows applications in .NET.",
+      "EditionId": "257",
+      "Author": "Maddy Leger",
+      "Id": "257-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 199: Update, Rewrite, or Throw It Away",
+      "Url": "https://www.mergeconflict.fm/199",
+      "Description": "Frank is having a debate on whether he should update iCircuit to the latest bits or rewrite the apps with Xamarin.Forms. They discuss his options and James throws a bunch of crazy ideas his way.",
+      "EditionId": "257",
+      "Author": "Merge Conflict",
+      "Id": "257-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms 4.6 Available",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-4-6/",
+      "Description": "Today Xamarin.Forms 4.6 ships with a host of improvements, including several new feature previews. [**Xamarin.Forms 4.6 Available Today! : Xamarin Blog**](https://devblogs.microsoft.com/xamarin/xamarin-forms-4-6/) by [David Ortinau]",
+      "EditionId": "257",
+      "Id": "257-16",
+      "Category": "RELEASES"
+    }
+  ]
+}

@@ -59,6 +59,16 @@
       ]
     },
     {
+      "Name": "Alyson La",
+      "Id": "https://github.blog/author/alysonla/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://github.blog/author/alysonla/"
+        }
+      ]
+    },
+    {
       "Name": "Andreas Nesheim",
       "Id": "https://twitter.com/andreasnesheim",
       "Aliases": [
@@ -229,6 +239,16 @@
         {
           "Type": "blog",
           "Name": "https://danielhindrikes.se/index.php/author/dhindrik/"
+        }
+      ]
+    },
+    {
+      "Name": "David Britch",
+      "Id": "https://www.blogger.com/profile/08228714867310322959",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.blogger.com/profile/08228714867310322959"
         }
       ]
     },
@@ -593,6 +613,16 @@
       ]
     },
     {
+      "Name": "Mark Allibone",
+      "Id": "https://twitter.com/mallibone",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/mallibone"
+        }
+      ]
+    },
+    {
       "Name": "Martin Zikmund",
       "Id": "https://twitter.com/mzikmunddev",
       "Aliases": [
@@ -795,9 +825,13 @@
       ]
     },
     {
-      "Name": "Samirgc",
-      "Id": "https://xamaringuyshow.com/author/samirgc/",
+      "Name": "Samir G.C",
+      "Id": "https://twitter.com/xamaringuy",
       "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/xamaringuy"
+        },
         {
           "Type": "blog",
           "Name": "https://xamaringuyshow.com/author/samirgc/"
