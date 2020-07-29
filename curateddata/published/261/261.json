@@ -1,0 +1,454 @@
+{
+  "number": 261,
+  "title": "Issue 261",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/261",
+  "publication_status": "published",
+  "published_at": "2020-05-29T14:58:25+01:00",
+  "updated_at": "2020-05-29T14:58:29+01:00",
+  "categories": [
+    {
+      "code": "lucecarter",
+      "name": "LUCE CARTER",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hey everyone,</p>\n\n<p>How is everyone recovering after the excitement of Build? I actually took part in an OpenHack event with my employer this week, run by Microsoft where we were taught all about Kubernetes and AKS! So I was able to talk Build some more which was great!</p>\n\n<p>Some great posts this week in a nice mix of categories which is always good to see! Thanks for everyone who contributed this week! :)</p>\n\n<p>Have a great weekend everyone and see you for next week's episode!</p>\n\n<p>Luce 🧡</p>",
+          "description_markdown": "Hey everyone,\r\n\r\nHow is everyone recovering after the excitement of Build? I actually took part in an OpenHack event with my employer this week, run by Microsoft where we were taught all about Kubernetes and AKS! So I was able to talk Build some more which was great!\r\n\r\nSome great posts this week in a nice mix of categories which is always good to see! Thanks for everyone who contributed this week! :)\r\n\r\nHave a great weekend everyone and see you for next week's episode!\r\n\r\nLuce 🧡",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "GrUCPeA",
+          "type": "Link",
+          "title": "Using settings.json and local.settings.json in your Xamarin apps!",
+          "url_domain": "redth.codes",
+          "url": "https://redth.codes/settings-json-files-in-xamarin-apps/",
+          "description": "<p>Sometimes it's really useful to be able to change things like endpoint urls, API keys and other settings depending if you're building in debug or release mode, or based on some other condition all together.\nSome .NET platforms have had the concept of settings.json files for some time now, but it's not something that's ever been supported in Xamarin.\nThere are a few different approaches to solving this problem, but I decided I finally wanted something a bit more simple and elegant. This post explores how to easily incorporate such a solution into your Xamarin app.</p>\n\n<p><a href=\"https://redth.codes/settings-json-files-in-xamarin-apps/\"><strong>Using settings.json and local.settings.json in your Xamarin apps!</strong></a> by <a href=\"https://twitter.com/redth\">Jonathan Dick</a></p>",
+          "description_markdown": "Sometimes it's really useful to be able to change things like endpoint urls, API keys and other settings depending if you're building in debug or release mode, or based on some other condition all together.\r\nSome .NET platforms have had the concept of settings.json files for some time now, but it's not something that's ever been supported in Xamarin.\r\nThere are a few different approaches to solving this problem, but I decided I finally wanted something a bit more simple and elegant. This post explores how to easily incorporate such a solution into your Xamarin app.\r\n\r\n[**Using settings.json and local.settings.json in your Xamarin apps!**](https://redth.codes/settings-json-files-in-xamarin-apps/) by [Jonathan Dick](https://twitter.com/redth)",
+          "embedded_links": [
+            {
+              "identifier": "K3u3ms2",
+              "title": "**Using settings.json and local.settings.json in your Xamarin apps!**",
+              "url_domain": "redth.codes",
+              "url": "https://redth.codes/settings-json-files-in-xamarin-apps/"
+            },
+            {
+              "identifier": "w4YHElF",
+              "title": "Jonathan Dick",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/redth"
+            }
+          ]
+        },
+        {
+          "identifier": "dhqRnn8",
+          "type": "Link",
+          "title": "Azure Pipeline YAML Generator",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/tools/2020/05/26/tool-yaml-generator-en.html",
+          "description": "<p>Damien has created a really awesome and useful VS Code extention, to generate Azure Pipeline YAML for a few technologies including Xamarin. YAML is really powerful but it can take a while to generate the right templates so this is definitely something worth looking at if you use Azure Pipelines.</p>\n\n<p><a href=\"https://damienaicheh.github.io/tools/2020/05/26/tool-yaml-generator-en.html\"><strong>Azure Pipeline YAML Generator</strong></a> by <a href=\"https://twitter.com/DamienAicheh\">Damien Aicheh</a></p>",
+          "description_markdown": "Damien has created a really awesome and useful VS Code extention, to generate Azure Pipeline YAML for a few technologies including Xamarin. YAML is really powerful but it can take a while to generate the right templates so this is definitely something worth looking at if you use Azure Pipelines.\r\n\r\n[**Azure Pipeline YAML Generator**](https://damienaicheh.github.io/tools/2020/05/26/tool-yaml-generator-en.html) by [Damien Aicheh](https://twitter.com/DamienAicheh)",
+          "embedded_links": [
+            {
+              "identifier": "rDqMwoP",
+              "title": "**Azure Pipeline YAML Generator**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/tools/2020/05/26/tool-yaml-generator-en.html"
+            },
+            {
+              "identifier": "ckzToM2",
+              "title": "Damien Aicheh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DamienAicheh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "C6Stggp",
+          "type": "Link",
+          "title": "Shrink Your Android App Size with One Setting",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/shrink-your-android-app-size-with-one-setting/",
+          "description": "<p>When you are developing Android apps your app size can grow really fast.  We can get so caught up in the day to day that we forget how important it is to keep down the app size of our app.</p>\n\n<p><a href=\"https://montemagno.com/shrink-your-android-app-size-with-one-setting/\"><strong>Shrink Your Android App Size with One Setting</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "When you are developing Android apps your app size can grow really fast.  We can get so caught up in the day to day that we forget how important it is to keep down the app size of our app.\r\n\r\n[**Shrink Your Android App Size with One Setting**](https://montemagno.com/shrink-your-android-app-size-with-one-setting/) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "iFYrI6u",
+              "title": "**Shrink Your Android App Size with One Setting**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/shrink-your-android-app-size-with-one-setting/"
+            },
+            {
+              "identifier": "ovf7n9Z",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "rv1ByrQ",
+          "type": "Link",
+          "title": "Xamarin.Android – Gesture Detector",
+          "url_domain": "xmonkeys360.com",
+          "url": "https://xmonkeys360.com/2020/05/23/xamarin-android-gesture-detector/",
+          "description": "<p>The gesture means finger movement in the touchscreen interface. The different types of gesture’s are Tab, drag, Flick, Swipe, double tab, pinch, Three-finger pinch, three-finger swipe, touch and hold, rotate, shake.</p>\n\n<p><a href=\"https://xmonkeys360.com/2020/05/23/xamarin-android-gesture-detector/\"><strong>Xamarin.Android – Gesture Detector</strong></a> by <a href=\"https://xmonkeys360.com/author/logeshpalani/\">Logesh Palani</a></p>",
+          "description_markdown": "The gesture means finger movement in the touchscreen interface. The different types of gesture’s are Tab, drag, Flick, Swipe, double tab, pinch, Three-finger pinch, three-finger swipe, touch and hold, rotate, shake.\r\n\r\n[**Xamarin.Android – Gesture Detector**](https://xmonkeys360.com/2020/05/23/xamarin-android-gesture-detector/) by [Logesh Palani](https://xmonkeys360.com/author/logeshpalani/)",
+          "embedded_links": [
+            {
+              "identifier": "Z3qSQXu",
+              "title": "**Xamarin.Android – Gesture Detector**",
+              "url_domain": "xmonkeys360.com",
+              "url": "https://xmonkeys360.com/2020/05/23/xamarin-android-gesture-detector/"
+            },
+            {
+              "identifier": "NBmimnw",
+              "title": "Logesh Palani",
+              "url_domain": "xmonkeys360.com",
+              "url": "https://xmonkeys360.com/author/logeshpalani/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "7BdZadP",
+          "type": "Link",
+          "title": "iOS Extension Customized for Xamarin.Forms Pages",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/",
+          "description": "<p>iOS extensions allow developers to customize existing system behaviors by adding extra functionality to iOS and macOS Extension Points. Such as custom context actions, password autofill, and incoming calls filters. Even actions like notification content modifiers. Xamarin.iOS supports extensions and this awesome guide will walk you through creating an iOS extension using Xamarin tools.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/\"><strong>iOS Extension Customized for Xamarin.Forms Pages</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/alexeystrakh/\">Alexey Strakh</a></p>",
+          "description_markdown": "iOS extensions allow developers to customize existing system behaviors by adding extra functionality to iOS and macOS Extension Points. Such as custom context actions, password autofill, and incoming calls filters. Even actions like notification content modifiers. Xamarin.iOS supports extensions and this awesome guide will walk you through creating an iOS extension using Xamarin tools.\r\n\r\n[**iOS Extension Customized for Xamarin.Forms Pages**](https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/) by [Alexey Strakh](https://devblogs.microsoft.com/xamarin/author/alexeystrakh/)",
+          "embedded_links": [
+            {
+              "identifier": "8vZYgcA",
+              "title": "**iOS Extension Customized for Xamarin.Forms Pages**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/"
+            },
+            {
+              "identifier": "6TcWfL6",
+              "title": "Alexey Strakh",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/alexeystrakh/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "vSbXHW4",
+          "type": "Link",
+          "title": "Not really a goodbye to Xamarin – One .Net and MAUI",
+          "url_domain": "xamlabs.com",
+          "url": "https://xamlabs.com/2020/05/24/xamarin-and-maui/",
+          "description": "<p>Microsoft had one grand vision to have unified user interface, which is simpler, small, easier, cross platform and open source and .Net core was part of the journey. In all the versions of .Net core so far Microsoft has added more and more API’s into it.</p>\n\n<p><a href=\"https://xamlabs.com/2020/05/24/xamarin-and-maui/\"><strong>Not really a goodbye to Xamarin – One .Net and MAUI</strong></a> by <a href=\"https://xamlabs.com/about/\">Divikiran Ravela</a></p>",
+          "description_markdown": "Microsoft had one grand vision to have unified user interface, which is simpler, small, easier, cross platform and open source and .Net core was part of the journey. In all the versions of .Net core so far Microsoft has added more and more API’s into it.\r\n\r\n[**Not really a goodbye to Xamarin – One .Net and MAUI**](https://xamlabs.com/2020/05/24/xamarin-and-maui/) by [Divikiran Ravela](https://xamlabs.com/about/)",
+          "embedded_links": [
+            {
+              "identifier": "WzCFHdC",
+              "title": "**Not really a goodbye to Xamarin – One .Net and MAUI**",
+              "url_domain": "xamlabs.com",
+              "url": "https://xamlabs.com/2020/05/24/xamarin-and-maui/"
+            },
+            {
+              "identifier": "Jn0N88i",
+              "title": "Divikiran Ravela",
+              "url_domain": "xamlabs.com",
+              "url": "https://xamlabs.com/about/"
+            }
+          ]
+        },
+        {
+          "identifier": "b9PSzDt",
+          "type": "Link",
+          "title": "Replicating Burger UI App in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-burger-ui-app-in-xamarin-forms/",
+          "description": "<p>Time for learning how to recreate another great UI in your Xamarin.Forms app with Leomaris. This time it's a Burger UI, yummy!!</p>\n\n<p><a href=\"https://askxammy.com/replicating-burger-ui-app-in-xamarin-forms/\"><strong>Replicating Burger UI App in Xamarin Forms</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Time for learning how to recreate another great UI in your Xamarin.Forms app with Leomaris. This time it's a Burger UI, yummy!!\r\n\r\n[**Replicating Burger UI App in Xamarin Forms**](https://askxammy.com/replicating-burger-ui-app-in-xamarin-forms/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "cQm6uIb",
+              "title": "**Replicating Burger UI App in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-burger-ui-app-in-xamarin-forms/"
+            },
+            {
+              "identifier": "yMjKRaR",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "vgPy6Tu",
+          "type": "Link",
+          "title": "Create a Roster Scheduler View in Less Than 20 Minutes in Xamarin.Forms",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/create-a-roster-scheduler-view-in-less-than-20-minutes-in-xamarin-forms.aspx",
+          "description": "<p>To plan for a project, you need to know the availability of the employees required to implement it. The Syncfusion Scheduler control has all the functionalities you need, helping you develop a Xamarin application to create a roster schedule view.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/create-a-roster-scheduler-view-in-less-than-20-minutes-in-xamarin-forms.aspx\"><strong>Create a Roster Scheduler View in Less Than 20 Minutes in Xamarin.Forms</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/nijamudeensulaimansyncfusion-com\">Nijamudeen\n</a></p>",
+          "description_markdown": "To plan for a project, you need to know the availability of the employees required to implement it. The Syncfusion Scheduler control has all the functionalities you need, helping you develop a Xamarin application to create a roster schedule view.\r\n\r\n[**Create a Roster Scheduler View in Less Than 20 Minutes in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/create-a-roster-scheduler-view-in-less-than-20-minutes-in-xamarin-forms.aspx) by [Nijamudeen\r\n](https://www.syncfusion.com/blogs/author/nijamudeensulaimansyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "AxbRoGe",
+              "title": "**Create a Roster Scheduler View in Less Than 20 Minutes in Xamarin.Forms**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/create-a-roster-scheduler-view-in-less-than-20-minutes-in-xamarin-forms.aspx"
+            },
+            {
+              "identifier": "mpGBHG5",
+              "title": "Nijamudeen\r\n",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/nijamudeensulaimansyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "8819B5v",
+          "type": "Link",
+          "title": "[Xamarin.Forms] C# Markup Extension",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2020/05/25/xamarin-forms-c-markup-extensions/",
+          "description": "<p>The C# Markup extension has been in the community for a while now and it was super useful. So much so, it has now made its way into Xamarin.Forms 4.6. Xamarin's very own Javier has written all about it.</p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2020/05/25/xamarin-forms-c-markup-extensions/\"><strong>[Xamarin.Forms] C# Markup Extensions</strong></a> by <a href=\"https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/\">Javier Suárez Ruiz</a></p>",
+          "description_markdown": "The C# Markup extension has been in the community for a while now and it was super useful. So much so, it has now made its way into Xamarin.Forms 4.6. Xamarin's very own Javier has written all about it.\r\n\r\n[**[Xamarin.Forms] C# Markup Extensions**](https://javiersuarezruiz.wordpress.com/2020/05/25/xamarin-forms-c-markup-extensions/) by [Javier Suárez Ruiz](https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/)",
+          "embedded_links": [
+            {
+              "identifier": "XK7jNNO",
+              "title": "Xamarin.Forms] C# Markup Extensions**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2020/05/25/xamarin-forms-c-markup-extensions/"
+            },
+            {
+              "identifier": "QZsnmvm",
+              "title": "Javier Suárez Ruiz",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/"
+            }
+          ]
+        },
+        {
+          "identifier": "B54K4kY",
+          "type": "Link",
+          "title": "Nuevo Control – LinksPreview {Xamarin.Forms} [Spanish]",
+          "url_domain": "vicenteguzman.mx",
+          "url": "https://vicenteguzman.mx/2020/05/25/nuevo-control-linkspreview-xamarin-forms/",
+          "description": "<p>Have you seen on apps like Whatsapp, how sending a link also shows a preview? This cool new control allows you to achieve just that in your Xamarin apps.</p>\n\n<p><a href=\"https://vicenteguzman.mx/2020/05/25/nuevo-control-linkspreview-xamarin-forms/\"><strong>Nuevo Control – LinksPreview {Xamarin.Forms}</strong></a> by <a href=\"https://vicenteguzman.mx/\">Vicente G. Guzmán Lucio</a></p>",
+          "description_markdown": "Have you seen on apps like Whatsapp, how sending a link also shows a preview? This cool new control allows you to achieve just that in your Xamarin apps.\r\n\r\n[**Nuevo Control – LinksPreview {Xamarin.Forms}**](https://vicenteguzman.mx/2020/05/25/nuevo-control-linkspreview-xamarin-forms/) by [Vicente G. Guzmán Lucio](https://vicenteguzman.mx/)",
+          "embedded_links": [
+            {
+              "identifier": "GFfVV85",
+              "title": "**Nuevo Control – LinksPreview {Xamarin.Forms}**",
+              "url_domain": "vicenteguzman.mx",
+              "url": "https://vicenteguzman.mx/2020/05/25/nuevo-control-linkspreview-xamarin-forms/"
+            },
+            {
+              "identifier": "wvsdxF9",
+              "title": "Vicente G. Guzmán Lucio",
+              "url_domain": "vicenteguzman.mx",
+              "url": "https://vicenteguzman.mx/"
+            }
+          ]
+        },
+        {
+          "identifier": "VkyRcSC",
+          "type": "Link",
+          "title": "Using Data Binding in Xamarin Applications",
+          "url_domain": "twilio.com",
+          "url": "https://www.twilio.com/blog/using-data-binding-in-xamarin-applications",
+          "description": "<p>If you regularly read this newsletter, you may recall that last year I wrote some posts for Twilio on Xamarin and getting started. This week a new post in the series went live, all about data binding! It is something a lot of us are probably already using but it's always nice to have a chance to share Xamarin knowledge with another community!</p>\n\n<p><a href=\"https://www.twilio.com/blog/using-data-binding-in-xamarin-applications\"><strong>Using Data Binding in Xamarin Applications</strong></a> by <a href=\"https://twitter.com/lucecarter1\">Luce Carter</a></p>",
+          "description_markdown": "If you regularly read this newsletter, you may recall that last year I wrote some posts for Twilio on Xamarin and getting started. This week a new post in the series went live, all about data binding! It is something a lot of us are probably already using but it's always nice to have a chance to share Xamarin knowledge with another community!\r\n\r\n[**Using Data Binding in Xamarin Applications**](https://www.twilio.com/blog/using-data-binding-in-xamarin-applications) by [Luce Carter](https://twitter.com/lucecarter1)",
+          "embedded_links": [
+            {
+              "identifier": "2Znz7w",
+              "title": "**Using Data Binding in Xamarin Applications**",
+              "url_domain": "twilio.com",
+              "url": "https://www.twilio.com/blog/using-data-binding-in-xamarin-applications"
+            },
+            {
+              "identifier": "YhsWap7",
+              "title": "Luce Carter",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/lucecarter1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "YDNdldK",
+          "type": "Link",
+          "title": "SwipeView - Swipe It All Away | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/SwipeView-Swipe-It-All-Away--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by friend of the show Gerald Versluis, Xamarin.Forms Engineer, who shows off SwipeView, a brand new control for Xamarin.Forms apps. SwipeView enables developers easily add swipe actions on any view and has a lot of great functionality and customization built in. Tune in.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/SwipeView-Swipe-It-All-Away--The-Xamarin-Show\"><strong>SwipeView - Swipe It All Away | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/Shows/XamarinShow\">The Xamarin Show</a></p>",
+          "description_markdown": "This week, James is joined by friend of the show Gerald Versluis, Xamarin.Forms Engineer, who shows off SwipeView, a brand new control for Xamarin.Forms apps. SwipeView enables developers easily add swipe actions on any view and has a lot of great functionality and customization built in. Tune in.\r\n\r\n[**SwipeView - Swipe It All Away | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/SwipeView-Swipe-It-All-Away--The-Xamarin-Show) by [The Xamarin Show](https://channel9.msdn.com/Shows/XamarinShow)",
+          "embedded_links": [
+            {
+              "identifier": "qLhsrMg",
+              "title": "**SwipeView - Swipe It All Away | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/SwipeView-Swipe-It-All-Away--The-Xamarin-Show"
+            },
+            {
+              "identifier": "adahE6T",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow"
+            }
+          ]
+        },
+        {
+          "identifier": "DnnaMHa",
+          "type": "Link",
+          "title": "203: Updating Open Source Projects",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/203",
+          "description": "<p>Sometimes life gets in the way and it takes a bit too long to update that OSS project. A few lessons learned from Frank on SQLite-net and some insight from James on his plethora of projects.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/203\"><strong>203: Updating Open Source Projects</strong></a> by <a href=\"https://mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "Sometimes life gets in the way and it takes a bit too long to update that OSS project. A few lessons learned from Frank on SQLite-net and some insight from James on his plethora of projects.\r\n\r\n[**203: Updating Open Source Projects**](https://www.mergeconflict.fm/203) by [Merge Conflict](https://mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "mHU7kBV",
+              "title": "**203: Updating Open Source Projects**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/203"
+            },
+            {
+              "identifier": "bGXf5xl",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://mergeconflict.fm"
+            }
+          ]
+        },
+        {
+          "identifier": "IAAsEY3",
+          "type": "Link",
+          "title": "NullPointers Podcast - Recapping Microsoft Build 2020",
+          "url_domain": "nullpointer.io",
+          "url": "https://nullpointer.io/build2020/",
+          "description": "<p>I think we can all agree that Microsoft Build has some huge announcements! Not just for Xamarin/MAUI but also Microsoft Learn TV, Codespaces and Azure Static Web Apps. Tune in to this week's NullPointer's, where Gerald, Mark and Steven discuss all this and more!</p>\n\n<p><a href=\"https://nullpointer.io/build2020/\"><strong>NullPointers Podcast - Recapping Microsoft Build 2020</strong></a> by <a href=\"https://twitter.com/nullpointersio\">NullPointers</a></p>",
+          "description_markdown": "I think we can all agree that Microsoft Build has some huge announcements! Not just for Xamarin/MAUI but also Microsoft Learn TV, Codespaces and Azure Static Web Apps. Tune in to this week's NullPointer's, where Gerald, Mark and Steven discuss all this and more!\r\n\r\n[**NullPointers Podcast - Recapping Microsoft Build 2020**](https://nullpointer.io/build2020/) by [NullPointers](https://twitter.com/nullpointersio)",
+          "embedded_links": [
+            {
+              "identifier": "qRFyAn5",
+              "title": "**NullPointers Podcast - Recapping Microsoft Build 2020**",
+              "url_domain": "nullpointer.io",
+              "url": "https://nullpointer.io/build2020/"
+            },
+            {
+              "identifier": "O21ZtEc",
+              "title": "NullPointers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        },
+        {
+          "identifier": "hCZ9TcF",
+          "type": "Link",
+          "title": ".NET Rocks!: 1689: Building Apps using Uno",
+          "url_domain": "dotnetrocks.com",
+          "url": "https://dotnetrocks.com/?show=1689",
+          "description": "<p>On this episide of .NET Rocks!, Richard and Carl are joined by Kenzie Whalen to discuss the Uno Platform, where you write C# and XAML for Windows and are able to deploy via Xamarin to iOS and Android... and to browsers via WebAssembly also! The conversation digs into how UWP is evolving, and the approaches you can take to keep your codebase as common as possible between all the platforms. But there are always variations from platform-to-platform. Kenzie also talks about how some of the new hardware, like Surface Duo, will impact development - more cool stuff is coming!</p>\n\n<p><a href=\"https://dotnetrocks.com/?show=1689\"><strong>.NET Rocks: 1689: Building Apps using Uno</strong></a> by <a href=\"https://dotnetrocks.com\">.NET Rocks!</a></p>",
+          "description_markdown": "On this episide of .NET Rocks!, Richard and Carl are joined by Kenzie Whalen to discuss the Uno Platform, where you write C# and XAML for Windows and are able to deploy via Xamarin to iOS and Android... and to browsers via WebAssembly also! The conversation digs into how UWP is evolving, and the approaches you can take to keep your codebase as common as possible between all the platforms. But there are always variations from platform-to-platform. Kenzie also talks about how some of the new hardware, like Surface Duo, will impact development - more cool stuff is coming!\r\n\r\n[**.NET Rocks: 1689: Building Apps using Uno**](https://dotnetrocks.com/?show=1689) by [.NET Rocks!](https://dotnetrocks.com)",
+          "embedded_links": [
+            {
+              "identifier": "AwZLucv",
+              "title": "**.NET Rocks: 1689: Building Apps using Uno**",
+              "url_domain": "dotnetrocks.com",
+              "url": "https://dotnetrocks.com/?show=1689"
+            },
+            {
+              "identifier": "rt8em4d",
+              "title": ".NET Rocks!",
+              "url_domain": "dotnetrocks.com",
+              "url": "https://dotnetrocks.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "aCNd0D7",
+          "type": "Link",
+          "title": "MFractor 4.2 Release: MAUI Roadmap And Support For Latest Visual Studios",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/mfractor-4-2-release-maui-roadmap-and-support-for-latest-visual-studios",
+          "description": "<p>Here at Weekly Xamarin HQ, we love MFractor so it's always exciting to see new releases! It's great to see support for new Visual Studio releases so quickly. Plus many more awesome features that you should check out today!!</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/mfractor-4-2-release-maui-roadmap-and-support-for-latest-visual-studios\"><strong>MFractor 4.2 Release: MAUI Roadmap And Support For Latest Visual Studios</strong></a> by <a href=\"https://twitter.com/matthewrdev\">Matthew Robbins</a></p>",
+          "description_markdown": "Here at Weekly Xamarin HQ, we love MFractor so it's always exciting to see new releases! It's great to see support for new Visual Studio releases so quickly. Plus many more awesome features that you should check out today!!\r\n\r\n[**MFractor 4.2 Release: MAUI Roadmap And Support For Latest Visual Studios**](https://www.mfractor.com/blogs/news/mfractor-4-2-release-maui-roadmap-and-support-for-latest-visual-studios) by [Matthew Robbins](https://twitter.com/matthewrdev)",
+          "embedded_links": [
+            {
+              "identifier": "giJ29Hk",
+              "title": "**MFractor 4.2 Release: MAUI Roadmap And Support For Latest Visual Studios**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/mfractor-4-2-release-maui-roadmap-and-support-for-latest-visual-studios"
+            },
+            {
+              "identifier": "6VySD35",
+              "title": "Matthew Robbins",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/matthewrdev"
+            }
+          ]
+        },
+        {
+          "identifier": "lQe3p8x",
+          "type": "Link",
+          "title": "TinyMvvm 2.1.1 – Introducing ViewModel navigation",
+          "url_domain": "danielhindrikes.se",
+          "url": "https://danielhindrikes.se/index.php/2020/05/28/tinymvvm-2-1-1-introducing-viewmodel-navigation/",
+          "description": "<p>Daniel has released a new version of TinyMvvm this week. Not only does it now depend on the latest stable version of Xamarin.Forms, but it also implements some code Shane from the Xamarin.Forms team wrote for ViewModel navigation!</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2020/05/28/tinymvvm-2-1-1-introducing-viewmodel-navigation/\"><strong>TinyMvvm 2.1.1 – Introducing ViewModel navigation</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "Daniel has released a new version of TinyMvvm this week. Not only does it now depend on the latest stable version of Xamarin.Forms, but it also implements some code Shane from the Xamarin.Forms team wrote for ViewModel navigation!\r\n\r\n[**TinyMvvm 2.1.1 – Introducing ViewModel navigation**](https://danielhindrikes.se/index.php/2020/05/28/tinymvvm-2-1-1-introducing-viewmodel-navigation/) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "qgdHJ01",
+              "title": "**TinyMvvm 2.1.1 – Introducing ViewModel navigation**",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/2020/05/28/tinymvvm-2-1-1-introducing-viewmodel-navigation/"
+            },
+            {
+              "identifier": "XBAnW98",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,7 +11,7 @@
       "Url": "https://redth.codes/settings-json-files-in-xamarin-apps/",
       "Description": "Sometimes it's really useful to be able to change things like endpoint urls, API keys and other settings depending if you're building in debug or release mode, or based on some other condition all together.Some .NET platforms have had the concept of settings.json files for some time now, but it's not something that's ever been supported in Xamarin.There are a few different approaches to solving this problem, but I decided I finally wanted something a bit more simple and elegant. This post explores how to easily incorporate such a solution into your Xamarin app.",
       "EditionId": "261",
-      "Author": "https://twitter.com/redth",
+      "Author": "Jonathan Dick",
       "Id": "261-1",
       "Category": "TOOLS"
     },
@@ -20,7 +20,7 @@
       "Url": "https://damienaicheh.github.io/tools/2020/05/26/tool-yaml-generator-en.html",
       "Description": "Damien has created a really awesome and useful VS Code extention, to generate Azure Pipeline YAML for a few technologies including Xamarin. YAML is really powerful but it can take a while to generate the right templates so this is definitely something worth looking at if you use Azure Pipelines.",
       "EditionId": "261",
-      "Author": "https://twitter.com/damienaicheh",
+      "Author": "Damien Aicheh",
       "Id": "261-2",
       "Category": "TOOLS"
     },
@@ -29,7 +29,7 @@
       "Url": "https://montemagno.com/shrink-your-android-app-size-with-one-setting/",
       "Description": "When you are developing Android apps your app size can grow really fast.  We can get so caught up in the day to day that we forget how important it is to keep down the app size of our app.",
       "EditionId": "261",
-      "Author": "https://twitter.com/jamesmontemagno",
+      "Author": "James Montemagno",
       "Id": "261-3",
       "Category": "ANDROID"
     },
@@ -38,7 +38,7 @@
       "Url": "https://xmonkeys360.com/2020/05/23/xamarin-android-gesture-detector/",
       "Description": "The gesture means finger movement in the touchscreen interface. The different types of gesture’s are Tab, drag, Flick, Swipe, double tab, pinch, Three-finger pinch, three-finger swipe, touch and hold, rotate, shake.",
       "EditionId": "261",
-      "Author": "https://xmonkeys360.com/author/logeshpalani/",
+      "Author": "Logesh Palani",
       "Id": "261-4",
       "Category": "ANDROID"
     },
@@ -47,7 +47,7 @@
       "Url": "https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/",
       "Description": "iOS extensions allow developers to customize existing system behaviors by adding extra functionality to iOS and macOS Extension Points. Such as custom context actions, password autofill, and incoming calls filters. Even actions like notification content modifiers. Xamarin.iOS supports extensions and this awesome guide will walk you through creating an iOS extension using Xamarin tools.",
       "EditionId": "261",
-      "Author": "https://devblogs.microsoft.com/xamarin/author/alexeystrakh/",
+      "Author": "Alexey Strakh",
       "Id": "261-5",
       "Category": "IOS"
     },
@@ -56,7 +56,7 @@
       "Url": "https://xamlabs.com/2020/05/24/xamarin-and-maui/",
       "Description": "Microsoft had one grand vision to have unified user interface, which is simpler, small, easier, cross platform and open source and .Net core was part of the journey. In all the versions of .Net core so far Microsoft has added more and more API’s into it.",
       "EditionId": "261",
-      "Author": "https://xamlabs.com/about/",
+      "Author": "Divikiran Ravela",
       "Id": "261-6",
       "Category": "XAMARIN FORMS"
     },
@@ -65,7 +65,7 @@
       "Url": "https://askxammy.com/replicating-burger-ui-app-in-xamarin-forms/",
       "Description": "Time for learning how to recreate another great UI in your Xamarin.Forms app with Leomaris. This time it's a Burger UI, yummy!!",
       "EditionId": "261",
-      "Author": "https://twitter.com/leomarisreyes11",
+      "Author": "Leomaris Reyes",
       "Id": "261-7",
       "Category": "XAMARIN FORMS"
     },
@@ -74,7 +74,7 @@
       "Url": "https://www.syncfusion.com/blogs/post/create-a-roster-scheduler-view-in-less-than-20-minutes-in-xamarin-forms.aspx",
       "Description": "To plan for a project, you need to know the availability of the employees required to implement it. The Syncfusion Scheduler control has all the functionalities you need, helping you develop a Xamarin application to create a roster schedule view. [**Create a Roster Scheduler View in Less Than 20 Minutes in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/create-a-roster-scheduler-view-in-less-than-20-minutes-in-xamarin-forms.aspx) by [Nijamudeen](https://www.syncfusion.com/blogs/author/nijamudeensulaimansyncfusion-com)",
       "EditionId": "261",
-      "Author": "https://www.syncfusion.com/blogs/author/nijamudeensulaimansyncfusion-com",
+      "Author": "Nijamudeen",
       "Id": "261-8",
       "Category": "XAMARIN FORMS"
     },
@@ -83,7 +83,7 @@
       "Url": "https://javiersuarezruiz.wordpress.com/2020/05/25/xamarin-forms-c-markup-extensions/",
       "Description": "The C# Markup extension has been in the community for a while now and it was super useful. So much so, it has now made its way into Xamarin.Forms 4.6. Xamarin's very own Javier has written all about it.",
       "EditionId": "261",
-      "Author": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/",
+      "Author": "Javier Suárez Ruiz",
       "Id": "261-9",
       "Category": "XAMARIN FORMS"
     },
@@ -92,7 +92,7 @@
       "Url": "https://vicenteguzman.mx/2020/05/25/nuevo-control-linkspreview-xamarin-forms/",
       "Description": "Have you seen on apps like Whatsapp, how sending a link also shows a preview? This cool new control allows you to achieve just that in your Xamarin apps.",
       "EditionId": "261",
-      "Author": "https://vicenteguzman.mx/",
+      "Author": "Vicente G. Guzmán Lucio",
       "Id": "261-10",
       "Category": "XAMARIN FORMS"
     },
@@ -101,7 +101,7 @@
       "Url": "https://www.twilio.com/blog/using-data-binding-in-xamarin-applications",
       "Description": "If you regularly read this newsletter, you may recall that last year I wrote some posts for Twilio on Xamarin and getting started. This week a new post in the series went live, all about data binding! It is something a lot of us are probably already using but it's always nice to have a chance to share Xamarin knowledge with another community!",
       "EditionId": "261",
-      "Author": "https://twitter.com/lucecarter1",
+      "Author": "Luce Carter",
       "Id": "261-11",
       "Category": "XAMARIN FORMS"
     },
@@ -110,7 +110,7 @@
       "Url": "https://channel9.msdn.com/Shows/XamarinShow/SwipeView-Swipe-It-All-Away--The-Xamarin-Show",
       "Description": "This week, James is joined by friend of the show Gerald Versluis, Xamarin.Forms Engineer, who shows off SwipeView, a brand new control for Xamarin.Forms apps. SwipeView enables developers easily add swipe actions on any view and has a lot of great functionality and customization built in. Tune in.",
       "EditionId": "261",
-      "Author": "https://channel9.msdn.com/shows/xamarinshow",
+      "Author": "The Xamarin Show",
       "Id": "261-12",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -119,7 +119,7 @@
       "Url": "https://www.mergeconflict.fm/203",
       "Description": "Sometimes life gets in the way and it takes a bit too long to update that OSS project. A few lessons learned from Frank on SQLite-net and some insight from James on his plethora of projects.",
       "EditionId": "261",
-      "Author": "https://mergeconflict.fm/",
+      "Author": "Merge Conflict",
       "Id": "261-13",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -128,16 +128,16 @@
       "Url": "https://nullpointer.io/build2020/",
       "Description": "I think we can all agree that Microsoft Build has some huge announcements! Not just for Xamarin/MAUI but also Microsoft Learn TV, Codespaces and Azure Static Web Apps. Tune in to this week's NullPointer's, where Gerald, Mark and Steven discuss all this and more!",
       "EditionId": "261",
-      "Author": "https://twitter.com/nullpointersio",
+      "Author": "Null Pointers",
       "Id": "261-14",
       "Category": "PODCASTS & VIDEOS"
     },
     {
       "Title": ".NET Rocks!: 1689: Building Apps using Uno",
-      "Url": "https://dotnetrocks.com/?show=1689https://dotnetrocks.com/?show=1689",
+      "Url": "https://dotnetrocks.com/?show=1689",
       "Description": "On this episide of .NET Rocks!, Richard and Carl are joined by Kenzie Whalen to discuss the Uno Platform, where you write C# and XAML for Windows and are able to deploy via Xamarin to iOS and Android... and to browsers via WebAssembly also! The conversation digs into how UWP is evolving, and the approaches you can take to keep your codebase as common as possible between all the platforms. But there are always variations from platform-to-platform. Kenzie also talks about how some of the new hardware, like Surface Duo, will impact development - more cool stuff is coming!",
       "EditionId": "261",
-      "Author": "https://dotnetrocks.com/",
+      "Author": ".NET Rocks!",
       "Id": "261-15",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -146,7 +146,7 @@
       "Url": "https://www.mfractor.com/blogs/news/mfractor-4-2-release-maui-roadmap-and-support-for-latest-visual-studios",
       "Description": "Here at Weekly Xamarin HQ, we love MFractor so it's always exciting to see new releases! It's great to see support for new Visual Studio releases so quickly. Plus many more awesome features that you should check out today!!",
       "EditionId": "261",
-      "Author": "https://twitter.com/matthewrdev",
+      "Author": "Matthew Robbins",
       "Id": "261-16",
       "Category": "RELEASES"
     },
@@ -155,7 +155,7 @@
       "Url": "https://danielhindrikes.se/index.php/2020/05/28/tinymvvm-2-1-1-introducing-viewmodel-navigation/",
       "Description": "Daniel has released a new version of TinyMvvm this week. Not only does it now depend on the latest stable version of Xamarin.Forms, but it also implements some code Shane from the Xamarin.Forms team wrote for ViewModel navigation!",
       "EditionId": "261",
-      "Author": "https://twitter.com/hindrikes",
+      "Author": "Daniel Hindrikes",
       "Id": "261-17",
       "Category": "RELEASES"
     }
