@@ -11,7 +11,7 @@
       "Url": "https://nicksnettravelsblog.azurewebsites.net/consuming-swagger/",
       "Description": "Nick looks at consuming a REST based API by first importing its Swagger and using that to generate the code for accessing the API.",
       "EditionId": "263",
-      "Author": "https://twitter.com/thenickrandolph",
+      "Author": "Nick Randolph",
       "Id": "263-1",
       "Category": "CODE"
     },
@@ -20,7 +20,7 @@
       "Url": "https://logeshpalani.blogspot.com/2020/06/how-to-convert-base-64-to-image-in.html",
       "Description": "Learn how to convert Image to base 64 and vice versa which is useful for transferring image data.",
       "EditionId": "263",
-      "Author": "https://twitter.com/logeshpalani98",
+      "Author": "Logesh Palani",
       "Id": "263-2",
       "Category": "CODE"
     },
@@ -29,7 +29,7 @@
       "Url": "https://easings.co/",
       "Description": "A useful site to view common easing curves on a range of interfaces.",
       "EditionId": "263",
-      "Author": "https://twitter.com/worksdotpm",
+      "Author": "Works",
       "Id": "263-3",
       "Category": "DESIGN"
     },
@@ -46,7 +46,7 @@
       "Url": "https://tomsoderling.github.io/Unit-Test-Code-Snippet/",
       "Description": "Naming is hard! But consistency is also important. In this entry to #XamarinMonth, Tom shares a code snippet for creating test methods, that help prompt for a consistent and clear naming style.",
       "EditionId": "263",
-      "Author": "https://twitter.com/tomsoderling",
+      "Author": "Tom Soderling",
       "Id": "263-5",
       "Category": "TESTING"
     },
@@ -55,7 +55,7 @@
       "Url": "https://damian.fyi/2020/06/06/building-releasing-xamarin-watchos-app/",
       "Description": "A really helpful and detailed story here from Damian on building and relasing a WatchOS app to TestFlight for beta testing. Not only does he cover how, but also the issues he faced and how he resolved them. A troubleshooting masterclass!",
       "EditionId": "263",
-      "Author": "https://twitter.com/damianmehers",
+      "Author": "Damian Mehers",
       "Id": "263-6",
       "Category": "IOS"
     },
@@ -64,7 +64,7 @@
       "Url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/simplifying-xamarin-forms-grid-column-row-definitions/",
       "Description": "One of the downsides of XAML is that it can become very verbose. A specific area where this happens is when using a Grid and you start defining rows and columns. To overcome this, a change has been merged that will make your live (and XAML!) a whole lot easier. In this post you will learn how.",
       "EditionId": "263",
-      "Author": "https://blog.verslu.is/author/admin/",
+      "Author": "Gerald Versluis",
       "Id": "263-7",
       "Category": "XAMARIN FORMS"
     },
@@ -73,7 +73,7 @@
       "Url": "https://itnext.io/create-iconic-text-avatars-using-skiasharp-and-xamarin-forms-e1334ae263d8",
       "Description": "Text Avatars are the most elegant alternative to profile pictures in modern design.  In this post, Ahmed shares how to achieve this with SkiaSharp.",
       "EditionId": "263",
-      "Author": "https://twitter.com/mcc_ahmed",
+      "Author": "Ahmed Fouad",
       "Id": "263-8",
       "Category": "XAMARIN FORMS"
     },
@@ -82,7 +82,7 @@
       "Url": "https://danielhindrikes.se/index.php/2020/06/10/get-started-with-tinymvvm/",
       "Description": "This is a tutorial that will guide you through how to get started building an app using Xamarin.Forms and TinyMvvm.",
       "EditionId": "263",
-      "Author": "https://twitter.com/hindrikes",
+      "Author": "Daniel Hindrikes",
       "Id": "263-9",
       "Category": "XAMARIN FORMS"
     },
@@ -91,7 +91,7 @@
       "Url": "https://www.mfractor.com/blogs/news/cleanup-your-xamarin-forms-mvvm-bindings-using-value-converters",
       "Description": "When working with Data Binding in Xamarin.Forms you can often end up with a property in your ViewModel that's of the wrong type or needs to be converted.",
       "EditionId": "263",
-      "Author": "https://twitter.com/lachlanwgordon",
+      "Author": "Lachlan Gordon",
       "Id": "263-10",
       "Category": "XAMARIN FORMS"
     },
@@ -100,7 +100,7 @@
       "Url": "https://danielhindrikes.se/index.php/2020/06/11/snippets-for-tinymvvm/",
       "Description": "This blog post is a part of the Xamarin Month, a great initiative by Luis Matos. Daniel shares his favorite snippets for using TinyMvvm.",
       "EditionId": "263",
-      "Author": "https://twitter.com/hindrikes",
+      "Author": "Daniel Hindrikes",
       "Id": "263-11",
       "Category": "XAMARIN FORMS"
     },
@@ -109,7 +109,7 @@
       "Url": "https://xamgirl.com/validation-snippets-in-xamarin-forms/",
       "Description": "In this article Charlin Agramonte shares snippets for form Validation which is an important part of any application that allows data entry.",
       "EditionId": "263",
-      "Author": "https://twitter.com/chard003",
+      "Author": "Charlin Agramonte",
       "Id": "263-12",
       "Category": "XAMARIN FORMS"
     },
@@ -118,7 +118,7 @@
       "Url": "https://askxammy.com/working-with-connectivity-in-xamarin-forms/",
       "Description": "As Developers, it's important to handle the connection states of our applications because you can make decisions based on what to show or do in our App when a certain state is notified.",
       "EditionId": "263",
-      "Author": "https://twitter.com/leomarisreyes11",
+      "Author": "Leomaris Reyes",
       "Id": "263-13",
       "Category": "XAMARIN FORMS"
     },
@@ -127,7 +127,7 @@
       "Url": "https://theconfuzedsourcecode.wordpress.com/2020/06/09/overriding-back-button-in-xamarin-forms-shell/",
       "Description": "Udara shares lessons learnt about overriding the the Back Button navigation in Xamarin.Forms Shell applications.",
       "EditionId": "263",
-      "Author": "https://twitter.com/udara_alwis",
+      "Author": "Udara Alwis",
       "Id": "263-14",
       "Category": "XAMARIN FORMS"
     },
@@ -136,7 +136,7 @@
       "Url": "https://www.andreasnesheim.no/xamarin-month-xaml-code-snippets/",
       "Description": "A lot of us love Xamarin.Forms and also love XAML. This #XamarinMonth entry from Andreas, sharing snippets of common XAML components we use like listview and collectionview, is definitely a really helpful one, not just for saving time but also helping you learn how the parts work if you are new to creating them.",
       "EditionId": "263",
-      "Author": "https://twitter.com/andreasnesheim",
+      "Author": "Andreas Nesheim",
       "Id": "263-15",
       "Category": "XAMARIN FORMS"
     },
@@ -145,7 +145,7 @@
       "Url": "https://msicc.net/code-snippets-for-xamarin-forms-bindableproperty/",
       "Description": "Another post as part of #XamarinMonth CodeSnippets. This time a great one from Marco Siccardi on BindableProperty and how to speed up creating those!",
       "EditionId": "263",
-      "Author": "https://twitter.com/msicc",
+      "Author": "Marco Siccardi",
       "Id": "263-16",
       "Category": "XAMARIN FORMS"
     },
@@ -154,7 +154,7 @@
       "Url": "https://www.sharpnado.com/sharpnado-shadows-add-many-shadows-to-any-xamarin-forms-view/",
       "Description": "For when one shadow is never enough - Sharpnado.Shadows is here to help you out.",
       "EditionId": "263",
-      "Author": "https://www.sharpnado.com/author/roubachof/",
+      "Author": "Jean-Marie Alfonsi",
       "Id": "263-17",
       "Category": "NUGET OF THE WEEK"
     },
@@ -163,7 +163,7 @@
       "Url": "https://www.youtube.com/watch?v=bB1z4p1HYjY",
       "Description": "Join the Mobile .NET Teams for our community standup covering great community contributions for Mobile .NET, Xamarin, Xamarin.Forms, Components, and more. This time doing a build recap and a dive into Maui.",
       "EditionId": "263",
-      "Author": "https://www.youtube.com/channel/uce-f02uzgexdhmhpc3loaqg",
+      "Author": "Xamarin Developers",
       "Id": "263-18",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -180,7 +180,7 @@
       "Url": "https://www.mergeconflict.fm/205",
       "Description": "In episode 85 of running a business and building apps we discuss ads! Why your app and website should have them or maybe not and if so how to make money.",
       "EditionId": "263",
-      "Author": "https://www.mergeconflict.fm/",
+      "Author": "Merge Conflict",
       "Id": "263-20",
       "Category": "PODCASTS & VIDEOS"
     }
