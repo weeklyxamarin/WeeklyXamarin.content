@@ -45,6 +45,16 @@
       ]
     },
     {
+      "Name": "Aleksandar Gerchev",
+      "Id": "https://www.telerik.com/blogs/author/aleksandar-gerchev",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.telerik.com/blogs/author/aleksandar-gerchev"
+        }
+      ]
+    },
+    {
       "Name": "Alexey Strakh",
       "Id": "https://devblogs.microsoft.com/xamarin/author/alexeystrakh/",
       "Aliases": [
@@ -105,6 +115,16 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/andrew_hoefling"
+        }
+      ]
+    },
+    {
+      "Name": "Antonio Bello",
+      "Id": "https://www.raywenderlich.com/u/jeden",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.raywenderlich.com/u/jeden"
         }
       ]
     },
@@ -313,6 +333,16 @@
       ]
     },
     {
+      "Name": "Eduardo Rosas Osorno",
+      "Id": "https://lalorosas.com/?author=5a8198e15e0ed8a0efe637ff",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://lalorosas.com/?author=5a8198e15e0ed8a0efe637ff"
+        }
+      ]
+    },
+    {
       "Name": "Eilon Lipton",
       "Id": "https://twitter.com/original_ejl",
       "Aliases": [
@@ -391,7 +421,7 @@
       ]
     },
     {
-      "Name": "Javier Suárez Ruiz",
+      "Name": "Javier Suárez",
       "Id": "https://www.youtube.com/channel/ucknulhrlk_zhrpatwvnodma",
       "Aliases": [
         {
@@ -401,6 +431,10 @@
         {
           "Type": "blog",
           "Name": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/"
+        },
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/xamarin/author/jsuarez/"
         }
       ]
     },
@@ -431,6 +465,16 @@
         {
           "Type": "blog",
           "Name": "http://jesseliberty.com/author/jl/"
+        }
+      ]
+    },
+    {
+      "Name": "Jesus Angulo",
+      "Id": "https://somostechies.com/author/jesus/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://somostechies.com/author/jesus/"
         }
       ]
     },
@@ -703,6 +747,16 @@
       ]
     },
     {
+      "Name": "Matthew Soucoup",
+      "Id": "https://codemilltech.com/author/matthew/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://codemilltech.com/author/matthew/"
+        }
+      ]
+    },
+    {
       "Name": "Merge Conflict",
       "Id": "https://www.mergeconflict.fm/",
       "Aliases": [
@@ -757,6 +811,16 @@
         {
           "Type": "blog",
           "Name": "https://nicksnettravelsblog.azurewebsites.net/author/nick/"
+        }
+      ]
+    },
+    {
+      "Name": "Nigel Ferrissey",
+      "Id": "https://www.telerik.com/blogs/author/nigel-ferrissey",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.telerik.com/blogs/author/nigel-ferrissey"
         }
       ]
     },

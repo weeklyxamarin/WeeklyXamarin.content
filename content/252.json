@@ -1,0 +1,168 @@
+{
+  "Id": "252",
+  "Name": "Issue 252",
+  "UpdatedTimeStamp": "2020-03-27T11:02:05Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hey everyone, Another Friday and another bunch of great links.  Also this week we have a link to the recording of the amazing **.NET Conf: Focus on Xamarin** sessions.  I haven't seen all the sessions, but what I have seen has been amazing.  Hopefully, that'll help you get through self-isolation. As always thanks to our contributors and you the reader. Stay Safe ♥ Kym",
+  "PublishDate": "2020-03-27T11:01:59Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Create your own bank of templates for Azure DevOps",
+      "Url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/03/26/create-your-own-bank-of-templates-for-azure-devops-en.html",
+      "Description": "Damien draws his excellent DevOps series to a close by showing you how to reuse templates for all your new projects so you can leverage your hard work. [**Create your own bank of templates for Azure DevOps**](https://damienaicheh.github.io/xamarin/azure/devops/2020/03/26/create-your-own-bank-of-templates-for-azure-devops-en.html) by Damien Aicheh",
+      "EditionId": "252",
+      "Id": "252-1",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Improving the UX when requesting runtime permissions",
+      "Url": "https://xamgirl.com/improving-ux-when-requesting-runtime-permissions/",
+      "Description": "Many apps need to obtain additional permissions from users (like Camera, Geolocation, etc).  However, if you just flood the user with a bunch of permission requests they are likely to reject them which will limit the functionality of your application.  This is actually an underrated UX consideration. In this article Charlin shows you how to improve the whole experience. [**Improving the UX when requesting runtime permissions**](https://xamgirl.com/improving-ux-when-requesting-runtime-permissions/) by Charlin Agramonte",
+      "EditionId": "252",
+      "Id": "252-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Generating your own custom icon font made easy",
+      "Url": "https://www.thewissen.io/generating-your-own-custom-icon-font-made-easy/",
+      "Description": "Using an icon font in your app has been all the rage for a while now, but what if the existing ones aren’t to your liking? It’s pretty easy to make your own if you have vector art available for them. Let’s take a peek!",
+      "EditionId": "252",
+      "Author": "Steven Thewissen",
+      "Id": "252-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "[Xamarin UI Challenge] Flights UI",
+      "Url": "https://javiersuarezruiz.wordpress.com/2020/03/23/xamarin-ui-challenge-flights-ui/",
+      "Description": "Javier is back for another UI challenge for Xamarin.Forms. This time, focusing on a custom Pull To Refresh effect. This is so cool and none of my Pull-To-Refreshes will ever be the same again. **Note: Post is in Spanish**",
+      "EditionId": "252",
+      "Author": "Javier Suárez Ruiz",
+      "Id": "252-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Getting Started with Templated Picker for Xamarin",
+      "Url": "https://www.telerik.com/blogs/getting-started-with-templated-picker-for-xamarin",
+      "Description": "As part of the Telerik R1 2020 release, Telerik released a series of pickers for Xamarin.Forms. In previous blog posts, they have reviewed the DateTime Picker and List Picker controls and the features they provide. It's time to get you familiarized with our Custom (Templated) Picker control.",
+      "EditionId": "252",
+      "Author": "Aleksandar Gerchev",
+      "Id": "252-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Braintree drop in UI",
+      "Url": "https://www.xamboy.com/2020/03/24/braintree-integration-in-xamarin-forms-part-4/",
+      "Description": "Rendy continues his blog series on integrating Braintree for payments into your Xamarin.Forms application.  And it turns out that Braintree provides a complete, ready-made payment UI called Drop- in UI. Rendy shows you how to use this. [**Braintree integration in Xamarin Forms (Part.4 )**](https://www.xamboy.com/2020/03/24/braintree-integration-in-xamarin-forms-part-4/) by Rendy",
+      "EditionId": "252",
+      "Id": "252-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Replicating the UI of a book app in Xamarin",
+      "Url": "https://somostechies.com/ui-books/",
+      "Description": "Jesus discusses the libraries he used in order replicate this book application in Xamarin.Forms.  **Note: Post is in Spanish**",
+      "EditionId": "252",
+      "Author": "Jesus",
+      "Id": "252-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Handle Back Button in Xamarin Forms for Android",
+      "Url": "https://medium.com/@benetskyybogdan/handle-back-button-in-xamarin-forms-for-android-7e1557ce6e59",
+      "Description": "After a great article from Dylan Berry about Confirm Exit from Android application with Xamarin Forms, I start thinking why can’t we do this on every screen we want? This solution prepared for Xamarin.Forms with MvvmCross v6.4.* Framework.",
+      "EditionId": "252",
+      "Author": "Bohdan Benetskyi",
+      "Id": "252-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Increase Binding Possibilities with RelativeSource",
+      "Url": "https://devblogs.microsoft.com/xamarin/binding-possibilities-relativesource/",
+      "Description": "The humble BindingContext has grown up over time and now has many great features like RelativeSource. In this article Javier gets you up and running with it.",
+      "EditionId": "252",
+      "Author": "Javier Suárez",
+      "Id": "252-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Working with Grids in Xamarin.Forms using MFractor",
+      "Url": "https://www.mfractor.com/blogs/news/working-with-grids-in-xamarin-forms-using-mfractor",
+      "Description": "Matthew Robbins discusses the power of grids and some tools within MFractor to make them even easier to work with. [**Working with Grids in Xamarin.Forms using MFractor**](https://www.mfractor.com/blogs/news/working-with-grids-in-xamarin-forms-using-mfractor) by Matthew Robbins",
+      "EditionId": "252",
+      "Id": "252-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "MediaElement in Xamarin.Forms",
+      "Url": "https://www.telerik.com/blogs/how-to-use-the-mediaelement-in-xamarin-forms",
+      "Description": "We explore the MediaElement in Xamarin.Forms — a new way to easily include audio and video in your Xamarin.Forms apps.",
+      "EditionId": "252",
+      "Author": "Nigel Ferrissey",
+      "Id": "252-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Firebase Authentication in Xamarin Forms",
+      "Url": "https://lalorosas.com/blog/firebase-auth-ui",
+      "Description": "Google’s Firebase is a fantastic platform for us developers. It provides a wide variety of services that we may need for our applications, ranging from databases and storage, all the way to machine learning services and analytics.",
+      "EditionId": "252",
+      "Author": "Eduardo Rosas Osorno",
+      "Id": "252-12",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin and SignalR",
+      "Url": "https://www.telerik.com/blogs/real-time-xamarin-apps",
+      "Description": "This is an article about how to build SignalR powered real-time Xamarin mobile apps.",
+      "EditionId": "252",
+      "Author": "Sam Basu",
+      "Id": "252-13",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Staying Motivated as a Work From Home Developer",
+      "Url": "https://www.raywenderlich.com/9573880-staying-motivated-as-a-work-from-home-developer",
+      "Description": "A lot of us are now working from home these days.  It can be very liberating, but it can also be very challenging.  The Ray Wenderlich site has an article with some good advice.",
+      "EditionId": "252",
+      "Author": "Antonio Bello",
+      "Id": "252-14",
+      "Category": "CAREER"
+    },
+    {
+      "Title": ".NET Conf: Focus on Xamarin - Live Stream",
+      "Url": "https://www.youtube.com/watch?v=QFNmLE7pVl4",
+      "Description": ".NET Conf: Focus on Xamarin was on during the week.  It featured amazing speakers (including Luce Carter from WeeklyXamarin) from the community.  If you didn't get an opportunity to tune in, or like me it was on at an undesirable timezone - don't fret... here is the full 9 hours worth of content.",
+      "EditionId": "252",
+      "Author": "Xamarin Developers",
+      "Id": "252-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Binding Kotlin Libraries",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Binding-Kotlin-Libraries--The-Xamarin-Show",
+      "Description": "This week, James is joined by friend of the show Alexey Strakh, Microsoft Mobile Customer Advisory Team Engineer, who shows off how to bind native Kotlin libraries so you can use them in your Xamarin Android apps.",
+      "EditionId": "252",
+      "Author": "James Montemagno",
+      "Id": "252-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Partly Cloudy Episode 10 Recap.",
+      "Url": "https://codemilltech.com/partly-cloudy-episode-10-recap/",
+      "Description": "Matt has made it to the end of the series!! And in today's episoded discusses how to put the app through a mobile DevOps process.",
+      "EditionId": "252",
+      "Author": "Matthew Soucoup",
+      "Id": "252-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 194 - The Day The iPad Became a Laptop",
+      "Url": "https://www.mergeconflict.fm/194",
+      "Description": "It has finally happened! The iPad now has a trackpad and a mouse cursor!!! We discuss for fun!",
+      "EditionId": "252",
+      "Id": "252-18",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
