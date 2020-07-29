@@ -7,20 +7,12 @@
   "Curators": "",
   "Articles": [
     {
-      "Title": "Building a mobile product is hard work, even after you have learned Xamarin",
-      "Url": "https://www.areyouadev.com/try-the-program.html",
-      "Description": "You need to validate your idea, create logos, decide how to monitise, launch to the App Stores and let's not forget market your product to potential users and customers. We have brought our in-person program online in the time of COVID, if you're skeptical after reading/watching our try the program material, schedule a 1 to 1 call with us to answer any of your mobile product questions, no strings.",
-      "EditionId": "268",
-      "Id": "268-1",
-      "Category": "SPONSORED LINK"
-    },
-    {
       "Title": "Resources to learn mobile development",
       "Url": "https://medium.com/@prototypemakers/usingxamarinuniversitytolearnmobiledevelopment-808b6dec3e8b",
       "Description": "Resources to get you started with learning Xamarin including the XamU content.",
       "EditionId": "268",
-      "Author": "https://medium.com/@prototypemakers",
-      "Id": "268-2",
+      "Author": "The First Prototype",
+      "Id": "268-1",
       "Category": "GETTING STARTED"
     },
     {
@@ -28,8 +20,8 @@
       "Url": "https://theconfuzedsourcecode.wordpress.com/2020/07/14/xamvvm-03-specflow-bdd-unittesting-with-xamarin-forms/",
       "Description": "Udara explores the possibilities of the awesome SpecFlow Behavior Driven Testing Framework with Xamarin.Forms!",
       "EditionId": "268",
-      "Author": "https://twitter.com/udara_alwis",
-      "Id": "268-3",
+      "Author": "Udara Alwis",
+      "Id": "268-2",
       "Category": "TESTING"
     },
     {
@@ -37,8 +29,8 @@
       "Url": "https://blog.ndepend.com/10-visual-studio-navigation-productivity-tips/",
       "Description": "A large code base is a complex asset. Visual Studio is a complex environment. In this context developers spend a significant part of their time searching and navigating across code elements and the multiple IDE tools and options.",
       "EditionId": "268",
-      "Author": "https://blog.ndepend.com/author/psmacchia/",
-      "Id": "268-4",
+      "Author": "Patrick Smacchia",
+      "Id": "268-3",
       "Category": "TOOLS"
     },
     {
@@ -46,8 +38,8 @@
       "Url": "https://danielhindrikes.se/index.php/2020/07/14/building-a-styleable-content-button-with-pancakeview/",
       "Description": "What do you do when you need a more flexible button than the one that is shipped with Xamarin.Forms? If you are Daniel Hindrikes you create your own and jam in PancakeViewfor good measure.",
       "EditionId": "268",
-      "Author": "https://twitter.com/hindrikes",
-      "Id": "268-5",
+      "Author": "Daniel Hindrikes",
+      "Id": "268-4",
       "Category": "XAMARIN FORMS"
     },
     {
@@ -55,8 +47,8 @@
       "Url": "https://medium.com/@glennstephens_98130/code-snippet-strategies-3e534f2c1c4a",
       "Description": "Glenn shares his favorite snippets, including comet.  He also shares when and how he uses snippets as well.",
       "EditionId": "268",
-      "Author": "https://medium.com/@glennstephens_98130",
-      "Id": "268-6",
+      "Author": "Glenn Stephens",
+      "Id": "268-5",
       "Category": "XAMARIN FORMS"
     },
     {
@@ -64,8 +56,8 @@
       "Url": "https://www.telerik.com/blogs/building-performant-erp-application-xamarin-forms-mvvmcross-telerik-ui-for-xamarin",
       "Description": "The Telerik ERP is a fully functional, feature-rich cross-platform enterprise resource management app build with Telerik’s high-performant UI controls for Xamarin, Microsoft Azure’s services & the MvvmCross framework.  Even if you dont' use Telerik controls, you might be interest to dig into the source code.",
       "EditionId": "268",
-      "Author": "https://www.telerik.com/blogs/author/atanas-popatanasov",
-      "Id": "268-7",
+      "Author": "Atanas Popatanasov",
+      "Id": "268-6",
       "Category": "XAMARIN FORMS"
     },
     {
@@ -73,8 +65,8 @@
       "Url": "https://www.telerik.com/blogs/learning-swipeview-xamarin-forms",
       "Description": "The swipe action is pretty much common place these days.  Xamarin.Forms has a SwipeView which makes adding a swipe action to your application a piece-of-cake.",
       "EditionId": "268",
-      "Author": "https://www.telerik.com/blogs/author/leomaris-reyes",
-      "Id": "268-8",
+      "Author": "Leomaris Reyes",
+      "Id": "268-7",
       "Category": "XAMARIN FORMS"
     },
     {
@@ -82,8 +74,8 @@
       "Url": "https://askxammy.com/replicating-real-estate-property-details-ui-in-xamarin-forms/",
       "Description": "Creating a nice looking Real Estate UI in Xamarin.Forms with Leomaris.",
       "EditionId": "268",
-      "Author": "https://twitter.com/leomarisreyes11",
-      "Id": "268-9",
+      "Author": "Leomaris Reyes",
+      "Id": "268-8",
       "Category": "XAMARIN FORMS"
     },
     {
@@ -91,8 +83,8 @@
       "Url": "https://codetraveler.io/2020/07/12/improving-collectionview-scrolling/",
       "Description": "Brandon improves the performance of the CollectionView by removing bindings from DataTemplate and increasing the size of the Android Nursery which decreases the frequency of garbage collections.",
       "EditionId": "268",
-      "Author": "https://codetraveler.io/author/brandon/",
-      "Id": "268-10",
+      "Author": "Brandon Minnick",
+      "Id": "268-9",
       "Category": "XAMARIN FORMS"
     },
     {
@@ -100,8 +92,8 @@
       "Url": "https://devblogs.microsoft.com/xamarin/app-themes-xamarin-forms/",
       "Description": "All major OSes now support dark and light app themes, and Xamarin.Forms 4.7 has arrived to make this easy to add to your applications.",
       "EditionId": "268",
-      "Author": "https://devblogs.microsoft.com/xamarin/author/davidortinau/",
-      "Id": "268-11",
+      "Author": "David Ortinau",
+      "Id": "268-10",
       "Category": "XAMARIN FORMS"
     },
     {
@@ -109,8 +101,8 @@
       "Url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-utilizando-firebase-databases-60caa044de57",
       "Description": "Firebase is a popular choice of database for many native android developers. Can you use it with Xamarin.Forms? Of course you can, let Thiago show you how. *Note: Post is in Portuguese*",
       "EditionId": "268",
-      "Author": "https://medium.com/@bertuzzi",
-      "Id": "268-12",
+      "Author": "Thiago Bertuzzi",
+      "Id": "268-11",
       "Category": "XAMARIN FORMS"
     },
     {
@@ -118,8 +110,8 @@
       "Url": "https://xamaringuyshow.com/2020/07/11/xamarin-forms-progress-ring-with-counter/",
       "Description": "See how to build a progress ring with a counter in the middle.",
       "EditionId": "268",
-      "Author": "https://xamaringuyshow.com/author/samirgc/",
-      "Id": "268-13",
+      "Author": "Samirgc",
+      "Id": "268-12",
       "Category": "XAMARIN FORMS"
     },
     {
@@ -127,8 +119,8 @@
       "Url": "https://devblogs.microsoft.com/xamarin/c-sharp-markup-for-xamarin-forms/",
       "Description": "Xamarin.Forms 4.6 introduced C# Markup, a set of fluent helpers and classes that aim to make UI development in C# a joy.",
       "EditionId": "268",
-      "Author": "https://devblogs.microsoft.com/xamarin/author/devvincenth-net/",
-      "Id": "268-14",
+      "Author": "Vincent Hoogendoorn",
+      "Id": "268-13",
       "Category": "XAMARIN FORMS"
     },
     {
@@ -136,8 +128,8 @@
       "Url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/disable-bounce-collectionview-xamarin-forms/",
       "Description": "If you've ever wanted to get rid of the bounce effect on the CollectionView then Gerald has a solution for you.",
       "EditionId": "268",
-      "Author": "https://blog.verslu.is/author/admin/",
-      "Id": "268-15",
+      "Author": "Gerald Versluis",
+      "Id": "268-14",
       "Category": "XAMARIN FORMS"
     },
     {
@@ -145,8 +137,8 @@
       "Url": "https://www.infoworld.com/article/3565550/understanding-net-maui-and-the-future-of-xamarin.html",
       "Description": "The move towards Maui can seem scary to some Xamarin developers.  But it's not bad, it's just Xamarin growing up.",
       "EditionId": "268",
-      "Author": "https://www.infoworld.com/author/simon-bisson/",
-      "Id": "268-16",
+      "Author": "Simon Bisson",
+      "Id": "268-15",
       "Category": "XAMARIN FORMS"
     },
     {
@@ -154,8 +146,8 @@
       "Url": "https://xamarinmonkeys.blogspot.com/2020/07/xamarinforms-debugging-webview.html",
       "Description": "Sometimes you need to be able to debug the WebView in Xamarin.Forms. Here is how you can do it.",
       "EditionId": "268",
-      "Author": "https://www.blogger.com/profile/12290645674821205145",
-      "Id": "268-17",
+      "Author": "Delpin Susai Raj",
+      "Id": "268-16",
       "Category": "XAMARIN FORMS"
     },
     {
@@ -163,8 +155,8 @@
       "Url": "https://github.com/AndreiMisiukevich/RangeSlider",
       "Description": "Andrei gives us a really cool Xamarin.Forms Range Slider control which allows your users to specify values between a range of values.",
       "EditionId": "268",
-      "Author": "https://twitter.com/andrik_just4fun",
-      "Id": "268-18",
+      "Author": "Andrei Misiukevich",
+      "Id": "268-17",
       "Category": "NUGET OF THE WEEK"
     },
     {
@@ -172,8 +164,8 @@
       "Url": "https://www.mergeconflict.fm/210",
       "Description": "Beta summers, favorite C# 9 features, best new cross-platform app frameworks, and USB-C on this week's lightning topics!",
       "EditionId": "268",
-      "Author": "https://twitter.com/mergeconflictfm",
-      "Id": "268-19",
+      "Author": "Merge Conflict",
+      "Id": "268-18",
       "Category": "PODCASTS & VIDEOS"
     },
     {
@@ -181,7 +173,7 @@
       "Url": "https://www.xamarinpodcast.com/75",
       "Description": "Xamarin.Forms 4.7 is out and the Inverter Converter is all the rage!! This month James and Matt run down the rest of the great features in Xamarin.Forms 4.7",
       "EditionId": "268",
-      "Id": "268-20",
+      "Id": "268-19",
       "Category": "PODCASTS & VIDEOS"
     },
     {
@@ -189,8 +181,8 @@
       "Url": "https://channel9.msdn.com/Shows/XamarinShow/Hot-Restart-Easily-Debug-to-iOS-Devices",
       "Description": "This week, James is joined by Maddy Leger, Program Manager for Xamarin Tooling, who shows off Hot Restart, one of the coolest new features of Xamarin.",
       "EditionId": "268",
-      "Author": "https://channel9.msdn.com/niners/jamesmontemagno",
-      "Id": "268-21",
+      "Author": "James Montemagno",
+      "Id": "268-20",
       "Category": "PODCASTS & VIDEOS"
     }
   ]
