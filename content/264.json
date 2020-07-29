@@ -11,7 +11,7 @@
       "Url": "https://marcofolio.net/snippets-xamarin-uitest/",
       "Description": "Part of #XamarinMonth If you’re trying to create automated tests for your Xamarin app, you must have stumbled across Xamarin.UITest. It’s a great way to bring the quality of your application to the next level. Just make sure to apply the best practices when using Xamarin.UITest (especially the Page Object Pattern) otherwise your code can get messy really fast. But when everything is set up properly, you can automatically test your application through the UI on over 1000 devices using Visual Studio App Center!",
       "EditionId": "264",
-      "Author": "https://twitter.com/marcofolio",
+      "Author": "Marco Kuiper",
       "Id": "264-1",
       "Category": "TESTING"
     },
@@ -20,7 +20,7 @@
       "Url": "https://danielhindrikes.se/index.php/2020/06/17/autofac-vs-tinyioc/",
       "Description": "Daniel was asked to support IoC in TinyMvvm so he created TinyIoC, but he decided to do some measurements to compare Autofac with TinyIoC in terms of performance. Its a fascinating read!",
       "EditionId": "264",
-      "Author": "https://twitter.com/hindrikes",
+      "Author": "Daniel Hindrikes",
       "Id": "264-2",
       "Category": "PERFORMANCE"
     },
@@ -29,7 +29,7 @@
       "Url": "https://nicksnettravels.builttoroam.com/xamarin-devops-snippets/?utm_source=rss&utm_medium=rss&utm_campaign=xamarin-devops-snippets",
       "Description": "Part of #XamarinMonth  Azure Pipeline Templates are really powerful. They are even reusable across different repositories! Nick shares some code snippets to allow you to get started with Azure DevOps and your Xamarin apps!",
       "EditionId": "264",
-      "Author": "https://twitter.com/thenickrandolph",
+      "Author": "Nick Randolph",
       "Id": "264-3",
       "Category": "DEVOPS"
     },
@@ -38,7 +38,7 @@
       "Url": "https://damian.fyi/2020/06/19/snippets-platform-specifics/",
       "Description": "Part of #XamarinMonth  Platform-Specifics is a useful and powerful feature that opens up a whole new experience for users. However sometimes they can be hard to remember. The one I experience most, which is what made this post from Damian catch my eye, is SafeArea on iOS, the little nugget that means your UI isnt ruined by the notch! There are a load of useful snippets in here too!",
       "EditionId": "264",
-      "Author": "https://twitter.com/damianmehers",
+      "Author": "Damian Mehers",
       "Id": "264-4",
       "Category": "XAMARIN FORMS"
     },
@@ -47,7 +47,7 @@
       "Url": "https://www.xamboy.com/2020/06/17/xamarin-forms-prism-code-snippets/",
       "Description": "Part of #XamarinMonth  Prism is a popular framework that many developers add to their application. So this entry to the Code Snippet month by Rendy will definitely be very valuable for a lot of people!",
       "EditionId": "264",
-      "Author": "https://twitter.com/rdelrosario",
+      "Author": "Rendy Del Rosario",
       "Id": "264-5",
       "Category": "XAMARIN FORMS"
     },
@@ -56,7 +56,7 @@
       "Url": "https://www.syncfusion.com/blogs/post/access-files-in-dropbox-and-use-them-in-xamarin-app.aspx",
       "Description": "We have often stored and accessed local files on a device but have you ever wanted to know how to use Dropbox in your Xamarin.Forms app? This great post shows you how to get started!",
       "EditionId": "264",
-      "Author": "https://www.syncfusion.com/blogs/author/ramkumarrsyncfusion-com",
+      "Author": "Ramkumar Ravy",
       "Id": "264-6",
       "Category": "XAMARIN FORMS"
     },
@@ -65,7 +65,7 @@
       "Url": "https://theconfuzedsourcecode.wordpress.com/2020/06/13/so-i-took-up-on-travelmonkey-the-xamarin-cognitive-services-challenge/",
       "Description": "You may recall the recent Xamarin Challenge, Travel Monkey which helped you learn how to use Cognitive Services! Udara took part in the challenge to add a new feature of your choice and this is a really great write up of his experience!",
       "EditionId": "264",
-      "Author": "https://twitter.com/udara_alwis",
+      "Author": "Udara Alwis",
       "Id": "264-7",
       "Category": "XAMARIN FORMS"
     },
@@ -74,7 +74,7 @@
       "Url": "https://itnext.io/create-iconic-text-avatars-using-skiasharp-and-xamarin-forms-e1334ae263d8",
       "Description": "Text Avatars are the most elegant alternative to profile pictures in modern design, their usage is not limited only to when the profile picture is missing or not loaded but in some systems and mobile apps, they are used as a full replacement of profile pics.",
       "EditionId": "264",
-      "Author": "https://twitter.com/mcc_ahmed",
+      "Author": "Ahmed Fouad",
       "Id": "264-8",
       "Category": "XAMARIN FORMS"
     },
@@ -83,7 +83,7 @@
       "Url": "https://medium.com/@benetskyybogdan/xamarin-magic-code-snippets-96b2c142b460",
       "Description": "Part of #XamarinMonth  I discovered MagicGradients last year, it's a powerful way to do awesome gradients in your application, and it even supports CSS! So I am really excited to see that Bohdan has featured it in this month's code snippets calendar.",
       "EditionId": "264",
-      "Author": "https://twitter.com/bbenetskyy",
+      "Author": "Bohdan Benetskyi",
       "Id": "264-9",
       "Category": "XAMARIN FORMS"
     },
@@ -92,7 +92,7 @@
       "Url": "https://channel9.msdn.com/Shows/XamarinShow/Cross-platform-Images-Simplified-with-ResizetizerNT--The-Xamarin-Show",
       "Description": "This week, James is joined by friend of the show and Xamarin Engineer Lead, Jonathan Dick. Are you tired of copying files in and out of different folders? Are you tired of worrying about different image resolutions? Then ResizetizerNT is for you! An amazing library from Jon that enables you to add all of your images into your .NET Standard project and have them resized and added to the correct platform folders and build time! You have to check this awesome library out.",
       "EditionId": "264",
-      "Author": "https://channel9.msdn.com/niners/jamesmontemagno",
+      "Author": "James Montemagno",
       "Id": "264-10",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -101,7 +101,7 @@
       "Url": "https://nullpointers.io/OSS/",
       "Description": "Ever considered contributing to an Open Source project? In our fifth episode we discuss about contributing to open source projects. We discuss why and how to get started, what different ways there are to contribute and some of the interpersonal pitfalls that can arise when taking part in your open source endeavour.",
       "EditionId": "264",
-      "Author": "https://nullpointers.io/",
+      "Author": "Null Pointers",
       "Id": "264-11",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -110,7 +110,7 @@
       "Url": "https://kerry.lothrop.de/devtalk-39/",
       "Description": "On episode 39 of DevTalk, Kerry speaks to David Ortinau about the future of Xamarin and .NET MAUI.",
       "EditionId": "264",
-      "Author": "https://twitter.com/kwlothrop",
+      "Author": "Kerry Lothrop",
       "Id": "264-12",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -119,7 +119,7 @@
       "Url": "https://www.mergeconflict.fm/206",
       "Description": "Frank is off with another #holidayhack... in June with his BuildLight project!.",
       "EditionId": "264",
-      "Author": "https://www.mergeconflict.fm/",
+      "Author": "Merge Conflict",
       "Id": "264-13",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -136,7 +136,7 @@
       "Url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-4-7/",
       "Description": "Xamarin.Forms 4.7 is out and I couldn't be more excited for this release! It includes a long overdue simplification of rows and columns definitions, shapes and paths (pretty icons incoming) and much more!",
       "EditionId": "264",
-      "Author": "https://devblogs.microsoft.com/xamarin/author/jacobkirsch/",
+      "Author": "Jacob Kirsch",
       "Id": "264-15",
       "Category": "RELEASES"
     }
