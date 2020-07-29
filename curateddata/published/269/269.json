@@ -1,0 +1,561 @@
+{
+  "number": 269,
+  "title": "Issue 269",
+  "summary": "Design Tips, ADB Masterclass, Shapes, and loads of Xamarin.Forms",
+  "url": "http://weeklyxamarin.com/issues/269",
+  "publication_status": "published",
+  "published_at": "2020-07-24T09:21:43+01:00",
+  "updated_at": "2020-07-24T09:21:48+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday.</p>\n\n<p>This week we have some great design blogs and tools.  As always, there are great Xamarin.Forms articles discussing multi-lingual apps and the new shapes components to name just a couple. This week there is also a great post on the Android ADB command and creating bindings.</p>\n\n<p>Have a great weekend, stay safe... and wear a mask.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Friday.\r\n\r\nThis week we have some great design blogs and tools.  As always, there are great Xamarin.Forms articles discussing multi-lingual apps and the new shapes components to name just a couple. This week there is also a great post on the Android ADB command and creating bindings.\r\n\r\nHave a great weekend, stay safe... and wear a mask.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "lbTEtki",
+          "type": "Link",
+          "title": "UnoConf 2020 – Virtual & Free",
+          "url_domain": "unoconf.com",
+          "url": "https://unoconf.com?utm_source=xamweekly-Jul25&utm_medium=email&utm_campaign=unoconf",
+          "description": "<p>Learn how to build cross-platform, single source, Web-Mobile-Desktop applications with C# and XAML only at Uno Platform’s annual conference. Speakers from Microsoft, Uno Platform core OSS team and community. <a href=\"https://unoconf.com?utm_source=xamweekly-Jul25&amp;utm_medium=email&amp;utm_campaign=unoconf\">Register now</a>.</p>",
+          "description_markdown": "Learn how to build cross-platform, single source, Web-Mobile-Desktop applications with C# and XAML only at Uno Platform’s annual conference. Speakers from Microsoft, Uno Platform core OSS team and community. [Register now](https://unoconf.com?utm_source=xamweekly-Jul25&utm_medium=email&utm_campaign=unoconf).",
+          "embedded_links": [
+            {
+              "identifier": "BMP7c6A",
+              "title": "Register now",
+              "url_domain": "unoconf.com",
+              "url": "https://unoconf.com?utm_source=xamweekly-Jul25&utm_medium=email&utm_campaign=unoconf"
+            }
+          ],
+          "image_original_filename": "bc312017-21e0-4991-94ab-f06988bb4104.jpg",
+          "image_extra_large_filename": "original_ratio_extra_large_bc312017-21e0-4991-94ab-f06988bb4104.jpg",
+          "image_medium_filename": "original_ratio_medium_bc312017-21e0-4991-94ab-f06988bb4104.jpg"
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "Sn0fgjB",
+          "type": "Link",
+          "title": "Don’t Judge XAML Based On Lines of Code",
+          "url_domain": "azurewebsites.net",
+          "url": "https://nicksnettravelsblog.azurewebsites.net/xaml-lines-of-code/",
+          "description": "<p>For those following the on-going discussion around the future of XAML and specifically the use of XAML in DotNetMaui/Xamarin.Forms, this post is a follow on from two great posts discussing the options that are, or will be, available for Xamarin.</p>\n\n<p><a href=\"https://nicksnettravelsblog.azurewebsites.net/xaml-lines-of-code/\"><strong>Don’t Judge XAML Based On Lines of Code</strong></a> by <a href=\"https://nicksnettravelsblog.azurewebsites.net/author/nick/\">Nick</a></p>",
+          "description_markdown": "For those following the on-going discussion around the future of XAML and specifically the use of XAML in DotNetMaui/Xamarin.Forms, this post is a follow on from two great posts discussing the options that are, or will be, available for Xamarin.\r\n\r\n[**Don’t Judge XAML Based On Lines of Code**](https://nicksnettravelsblog.azurewebsites.net/xaml-lines-of-code/) by [Nick](https://nicksnettravelsblog.azurewebsites.net/author/nick/)",
+          "embedded_links": [
+            {
+              "identifier": "r70i7ls",
+              "title": "Nick",
+              "url_domain": "azurewebsites.net",
+              "url": "https://nicksnettravelsblog.azurewebsites.net/author/nick/"
+            },
+            {
+              "identifier": "woUDpjf",
+              "title": "**Don’t Judge XAML Based On Lines of Code**",
+              "url_domain": "azurewebsites.net",
+              "url": "https://nicksnettravelsblog.azurewebsites.net/xaml-lines-of-code/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "OPbtI7D",
+          "type": "Link",
+          "title": "Designed for iPad",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/lookup-design/designed-for-ipad-a77f05c4919a",
+          "description": "<p>Over the last few years, the iPad has transformed significantly from being a large touch screen device to a device that supports multiple inputs and can be used in a variety of situations. It’s changed the way people interact with their apps. But how should you design for iPad apps?</p>\n\n<p><a href=\"https://medium.com/lookup-design/designed-for-ipad-a77f05c4919a\"><strong>Designed for iPad</strong></a> by <a href=\"https://medium.com/@viditb\">Vidit Bhargava</a></p>",
+          "description_markdown": "Over the last few years, the iPad has transformed significantly from being a large touch screen device to a device that supports multiple inputs and can be used in a variety of situations. It’s changed the way people interact with their apps. But how should you design for iPad apps?\r\n\r\n[**Designed for iPad**](https://medium.com/lookup-design/designed-for-ipad-a77f05c4919a) by [Vidit Bhargava](https://medium.com/@viditb)",
+          "embedded_links": [
+            {
+              "identifier": "7YaszUj",
+              "title": "**Designed for iPad**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/lookup-design/designed-for-ipad-a77f05c4919a"
+            },
+            {
+              "identifier": "q0xSrpd",
+              "title": "Vidit Bhargava",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@viditb"
+            }
+          ]
+        },
+        {
+          "identifier": "JYBh2PA",
+          "type": "Link",
+          "title": "Mobile App Redesign for Developers: GitTrends",
+          "url_domain": "pujolsluis.com",
+          "url": "https://www.pujolsluis.com/mobile-app-redesign-for-developers-gittrends/",
+          "description": "<p>Polishing and working with UI/UX design can feel intimidating and like we definitely need a Designer in our team to get out a production-ready app design. In this series, you will be able to learn key tools, resources, and workflow you can use to start building clean and immersive app designs as a Developer.</p>\n\n<p><a href=\"https://www.pujolsluis.com/mobile-app-redesign-for-developers-gittrends/\"><strong>Mobile App Redesign for Developers: GitTrends</strong></a> by <a href=\"https://www.pujolsluis.com/author/admin/\">Pujolsluis</a></p>",
+          "description_markdown": "Polishing and working with UI/UX design can feel intimidating and like we definitely need a Designer in our team to get out a production-ready app design. In this series, you will be able to learn key tools, resources, and workflow you can use to start building clean and immersive app designs as a Developer.\r\n\r\n[**Mobile App Redesign for Developers: GitTrends**](https://www.pujolsluis.com/mobile-app-redesign-for-developers-gittrends/) by [Pujolsluis](https://www.pujolsluis.com/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "vzqnDTV",
+              "title": "**Mobile App Redesign for Developers: GitTrends**",
+              "url_domain": "pujolsluis.com",
+              "url": "https://www.pujolsluis.com/mobile-app-redesign-for-developers-gittrends/"
+            },
+            {
+              "identifier": "vFAv10B",
+              "title": "Pujolsluis",
+              "url_domain": "pujolsluis.com",
+              "url": "https://www.pujolsluis.com/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "mEZFuyr",
+          "type": "Link",
+          "title": "Generating beautiful frames for your iOS & Android screenshots instantly",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@prototypemakers/generating-beautiful-frames-for-your-ios-android-screenshots-instantly-5175d77a0493",
+          "description": "<p>Have you have ever needed to share your app screenshots with other team members, but skipped adding the frame just to save time? Taking a screenshot is as simple as a click, but designing &amp; dealing with image editing tools is definitely not a developer’s forte.</p>\n\n<p><a href=\"https://medium.com/@prototypemakers/generating-beautiful-frames-for-your-ios-android-screenshots-instantly-5175d77a0493\"><strong>Generating beautiful frames for your iOS &amp; Android screenshots instantly</strong></a> by <a href=\"https://medium.com/@prototypemakers\">The First Prototype</a></p>",
+          "description_markdown": "Have you have ever needed to share your app screenshots with other team members, but skipped adding the frame just to save time? Taking a screenshot is as simple as a click, but designing & dealing with image editing tools is definitely not a developer’s forte.\r\n\r\n[**Generating beautiful frames for your iOS & Android screenshots instantly**](https://medium.com/@prototypemakers/generating-beautiful-frames-for-your-ios-android-screenshots-instantly-5175d77a0493) by [The First Prototype](https://medium.com/@prototypemakers)",
+          "embedded_links": [
+            {
+              "identifier": "OSlvoCE",
+              "title": "**Generating beautiful frames for your iOS & Android screenshots instantly**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prototypemakers/generating-beautiful-frames-for-your-ios-android-screenshots-instantly-5175d77a0493"
+            },
+            {
+              "identifier": "72UQ3HN",
+              "title": "The First Prototype",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prototypemakers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "D4db82a",
+          "type": "Link",
+          "title": "Xamarin DevOps Snippets (aka Pipeline Templates)",
+          "url_domain": "azurewebsites.net",
+          "url": "https://nicksnettravelsblog.azurewebsites.net/xamarin-devops-snippets/",
+          "description": "<p>Nick Randolph covers some code snippets that use Pipeline Templates in order to setup a Azure DevOps pipeline for your Xamarin application.</p>\n\n<p><a href=\"https://nicksnettravelsblog.azurewebsites.net/xamarin-devops-snippets/\"><strong>Xamarin DevOps Snippets (aka Pipeline Templates)</strong></a> by <a href=\"https://nicksnettravelsblog.azurewebsites.net/author/nick/\">Nick</a></p>",
+          "description_markdown": "Nick Randolph covers some code snippets that use Pipeline Templates in order to setup a Azure DevOps pipeline for your Xamarin application.\r\n\r\n[**Xamarin DevOps Snippets (aka Pipeline Templates)**](https://nicksnettravelsblog.azurewebsites.net/xamarin-devops-snippets/) by [Nick](https://nicksnettravelsblog.azurewebsites.net/author/nick/)",
+          "embedded_links": [
+            {
+              "identifier": "FtrwhP0",
+              "title": "**Xamarin DevOps Snippets (aka Pipeline Templates)**",
+              "url_domain": "azurewebsites.net",
+              "url": "https://nicksnettravelsblog.azurewebsites.net/xamarin-devops-snippets/"
+            },
+            {
+              "identifier": "5llMiNa",
+              "title": "Nick",
+              "url_domain": "azurewebsites.net",
+              "url": "https://nicksnettravelsblog.azurewebsites.net/author/nick/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "rGDm54x",
+          "type": "Link",
+          "title": "10 Visual Studio Files and Layout Productivity Tips",
+          "url_domain": "ndepend.com",
+          "url": "https://blog.ndepend.com/10-visual-studio-files-and-layout-productivity-tips/",
+          "description": "<p>Nowadays most developers are working remotely. Hence the monitor(s) configuration might have changed, and might change frequently. In this context, it does matter to optimize the Visual Studio layout and documents access. Here are some tips.</p>\n\n<p><a href=\"https://blog.ndepend.com/10-visual-studio-files-and-layout-productivity-tips/\"><strong>10 Visual Studio Files and Layout Productivity Tips</strong></a> by <a href=\"https://blog.ndepend.com/author/psmacchia/\">Patrick Smacchia</a></p>",
+          "description_markdown": "Nowadays most developers are working remotely. Hence the monitor(s) configuration might have changed, and might change frequently. In this context, it does matter to optimize the Visual Studio layout and documents access. Here are some tips.\r\n\r\n[**10 Visual Studio Files and Layout Productivity Tips**](https://blog.ndepend.com/10-visual-studio-files-and-layout-productivity-tips/) by [Patrick Smacchia](https://blog.ndepend.com/author/psmacchia/)",
+          "embedded_links": [
+            {
+              "identifier": "hkznpLF",
+              "title": "**10 Visual Studio Files and Layout Productivity Tips**",
+              "url_domain": "ndepend.com",
+              "url": "https://blog.ndepend.com/10-visual-studio-files-and-layout-productivity-tips/"
+            },
+            {
+              "identifier": "zkcDFfI",
+              "title": "Patrick Smacchia",
+              "url_domain": "ndepend.com",
+              "url": "https://blog.ndepend.com/author/psmacchia/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "5ly1GVL",
+          "type": "Link",
+          "title": "Android Debug Bridge Master Class",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/android-debug-bridge-for-xamarin-developers",
+          "description": "<p>ADB, Android Debug Bridge, is a useful command line utility for interacting with Android devices for debugging and diagnostic purposes. Xamarin developers can use ADB to install/uninstall packages, inspect running apps, push and pull files and check error logs. Consider this your master class on the subject.</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/android-debug-bridge-for-xamarin-developers\"><strong>Android Debug Bridge For Xamarin Developers</strong></a> by <a href=\"https://twitter.com/lachlanwgordon\">Lachlan Gordon</a></p>",
+          "description_markdown": "ADB, Android Debug Bridge, is a useful command line utility for interacting with Android devices for debugging and diagnostic purposes. Xamarin developers can use ADB to install/uninstall packages, inspect running apps, push and pull files and check error logs. Consider this your master class on the subject.\r\n\r\n[**Android Debug Bridge For Xamarin Developers**](https://www.mfractor.com/blogs/news/android-debug-bridge-for-xamarin-developers) by [Lachlan Gordon](https://twitter.com/lachlanwgordon)",
+          "embedded_links": [
+            {
+              "identifier": "WfZiYzj",
+              "title": "**Android Debug Bridge For Xamarin Developers**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/android-debug-bridge-for-xamarin-developers"
+            },
+            {
+              "identifier": "xmHzMLQ",
+              "title": "Lachlan Gordon",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/lachlanwgordon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "amImG5q",
+          "type": "Link",
+          "title": "Mastering Multilingual in Xamarin.Forms",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/mastering-multilingual-in-xamarin-forms/",
+          "description": "<p>Charlin Agramont has a guest post on the Microsoft blog talking about Multilingual support, which is one of the most common requirements for mobile apps.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/mastering-multilingual-in-xamarin-forms/\"><strong>Mastering Multilingual in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/chard003/\">Charlin Agramonte</a></p>",
+          "description_markdown": "Charlin Agramont has a guest post on the Microsoft blog talking about Multilingual support, which is one of the most common requirements for mobile apps.\r\n\r\n[**Mastering Multilingual in Xamarin.Forms**](https://devblogs.microsoft.com/xamarin/mastering-multilingual-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003/)",
+          "embedded_links": [
+            {
+              "identifier": "LWAAF8Z",
+              "title": "**Mastering Multilingual in Xamarin.Forms**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/mastering-multilingual-in-xamarin-forms/"
+            },
+            {
+              "identifier": "1veAO8y",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003/"
+            }
+          ]
+        },
+        {
+          "identifier": "8oPIFHj",
+          "type": "Link",
+          "title": "Create scrollable tabs in Xamarin.Forms with CollectionView and CarouselView",
+          "url_domain": "msicc.net",
+          "url": "https://msicc.net/create-scrollable-tabs-in-xamarin-forms-with-collectionview-and-carouselview/",
+          "description": "<p>When it comes to navigation patterns in mobile apps, the tabbed interface is one of the most popular options. While Xamarin.Forms has the TabbedPage (and Shell) to fulfill that need, it lacks one essential feature: scrollable tabs.</p>\n\n<p><a href=\"https://msicc.net/create-scrollable-tabs-in-xamarin-forms-with-collectionview-and-carouselview/\"><strong>Create scrollable tabs in Xamarin.Forms with CollectionView and CarouselView</strong></a> by <a href=\"https://twitter.com/msicc\">Marco Siccardi</a></p>",
+          "description_markdown": "When it comes to navigation patterns in mobile apps, the tabbed interface is one of the most popular options. While Xamarin.Forms has the TabbedPage (and Shell) to fulfill that need, it lacks one essential feature: scrollable tabs.\r\n\r\n[**Create scrollable tabs in Xamarin.Forms with CollectionView and CarouselView**](https://msicc.net/create-scrollable-tabs-in-xamarin-forms-with-collectionview-and-carouselview/) by [Marco Siccardi](https://twitter.com/msicc)",
+          "embedded_links": [
+            {
+              "identifier": "TOnnl48",
+              "title": "**Create scrollable tabs in Xamarin.Forms with CollectionView and CarouselView**",
+              "url_domain": "msicc.net",
+              "url": "https://msicc.net/create-scrollable-tabs-in-xamarin-forms-with-collectionview-and-carouselview/"
+            },
+            {
+              "identifier": "zIJU89u",
+              "title": "Marco Siccardi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/msicc"
+            }
+          ]
+        },
+        {
+          "identifier": "OJWaVrS",
+          "type": "Link",
+          "title": "Drawing UI with Xamarin.Forms Shapes and Paths",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-shapes-and-paths/",
+          "description": "<p>Xamarin.Forms 4.7 introduces drawing controls for Shapes and Paths. These are powerful new cross-platform controls that use the familiar control syntax from UWP and WPF. As well as use the native graphics libraries on each target platform.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-forms-shapes-and-paths/\"><strong>Drawing UI with Xamarin.Forms Shapes and Paths</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/davidortinau/\">David Ortinau</a></p>",
+          "description_markdown": "Xamarin.Forms 4.7 introduces drawing controls for Shapes and Paths. These are powerful new cross-platform controls that use the familiar control syntax from UWP and WPF. As well as use the native graphics libraries on each target platform.\r\n\r\n[**Drawing UI with Xamarin.Forms Shapes and Paths**](https://devblogs.microsoft.com/xamarin/xamarin-forms-shapes-and-paths/) by [David Ortinau](https://devblogs.microsoft.com/xamarin/author/davidortinau/)",
+          "embedded_links": [
+            {
+              "identifier": "k2nDMyY",
+              "title": "**Drawing UI with Xamarin.Forms Shapes and Paths**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-shapes-and-paths/"
+            },
+            {
+              "identifier": "lgi8mz7",
+              "title": "David Ortinau",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/davidortinau/"
+            }
+          ]
+        },
+        {
+          "identifier": "JBvWzKA",
+          "type": "Link",
+          "title": "Taking your apps design to the next level with Xamarin Forms",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/design-apps-xamarin-forms/",
+          "description": "<p>The difference between a good application and a bad application is usually the quality of your user experience (UX). A good user experience is what separates successful applications from those that have not been successful. That is why it is vital to try to focus our efforts on trying to give our users the greatest and best possible experience.</p>\n\n<p><a href=\"https://luismts.com/design-apps-xamarin-forms/\"><strong>Taking your apps design to the next level with Xamarin Forms</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "The difference between a good application and a bad application is usually the quality of your user experience (UX). A good user experience is what separates successful applications from those that have not been successful. That is why it is vital to try to focus our efforts on trying to give our users the greatest and best possible experience.\r\n\r\n[**Taking your apps design to the next level with Xamarin Forms**](https://luismts.com/design-apps-xamarin-forms/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "D2RyqCs",
+              "title": "**Taking your apps design to the next level with Xamarin Forms**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/design-apps-xamarin-forms/"
+            },
+            {
+              "identifier": "J9bvMlS",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "U3Lm0oR",
+          "type": "Link",
+          "title": "Creating a Xamarin Binding Library for iOS And Android",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2020/07/20/creating-a-xamarin-binding-library-for-ios-and-android-part-1/",
+          "description": "<p>As a Xamarin Developer, there are situations where we want to use a native (Objective C, Swift, Java, Kotlin, etc) library. To do this, we have two options: translate the library code to C# which is good if the code is small but in cases where we want to migrate libraries with a lot of code the best approach is to create a binding library.</p>\n\n<p><a href=\"https://www.xamboy.com/2020/07/20/creating-a-xamarin-binding-library-for-ios-and-android-part-1/\"><strong>Creating a Xamarin Binding Library for iOS And Android (Part. 1)</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "As a Xamarin Developer, there are situations where we want to use a native (Objective C, Swift, Java, Kotlin, etc) library. To do this, we have two options: translate the library code to C# which is good if the code is small but in cases where we want to migrate libraries with a lot of code the best approach is to create a binding library.\r\n\r\n[**Creating a Xamarin Binding Library for iOS And Android (Part. 1)**](https://www.xamboy.com/2020/07/20/creating-a-xamarin-binding-library-for-ios-and-android-part-1/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "yFfzCCf",
+              "title": "**Creating a Xamarin Binding Library for iOS And Android (Part. 1)**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2020/07/20/creating-a-xamarin-binding-library-for-ios-and-android-part-1/"
+            },
+            {
+              "identifier": "EyigxoW",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        },
+        {
+          "identifier": "gHnXoD9",
+          "type": "Link",
+          "title": "ToDo Sample Application with Telerik UI, MVVMFresh and EntityFrameworkCore",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/todo-sample-application-xamarin-forms-telerik-ui-mvvmfresh-microsoft-entityframeworkcore",
+          "description": "<p>Introducing our Telerik ToDo App: A beautifully designed and highly performant task management application built with Telerik UI for Xamarin controls.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/todo-sample-application-xamarin-forms-telerik-ui-mvvmfresh-microsoft-entityframeworkcore\"><strong>ToDo Sample Application with Xamarin.Forms, Telerik UI, MVVMFresh and Microsoft.EntityFrameworkCore</strong></a> by <a href=\"https://www.telerik.com/blogs/author/stefan-nenchev\">Stefan Nenchev</a></p>",
+          "description_markdown": "Introducing our Telerik ToDo App: A beautifully designed and highly performant task management application built with Telerik UI for Xamarin controls.\r\n\r\n[**ToDo Sample Application with Xamarin.Forms, Telerik UI, MVVMFresh and Microsoft.EntityFrameworkCore**](https://www.telerik.com/blogs/todo-sample-application-xamarin-forms-telerik-ui-mvvmfresh-microsoft-entityframeworkcore) by [Stefan Nenchev](https://www.telerik.com/blogs/author/stefan-nenchev)",
+          "embedded_links": [
+            {
+              "identifier": "8MOQhwB",
+              "title": "**ToDo Sample Application with Xamarin.Forms, Telerik UI, MVVMFresh and Microsoft.EntityFrameworkCore**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/todo-sample-application-xamarin-forms-telerik-ui-mvvmfresh-microsoft-entityframeworkcore"
+            },
+            {
+              "identifier": "tQBB7S8",
+              "title": "Stefan Nenchev",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/stefan-nenchev"
+            }
+          ]
+        },
+        {
+          "identifier": "ZATgrDR",
+          "type": "Link",
+          "title": "A Tale Of CollectionView and Garbage Collector",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/gittrends-lags/",
+          "description": "<p>Jean-Marie Alfonsi tells the woeful tale of trying to work out increasing memory consumption in the GitTrends application.  He takes a stroll through Garbage Collection, Java Native Interface and the object Nursery. How will the story end?</p>\n\n<p><a href=\"https://www.sharpnado.com/gittrends-lags/\"><strong>Gittrends lags: A Tale Of CollectionView and Garbage Collector</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "Jean-Marie Alfonsi tells the woeful tale of trying to work out increasing memory consumption in the GitTrends application.  He takes a stroll through Garbage Collection, Java Native Interface and the object Nursery. How will the story end?\r\n\r\n[**Gittrends lags: A Tale Of CollectionView and Garbage Collector**](https://www.sharpnado.com/gittrends-lags/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)",
+          "embedded_links": [
+            {
+              "identifier": "u6CQYWZ",
+              "title": "**Gittrends lags: A Tale Of CollectionView and Garbage Collector**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/gittrends-lags/"
+            },
+            {
+              "identifier": "j81wQcR",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        },
+        {
+          "identifier": "yTEMAVz",
+          "type": "Link",
+          "title": "3 Ways to Consume Apis Rest",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-3-formas-de-consumir-apis-rest-252435646c29",
+          "description": "<p>Thiago provides a summary of some tips and techniques for communicating and consuming an API.</p>\n\n<p><em>Note: Post is in Portuguese</em></p>\n\n<p><a href=\"https://medium.com/@bertuzzi/o-x-do-xamarin-forms-3-formas-de-consumir-apis-rest-252435646c29\"><strong>O X do Xamarin Forms</strong></a> by <a href=\"https://medium.com/@bertuzzi\">Thiago Bertuzzi</a></p>",
+          "description_markdown": "Thiago provides a summary of some tips and techniques for communicating and consuming an API.\r\n\r\n*Note: Post is in Portuguese*\r\n\r\n[**O X do Xamarin Forms**](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-3-formas-de-consumir-apis-rest-252435646c29) by [Thiago Bertuzzi](https://medium.com/@bertuzzi)",
+          "embedded_links": [
+            {
+              "identifier": "BKK3oDL",
+              "title": "**O X do Xamarin Forms**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-3-formas-de-consumir-apis-rest-252435646c29"
+            },
+            {
+              "identifier": "wRs8jI2",
+              "title": "Thiago Bertuzzi",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi"
+            }
+          ]
+        },
+        {
+          "identifier": "vfU3Oxx",
+          "type": "Link",
+          "title": "DatePicker with placeholder in material design",
+          "url_domain": "tsjdev-apps.de",
+          "url": "https://www.tsjdev-apps.de/xamarin-forms-datepicker-mit-placeholder-im-material-design/",
+          "description": "<p>Sometimes you want the user to be able to select a date within an app. For this scenario, Xamarin.Forms provides the DatePicker Control, which is also beautifully represented in material design. In this post, Sabastian improves on it by including placeholder text explaining what the date is.</p>\n\n<p><em>NOTE: Post is in German</em></p>\n\n<p><a href=\"https://www.tsjdev-apps.de/xamarin-forms-datepicker-mit-placeholder-im-material-design/\"><strong>Xamarin.Forms: DatePicker mit Placeholder im Material-Design</strong></a> by <a href=\"https://www.tsjdev-apps.de/author/tsjdev/\">Sebastian Jensen</a></p>",
+          "description_markdown": "Sometimes you want the user to be able to select a date within an app. For this scenario, Xamarin.Forms provides the DatePicker Control, which is also beautifully represented in material design. In this post, Sabastian improves on it by including placeholder text explaining what the date is.\r\n\r\n*NOTE: Post is in German*\r\n\r\n[**Xamarin.Forms: DatePicker mit Placeholder im Material-Design**](https://www.tsjdev-apps.de/xamarin-forms-datepicker-mit-placeholder-im-material-design/) by [Sebastian Jensen](https://www.tsjdev-apps.de/author/tsjdev/)",
+          "embedded_links": [
+            {
+              "identifier": "O4Asy8Z",
+              "title": "**Xamarin.Forms: DatePicker mit Placeholder im Material-Design**",
+              "url_domain": "tsjdev-apps.de",
+              "url": "https://www.tsjdev-apps.de/xamarin-forms-datepicker-mit-placeholder-im-material-design/"
+            },
+            {
+              "identifier": "ZiMBr7Y",
+              "title": "Sebastian Jensen",
+              "url_domain": "tsjdev-apps.de",
+              "url": "https://www.tsjdev-apps.de/author/tsjdev/"
+            }
+          ]
+        },
+        {
+          "identifier": "b9NFWEy",
+          "type": "Link",
+          "title": "Xamarin Forms PayUMoney Integration",
+          "url_domain": "blogspot.com",
+          "url": "https://logeshpalani.blogspot.com/2020/07/xamarin-forms-payumoney-integration.html",
+          "description": "<p>Learn how to integrate the PayUMoney Payment Gateway with Xamarin.Forms Application.</p>\n\n<p><a href=\"https://logeshpalani.blogspot.com/2020/07/xamarin-forms-payumoney-integration.html\"><strong>Xamarin Forms PayUMoney Integration</strong></a> by <a href=\"https://twitter.com/logeshpalani98\">Logesh Palani</a></p>",
+          "description_markdown": "Learn how to integrate the PayUMoney Payment Gateway with Xamarin.Forms Application.\r\n\r\n[**Xamarin Forms PayUMoney Integration**](https://logeshpalani.blogspot.com/2020/07/xamarin-forms-payumoney-integration.html) by [Logesh Palani](https://twitter.com/logeshpalani98)",
+          "embedded_links": [
+            {
+              "identifier": "1LfPCIJ",
+              "title": "**Xamarin Forms PayUMoney Integration**",
+              "url_domain": "blogspot.com",
+              "url": "https://logeshpalani.blogspot.com/2020/07/xamarin-forms-payumoney-integration.html"
+            },
+            {
+              "identifier": "spTcQcx",
+              "title": "Logesh Palani",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/logeshpalani98"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "u2IDFqL",
+          "type": "Link",
+          "title": "Merge Conflict 211 - Failure To Launch",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/211",
+          "description": "<p>Fit &amp; Finish! That is our topic this week and try to understand what is in Frank's way of shipping his app.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/211\"><strong>211: Failure To Launch</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Fit & Finish! That is our topic this week and try to understand what is in Frank's way of shipping his app.\r\n\r\n[**211: Failure To Launch**](https://www.mergeconflict.fm/211) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "R7fhex1",
+              "title": "**211: Failure To Launch**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/211"
+            },
+            {
+              "identifier": "xi7e5FH",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "lADgLjC",
+          "type": "Link",
+          "title": "Xamarin.Forms 4.7 - Shapes, Paths, and App Themes!",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-47-Shapes-Paths-and-App-Themes",
+          "description": "<p>This week, James is joined by Jacob Kirsch, Program Manager for Xamarin, who walks us through the latest and greatest features that Xamarin.Forms 4.7 introduced. This includes the awesome new drawing API with shapes and paths, app theme support update, and new grid optimizations.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-47-Shapes-Paths-and-App-Themes\"><strong>Xamarin.Forms 4.7 - Shapes, Paths, and App Themes!</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by Jacob Kirsch, Program Manager for Xamarin, who walks us through the latest and greatest features that Xamarin.Forms 4.7 introduced. This includes the awesome new drawing API with shapes and paths, app theme support update, and new grid optimizations.\r\n\r\n[**Xamarin.Forms 4.7 - Shapes, Paths, and App Themes!**](https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-47-Shapes-Paths-and-App-Themes) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "KhEtLzu",
+              "title": "**Xamarin.Forms 4.7 - Shapes, Paths, and App Themes!**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-47-Shapes-Paths-and-App-Themes"
+            },
+            {
+              "identifier": "QIiXRP1",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "huU6sZB",
+          "type": "Link",
+          "title": "Hybrid Blazor apps in the Mobile Blazor Bindings July update",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/aspnet/hybrid-blazor-apps-in-mobile-blazor-bindings-july-update/",
+          "description": "<p>Mobile Blazor Bindings July update! This release adds support for building Hybrid Blazor apps, which contain both native and web UI. Hybrid apps are a composition of native and web UI in a single app.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/aspnet/hybrid-blazor-apps-in-mobile-blazor-bindings-july-update/\"><strong>Hybrid Blazor apps in the Mobile Blazor Bindings July update</strong></a> by <a href=\"https://twitter.com/original_ejl\">Eilon Lipton</a></p>",
+          "description_markdown": "Mobile Blazor Bindings July update! This release adds support for building Hybrid Blazor apps, which contain both native and web UI. Hybrid apps are a composition of native and web UI in a single app.\r\n\r\n[**Hybrid Blazor apps in the Mobile Blazor Bindings July update**](https://devblogs.microsoft.com/aspnet/hybrid-blazor-apps-in-mobile-blazor-bindings-july-update/) by [Eilon Lipton](https://twitter.com/original_ejl)",
+          "embedded_links": [
+            {
+              "identifier": "hjWcBwE",
+              "title": "**Hybrid Blazor apps in the Mobile Blazor Bindings July update**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/aspnet/hybrid-blazor-apps-in-mobile-blazor-bindings-july-update/"
+            },
+            {
+              "identifier": "IZCYVrC",
+              "title": "Eilon Lipton",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/original_ejl"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "Id": "269",
+  "Name": "Issue 269",
+  "UpdatedTimeStamp": "2020-07-24T08:21:48Z",
+  "Summary": "Design Tips, ADB Masterclass, Shapes, and loads of Xamarin.Forms",
+  "PublishDate": "2020-07-24T08:21:43Z",
+  "Curators": "",
+  "Articles": [
+    {
+      "Title": "Don’t Judge XAML Based On Lines of Code",
+      "Url": "https://nicksnettravelsblog.azurewebsites.net/xaml-lines-of-code/",
+      "Description": "For those following the on-going discussion around the future of XAML and specifically the use of XAML in DotNetMaui/Xamarin.Forms, this post is a follow on from two great posts discussing the options that are, or will be, available for Xamarin.",
+      "EditionId": "269",
+      "Author": "Nick Randolph",
+      "Id": "269-1",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Designed for iPad",
+      "Url": "https://medium.com/lookup-design/designed-for-ipad-a77f05c4919a",
+      "Description": "Over the last few years, the iPad has transformed significantly from being a large touch screen device to a device that supports multiple inputs and can be used in a variety of situations. It’s changed the way people interact with their apps. But how should you design for iPad apps?",
+      "EditionId": "269",
+      "Author": "Vidit Bhargava",
+      "Id": "269-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Mobile App Redesign for Developers: GitTrends",
+      "Url": "https://www.pujolsluis.com/mobile-app-redesign-for-developers-gittrends/",
+      "Description": "Polishing and working with UI/UX design can feel intimidating and like we definitely need a Designer in our team to get out a production-ready app design. In this series, you will be able to learn key tools, resources, and workflow you can use to start building clean and immersive app designs as a Developer.",
+      "EditionId": "269",
+      "Author": "Luis Pujols",
+      "Id": "269-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Generating beautiful frames for your iOS & Android screenshots instantly",
+      "Url": "https://medium.com/@prototypemakers/generating-beautiful-frames-for-your-ios-android-screenshots-instantly-5175d77a0493",
+      "Description": "Have you have ever needed to share your app screenshots with other team members, but skipped adding the frame just to save time? Taking a screenshot is as simple as a click, but designing & dealing with image editing tools is definitely not a developer’s forte.",
+      "EditionId": "269",
+      "Author": "The First Prototype",
+      "Id": "269-4",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Xamarin DevOps Snippets (aka Pipeline Templates)",
+      "Url": "https://nicksnettravelsblog.azurewebsites.net/xamarin-devops-snippets/",
+      "Description": "Nick Randolph covers some code snippets that use Pipeline Templates in order to setup a Azure DevOps pipeline for your Xamarin application.",
+      "EditionId": "269",
+      "Author": "Nick Randolph",
+      "Id": "269-5",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "10 Visual Studio Files and Layout Productivity Tips",
+      "Url": "https://blog.ndepend.com/10-visual-studio-files-and-layout-productivity-tips/",
+      "Description": "Nowadays most developers are working remotely. Hence the monitor(s) configuration might have changed, and might change frequently. In this context, it does matter to optimize the Visual Studio layout and documents access. Here are some tips.",
+      "EditionId": "269",
+      "Author": "Patrick Smacchia",
+      "Id": "269-6",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Android Debug Bridge Master Class",
+      "Url": "https://www.mfractor.com/blogs/news/android-debug-bridge-for-xamarin-developers",
+      "Description": "ADB, Android Debug Bridge, is a useful command line utility for interacting with Android devices for debugging and diagnostic purposes. Xamarin developers can use ADB to install/uninstall packages, inspect running apps, push and pull files and check error logs. Consider this your master class on the subject.",
+      "EditionId": "269",
+      "Author": "Lachlan Gordon",
+      "Id": "269-7",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Mastering Multilingual in Xamarin.Forms",
+      "Url": "https://devblogs.microsoft.com/xamarin/mastering-multilingual-in-xamarin-forms/",
+      "Description": "Charlin Agramont has a guest post on the Microsoft blog talking about Multilingual support, which is one of the most common requirements for mobile apps.",
+      "EditionId": "269",
+      "Author": "Charlin Agramonte",
+      "Id": "269-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Create scrollable tabs in Xamarin.Forms with CollectionView and CarouselView",
+      "Url": "https://msicc.net/create-scrollable-tabs-in-xamarin-forms-with-collectionview-and-carouselview/",
+      "Description": "When it comes to navigation patterns in mobile apps, the tabbed interface is one of the most popular options. While Xamarin.Forms has the TabbedPage (and Shell) to fulfill that need, it lacks one essential feature: scrollable tabs.",
+      "EditionId": "269",
+      "Author": "Marco Siccardi",
+      "Id": "269-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Drawing UI with Xamarin.Forms Shapes and Paths",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-shapes-and-paths/",
+      "Description": "Xamarin.Forms 4.7 introduces drawing controls for Shapes and Paths. These are powerful new cross-platform controls that use the familiar control syntax from UWP and WPF. As well as use the native graphics libraries on each target platform.",
+      "EditionId": "269",
+      "Author": "David Ortinau",
+      "Id": "269-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Taking your apps design to the next level with Xamarin Forms",
+      "Url": "https://luismts.com/design-apps-xamarin-forms/",
+      "Description": "The difference between a good application and a bad application is usually the quality of your user experience (UX). A good user experience is what separates successful applications from those that have not been successful. That is why it is vital to try to focus our efforts on trying to give our users the greatest and best possible experience.",
+      "EditionId": "269",
+      "Author": "Luis Matos",
+      "Id": "269-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Creating a Xamarin Binding Library for iOS And Android",
+      "Url": "https://www.xamboy.com/2020/07/20/creating-a-xamarin-binding-library-for-ios-and-android-part-1/",
+      "Description": "As a Xamarin Developer, there are situations where we want to use a native (Objective C, Swift, Java, Kotlin, etc) library. To do this, we have two options: translate the library code to C# which is good if the code is small but in cases where we want to migrate libraries with a lot of code the best approach is to create a binding library.",
+      "EditionId": "269",
+      "Author": "Rendy Del Rosario",
+      "Id": "269-12",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "ToDo Sample Application with Telerik UI, MVVMFresh and EntityFrameworkCore",
+      "Url": "https://www.telerik.com/blogs/todo-sample-application-xamarin-forms-telerik-ui-mvvmfresh-microsoft-entityframeworkcore",
+      "Description": "Introducing our Telerik ToDo App: A beautifully designed and highly performant task management application built with Telerik UI for Xamarin controls.",
+      "EditionId": "269",
+      "Author": "Stefan Nenchev",
+      "Id": "269-13",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "A Tale Of CollectionView and Garbage Collector",
+      "Url": "https://www.sharpnado.com/gittrends-lags/",
+      "Description": "Jean-Marie Alfonsi tells the woeful tale of trying to work out increasing memory consumption in the GitTrends application.  He takes a stroll through Garbage Collection, Java Native Interface and the object Nursery. How will the story end?",
+      "EditionId": "269",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "269-14",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "3 Ways to Consume Apis Rest",
+      "Url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-3-formas-de-consumir-apis-rest-252435646c29",
+      "Description": "Thiago provides a summary of some tips and techniques for communicating and consuming an API. *Note: Post is in Portuguese*",
+      "EditionId": "269",
+      "Author": "Thiago Bertuzzi",
+      "Id": "269-15",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "DatePicker with placeholder in material design",
+      "Url": "https://www.tsjdev-apps.de/xamarin-forms-datepicker-mit-placeholder-im-material-design/",
+      "Description": "Sometimes you want the user to be able to select a date within an app. For this scenario, Xamarin.Forms provides the DatePicker Control, which is also beautifully represented in material design. In this post, Sabastian improves on it by including placeholder text explaining what the date is. *NOTE: Post is in German*",
+      "EditionId": "269",
+      "Author": "Sebastian Jensen",
+      "Id": "269-16",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin Forms PayUMoney Integration",
+      "Url": "https://logeshpalani.blogspot.com/2020/07/xamarin-forms-payumoney-integration.html",
+      "Description": "Learn how to integrate the PayUMoney Payment Gateway with Xamarin.Forms Application.",
+      "EditionId": "269",
+      "Author": "Logesh Palani",
+      "Id": "269-17",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Merge Conflict 211 - Failure To Launch",
+      "Url": "https://www.mergeconflict.fm/211",
+      "Description": "Fit & Finish! That is our topic this week and try to understand what is in Frank's way of shipping his app.",
+      "EditionId": "269",
+      "Author": "Merge Conflict",
+      "Id": "269-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms 4.7 - Shapes, Paths, and App Themes!",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-47-Shapes-Paths-and-App-Themes",
+      "Description": "This week, James is joined by Jacob Kirsch, Program Manager for Xamarin, who walks us through the latest and greatest features that Xamarin.Forms 4.7 introduced. This includes the awesome new drawing API with shapes and paths, app theme support update, and new grid optimizations.",
+      "EditionId": "269",
+      "Author": "James Montemagno",
+      "Id": "269-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Hybrid Blazor apps in the Mobile Blazor Bindings July update",
+      "Url": "https://devblogs.microsoft.com/aspnet/hybrid-blazor-apps-in-mobile-blazor-bindings-july-update/",
+      "Description": "Mobile Blazor Bindings July update! This release adds support for building Hybrid Blazor apps, which contain both native and web UI. Hybrid apps are a composition of native and web UI in a single app.",
+      "EditionId": "269",
+      "Author": "Eilon Lipton",
+      "Id": "269-20",
+      "Category": "RELEASES"
+    }
+  ]
+}

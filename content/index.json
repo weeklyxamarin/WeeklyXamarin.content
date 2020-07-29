@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "269",
+      "Name": "Issue 269",
+      "UpdatedTimeStamp": "2020-07-24T08:21:48Z",
+      "Summary": "Design Tips, ADB Masterclass, Shapes, and loads of Xamarin.Forms",
+      "PublishDate": "2020-07-24T08:21:43Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "268",
       "Name": "Issue 268",
       "UpdatedTimeStamp": "2020-07-17T07:33:51Z",

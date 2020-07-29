@@ -1,32 +1,12 @@
 {
   "Authors": [
     {
-      "Name": "**.NET Rocks: 1689: Building Apps using Uno**",
-      "Id": "https://dotnetrocks.com/?show=1689",
+      "Name": " Patrick Junsay",
+      "Id": "https://codesandchips.wordpress.com/author/kirtoy/",
       "Aliases": [
         {
           "Type": "blog",
-          "Name": "https://dotnetrocks.com/?show=1689"
-        }
-      ]
-    },
-    {
-      "Name": "**iOS Extension Customized for Xamarin.Forms Pages**",
-      "Id": "https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/",
-      "Aliases": [
-        {
-          "Type": "blog",
-          "Name": "https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/"
-        }
-      ]
-    },
-    {
-      "Name": "**Xamarin.Forms SwipeView | Creating A Custom Side Menu in Xamarin Forms**",
-      "Id": "https://www.youtube.com/watch?v=1vs4t6pei_s&feature=youtu.be",
-      "Aliases": [
-        {
-          "Type": "blog",
-          "Name": "https://www.youtube.com/watch?v=1vs4t6pei_s&feature=youtu.be"
+          "Name": "https://codesandchips.wordpress.com/author/kirtoy/"
         }
       ]
     },
@@ -69,18 +49,12 @@
       "Id": "https://devblogs.microsoft.com/xamarin/author/alexeystrakh/",
       "Aliases": [
         {
-          "Type": "blog",
-          "Name": "https://devblogs.microsoft.com/xamarin/author/alexeystrakh/"
-        }
-      ]
-    },
-    {
-      "Name": "Alexey Strakh",
-      "Id": "https://twitter.com/alexeystrakh",
-      "Aliases": [
-        {
           "Type": "twitter",
           "Name": "https://twitter.com/alexeystrakh"
+        },
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/xamarin/author/alexeystrakh/"
         }
       ]
     },
@@ -141,16 +115,6 @@
         {
           "Type": "blog",
           "Name": "https://www.telerik.com/blogs/author/atanas-popatanasov"
-        }
-      ]
-    },
-    {
-      "Name": "Bio",
-      "Id": "https://gunnarpeipman.com/bio/",
-      "Aliases": [
-        {
-          "Type": "blog",
-          "Name": "https://gunnarpeipman.com/bio/"
         }
       ]
     },
@@ -299,7 +263,17 @@
       ]
     },
     {
-      "Name": "Gerald",
+      "Name": "Eilon Lipton",
+      "Id": "https://twitter.com/original_ejl",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/original_ejl"
+        }
+      ]
+    },
+    {
+      "Name": "Gerald Versluis",
       "Id": "https://blog.verslu.is/author/admin/",
       "Aliases": [
         {
@@ -319,6 +293,16 @@
       ]
     },
     {
+      "Name": "Gunnar Peipman",
+      "Id": "https://gunnarpeipman.com/bio/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://gunnarpeipman.com/bio/"
+        }
+      ]
+    },
+    {
       "Name": "Jacob Kirsch",
       "Id": "https://devblogs.microsoft.com/xamarin/author/jacobkirsch/",
       "Aliases": [
@@ -333,22 +317,16 @@
       "Id": "https://channel9.msdn.com/niners/jamesmontemagno",
       "Aliases": [
         {
+          "Type": "twitter",
+          "Name": "https://twitter.com/jamesmontemagno"
+        },
+        {
           "Type": "blog",
           "Name": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
         },
         {
           "Type": "blog",
           "Name": "https://channel9.msdn.com/niners/jamesmontemagno"
-        }
-      ]
-    },
-    {
-      "Name": "James Montemagno",
-      "Id": "https://twitter.com/jamesmontemagno",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/jamesmontemagno"
         }
       ]
     },
@@ -413,9 +391,13 @@
       ]
     },
     {
-      "Name": "kerry",
+      "Name": "Kerry Lothrop",
       "Id": "https://kerry.lothrop.de/en/author/lothrop/",
       "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/kwlothrop"
+        },
         {
           "Type": "blog",
           "Name": "https://kerry.lothrop.de/en/author/lothrop/"
@@ -423,39 +405,13 @@
       ]
     },
     {
-      "Name": "Kerry Lothrop",
-      "Id": "https://twitter.com/kwlothrop",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/kwlothrop"
-        }
-      ]
-    },
-    {
-      "Name": "Kirk",
-      "Id": "https://codesandchips.wordpress.com/author/kirtoy/",
-      "Aliases": [
-        {
-          "Type": "blog",
-          "Name": "https://codesandchips.wordpress.com/author/kirtoy/"
-        }
-      ]
-    },
-    {
       "Name": "Kym Phillpotts",
-      "Id": "https://twitter.com/kphillpotts",
+      "Id": "https://kymphillpotts.com/author/kphillpotts",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/kphillpotts"
-        }
-      ]
-    },
-    {
-      "Name": "Kym Phillpotts",
-      "Id": "https://kymphillpotts.com/author/kphillpotts",
-      "Aliases": [
+        },
         {
           "Type": "blog",
           "Name": "https://kymphillpotts.com/author/kphillpotts"
@@ -493,13 +449,7 @@
         {
           "Type": "blog",
           "Name": "https://askxammy.com/author/leoreyes/"
-        }
-      ]
-    },
-    {
-      "Name": "Leomaris Reyes",
-      "Id": "https://www.telerik.com/blogs/author/leomaris-reyes",
-      "Aliases": [
+        },
         {
           "Type": "blog",
           "Name": "https://www.telerik.com/blogs/author/leomaris-reyes"
@@ -517,13 +467,7 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/logeshpalani98/"
-        }
-      ]
-    },
-    {
-      "Name": "Logesh Palani",
-      "Id": "https://xmonkeys360.com/author/logeshpalani/",
-      "Aliases": [
+        },
         {
           "Type": "blog",
           "Name": "https://xmonkeys360.com/author/logeshpalani/"
@@ -541,12 +485,22 @@
       ]
     },
     {
-      "Name": "Lucio",
-      "Id": "https://twitter.com/luciomsp",
+      "Name": "Luis Matos",
+      "Id": "https://twitter.com/luismatosluna",
       "Aliases": [
         {
           "Type": "twitter",
-          "Name": "https://twitter.com/luciomsp"
+          "Name": "https://twitter.com/luismatosluna"
+        }
+      ]
+    },
+    {
+      "Name": "Luis Pujols",
+      "Id": "https://www.pujolsluis.com/author/admin/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.pujolsluis.com/author/admin/"
         }
       ]
     },
@@ -615,28 +569,12 @@
       "Id": "https://www.mergeconflict.fm/",
       "Aliases": [
         {
-          "Type": "blog",
-          "Name": "https://www.mergeconflict.fm/"
-        }
-      ]
-    },
-    {
-      "Name": "Merge Conflict",
-      "Id": "https://twitter.com/mergeconflictfm",
-      "Aliases": [
-        {
           "Type": "twitter",
           "Name": "https://twitter.com/mergeconflictfm"
-        }
-      ]
-    },
-    {
-      "Name": "Merge Conflict",
-      "Id": "https://mergeconflict.fm/",
-      "Aliases": [
+        },
         {
           "Type": "blog",
-          "Name": "https://mergeconflict.fm/"
+          "Name": "https://www.mergeconflict.fm/"
         }
       ]
     },
@@ -665,7 +603,7 @@
       ]
     },
     {
-      "Name": "Nijamudeen\r\n",
+      "Name": "Nijamudeen",
       "Id": "https://www.syncfusion.com/blogs/author/nijamudeensulaimansyncfusion-com",
       "Aliases": [
         {
@@ -679,18 +617,12 @@
       "Id": "https://nullpointers.io/",
       "Aliases": [
         {
-          "Type": "blog",
-          "Name": "https://nullpointers.io/"
-        }
-      ]
-    },
-    {
-      "Name": "NullPointers",
-      "Id": "https://twitter.com/nullpointersio",
-      "Aliases": [
-        {
           "Type": "twitter",
           "Name": "https://twitter.com/nullpointersio"
+        },
+        {
+          "Type": "blog",
+          "Name": "https://nullpointers.io/"
         }
       ]
     },
@@ -785,7 +717,7 @@
       ]
     },
     {
-      "Name": "samirgc",
+      "Name": "Samirgc",
       "Id": "https://xamaringuyshow.com/author/samirgc/",
       "Aliases": [
         {
@@ -825,19 +757,23 @@
       ]
     },
     {
+      "Name": "Stefan Nenchev",
+      "Id": "https://www.telerik.com/blogs/author/stefan-nenchev",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.telerik.com/blogs/author/stefan-nenchev"
+        }
+      ]
+    },
+    {
       "Name": "Steven Thewissen",
       "Id": "https://twitter.com/devnl",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/devnl"
-        }
-      ]
-    },
-    {
-      "Name": "Steven Thewissen",
-      "Id": "https://www.thewissen.io/author/steven/",
-      "Aliases": [
+        },
         {
           "Type": "blog",
           "Name": "https://www.thewissen.io/author/steven/"
@@ -851,16 +787,6 @@
         {
           "Type": "blog",
           "Name": "https://medium.com/@prototypemakers"
-        }
-      ]
-    },
-    {
-      "Name": "The First Prototype",
-      "Id": "https://medium.com/@prototypemakers?source=post_page-----1744a54b6dbd----------------------",
-      "Aliases": [
-        {
-          "Type": "blog",
-          "Name": "https://medium.com/@prototypemakers?source=post_page-----1744a54b6dbd----------------------"
         }
       ]
     },
@@ -933,8 +859,22 @@
       "Id": "https://vicenteguzman.mx/",
       "Aliases": [
         {
+          "Type": "twitter",
+          "Name": "https://twitter.com/luciomsp"
+        },
+        {
           "Type": "blog",
           "Name": "https://vicenteguzman.mx/"
+        }
+      ]
+    },
+    {
+      "Name": "Vidit Bhargava",
+      "Id": "https://medium.com/@viditb",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@viditb"
         }
       ]
     },
@@ -945,13 +885,7 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/vincenth_net"
-        }
-      ]
-    },
-    {
-      "Name": "Vincent Hoogendoorn",
-      "Id": "https://devblogs.microsoft.com/xamarin/author/devvincenth-net/",
-      "Aliases": [
+        },
         {
           "Type": "blog",
           "Name": "https://devblogs.microsoft.com/xamarin/author/devvincenth-net/"
