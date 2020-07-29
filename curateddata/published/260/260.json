@@ -1,0 +1,506 @@
+{
+  "number": 260,
+  "title": "Issue 260",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/260",
+  "publication_status": "published",
+  "published_at": "2020-05-23T02:28:53+01:00",
+  "updated_at": "2020-05-23T02:28:58+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>It's been a big week with Microsoft Build 2020 happening. Hopefully, you got to join in on the fun - it was amazing.  Microsoft really embraced the idea of a virtual conference.  Don't worry if you missed some of the sessions, you'll find recordings popping up shortly.</p>\n\n<p>The big announcements for Xamarin developers were around the future of .NET and Maui.  I'm looking forward to all these advancements to the platform.  If you aren't sure what I'm talking about then have a look at some links in this week's newsletter.</p>\n\n<p>Have a great weekend everyone.</p>\n\n<p>♥</p>\n\n<p>Kym</p>",
+          "description_markdown": "It's been a big week with Microsoft Build 2020 happening. Hopefully, you got to join in on the fun - it was amazing.  Microsoft really embraced the idea of a virtual conference.  Don't worry if you missed some of the sessions, you'll find recordings popping up shortly.  \r\n\r\nThe big announcements for Xamarin developers were around the future of .NET and Maui.  I'm looking forward to all these advancements to the platform.  If you aren't sure what I'm talking about then have a look at some links in this week's newsletter.\r\n\r\nHave a great weekend everyone.\r\n\r\n♥\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "tiXknkv",
+          "type": "Link",
+          "title": "Xamarin Updates From Microsoft Build 2020",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/microsoft-build-2020-xamarin/",
+          "description": "<p>A roundup of all the Xamarin related news from Microsoft Build 2020.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/microsoft-build-2020-xamarin/\"><strong>Xamarin Updates From Microsoft Build 2020</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "A roundup of all the Xamarin related news from Microsoft Build 2020.\r\n\r\n[**Xamarin Updates From Microsoft Build 2020**](https://devblogs.microsoft.com/xamarin/microsoft-build-2020-xamarin/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "G2jUnYU",
+              "title": "**Xamarin Updates From Microsoft Build 2020**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/microsoft-build-2020-xamarin/"
+            },
+            {
+              "identifier": "SqYfUbN",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        },
+        {
+          "identifier": "6bBXyRD",
+          "type": "Link",
+          "title": "Introducing .NET Multi-platform App UI",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/",
+          "description": "<p>Scott Hunter introduces you to what .NET MAUI is, the single project developer experience, modern development patterns, and a look at the journey ahead.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/\"><strong>Introducing .NET Multi-platform App UI</strong></a> by <a href=\"https://devblogs.microsoft.com/dotnet/author/scott-h/\">Scott Hunter</a></p>",
+          "description_markdown": "Scott Hunter introduces you to what .NET MAUI is, the single project developer experience, modern development patterns, and a look at the journey ahead.\r\n\r\n[**Introducing .NET Multi-platform App UI**](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) by [Scott Hunter](https://devblogs.microsoft.com/dotnet/author/scott-h/)",
+          "embedded_links": [
+            {
+              "identifier": "oEyG6UD",
+              "title": "**Introducing .NET Multi-platform App UI**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/"
+            },
+            {
+              "identifier": "jlfAhQi",
+              "title": "Scott Hunter",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/author/scott-h/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "VNxPboa",
+          "type": "Link",
+          "title": "Model-View-Update (MVU) – How Does It Work?",
+          "url_domain": "thomasbandt.com",
+          "url": "https://thomasbandt.com/model-view-update",
+          "description": "<p>MVU (also known as The Elm Architecture) seems to be one of those things which are a mystery to most of us. Until all of a sudden, we understand it and never wanna miss it again. It's something we are all going to want to have a look at given it is supported in Maui.</p>\n\n<p><a href=\"https://thomasbandt.com/model-view-update\"><strong>Model-View-Update (MVU) – How Does It Work?</strong></a> by <a href=\"https://twitter.com/asp_net\">Thomas Bandt</a></p>",
+          "description_markdown": "MVU (also known as The Elm Architecture) seems to be one of those things which are a mystery to most of us. Until all of a sudden, we understand it and never wanna miss it again. It's something we are all going to want to have a look at given it is supported in Maui.\r\n\r\n[**Model-View-Update (MVU) – How Does It Work?**](https://thomasbandt.com/model-view-update) by [Thomas Bandt](https://twitter.com/asp_net)",
+          "embedded_links": [
+            {
+              "identifier": "eiRbleN",
+              "title": "**Model-View-Update (MVU) – How Does It Work?**",
+              "url_domain": "thomasbandt.com",
+              "url": "https://thomasbandt.com/model-view-update"
+            },
+            {
+              "identifier": "oRj5YzN",
+              "title": "Thomas Bandt",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/asp_net"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "fGmEFjh",
+          "type": "Link",
+          "title": "Building a Design System for iOS",
+          "url_domain": "ramshandilya.com",
+          "url": "https://ramshandilya.com/blog/design-system-intro",
+          "description": "<p>A four-part series about building a Design System for iOS. A practice that helps you improve consistency and quality of your app user experiences.</p>\n\n<p><a href=\"https://ramshandilya.com/blog/design-system-intro\"><strong>Building a Design System for iOS - Part 1 - Introduction</strong></a> by <a href=\"https://twitter.com/ramshandilya\">Ram Shandilya</a></p>",
+          "description_markdown": "A four-part series about building a Design System for iOS. A practice that helps you improve consistency and quality of your app user experiences.\r\n\r\n[**Building a Design System for iOS - Part 1 - Introduction**](https://ramshandilya.com/blog/design-system-intro) by [Ram Shandilya](https://twitter.com/ramshandilya)",
+          "embedded_links": [
+            {
+              "identifier": "PQekdQb",
+              "title": "**Building a Design System for iOS - Part 1 - Introduction**",
+              "url_domain": "ramshandilya.com",
+              "url": "https://ramshandilya.com/blog/design-system-intro"
+            },
+            {
+              "identifier": "TYapyja",
+              "title": "Ram Shandilya",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/ramshandilya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "DpwlU1Q",
+          "type": "Link",
+          "title": "Clearing downloaded Source Link cache for Visual Studio for Mac",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/clearing-source-link-cache/",
+          "description": "<p>Xamarin.Forms has support for Source Link for a while now. This article dives a little deeper to understand where the cache for it lives on Visual Studio for Mac.</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/xamarin-forms-xamarin/clearing-source-link-cache/\"><strong>Clearing downloaded Source Link cache for Visual Studio for Mac</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald</a></p>",
+          "description_markdown": "Xamarin.Forms has support for Source Link for a while now. This article dives a little deeper to understand where the cache for it lives on Visual Studio for Mac.\r\n\r\n[**Clearing downloaded Source Link cache for Visual Studio for Mac**](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/clearing-source-link-cache/) by [Gerald](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "nwiqWZW",
+              "title": "**Clearing downloaded Source Link cache for Visual Studio for Mac**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/clearing-source-link-cache/"
+            },
+            {
+              "identifier": "KW3IcjU",
+              "title": "Gerald",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "vkuTy6r",
+          "type": "Link",
+          "title": "Add a POSH ADB to your Windows Terminal",
+          "url_domain": "rajapet.com",
+          "url": "https://rajapet.com/2020/05/15/add-a-posh-adb-to-your-windows-terminal/",
+          "description": "<p>Here is how to setup a Windows Terminal configuration to spin up a new PowerShell, but with ADB support.</p>\n\n<p><a href=\"https://rajapet.com/2020/05/15/add-a-posh-adb-to-your-windows-terminal/\"><strong>Add a POSH ADB to your Windows Terminal</strong></a> by <a href=\"https://twitter.com/anotherlab\">Chris Miller</a></p>",
+          "description_markdown": "Here is how to setup a Windows Terminal configuration to spin up a new PowerShell, but with ADB support. \r\n\r\n[**Add a POSH ADB to your Windows Terminal**](https://rajapet.com/2020/05/15/add-a-posh-adb-to-your-windows-terminal/) by [Chris Miller](https://twitter.com/anotherlab)",
+          "embedded_links": [
+            {
+              "identifier": "LInm53C",
+              "title": "Chris Miller",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/anotherlab"
+            },
+            {
+              "identifier": "y8Noxw9",
+              "title": "**Add a POSH ADB to your Windows Terminal**",
+              "url_domain": "rajapet.com",
+              "url": "https://rajapet.com/2020/05/15/add-a-posh-adb-to-your-windows-terminal/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "OwZezXx",
+          "type": "Link",
+          "title": "Custom Image ProgressBar using SkiaSharp",
+          "url_domain": "itnext.io",
+          "url": "https://itnext.io/custom-image-progressbar-using-skiasharp-part1-3e0b6d230058",
+          "description": "<p>Drawing a custom progress image has always been a challenging task as it requires a bit of Math which is not loved by a lot of developers. In this article, we will see how this can be done using c#.</p>\n\n<p><a href=\"https://itnext.io/custom-image-progressbar-using-skiasharp-part1-3e0b6d230058\"><strong>Custom Image ProgressBar using SkiaSharp Part1</strong></a> by <a href=\"https://itnext.io/@csharpwriter\">Ahmed Fouad</a></p>",
+          "description_markdown": "Drawing a custom progress image has always been a challenging task as it requires a bit of Math which is not loved by a lot of developers. In this article, we will see how this can be done using c#.\r\n\r\n[**Custom Image ProgressBar using SkiaSharp Part1**](https://itnext.io/custom-image-progressbar-using-skiasharp-part1-3e0b6d230058) by [Ahmed Fouad](https://itnext.io/@csharpwriter)",
+          "embedded_links": [
+            {
+              "identifier": "AJrXGQb",
+              "title": "**Custom Image ProgressBar using SkiaSharp Part1**",
+              "url_domain": "itnext.io",
+              "url": "https://itnext.io/custom-image-progressbar-using-skiasharp-part1-3e0b6d230058"
+            },
+            {
+              "identifier": "bfcsWIa",
+              "title": "Ahmed Fouad",
+              "url_domain": "itnext.io",
+              "url": "https://itnext.io/@csharpwriter"
+            }
+          ]
+        },
+        {
+          "identifier": "QUhOC5G",
+          "type": "Link",
+          "title": "Replicating Flight UI - Part 2",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/part-2-replicating-flight-ui-working-with-the-xaml/",
+          "description": "<p>Leomaris continues here walkthrough of how to create a Xamarin Forms UI.</p>\n\n<p><a href=\"https://askxammy.com/part-2-replicating-flight-ui-working-with-the-xaml/\"><strong>(Part 2) Replicating Flight UI: Working with the XAML</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris continues here walkthrough of how to create a Xamarin Forms UI.\r\n\r\n[**(Part 2) Replicating Flight UI: Working with the XAML**](https://askxammy.com/part-2-replicating-flight-ui-working-with-the-xaml/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "4zCRNoY",
+              "title": "**(Part 2) Replicating Flight UI: Working with the XAML**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/part-2-replicating-flight-ui-working-with-the-xaml/"
+            },
+            {
+              "identifier": "8mAT6cI",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "6FGExEY",
+          "type": "Link",
+          "title": "Handle Multilingual in Xamarin Forms",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/handle-multilingual-in-xamarin-forms-without-any-plugin/",
+          "description": "<p>If you need multi-lingual support for your Xamarin.Forms app, Charlin shows you her approach.</p>\n\n<p><a href=\"https://xamgirl.com/handle-multilingual-in-xamarin-forms-without-any-plugin/\"><strong>Handle Multilingual in Xamarin Forms (Without any plugin)\n</strong></a> by <a href=\"https://twitter.com/Chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "If you need multi-lingual support for your Xamarin.Forms app, Charlin shows you her approach.\r\n\r\n[**Handle Multilingual in Xamarin Forms (Without any plugin)\r\n**](https://xamgirl.com/handle-multilingual-in-xamarin-forms-without-any-plugin/) by [Charlin Agramonte](https://twitter.com/Chard003)",
+          "embedded_links": [
+            {
+              "identifier": "9w0dUEU",
+              "title": "**Handle Multilingual in Xamarin Forms (Without any plugin)\r\n**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/handle-multilingual-in-xamarin-forms-without-any-plugin/"
+            },
+            {
+              "identifier": "ud0ch0n",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "mi1Sqm5",
+          "type": "Link",
+          "title": "First Look at the RadioButton",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2020/05/18/xamarin-forms-primer-vistazo-al-radiobutton/",
+          "description": "<p>Xamarin.Forms 4.6 has a new RadioButton control - check it out.</p>\n\n<p><strong>Note: Post is in Spanish</strong></p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2020/05/18/xamarin-forms-primer-vistazo-al-radiobutton/\"><strong>[Xamarin.Forms] Primer vistazo al RadioButton</strong></a> by <a href=\"https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/\">Javier Suárez Ruiz</a></p>",
+          "description_markdown": "Xamarin.Forms 4.6 has a new RadioButton control - check it out.\r\n\r\n**Note: Post is in Spanish**\r\n\r\n[**[Xamarin.Forms] Primer vistazo al RadioButton**](https://javiersuarezruiz.wordpress.com/2020/05/18/xamarin-forms-primer-vistazo-al-radiobutton/) by [Javier Suárez Ruiz](https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/)",
+          "embedded_links": [
+            {
+              "identifier": "kQuUiVx",
+              "title": "Xamarin.Forms] Primer vistazo al RadioButton**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2020/05/18/xamarin-forms-primer-vistazo-al-radiobutton/"
+            },
+            {
+              "identifier": "iSFWcRB",
+              "title": "Javier Suárez Ruiz",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/"
+            }
+          ]
+        },
+        {
+          "identifier": "ub1CVTv",
+          "type": "Link",
+          "title": "App Themes",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2020/05/19/xamarin-forms-app-themes/",
+          "description": "<p>Xamarin.Forms can now respond to the theme changes used by the system and in this article we will see how to do it.</p>\n\n<p><strong>Note: Post is in Spanish</strong></p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2020/05/19/xamarin-forms-app-themes/\"><strong>[Xamarin.Forms] App Themes</strong></a> by <a href=\"https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/\">Javier Suárez Ruiz</a></p>",
+          "description_markdown": "Xamarin.Forms can now respond to the theme changes used by the system and in this article we will see how to do it.\r\n\r\n**Note: Post is in Spanish**\r\n\r\n[**[Xamarin.Forms] App Themes**](https://javiersuarezruiz.wordpress.com/2020/05/19/xamarin-forms-app-themes/) by [Javier Suárez Ruiz](https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/)",
+          "embedded_links": [
+            {
+              "identifier": "w098Baq",
+              "title": "Xamarin.Forms] App Themes**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2020/05/19/xamarin-forms-app-themes/"
+            },
+            {
+              "identifier": "hs4RIrA",
+              "title": "Javier Suárez Ruiz",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/"
+            }
+          ]
+        },
+        {
+          "identifier": "18IaBDX",
+          "type": "Link",
+          "title": "iOS Extension for Xamarin.Forms Pages",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/",
+          "description": "<p>iOS extensions allow developers to customize existing system behaviors by adding extra functionality to iOS and macOS Extension Points. Such as custom context actions, password autofill, and incoming calls filters. You can even use these extensions in Xamarin.Forms apps.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/\"><strong>iOS Extension Customized for Xamarin.Forms Pages : Xamarin Blog</strong></a> by <a href=\"https://twitter.com/alexeystrakh\">Alexey Strakh</a></p>",
+          "description_markdown": "iOS extensions allow developers to customize existing system behaviors by adding extra functionality to iOS and macOS Extension Points. Such as custom context actions, password autofill, and incoming calls filters. You can even use these extensions in Xamarin.Forms apps.\r\n\r\n[**iOS Extension Customized for Xamarin.Forms Pages : Xamarin Blog**](https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/) by [Alexey Strakh](https://twitter.com/alexeystrakh)",
+          "embedded_links": [
+            {
+              "identifier": "VI0YGQu",
+              "title": "**iOS Extension Customized for Xamarin.Forms Pages : Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/"
+            },
+            {
+              "identifier": "zawM54p",
+              "title": "Alexey Strakh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/alexeystrakh"
+            }
+          ]
+        },
+        {
+          "identifier": "V0VdiWJ",
+          "type": "Link",
+          "title": "Protecting Sensitive Data in the Background",
+          "url_domain": "vicenteguzman.mx",
+          "url": "https://vicenteguzman.mx/2020/05/18/protegiendo-datos-confidenciales-en-segundo-plano-xamarin-forms/",
+          "description": "<p>When you switch tasks in iOS the system takes a screenshot of your application, but what if you have data in there that is private.  This article discusses keeping your sensitive data out of the Task Switcher in iOS (Xamarin.Forms).</p>\n\n<p><strong> Note: Post is in Spanish </strong></p>\n\n<p><a href=\"https://vicenteguzman.mx/2020/05/18/protegiendo-datos-confidenciales-en-segundo-plano-xamarin-forms/\"><strong>Protegiendo datos confidenciales en segundo plano {Xamarin.Forms}</strong></a> by <a href=\"https://twitter.com/LucioMSP\">Lucio</a></p>",
+          "description_markdown": "When you switch tasks in iOS the system takes a screenshot of your application, but what if you have data in there that is private.  This article discusses keeping your sensitive data out of the Task Switcher in iOS (Xamarin.Forms).\r\n\r\n** Note: Post is in Spanish **\r\n\r\n[**Protegiendo datos confidenciales en segundo plano {Xamarin.Forms}**](https://vicenteguzman.mx/2020/05/18/protegiendo-datos-confidenciales-en-segundo-plano-xamarin-forms/) by [Lucio](https://twitter.com/LucioMSP)",
+          "embedded_links": [
+            {
+              "identifier": "XlT557r",
+              "title": "**Protegiendo datos confidenciales en segundo plano {Xamarin.Forms}**",
+              "url_domain": "vicenteguzman.mx",
+              "url": "https://vicenteguzman.mx/2020/05/18/protegiendo-datos-confidenciales-en-segundo-plano-xamarin-forms/"
+            },
+            {
+              "identifier": "wdoO6Bu",
+              "title": "Lucio",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/LucioMSP"
+            }
+          ]
+        },
+        {
+          "identifier": "q1nfFCm",
+          "type": "Link",
+          "title": "Xamarin Forms turns to .NET MAUI – single project and code-base dev experience",
+          "url_domain": "gunnarpeipman.com",
+          "url": "https://gunnarpeipman.com/dotnet-maui-announced/",
+          "description": "<p>.NET Multi-platform App UI (MAUI) – the effort to turn Xamarin Forms apps use single cross-platform code-base targeting multiple platforms. Demos from Build conference yesterday gave clear signal – it’s not just an experiment but real deal.</p>\n\n<p><a href=\"https://gunnarpeipman.com/dotnet-maui-announced/\"><strong>Xamarin Forms turns to .NET MAUI – single project and code-base dev experience</strong></a> by <a href=\"https://gunnarpeipman.com/bio/\">Bio</a></p>",
+          "description_markdown": ".NET Multi-platform App UI (MAUI) – the effort to turn Xamarin Forms apps use single cross-platform code-base targeting multiple platforms. Demos from Build conference yesterday gave clear signal – it’s not just an experiment but real deal.\r\n\r\n[**Xamarin Forms turns to .NET MAUI – single project and code-base dev experience**](https://gunnarpeipman.com/dotnet-maui-announced/) by [Bio](https://gunnarpeipman.com/bio/)",
+          "embedded_links": [
+            {
+              "identifier": "xEjEIzb",
+              "title": "**Xamarin Forms turns to .NET MAUI – single project and code-base dev experience**",
+              "url_domain": "gunnarpeipman.com",
+              "url": "https://gunnarpeipman.com/dotnet-maui-announced/"
+            },
+            {
+              "identifier": "wENjvdw",
+              "title": "Bio",
+              "url_domain": "gunnarpeipman.com",
+              "url": "https://gunnarpeipman.com/bio/"
+            }
+          ]
+        },
+        {
+          "identifier": "dXeopSi",
+          "type": "Link",
+          "title": "Goodbye Xamarin, aloha Maui!",
+          "url_domain": "marcofolio.net",
+          "url": "https://marcofolio.net/xamarin-maui/",
+          "description": "<p>The news from Build is that Xamarin.Forms is becoming Maui.  Marco discusses.</p>\n\n<p><a href=\"https://marcofolio.net/xamarin-maui/\"><strong>Goodbye Xamarin, aloha Maui!</strong></a> by <a href=\"https://marcofolio.net/author/marco/\">Marco</a></p>",
+          "description_markdown": "The news from Build is that Xamarin.Forms is becoming Maui.  Marco discusses.\r\n\r\n[**Goodbye Xamarin, aloha Maui!**](https://marcofolio.net/xamarin-maui/) by [Marco](https://marcofolio.net/author/marco/)",
+          "embedded_links": [
+            {
+              "identifier": "d295esp",
+              "title": "**Goodbye Xamarin, aloha Maui!**",
+              "url_domain": "marcofolio.net",
+              "url": "https://marcofolio.net/xamarin-maui/"
+            },
+            {
+              "identifier": "Gr2bQCJ",
+              "title": "Marco",
+              "url_domain": "marcofolio.net",
+              "url": "https://marcofolio.net/author/marco/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "9fNPWXZ",
+          "type": "Link",
+          "title": "DevTalk 37 - Building an IoT-enabled prosthetic arm. With Clifford Agius",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-37/",
+          "description": "<p>Kerry speaks to Clifford Agius about building an IoT-enabled prosthetic arm with a corresponding Xamarin app.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-37/\"><strong>37: Building an IoT-enabled prosthetic arm. With Clifford Agius</strong></a> by <a href=\"https://kerry.lothrop.de/en/author/lothrop/\">kerry</a></p>",
+          "description_markdown": "Kerry speaks to Clifford Agius about building an IoT-enabled prosthetic arm with a corresponding Xamarin app.\r\n\r\n[**37: Building an IoT-enabled prosthetic arm. With Clifford Agius**](https://kerry.lothrop.de/devtalk-37/) by [kerry](https://kerry.lothrop.de/en/author/lothrop/)",
+          "embedded_links": [
+            {
+              "identifier": "ZzrKw73",
+              "title": "**37: Building an IoT-enabled prosthetic arm. With Clifford Agius**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-37/"
+            },
+            {
+              "identifier": "eC8SmAe",
+              "title": "kerry",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/en/author/lothrop/"
+            }
+          ]
+        },
+        {
+          "identifier": "J8Ori24",
+          "type": "Link",
+          "title": "Merge Conflict 202 - Let's Start a Business",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/202",
+          "description": "<p>So you want to develop apps.... or sell something... or do anything... you should looking starting an LLC or some sort of business. James and Frank walk you through their journey and James' recent battle with Apple.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/202\"><strong>202: Let's Start a Business</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Frank and James</a></p>",
+          "description_markdown": "So you want to develop apps.... or sell something... or do anything... you should looking starting an LLC or some sort of business. James and Frank walk you through their journey and James' recent battle with Apple.\r\n\r\n[**202: Let's Start a Business**](https://www.mergeconflict.fm/202) by [Frank and James](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "wPECAdX",
+              "title": "Frank and James",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            },
+            {
+              "identifier": "upS7Jp2",
+              "title": "**202: Let's Start a Business**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/202"
+            }
+          ]
+        },
+        {
+          "identifier": "WSPo4C1",
+          "type": "Link",
+          "title": "NullPointers Podcast - .NET 5",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/dotnet50/",
+          "description": "<p>With a new version of .NET around the corner, what will it mean for mobile, desktop or library developers. Should you adopt the new Framework?</p>\n\n<p><a href=\"https://nullpointers.io/dotnet50/\"><strong>.NET 5</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Gerald, Mark &amp; Steven</a></p>",
+          "description_markdown": "With a new version of .NET around the corner, what will it mean for mobile, desktop or library developers. Should you adopt the new Framework? \r\n\r\n[**.NET 5**](https://nullpointers.io/dotnet50/) by [Gerald, Mark & Steven](https://twitter.com/nullpointersio)",
+          "embedded_links": [
+            {
+              "identifier": "nkxTuxX",
+              "title": "**.NET 5**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/dotnet50/"
+            },
+            {
+              "identifier": "zQEBeAp",
+              "title": "Gerald, Mark & Steven",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        },
+        {
+          "identifier": "1OXLo0y",
+          "type": "Link",
+          "title": "Using Material Design in Xamarin Forms",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Using-Material-Design-in-Xamarin-Forms",
+          "description": "<p>This week Xamarin.Forms 101 looks at how to use the Material Design system in your Xamarin.Forms app.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Using-Material-Design-in-Xamarin-Forms\"><strong>Xamarin.Forms 101: Using Material Design in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/maddyleger1\">Maddy Leger</a></p>",
+          "description_markdown": "This week Xamarin.Forms 101 looks at how to use the Material Design system in your Xamarin.Forms app.\r\n\r\n[**Xamarin.Forms 101: Using Material Design in Xamarin Forms**](https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Using-Material-Design-in-Xamarin-Forms) by [Maddy Leger](https://twitter.com/maddyleger1)",
+          "embedded_links": [
+            {
+              "identifier": "aFtZ0Kj",
+              "title": "Maddy Leger",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/maddyleger1"
+            },
+            {
+              "identifier": "rLboHDr",
+              "title": "**Xamarin.Forms 101: Using Material Design in Xamarin Forms**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Using-Material-Design-in-Xamarin-Forms"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

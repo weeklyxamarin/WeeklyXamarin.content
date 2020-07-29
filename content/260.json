@@ -11,7 +11,7 @@
       "Url": "https://devblogs.microsoft.com/xamarin/microsoft-build-2020-xamarin/",
       "Description": "A roundup of all the Xamarin related news from Microsoft Build 2020.",
       "EditionId": "260",
-      "Author": "https://channel9.msdn.com/niners/jamesmontemagno",
+      "Author": "James Montemagno",
       "Id": "260-1",
       "Category": "NEWS"
     },
@@ -20,7 +20,7 @@
       "Url": "https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/",
       "Description": "Scott Hunter introduces you to what .NET MAUI is, the single project developer experience, modern development patterns, and a look at the journey ahead.",
       "EditionId": "260",
-      "Author": "https://devblogs.microsoft.com/dotnet/author/scott-h/",
+      "Author": "Scott Hunter",
       "Id": "260-2",
       "Category": "NEWS"
     },
@@ -29,7 +29,7 @@
       "Url": "https://thomasbandt.com/model-view-update",
       "Description": "MVU (also known as The Elm Architecture) seems to be one of those things which are a mystery to most of us. Until all of a sudden, we understand it and never wanna miss it again. It's something we are all going to want to have a look at given it is supported in Maui.",
       "EditionId": "260",
-      "Author": "https://twitter.com/asp_net",
+      "Author": "Thomas Bandt",
       "Id": "260-3",
       "Category": "CODE"
     },
@@ -38,7 +38,7 @@
       "Url": "https://ramshandilya.com/blog/design-system-intro",
       "Description": "A four-part series about building a Design System for iOS. A practice that helps you improve consistency and quality of your app user experiences.",
       "EditionId": "260",
-      "Author": "https://twitter.com/ramshandilya",
+      "Author": "Ram Shandilya",
       "Id": "260-4",
       "Category": "DESIGN"
     },
@@ -47,7 +47,7 @@
       "Url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/clearing-source-link-cache/",
       "Description": "Xamarin.Forms has support for Source Link for a while now. This article dives a little deeper to understand where the cache for it lives on Visual Studio for Mac.",
       "EditionId": "260",
-      "Author": "https://blog.verslu.is/author/admin/",
+      "Author": "Gerald Versluis",
       "Id": "260-5",
       "Category": "TOOLS"
     },
@@ -56,7 +56,7 @@
       "Url": "https://rajapet.com/2020/05/15/add-a-posh-adb-to-your-windows-terminal/",
       "Description": "Here is how to setup a Windows Terminal configuration to spin up a new PowerShell, but with ADB support.",
       "EditionId": "260",
-      "Author": "https://twitter.com/anotherlab",
+      "Author": "Chris Miller",
       "Id": "260-6",
       "Category": "ANDROID"
     },
@@ -65,7 +65,7 @@
       "Url": "https://itnext.io/custom-image-progressbar-using-skiasharp-part1-3e0b6d230058",
       "Description": "Drawing a custom progress image has always been a challenging task as it requires a bit of Math which is not loved by a lot of developers. In this article, we will see how this can be done using c#.",
       "EditionId": "260",
-      "Author": "https://twitter.com/mcc_ahmed",
+      "Author": "Ahmed Fouad",
       "Id": "260-7",
       "Category": "XAMARIN FORMS"
     },
@@ -74,7 +74,7 @@
       "Url": "https://askxammy.com/part-2-replicating-flight-ui-working-with-the-xaml/",
       "Description": "Leomaris continues here walkthrough of how to create a Xamarin Forms UI.",
       "EditionId": "260",
-      "Author": "https://twitter.com/leomarisreyes11",
+      "Author": "Leomaris Reyes",
       "Id": "260-8",
       "Category": "XAMARIN FORMS"
     },
@@ -83,7 +83,7 @@
       "Url": "https://xamgirl.com/handle-multilingual-in-xamarin-forms-without-any-plugin/",
       "Description": "If you need multi-lingual support for your Xamarin.Forms app, Charlin shows you her approach. [**Handle Multilingual in Xamarin Forms (Without any plugin)**](https://xamgirl.com/handle-multilingual-in-xamarin-forms-without-any-plugin/) by [Charlin Agramonte](https://twitter.com/Chard003)",
       "EditionId": "260",
-      "Author": "https://twitter.com/chard003",
+      "Author": "Charlin Agramonte",
       "Id": "260-9",
       "Category": "XAMARIN FORMS"
     },
@@ -92,7 +92,7 @@
       "Url": "https://javiersuarezruiz.wordpress.com/2020/05/18/xamarin-forms-primer-vistazo-al-radiobutton/",
       "Description": "Xamarin.Forms 4.6 has a new RadioButton control - check it out. **Note: Post is in Spanish**",
       "EditionId": "260",
-      "Author": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/",
+      "Author": "Javier Suárez Ruiz",
       "Id": "260-10",
       "Category": "XAMARIN FORMS"
     },
@@ -101,7 +101,7 @@
       "Url": "https://javiersuarezruiz.wordpress.com/2020/05/19/xamarin-forms-app-themes/",
       "Description": "Xamarin.Forms can now respond to the theme changes used by the system and in this article we will see how to do it. **Note: Post is in Spanish**",
       "EditionId": "260",
-      "Author": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/",
+      "Author": "Javier Suárez Ruiz",
       "Id": "260-11",
       "Category": "XAMARIN FORMS"
     },
@@ -110,7 +110,7 @@
       "Url": "https://devblogs.microsoft.com/xamarin/ios-extension-xamarin-forms/",
       "Description": "iOS extensions allow developers to customize existing system behaviors by adding extra functionality to iOS and macOS Extension Points. Such as custom context actions, password autofill, and incoming calls filters. You can even use these extensions in Xamarin.Forms apps.",
       "EditionId": "260",
-      "Author": "https://twitter.com/alexeystrakh",
+      "Author": "Alexey Strakh",
       "Id": "260-12",
       "Category": "XAMARIN FORMS"
     },
@@ -119,7 +119,7 @@
       "Url": "https://vicenteguzman.mx/2020/05/18/protegiendo-datos-confidenciales-en-segundo-plano-xamarin-forms/",
       "Description": "When you switch tasks in iOS the system takes a screenshot of your application, but what if you have data in there that is private.  This article discusses keeping your sensitive data out of the Task Switcher in iOS (Xamarin.Forms). ** Note: Post is in Spanish **",
       "EditionId": "260",
-      "Author": "https://twitter.com/luciomsp",
+      "Author": "Vicente G. Guzmán Lucio",
       "Id": "260-13",
       "Category": "XAMARIN FORMS"
     },
@@ -128,7 +128,7 @@
       "Url": "https://gunnarpeipman.com/dotnet-maui-announced/",
       "Description": ".NET Multi-platform App UI (MAUI) – the effort to turn Xamarin Forms apps use single cross-platform code-base targeting multiple platforms. Demos from Build conference yesterday gave clear signal – it’s not just an experiment but real deal.",
       "EditionId": "260",
-      "Author": "https://gunnarpeipman.com/bio/",
+      "Author": "Gunnar Peipman",
       "Id": "260-14",
       "Category": "XAMARIN FORMS"
     },
@@ -137,7 +137,7 @@
       "Url": "https://marcofolio.net/xamarin-maui/",
       "Description": "The news from Build is that Xamarin.Forms is becoming Maui.  Marco discusses.",
       "EditionId": "260",
-      "Author": "https://marcofolio.net/author/marco/",
+      "Author": "Marco",
       "Id": "260-15",
       "Category": "XAMARIN FORMS"
     },
@@ -146,7 +146,7 @@
       "Url": "https://kerry.lothrop.de/devtalk-37/",
       "Description": "Kerry speaks to Clifford Agius about building an IoT-enabled prosthetic arm with a corresponding Xamarin app.",
       "EditionId": "260",
-      "Author": "https://kerry.lothrop.de/en/author/lothrop/",
+      "Author": "Kerry Lothrop",
       "Id": "260-16",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -155,7 +155,7 @@
       "Url": "https://www.mergeconflict.fm/202",
       "Description": "So you want to develop apps.... or sell something... or do anything... you should looking starting an LLC or some sort of business. James and Frank walk you through their journey and James' recent battle with Apple.",
       "EditionId": "260",
-      "Author": "https://twitter.com/mergeconflictfm",
+      "Author": "Merge Conflict",
       "Id": "260-17",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -164,7 +164,7 @@
       "Url": "https://nullpointers.io/dotnet50/",
       "Description": "With a new version of .NET around the corner, what will it mean for mobile, desktop or library developers. Should you adopt the new Framework?",
       "EditionId": "260",
-      "Author": "https://twitter.com/nullpointersio",
+      "Author": "Null Pointers",
       "Id": "260-18",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -173,7 +173,7 @@
       "Url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Using-Material-Design-in-Xamarin-Forms",
       "Description": "This week Xamarin.Forms 101 looks at how to use the Material Design system in your Xamarin.Forms app.",
       "EditionId": "260",
-      "Author": "https://twitter.com/maddyleger1",
+      "Author": "Maddy Leger",
       "Id": "260-19",
       "Category": "PODCASTS & VIDEOS"
     }
