@@ -1,0 +1,391 @@
+{
+  "number": 267,
+  "title": "Issue 267",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/267",
+  "publication_status": "published",
+  "published_at": "2020-07-10T20:39:33+01:00",
+  "updated_at": "2020-07-10T20:39:40+01:00",
+  "categories": [
+    {
+      "code": "lucecarter",
+      "name": "LUCE CARTER",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hey everyone,</p>\n\n<p>Welcome back to another great week here on the newsletter. I thoroughly enjoyed reading, watching and listening to everything featured this week. Thanks as ever to everyone who contributed!</p>\n\n<p>Things are still uncertain around the world, but I hope you are all staying safe and well and have a fantastic weekend!</p>\n\n<p>Luce\n♥</p>",
+          "description_markdown": "Hey everyone,\r\n\r\nWelcome back to another great week here on the newsletter. I thoroughly enjoyed reading, watching and listening to everything featured this week. Thanks as ever to everyone who contributed!\r\n\r\nThings are still uncertain around the world, but I hope you are all staying safe and well and have a fantastic weekend!\r\n\r\nLuce\r\n♥",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "dcY0E6H",
+          "type": "Link",
+          "title": "Setup Azure DevOps for efficient Pull Requests",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/07/09/setup-azure-devops-for-efficient-pull-requests-en.html",
+          "description": "<p>When there are many developers on the same project you need to merge your code to a single branch, but before it’s important to insure that the new feature you just created is done correctly. To check, you need to propose your code as a pull request (PR). In this article Damien explains why doing pull requests are importants and how to configure them through Azure DevOps.</p>\n\n<p><a href=\"https://damienaicheh.github.io/xamarin/azure/devops/2020/07/09/setup-azure-devops-for-efficient-pull-requests-en.html\"><strong>Setup Azure DevOps for efficient Pull Requests</strong></a> by <a href=\"https://twitter.com/DamienAicheh\">Damien Aicheh</a></p>",
+          "description_markdown": "When there are many developers on the same project you need to merge your code to a single branch, but before it’s important to insure that the new feature you just created is done correctly. To check, you need to propose your code as a pull request (PR). In this article Damien explains why doing pull requests are importants and how to configure them through Azure DevOps.\r\n\r\n[**Setup Azure DevOps for efficient Pull Requests**](https://damienaicheh.github.io/xamarin/azure/devops/2020/07/09/setup-azure-devops-for-efficient-pull-requests-en.html) by [Damien Aicheh](https://twitter.com/DamienAicheh)",
+          "embedded_links": [
+            {
+              "identifier": "yrMpRc9",
+              "title": "**Setup Azure DevOps for efficient Pull Requests**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/07/09/setup-azure-devops-for-efficient-pull-requests-en.html"
+            },
+            {
+              "identifier": "OKRVnBP",
+              "title": "Damien Aicheh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DamienAicheh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "SaQTCnW",
+          "type": "Link",
+          "title": "Preparing Apps for Google Play Android 10 Requirements",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/android-10-requirements/",
+          "description": "<p>For the Northern Hemisphere, Summer is here! Which means there are some new requirements coming to Google Play when it comes to publishing your apps. Over years there have been several updates to the requirements for publish new apps. As well as updates to Google Play. This year, it is all about updating your app to target Android 10 (API 29).</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/android-10-requirements/\"><strong>Preparing Apps for Google Play Android 10 Requirements</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "For the Northern Hemisphere, Summer is here! Which means there are some new requirements coming to Google Play when it comes to publishing your apps. Over years there have been several updates to the requirements for publish new apps. As well as updates to Google Play. This year, it is all about updating your app to target Android 10 (API 29).\r\n\r\n[**Preparing Apps for Google Play Android 10 Requirements**](https://devblogs.microsoft.com/xamarin/android-10-requirements/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "jSpJr02",
+              "title": "**Preparing Apps for Google Play Android 10 Requirements**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/android-10-requirements/"
+            },
+            {
+              "identifier": "JjAgahh",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "2F4EZdT",
+          "type": "Link",
+          "title": "Xamarin.Forms UI Challenges - Pizza Shop",
+          "url_domain": "kymphillpotts.com",
+          "url": "https://kymphillpotts.com/pizza-shop.html",
+          "description": "<p>Our very own Kym Phillpotts is up there with the best when it comes to making beautiful apps! This latest UI challenge will leave you drooling.</p>\n\n<p><a href=\"https://kymphillpotts.com/pizza-shop.html\"><strong>Xamarin.Forms UI Challenges - Pizza Shop</strong></a> by <a href=\"https://twitter.com/kphillpotts\">Kym Phillpotts</a></p>",
+          "description_markdown": "Our very own Kym Phillpotts is up there with the best when it comes to making beautiful apps! This latest UI challenge will leave you drooling.\r\n\r\n[**Xamarin.Forms UI Challenges - Pizza Shop**](https://kymphillpotts.com/pizza-shop.html) by [Kym Phillpotts](https://twitter.com/kphillpotts)",
+          "embedded_links": [
+            {
+              "identifier": "Egy6xLT",
+              "title": "**Xamarin.Forms UI Challenges - Pizza Shop**",
+              "url_domain": "kymphillpotts.com",
+              "url": "https://kymphillpotts.com/pizza-shop.html"
+            },
+            {
+              "identifier": "HYzjnSU",
+              "title": "Kym Phillpotts",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kphillpotts"
+            }
+          ]
+        },
+        {
+          "identifier": "HBXxuY",
+          "type": "Link",
+          "title": "Using biometric identification in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/using-biometric-identification-in-xamarin-forms/",
+          "description": "<p>It’s very likely that some of the applications that you have installed on your device uses fingerprints to simplify authentication before executing certain important or sensitive actions.</p>\n\n<p><a href=\"https://askxammy.com/using-biometric-identification-in-xamarin-forms/\"><strong>Using biometric identification in Xamarin Forms</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "It’s very likely that some of the applications that you have installed on your device uses fingerprints to simplify authentication before executing certain important or sensitive actions.\r\n\r\n[**Using biometric identification in Xamarin Forms**](https://askxammy.com/using-biometric-identification-in-xamarin-forms/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "X3TLhFK",
+              "title": "**Using biometric identification in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/using-biometric-identification-in-xamarin-forms/"
+            },
+            {
+              "identifier": "C2RkxuK",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "LL5nuFw",
+          "type": "Link",
+          "title": "Store Data in Google Sheets using Xamarin iOS & Android",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/the-kickstarter/storedataingooglesheetsusingxamarin-ed8ba5c4b1bc",
+          "description": "<p>There have been questions on StackOverflow asking how to use Google Sheets to store data using Xamarin, as a quick and simple database. After finding no articles online, this author decided to spend a few hours to figure it out.</p>\n\n<p><a href=\"https://medium.com/the-kickstarter/storedataingooglesheetsusingxamarin-ed8ba5c4b1bc\"><strong>Store Data in Google Sheets using Xamarin iOS &amp; Android</strong></a> by <a href=\"https://medium.com/@prototypemakers?source=post_page-----1744a54b6dbd----------------------\">The First Prototype</a></p>",
+          "description_markdown": "There have been questions on StackOverflow asking how to use Google Sheets to store data using Xamarin, as a quick and simple database. After finding no articles online, this author decided to spend a few hours to figure it out.\r\n\r\n[**Store Data in Google Sheets using Xamarin iOS & Android**](https://medium.com/the-kickstarter/storedataingooglesheetsusingxamarin-ed8ba5c4b1bc) by [The First Prototype](https://medium.com/@prototypemakers?source=post_page-----1744a54b6dbd----------------------)",
+          "embedded_links": [
+            {
+              "identifier": "ppXm6Xm",
+              "title": "**Store Data in Google Sheets using Xamarin iOS & Android**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/the-kickstarter/storedataingooglesheetsusingxamarin-ed8ba5c4b1bc"
+            },
+            {
+              "identifier": "UD1J6eN",
+              "title": "The First Prototype",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prototypemakers?source=post_page-----1744a54b6dbd----------------------"
+            }
+          ]
+        },
+        {
+          "identifier": "LFjuLt",
+          "type": "Link",
+          "title": "Learn How to Fill Text with Images in Xamarin.Forms using Shapes",
+          "url_domain": "marcofolio.net",
+          "url": "https://marcofolio.net/image-text-xamarin-forms/",
+          "description": "<p>The release of Xamarin.Forms 4.7 brings with it support for shapes and some really great content is popping up around this. This post from Marco is a perfect example. I had never thought to fill text with images, but this has made me want to try it!</p>\n\n<p><a href=\"https://marcofolio.net/image-text-xamarin-forms/\"><strong>Learn How to Fill Text with Images in Xamarin.Forms using Shapes</strong></a> by <a href=\"https://twitter.com/marcofolio\">Marco Folio</a></p>",
+          "description_markdown": "The release of Xamarin.Forms 4.7 brings with it support for shapes and some really great content is popping up around this. This post from Marco is a perfect example. I had never thought to fill text with images, but this has made me want to try it!\r\n\r\n[**Learn How to Fill Text with Images in Xamarin.Forms using Shapes**](https://marcofolio.net/image-text-xamarin-forms/) by [Marco Folio](https://twitter.com/marcofolio)",
+          "embedded_links": [
+            {
+              "identifier": "29aicsD",
+              "title": "**Learn How to Fill Text with Images in Xamarin.Forms using Shapes**",
+              "url_domain": "marcofolio.net",
+              "url": "https://marcofolio.net/image-text-xamarin-forms/"
+            },
+            {
+              "identifier": "Xjq2vdN",
+              "title": "Marco Folio",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/marcofolio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "reactiveui",
+      "name": "REACTIVEUI",
+      "items": [
+        {
+          "identifier": "WtJAM3U",
+          "type": "Link",
+          "title": "ReactiveUI - On Reactive Programming",
+          "url_domain": "reactiveui.net",
+          "url": "https://www.reactiveui.net/blog/2020/07/article-on-reactive-programing",
+          "description": "<p>A really fascinating article on why you might want to do reactive programming or functional reactive programming. Has a great code sample to help articulate the point as well!</p>\n\n<p><a href=\"https://www.reactiveui.net/blog/2020/07/article-on-reactive-programing\"><strong>ReactiveUI - On Reactive Programming</strong></a> by <a href=\"https://www.reactiveui.net/blog/author/Rich-Bryant\">Rich Bryant</a></p>",
+          "description_markdown": "A really fascinating article on why you might want to do reactive programming or functional reactive programming. Has a great code sample to help articulate the point as well!\r\n\r\n[**ReactiveUI - On Reactive Programming**](https://www.reactiveui.net/blog/2020/07/article-on-reactive-programing) by [Rich Bryant](https://www.reactiveui.net/blog/author/Rich-Bryant)",
+          "embedded_links": [
+            {
+              "identifier": "Ee0Pyfq",
+              "title": "**ReactiveUI - On Reactive Programming**",
+              "url_domain": "reactiveui.net",
+              "url": "https://www.reactiveui.net/blog/2020/07/article-on-reactive-programing"
+            },
+            {
+              "identifier": "R4pCGlV",
+              "title": "Rich Bryant",
+              "url_domain": "reactiveui.net",
+              "url": "https://www.reactiveui.net/blog/author/Rich-Bryant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "mvvmcross",
+      "name": "MVVMCROSS",
+      "items": [
+        {
+          "identifier": "FLkatms",
+          "type": "Link",
+          "title": "Old MVVMCross Xamarin solutions & the looming Android 10 Deadline",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/dev-genius/oldmvvmcrossxamarinsolutionstheloomingandroid10deadline-1744a54b6dbd",
+          "description": "<p>Android X is bringing big changes to  lot of the core requirements of your app. This means that many projects may need updating to meet these. The popular MVVMCross framework is an example of this. So what can you do? This blog post discusses your options.</p>\n\n<p><a href=\"https://medium.com/dev-genius/oldmvvmcrossxamarinsolutionstheloomingandroid10deadline-1744a54b6dbd\"><strong>Old MVVMCross Xamarin solutions &amp; the looming Android 10 Deadline</strong></a> by <a href=\"https://medium.com/@prototypemakers?source=post_page-----1744a54b6dbd----------------------\">The First Prototype</a></p>",
+          "description_markdown": "Android X is bringing big changes to  lot of the core requirements of your app. This means that many projects may need updating to meet these. The popular MVVMCross framework is an example of this. So what can you do? This blog post discusses your options.\r\n\r\n[**Old MVVMCross Xamarin solutions & the looming Android 10 Deadline**](https://medium.com/dev-genius/oldmvvmcrossxamarinsolutionstheloomingandroid10deadline-1744a54b6dbd) by [The First Prototype](https://medium.com/@prototypemakers?source=post_page-----1744a54b6dbd----------------------)",
+          "embedded_links": [
+            {
+              "identifier": "pdySw1c",
+              "title": "**Old MVVMCross Xamarin solutions & the looming Android 10 Deadline**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/dev-genius/oldmvvmcrossxamarinsolutionstheloomingandroid10deadline-1744a54b6dbd"
+            },
+            {
+              "identifier": "iAPXM0x",
+              "title": "The First Prototype",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prototypemakers?source=post_page-----1744a54b6dbd----------------------"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "nuget",
+      "name": "NUGET OF THE WEEK",
+      "items": [
+        {
+          "identifier": "jCE2E3v",
+          "type": "Link",
+          "title": "PancakeView goes v2.0! Here's what's new.",
+          "url_domain": "thewissen.io",
+          "url": "https://www.thewissen.io/pancakeview-goes-v2-0-heres-whats-new/?utm_source=rss&utm_medium=rss&utm_campaign=pancakeview-goes-v2-0-heres-whats-new",
+          "description": "<p>PancakeView 2.0 is here! This post outlines what delicious new features and improvements are now available.</p>\n\n<p><a href=\"https://www.thewissen.io/pancakeview-goes-v2-0-heres-whats-new/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pancakeview-goes-v2-0-heres-whats-new\"><strong>PancakeView goes v2.0! Here's what's new.</strong></a> by <a href=\"https://twitter.com/devnl\">Steven Thewissen</a></p>",
+          "description_markdown": "PancakeView 2.0 is here! This post outlines what delicious new features and improvements are now available.\r\n\r\n[**PancakeView goes v2.0! Here's what's new.**](https://www.thewissen.io/pancakeview-goes-v2-0-heres-whats-new/?utm_source=rss&utm_medium=rss&utm_campaign=pancakeview-goes-v2-0-heres-whats-new) by [Steven Thewissen](https://twitter.com/devnl)",
+          "embedded_links": [
+            {
+              "identifier": "L6g9quX",
+              "title": "**PancakeView goes v2.0! Here's what's new.**",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/pancakeview-goes-v2-0-heres-whats-new/?utm_source=rss&utm_medium=rss&utm_campaign=pancakeview-goes-v2-0-heres-whats-new"
+            },
+            {
+              "identifier": "XT6sZic",
+              "title": "Steven Thewissen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/devnl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "o3vzzs5",
+          "type": "Link",
+          "title": "8: (Mobile) Security – Null Pointers",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/8/",
+          "description": "<p>In this episode, we share some things we know about security in general, but also specific to mobile apps. Gerald had a hacking incident on one of his web apps which triggered us to explore what we actually know about security. It’s quite easy to make a mistake, and the internet is very unforgiving, people (or bots?) will exploit it in no time. Other than that we talk about SQL injection, open redirects, Have I Been Pwned, certificates and more!</p>\n\n<p><a href=\"https://nullpointers.io/8/\"><strong>Null Pointers Episode 8</strong></a> by <a href=\"https://nullpointers.io\">Null Pointers</a></p>",
+          "description_markdown": "In this episode, we share some things we know about security in general, but also specific to mobile apps. Gerald had a hacking incident on one of his web apps which triggered us to explore what we actually know about security. It’s quite easy to make a mistake, and the internet is very unforgiving, people (or bots?) will exploit it in no time. Other than that we talk about SQL injection, open redirects, Have I Been Pwned, certificates and more!\r\n\r\n[**Null Pointers Episode 8**](https://nullpointers.io/8/) by [Null Pointers](https://nullpointers.io)",
+          "embedded_links": [
+            {
+              "identifier": "GKCgW6F",
+              "title": "**Null Pointers Episode 8**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/8/"
+            },
+            {
+              "identifier": "Fx9T528",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io"
+            }
+          ]
+        },
+        {
+          "identifier": "pOrd9PU",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 75: Inverter Converter and Xamarin.Forms 4.7",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/75",
+          "description": "<p>This month James and Matt run down the rest of the great features in Xamarin.Forms 4.7 including how it helps you manage light and dark themes, eliminates the need for James' image circle plug-in, and makes writing Grid row and column definitions so, so, so much easier.</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/75\"><strong>The Xamarin Podcast Episode 75: Inverter Converter and Xamarin.Forms 4.7</strong></a></p>",
+          "description_markdown": "This month James and Matt run down the rest of the great features in Xamarin.Forms 4.7 including how it helps you manage light and dark themes, eliminates the need for James' image circle plug-in, and makes writing Grid row and column definitions so, so, so much easier.\r\n\r\n[**The Xamarin Podcast Episode 75: Inverter Converter and Xamarin.Forms 4.7**](https://www.xamarinpodcast.com/75)",
+          "embedded_links": [
+            {
+              "identifier": "4CnsWui",
+              "title": "**The Xamarin Podcast Episode 75: Inverter Converter and Xamarin.Forms 4.7**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/75"
+            }
+          ]
+        },
+        {
+          "identifier": "YKcYPX7",
+          "type": "Link",
+          "title": "App Center + App Insights = Better Together | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/App-Center-plus-App-Insights",
+          "description": "<p>This week, James is joined by John Thiriet live from France who shows off how he combined the power of App Center Analytics with Application Insights. This combination gives crazy insight into your application when it is live. John shows off how to set it up and how to start to write queries today.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/App-Center-plus-App-Insights\"><strong>App Center + App Insights = Better Together | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by John Thiriet live from France who shows off how he combined the power of App Center Analytics with Application Insights. This combination gives crazy insight into your application when it is live. John shows off how to set it up and how to start to write queries today.\r\n\r\n[**App Center + App Insights = Better Together | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/App-Center-plus-App-Insights) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "9psdmQr",
+              "title": "**App Center + App Insights = Better Together | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/App-Center-plus-App-Insights"
+            },
+            {
+              "identifier": "XjonihK",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "sHOXceG",
+          "type": "Link",
+          "title": "Merge Conflict: 209: Working from Home",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/209",
+          "description": "<p>Work from home, work from office, work from coffee shop.... we discuss.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/209\"><strong>Merge Conflict: 209: Working from Home</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "Work from home, work from office, work from coffee shop.... we discuss.\r\n\r\n[**Merge Conflict: 209: Working from Home**](https://www.mergeconflict.fm/209) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "LcHFm5O",
+              "title": "**Merge Conflict: 209: Working from Home**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/209"
+            },
+            {
+              "identifier": "SKMUXP2",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "KlQ2rZj",
+          "type": "Link",
+          "title": "Improvments to TinyInsights",
+          "url_domain": "danielhindrikes.se",
+          "url": "https://danielhindrikes.se/index.php/2020/07/06/improvments-to-tinyinsights/",
+          "description": "<p>TinyInsights 1.1.7 is out and with it come some improvements. In this post, Daniel summarises what has changed and why.</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2020/07/06/improvments-to-tinyinsights/\"><strong>Improvments to TinyInsights</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "TinyInsights 1.1.7 is out and with it come some improvements. In this post, Daniel summarises what has changed and why.\r\n\r\n[**Improvments to TinyInsights**](https://danielhindrikes.se/index.php/2020/07/06/improvments-to-tinyinsights/) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "phiNz9G",
+              "title": "**Improvments to TinyInsights**",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/2020/07/06/improvments-to-tinyinsights/"
+            },
+            {
+              "identifier": "dWoZR6z",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
