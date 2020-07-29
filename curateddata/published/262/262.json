@@ -1,0 +1,443 @@
+{
+  "number": 262,
+  "title": "Issue 262",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/262",
+  "publication_status": "published",
+  "published_at": "2020-06-05T05:52:34+01:00",
+  "updated_at": "2020-06-05T09:34:46+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>It has been a crazy week around the globe.  Remember respect each other, love each other and most importantly enjoy this edition of Weekly Xamarin.</p>\n\n<p>As always, thanks to all the contributors!</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "It has been a crazy week around the globe.  Remember respect each other, love each other and most importantly enjoy this edition of Weekly Xamarin.  \r\n\r\nAs always, thanks to all the contributors!\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "businessandmarketing",
+      "name": "BUSINESS & MARKETING",
+      "items": [
+        {
+          "identifier": "lpGIf1M",
+          "type": "Link",
+          "title": "Going Indie a reflection on releasing an app",
+          "url_domain": "danielgauthier.me",
+          "url": "https://danielgauthier.me/launch-an-app/",
+          "description": "<p>An interesting timeline story of releasing an application.</p>\n\n<p><a href=\"https://danielgauthier.me/launch-an-app/\"><strong>Going indie, step 9: Launch an app</strong></a> by <a href=\"https://twitter.com/danielmgauthier\">Daniel Gauthier</a></p>",
+          "description_markdown": "An interesting timeline story of releasing an application.\r\n\r\n[**Going indie, step 9: Launch an app**](https://danielgauthier.me/launch-an-app/) by [Daniel Gauthier](https://twitter.com/danielmgauthier)",
+          "embedded_links": [
+            {
+              "identifier": "dZRAMgP",
+              "title": "**Going indie, step 9: Launch an app**",
+              "url_domain": "danielgauthier.me",
+              "url": "https://danielgauthier.me/launch-an-app/"
+            },
+            {
+              "identifier": "8ZLdkbh",
+              "title": "Daniel Gauthier",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/danielmgauthier"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "qKHSU3W",
+          "type": "Link",
+          "title": "Visual Studio for Mac Run Configurations: Running Multiple Projects at Once",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/productivity/vsmac-run-configurations/",
+          "description": "<p>Learn about debugging multiple projects at the same time, which you can easily set up in Visual Studio for Mac with run configurations.</p>\n\n<p><a href=\"https://blog.verslu.is/productivity/vsmac-run-configurations/\"><strong>Visual Studio for Mac Run Configurations: Running Multiple Projects at Once</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald</a></p>",
+          "description_markdown": "Learn about debugging multiple projects at the same time, which you can easily set up in Visual Studio for Mac with run configurations.\r\n\r\n[**Visual Studio for Mac Run Configurations: Running Multiple Projects at Once**](https://blog.verslu.is/productivity/vsmac-run-configurations/) by [Gerald](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "zhkxjSV",
+              "title": "**Visual Studio for Mac Run Configurations: Running Multiple Projects at Once**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/productivity/vsmac-run-configurations/"
+            },
+            {
+              "identifier": "YtLFLpu",
+              "title": "Gerald",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "eI4XsdB",
+          "type": "Link",
+          "title": "Fiddler for Xamarin Devs",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/fiddler-for-xamarin-developers",
+          "description": "<p>Fiddler is the beloved network proxy for countless developers. We look under the covers to explore how Fiddler can benefit mobile developers. Developers should never be in doubt as to what happens in the network stack.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/fiddler-for-xamarin-developers\"><strong>Fiddler for Xamarin Devs</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Fiddler is the beloved network proxy for countless developers. We look under the covers to explore how Fiddler can benefit mobile developers. Developers should never be in doubt as to what happens in the network stack.\r\n\r\n[**Fiddler for Xamarin Devs**](https://www.telerik.com/blogs/fiddler-for-xamarin-developers) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)",
+          "embedded_links": [
+            {
+              "identifier": "F5CoZeb",
+              "title": "**Fiddler for Xamarin Devs**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/fiddler-for-xamarin-developers"
+            },
+            {
+              "identifier": "2FLd1lO",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "c91eAwV",
+          "type": "Link",
+          "title": "Visual Studio Debugger Not Working in Xamarin Android",
+          "url_domain": "blogspot.com",
+          "url": "https://logeshpalani.blogspot.com/2020/06/solution-visual-studio-debugger-not.html",
+          "description": "<p>Here are some potential fixes if you are having trouble with the debugger and Xamarin.Android.</p>\n\n<p><a href=\"https://logeshpalani.blogspot.com/2020/06/solution-visual-studio-debugger-not.html\"><strong>DebuggerNotWorking in Xamarin Android</strong></a> by <a href=\"https://twitter.com/logeshpalani98/\">Logesh Palani</a></p>",
+          "description_markdown": "Here are some potential fixes if you are having trouble with the debugger and Xamarin.Android.\r\n\r\n[**DebuggerNotWorking in Xamarin Android**](https://logeshpalani.blogspot.com/2020/06/solution-visual-studio-debugger-not.html) by [Logesh Palani](https://twitter.com/logeshpalani98/)",
+          "embedded_links": [
+            {
+              "identifier": "2tYXGKd",
+              "title": "**DebuggerNotWorking in Xamarin Android**",
+              "url_domain": "blogspot.com",
+              "url": "https://logeshpalani.blogspot.com/2020/06/solution-visual-studio-debugger-not.html"
+            },
+            {
+              "identifier": "c4BgMKx",
+              "title": "Logesh Palani",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/logeshpalani98/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "RWAiNRL",
+          "type": "Link",
+          "title": "Quick tip: Handling Dark mode in our iOS App",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/quick-tip-handling-dark-mode-in-our-ios-app/",
+          "description": "<p>Howdy!!!💁‍♀ In this case I just want to give you a quick tip about handling the Dark mode on iOS.</p>\n\n<p><a href=\"https://askxammy.com/quick-tip-handling-dark-mode-in-our-ios-app/\"><strong>Quick tip: Handling Dark mode in our iOS App</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris</a></p>",
+          "description_markdown": "Howdy!!!💁‍♀ In this case I just want to give you a quick tip about handling the Dark mode on iOS.\r\n\r\n[**Quick tip: Handling Dark mode in our iOS App**](https://askxammy.com/quick-tip-handling-dark-mode-in-our-ios-app/) by [Leomaris](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "R8A9U0y",
+              "title": "Leomaris",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            },
+            {
+              "identifier": "Cn5voQJ",
+              "title": "**Quick tip: Handling Dark mode in our iOS App**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/quick-tip-handling-dark-mode-in-our-ios-app/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "WiUwwGP",
+          "type": "Link",
+          "title": "C# Markup Snippets",
+          "url_domain": "vincenth.net",
+          "url": "https://vincenth.net/blog/archive/2020/06/04/csharp-markup-snippets.aspx",
+          "description": "<p>Vincent loves his code based UI's and in this post that is part of Month of Code Snippets, he shares his favorite C# Markup Snippets.</p>\n\n<p><a href=\"https://vincenth.net/blog/archive/2020/06/04/csharp-markup-snippets.aspx\"><strong>C# Markup Snippets</strong></a> by <a href=\"https://twitter.com/vincenth_net\">Vincent Hoogendoorn</a></p>",
+          "description_markdown": "Vincent loves his code based UI's and in this post that is part of Month of Code Snippets, he shares his favorite C# Markup Snippets.\r\n\r\n[**C# Markup Snippets**](https://vincenth.net/blog/archive/2020/06/04/csharp-markup-snippets.aspx) by [Vincent Hoogendoorn](https://twitter.com/vincenth_net)",
+          "embedded_links": [
+            {
+              "identifier": "r16oYAS",
+              "title": "**C# Markup Snippets**",
+              "url_domain": "vincenth.net",
+              "url": "https://vincenth.net/blog/archive/2020/06/04/csharp-markup-snippets.aspx"
+            },
+            {
+              "identifier": "y86hIoj",
+              "title": "Vincent Hoogendoorn",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/vincenth_net"
+            }
+          ]
+        },
+        {
+          "identifier": "pmq8q3",
+          "type": "Link",
+          "title": "Convert Xamarin.Forms ImageSource to Native Image",
+          "url_domain": "blogspot.com",
+          "url": "https://alejandroruizvarela.blogspot.com/2020/06/xamarin-month-code-snippets-convert.html",
+          "description": "<p>As part of the Xamarin's Month Code Snippets, Alejandro shares a code snippet that he likes to use when creating custom controls for Xamarin.Forms.</p>\n\n<p><a href=\"https://alejandroruizvarela.blogspot.com/2020/06/xamarin-month-code-snippets-convert.html\"><strong>Xamarin Month - Code Snippets: Convert Xamarin.Forms ImageSource to Native Image</strong></a> by <a href=\"https://www.blogger.com/profile/02339751054134524870\">Alejandro Ruiz</a></p>",
+          "description_markdown": "As part of the Xamarin's Month Code Snippets, Alejandro shares a code snippet that he likes to use when creating custom controls for Xamarin.Forms.\r\n\r\n[**Xamarin Month - Code Snippets: Convert Xamarin.Forms ImageSource to Native Image**](https://alejandroruizvarela.blogspot.com/2020/06/xamarin-month-code-snippets-convert.html) by [Alejandro Ruiz](https://www.blogger.com/profile/02339751054134524870)",
+          "embedded_links": [
+            {
+              "identifier": "nPtZqO3",
+              "title": "**Xamarin Month - Code Snippets: Convert Xamarin.Forms ImageSource to Native Image**",
+              "url_domain": "blogspot.com",
+              "url": "https://alejandroruizvarela.blogspot.com/2020/06/xamarin-month-code-snippets-convert.html"
+            },
+            {
+              "identifier": "oCcs3w0",
+              "title": "Alejandro Ruiz",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/02339751054134524870"
+            }
+          ]
+        },
+        {
+          "identifier": "o8ts6xO",
+          "type": "Link",
+          "title": "White Labeling your Applications",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/white-labeling-in-xamarin-forms-applications/",
+          "description": "<p>White Labelling is having an app with a consistent codebase but supporting multiple brands simply by configuring the application with the desired branding.</p>\n\n<p><a href=\"https://xamgirl.com/white-labeling-in-xamarin-forms-applications/\"><strong>White Labeling in Xamarin Forms Applications</strong></a> by <a href=\"https://twitter.com/Chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "White Labelling is having an app with a consistent codebase but supporting multiple brands simply by configuring the application with the desired branding.\r\n\r\n[**White Labeling in Xamarin Forms Applications**](https://xamgirl.com/white-labeling-in-xamarin-forms-applications/) by [Charlin Agramonte](https://twitter.com/Chard003)",
+          "embedded_links": [
+            {
+              "identifier": "Yqo4Qns",
+              "title": "**White Labeling in Xamarin Forms Applications**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/white-labeling-in-xamarin-forms-applications/"
+            },
+            {
+              "identifier": "6hTADKq",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "m3B6kMR",
+          "type": "Link",
+          "title": "An Alert From the ViewModel",
+          "url_domain": "jesseliberty.com",
+          "url": "http://jesseliberty.com/2020/05/27/an-alert-from-the-viewmodel/",
+          "description": "<p>Quite often we want to send an alert from the view model, but you can only do so from the view. We’ve tackled this problem in the past but we think there is room for a simplified and clear step by step explanation.\n<a href=\"http://jesseliberty.com/2020/05/27/an-alert-from-the-viewmodel/\"><strong>An Alert From the ViewModel</strong></a> by <a href=\"http://jesseliberty.com/author/jl/\">Jesse Liberty</a></p>",
+          "description_markdown": "Quite often we want to send an alert from the view model, but you can only do so from the view. We’ve tackled this problem in the past but we think there is room for a simplified and clear step by step explanation. \r\n[**An Alert From the ViewModel**](http://jesseliberty.com/2020/05/27/an-alert-from-the-viewmodel/) by [Jesse Liberty](http://jesseliberty.com/author/jl/)",
+          "embedded_links": [
+            {
+              "identifier": "JFBxjYH",
+              "title": "**An Alert From the ViewModel**",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/2020/05/27/an-alert-from-the-viewmodel/"
+            },
+            {
+              "identifier": "ns6Auq0",
+              "title": "Jesse Liberty",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/author/jl/"
+            }
+          ]
+        },
+        {
+          "identifier": "5f89HYp",
+          "type": "Link",
+          "title": "Create your own circular progress bar using skiasharp",
+          "url_domain": "itnext.io",
+          "url": "https://itnext.io/create-your-own-circular-progress-bar-using-skiasharp-7c3f5616a754",
+          "description": "<p>The circular progress bar is a very popular control that designers like to use in mobile apps, also the control popularity it is not a part of the official SDKs for all the mobile platforms (IOS, Android and windows). Here is how to create your own using SKiaSharp.</p>\n\n<p><a href=\"https://itnext.io/create-your-own-circular-progress-bar-using-skiasharp-7c3f5616a754\"><strong>Create your own circular progress bar using skiasharp</strong></a> by <a href=\"https://itnext.io/@csharpwriter\">Ahmed Fouad</a></p>",
+          "description_markdown": "The circular progress bar is a very popular control that designers like to use in mobile apps, also the control popularity it is not a part of the official SDKs for all the mobile platforms (IOS, Android and windows). Here is how to create your own using SKiaSharp.\r\n\r\n[**Create your own circular progress bar using skiasharp**](https://itnext.io/create-your-own-circular-progress-bar-using-skiasharp-7c3f5616a754) by [Ahmed Fouad](https://itnext.io/@csharpwriter)",
+          "embedded_links": [
+            {
+              "identifier": "ABmzEPH",
+              "title": "**Create your own circular progress bar using skiasharp**",
+              "url_domain": "itnext.io",
+              "url": "https://itnext.io/create-your-own-circular-progress-bar-using-skiasharp-7c3f5616a754"
+            },
+            {
+              "identifier": "UkJRsNu",
+              "title": "Ahmed Fouad",
+              "url_domain": "itnext.io",
+              "url": "https://itnext.io/@csharpwriter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "mvvmcross",
+      "name": "MVVMCROSS",
+      "items": [
+        {
+          "identifier": "rnzhBIj",
+          "type": "Link",
+          "title": "MvvmCross Code Snippets",
+          "url_domain": "ostebaronen.dk",
+          "url": "https://blog.ostebaronen.dk/2020/06/mvvmcross-code-snippets.html",
+          "description": "<p>Tomasz shares out his favorite MvvmCross code snippets in another Month of snippets post.</p>\n\n<p><a href=\"https://blog.ostebaronen.dk/2020/06/mvvmcross-code-snippets.html\"><strong>MvvmCross Code Snippets</strong></a> by <a href=\"https://twitter.com/Cheesebaron\">Tomasz Cielecki</a></p>",
+          "description_markdown": "Tomasz shares out his favorite MvvmCross code snippets in another Month of snippets post.\r\n\r\n[**MvvmCross Code Snippets**](https://blog.ostebaronen.dk/2020/06/mvvmcross-code-snippets.html) by [Tomasz Cielecki](https://twitter.com/Cheesebaron)",
+          "embedded_links": [
+            {
+              "identifier": "KdOfq2b",
+              "title": "**MvvmCross Code Snippets**",
+              "url_domain": "ostebaronen.dk",
+              "url": "https://blog.ostebaronen.dk/2020/06/mvvmcross-code-snippets.html"
+            },
+            {
+              "identifier": "QO2alFP",
+              "title": "Tomasz Cielecki",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Cheesebaron"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "nuget",
+      "name": "NUGET OF THE WEEK",
+      "items": [
+        {
+          "identifier": "GTwtWPm",
+          "type": "Link",
+          "title": "Vibrancy.Forms",
+          "url_domain": "github.com",
+          "url": "https://github.com/awaescher/Vibrancy.Forms",
+          "description": "<p>Blur and Vibrancy effects for iOS and iPadOS with Xamarin.Forms... sure, why not!</p>\n\n<p><a href=\"https://github.com/awaescher/Vibrancy.Forms\"><strong>Installation</strong></a> by <a href=\"https://github.com/awaescher\">Andreas Wäscher</a></p>",
+          "description_markdown": "Blur and Vibrancy effects for iOS and iPadOS with Xamarin.Forms... sure, why not!\r\n\r\n[**Installation**](https://github.com/awaescher/Vibrancy.Forms) by [Andreas Wäscher](https://github.com/awaescher)",
+          "embedded_links": [
+            {
+              "identifier": "Qo0AXIW",
+              "title": "**Installation**",
+              "url_domain": "github.com",
+              "url": "https://github.com/awaescher/Vibrancy.Forms"
+            },
+            {
+              "identifier": "1mtSNJK",
+              "title": "Andreas Wäscher",
+              "url_domain": "github.com",
+              "url": "https://github.com/awaescher"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "zwDMW6y",
+          "type": "Link",
+          "title": "Creating A Custom Side Menu in Xamarin Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=1Vs4T6pEi_s",
+          "description": "<p>SwipeView to create a custom side menu that slides to the right and add some awesome animation to it.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=1Vs4T6pEi_s&amp;feature=youtu.be\"><strong>Xamarin.Forms SwipeView | Creating A Custom Side Menu in Xamarin Forms</strong></a> by <a href=\"https://www.youtube.com/channel/UCVwwehJC74qBhMhwFWJkwEQ\">DevCrux Technologies</a></p>",
+          "description_markdown": "SwipeView to create a custom side menu that slides to the right and add some awesome animation to it.\r\n\r\n[**Xamarin.Forms SwipeView | Creating A Custom Side Menu in Xamarin Forms**](https://www.youtube.com/watch?v=1Vs4T6pEi_s&feature=youtu.be) by [DevCrux Technologies](https://www.youtube.com/channel/UCVwwehJC74qBhMhwFWJkwEQ)",
+          "embedded_links": [
+            {
+              "identifier": "h7xqF1p",
+              "title": "**Xamarin.Forms SwipeView | Creating A Custom Side Menu in Xamarin Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=1Vs4T6pEi_s"
+            },
+            {
+              "identifier": "e9tfMle",
+              "title": "DevCrux Technologies",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCVwwehJC74qBhMhwFWJkwEQ"
+            }
+          ]
+        },
+        {
+          "identifier": "9U0kaaa",
+          "type": "Link",
+          "title": "Merge Conflict 204 - Going Freemium",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/204",
+          "description": "<p>When the app store first started paid apps were the standard, but now it is all about freemium and subscriptions. James walks through his latest dilemma with his Animal Crossing app and how he tried to figure out if he could profit from a freemium model.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/204\"><strong>204: Going Freemium</strong></a> by <a href=\"\">soundbite.fm</a></p>",
+          "description_markdown": "When the app store first started paid apps were the standard, but now it is all about freemium and subscriptions. James walks through his latest dilemma with his Animal Crossing app and how he tried to figure out if he could profit from a freemium model.\r\n\r\n[**204: Going Freemium**](https://www.mergeconflict.fm/204) by [soundbite.fm]()",
+          "embedded_links": [
+            {
+              "identifier": "9LyOHfL",
+              "title": "**204: Going Freemium**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/204"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "Ce4Z6Xd",
+          "type": "Link",
+          "title": "Telerik UI for Xamarin Updates",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/new-pickers-blazor-bindings-demo-apps-more-r2-2020-telerik-ui-for-xamarin",
+          "description": "<p>Telerik just keeps on releasing great new controls.  Here is their R2 2020 release.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/new-pickers-blazor-bindings-demo-apps-more-r2-2020-telerik-ui-for-xamarin\"><strong>New Picker Controls, Blazor Bindings, Demo Apps and More in R2 2020 for Telerik UI for Xamarin</strong></a> by <a href=\"https://www.telerik.com/blogs/author/pavel-pavlov\">Pavel Pavlov</a></p>",
+          "description_markdown": "Telerik just keeps on releasing great new controls.  Here is their R2 2020 release.\r\n\r\n[**New Picker Controls, Blazor Bindings, Demo Apps and More in R2 2020 for Telerik UI for Xamarin**](https://www.telerik.com/blogs/new-pickers-blazor-bindings-demo-apps-more-r2-2020-telerik-ui-for-xamarin) by [Pavel Pavlov](https://www.telerik.com/blogs/author/pavel-pavlov)",
+          "embedded_links": [
+            {
+              "identifier": "eCcFPOr",
+              "title": "Pavel Pavlov",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/pavel-pavlov"
+            },
+            {
+              "identifier": "MawHysC",
+              "title": "**New Picker Controls, Blazor Bindings, Demo Apps and More in R2 2020 for Telerik UI for Xamarin**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/new-pickers-blazor-bindings-demo-apps-more-r2-2020-telerik-ui-for-xamarin"
+            }
+          ]
+        },
+        {
+          "identifier": "STFlrJK",
+          "type": "Link",
+          "title": "TinyMvvm 2.2 – Shell Navigation Updates",
+          "url_domain": "danielhindrikes.se",
+          "url": "https://danielhindrikes.se/index.php/2020/06/04/tinymvvm-2-2-shell-navigation-updates/",
+          "description": "<p>We have mentioned TinyMvvm before.  It's got an update which adds support for passing parameters when navigating with ShellNavigationHandler. You can now use both query parameters and passing a object as a parameter.</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2020/06/04/tinymvvm-2-2-shell-navigation-updates/\"><strong>TinyMvvm 2.2 – Shell Navigation Updates</strong></a> by <a href=\"https://danielhindrikes.se/index.php/author/dhindrik/\">dhindrik</a></p>",
+          "description_markdown": "We have mentioned TinyMvvm before.  It's got an update which adds support for passing parameters when navigating with ShellNavigationHandler. You can now use both query parameters and passing a object as a parameter.\r\n\r\n[**TinyMvvm 2.2 – Shell Navigation Updates**](https://danielhindrikes.se/index.php/2020/06/04/tinymvvm-2-2-shell-navigation-updates/) by [dhindrik](https://danielhindrikes.se/index.php/author/dhindrik/)",
+          "embedded_links": [
+            {
+              "identifier": "TGc9gK7",
+              "title": "**TinyMvvm 2.2 – Shell Navigation Updates**",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/2020/06/04/tinymvvm-2-2-shell-navigation-updates/"
+            },
+            {
+              "identifier": "mb3WLDM",
+              "title": "dhindrik",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/author/dhindrik/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,7 +11,7 @@
       "Url": "https://danielgauthier.me/launch-an-app/",
       "Description": "An interesting timeline story of releasing an application.",
       "EditionId": "262",
-      "Author": "https://twitter.com/danielmgauthier",
+      "Author": "Daniel Gauthier",
       "Id": "262-1",
       "Category": "BUSINESS & MARKETING"
     },
@@ -20,7 +20,7 @@
       "Url": "https://blog.verslu.is/productivity/vsmac-run-configurations/",
       "Description": "Learn about debugging multiple projects at the same time, which you can easily set up in Visual Studio for Mac with run configurations.",
       "EditionId": "262",
-      "Author": "https://blog.verslu.is/author/admin/",
+      "Author": "Gerald Versluis",
       "Id": "262-2",
       "Category": "TOOLS"
     },
@@ -29,7 +29,7 @@
       "Url": "https://www.telerik.com/blogs/fiddler-for-xamarin-developers",
       "Description": "Fiddler is the beloved network proxy for countless developers. We look under the covers to explore how Fiddler can benefit mobile developers. Developers should never be in doubt as to what happens in the network stack.",
       "EditionId": "262",
-      "Author": "https://www.telerik.com/blogs/author/sam-basu",
+      "Author": "Sam Basu",
       "Id": "262-3",
       "Category": "TOOLS"
     },
@@ -38,7 +38,7 @@
       "Url": "https://logeshpalani.blogspot.com/2020/06/solution-visual-studio-debugger-not.html",
       "Description": "Here are some potential fixes if you are having trouble with the debugger and Xamarin.Android.",
       "EditionId": "262",
-      "Author": "https://twitter.com/logeshpalani98",
+      "Author": "Logesh Palani",
       "Id": "262-4",
       "Category": "ANDROID"
     },
@@ -47,7 +47,7 @@
       "Url": "https://askxammy.com/quick-tip-handling-dark-mode-in-our-ios-app/",
       "Description": "Howdy!!!💁‍♀ In this case I just want to give you a quick tip about handling the Dark mode on iOS.",
       "EditionId": "262",
-      "Author": "https://twitter.com/leomarisreyes11",
+      "Author": "Leomaris Reyes",
       "Id": "262-5",
       "Category": "IOS"
     },
@@ -56,7 +56,7 @@
       "Url": "https://vincenth.net/blog/archive/2020/06/04/csharp-markup-snippets.aspx",
       "Description": "Vincent loves his code based UI's and in this post that is part of Month of Code Snippets, he shares his favorite C# Markup Snippets.",
       "EditionId": "262",
-      "Author": "https://twitter.com/vincenth_net",
+      "Author": "Vincent Hoogendoorn",
       "Id": "262-6",
       "Category": "XAMARIN FORMS"
     },
@@ -65,16 +65,16 @@
       "Url": "https://alejandroruizvarela.blogspot.com/2020/06/xamarin-month-code-snippets-convert.html",
       "Description": "As part of the Xamarin's Month Code Snippets, Alejandro shares a code snippet that he likes to use when creating custom controls for Xamarin.Forms.",
       "EditionId": "262",
-      "Author": "https://www.blogger.com/profile/02339751054134524870",
+      "Author": "Alejandro Ruiz",
       "Id": "262-7",
       "Category": "XAMARIN FORMS"
     },
     {
-      "Title": "",
+      "Title": "White Labeling your Applications",
       "Url": "https://xamgirl.com/white-labeling-in-xamarin-forms-applications/",
       "Description": "White Labelling is having an app with a consistent codebase but supporting multiple brands simply by configuring the application with the desired branding.",
       "EditionId": "262",
-      "Author": "https://twitter.com/chard003",
+      "Author": "Charlin Agramonte",
       "Id": "262-8",
       "Category": "XAMARIN FORMS"
     },
@@ -83,7 +83,7 @@
       "Url": "http://jesseliberty.com/2020/05/27/an-alert-from-the-viewmodel/",
       "Description": "Quite often we want to send an alert from the view model, but you can only do so from the view. We’ve tackled this problem in the past but we think there is room for a simplified and clear step by step explanation.",
       "EditionId": "262",
-      "Author": "http://jesseliberty.com/author/jl/",
+      "Author": "Jesse Liberty",
       "Id": "262-9",
       "Category": "XAMARIN FORMS"
     },
@@ -92,7 +92,7 @@
       "Url": "https://itnext.io/create-your-own-circular-progress-bar-using-skiasharp-7c3f5616a754",
       "Description": "The circular progress bar is a very popular control that designers like to use in mobile apps, also the control popularity it is not a part of the official SDKs for all the mobile platforms (IOS, Android and windows). Here is how to create your own using SKiaSharp.",
       "EditionId": "262",
-      "Author": "https://twitter.com/mcc_ahmed",
+      "Author": "Ahmed Fouad",
       "Id": "262-10",
       "Category": "XAMARIN FORMS"
     },
@@ -101,7 +101,7 @@
       "Url": "https://blog.ostebaronen.dk/2020/06/mvvmcross-code-snippets.html",
       "Description": "Tomasz shares out his favorite MvvmCross code snippets in another Month of snippets post.",
       "EditionId": "262",
-      "Author": "https://twitter.com/cheesebaron",
+      "Author": "Tomasz Cielecki",
       "Id": "262-11",
       "Category": "MVVMCROSS"
     },
@@ -110,7 +110,7 @@
       "Url": "https://github.com/awaescher/Vibrancy.Forms",
       "Description": "Blur and Vibrancy effects for iOS and iPadOS with Xamarin.Forms... sure, why not!",
       "EditionId": "262",
-      "Author": "https://github.com/awaescher",
+      "Author": "Andreas Wäscher",
       "Id": "262-12",
       "Category": "NUGET OF THE WEEK"
     },
@@ -119,7 +119,7 @@
       "Url": "https://www.youtube.com/watch?v=1Vs4T6pEi_s",
       "Description": "SwipeView to create a custom side menu that slides to the right and add some awesome animation to it.",
       "EditionId": "262",
-      "Author": "https://www.youtube.com/channel/ucvwwehjc74qbhmhwfwjkweq",
+      "Author": "DevCrux Technologies",
       "Id": "262-13",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -136,7 +136,7 @@
       "Url": "https://www.telerik.com/blogs/new-pickers-blazor-bindings-demo-apps-more-r2-2020-telerik-ui-for-xamarin",
       "Description": "Telerik just keeps on releasing great new controls.  Here is their R2 2020 release.",
       "EditionId": "262",
-      "Author": "https://www.telerik.com/blogs/author/pavel-pavlov",
+      "Author": "Pavel Pavlov",
       "Id": "262-15",
       "Category": "RELEASES"
     },
@@ -145,7 +145,7 @@
       "Url": "https://danielhindrikes.se/index.php/2020/06/04/tinymvvm-2-2-shell-navigation-updates/",
       "Description": "We have mentioned TinyMvvm before.  It's got an update which adds support for passing parameters when navigating with ShellNavigationHandler. You can now use both query parameters and passing a object as a parameter.",
       "EditionId": "262",
-      "Author": "https://twitter.com/hindrikes",
+      "Author": "Daniel Hindrikes",
       "Id": "262-16",
       "Category": "RELEASES"
     }
