@@ -129,6 +129,16 @@
       ]
     },
     {
+      "Name": "Bence Lenart",
+      "Id": "https://github.com/officialdoniald/",
+      "Aliases": [
+        {
+          "Type": "github",
+          "Name": "https://github.com/officialdoniald/"
+        }
+      ]
+    },
+    {
       "Name": "Bohdan Benetskyi",
       "Id": "https://twitter.com/bbenetskyy",
       "Aliases": [
@@ -259,6 +269,16 @@
         {
           "Type": "blog",
           "Name": "https://devblogs.microsoft.com/xamarin/author/davidortinau/"
+        }
+      ]
+    },
+    {
+      "Name": "Davide Mauri",
+      "Id": "https://devblogs.microsoft.com/xamarin/author/damaurimicrosoft-com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/xamarin/author/damaurimicrosoft-com/"
         }
       ]
     },
@@ -435,6 +455,16 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/redth"
+        }
+      ]
+    },
+    {
+      "Name": "Juliano Custódio",
+      "Id": "https://julianocustodio.com/author/juucustodio/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://julianocustodio.com/author/juucustodio/"
         }
       ]
     },
@@ -697,6 +727,16 @@
       ]
     },
     {
+      "Name": "Nat Friedman",
+      "Id": "https://github.com/nat",
+      "Aliases": [
+        {
+          "Type": "github",
+          "Name": "https://github.com/nat"
+        }
+      ]
+    },
+    {
       "Name": "Nick Randolph",
       "Id": "https://twitter.com/thenickrandolph",
       "Aliases": [
@@ -909,6 +949,16 @@
         {
           "Type": "blog",
           "Name": "https://www.thewissen.io/author/steven/"
+        }
+      ]
+    },
+    {
+      "Name": "Student Developer Team",
+      "Id": "https://twitter.com/msftimagine",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/msftimagine"
         }
       ]
     },

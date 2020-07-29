@@ -1,0 +1,387 @@
+{
+  "number": 255,
+  "title": "Issue 255",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/255",
+  "publication_status": "published",
+  "published_at": "2020-04-17T15:00:25+01:00",
+  "updated_at": "2020-04-17T15:00:49+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday!</p>\n\n<p>We have another week of great articles. Get comfortable, kick back and enjoy the articles. If you are after a bit of fun, find out <a href=\"https://whatsyourquarantinename.com/\">what your quarantine name is</a>.</p>\n\n<p>Stay safe</p>\n\n<p>❤</p>\n\n<p>Kym (Smokey Germ Hermit)</p>",
+          "description_markdown": "Happy Friday!\r\n\r\nWe have another week of great articles. Get comfortable, kick back and enjoy the articles. If you are after a bit of fun, find out [what your quarantine name is](https://whatsyourquarantinename.com/).\r\n\r\nStay safe \r\n\r\n❤\r\n\r\nKym (Smokey Germ Hermit)\r\n\r\n",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "siT85MD",
+              "title": "what your quarantine name is",
+              "url_domain": "whatsyourquarantinename.com",
+              "url": "https://whatsyourquarantinename.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "y2PoIi",
+          "type": "Link",
+          "title": "“Limited time offer: a free support hour for your Xamarin project!",
+          "url_domain": "calendly.com",
+          "url": "https://calendly.com/henk_xablu/free-xamarin-support-hour-intake",
+          "description": "<p>Are you running into problems with your project, or could you use some advice? At Xablu, we offer case-by-case support from topnotch developers. You can create a ticket for your issue, our developers will create tailored solutions and they will guide you through their work. No subscription or underlying costs: only pay for the support you need! Book your free hour of support now!”</p>",
+          "description_markdown": "Are you running into problems with your project, or could you use some advice? At Xablu, we offer case-by-case support from topnotch developers. You can create a ticket for your issue, our developers will create tailored solutions and they will guide you through their work. No subscription or underlying costs: only pay for the support you need! Book your free hour of support now!”",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "c1928adc-d131-42b2-8bb5-906994f998d4.png",
+          "image_extra_large_filename": "original_ratio_extra_large_c1928adc-d131-42b2-8bb5-906994f998d4.png",
+          "image_medium_filename": "original_ratio_medium_c1928adc-d131-42b2-8bb5-906994f998d4.png"
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "EjwYKC1",
+          "type": "Link",
+          "title": "GitHub is now free for teams",
+          "url_domain": "github.blog",
+          "url": "https://github.blog/2020-04-14-github-is-now-free-for-teams/",
+          "description": "<p>Github has announced they are making private repositories with unlimited collaborators available to all GitHub accounts. All of the core GitHub features are now free for everyone. 🎉</p>\n\n<p><a href=\"https://github.blog/2020-04-14-github-is-now-free-for-teams/\"><strong>GitHub is now free for teams</strong></a> by <a href=\"https://github.com/nat\">Nat Friedman</a></p>",
+          "description_markdown": "Github has announced they are making private repositories with unlimited collaborators available to all GitHub accounts. All of the core GitHub features are now free for everyone. 🎉\r\n\r\n[**GitHub is now free for teams**](https://github.blog/2020-04-14-github-is-now-free-for-teams/) by [Nat Friedman](https://github.com/nat)",
+          "embedded_links": [
+            {
+              "identifier": "8n4mBrV",
+              "title": "**GitHub is now free for teams**",
+              "url_domain": "github.blog",
+              "url": "https://github.blog/2020-04-14-github-is-now-free-for-teams/"
+            },
+            {
+              "identifier": "m5hAaw9",
+              "title": "Nat Friedman",
+              "url_domain": "github.com",
+              "url": "https://github.com/nat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "BbyX5TL",
+          "type": "Link",
+          "title": "Showcase of Xamarin Forms Student Projects",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/showcase-of-xamarin-forms-student-projects/",
+          "description": "<p>XamGirl (Charlin Agramonte) has been teaching students Xamarin.Forms.  As a final project, they had to create a new Xamarin Forms application using any open-source API.  The results are very impressive!</p>\n\n<p><a href=\"https://xamgirl.com/showcase-of-xamarin-forms-student-projects/\"><strong>Showcase of Xamarin Forms Student Projects</strong></a> by <a href=\"https://twitter.com/Chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "XamGirl (Charlin Agramonte) has been teaching students Xamarin.Forms.  As a final project, they had to create a new Xamarin Forms application using any open-source API.  The results are very impressive!\r\n\r\n[**Showcase of Xamarin Forms Student Projects**](https://xamgirl.com/showcase-of-xamarin-forms-student-projects/) by [Charlin Agramonte](https://twitter.com/Chard003)",
+          "embedded_links": [
+            {
+              "identifier": "Ip4lQ6M",
+              "title": "**Showcase of Xamarin Forms Student Projects**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/showcase-of-xamarin-forms-student-projects/"
+            },
+            {
+              "identifier": "mmfUDPS",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "xJocrHM",
+          "type": "Link",
+          "title": "Migrating ListView To CollectionView in Xamarin.Forms - Benefits",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/migrating-listview-to-collectionview-in-xamarin-forms-benefits",
+          "description": "<p>Lists are a fundamental and inescapable part of mobile applications. Xamarin.Forms has both a ListView and the newer CollectionView. In this 3-part blog series, Matthew examines the benefits of collection views and how to migrate our existing list views to them.</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/migrating-listview-to-collectionview-in-xamarin-forms-benefits\"><strong>Migrating ListView To CollectionView in Xamarin.Forms - Benefits</strong></a> by <a href=\"\">Matthew Robbins</a></p>",
+          "description_markdown": "Lists are a fundamental and inescapable part of mobile applications. Xamarin.Forms has both a ListView and the newer CollectionView. In this 3-part blog series, Matthew examines the benefits of collection views and how to migrate our existing list views to them.\r\n\r\n[**Migrating ListView To CollectionView in Xamarin.Forms - Benefits**](https://www.mfractor.com/blogs/news/migrating-listview-to-collectionview-in-xamarin-forms-benefits) by [Matthew Robbins]()",
+          "embedded_links": [
+            {
+              "identifier": "AOuXf72",
+              "title": "**Migrating ListView To CollectionView in Xamarin.Forms - Benefits**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/migrating-listview-to-collectionview-in-xamarin-forms-benefits"
+            }
+          ]
+        },
+        {
+          "identifier": "qQTqade",
+          "type": "Link",
+          "title": "On library versioning: Minimum version and AndroidX migration",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/on-library-versioning/",
+          "description": "<p>Last version of Sharpnado lib includes MaterialFrame with Acrylic mode, but also the compatibility with Xamarin.Forms 4.5 and AndroidX. Since version 4.5, Xamarin.Forms android platform dll is compiled against AndroidX when targeting Android 29 and Android.Support libs on others targets.</p>\n\n<p><a href=\"https://www.sharpnado.com/on-library-versioning/\"><strong>On library versioning: Minimum version and AndroidX migration</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "Last version of Sharpnado lib includes MaterialFrame with Acrylic mode, but also the compatibility with Xamarin.Forms 4.5 and AndroidX. Since version 4.5, Xamarin.Forms android platform dll is compiled against AndroidX when targeting Android 29 and Android.Support libs on others targets.\r\n\r\n[**On library versioning: Minimum version and AndroidX migration**](https://www.sharpnado.com/on-library-versioning/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)",
+          "embedded_links": [
+            {
+              "identifier": "8VSM6cn",
+              "title": "**On library versioning: Minimum version and AndroidX migration**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/on-library-versioning/"
+            },
+            {
+              "identifier": "yMwtOtd",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        },
+        {
+          "identifier": "jpemyLG",
+          "type": "Link",
+          "title": "Signature Pad component",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-assinaturas-5891d9251a22",
+          "description": "<p>Thiago shows how to use the Signature Pad nuget package in your Xamarin.Forms application.</p>\n\n<p><strong> Note: Page is in Protuguese </strong></p>\n\n<p><a href=\"https://medium.com/@bertuzzi/o-x-do-xamarin-forms-assinaturas-5891d9251a22\"><strong>O X do Xamarin Forms</strong></a> by <a href=\"https://medium.com/@bertuzzi\">Thiago Bertuzzi</a></p>",
+          "description_markdown": "Thiago shows how to use the Signature Pad nuget package in your Xamarin.Forms application.\r\n\r\n** Note: Page is in Protuguese **\r\n\r\n[**O X do Xamarin Forms**](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-assinaturas-5891d9251a22) by [Thiago Bertuzzi](https://medium.com/@bertuzzi)",
+          "embedded_links": [
+            {
+              "identifier": "vdKI6n6",
+              "title": "**O X do Xamarin Forms**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-assinaturas-5891d9251a22"
+            },
+            {
+              "identifier": "P3X3ojW",
+              "title": "Thiago Bertuzzi",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi"
+            }
+          ]
+        },
+        {
+          "identifier": "AaIUsKS",
+          "type": "Link",
+          "title": "Design resources for Xamarin.Forms Developers",
+          "url_domain": "julianocustodio.com",
+          "url": "https://julianocustodio.com/2020/04/16/dicas-layout/",
+          "description": "<p>In this article Juliano Custódio discusses some resources to get design inspiration and resources for those of us not so great at designing UI's.</p>\n\n<p><strong> NOTE: Page is in Portuguese </strong></p>\n\n<p><a href=\"https://julianocustodio.com/2020/04/16/dicas-layout/\"><strong>Não sou designer e não tenho dinheiro para comprar um Xamarin.Forms UI template, o que devo fazer ?</strong></a> by <a href=\"https://julianocustodio.com/author/juucustodio/\">Juliano Custódio</a></p>",
+          "description_markdown": "In this article Juliano Custódio discusses some resources to get design inspiration and resources for those of us not so great at designing UI's.\r\n\r\n** NOTE: Page is in Portuguese **\r\n\r\n[**Não sou designer e não tenho dinheiro para comprar um Xamarin.Forms UI template, o que devo fazer ?**](https://julianocustodio.com/2020/04/16/dicas-layout/) by [Juliano Custódio](https://julianocustodio.com/author/juucustodio/)",
+          "embedded_links": [
+            {
+              "identifier": "Asns5sh",
+              "title": "**Não sou designer e não tenho dinheiro para comprar um Xamarin.Forms UI template, o que devo fazer ?**",
+              "url_domain": "julianocustodio.com",
+              "url": "https://julianocustodio.com/2020/04/16/dicas-layout/"
+            },
+            {
+              "identifier": "To19IVn",
+              "title": "Juliano Custódio",
+              "url_domain": "julianocustodio.com",
+              "url": "https://julianocustodio.com/author/juucustodio/"
+            }
+          ]
+        },
+        {
+          "identifier": "f85WWtH",
+          "type": "Link",
+          "title": "Mock Locations",
+          "url_domain": "azurewebsites.net",
+          "url": "https://officialdoniald.azurewebsites.net/2020/04/17/xamarin-forms-mock-locations/",
+          "description": "<p>This project allows you to provide Mock Locations in your applications.  Good for testing.</p>\n\n<p><a href=\"https://officialdoniald.azurewebsites.net/2020/04/17/xamarin-forms-mock-locations/\"><strong>Xamarin.Forms – Mock Locations</strong></a> by <a href=\"https://github.com/officialdoniald/\">Bence Lenart</a></p>",
+          "description_markdown": "This project allows you to provide Mock Locations in your applications.  Good for testing.\r\n\r\n[**Xamarin.Forms – Mock Locations**](https://officialdoniald.azurewebsites.net/2020/04/17/xamarin-forms-mock-locations/) by [Bence Lenart](https://github.com/officialdoniald/)",
+          "embedded_links": [
+            {
+              "identifier": "kc6LHWe",
+              "title": "**Xamarin.Forms – Mock Locations**",
+              "url_domain": "azurewebsites.net",
+              "url": "https://officialdoniald.azurewebsites.net/2020/04/17/xamarin-forms-mock-locations/"
+            },
+            {
+              "identifier": "fIOscbd",
+              "title": "Bence Lenart",
+              "url_domain": "github.com",
+              "url": "https://github.com/officialdoniald/"
+            }
+          ]
+        },
+        {
+          "identifier": "n5i24mc",
+          "type": "Link",
+          "title": "7 Tactics to structure your project with Xamarin Forms",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/7-tactics-to-structure-your-project-with-xamarin-forms/",
+          "description": "<p>Luis The 7 tactics to structure your projects</p>\n\n<p>Luis has created an ebook highlighting the 7 tactics to structure your projects with Xamarin Forms that will help you create more scalable applications.</p>\n\n<p><strong>NOTE: Requires you to subscribe</strong></p>\n\n<p><a href=\"https://luismts.com/7-tactics-to-structure-your-project-with-xamarin-forms/\"><strong>7 Tactics to structure your project with Xamarin Forms</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Luis The 7 tactics to structure your projects\r\n\r\nLuis has created an ebook highlighting the 7 tactics to structure your projects with Xamarin Forms that will help you create more scalable applications.\r\n\r\n**NOTE: Requires you to subscribe**\r\n\r\n[**7 Tactics to structure your project with Xamarin Forms**](https://luismts.com/7-tactics-to-structure-your-project-with-xamarin-forms/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "8FAO3cO",
+              "title": "**7 Tactics to structure your project with Xamarin Forms**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/7-tactics-to-structure-your-project-with-xamarin-forms/"
+            },
+            {
+              "identifier": "rlz5Y7G",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "azure",
+      "name": "AZURE",
+      "items": [
+        {
+          "identifier": "LGOMda6",
+          "type": "Link",
+          "title": "Sync with the Cloud using Change Tracking API",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/azure-sql-change-tracking-data-sync/",
+          "description": "<p>If you are creating a mobile app that will work sending data back and forth from the cloud (I guess that 99% of the apps fall into this use case), you will have at some point the need to sync data between the app and the cloud itself.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/azure-sql-change-tracking-data-sync/\"><strong>An amazingly simple solution for Mobile Apps to sync with the Cloud using Change Tracking API</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/damaurimicrosoft-com/\">Davide Mauri</a></p>",
+          "description_markdown": "If you are creating a mobile app that will work sending data back and forth from the cloud (I guess that 99% of the apps fall into this use case), you will have at some point the need to sync data between the app and the cloud itself.\r\n\r\n[**An amazingly simple solution for Mobile Apps to sync with the Cloud using Change Tracking API**](https://devblogs.microsoft.com/xamarin/azure-sql-change-tracking-data-sync/) by [Davide Mauri](https://devblogs.microsoft.com/xamarin/author/damaurimicrosoft-com/)",
+          "embedded_links": [
+            {
+              "identifier": "t46lAEP",
+              "title": "**An amazingly simple solution for Mobile Apps to sync with the Cloud using Change Tracking API**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/azure-sql-change-tracking-data-sync/"
+            },
+            {
+              "identifier": "TgtMhVI",
+              "title": "Davide Mauri",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/damaurimicrosoft-com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "HalQCuJ",
+          "type": "Link",
+          "title": ".NET Conf – Focus on Xamarin Event Recap",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/net-conf-focus-on-xamarin-event-recap/",
+          "description": "<p>It is hard to believe that is has been nearly one month since .NET Conf – Focus on Xamarin. This was our largest Xamarin live streaming event of the year with over nine hours of glorious Xamarin content from the Xamarin team and community.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/net-conf-focus-on-xamarin-event-recap/\"><strong>.NET Conf – Focus on Xamarin Event Recap</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "It is hard to believe that is has been nearly one month since .NET Conf – Focus on Xamarin. This was our largest Xamarin live streaming event of the year with over nine hours of glorious Xamarin content from the Xamarin team and community.\r\n\r\n[**.NET Conf – Focus on Xamarin Event Recap**](https://devblogs.microsoft.com/xamarin/net-conf-focus-on-xamarin-event-recap/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "EiiSp7r",
+              "title": "**.NET Conf – Focus on Xamarin Event Recap**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/net-conf-focus-on-xamarin-event-recap/"
+            },
+            {
+              "identifier": "GGIce7E",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        },
+        {
+          "identifier": "2q5ZbJx",
+          "type": "Link",
+          "title": "Logically Embed That Authentication",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/72",
+          "description": "<p>Logically embed that authentication ... that doesn't make sense at all ... or does it? Well it does when James and Matt talk about Azure Logic Apps, embedded fonts, and the brand new Xamarin.Essentials authentication!</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/72\"><strong>Logically Embed That Authentication</strong></a> by <a href=\"\">Xamarin</a></p>",
+          "description_markdown": "Logically embed that authentication ... that doesn't make sense at all ... or does it? Well it does when James and Matt talk about Azure Logic Apps, embedded fonts, and the brand new Xamarin.Essentials authentication!\r\n\r\n[**Logically Embed That Authentication**](https://www.xamarinpodcast.com/72) by [Xamarin]()",
+          "embedded_links": [
+            {
+              "identifier": "oLSUkUP",
+              "title": "**Logically Embed That Authentication**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/72"
+            }
+          ]
+        },
+        {
+          "identifier": "OpACAAf",
+          "type": "Link",
+          "title": "Xamarin.Forms 101: Resources for getting started with Xamarin",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Resources-for-getting-started-with-Xamarin",
+          "description": "<p>This week we take a look at some of Maddy's favorite resources for people getting started with Xamarin!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Resources-for-getting-started-with-Xamarin\"><strong>Xamarin.Forms 101: Resources for getting started with Xamarin</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week we take a look at some of Maddy's favorite resources for people getting started with Xamarin!\r\n\r\n[**Xamarin.Forms 101: Resources for getting started with Xamarin**](https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Resources-for-getting-started-with-Xamarin) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "xGOyijQ",
+              "title": "**Xamarin.Forms 101: Resources for getting started with Xamarin**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Resources-for-getting-started-with-Xamarin"
+            },
+            {
+              "identifier": "5CP4jso",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "xmrK6s4",
+          "type": "Link",
+          "title": "Merge Conflict 197: I Need a Website",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/197",
+          "description": "<p>Launching an app, you need a website, but you are an app developer. What to do?</p>\n\n<p><a href=\"https://www.mergeconflict.fm/197\"><strong>197: I Need a Website</strong></a></p>",
+          "description_markdown": "Launching an app, you need a website, but you are an app developer. What to do?\r\n\r\n[**197: I Need a Website**](https://www.mergeconflict.fm/197)",
+          "embedded_links": [
+            {
+              "identifier": "oQdhaFB",
+              "title": "**197: I Need a Website**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/197"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "identifier": "cPvnQws",
+          "type": "Link",
+          "title": "Student Developer coloring book!",
+          "url_domain": "microsoft.com",
+          "url": "https://techcommunity.microsoft.com/t5/student-developer-blog/download-the-student-developer-coloring-book/ba-p/1309284",
+          "description": "<p>This is a fun little developer coloring book to keep you busy during lockdown.</p>\n\n<p><a href=\"https://techcommunity.microsoft.com/t5/student-developer-blog/download-the-student-developer-coloring-book/ba-p/1309284\"><strong>Download the Student Developer coloring book!</strong></a> by <a href=\"https://twitter.com/msftimagine\">Student_Developer_Team</a></p>",
+          "description_markdown": "This is a fun little developer coloring book to keep you busy during lockdown.\r\n\r\n[**Download the Student Developer coloring book!**](https://techcommunity.microsoft.com/t5/student-developer-blog/download-the-student-developer-coloring-book/ba-p/1309284) by [Student_Developer_Team](https://twitter.com/msftimagine)",
+          "embedded_links": [
+            {
+              "identifier": "amuioS3",
+              "title": "**Download the Student Developer coloring book!**",
+              "url_domain": "microsoft.com",
+              "url": "https://techcommunity.microsoft.com/t5/student-developer-blog/download-the-student-developer-coloring-book/ba-p/1309284"
+            },
+            {
+              "identifier": "KYhIQ98",
+              "title": "Student_Developer_Team",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/msftimagine"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

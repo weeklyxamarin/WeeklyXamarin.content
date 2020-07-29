@@ -1,0 +1,133 @@
+{
+  "Id": "255",
+  "Name": "Issue 255",
+  "UpdatedTimeStamp": "2020-04-17T14:00:49Z",
+  "Summary": "No Edition Summary",
+  "PublishDate": "2020-04-17T14:00:25Z",
+  "Curators": "",
+  "Articles": [
+    {
+      "Title": "GitHub is now free for teams",
+      "Url": "https://github.blog/2020-04-14-github-is-now-free-for-teams/",
+      "Description": "Github has announced they are making private repositories with unlimited collaborators available to all GitHub accounts. All of the core GitHub features are now free for everyone. 🎉",
+      "EditionId": "255",
+      "Author": "Nat Friedman",
+      "Id": "255-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Showcase of Xamarin Forms Student Projects",
+      "Url": "https://xamgirl.com/showcase-of-xamarin-forms-student-projects/",
+      "Description": "XamGirl (Charlin Agramonte) has been teaching students Xamarin.Forms.  As a final project, they had to create a new Xamarin Forms application using any open-source API.  The results are very impressive!",
+      "EditionId": "255",
+      "Author": "Charlin Agramonte",
+      "Id": "255-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Migrating ListView To CollectionView in Xamarin.Forms - Benefits",
+      "Url": "https://www.mfractor.com/blogs/news/migrating-listview-to-collectionview-in-xamarin-forms-benefits",
+      "Description": "Lists are a fundamental and inescapable part of mobile applications. Xamarin.Forms has both a ListView and the newer CollectionView. In this 3-part blog series, Matthew examines the benefits of collection views and how to migrate our existing list views to them.",
+      "EditionId": "255",
+      "Id": "255-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "On library versioning: Minimum version and AndroidX migration",
+      "Url": "https://www.sharpnado.com/on-library-versioning/",
+      "Description": "Last version of Sharpnado lib includes MaterialFrame with Acrylic mode, but also the compatibility with Xamarin.Forms 4.5 and AndroidX. Since version 4.5, Xamarin.Forms android platform dll is compiled against AndroidX when targeting Android 29 and Android.Support libs on others targets.",
+      "EditionId": "255",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "255-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Signature Pad component",
+      "Url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-assinaturas-5891d9251a22",
+      "Description": "Thiago shows how to use the Signature Pad nuget package in your Xamarin.Forms application. ** Note: Page is in Protuguese **",
+      "EditionId": "255",
+      "Author": "Thiago Bertuzzi",
+      "Id": "255-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Design resources for Xamarin.Forms Developers",
+      "Url": "https://julianocustodio.com/2020/04/16/dicas-layout/",
+      "Description": "In this article Juliano Custódio discusses some resources to get design inspiration and resources for those of us not so great at designing UI's. ** NOTE: Page is in Portuguese **",
+      "EditionId": "255",
+      "Author": "Juliano Custódio",
+      "Id": "255-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Mock Locations",
+      "Url": "https://officialdoniald.azurewebsites.net/2020/04/17/xamarin-forms-mock-locations/",
+      "Description": "This project allows you to provide Mock Locations in your applications.  Good for testing.",
+      "EditionId": "255",
+      "Author": "Bence Lenart",
+      "Id": "255-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "7 Tactics to structure your project with Xamarin Forms",
+      "Url": "https://luismts.com/7-tactics-to-structure-your-project-with-xamarin-forms/",
+      "Description": "Luis The 7 tactics to structure your projects Luis has created an ebook highlighting the 7 tactics to structure your projects with Xamarin Forms that will help you create more scalable applications. **NOTE: Requires you to subscribe**",
+      "EditionId": "255",
+      "Author": "Luis Matos",
+      "Id": "255-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Sync with the Cloud using Change Tracking API",
+      "Url": "https://devblogs.microsoft.com/xamarin/azure-sql-change-tracking-data-sync/",
+      "Description": "If you are creating a mobile app that will work sending data back and forth from the cloud (I guess that 99% of the apps fall into this use case), you will have at some point the need to sync data between the app and the cloud itself.",
+      "EditionId": "255",
+      "Author": "Davide Mauri",
+      "Id": "255-9",
+      "Category": "AZURE"
+    },
+    {
+      "Title": ".NET Conf – Focus on Xamarin Event Recap",
+      "Url": "https://devblogs.microsoft.com/xamarin/net-conf-focus-on-xamarin-event-recap/",
+      "Description": "It is hard to believe that is has been nearly one month since .NET Conf – Focus on Xamarin. This was our largest Xamarin live streaming event of the year with over nine hours of glorious Xamarin content from the Xamarin team and community.",
+      "EditionId": "255",
+      "Author": "James Montemagno",
+      "Id": "255-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Logically Embed That Authentication",
+      "Url": "https://www.xamarinpodcast.com/72",
+      "Description": "Logically embed that authentication ... that doesn't make sense at all ... or does it? Well it does when James and Matt talk about Azure Logic Apps, embedded fonts, and the brand new Xamarin.Essentials authentication!",
+      "EditionId": "255",
+      "Id": "255-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms 101: Resources for getting started with Xamarin",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Resources-for-getting-started-with-Xamarin",
+      "Description": "This week we take a look at some of Maddy's favorite resources for people getting started with Xamarin!",
+      "EditionId": "255",
+      "Author": "James Montemagno",
+      "Id": "255-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 197: I Need a Website",
+      "Url": "https://www.mergeconflict.fm/197",
+      "Description": "Launching an app, you need a website, but you are an app developer. What to do? [**197: I Need a Website**](https://www.mergeconflict.fm/197)",
+      "EditionId": "255",
+      "Id": "255-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Student Developer coloring book!",
+      "Url": "https://techcommunity.microsoft.com/t5/student-developer-blog/download-the-student-developer-coloring-book/ba-p/1309284",
+      "Description": "This is a fun little developer coloring book to keep you busy during lockdown.",
+      "EditionId": "255",
+      "Author": "Student Developer Team",
+      "Id": "255-14",
+      "Category": "AND FINALLY..."
+    }
+  ]
+}
