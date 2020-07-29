@@ -3,8 +3,9 @@
   "Name": "Issue 261",
   "UpdatedTimeStamp": "2020-05-29T13:58:29Z",
   "Summary": "No Edition Summary",
+  "Introduction": "Hey everyone, How is everyone recovering after the excitement of Build? I actually took part in an OpenHack event with my employer this week, run by Microsoft where we were taught all about Kubernetes and AKS! So I was able to talk Build some more which was great! Some great posts this week in a nice mix of categories which is always good to see! Thanks for everyone who contributed this week! :) Have a great weekend everyone and see you for next week's episode! Luce 🧡",
   "PublishDate": "2020-05-29T13:58:25Z",
-  "Curators": "",
+  "Curators": "Luce Carter",
   "Articles": [
     {
       "Title": "Using settings.json and local.settings.json in your Xamarin apps!",

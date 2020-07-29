@@ -795,6 +795,16 @@
       ]
     },
     {
+      "Name": "Pierce Boggan",
+      "Id": "https://devblogs.microsoft.com/xamarin/author/pierce/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/xamarin/author/pierce/"
+        }
+      ]
+    },
+    {
       "Name": "Ram Shandilya",
       "Id": "https://twitter.com/ramshandilya",
       "Aliases": [

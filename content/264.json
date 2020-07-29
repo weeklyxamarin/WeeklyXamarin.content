@@ -3,8 +3,9 @@
   "Name": "Issue 264",
   "UpdatedTimeStamp": "2020-06-19T10:32:08Z",
   "Summary": "No Edition Summary",
+  "Introduction": "Hey everyone! Another great week of content again, including some fantastic code snippets as part of the #XamarinMonth event. Things in the world are still far from normal so I hope you and your loved ones are all safe and well! Have a fantastic weekend :) Luce 🧡",
   "PublishDate": "2020-06-19T10:32:05Z",
-  "Curators": "",
+  "Curators": "Luce Carter",
   "Articles": [
     {
       "Title": "Commonly used code in Xamarin.UITest",

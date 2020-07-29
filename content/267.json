@@ -3,8 +3,9 @@
   "Name": "Issue 267",
   "UpdatedTimeStamp": "2020-07-10T19:39:40Z",
   "Summary": "No Edition Summary",
+  "Introduction": "Hey everyone, Welcome back to another great week here on the newsletter. I thoroughly enjoyed reading, watching and listening to everything featured this week. Thanks as ever to everyone who contributed! Things are still uncertain around the world, but I hope you are all staying safe and well and have a fantastic weekend! Luce♥",
   "PublishDate": "2020-07-10T19:39:33Z",
-  "Curators": "",
+  "Curators": "Luce Carter",
   "Articles": [
     {
       "Title": "Setup Azure DevOps for efficient Pull Requests",

@@ -3,8 +3,9 @@
   "Name": "Issue 265",
   "UpdatedTimeStamp": "2020-06-27T04:13:01Z",
   "Summary": "No Edition Summary",
+  "Introduction": "A bumper issue this week, with lots of information about Apples WWDC announcements and more on MAUI.  Let's not forget productivity tips and snippets to super charge your Xamarin.Forms development.",
   "PublishDate": "2020-06-27T04:12:57Z",
-  "Curators": "",
+  "Curators": "Kym Phillpotts",
   "Articles": [
     {
       "Title": "Design for intelligence",

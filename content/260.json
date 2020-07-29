@@ -3,8 +3,9 @@
   "Name": "Issue 260",
   "UpdatedTimeStamp": "2020-05-23T01:28:58Z",
   "Summary": "No Edition Summary",
+  "Introduction": "It's been a big week with Microsoft Build 2020 happening. Hopefully, you got to join in on the fun - it was amazing.  Microsoft really embraced the idea of a virtual conference.  Don't worry if you missed some of the sessions, you'll find recordings popping up shortly.   The big announcements for Xamarin developers were around the future of .NET and Maui.  I'm looking forward to all these advancements to the platform.  If you aren't sure what I'm talking about then have a look at some links in this week's newsletter. Have a great weekend everyone. ♥ Kym",
   "PublishDate": "2020-05-23T01:28:53Z",
-  "Curators": "",
+  "Curators": "Kym Phillpotts",
   "Articles": [
     {
       "Title": "Xamarin Updates From Microsoft Build 2020",

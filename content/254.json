@@ -1,0 +1,169 @@
+{
+  "Id": "254",
+  "Name": "Issue 254",
+  "UpdatedTimeStamp": "2020-04-10T08:40:58Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hey everyone, Happy Friday! Sadly the world is still in the middle of a pandemic and none of us can see family and friends as much as we would like. But hang in there and stay home! I hope you and all your loved ones are safe and well. Another great set of content this week for you all to enjoy. Thanks again to everyone who created content and all you lovely readers out there! Have a great weekend,Luce 🧡",
+  "PublishDate": "2020-04-10T08:40:56Z",
+  "Curators": "Luce Carter",
+  "Articles": [
+    {
+      "Title": "Visual Studio 2019 for Mac version 8.5 | Xamarin Blog",
+      "Url": "https://devblogs.microsoft.com/xamarin/mac-version-8-5-vs19/",
+      "Description": "This week, Visual Studio 2019 for Mac version 8.5 was released! Which brings several new features and improvements for mobile developers in Visual Studio for Mac to help you build better mobile apps, faster.",
+      "EditionId": "254",
+      "Author": "Pierce Boggan",
+      "Id": "254-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Coolors.co - The super fast color schemes generator",
+      "Url": "https://coolors.co/",
+      "Description": "Steven Thewissen recently mentioned this handy colours generator in his talk at the Focus on Xamarin DotNETConf event. It's a great way to start with some colours you like and get suggestions on ones that may go well with it. You can lock ones you like and keep generating until you have a palette that you think would look good in your app! [**Coolors - colour scheme generator**](https://coolors.co/)",
+      "EditionId": "254",
+      "Id": "254-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Customize your Azure DevOps \"Run pipeline\" menu",
+      "Url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/04/07/customize-azure-devops-run-pipeline-menu-en.html",
+      "Description": "Once you automate your development process, you may have multiple pipelines. If so, each one has its own purpose and unique name. We run unit tests, then if they succeed, we build the iOS and Android projects. Finally, we distribute the application through App Center.",
+      "EditionId": "254",
+      "Author": "Damien Aicheh",
+      "Id": "254-3",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Adding Embedded Fonts: Custom Fonts in Xamarin.Forms",
+      "Url": "https://devblogs.microsoft.com/xamarin/embedded-fonts-xamarin-forms/",
+      "Description": "A bit like images, fonts is one of those resources you want to include in your app but it was historically a bit of a pain. Gerald has written a great article on how to use custom fonts with the new embedded fonts feature. Luce actually used this exact post this week to add FiraCode to an app she is working on!",
+      "EditionId": "254",
+      "Author": "Gerald Versluis",
+      "Id": "254-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Updating Old Xamarin Forms Projects",
+      "Url": "https://xamgirl.com/updating-old-xamarin-forms-projects/",
+      "Description": "Although Xamarin.Forms has been using .NET Standard 2.0 for a while now, there are still projects out there using the old PCL format. Charlin does a great job of showing you how to not only migrate over but also how to update the other parts of your solution as well!",
+      "EditionId": "254",
+      "Author": "Charlin Agramonte",
+      "Id": "254-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Combining Xamarin.Essentials WebAuthenticator with IdentityModel.OidcClient",
+      "Url": "https://www.davidbritch.com/2020/04/authentication-from-xamarinforms-app_8.html",
+      "Description": "IdentityModel.OidcClient is a C#/.NET standard 2.0 OpenID certified library for native mobile and desktop applications. Read this follow-on post from Dave's other featured article, showing how you can make WebAuthenticator in Xamarin.Essentials even simpler with the use of this library.",
+      "EditionId": "254",
+      "Author": "David Britch",
+      "Id": "254-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Picker within Listview",
+      "Url": "http://jesseliberty.com/2020/04/08/picker-within-listview/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JesseLiberty-SilverlightGeek+%28Jesse+Liberty%29",
+      "Description": "Jesse and his team recently wanted to put a picker inside a ListView in Xamarin.Forms and wanted to be notified of changes in the picker. This is a great blog post on what they learned!",
+      "EditionId": "254",
+      "Author": "Jesse Liberty",
+      "Id": "254-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Sharpnado 1.5 goes Acrylic! MaterialFrame with dynamic themes",
+      "Url": "https://www.sharpnado.com/sharpnado-goes-acrylic/",
+      "Description": "As of version 1.5, Sharpnado's MaterialFrame now has Acrylic has an additional theme option. In this post, Jean-Marie talks you through how to use it!",
+      "EditionId": "254",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "254-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Authentication from a Xamarin.Forms app using WebAuthenticator",
+      "Url": "https://www.davidbritch.com/2020/04/authentication-from-xamarinforms-app.html",
+      "Description": "Xamarin.Essentials recently introduced a WebAuthenticator class, which is a web navigation API that can be used for authentication with web services. The class contains a single method, AuthenticateAsync, which starts an authentication flow by navigating to a specified URI, and then waits for a callback/redirect to the redirect URI scheme. The whole point of the class is that it avoids having to write platform code to invoke native browsers.",
+      "EditionId": "254",
+      "Author": "David Britch",
+      "Id": "254-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Customising iOS Frame shadows in Xamarin.Forms 4.5+",
+      "Url": "https://xamarinhowto.com/customising-ios-frame-shadows-in-xamarin-forms-4-5/",
+      "Description": "Even with iOS 13 having been out for quite a while now and Xamarin.Forms 4.5+ bringing a lot of improvements and fixes, I still find myself having to customise things for different projects (usually for the same reason as some of my other other posts: Graphic Designers and marketing people 😂).",
+      "EditionId": "254",
+      "Author": "Matt Crombie",
+      "Id": "254-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Magic Gradients Make Beautiful Xamarin.Forms Apps",
+      "Url": "https://devblogs.microsoft.com/xamarin/magic-gradients-xamarinforms/",
+      "Description": "Magic Gradients is a NuGet that allows you to add beautiful and enhanced gradients into Xamarin.Forms applications. This NuGet package supports all common Xamarin platforms, such as Android, iOS and UWP. It is built upon SkiaSharp to draw a simple multi-color or multi-layer engaged gradients in Skia Surface(SKSurface).",
+      "EditionId": "254",
+      "Author": "Bohdan Benetskyi",
+      "Id": "254-11",
+      "Category": "NUGET OF THE WEEK"
+    },
+    {
+      "Title": "dotNETConf - First speaking gig: A retrospective",
+      "Url": "https://www.thewissen.io/dotnetconf-first-speaking-gig-a-retrospective/",
+      "Description": "Steven Thewissen of PancakeView, DebugRainbows and generally beautiful apps fame, recently spoke at the DotNETConf: Focus on Xamarin event. It was his first speaking gig (you wouldn't know it from watching!) and he has written a really helpful retrospective article on his experience.",
+      "EditionId": "254",
+      "Id": "254-12",
+      "Category": "CAREER"
+    },
+    {
+      "Title": "Automated Test Developer",
+      "Url": "https://bit.ly/megsoft-career-atd",
+      "Description": "Megsoft Consulting is a leading digital product agency, trusted Microsoft Partner and Premier Xamarin Partner at the forefront of IT. They are looking for an **Automated Test Developer** to join their team.  Looking for skills in: * C#, Xamarin.Forms, XAML, SQLite, Reactive Extensions* 4+ years of experience developing high-complexity applications.* Writing automated unit tests using C# & nUnit.* Working with developers & Technical Lead to ensure appropriate test coverage.* Taking Developer & UI tasks, as needed. This is a remote position. Occasional travel may be required. For this and other great positions check [**megsoftconsulting.com**](https://bit.ly/megsoft-career-atd).",
+      "EditionId": "254",
+      "Id": "254-13",
+      "Category": "WHO'S HIRING/LOOKING"
+    },
+    {
+      "Title": "App In The Cloud – Build an app powered by Custom Vision in Azure Cognitive Services",
+      "Url": "https://danielhindrikes.se/index.php/2020/04/06/app-in-the-cloud-build-an-app-powered-by-custom-vision-in-azure-cognitive-services/",
+      "Description": "In this episode, Daniel Hindrikes shows how to use a model that is trained by Custom Vision in Azure Cognitive Services in an app built with Xamarin.",
+      "EditionId": "254",
+      "Author": "Daniel Hindrikes",
+      "Id": "254-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Submitting Your First Pull Request to Xamarin.Forms | The Xamarin Show",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Submitting-Your-First-Pull-Request-to-XamarinForms--The-Xamarin-Show",
+      "Description": "This week, James is joined by friend of the show E.Z. Hart, Xamarin.Forms Engineer, who shows off how to send your first pull request to Xamarin.Forms (or any GitHub project) through GitHub.com, Visual Studio, and command line! [**Submitting Your First Pull Request to Xamarin.Forms**](https://channel9.msdn.com/Shows/XamarinShow/Submitting-Your-First-Pull-Request-to-XamarinForms--The-Xamarin-Show)",
+      "EditionId": "254",
+      "Id": "254-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 196: Our Future Is Now",
+      "Url": "https://www.mergeconflict.fm/196",
+      "Description": "Frank's family enters the world of video conferencing, and so do we! We break down all the options and spiral into random topics because that is our lives now.",
+      "EditionId": "254",
+      "Author": "Merge Conflict",
+      "Id": "254-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Permissions (Xamarin.Essentials API of the Week) | The Xamarin Show | Channel 9",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Permissions-XamarinEssentials-API-of-the-Week",
+      "Description": "On this week's Xamarin.Essential API of the week we take a look at the Permissions API, enabling you to check and request runtime permissions in your app.",
+      "EditionId": "254",
+      "Author": "James Montemagno",
+      "Id": "254-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 34: Testing Xamarin apps. With Codrina Merigo",
+      "Url": "https://kerry.lothrop.de/devtalk-34/",
+      "Description": "On this month's episode of DevTalk, Kerry talks to Codrina Merigo about testing Xamarin apps. From unit tests and integration tests to UI tests and manual tests.",
+      "EditionId": "254",
+      "Author": "Kerry Lothrop",
+      "Id": "254-18",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

@@ -3,8 +3,9 @@
   "Name": "Issue 269",
   "UpdatedTimeStamp": "2020-07-24T08:21:48Z",
   "Summary": "Design Tips, ADB Masterclass, Shapes, and loads of Xamarin.Forms",
+  "Introduction": "Happy Friday. This week we have some great design blogs and tools.  As always, there are great Xamarin.Forms articles discussing multi-lingual apps and the new shapes components to name just a couple. This week there is also a great post on the Android ADB command and creating bindings. Have a great weekend, stay safe... and wear a mask. ❤ Kym",
   "PublishDate": "2020-07-24T08:21:43Z",
-  "Curators": "",
+  "Curators": "Kym Phillpotts",
   "Articles": [
     {
       "Title": "Don’t Judge XAML Based On Lines of Code",

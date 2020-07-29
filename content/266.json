@@ -3,8 +3,9 @@
   "Name": "Issue 266",
   "UpdatedTimeStamp": "2020-07-04T02:30:16Z",
   "Summary": "This month there we have posts on Xamarin.Forms Shapes, UI Designs and Snippets to name just a few things.",
+  "Introduction": "Wow, we are already half way through the year.  Where does the time go.  This month we have some great posts on the new Shapes feature, more WWDC reviews and great Xamarin.Forms posts.",
   "PublishDate": "2020-07-04T02:30:11Z",
-  "Curators": "",
+  "Curators": "Kym Phillpotts",
   "Articles": [
     {
       "Title": "Virtual Events for Xamarin and .NET in July",

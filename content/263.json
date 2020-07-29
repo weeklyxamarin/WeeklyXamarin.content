@@ -3,8 +3,9 @@
   "Name": "Issue 263",
   "UpdatedTimeStamp": "2020-06-13T09:16:19Z",
   "Summary": "No Edition Summary",
+  "Introduction": "Lots of great content in this weeks newsletter, including a bunch of great Snippets being shared and many other community posts. Have a great weekend everyone, ❤ Kym",
   "PublishDate": "2020-06-13T04:46:01Z",
-  "Curators": "",
+  "Curators": "Kym Phillpotts",
   "Articles": [
     {
       "Title": "Consuming REST API with Swagger",
