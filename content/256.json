@@ -1,0 +1,145 @@
+{
+  "Id": "256",
+  "Name": "Issue 256",
+  "UpdatedTimeStamp": "2020-04-24T13:17:37Z",
+  "Summary": "No Edition Summary",
+  "PublishDate": "2020-04-24T13:17:34Z",
+  "Curators": "",
+  "Articles": [
+    {
+      "Title": "Supercharging your mobile analytics with App Center and Application Insights",
+      "Url": "https://johnthiriet.com/mobile-analytics-with-app-center-and-application-insights/",
+      "Description": "Application Insights can be a really powerful tool for extracting meaningul information from any mobile application. This great post from John shows how you can get started and begin to take advantage of these insights.",
+      "EditionId": "256",
+      "Author": "John Thiriet",
+      "Id": "256-1",
+      "Category": "ANAYLTICS"
+    },
+    {
+      "Title": "Bluetooth Printing in Xamarin Forms using Shiny",
+      "Url": "https://www.xamboy.com/2020/04/20/bluetooth-printing-in-xamarin-forms-using-shiny/",
+      "Description": "When developing enterprise salesforce applications is very common to support printing orders, collections, receipts using a portable bluetooth thermal printer. If you search around there’s not a lot of content on how to achieve this in a cross-platform way, fortunately now we have an awesome set of libraries called Shiny(designed to help make device services & backgrounding easy on Xamarin & UWP platforms).In this article, Rendy shows you how to do bluetooth printing with a thermal printer by using Shiny.Bluetooth library",
+      "EditionId": "256",
+      "Author": "Rendy Del Rosario",
+      "Id": "256-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Creating a login flow with Xamarin Forms Shell",
+      "Url": "https://mallibone.com/post/xamarin-forms-shell-login",
+      "Description": "Login is a very common practice in mobile apps, but the conditions on which it appears and where it sits in the navigation stack is very important. Xamarin.Forms 4.0 introduced Shell, and since 4.5 now supports modal navigation. Mark has written a follow up to a previous post on log in, this time showing how you can do it using Shell!",
+      "EditionId": "256",
+      "Author": "Mark Allibone",
+      "Id": "256-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Using Refit to consume Restful Web Service in Xamarin Forms",
+      "Url": "https://askxammy.com/using-refit-to-consume-restful-web-service-in-xamarin-forms/",
+      "Description": "When developing an application, it’s very likely that much of its development will require interaction with a web service. We can use different tools to connect and retrieve data from web services but in this post, Leomaris shows you how to do it using Refit!",
+      "EditionId": "256",
+      "Author": "Leomaris Reyes",
+      "Id": "256-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Get Permissions, App Theme, & Authentication",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-essentials-now-with-permissions-app-theme-authentication/",
+      "Description": "Xamarin.Essentials recently released 1.5 with some great new features including permissions, app themes, authentication and more!",
+      "EditionId": "256",
+      "Author": "James Montemagno",
+      "Id": "256-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Join the Xamarin + Cognitive Services Crazy Combo Challenge!",
+      "Url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/join-the-xamarin-cognitive-services-crazy-combo-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=join-the-xamarin-cognitive-services-crazy-combo-challenge",
+      "Description": "The “challenge” concept has been around for a few years now at Microsoft. Basically what happens is Microsoft provides you with a pre-built solution in the form of some sample application. From there it is up to you to let your mind go free and implement more awesome things. This challenge was written by Gerald Versluis and it should be so much fun to get invovled!",
+      "EditionId": "256",
+      "Author": "Gerald Versluis",
+      "Id": "256-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Playing with animation in Xamarin.Forms",
+      "Url": "https://www.thewissen.io/playing-with-animation-in-xamarin-forms/?utm_source=rss&utm_medium=rss&utm_campaign=playing-with-animation-in-xamarin-forms",
+      "Description": "Movement breathes life into your app. But getting started with animation in Xamarin.Forms might not be the simplest thing. This post explains how to get started with creating some cool animations you can use to spice up your app.",
+      "EditionId": "256",
+      "Author": "Steven Thewissen",
+      "Id": "256-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Migrating ListView to CollectionView in Xamarin.Forms",
+      "Url": "https://www.mfractor.com/blogs/news/migrating-listview-to-collectionview-in-xamarin-forms-user-interface",
+      "Description": "In Part Two of this series on the MFractor blog, learn how to migrate your ListView cells so you can use them in a CollectionView.",
+      "EditionId": "256",
+      "Author": "Matthew Robbins",
+      "Id": "256-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Azure Resource Organization Cheat Sheet",
+      "Url": "https://praeclarum.org/2020/04/23/azure-organization.html",
+      "Description": "Have you ever wondered how Azure resources are organised and paid for? Got confused by the terminology or how best to group things? Frank had this issue and put together an awesome cheat sheat!",
+      "EditionId": "256",
+      "Author": "Frank Krueger",
+      "Id": "256-9",
+      "Category": "AZURE"
+    },
+    {
+      "Title": "Source Link - Debug Third-Party Libraries | The Xamarin Show",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Source-Link-Debug-Third-Party-Libraries--The-Xamarin-Show",
+      "Description": "This week, James is joined by friend of the show Gerald Versluis, Xamarin.Forms Engineer, who shows off one of the coolest feature ever for app developers and library creators, Source Link. When a library is Source Link enabled you can debug INTO the source code when you are running debugging your app. This helps you diagnose issues faster than ever, check it out.",
+      "EditionId": "256",
+      "Author": "James Montemagno",
+      "Id": "256-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Podcast: Logically Embed That Authentication",
+      "Url": "https://devblogs.microsoft.com/xamarin/authentication-xamarin-podcast/",
+      "Description": "The Xamarin Podcast is back for April. In this episode, James and Matt discuss all things authentication and look back on the great Focus on Xamarin event that happened at the end of March.",
+      "EditionId": "256",
+      "Author": "Matt Soucoup",
+      "Id": "256-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 198: Why Can't We Be Friends",
+      "Url": "https://www.mergeconflict.fm/198",
+      "Description": "Have you ever thought of creating your own social network? How about just having a friend system in your app? How would you implement it? How would you handle authentication? How would it all work? We discuss as James tries to implement it in his latest app.",
+      "EditionId": "256",
+      "Author": "Merge Conflict",
+      "Id": "256-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 35: Creating Tools for Xamarin.Forms. With Steven Thewissen",
+      "Url": "https://kerry.lothrop.de/devtalk-35/",
+      "Description": "In this episode of DevTalk, Kerry talks to Steven Thewissen about his work with Xamarin.Forms open source libraries.",
+      "EditionId": "256",
+      "Author": "Kerry Lothrop",
+      "Id": "256-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms 101: Controls for boolean, numeric, and date and time input | The Xamarin Show",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Controls-for-boolean-numeric-and-date-and-time-input",
+      "Description": "Join Maddy Leger for another great Xamarin.Forms 101. In this episode, learn about the different controls you can use to get boolean, incremental, date, and other types of values from your users.",
+      "EditionId": "256",
+      "Author": "Maddy Leger",
+      "Id": "256-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Introducing TinyMvvm 2.0",
+      "Url": "https://danielhindrikes.se/index.php/2020/04/21/introducing-tinymvvm-2-0/",
+      "Description": "A new version of TinyMvvm is now available which comes with support for URL navigation in Xamarin.Forms Shell and other cool features.",
+      "EditionId": "256",
+      "Author": "Daniel Hindrikes",
+      "Id": "256-15",
+      "Category": "RELEASES"
+    }
+  ]
+}

@@ -303,6 +303,16 @@
       ]
     },
     {
+      "Name": "Frank Krueger",
+      "Id": "https://twitter.com/praeclarum",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/praeclarum"
+        }
+      ]
+    },
+    {
       "Name": "Gerald Versluis",
       "Id": "https://blog.verslu.is/author/admin/",
       "Aliases": [

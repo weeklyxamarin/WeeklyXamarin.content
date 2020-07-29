@@ -1,0 +1,423 @@
+{
+  "number": 256,
+  "title": "Issue 256",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/256",
+  "publication_status": "published",
+  "published_at": "2020-04-24T14:17:34+01:00",
+  "updated_at": "2020-04-24T14:17:37+01:00",
+  "categories": [
+    {
+      "code": "lucecarter",
+      "name": "LUCE CARTER",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hey everyone,</p>\n\n<p>Happy Friday!</p>\n\n<p>Another week of great links so thanks to everyone who contributed!</p>\n\n<p>I hope you, your friends and your family are all staying safe and well! We are still on lockdown here in the UK, it’s strange but slowly getting used to it.</p>\n\n<p>Have a wonderful weekend :)</p>\n\n<p>Luce 🧡</p>",
+          "description_markdown": "Hey everyone,\r\n\r\nHappy Friday!\r\n\r\nAnother week of great links so thanks to everyone who contributed!\r\n\r\nI hope you, your friends and your family are all staying safe and well! We are still on lockdown here in the UK, it’s strange but slowly getting used to it.\r\n\r\nHave a wonderful weekend :)\r\n\r\nLuce 🧡 ",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "7507JVg",
+          "type": "Link",
+          "title": "“Limited time offer: a free support hour for your Xamarin project!",
+          "url_domain": "calendly.com",
+          "url": "https://calendly.com/henk_xablu/free-xamarin-support-hour-intake",
+          "description": "<p>Are you running into problems with your project, or could you use some advice? At Xablu, we offer case-by-case support from topnotch developers. You can create a ticket for your issue, our developers will create tailored solutions and they will guide you through their work. No subscription or underlying costs: only pay for the support you need! Book your free hour of support now!”</p>",
+          "description_markdown": "Are you running into problems with your project, or could you use some advice? At Xablu, we offer case-by-case support from topnotch developers. You can create a ticket for your issue, our developers will create tailored solutions and they will guide you through their work. No subscription or underlying costs: only pay for the support you need! Book your free hour of support now!”",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "7f0e4bac-a7f3-4b1d-82fb-1e7efc1dffef.png",
+          "image_extra_large_filename": "original_ratio_extra_large_7f0e4bac-a7f3-4b1d-82fb-1e7efc1dffef.png",
+          "image_medium_filename": "original_ratio_medium_7f0e4bac-a7f3-4b1d-82fb-1e7efc1dffef.png"
+        }
+      ]
+    },
+    {
+      "code": "anayltics",
+      "name": "ANAYLTICS",
+      "items": [
+        {
+          "identifier": "2lYx0Cg",
+          "type": "Link",
+          "title": "Supercharging your mobile analytics with App Center and Application Insights",
+          "url_domain": "johnthiriet.com",
+          "url": "https://johnthiriet.com/mobile-analytics-with-app-center-and-application-insights/",
+          "description": "<p>Application Insights can be a really powerful tool for extracting meaningul information from any mobile application. This great post from John shows how you can get started and begin to take advantage of these insights.</p>\n\n<p><a href=\"https://johnthiriet.com/mobile-analytics-with-app-center-and-application-insights/\"><strong>Supercharging your mobile analytics with App Center and Application Insights</strong></a> by <a href=\"https://twitter.com/johnthiriet\">John Thiriet</a></p>",
+          "description_markdown": "Application Insights can be a really powerful tool for extracting meaningul information from any mobile application. This great post from John shows how you can get started and begin to take advantage of these insights.\r\n\r\n[**Supercharging your mobile analytics with App Center and Application Insights**](https://johnthiriet.com/mobile-analytics-with-app-center-and-application-insights/) by [John Thiriet](https://twitter.com/johnthiriet)",
+          "embedded_links": [
+            {
+              "identifier": "P2BY9OC",
+              "title": "**Supercharging your mobile analytics with App Center and Application Insights**",
+              "url_domain": "johnthiriet.com",
+              "url": "https://johnthiriet.com/mobile-analytics-with-app-center-and-application-insights/"
+            },
+            {
+              "identifier": "5uPO9a5",
+              "title": "John Thiriet",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/johnthiriet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "k1T5iWQ",
+          "type": "Link",
+          "title": "Bluetooth Printing in Xamarin Forms using Shiny",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2020/04/20/bluetooth-printing-in-xamarin-forms-using-shiny/",
+          "description": "<p>When developing enterprise salesforce applications is very common to support printing orders, collections, receipts using a portable bluetooth thermal printer. If you search around there’s not a lot of content on how to achieve this in a cross-platform way, fortunately now we have an awesome set of libraries called Shiny(designed to help make device services &amp; backgrounding easy on Xamarin &amp; UWP platforms).\nIn this article, Rendy shows you how to do bluetooth printing with a thermal printer by using Shiny.Bluetooth library</p>\n\n<p><a href=\"https://www.xamboy.com/2020/04/20/bluetooth-printing-in-xamarin-forms-using-shiny/https://www.xamboy.com/2020/04/20/bluetooth-printing-in-xamarin-forms-using-shiny/\"><strong>Bluetooth Printing in Xamarin Forms using Shiny</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "When developing enterprise salesforce applications is very common to support printing orders, collections, receipts using a portable bluetooth thermal printer. If you search around there’s not a lot of content on how to achieve this in a cross-platform way, fortunately now we have an awesome set of libraries called Shiny(designed to help make device services & backgrounding easy on Xamarin & UWP platforms).\r\nIn this article, Rendy shows you how to do bluetooth printing with a thermal printer by using Shiny.Bluetooth library\r\n\r\n[**Bluetooth Printing in Xamarin Forms using Shiny**](https://www.xamboy.com/2020/04/20/bluetooth-printing-in-xamarin-forms-using-shiny/https://www.xamboy.com/2020/04/20/bluetooth-printing-in-xamarin-forms-using-shiny/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "riM8Gh9",
+              "title": "**Bluetooth Printing in Xamarin Forms using Shiny**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2020/04/20/bluetooth-printing-in-xamarin-forms-using-shiny/"
+            },
+            {
+              "identifier": "1PCxoeX",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        },
+        {
+          "identifier": "IoRuZJD",
+          "type": "Link",
+          "title": "Creating a login flow with Xamarin Forms Shell",
+          "url_domain": "mallibone.com",
+          "url": "https://mallibone.com/post/xamarin-forms-shell-login",
+          "description": "<p>Login is a very common practice in mobile apps, but the conditions on which it appears and where it sits in the navigation stack is very important. Xamarin.Forms 4.0 introduced Shell, and since 4.5 now supports modal navigation. Mark has written a follow up to a previous post on log in, this time showing how you can do it using Shell!</p>\n\n<p><a href=\"https://mallibone.com/post/xamarin-forms-shell-login\"><strong>Creating a login flow with Xamarin Forms Shell</strong></a> by <a href=\"https://twitter.com/mallibone\">Mark Allibone</a></p>",
+          "description_markdown": "Login is a very common practice in mobile apps, but the conditions on which it appears and where it sits in the navigation stack is very important. Xamarin.Forms 4.0 introduced Shell, and since 4.5 now supports modal navigation. Mark has written a follow up to a previous post on log in, this time showing how you can do it using Shell!\r\n\r\n[**Creating a login flow with Xamarin Forms Shell**](https://mallibone.com/post/xamarin-forms-shell-login) by [Mark Allibone](https://twitter.com/mallibone)",
+          "embedded_links": [
+            {
+              "identifier": "9uujz1E",
+              "title": "**Creating a login flow with Xamarin Forms Shell**",
+              "url_domain": "mallibone.com",
+              "url": "https://mallibone.com/post/xamarin-forms-shell-login"
+            },
+            {
+              "identifier": "C0remF0",
+              "title": "Mark Allibone",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mallibone"
+            }
+          ]
+        },
+        {
+          "identifier": "Kz3Cknu",
+          "type": "Link",
+          "title": "Using Refit to consume Restful Web Service in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/using-refit-to-consume-restful-web-service-in-xamarin-forms/",
+          "description": "<p>When developing an application, it’s very likely that much of its development will require interaction with a web service. We can use different tools to connect and retrieve data from web services but in this post, Leomaris shows you how to do it using Refit!</p>\n\n<p><a href=\"https://askxammy.com/using-refit-to-consume-restful-web-service-in-xamarin-forms/\"><strong>Using Refit to consume Restful Web Service in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/LeomarisReyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "When developing an application, it’s very likely that much of its development will require interaction with a web service. We can use different tools to connect and retrieve data from web services but in this post, Leomaris shows you how to do it using Refit!\r\n\r\n[**Using Refit to consume Restful Web Service in Xamarin Forms**](https://askxammy.com/using-refit-to-consume-restful-web-service-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/LeomarisReyes11)",
+          "embedded_links": [
+            {
+              "identifier": "qV3fOqd",
+              "title": "**Using Refit to consume Restful Web Service in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/using-refit-to-consume-restful-web-service-in-xamarin-forms/"
+            },
+            {
+              "identifier": "HClWhyJ",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/LeomarisReyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "XiyaknH",
+          "type": "Link",
+          "title": "Get Permissions, App Theme, & Authentication",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-essentials-now-with-permissions-app-theme-authentication/",
+          "description": "<p>Xamarin.Essentials recently released 1.5 with some great new features including permissions, app themes, authentication and more!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-essentials-now-with-permissions-app-theme-authentication/\"><strong>Get Permissions, App Theme, &amp; Authentication</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "Xamarin.Essentials recently released 1.5 with some great new features including permissions, app themes, authentication and more!\r\n\r\n[**Get Permissions, App Theme, & Authentication**](https://devblogs.microsoft.com/xamarin/xamarin-essentials-now-with-permissions-app-theme-authentication/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "6zYKqIc",
+              "title": "**Get Permissions, App Theme, & Authentication**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-essentials-now-with-permissions-app-theme-authentication/"
+            },
+            {
+              "identifier": "PbOvzSw",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        },
+        {
+          "identifier": "N0mYmz1",
+          "type": "Link",
+          "title": "Join the Xamarin + Cognitive Services Crazy Combo Challenge!",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/join-the-xamarin-cognitive-services-crazy-combo-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=join-the-xamarin-cognitive-services-crazy-combo-challenge",
+          "description": "<p>The “challenge” concept has been around for a few years now at Microsoft. Basically what happens is Microsoft provides you with a pre-built solution in the form of some sample application. From there it is up to you to let your mind go free and implement more awesome things. This challenge was written by Gerald Versluis and it should be so much fun to get invovled!</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/xamarin-forms-xamarin/join-the-xamarin-cognitive-services-crazy-combo-challenge/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=join-the-xamarin-cognitive-services-crazy-combo-challenge\"><strong>Join the Xamarin + Cognitive Services Crazy Combo Challenge!</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "The “challenge” concept has been around for a few years now at Microsoft. Basically what happens is Microsoft provides you with a pre-built solution in the form of some sample application. From there it is up to you to let your mind go free and implement more awesome things. This challenge was written by Gerald Versluis and it should be so much fun to get invovled!\r\n\r\n[**Join the Xamarin + Cognitive Services Crazy Combo Challenge!**](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/join-the-xamarin-cognitive-services-crazy-combo-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=join-the-xamarin-cognitive-services-crazy-combo-challenge) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "B9zmy0c",
+              "title": "**Join the Xamarin + Cognitive Services Crazy Combo Challenge!**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/join-the-xamarin-cognitive-services-crazy-combo-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=join-the-xamarin-cognitive-services-crazy-combo-challenge"
+            },
+            {
+              "identifier": "tyKLYHv",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "pYNxnSY",
+          "type": "Link",
+          "title": "Playing with animation in Xamarin.Forms",
+          "url_domain": "thewissen.io",
+          "url": "https://www.thewissen.io/playing-with-animation-in-xamarin-forms/?utm_source=rss&utm_medium=rss&utm_campaign=playing-with-animation-in-xamarin-forms",
+          "description": "<p>Movement breathes life into your app. But getting started with animation in Xamarin.Forms might not be the simplest thing. This post explains how to get started with creating some cool animations you can use to spice up your app.</p>\n\n<p><a href=\"https://www.thewissen.io/playing-with-animation-in-xamarin-forms/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=playing-with-animation-in-xamarin-forms\"><strong>Playing with animation in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/devnl\">Steven Thewissen</a></p>",
+          "description_markdown": "Movement breathes life into your app. But getting started with animation in Xamarin.Forms might not be the simplest thing. This post explains how to get started with creating some cool animations you can use to spice up your app.\r\n\r\n[**Playing with animation in Xamarin.Forms**](https://www.thewissen.io/playing-with-animation-in-xamarin-forms/?utm_source=rss&utm_medium=rss&utm_campaign=playing-with-animation-in-xamarin-forms) by [Steven Thewissen](https://twitter.com/devnl)",
+          "embedded_links": [
+            {
+              "identifier": "AaPaEGe",
+              "title": "**Playing with animation in Xamarin.Forms**",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/playing-with-animation-in-xamarin-forms/?utm_source=rss&utm_medium=rss&utm_campaign=playing-with-animation-in-xamarin-forms"
+            },
+            {
+              "identifier": "vmyNLTk",
+              "title": "Steven Thewissen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/devnl"
+            }
+          ]
+        },
+        {
+          "identifier": "XpLXNJi",
+          "type": "Link",
+          "title": "Migrating ListView to CollectionView in Xamarin.Forms",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/migrating-listview-to-collectionview-in-xamarin-forms-user-interface",
+          "description": "<p>In Part Two of this series on the MFractor blog, learn how to migrate your ListView cells so you can use them in a CollectionView.</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/migrating-listview-to-collectionview-in-xamarin-forms-user-interface\"><strong>Migrating ListView to CollectionView in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/matthewrdev\">Matthew Robbins</a></p>",
+          "description_markdown": "In Part Two of this series on the MFractor blog, learn how to migrate your ListView cells so you can use them in a CollectionView.\r\n\r\n[**Migrating ListView to CollectionView in Xamarin.Forms**](https://www.mfractor.com/blogs/news/migrating-listview-to-collectionview-in-xamarin-forms-user-interface) by [Matthew Robbins](https://twitter.com/matthewrdev)",
+          "embedded_links": [
+            {
+              "identifier": "RiJtvUu",
+              "title": "**Migrating ListView to CollectionView in Xamarin.Forms**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/migrating-listview-to-collectionview-in-xamarin-forms-user-interface"
+            },
+            {
+              "identifier": "6pJYFF0",
+              "title": "Matthew Robbins",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/matthewrdev"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "azure",
+      "name": "AZURE",
+      "items": [
+        {
+          "identifier": "cZeBqTW",
+          "type": "Link",
+          "title": "Azure Resource Organization Cheat Sheet",
+          "url_domain": "praeclarum.org",
+          "url": "https://praeclarum.org/2020/04/23/azure-organization.html",
+          "description": "<p>Have you ever wondered how Azure resources are organised and paid for? Got confused by the terminology or how best to group things? Frank had this issue and put together an awesome cheat sheat!</p>\n\n<p><a href=\"https://praeclarum.org/2020/04/23/azure-organization.html\"><strong>Azure Resource Organization Cheat Sheet</strong></a> by <a href=\"https://twitter.com/praeclarum\">Frank Krueger</a></p>",
+          "description_markdown": "Have you ever wondered how Azure resources are organised and paid for? Got confused by the terminology or how best to group things? Frank had this issue and put together an awesome cheat sheat!\r\n\r\n[**Azure Resource Organization Cheat Sheet**](https://praeclarum.org/2020/04/23/azure-organization.html) by [Frank Krueger](https://twitter.com/praeclarum)",
+          "embedded_links": [
+            {
+              "identifier": "AXgn9e8",
+              "title": "**Azure Resource Organization Cheat Sheet**",
+              "url_domain": "praeclarum.org",
+              "url": "https://praeclarum.org/2020/04/23/azure-organization.html"
+            },
+            {
+              "identifier": "FM6bYqX",
+              "title": "Frank Krueger",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/praeclarum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "apMgUcH",
+          "type": "Link",
+          "title": "Source Link - Debug Third-Party Libraries | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Source-Link-Debug-Third-Party-Libraries--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by friend of the show Gerald Versluis, Xamarin.Forms Engineer, who shows off one of the coolest feature ever for app developers and library creators, Source Link. When a library is Source Link enabled you can debug INTO the source code when you are running debugging your app. This helps you diagnose issues faster than ever, check it out.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Source-Link-Debug-Third-Party-Libraries--The-Xamarin-Show\"><strong>Source Link - Debug Third-Party Libraries</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by friend of the show Gerald Versluis, Xamarin.Forms Engineer, who shows off one of the coolest feature ever for app developers and library creators, Source Link. When a library is Source Link enabled you can debug INTO the source code when you are running debugging your app. This helps you diagnose issues faster than ever, check it out.\r\n\r\n[**Source Link - Debug Third-Party Libraries**](https://channel9.msdn.com/Shows/XamarinShow/Source-Link-Debug-Third-Party-Libraries--The-Xamarin-Show) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "kV2PXmB",
+              "title": "**Source Link - Debug Third-Party Libraries**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Source-Link-Debug-Third-Party-Libraries--The-Xamarin-Show"
+            },
+            {
+              "identifier": "1oYCP5O",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "j8Dz9ky",
+          "type": "Link",
+          "title": "Xamarin Podcast: Logically Embed That Authentication",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/authentication-xamarin-podcast/",
+          "description": "<p>The Xamarin Podcast is back for April. In this episode, James and Matt discuss all things authentication and look back on the great Focus on Xamarin event that happened at the end of March.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/authentication-xamarin-podcast/\"><strong>Xamarin Podcast: Logically Embed That Authentication</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/matt-soucoup/\">Matt Soucoup</a></p>",
+          "description_markdown": "The Xamarin Podcast is back for April. In this episode, James and Matt discuss all things authentication and look back on the great Focus on Xamarin event that happened at the end of March.\r\n\r\n[**Xamarin Podcast: Logically Embed That Authentication**](https://devblogs.microsoft.com/xamarin/authentication-xamarin-podcast/) by [Matt Soucoup](https://devblogs.microsoft.com/xamarin/author/matt-soucoup/)",
+          "embedded_links": [
+            {
+              "identifier": "WooL28F",
+              "title": "**Xamarin Podcast: Logically Embed That Authentication**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/authentication-xamarin-podcast/"
+            },
+            {
+              "identifier": "T2V29aw",
+              "title": "Matt Soucoup",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/matt-soucoup/"
+            }
+          ]
+        },
+        {
+          "identifier": "ofiyrEi",
+          "type": "Link",
+          "title": "Merge Conflict: 198: Why Can't We Be Friends",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/198",
+          "description": "<p>Have you ever thought of creating your own social network? How about just having a friend system in your app? How would you implement it? How would you handle authentication? How would it all work? We discuss as James tries to implement it in his latest app.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/198\"><strong>Merge Conflict: 198: Why Can't We Be Friends</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "Have you ever thought of creating your own social network? How about just having a friend system in your app? How would you implement it? How would you handle authentication? How would it all work? We discuss as James tries to implement it in his latest app.\r\n\r\n[**Merge Conflict: 198: Why Can't We Be Friends**](https://www.mergeconflict.fm/198) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "CGxBRGo",
+              "title": "**Merge Conflict: 198: Why Can't We Be Friends**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/198"
+            },
+            {
+              "identifier": "HUV3UYw",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        },
+        {
+          "identifier": "KUqfRKZ",
+          "type": "Link",
+          "title": "DevTalk 35: Creating Tools for Xamarin.Forms. With Steven Thewissen",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-35/",
+          "description": "<p>In this episode of DevTalk, Kerry talks to Steven Thewissen about his work with Xamarin.Forms open source libraries.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-35/\"><strong>DevTalk 35: Creating Tools for Xamarin.Forms. With Steven Thewissen</strong></a> by <a href=\"https://kerry.lothrop.de\">Kerry Lothrop</a></p>",
+          "description_markdown": "In this episode of DevTalk, Kerry talks to Steven Thewissen about his work with Xamarin.Forms open source libraries.\r\n\r\n[**DevTalk 35: Creating Tools for Xamarin.Forms. With Steven Thewissen**](https://kerry.lothrop.de/devtalk-35/) by [Kerry Lothrop](https://kerry.lothrop.de)",
+          "embedded_links": [
+            {
+              "identifier": "TtOoNuI",
+              "title": "**DevTalk 35: Creating Tools for Xamarin.Forms. With Steven Thewissen**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-35/"
+            },
+            {
+              "identifier": "YZOnbbx",
+              "title": "Kerry Lothrop",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de"
+            }
+          ]
+        },
+        {
+          "identifier": "NWmdEA0",
+          "type": "Link",
+          "title": "Xamarin.Forms 101: Controls for boolean, numeric, and date and time input | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Controls-for-boolean-numeric-and-date-and-time-input",
+          "description": "<p>Join Maddy Leger for another great Xamarin.Forms 101. In this episode, learn about the different controls you can use to get boolean, incremental, date, and other types of values from your users.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Controls-for-boolean-numeric-and-date-and-time-input\"><strong>Xamarin.Forms 101: Controls for boolean, numeric, and date and time input</strong></a> by <a href=\"https://channel9.msdn.com/Niners/maddyleger1\">Maddy Leger</a></p>",
+          "description_markdown": "Join Maddy Leger for another great Xamarin.Forms 101. In this episode, learn about the different controls you can use to get boolean, incremental, date, and other types of values from your users.\r\n\r\n[**Xamarin.Forms 101: Controls for boolean, numeric, and date and time input**](https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Controls-for-boolean-numeric-and-date-and-time-input) by [Maddy Leger](https://channel9.msdn.com/Niners/maddyleger1)",
+          "embedded_links": [
+            {
+              "identifier": "igAsJFS",
+              "title": "**Xamarin.Forms 101: Controls for boolean, numeric, and date and time input**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Controls-for-boolean-numeric-and-date-and-time-input"
+            },
+            {
+              "identifier": "W6vyq7u",
+              "title": "Maddy Leger",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/maddyleger1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "TRYwfsW",
+          "type": "Link",
+          "title": "Introducing TinyMvvm 2.0",
+          "url_domain": "danielhindrikes.se",
+          "url": "https://danielhindrikes.se/index.php/2020/04/21/introducing-tinymvvm-2-0/",
+          "description": "<p>A new version of TinyMvvm is now available which comes with support for URL navigation in Xamarin.Forms Shell and other cool features.</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2020/04/21/introducing-tinymvvm-2-0/\"><strong>Introducing TinyMvvm 2.0</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "A new version of TinyMvvm is now available which comes with support for URL navigation in Xamarin.Forms Shell and other cool features.\r\n\r\n[**Introducing TinyMvvm 2.0**](https://danielhindrikes.se/index.php/2020/04/21/introducing-tinymvvm-2-0/) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "NcS48Vu",
+              "title": "**Introducing TinyMvvm 2.0**",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/2020/04/21/introducing-tinymvvm-2-0/"
+            },
+            {
+              "identifier": "N3GckP0",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
