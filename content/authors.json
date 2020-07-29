@@ -199,6 +199,16 @@
       ]
     },
     {
+      "Name": "Dan Siegel",
+      "Id": "https://twitter.com/danjsiegel",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/danjsiegel"
+        }
+      ]
+    },
+    {
       "Name": "Daniel Gauthier",
       "Id": "https://twitter.com/danielmgauthier",
       "Aliases": [
@@ -332,8 +342,12 @@
     },
     {
       "Name": "Javier Suárez Ruiz",
-      "Id": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/",
+      "Id": "https://www.youtube.com/channel/ucknulhrlk_zhrpatwvnodma",
       "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.youtube.com/channel/ucknulhrlk_zhrpatwvnodma"
+        },
         {
           "Type": "blog",
           "Name": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/"
@@ -371,9 +385,23 @@
       ]
     },
     {
-      "Name": "Jonathan Dick",
-      "Id": "https://twitter.com/redth",
+      "Name": "John Thiriet",
+      "Id": "https://twitter.com/johnthiriet",
       "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/johnthiriet"
+        }
+      ]
+    },
+    {
+      "Name": "Jon Dick",
+      "Id": "https://devblogs.microsoft.com/xamarin/author/redth/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/xamarin/author/redth/"
+        },
         {
           "Type": "twitter",
           "Name": "https://twitter.com/redth"
@@ -475,6 +503,16 @@
       ]
     },
     {
+      "Name": "Lorenzo Araujo",
+      "Id": "https://valentineg8.wordpress.com/author/977mebcp6a/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://valentineg8.wordpress.com/author/977mebcp6a/"
+        }
+      ]
+    },
+    {
       "Name": "Luce Carter",
       "Id": "https://twitter.com/lucecarter1",
       "Aliases": [
@@ -545,12 +583,32 @@
       ]
     },
     {
+      "Name": "Marius Muntean",
+      "Id": "https://github.com/mariusmuntean",
+      "Aliases": [
+        {
+          "Type": "github",
+          "Name": "https://github.com/mariusmuntean"
+        }
+      ]
+    },
+    {
       "Name": "Martin Zikmund",
       "Id": "https://twitter.com/mzikmunddev",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/mzikmunddev"
+        }
+      ]
+    },
+    {
+      "Name": "Matt Crombie",
+      "Id": "https://xamarinhowto.com/author/mattxamarinhowto-com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://xamarinhowto.com/author/mattxamarinhowto-com/"
         }
       ]
     },
@@ -703,6 +761,16 @@
         {
           "Type": "blog",
           "Name": "https://www.reactiveui.net/blog/author/rich-bryant"
+        }
+      ]
+    },
+    {
+      "Name": "Robin Schroeder",
+      "Id": "https://www.msctek.com/author/robin-schroeder/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.msctek.com/author/robin-schroeder/"
         }
       ]
     },

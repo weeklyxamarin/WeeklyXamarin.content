@@ -1,0 +1,214 @@
+{
+  "Id": "258",
+  "Name": "Issue 258",
+  "UpdatedTimeStamp": "2020-05-08T21:12:29Z",
+  "Summary": "No Edition Summary",
+  "PublishDate": "2020-05-08T21:12:24Z",
+  "Curators": "",
+  "Articles": [
+    {
+      "Title": "Xamarin Customer Showcase: PGS Software + Volotea",
+      "Url": "https://devblogs.microsoft.com/xamarin/volotea-pgs-software-xamarin-showcase/",
+      "Description": "Cross-platform, mobile applications are the way of the future, especially when it comes to travel. We sat down with Boguslaw Blonski from PGS Software, who explains how they took Volotea to new heights with Xamarin. As well as the inspiration behind the project and what the future holds.",
+      "EditionId": "258",
+      "Author": "Jayme Singleton",
+      "Id": "258-1",
+      "Category": "APP OF THE WEEK"
+    },
+    {
+      "Title": "Default Interface Methods in C#",
+      "Url": "https://itnext.io/default-interface-methods-in-c-df01dfa7b4e8",
+      "Description": "c# 8 allows developers to write a default implementation for the methods in the interfaces. I consider this feature as a high-risk language feature one as it can be easily misused that will lead to catastrophic code quality. In this article, we will discuss the correct use of this feature.",
+      "EditionId": "258",
+      "Author": "Ahmed Fouad",
+      "Id": "258-2",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Crashes and errors analytics with App Center and Application Insights",
+      "Url": "https://johnthiriet.com/crashes-and-errors-app-center-application-insights-errors/",
+      "Description": "For this blog post, John Thiriet covers export analytics data from your mobile application from App Center to Application Insights.",
+      "EditionId": "258",
+      "Author": "John Thiriet",
+      "Id": "258-3",
+      "Category": "ANAYLTICS"
+    },
+    {
+      "Title": "Generate an universal Apk from your Android App Bundle using Azure DevOps",
+      "Url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/05/05/universal-apk-from-aab-with-azure-devops-en.html",
+      "Description": "Since Google introduced Android App Bundle, it becomes the new standard to distribute your Android application accross the stores. It allows us to generate a specific version of our application for any device, with only the recourses this device needs.",
+      "EditionId": "258",
+      "Id": "258-4",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Contact Sharing in Xamarin Forms",
+      "Url": "https://xamgirl.com/contact-sharing-in-xamarin-forms/",
+      "Description": "In this article, Charlin shows you how to share a contact by creating a vCard and sharing it using Xamarin Essentials.",
+      "EditionId": "258",
+      "Author": "Charlin Agramonte",
+      "Id": "258-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Links Preview Control for Xamarin Forms",
+      "Url": "https://valentineg8.wordpress.com/2020/05/07/links-preview-control-for-xamarin-forms/",
+      "Description": "Lorenzo was sending a link in WhatsApp to a friend and realized when you enter a link it shows a preview, after seeing it he started to wonder how to make something similar in Xamarin.Forms.",
+      "EditionId": "258",
+      "Author": "Lorenzo Araujo",
+      "Id": "258-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Implementation of the Cognitive Services + Xamarin Combo Challenge!",
+      "Url": "https://medium.com/@benetskyybogdan/implementation-of-the-cognitive-services-xamarin-combo-challenge-6e78517c89c9",
+      "Description": "There was a recent Xamarin Challenge for Cognitive Services and Xamarin.Forms.  In this post, Bohdan discusses his experiences.",
+      "EditionId": "258",
+      "Author": "Bohdan Benetskyi",
+      "Id": "258-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms Custom Fonts Simplified & Everywhere",
+      "Url": "https://montemagno.com/xamarin-forms-custom-fonts-everywhere/",
+      "Description": "In Xamarin.Forms 4.6 custom fonts got easier with Embedded Fonts and IconFont2Code.",
+      "EditionId": "258",
+      "Author": "James Montemagno",
+      "Id": "258-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Animate Anything with Xamarin.Forms",
+      "Url": "https://montemagno.com/animate-anything-with-xamarin-forms/",
+      "Description": "James, plays with Custom Animations in Xamarin.Forms to create a nice little loading animation for his twitch project.",
+      "EditionId": "258",
+      "Author": "James Montemagno",
+      "Id": "258-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin and Bluetooth Mesh Networks",
+      "Url": "https://www.msctek.com/xamarin-is-the-best-choice-for-bluetooth-mesh-networks/",
+      "Description": "Bluetooth Low Energy (BLE) is what you are using to pair your phone to the awesome little Xamarin Bluetooth speaker that we all picked up at a Xamarin conference.",
+      "EditionId": "258",
+      "Author": "Robin Schroeder",
+      "Id": "258-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "SomeTips for UI Handling!",
+      "Url": "https://askxammy.com/sometips-best-practices-for-ui-handling/",
+      "Description": "Leomaris drops some tips for working with Xamarin.Forms UIs",
+      "EditionId": "258",
+      "Author": "Leomaris Reyes",
+      "Id": "258-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Icon Fonts made Easy",
+      "Url": "https://dansiegel.net/post/2020/05/07/icon-fonts-made-easy",
+      "Description": "Coming from a Pre-Xamarin background of web development, I have always loved fonts like Font Awesome. Naturally I was pretty excited that Xamarin.Forms finally added a FontImageSource to make it easier to use Font based Icons, but it still frankly was a pain to use.",
+      "EditionId": "258",
+      "Author": "Dan Siegel",
+      "Id": "258-12",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Fixing small text on iOS WKWebView’s in Xamarin.Forms",
+      "Url": "https://xamarinhowto.com/fixing-small-text-on-ios-wkwebviews-in-xamarin-forms/",
+      "Description": "Matt Crombie, shows how to to fix an issue with tiny text in the webview on iOS.",
+      "EditionId": "258",
+      "Author": "Matt Crombie",
+      "Id": "258-13",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "CoordinatorLayout.Forms",
+      "Url": "https://github.com/mariusmuntean/CoordinatorLayout.Forms",
+      "Description": "CoordinatorLayout.XamarinForms A custom control for Xamarin.Forms, that shows an expanding top view and a scrollable bottom view. It is a reproduction of Android's CoordinatorLayout.",
+      "EditionId": "258",
+      "Author": "Marius Muntean",
+      "Id": "258-14",
+      "Category": "NUGET OF THE WEEK"
+    },
+    {
+      "Title": "Adaptive UI with Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=KpWpfi_4Rrg",
+      "Description": "In this video Javier talks about how to create adaptive and responsive UI's in Xamarin.Forms.",
+      "EditionId": "258",
+      "Author": "Javier Suárez Ruiz",
+      "Id": "258-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms 101: Accessibility using Automation Properties",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Accessibility-using-Automation-Properties",
+      "Description": "This week Xamarin.Forms 101 takes a look at how to make your Xamarin.Forms apps more accessible using Automation Properties.",
+      "EditionId": "258",
+      "Author": "James Montemagno",
+      "Id": "258-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Essential Nuget packages for your .NET projects. With Michael Stonis",
+      "Url": "https://kerry.lothrop.de/devtalk-36/",
+      "Description": "On this episode of DevTalk Kerry speaks to Michael Stonis about essential Nuget packages for your .NET projects.",
+      "EditionId": "258",
+      "Author": "Kerry Lothrop",
+      "Id": "258-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Essentials 1.6, Forms 4.6 and Contact Tracing",
+      "Url": "https://www.xamarinpodcast.com/73",
+      "Description": "Have a listen to the Xamarin podcast to learn about all the new hotness in Xamarin.Forms releases.",
+      "EditionId": "258",
+      "Id": "258-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Visual State Manger - Beyond the Basics | The Xamarin Show",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Visual-State-Manger-Beyond-the-Basics--The-Xamarin-Show",
+      "Description": "This week, James is joined by friend of the show Gerald Versluis, Xamarin.Forms Engineer, who shows off one of the coolest feature ever for app developers and library creators, the new improved VisualStateManager.",
+      "EditionId": "258",
+      "Author": "James Montemagno",
+      "Id": "258-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin: .NET Community Standup - May 7th 2020 - Xamarin.Forms 4.6 Launch",
+      "Url": "http://www.youtube.com/watch?v=FqJpYYj8HQQ",
+      "Description": "Join the Mobile .NET Teams for our community standup covering great community contributions for Mobile .NET, Xamarin, Xamarin.Forms, Components, and more. Lots of great stuff covered.",
+      "EditionId": "258",
+      "Author": "Xamarin Developers",
+      "Id": "258-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "200: Have We Reached Peak Merge Conflict?",
+      "Url": "https://www.mergeconflict.fm/200",
+      "Description": "200 episodes of Merge Conflict, woah! Congrats to James and Frank for an awesome achievement!",
+      "EditionId": "258",
+      "Id": "258-21",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Exposure Notification API Support for Xamarin Apps",
+      "Url": "https://devblogs.microsoft.com/xamarin/contact-tracing-exposure-notification-api/",
+      "Description": "Last month, Apple and Google announced plans for creating Exposure Notification APIs. By leveraging Bluetooth Low Energy, this help developers implement contact tracing for both iOS and Android. Our team has been tracking the releases of these APIs to ready them for Xamarin developers.",
+      "EditionId": "258",
+      "Author": "Jon Dick",
+      "Id": "258-22",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "Virtual Xamarin and .NET Events in May",
+      "Url": "https://devblogs.microsoft.com/xamarin/virtual-may-xamarin-dotnet-events/",
+      "Description": "Check out the latest virtual events, streams, and videos to watch this May – all from the comfort of home.",
+      "EditionId": "258",
+      "Author": "Jayme Singleton",
+      "Id": "258-23",
+      "Category": "AND FINALLY..."
+    }
+  ]
+}

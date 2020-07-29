@@ -1,0 +1,592 @@
+{
+  "number": 258,
+  "title": "Issue 258",
+  "summary": "",
+  "url": "http://weeklyxamarin.com/issues/258",
+  "publication_status": "published",
+  "published_at": "2020-05-08T22:12:24+01:00",
+  "updated_at": "2020-05-08T22:12:29+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "Happy Saturday",
+          "description": "<p>Hey Everyone.</p>\n\n<p>Sorry the newsletter is late this week - I blame the Corona Virus. But we have a truck load of videos and interesting articles.  Stay safe and have a great weekend.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Hey Everyone.\r\n\r\nSorry the newsletter is late this week - I blame the Corona Virus. But we have a truck load of videos and interesting articles.  Stay safe and have a great weekend.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "appoftheweek",
+      "name": "APP OF THE WEEK",
+      "items": [
+        {
+          "identifier": "8YltBuf",
+          "type": "Link",
+          "title": "Xamarin Customer Showcase: PGS Software + Volotea",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/volotea-pgs-software-xamarin-showcase/",
+          "description": "<p>Cross-platform, mobile applications are the way of the future, especially when it comes to travel. We sat down with Boguslaw Blonski from PGS Software, who explains how they took Volotea to new heights with Xamarin. As well as the inspiration behind the project and what the future holds.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/volotea-pgs-software-xamarin-showcase/\"><strong>Xamarin Customer Showcase: PGS Software + Volotea</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jaymesingleton/\">Jayme Singleton</a></p>",
+          "description_markdown": "Cross-platform, mobile applications are the way of the future, especially when it comes to travel. We sat down with Boguslaw Blonski from PGS Software, who explains how they took Volotea to new heights with Xamarin. As well as the inspiration behind the project and what the future holds.\r\n\r\n[**Xamarin Customer Showcase: PGS Software + Volotea**](https://devblogs.microsoft.com/xamarin/volotea-pgs-software-xamarin-showcase/) by [Jayme Singleton](https://devblogs.microsoft.com/xamarin/author/jaymesingleton/)",
+          "embedded_links": [
+            {
+              "identifier": "EqxN5kQ",
+              "title": "**Xamarin Customer Showcase: PGS Software + Volotea**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/volotea-pgs-software-xamarin-showcase/"
+            },
+            {
+              "identifier": "py6LAt3",
+              "title": "Jayme Singleton",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jaymesingleton/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "7SKKEKL",
+          "type": "Link",
+          "title": "Default Interface Methods in C#",
+          "url_domain": "itnext.io",
+          "url": "https://itnext.io/default-interface-methods-in-c-df01dfa7b4e8",
+          "description": "<p>c# 8 allows developers to write a default implementation for the methods in the interfaces. I consider this feature as a high-risk language feature one as it can be easily misused that will lead to catastrophic code quality. In this article, we will discuss the correct use of this feature.</p>\n\n<p><a href=\"https://itnext.io/default-interface-methods-in-c-df01dfa7b4e8\"><strong>Default Interface Methods in C#</strong></a> by <a href=\"https://twitter.com/MCC_Ahmed\">Ahmed Fouad</a></p>",
+          "description_markdown": "c# 8 allows developers to write a default implementation for the methods in the interfaces. I consider this feature as a high-risk language feature one as it can be easily misused that will lead to catastrophic code quality. In this article, we will discuss the correct use of this feature.\r\n\r\n[**Default Interface Methods in C#**](https://itnext.io/default-interface-methods-in-c-df01dfa7b4e8) by [Ahmed Fouad](https://twitter.com/MCC_Ahmed)",
+          "embedded_links": [
+            {
+              "identifier": "3DkKCZO",
+              "title": "**Default Interface Methods in C#**",
+              "url_domain": "itnext.io",
+              "url": "https://itnext.io/default-interface-methods-in-c-df01dfa7b4e8"
+            },
+            {
+              "identifier": "u3EBI1j",
+              "title": "Ahmed Fouad",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/MCC_Ahmed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "anayltics",
+      "name": "ANAYLTICS",
+      "items": [
+        {
+          "identifier": "oC9C2h3",
+          "type": "Link",
+          "title": "Crashes and errors analytics with App Center and Application Insights",
+          "url_domain": "johnthiriet.com",
+          "url": "https://johnthiriet.com/crashes-and-errors-app-center-application-insights-errors/",
+          "description": "<p>For this blog post, John Thiriet covers export analytics data from your mobile application from App Center to Application Insights.</p>\n\n<p><a href=\"https://johnthiriet.com/crashes-and-errors-app-center-application-insights-errors/\"><strong>Crashes and errors analytics with App Center and Application Insights</strong></a> by <a href=\"https://twitter.com/johnthiriet\">John Thiriet</a></p>",
+          "description_markdown": "For this blog post, John Thiriet covers export analytics data from your mobile application from App Center to Application Insights. \r\n\r\n[**Crashes and errors analytics with App Center and Application Insights**](https://johnthiriet.com/crashes-and-errors-app-center-application-insights-errors/) by [John Thiriet](https://twitter.com/johnthiriet)",
+          "embedded_links": [
+            {
+              "identifier": "P2fBDSs",
+              "title": "**Crashes and errors analytics with App Center and Application Insights**",
+              "url_domain": "johnthiriet.com",
+              "url": "https://johnthiriet.com/crashes-and-errors-app-center-application-insights-errors/"
+            },
+            {
+              "identifier": "AYLuCDR",
+              "title": "John Thiriet",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/johnthiriet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "uSaV8rM",
+          "type": "Link",
+          "title": "Generate an universal Apk from your Android App Bundle using Azure DevOps",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/05/05/universal-apk-from-aab-with-azure-devops-en.html",
+          "description": "<p>Since Google introduced Android App Bundle, it becomes the new standard to distribute your Android application accross the stores. It allows us to generate a specific version of our application for any device, with only the recourses this device needs.</p>\n\n<p><a href=\"https://damienaicheh.github.io/xamarin/azure/devops/2020/05/05/universal-apk-from-aab-with-azure-devops-en.html\"><strong>Generate an universal Apk from your Android App Bundle using Azure DevOps</strong></a> by <a href=\"\">Damien Aicheh</a></p>",
+          "description_markdown": "Since Google introduced Android App Bundle, it becomes the new standard to distribute your Android application accross the stores. It allows us to generate a specific version of our application for any device, with only the recourses this device needs.\r\n\r\n[**Generate an universal Apk from your Android App Bundle using Azure DevOps**](https://damienaicheh.github.io/xamarin/azure/devops/2020/05/05/universal-apk-from-aab-with-azure-devops-en.html) by [Damien Aicheh]()",
+          "embedded_links": [
+            {
+              "identifier": "czaX7fr",
+              "title": "**Generate an universal Apk from your Android App Bundle using Azure DevOps**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/05/05/universal-apk-from-aab-with-azure-devops-en.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "F2OduQj",
+          "type": "Link",
+          "title": "Contact Sharing in Xamarin Forms",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/contact-sharing-in-xamarin-forms/",
+          "description": "<p>In this article, Charlin shows you how to share a contact by creating a vCard and sharing it using Xamarin Essentials.</p>\n\n<p><a href=\"https://xamgirl.com/contact-sharing-in-xamarin-forms/\"><strong>Contact Sharing in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/Chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "In this article, Charlin shows you how to share a contact by creating a vCard and sharing it using Xamarin Essentials.\r\n\r\n[**Contact Sharing in Xamarin Forms**](https://xamgirl.com/contact-sharing-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/Chard003)",
+          "embedded_links": [
+            {
+              "identifier": "I2H0gLA",
+              "title": "**Contact Sharing in Xamarin Forms**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/contact-sharing-in-xamarin-forms/"
+            },
+            {
+              "identifier": "AXToHgY",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "zKgDqv3",
+          "type": "Link",
+          "title": "Links Preview Control for Xamarin Forms",
+          "url_domain": "wordpress.com",
+          "url": "https://valentineg8.wordpress.com/2020/05/07/links-preview-control-for-xamarin-forms/",
+          "description": "<p>Lorenzo was sending a link in WhatsApp to a friend and realized when you enter a link it shows a preview, after seeing it he started to wonder how to make something similar in Xamarin.Forms.</p>\n\n<p><a href=\"https://valentineg8.wordpress.com/2020/05/07/links-preview-control-for-xamarin-forms/\"><strong>Links Preview Control for Xamarin Forms</strong></a> by <a href=\"https://valentineg8.wordpress.com/author/977mebcp6a/\">Lorenzo Araujo</a></p>",
+          "description_markdown": "Lorenzo was sending a link in WhatsApp to a friend and realized when you enter a link it shows a preview, after seeing it he started to wonder how to make something similar in Xamarin.Forms.\r\n\r\n[**Links Preview Control for Xamarin Forms**](https://valentineg8.wordpress.com/2020/05/07/links-preview-control-for-xamarin-forms/) by [Lorenzo Araujo](https://valentineg8.wordpress.com/author/977mebcp6a/)",
+          "embedded_links": [
+            {
+              "identifier": "u2PsHXR",
+              "title": "**Links Preview Control for Xamarin Forms**",
+              "url_domain": "wordpress.com",
+              "url": "https://valentineg8.wordpress.com/2020/05/07/links-preview-control-for-xamarin-forms/"
+            },
+            {
+              "identifier": "ozMEOO1",
+              "title": "Lorenzo Araujo",
+              "url_domain": "wordpress.com",
+              "url": "https://valentineg8.wordpress.com/author/977mebcp6a/"
+            }
+          ]
+        },
+        {
+          "identifier": "7TIk7Xn",
+          "type": "Link",
+          "title": "Implementation of the Cognitive Services + Xamarin Combo Challenge!",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@benetskyybogdan/implementation-of-the-cognitive-services-xamarin-combo-challenge-6e78517c89c9",
+          "description": "<p>There was a recent Xamarin Challenge for Cognitive Services and Xamarin.Forms.  In this post, Bohdan discusses his experiences.</p>\n\n<p><a href=\"https://medium.com/@benetskyybogdan/implementation-of-the-cognitive-services-xamarin-combo-challenge-6e78517c89c9\"><strong>Implementation of the Cognitive Services + Xamarin Combo Challenge!</strong></a> by <a href=\"https://twitter.com/bbenetskyy\">Bohdan Benetskyi</a></p>",
+          "description_markdown": "There was a recent Xamarin Challenge for Cognitive Services and Xamarin.Forms.  In this post, Bohdan discusses his experiences.\r\n\r\n[**Implementation of the Cognitive Services + Xamarin Combo Challenge!**](https://medium.com/@benetskyybogdan/implementation-of-the-cognitive-services-xamarin-combo-challenge-6e78517c89c9) by [Bohdan Benetskyi](https://twitter.com/bbenetskyy)",
+          "embedded_links": [
+            {
+              "identifier": "s1FPGEK",
+              "title": "**Implementation of the Cognitive Services + Xamarin Combo Challenge!**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@benetskyybogdan/implementation-of-the-cognitive-services-xamarin-combo-challenge-6e78517c89c9"
+            },
+            {
+              "identifier": "VAMDZps",
+              "title": "Bohdan Benetskyi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bbenetskyy"
+            }
+          ]
+        },
+        {
+          "identifier": "9lGwFTF",
+          "type": "Link",
+          "title": "Xamarin.Forms Custom Fonts Simplified & Everywhere",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/xamarin-forms-custom-fonts-everywhere/",
+          "description": "<p>In Xamarin.Forms 4.6 custom fonts got easier with Embedded Fonts and IconFont2Code.</p>\n\n<p><a href=\"https://montemagno.com/xamarin-forms-custom-fonts-everywhere/\"><strong>Xamarin.Forms Custom Fonts Simplified &amp; Everywhere</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "In Xamarin.Forms 4.6 custom fonts got easier with Embedded Fonts and IconFont2Code.\r\n\r\n[**Xamarin.Forms Custom Fonts Simplified & Everywhere**](https://montemagno.com/xamarin-forms-custom-fonts-everywhere/) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "pzdbBir",
+              "title": "**Xamarin.Forms Custom Fonts Simplified & Everywhere**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/xamarin-forms-custom-fonts-everywhere/"
+            },
+            {
+              "identifier": "5nWxefD",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "kPKz3TO",
+          "type": "Link",
+          "title": "Animate Anything with Xamarin.Forms",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/animate-anything-with-xamarin-forms/",
+          "description": "<p>James, plays with Custom Animations in Xamarin.Forms to create a nice little loading animation for his twitch project.</p>\n\n<p><a href=\"https://montemagno.com/animate-anything-with-xamarin-forms/\"><strong>Animate Anything with Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James, plays with Custom Animations in Xamarin.Forms to create a nice little loading animation for his twitch project.\r\n\r\n[**Animate Anything with Xamarin.Forms**](https://montemagno.com/animate-anything-with-xamarin-forms/) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "zrdJqs5",
+              "title": "**Animate Anything with Xamarin.Forms**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/animate-anything-with-xamarin-forms/"
+            },
+            {
+              "identifier": "CyBuO8l",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "aJfoudI",
+          "type": "Link",
+          "title": "Xamarin and Bluetooth Mesh Networks",
+          "url_domain": "msctek.com",
+          "url": "https://www.msctek.com/xamarin-is-the-best-choice-for-bluetooth-mesh-networks/",
+          "description": "<p>Bluetooth Low Energy (BLE) is what you are using to pair your phone to the awesome little Xamarin Bluetooth speaker that we all picked up at a Xamarin conference.</p>\n\n<p><a href=\"https://www.msctek.com/xamarin-is-the-best-choice-for-bluetooth-mesh-networks/\"><strong>Xamarin is the Best Choice for Bluetooth Mesh Networks</strong></a> by <a href=\"https://www.msctek.com/author/robin-schroeder/\">Robin Schroeder</a></p>",
+          "description_markdown": "Bluetooth Low Energy (BLE) is what you are using to pair your phone to the awesome little Xamarin Bluetooth speaker that we all picked up at a Xamarin conference.\r\n\r\n[**Xamarin is the Best Choice for Bluetooth Mesh Networks**](https://www.msctek.com/xamarin-is-the-best-choice-for-bluetooth-mesh-networks/) by [Robin Schroeder](https://www.msctek.com/author/robin-schroeder/)",
+          "embedded_links": [
+            {
+              "identifier": "iQmTT43",
+              "title": "**Xamarin is the Best Choice for Bluetooth Mesh Networks**",
+              "url_domain": "msctek.com",
+              "url": "https://www.msctek.com/xamarin-is-the-best-choice-for-bluetooth-mesh-networks/"
+            },
+            {
+              "identifier": "6YsUVPs",
+              "title": "Robin Schroeder",
+              "url_domain": "msctek.com",
+              "url": "https://www.msctek.com/author/robin-schroeder/"
+            }
+          ]
+        },
+        {
+          "identifier": "nDMzl5O",
+          "type": "Link",
+          "title": "SomeTips for UI Handling!",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/sometips-best-practices-for-ui-handling/",
+          "description": "<p>Leomaris drops some tips for working with Xamarin.Forms UIs</p>\n\n<p><a href=\"https://askxammy.com/sometips-best-practices-for-ui-handling/\"><strong>#SomeTips: Best practices for UI Handling!</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris drops some tips for working with Xamarin.Forms UIs\r\n\r\n[**#SomeTips: Best practices for UI Handling!**](https://askxammy.com/sometips-best-practices-for-ui-handling/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "afk8gfB",
+              "title": "**#SomeTips: Best practices for UI Handling!**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/sometips-best-practices-for-ui-handling/"
+            },
+            {
+              "identifier": "vXjsZjL",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "tuRV6A5",
+          "type": "Link",
+          "title": "Icon Fonts made Easy",
+          "url_domain": "dansiegel.net",
+          "url": "https://dansiegel.net/post/2020/05/07/icon-fonts-made-easy",
+          "description": "<p>Coming from a Pre-Xamarin background of web development, I have always loved fonts like Font Awesome. Naturally I was pretty excited that Xamarin.Forms finally added a FontImageSource to make it easier to use Font based Icons, but it still frankly was a pain to use.</p>\n\n<p><a href=\"https://dansiegel.net/post/2020/05/07/icon-fonts-made-easy\"><strong>Icon Fonts made Easy</strong></a> by <a href=\"https://twitter.com/DanJSiegel\">Dan Siegel</a></p>",
+          "description_markdown": "Coming from a Pre-Xamarin background of web development, I have always loved fonts like Font Awesome. Naturally I was pretty excited that Xamarin.Forms finally added a FontImageSource to make it easier to use Font based Icons, but it still frankly was a pain to use.\r\n\r\n[**Icon Fonts made Easy**](https://dansiegel.net/post/2020/05/07/icon-fonts-made-easy) by [Dan Siegel](https://twitter.com/DanJSiegel)",
+          "embedded_links": [
+            {
+              "identifier": "msSwtp8",
+              "title": "**Icon Fonts made Easy**",
+              "url_domain": "dansiegel.net",
+              "url": "https://dansiegel.net/post/2020/05/07/icon-fonts-made-easy"
+            },
+            {
+              "identifier": "TBgRmNB",
+              "title": "Dan Siegel",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DanJSiegel"
+            }
+          ]
+        },
+        {
+          "identifier": "mwczurt",
+          "type": "Link",
+          "title": "Fixing small text on iOS WKWebView’s in Xamarin.Forms",
+          "url_domain": "xamarinhowto.com",
+          "url": "https://xamarinhowto.com/fixing-small-text-on-ios-wkwebviews-in-xamarin-forms/",
+          "description": "<p>Matt Crombie, shows how to to fix an issue with tiny text in the webview on iOS.</p>\n\n<p><a href=\"https://xamarinhowto.com/fixing-small-text-on-ios-wkwebviews-in-xamarin-forms/\"><strong>Fixing small text on iOS WKWebView’s in Xamarin.Forms</strong></a> by <a href=\"https://xamarinhowto.com/author/mattxamarinhowto-com/\">Matt Crombie</a></p>",
+          "description_markdown": "Matt Crombie, shows how to to fix an issue with tiny text in the webview on iOS.\r\n\r\n[**Fixing small text on iOS WKWebView’s in Xamarin.Forms**](https://xamarinhowto.com/fixing-small-text-on-ios-wkwebviews-in-xamarin-forms/) by [Matt Crombie](https://xamarinhowto.com/author/mattxamarinhowto-com/)",
+          "embedded_links": [
+            {
+              "identifier": "ewDu6Lh",
+              "title": "**Fixing small text on iOS WKWebView’s in Xamarin.Forms**",
+              "url_domain": "xamarinhowto.com",
+              "url": "https://xamarinhowto.com/fixing-small-text-on-ios-wkwebviews-in-xamarin-forms/"
+            },
+            {
+              "identifier": "gMZNBl0",
+              "title": "Matt Crombie",
+              "url_domain": "xamarinhowto.com",
+              "url": "https://xamarinhowto.com/author/mattxamarinhowto-com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "nuget",
+      "name": "NUGET OF THE WEEK",
+      "items": [
+        {
+          "identifier": "IluMg8u",
+          "type": "Link",
+          "title": "CoordinatorLayout.Forms",
+          "url_domain": "github.com",
+          "url": "https://github.com/mariusmuntean/CoordinatorLayout.Forms",
+          "description": "<p>CoordinatorLayout.XamarinForms A custom control for Xamarin.Forms, that shows an expanding top view and a scrollable bottom view. It is a reproduction of Android's CoordinatorLayout.</p>\n\n<p><a href=\"https://github.com/mariusmuntean/CoordinatorLayout.Forms\"><strong>mariusmuntean/CoordinatorLayout.Forms</strong></a> by <a href=\"https://github.com/mariusmuntean\">Marius Muntean</a></p>",
+          "description_markdown": "CoordinatorLayout.XamarinForms A custom control for Xamarin.Forms, that shows an expanding top view and a scrollable bottom view. It is a reproduction of Android's CoordinatorLayout.\r\n\r\n[**mariusmuntean/CoordinatorLayout.Forms**](https://github.com/mariusmuntean/CoordinatorLayout.Forms) by [Marius Muntean](https://github.com/mariusmuntean)",
+          "embedded_links": [
+            {
+              "identifier": "yJMgXFk",
+              "title": "**mariusmuntean/CoordinatorLayout.Forms**",
+              "url_domain": "github.com",
+              "url": "https://github.com/mariusmuntean/CoordinatorLayout.Forms"
+            },
+            {
+              "identifier": "Ij32yRX",
+              "title": "Marius Muntean",
+              "url_domain": "github.com",
+              "url": "https://github.com/mariusmuntean"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "vZRRT3f",
+          "type": "Link",
+          "title": "Adaptive UI with Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=KpWpfi_4Rrg",
+          "description": "<p>In this video Javier talks about how to create adaptive and responsive UI's in Xamarin.Forms.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=KpWpfi_4Rrg\"><strong>Adaptive UI with Xamarin.Forms</strong></a> by <a href=\"https://www.youtube.com/channel/UCKnuLHRlK_zhrpaTWvNOdMA\">Javier Suárez</a></p>",
+          "description_markdown": "In this video Javier talks about how to create adaptive and responsive UI's in Xamarin.Forms.\r\n\r\n[**Adaptive UI with Xamarin.Forms**](https://www.youtube.com/watch?v=KpWpfi_4Rrg) by [Javier Suárez](https://www.youtube.com/channel/UCKnuLHRlK_zhrpaTWvNOdMA)",
+          "embedded_links": [
+            {
+              "identifier": "9WIyBhn",
+              "title": "**Adaptive UI with Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=KpWpfi_4Rrg"
+            },
+            {
+              "identifier": "ThEiDJZ",
+              "title": "Javier Suárez",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCKnuLHRlK_zhrpaTWvNOdMA"
+            }
+          ]
+        },
+        {
+          "identifier": "hg1o04b",
+          "type": "Link",
+          "title": "Xamarin.Forms 101: Accessibility using Automation Properties",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Accessibility-using-Automation-Properties",
+          "description": "<p>This week Xamarin.Forms 101 takes a look at how to make your Xamarin.Forms apps more accessible using Automation Properties.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Accessibility-using-Automation-Properties\"><strong>Xamarin.Forms 101: Accessibility using Automation Properties</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week Xamarin.Forms 101 takes a look at how to make your Xamarin.Forms apps more accessible using Automation Properties.\r\n\r\n[**Xamarin.Forms 101: Accessibility using Automation Properties**](https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Accessibility-using-Automation-Properties) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "UpIZEJo",
+              "title": "**Xamarin.Forms 101: Accessibility using Automation Properties**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-101-Accessibility-using-Automation-Properties"
+            },
+            {
+              "identifier": "xdhrwoh",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "o6wATCD",
+          "type": "Link",
+          "title": "Essential Nuget packages for your .NET projects. With Michael Stonis",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-36/",
+          "description": "<p>On this episode of DevTalk Kerry speaks to Michael Stonis about essential Nuget packages for your .NET projects.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-36/\"><strong>36: Essential Nuget packages for your .NET projects. With Michael Stonis</strong></a> by <a href=\"https://kerry.lothrop.de/en/author/lothrop/\">kerry</a></p>",
+          "description_markdown": "On this episode of DevTalk Kerry speaks to Michael Stonis about essential Nuget packages for your .NET projects.\r\n\r\n[**36: Essential Nuget packages for your .NET projects. With Michael Stonis**](https://kerry.lothrop.de/devtalk-36/) by [kerry](https://kerry.lothrop.de/en/author/lothrop/)",
+          "embedded_links": [
+            {
+              "identifier": "AYcDN7T",
+              "title": "**36: Essential Nuget packages for your .NET projects. With Michael Stonis**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-36/"
+            },
+            {
+              "identifier": "9zWrbpl",
+              "title": "kerry",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/en/author/lothrop/"
+            }
+          ]
+        },
+        {
+          "identifier": "TMNYRQI",
+          "type": "Link",
+          "title": "Essentials 1.6, Forms 4.6 and Contact Tracing",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/73",
+          "description": "<p>Have a listen to the Xamarin podcast to learn about all the new hotness in Xamarin.Forms releases.</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/73\"><strong>Essentials 1.6, Forms 4.6 and Contact Tracing</strong></a> by <a href=\"\">Xamarin</a></p>",
+          "description_markdown": "Have a listen to the Xamarin podcast to learn about all the new hotness in Xamarin.Forms releases.\r\n\r\n[**Essentials 1.6, Forms 4.6 and Contact Tracing**](https://www.xamarinpodcast.com/73) by [Xamarin]()",
+          "embedded_links": [
+            {
+              "identifier": "EoJwLSc",
+              "title": "**Essentials 1.6, Forms 4.6 and Contact Tracing**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/73"
+            }
+          ]
+        },
+        {
+          "identifier": "FEPiqhB",
+          "type": "Link",
+          "title": "Visual State Manger - Beyond the Basics | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Visual-State-Manger-Beyond-the-Basics--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by friend of the show Gerald Versluis, Xamarin.Forms Engineer, who shows off one of the coolest feature ever for app developers and library creators, the new improved VisualStateManager.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Visual-State-Manger-Beyond-the-Basics--The-Xamarin-Show\"><strong>Visual State Manger - Beyond the Basics | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by friend of the show Gerald Versluis, Xamarin.Forms Engineer, who shows off one of the coolest feature ever for app developers and library creators, the new improved VisualStateManager.\r\n\r\n[**Visual State Manger - Beyond the Basics | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Visual-State-Manger-Beyond-the-Basics--The-Xamarin-Show) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "4rRSp8O",
+              "title": "**Visual State Manger - Beyond the Basics | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Visual-State-Manger-Beyond-the-Basics--The-Xamarin-Show"
+            },
+            {
+              "identifier": "YAmlByU",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "5W9rHMq",
+          "type": "Link",
+          "title": "Xamarin: .NET Community Standup - May 7th 2020 - Xamarin.Forms 4.6 Launch",
+          "url_domain": "youtube.com",
+          "url": "http://www.youtube.com/watch?v=FqJpYYj8HQQ",
+          "description": "<p>Join the Mobile .NET Teams for our community standup covering great community contributions for Mobile .NET, Xamarin, Xamarin.Forms, Components, and more. Lots of great stuff covered.</p>\n\n<p><a href=\"http://www.youtube.com/watch?v=FqJpYYj8HQQ\"><strong>Xamarin: .NET Community Standup - May 7th 2020 - Xamarin.Forms 4.6 Launch</strong></a> by <a href=\"https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg\">Xamarin Developers</a></p>",
+          "description_markdown": "Join the Mobile .NET Teams for our community standup covering great community contributions for Mobile .NET, Xamarin, Xamarin.Forms, Components, and more. Lots of great stuff covered.\r\n\r\n[**Xamarin: .NET Community Standup - May 7th 2020 - Xamarin.Forms 4.6 Launch**](http://www.youtube.com/watch?v=FqJpYYj8HQQ) by [Xamarin Developers](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)",
+          "embedded_links": [
+            {
+              "identifier": "harYcKv",
+              "title": "**Xamarin: .NET Community Standup - May 7th 2020 - Xamarin.Forms 4.6 Launch**",
+              "url_domain": "youtube.com",
+              "url": "http://www.youtube.com/watch?v=FqJpYYj8HQQ"
+            },
+            {
+              "identifier": "Uhuyt3p",
+              "title": "Xamarin Developers",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg"
+            }
+          ]
+        },
+        {
+          "identifier": "F4uvYmG",
+          "type": "Link",
+          "title": "200: Have We Reached Peak Merge Conflict?",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/200",
+          "description": "<p>200 episodes of Merge Conflict, woah! Congrats to James and Frank for an awesome achievement!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/200\"><strong>200: Have We Reached Peak Merge Conflict?</strong></a> by <a href=\"\">soundbite.fm</a></p>",
+          "description_markdown": "200 episodes of Merge Conflict, woah! Congrats to James and Frank for an awesome achievement!\r\n\r\n[**200: Have We Reached Peak Merge Conflict?**](https://www.mergeconflict.fm/200) by [soundbite.fm]()",
+          "embedded_links": [
+            {
+              "identifier": "YsesSxu",
+              "title": "**200: Have We Reached Peak Merge Conflict?**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "xmU3PZy",
+          "type": "Link",
+          "title": "Exposure Notification API Support for Xamarin Apps",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/contact-tracing-exposure-notification-api/",
+          "description": "<p>Last month, Apple and Google announced plans for creating Exposure Notification APIs. By leveraging Bluetooth Low Energy, this help developers implement contact tracing for both iOS and Android. Our team has been tracking the releases of these APIs to ready them for Xamarin developers.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/contact-tracing-exposure-notification-api/\"><strong>Exposure Notification API Support for Xamarin Apps</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/redth/\">Jon Dick</a></p>",
+          "description_markdown": "Last month, Apple and Google announced plans for creating Exposure Notification APIs. By leveraging Bluetooth Low Energy, this help developers implement contact tracing for both iOS and Android. Our team has been tracking the releases of these APIs to ready them for Xamarin developers.\r\n\r\n[**Exposure Notification API Support for Xamarin Apps**](https://devblogs.microsoft.com/xamarin/contact-tracing-exposure-notification-api/) by [Jon Dick](https://devblogs.microsoft.com/xamarin/author/redth/)",
+          "embedded_links": [
+            {
+              "identifier": "9V5fgb9",
+              "title": "**Exposure Notification API Support for Xamarin Apps**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/contact-tracing-exposure-notification-api/"
+            },
+            {
+              "identifier": "gq3kceq",
+              "title": "Jon Dick",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/redth/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "identifier": "D2BPWsc",
+          "type": "Link",
+          "title": "Virtual Xamarin and .NET Events in May",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/virtual-may-xamarin-dotnet-events/",
+          "description": "<p>Check out the latest virtual events, streams, and videos to watch this May – all from the comfort of home.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/virtual-may-xamarin-dotnet-events/\"><strong>Virtual Xamarin and .NET Events in May</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jaymesingleton/\">Jayme Singleton</a></p>",
+          "description_markdown": "Check out the latest virtual events, streams, and videos to watch this May – all from the comfort of home.\r\n\r\n[**Virtual Xamarin and .NET Events in May**](https://devblogs.microsoft.com/xamarin/virtual-may-xamarin-dotnet-events/) by [Jayme Singleton](https://devblogs.microsoft.com/xamarin/author/jaymesingleton/)",
+          "embedded_links": [
+            {
+              "identifier": "bHQNs7Z",
+              "title": "Jayme Singleton",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jaymesingleton/"
+            },
+            {
+              "identifier": "izan45f",
+              "title": "**Virtual Xamarin and .NET Events in May**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/virtual-may-xamarin-dotnet-events/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
