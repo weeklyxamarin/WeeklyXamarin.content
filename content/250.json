@@ -1,0 +1,184 @@
+{
+  "Id": "250",
+  "Name": "Issue 250",
+  "UpdatedTimeStamp": "2020-03-13T14:50:15Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hi Everyone In this time of Pandemics, it's a great time for self isolation.  This week we have lots of great community resources to keep you getting bored.. Stay safe people, and happy Friday 13th. ❤ Kym",
+  "PublishDate": "2020-03-13T14:50:01Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "How to avoid NullReferenceException in C#",
+      "Url": "https://rimdev.io/how-to-avoid-null-reference-exception/",
+      "Description": "Every developer knows this exception - **System.NullReferenceException: Object reference not set to an instance of an object.** In this article Cheng Yang discusses techniques to never see it ever again.",
+      "EditionId": "250",
+      "Author": "Cheng Yang",
+      "Id": "250-1",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Image Placeholders with BlurHash on Xamarin",
+      "Url": "https://stu.dev/blurhash-on-xamarin/",
+      "Description": "Stuart Lang discusses creating a xamarin version of BlurHash, which looks like a really interesting way of providing Image Loading placeholders. [**Do Away with Static Image Placeholders with BlurHash on Xamarin**](https://stu.dev/blurhash-on-xamarin/) by Stuart Lang",
+      "EditionId": "250",
+      "Id": "250-2",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Organize SVG icons in one place",
+      "Url": "https://iconset.io/",
+      "Description": "This looks to be a great tool for organizing all your SVG Icons. It also has references to many great free SVG Libraries.  Why SVGs? Despite being a pain in the butt to integrate into your application, they are infinitely re-sizable and that matters for different densities. [**Organize SVG icons in one place**](https://iconset.io/)",
+      "EditionId": "250",
+      "Id": "250-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Application Insights with TinyInsights",
+      "Url": "https://danielhindrikes.se/index.php/2020/03/10/application-insights-for-xamarin-and-uwp-apps-with-tinyinsights/",
+      "Description": "Daniel Hindrikes has a great library called TinyInsights. It's worth checking out if you want to abstract away your logging provider.  Now it supports Application Insights.",
+      "EditionId": "250",
+      "Author": "Daniel Hindrikes",
+      "Id": "250-4",
+      "Category": "ANAYLTICS"
+    },
+    {
+      "Title": "Manage your application by environment using Azure DevOps",
+      "Url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/03/12/manage-your-application-by-environment-using-azure-devops-en.html",
+      "Description": "When you are developing a project you probably are building for multiples environments, Each of these environments has its own configuration (server url, api keys…). Damien Aicheh continues his excellent series on DevOps for Xamarin.  Make sure you check the other articles in the series too.",
+      "EditionId": "250",
+      "Id": "250-5",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "VS Mac - Code Coverage Extension",
+      "Url": "https://github.com/ademanuele/VSMac-CodeCoverage",
+      "Description": "A code coverage extension for Visual Studio for Mac that provides a new pad for displaying coverage statistics and visualizing line coverage in the editor gutter.  [**ademanuele/VSMac-CodeCoverage**](https://github.com/ademanuele/VSMac-CodeCoverage)",
+      "EditionId": "250",
+      "Id": "250-6",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Shared Images for Xamarin with Resizetizer NT",
+      "Url": "https://redth.codes/resizetizer-nt-shared-images-for-xamarin/",
+      "Description": "Redth shares a cool little build tool which allows the build engine to create different density images for you. [**Shared Images for Xamarin with Resizetizer NT**](https://redth.codes/resizetizer-nt-shared-images-for-xamarin/) by Redth",
+      "EditionId": "250",
+      "Id": "250-7",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Dotfuscator Comes to Visual Studio for Mac",
+      "Url": "https://devblogs.microsoft.com/xamarin/dotfuscator-pro-6-mac-support/",
+      "Description": "With the recent release of Dotfuscator Professional 6 Beta, we've migrated Dotfuscator to .NET Standard and .NET Core, so it now has cross-platform support for building under .NET Core and Mono, on Windows, Mac, and Linux. This opens up many more options for all Xamarin developers:",
+      "EditionId": "250",
+      "Author": "Bill Leach",
+      "Id": "250-8",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Binding Android Kotlin Libraries",
+      "Url": "https://devblogs.microsoft.com/xamarin/binding-android-kotlin-libraries/",
+      "Description": "Need to use 3rd Party Android libraries developed in Kotlin? Well here is some great resources to get you started.",
+      "EditionId": "250",
+      "Author": "Alexey Strakh",
+      "Id": "250-9",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Handle The Safe Area On iPhone X And Higher Models",
+      "Url": "https://www.c-sharpcorner.com/article/xamarin-forms-handle-the-safe-area-on-iphone-x-and-higher-models/",
+      "Description": "When you build apps for these devices, you must now consider this larger screen area in order to ensure your contents properly fit into the page. Generally speaking, the area of the screen where your contents should go is called the Safe Area.",
+      "EditionId": "250",
+      "Author": "Alessandro Del Sole",
+      "Id": "250-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms.Nuke: iOS native image caching for Xamarin.Forms",
+      "Url": "https://www.sharpnado.com/xamarin-forms-nuke/",
+      "Description": "This library was heavily inspired by Jonathan Peppers GlideX implementation of the IImageViewHandler interface for Xamarin.Forms. Its goal is to provide the same kind of native implementation for iOS, achieving a complete native image caching solution for Xamarin.Forms: you don't have to change any line of your existing project, the Xamarin.Forms image source handlers will just be overridden with cache-enabled ones.",
+      "EditionId": "250",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "250-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Launching Apps in Xamarin Forms",
+      "Url": "https://askxammy.com/launching-apps-in-xamarin-forms/",
+      "Description": "Learning how to Launch external Apps in Xamarin Forms with Leomaris!",
+      "EditionId": "250",
+      "Author": "Leomaris Reyes",
+      "Id": "250-12",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Storage Browser for Xamarin.Forms",
+      "Url": "https://github.com/SiasbRadvarZanganeh/Xamarin-Samples",
+      "Description": "If you've ever needed to browse the application storage on the iPhone or the Android device this library and source code might be useful for you. [**Xamarin-Samples**](https://github.com/SiasbRadvarZanganeh/Xamarin-Samples/tree/master/BrowseStorageXamarinForm) by Siasb Radvar Zanganeh",
+      "EditionId": "250",
+      "Id": "250-13",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Creating Custom StateTriggers",
+      "Url": "https://javiersuarezruiz.wordpress.com/2020/03/09/xamarin-forms-creando-statetriggers-personalizados/",
+      "Description": "StateTriggers represent a set of rules that apply VisualStates based on certain conditions. Each VisualState now has a Collection of StateTriggerBase that indicate when the VisualState should be applied. If any of the triggers are active, the VisualState will be applied. Xamarin.Forms provides certain StateTriggers to cover common cases such as device orientation, dynamic changes in App window size, and so on. However, wouldn't it be great to be able to extend the possibilities and create custom StateTriggers? **Note: Post is in Spanish**",
+      "EditionId": "250",
+      "Author": "Javier Suárez",
+      "Id": "250-14",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "5 Little nuggets",
+      "Url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-5-dicas-incriveis-automapper-androidbackbutton-workerandroid-appshortcuts-f11205cb1697",
+      "Description": "Thiago Bertuzzi shares tips and code references for Xamarin.Forms about Automapper, AndroidBackButton, WorkerAndroid, AppShortcuts and CustomVision. **Note: Post is in Portuguese**",
+      "EditionId": "250",
+      "Author": "Thiago Bertuzzi",
+      "Id": "250-15",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "How To Work From Home",
+      "Url": "https://haacked.com/archive/2020/03/03/how-to-work-from-home/",
+      "Description": "In this time of pandemics, Phil Haack discusses his top tips for working from home.",
+      "EditionId": "250",
+      "Id": "250-16",
+      "Category": "CAREER"
+    },
+    {
+      "Title": "Xamarin.Forms Shell",
+      "Url": "http://jesseliberty.com/2020/03/07/xamarin-forms-shell/",
+      "Description": "Focus on Xamarin.Forms Shell – the new way to create great Xamarin.Forms applications. Jesse Liberty go in-depth with Sean, a Senior Developer on the Xamarin.Forms team.",
+      "EditionId": "250",
+      "Author": "Jesse Liberty",
+      "Id": "250-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Play Geolocation (Xamarin.Essentials API of the Week)",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Geolocation-XamarinEssentials-API-of-the-Week",
+      "Description": "Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Xamarin.Essential API of the week we take a look at geolocation to easily get the cached or current location of the users device.",
+      "EditionId": "250",
+      "Author": "James Montemagno",
+      "Id": "250-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Binding Swift Libraries",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Binding-Swift-Libraries--The-Xamarin-Show",
+      "Description": "This week, James is joined by friend of the show Alexey Strakh, Microsoft Mobile Customer Advisory Team Engineer, who shows off how to bind native Swift libraries so you can use them in your Xamarin iOS apps.",
+      "EditionId": "250",
+      "Author": "James Montemagno",
+      "Id": "250-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 192: Getting Started with Live Streaming",
+      "Url": "https://www.mergeconflict.fm/192",
+      "Description": "Frank is live streaming now and this week on Merge Conflict him and James discuss it! Frank is awesome and so knowledgable so this is a great episode for some \"inside Soccer\" as James puts it!",
+      "EditionId": "250",
+      "Author": "Merge Conflict",
+      "Id": "250-20",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

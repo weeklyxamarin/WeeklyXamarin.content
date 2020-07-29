@@ -1,0 +1,520 @@
+{
+  "number": 250,
+  "title": "Issue 250",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/250",
+  "publication_status": "published",
+  "published_at": "2020-03-13T14:50:01+00:00",
+  "updated_at": "2020-03-13T14:50:15+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hi Everyone</p>\n\n<p>In this time of Pandemics, it's a great time for self isolation.  This week we have lots of great community resources to keep you getting bored..</p>\n\n<p>Stay safe people, and happy Friday 13th.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Hi Everyone\r\n\r\nIn this time of Pandemics, it's a great time for self isolation.  This week we have lots of great community resources to keep you getting bored..\r\n\r\nStay safe people, and happy Friday 13th.\r\n\r\n❤\r\n\r\nKym\r\n",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "yCnUGaK",
+          "type": "Link",
+          "title": "Learn how to get the most out of Xamarin.Forms",
+          "url_domain": "xablu.com",
+          "url": "https://www.xablu.com/xamarin-forms-training/",
+          "description": "",
+          "description_markdown": "",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "ddb3d144-1c2a-4839-a0e1-0a12b0b7ed66.jpg",
+          "image_extra_large_filename": "original_ratio_extra_large_ddb3d144-1c2a-4839-a0e1-0a12b0b7ed66.jpg",
+          "image_medium_filename": "original_ratio_medium_ddb3d144-1c2a-4839-a0e1-0a12b0b7ed66.jpg"
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "EEIrIqv",
+          "type": "Link",
+          "title": "How to avoid NullReferenceException in C#",
+          "url_domain": "rimdev.io",
+          "url": "https://rimdev.io/how-to-avoid-null-reference-exception/",
+          "description": "<p>Every developer knows this exception - <strong>System.NullReferenceException: Object reference not set to an instance of an object.</strong> In this article Cheng Yang discusses techniques to never see it ever again.</p>\n\n<p><a href=\"https://rimdev.io/how-to-avoid-null-reference-exception/\"><strong>How to avoid NullReferenceException in C#</strong></a> by <a href=\"https://rimdev.io/authors/cheng-yang/\">Cheng Yang</a></p>",
+          "description_markdown": "Every developer knows this exception - **System.NullReferenceException: Object reference not set to an instance of an object.** In this article Cheng Yang discusses techniques to never see it ever again.\r\n\r\n[**How to avoid NullReferenceException in C#**](https://rimdev.io/how-to-avoid-null-reference-exception/) by [Cheng Yang](https://rimdev.io/authors/cheng-yang/)",
+          "embedded_links": [
+            {
+              "identifier": "ACu5QZu",
+              "title": "**How to avoid NullReferenceException in C#**",
+              "url_domain": "rimdev.io",
+              "url": "https://rimdev.io/how-to-avoid-null-reference-exception/"
+            },
+            {
+              "identifier": "64sbJav",
+              "title": "Cheng Yang",
+              "url_domain": "rimdev.io",
+              "url": "https://rimdev.io/authors/cheng-yang/"
+            }
+          ]
+        },
+        {
+          "identifier": "H8hxfg2",
+          "type": "Link",
+          "title": "Image Placeholders with BlurHash on Xamarin",
+          "url_domain": "stu.dev",
+          "url": "https://stu.dev/blurhash-on-xamarin/",
+          "description": "<p>Stuart Lang discusses creating a xamarin version of BlurHash, which looks like a really interesting way of providing Image Loading placeholders.</p>\n\n<p><a href=\"https://stu.dev/blurhash-on-xamarin/\"><strong>Do Away with Static Image Placeholders with BlurHash on Xamarin</strong></a> by Stuart Lang</p>",
+          "description_markdown": "Stuart Lang discusses creating a xamarin version of BlurHash, which looks like a really interesting way of providing Image Loading placeholders.\r\n\r\n[**Do Away with Static Image Placeholders with BlurHash on Xamarin**](https://stu.dev/blurhash-on-xamarin/) by Stuart Lang",
+          "embedded_links": [
+            {
+              "identifier": "yJPTYtL",
+              "title": "**Do Away with Static Image Placeholders with BlurHash on Xamarin**",
+              "url_domain": "stu.dev",
+              "url": "https://stu.dev/blurhash-on-xamarin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "HJE5JcB",
+          "type": "Link",
+          "title": "Organize SVG icons in one place",
+          "url_domain": "iconset.io",
+          "url": "https://iconset.io/",
+          "description": "<p>This looks to be a great tool for organizing all your SVG Icons. It also has references to many great free SVG Libraries.  Why SVGs? Despite being a pain in the butt to integrate into your application, they are infinitely re-sizable and that matters for different densities.</p>\n\n<p><a href=\"https://iconset.io/\"><strong>Organize SVG icons in one place</strong></a></p>",
+          "description_markdown": "This looks to be a great tool for organizing all your SVG Icons. It also has references to many great free SVG Libraries.  Why SVGs? Despite being a pain in the butt to integrate into your application, they are infinitely re-sizable and that matters for different densities.\r\n\r\n[**Organize SVG icons in one place**](https://iconset.io/)",
+          "embedded_links": [
+            {
+              "identifier": "hHDjd9p",
+              "title": "**Organize SVG icons in one place**",
+              "url_domain": "iconset.io",
+              "url": "https://iconset.io/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "anayltics",
+      "name": "ANAYLTICS",
+      "items": [
+        {
+          "identifier": "UdKMawd",
+          "type": "Link",
+          "title": "Application Insights with TinyInsights",
+          "url_domain": "danielhindrikes.se",
+          "url": "https://danielhindrikes.se/index.php/2020/03/10/application-insights-for-xamarin-and-uwp-apps-with-tinyinsights/",
+          "description": "<p>Daniel Hindrikes has a great library called TinyInsights. It's worth checking out if you want to abstract away your logging provider.  Now it supports Application Insights.</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2020/03/10/application-insights-for-xamarin-and-uwp-apps-with-tinyinsights/\"><strong>Application Insights for Xamarin- and UWP apps with TinyInsights</strong></a> by <a href=\"https://danielhindrikes.se/index.php/author/dhindrik/\">dhindrik</a></p>",
+          "description_markdown": "Daniel Hindrikes has a great library called TinyInsights. It's worth checking out if you want to abstract away your logging provider.  Now it supports Application Insights.\r\n\r\n[**Application Insights for Xamarin- and UWP apps with TinyInsights**](https://danielhindrikes.se/index.php/2020/03/10/application-insights-for-xamarin-and-uwp-apps-with-tinyinsights/) by [dhindrik](https://danielhindrikes.se/index.php/author/dhindrik/)",
+          "embedded_links": [
+            {
+              "identifier": "SvcGs4g",
+              "title": "**Application Insights for Xamarin- and UWP apps with TinyInsights**",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/2020/03/10/application-insights-for-xamarin-and-uwp-apps-with-tinyinsights/"
+            },
+            {
+              "identifier": "oteV7Q2",
+              "title": "dhindrik",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/author/dhindrik/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "DfakYib",
+          "type": "Link",
+          "title": "Manage your application by environment using Azure DevOps",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/03/12/manage-your-application-by-environment-using-azure-devops-en.html",
+          "description": "<p>When you are developing a project you probably are building for multiples environments, Each of these environments has its own configuration (server url, api keys…).</p>\n\n<p>Damien Aicheh continues his excellent series on DevOps for Xamarin.  Make sure you check the other articles in the series too.</p>\n\n<p><a href=\"https://damienaicheh.github.io/xamarin/azure/devops/2020/03/12/manage-your-application-by-environment-using-azure-devops-en.html\"><strong>Manage your application by environment using Azure DevOps</strong></a> by <a href=\"\">Damien Aicheh</a></p>",
+          "description_markdown": "When you are developing a project you probably are building for multiples environments, Each of these environments has its own configuration (server url, api keys…).\r\n\r\nDamien Aicheh continues his excellent series on DevOps for Xamarin.  Make sure you check the other articles in the series too.\r\n\r\n[**Manage your application by environment using Azure DevOps**](https://damienaicheh.github.io/xamarin/azure/devops/2020/03/12/manage-your-application-by-environment-using-azure-devops-en.html) by [Damien Aicheh]()",
+          "embedded_links": [
+            {
+              "identifier": "DH1P4bF",
+              "title": "**Manage your application by environment using Azure DevOps**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/03/12/manage-your-application-by-environment-using-azure-devops-en.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "OyRZapN",
+          "type": "Link",
+          "title": "VS Mac - Code Coverage Extension",
+          "url_domain": "github.com",
+          "url": "https://github.com/ademanuele/VSMac-CodeCoverage",
+          "description": "<p>A code coverage extension for Visual Studio for Mac that provides a new pad for displaying coverage statistics and visualizing line coverage in the editor gutter.</p>\n\n<p><a href=\"https://github.com/ademanuele/VSMac-CodeCoverage\"><strong>ademanuele/VSMac-CodeCoverage</strong></a></p>",
+          "description_markdown": "A code coverage extension for Visual Studio for Mac that provides a new pad for displaying coverage statistics and visualizing line coverage in the editor gutter. \r\n\r\n[**ademanuele/VSMac-CodeCoverage**](https://github.com/ademanuele/VSMac-CodeCoverage)",
+          "embedded_links": [
+            {
+              "identifier": "wm7y5Rz",
+              "title": "**ademanuele/VSMac-CodeCoverage**",
+              "url_domain": "github.com",
+              "url": "https://github.com/ademanuele/VSMac-CodeCoverage"
+            }
+          ]
+        },
+        {
+          "identifier": "pvq63tx",
+          "type": "Link",
+          "title": "Shared Images for Xamarin with Resizetizer NT",
+          "url_domain": "redth.codes",
+          "url": "https://redth.codes/resizetizer-nt-shared-images-for-xamarin/",
+          "description": "<p>Redth shares a cool little build tool which allows the build engine to create different density images for you.</p>\n\n<p><a href=\"https://redth.codes/resizetizer-nt-shared-images-for-xamarin/\"><strong>Shared Images for Xamarin with Resizetizer NT</strong></a> by Redth</p>",
+          "description_markdown": "Redth shares a cool little build tool which allows the build engine to create different density images for you.\r\n\r\n[**Shared Images for Xamarin with Resizetizer NT**](https://redth.codes/resizetizer-nt-shared-images-for-xamarin/) by Redth",
+          "embedded_links": [
+            {
+              "identifier": "qDvk9Vx",
+              "title": "**Shared Images for Xamarin with Resizetizer NT**",
+              "url_domain": "redth.codes",
+              "url": "https://redth.codes/resizetizer-nt-shared-images-for-xamarin/"
+            }
+          ]
+        },
+        {
+          "identifier": "peapJCZ",
+          "type": "Link",
+          "title": "Dotfuscator Comes to Visual Studio for Mac",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/dotfuscator-pro-6-mac-support/",
+          "description": "<p>With the recent release of Dotfuscator Professional 6 Beta, we've migrated Dotfuscator to .NET Standard and .NET Core, so it now has cross-platform support for building under .NET Core and Mono, on Windows, Mac, and Linux. This opens up many more options for all Xamarin developers:</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/dotfuscator-pro-6-mac-support/\"><strong>Dotfuscator Comes to Visual Studio for Mac to Help Protect Apps</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/bill-leach/\">Bill Leach</a></p>",
+          "description_markdown": "With the recent release of Dotfuscator Professional 6 Beta, we've migrated Dotfuscator to .NET Standard and .NET Core, so it now has cross-platform support for building under .NET Core and Mono, on Windows, Mac, and Linux. This opens up many more options for all Xamarin developers:\r\n\r\n[**Dotfuscator Comes to Visual Studio for Mac to Help Protect Apps**](https://devblogs.microsoft.com/xamarin/dotfuscator-pro-6-mac-support/) by [Bill Leach](https://devblogs.microsoft.com/xamarin/author/bill-leach/)",
+          "embedded_links": [
+            {
+              "identifier": "ATIZuCQ",
+              "title": "**Dotfuscator Comes to Visual Studio for Mac to Help Protect Apps**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/dotfuscator-pro-6-mac-support/"
+            },
+            {
+              "identifier": "YbDtXEo",
+              "title": "Bill Leach",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/bill-leach/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "v8IU3nI",
+          "type": "Link",
+          "title": "Binding Android Kotlin Libraries",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/binding-android-kotlin-libraries/",
+          "description": "<p>Need to use 3rd Party Android libraries developed in Kotlin? Well here is some great resources to get you started.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/binding-android-kotlin-libraries/\"><strong>Binding Android Kotlin Libraries</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/alexeystrakh/\">Alexey Strakh</a></p>",
+          "description_markdown": "Need to use 3rd Party Android libraries developed in Kotlin? Well here is some great resources to get you started.\r\n\r\n[**Binding Android Kotlin Libraries**](https://devblogs.microsoft.com/xamarin/binding-android-kotlin-libraries/) by [Alexey Strakh](https://devblogs.microsoft.com/xamarin/author/alexeystrakh/)",
+          "embedded_links": [
+            {
+              "identifier": "qf3Qs6A",
+              "title": "Alexey Strakh",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/alexeystrakh/"
+            },
+            {
+              "identifier": "22gVBal",
+              "title": "**Binding Android Kotlin Libraries**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/binding-android-kotlin-libraries/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "qmuh3ak",
+          "type": "Link",
+          "title": "Handle The Safe Area On iPhone X And Higher Models",
+          "url_domain": "c-sharpcorner.com",
+          "url": "https://www.c-sharpcorner.com/article/xamarin-forms-handle-the-safe-area-on-iphone-x-and-higher-models/",
+          "description": "<p>When you build apps for these devices, you must now consider this larger screen area in order to ensure your contents properly fit into the page. Generally speaking, the area of the screen where your contents should go is called the Safe Area.</p>\n\n<p><a href=\"https://www.c-sharpcorner.com/article/xamarin-forms-handle-the-safe-area-on-iphone-x-and-higher-models/\"><strong>Xamarin.Forms - Handle The Safe Area On iPhone X And Higher Models</strong></a> by <a href=\"https://www.c-sharpcorner.com/members/alessandro-del-sole\">Alessandro Del Sole</a></p>",
+          "description_markdown": "When you build apps for these devices, you must now consider this larger screen area in order to ensure your contents properly fit into the page. Generally speaking, the area of the screen where your contents should go is called the Safe Area.\r\n\r\n[**Xamarin.Forms - Handle The Safe Area On iPhone X And Higher Models**](https://www.c-sharpcorner.com/article/xamarin-forms-handle-the-safe-area-on-iphone-x-and-higher-models/) by [Alessandro Del Sole](https://www.c-sharpcorner.com/members/alessandro-del-sole)",
+          "embedded_links": [
+            {
+              "identifier": "ihuqDfp",
+              "title": "**Xamarin.Forms - Handle The Safe Area On iPhone X And Higher Models**",
+              "url_domain": "c-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/xamarin-forms-handle-the-safe-area-on-iphone-x-and-higher-models/"
+            },
+            {
+              "identifier": "lOjSwqq",
+              "title": "Alessandro Del Sole",
+              "url_domain": "c-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/members/alessandro-del-sole"
+            }
+          ]
+        },
+        {
+          "identifier": "pJPSAec",
+          "type": "Link",
+          "title": "Xamarin.Forms.Nuke: iOS native image caching for Xamarin.Forms",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/xamarin-forms-nuke/",
+          "description": "<p>This library was heavily inspired by Jonathan Peppers GlideX implementation of the IImageViewHandler interface for Xamarin.Forms.</p>\n\n<p>Its goal is to provide the same kind of native implementation for iOS, achieving a complete native image caching solution for Xamarin.Forms: you don't have to change any line of your existing project, the Xamarin.Forms image source handlers will just be overridden with cache-enabled ones.</p>\n\n<p><a href=\"https://www.sharpnado.com/xamarin-forms-nuke/\"><strong>Xamarin.Forms.Nuke: iOS native image caching for Xamarin.Forms</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "This library was heavily inspired by Jonathan Peppers GlideX implementation of the IImageViewHandler interface for Xamarin.Forms.\r\n\r\nIts goal is to provide the same kind of native implementation for iOS, achieving a complete native image caching solution for Xamarin.Forms: you don't have to change any line of your existing project, the Xamarin.Forms image source handlers will just be overridden with cache-enabled ones.\r\n\r\n[**Xamarin.Forms.Nuke: iOS native image caching for Xamarin.Forms**](https://www.sharpnado.com/xamarin-forms-nuke/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)",
+          "embedded_links": [
+            {
+              "identifier": "6dTcZqR",
+              "title": "**Xamarin.Forms.Nuke: iOS native image caching for Xamarin.Forms**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/xamarin-forms-nuke/"
+            },
+            {
+              "identifier": "CKzOX7A",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        },
+        {
+          "identifier": "46k6okl",
+          "type": "Link",
+          "title": "Launching Apps in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/launching-apps-in-xamarin-forms/",
+          "description": "<p>Learning how to Launch external Apps in Xamarin Forms with Leomaris!</p>\n\n<p><a href=\"https://askxammy.com/launching-apps-in-xamarin-forms/\"><strong>Launching Apps in Xamarin Forms</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Learning how to Launch external Apps in Xamarin Forms with Leomaris!\r\n\r\n[**Launching Apps in Xamarin Forms**](https://askxammy.com/launching-apps-in-xamarin-forms/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "d86yie1",
+              "title": "**Launching Apps in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/launching-apps-in-xamarin-forms/"
+            },
+            {
+              "identifier": "1sCZUAm",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "lltd69L",
+          "type": "Link",
+          "title": "Storage Browser for Xamarin.Forms",
+          "url_domain": "github.com",
+          "url": "https://github.com/SiasbRadvarZanganeh/Xamarin-Samples",
+          "description": "<p>If you've ever needed to browse the application storage on the iPhone or the Android device this library and source code might be useful for you.</p>\n\n<p><a href=\"https://github.com/SiasbRadvarZanganeh/Xamarin-Samples/tree/master/BrowseStorageXamarinForm\"><strong>Xamarin-Samples</strong></a> by Siasb Radvar Zanganeh</p>",
+          "description_markdown": "If you've ever needed to browse the application storage on the iPhone or the Android device this library and source code might be useful for you.\r\n\r\n[**Xamarin-Samples**](https://github.com/SiasbRadvarZanganeh/Xamarin-Samples/tree/master/BrowseStorageXamarinForm) by Siasb Radvar Zanganeh",
+          "embedded_links": [
+            {
+              "identifier": "kKWWV6r",
+              "title": "**Xamarin-Samples**",
+              "url_domain": "github.com",
+              "url": "https://github.com/SiasbRadvarZanganeh/Xamarin-Samples/tree/master/BrowseStorageXamarinForm"
+            }
+          ]
+        },
+        {
+          "identifier": "ftmn4XI",
+          "type": "Link",
+          "title": "Creating Custom StateTriggers",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2020/03/09/xamarin-forms-creando-statetriggers-personalizados/",
+          "description": "<p>StateTriggers represent a set of rules that apply VisualStates based on certain conditions. Each VisualState now has a Collection of StateTriggerBase that indicate when the VisualState should be applied. If any of the triggers are active, the VisualState will be applied.</p>\n\n<p>Xamarin.Forms provides certain StateTriggers to cover common cases such as device orientation, dynamic changes in App window size, and so on. However, wouldn't it be great to be able to extend the possibilities and create custom StateTriggers?</p>\n\n<p><strong>Note: Post is in Spanish</strong></p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2020/03/09/xamarin-forms-creando-statetriggers-personalizados/\"><strong>[Xamarin.Forms] Creando StateTriggers personalizados</strong></a> by <a href=\"https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/\">Javier Suárez Ruiz</a></p>",
+          "description_markdown": "StateTriggers represent a set of rules that apply VisualStates based on certain conditions. Each VisualState now has a Collection of StateTriggerBase that indicate when the VisualState should be applied. If any of the triggers are active, the VisualState will be applied.\r\n\r\nXamarin.Forms provides certain StateTriggers to cover common cases such as device orientation, dynamic changes in App window size, and so on. However, wouldn't it be great to be able to extend the possibilities and create custom StateTriggers?\r\n\r\n**Note: Post is in Spanish**\r\n\r\n[**[Xamarin.Forms] Creando StateTriggers personalizados**](https://javiersuarezruiz.wordpress.com/2020/03/09/xamarin-forms-creando-statetriggers-personalizados/) by [Javier Suárez Ruiz](https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/)",
+          "embedded_links": [
+            {
+              "identifier": "qowvNFY",
+              "title": "Xamarin.Forms] Creando StateTriggers personalizados**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2020/03/09/xamarin-forms-creando-statetriggers-personalizados/"
+            },
+            {
+              "identifier": "usgplVX",
+              "title": "Javier Suárez Ruiz",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/"
+            }
+          ]
+        },
+        {
+          "identifier": "lROMbL8",
+          "type": "Link",
+          "title": "5 Little nuggets",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-5-dicas-incriveis-automapper-androidbackbutton-workerandroid-appshortcuts-f11205cb1697",
+          "description": "<p>Thiago Bertuzzi shares tips and code references for Xamarin.Forms about Automapper, AndroidBackButton, WorkerAndroid, AppShortcuts and CustomVision.</p>\n\n<p><strong>Note: Post is in Portuguese</strong></p>\n\n<p><a href=\"https://medium.com/@bertuzzi/o-x-do-xamarin-forms-5-dicas-incriveis-automapper-androidbackbutton-workerandroid-appshortcuts-f11205cb1697\"><strong>O X do Xamarin Forms</strong></a> by <a href=\"https://medium.com/@bertuzzi\">Thiago Bertuzzi</a></p>",
+          "description_markdown": "Thiago Bertuzzi shares tips and code references for Xamarin.Forms about Automapper, AndroidBackButton, WorkerAndroid, AppShortcuts and CustomVision.\r\n\r\n**Note: Post is in Portuguese**\r\n\r\n[**O X do Xamarin Forms**](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-5-dicas-incriveis-automapper-androidbackbutton-workerandroid-appshortcuts-f11205cb1697) by [Thiago Bertuzzi](https://medium.com/@bertuzzi)",
+          "embedded_links": [
+            {
+              "identifier": "oty04Ot",
+              "title": "**O X do Xamarin Forms**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-5-dicas-incriveis-automapper-androidbackbutton-workerandroid-appshortcuts-f11205cb1697"
+            },
+            {
+              "identifier": "IjnN1cw",
+              "title": "Thiago Bertuzzi",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "career",
+      "name": "CAREER",
+      "items": [
+        {
+          "identifier": "xQhjpoJ",
+          "type": "Link",
+          "title": "How To Work From Home",
+          "url_domain": "haacked.com",
+          "url": "https://haacked.com/archive/2020/03/03/how-to-work-from-home/",
+          "description": "<p>In this time of pandemics, Phil Haack discusses his top tips for working from home.</p>\n\n<p><a href=\"https://haacked.com/archive/2020/03/03/how-to-work-from-home/\"><strong>How To Work From Home</strong></a> by <a href=\"\">Phil Haack</a></p>",
+          "description_markdown": "In this time of pandemics, Phil Haack discusses his top tips for working from home.  \r\n\r\n[**How To Work From Home**](https://haacked.com/archive/2020/03/03/how-to-work-from-home/) by [Phil Haack]()",
+          "embedded_links": [
+            {
+              "identifier": "c54g5rL",
+              "title": "**How To Work From Home**",
+              "url_domain": "haacked.com",
+              "url": "https://haacked.com/archive/2020/03/03/how-to-work-from-home/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "rmIscp6",
+          "type": "Link",
+          "title": "Xamarin.Forms Shell",
+          "url_domain": "jesseliberty.com",
+          "url": "http://jesseliberty.com/2020/03/07/xamarin-forms-shell/",
+          "description": "<p>Focus on Xamarin.Forms Shell – the new way to create great Xamarin.Forms applications. Jesse Liberty go in-depth with Sean, a Senior Developer on the Xamarin.Forms team.</p>\n\n<p><a href=\"http://jesseliberty.com/2020/03/07/xamarin-forms-shell/\"><strong>Xamarin.Forms Shell</strong></a> by <a href=\"http://jesseliberty.com/author/jl/\">Jesse Liberty</a></p>",
+          "description_markdown": "Focus on Xamarin.Forms Shell – the new way to create great Xamarin.Forms applications. Jesse Liberty go in-depth with Sean, a Senior Developer on the Xamarin.Forms team.\r\n\r\n[**Xamarin.Forms Shell**](http://jesseliberty.com/2020/03/07/xamarin-forms-shell/) by [Jesse Liberty](http://jesseliberty.com/author/jl/)",
+          "embedded_links": [
+            {
+              "identifier": "AcQGt80",
+              "title": "**Xamarin.Forms Shell**",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/2020/03/07/xamarin-forms-shell/"
+            },
+            {
+              "identifier": "q9SnD3f",
+              "title": "Jesse Liberty",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/author/jl/"
+            }
+          ]
+        },
+        {
+          "identifier": "sHXOZQa",
+          "type": "Link",
+          "title": "Play Geolocation (Xamarin.Essentials API of the Week)",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Geolocation-XamarinEssentials-API-of-the-Week",
+          "description": "<p>Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Xamarin.Essential API of the week we take a look at geolocation to easily get the cached or current location of the users device.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Geolocation-XamarinEssentials-API-of-the-Week\"><strong>Play Geolocation (Xamarin.Essentials API of the Week)</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Xamarin.Essential API of the week we take a look at geolocation to easily get the cached or current location of the users device.\r\n\r\n[**Play Geolocation (Xamarin.Essentials API of the Week)**](https://channel9.msdn.com/Shows/XamarinShow/Geolocation-XamarinEssentials-API-of-the-Week) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "6fdjjLQ",
+              "title": "**Play Geolocation (Xamarin.Essentials API of the Week)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Geolocation-XamarinEssentials-API-of-the-Week"
+            },
+            {
+              "identifier": "Y5TdAO7",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "A3bu728",
+          "type": "Link",
+          "title": "Binding Swift Libraries",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Binding-Swift-Libraries--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by friend of the show Alexey Strakh, Microsoft Mobile Customer Advisory Team Engineer, who shows off how to bind native Swift libraries so you can use them in your Xamarin iOS apps.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Binding-Swift-Libraries--The-Xamarin-Show\"><strong>Binding Swift Libraries | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by friend of the show Alexey Strakh, Microsoft Mobile Customer Advisory Team Engineer, who shows off how to bind native Swift libraries so you can use them in your Xamarin iOS apps.\r\n\r\n[**Binding Swift Libraries | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Binding-Swift-Libraries--The-Xamarin-Show) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "9ZhnIt1",
+              "title": "**Binding Swift Libraries | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Binding-Swift-Libraries--The-Xamarin-Show"
+            },
+            {
+              "identifier": "4UzcEjl",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "v9Cns8M",
+          "type": "Link",
+          "title": "Merge Conflict: 192: Getting Started with Live Streaming",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/192",
+          "description": "<p>Frank is live streaming now and this week on Merge Conflict him and James discuss it! Frank is awesome and so knowledgable so this is a great episode for some \"inside Soccer\" as James puts it!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/192https://www.mergeconflict.fm/192\"><strong>Merge Conflict: 192: Getting Started with Live StreamingMerge Conflict: 192: Getting Started with Live Streaming</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "Frank is live streaming now and this week on Merge Conflict him and James discuss it! Frank is awesome and so knowledgable so this is a great episode for some \"inside Soccer\" as James puts it!\r\n\r\n[**Merge Conflict: 192: Getting Started with Live StreamingMerge Conflict: 192: Getting Started with Live Streaming**](https://www.mergeconflict.fm/192https://www.mergeconflict.fm/192) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "NeXCPwl",
+              "title": "**Merge Conflict: 192: Getting Started with Live Streaming**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/192"
+            },
+            {
+              "identifier": "S3vcERY",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

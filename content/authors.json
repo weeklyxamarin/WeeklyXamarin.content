@@ -55,6 +55,16 @@
       ]
     },
     {
+      "Name": "Alessandro Del Sole",
+      "Id": "https://www.c-sharpcorner.com/members/alessandro-del-sole",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.c-sharpcorner.com/members/alessandro-del-sole"
+        }
+      ]
+    },
+    {
       "Name": "Alexey Strakh",
       "Id": "https://devblogs.microsoft.com/xamarin/author/alexeystrakh/",
       "Aliases": [
@@ -169,6 +179,16 @@
       ]
     },
     {
+      "Name": "Bill Leach",
+      "Id": "https://devblogs.microsoft.com/xamarin/author/bill-leach/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/xamarin/author/bill-leach/"
+        }
+      ]
+    },
+    {
       "Name": "Bohdan Benetskyi",
       "Id": "https://twitter.com/bbenetskyy",
       "Aliases": [
@@ -205,6 +225,16 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/chard003"
+        }
+      ]
+    },
+    {
+      "Name": "Cheng Yang",
+      "Id": "https://rimdev.io/authors/cheng-yang/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://rimdev.io/authors/cheng-yang/"
         }
       ]
     },
