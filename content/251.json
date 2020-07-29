@@ -1,0 +1,187 @@
+{
+  "Id": "251",
+  "Name": "Issue 251",
+  "UpdatedTimeStamp": "2020-03-20T11:13:57Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Happy Friday Everyone! The World has changed significantly in the last couple of weeks, it's scary times but hopefully you are taking solid advice and self isolating.   Self isolation is boring, but hopefully reading Weekly Xamarin will keep you from going completely crazy. (at least for a while).  As always, thanks to the community for so many great articles. Stay safe and look after each another. ❤ Kym",
+  "PublishDate": "2020-03-20T11:13:52Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": ".NET Conf: Focus On Xamarin is Next Week!",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-conf-one-week-away/",
+      "Description": "We are just one week away from the largest Xamarin digital event of the year, .",
+      "EditionId": "251",
+      "Author": "James Montemagno",
+      "Id": "251-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "WWDC going virtual",
+      "Url": "https://developer.apple.com/news/?id=03132020a",
+      "Description": "This June, WWDC20 brings a completely new online experience to millions of talented and creative developers around the world. Join us for a fully packed program — including Keynote and sessions — to gain early access to the future of Apple platforms and engage with Apple engineers. I may finally get to be at a WWDC event - thanks pandemic! [**WWDC20. Coming this summer.**](https://developer.apple.com/news/?id=03132020a) by Apple",
+      "EditionId": "251",
+      "Id": "251-2",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Prepare your application for distribution using Azure DevOps",
+      "Url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/03/19/prepare-your-application-for-distribution-using-azure-devops-en.html",
+      "Description": "Damien continues his excellent series of posts covering creating a real CI/CD pipeline for mobile \"go to whoa\".  This time it's about distributing it to the users.",
+      "EditionId": "251",
+      "Id": "251-3",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Difference between DevOps and Mobile DevOps",
+      "Url": "https://luismts.com/difference-between-devops-and-mobile-devops/",
+      "Description": "Luis Matos highlights some of the differences that you will encounter doing DevOps on a mobile ecosystem. [**Difference between DevOps and Mobile DevOps**](https://luismts.com/difference-between-devops-and-mobile-devops/) by Luis Matos",
+      "EditionId": "251",
+      "Id": "251-4",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Visual Studio for Mac: Refresh(); event recap",
+      "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-refresh-event-recap/",
+      "Description": "In case you didn't tune in to the Visual Studio for Mac: Refresh(); event,  all the videos, slides, and links to demo code are available for you to watch, use for your own virtual events, blog posts, etc. in this repo.",
+      "EditionId": "251",
+      "Author": "Amanda Silver",
+      "Id": "251-5",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Visual Studio for Mac: Become a Productivity Pro",
+      "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-become-a-productivity-pro/",
+      "Description": "Despite continued advancement and innovation in the IDE space, the bottom line is that IDEs are a productivity tool. As a software developer, the value of an IDE is directly related to how much using the tool increases your productivity.",
+      "EditionId": "251",
+      "Author": "Cody Beyer",
+      "Id": "251-6",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "MFractor improvements",
+      "Url": "https://www.mfractor.com/blogs/news/introducing-grid-index-and-color-xaml-adornments",
+      "Description": "MFractor continues it's improvements with a new release that includes grid index and color adornments.  I particularly like the color adornments because it stops me having to decode hex values in my head ;-)",
+      "EditionId": "251",
+      "Id": "251-7",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Faster Application Startup using Custom Profiles with Startup Tracing on Android",
+      "Url": "https://devblogs.microsoft.com/xamarin/faster-android-startup-times-with-startup-tracing/",
+      "Description": "In our efforts to bring you extremely fast startup times on Android, we’re bringing you the ability to record your own profiles to use with startup tracing on Android.",
+      "EditionId": "251",
+      "Author": "Jon Douglas",
+      "Id": "251-8",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Silly App goes Hipster!",
+      "Url": "https://www.sharpnado.com/dark-light-mode/",
+      "Description": "Sharpnado (Jean-Marie Alfonsi) joins the hipster movement and adds light/dark mode selection into his \"SIlly App\".  In usual Sharpnado fashion there is also a nice little surprise how it transitions from one to the other.",
+      "EditionId": "251",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "251-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Creating a login flow with Xamarin Forms Shell",
+      "Url": "https://mallibone.com/post/xamarin-forms-shell-login",
+      "Description": "Xamarin Forms 4.5 Shell supports modal navigation, so Mark thought it would be a good time to revisit one of his posts around creating a login flow, this time using Shell. [**Creating a login flow with Xamarin Forms Shell**](https://mallibone.com/post/xamarin-forms-shell-login)",
+      "EditionId": "251",
+      "Id": "251-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Inheriting styles in Xamarin Forms",
+      "Url": "https://askxammy.com/inheriting-styles-in-xamarin-forms/",
+      "Description": "One of my favorite features of XAML is styles and resources, in this article, Leomaris Reyes covers Style Inheritence which allows you to create maintainable style definitions.",
+      "EditionId": "251",
+      "Author": "Leomaris Reyes",
+      "Id": "251-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "4 New Features You Must Try in Xamarin.Forms 4.5",
+      "Url": "https://www.syncfusion.com/blogs/post/4-new-features-you-must-try-in-xamarin-forms-4-5.aspx",
+      "Description": "Xamarin.Forms 4.5 release has lots of improvements and new features. This blog post, takes you through the most exciting features of this release. [**4 New Features You Must Try in Xamarin.Forms 4.5**](https://www.syncfusion.com/blogs/post/4-new-features-you-must-try-in-xamarin-forms-4-5.aspx)",
+      "EditionId": "251",
+      "Id": "251-12",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Weather App - UI Challenge",
+      "Url": "https://github.com/valentineg8/WeatherApp",
+      "Description": "I saw this great looking UI Challenge fly past on Twitter by Lorenzo Araujo and thought I should share it out.  Some nice design and animation - (and you know I loves me some UI) [**WeatherAp**](https://github.com/valentineg8/WeatherApp) by Lorenzo Araujo",
+      "EditionId": "251",
+      "Id": "251-13",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Creating Interactive Charts in Xamarin.Forms",
+      "Url": "https://www.syncfusion.com/blogs/post/creating-interactive-charts-in-xamarin-forms.aspx",
+      "Description": "Displaying data in mobile apps using charts is common, but drawing the chart can be very difficult. It requires a lot of calculations, figuring out distances between all points, and then drawing them on the chart.  [**Guest Blog: Creating Interactive Charts in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/creating-interactive-charts-in-xamarin-forms.aspx) by Brandon Minnick",
+      "EditionId": "251",
+      "Id": "251-14",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Sending push notifications to your Xamarin app from WordPress with Azure",
+      "Url": "https://msicc.net/sending-push-notifications-to-your-xamarin-app-from-wordpress-with-azure-part-ii-the-function/",
+      "Description": "In this second post of his series about sending push notifications from WordPress to Xamarin apps via Azure, Marco looks at the Azure Function side of things. [**Sending push notifications to your Xamarin app from WordPress with Azure, Part II – the Function**](https://msicc.net/sending-push-notifications-to-your-xamarin-app-from-wordpress-with-azure-part-ii-the-function/) by Marco Siccardi",
+      "EditionId": "251",
+      "Id": "251-15",
+      "Category": "AZURE"
+    },
+    {
+      "Title": "Xamarin Podcast 71 - Focus on Xamarin!",
+      "Url": "https://www.xamarinpodcast.com/71",
+      "Description": "It's trigger-mania! Mania! On the dancefloor! This month James and Matt talk about Xamarin.Forms, Xamarin, and everything related to Xamarin - you could say they Focus on Xamarin. [**Focus on Xamarin!**](https://www.xamarinpodcast.com/71)",
+      "EditionId": "251",
+      "Id": "251-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Show - Android Tooling Updates",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Android-Tooling-Updates-IntelliSense-Apply-Changes--More--The-Xamarin-Show",
+      "Description": "This week, James is joined by friend of the show Jérémie Laval, Xamarin.Android Tooling Engineer Lead, who shows off some awesome new features for Android developers including Apply Changes, new InstelliSense, designer updates, and more!",
+      "EditionId": "251",
+      "Author": "James Montemagno",
+      "Id": "251-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Play Text-to-Speech (Xamarin.Essentials API of the Week)",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Text-to-Speech-XamarinEssentials-API-of-the-Week",
+      "Description": "On this week's Xamarin.Essential API of the week we take a look at the text-to-speech API to speak back text from the users device.",
+      "EditionId": "251",
+      "Author": "James Montemagno",
+      "Id": "251-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 193 - UI Is Messy",
+      "Url": "https://www.mergeconflict.fm/193",
+      "Description": "Architecture, Data Binding, MVVM, MVC, MVU, Animations, ALL THE THINGS! It is all messy! [**193: UI Is Messy**](https://www.mergeconflict.fm/193)",
+      "EditionId": "251",
+      "Id": "251-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "What's New for Xamarin Developers in Visual Studio 2019 version 16.5",
+      "Url": "https://devblogs.microsoft.com/xamarin/whats-new-for-xamarin-developers-in-visual-studio-2019-version-16-5/",
+      "Description": "This week, Visual Studio 2019 version 16.5 was released, bringing new features and improvements for mobile developers in Visual Studio to help you build better mobile apps, faster.",
+      "EditionId": "251",
+      "Id": "251-20",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "GitHub for mobile is now available",
+      "Url": "https://github.blog/2020-03-17-github-for-mobile-is-now-available/",
+      "Description": "> \"Now, you can stay in touch with your team, triage issues, and even merge code, right from your mobile device, anywhere.\" Because merge conflicts weren't hard enough already ;-)",
+      "EditionId": "251",
+      "Id": "251-21",
+      "Category": "RELEASES"
+    }
+  ]
+}

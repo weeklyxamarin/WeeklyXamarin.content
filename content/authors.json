@@ -79,6 +79,16 @@
       ]
     },
     {
+      "Name": "Amanda Silver",
+      "Id": "https://devblogs.microsoft.com/visualstudio/author/amandas/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/visualstudio/author/amandas/"
+        }
+      ]
+    },
+    {
       "Name": "Andreas Nesheim",
       "Id": "https://twitter.com/andreasnesheim",
       "Aliases": [
@@ -205,6 +215,16 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/anotherlab"
+        }
+      ]
+    },
+    {
+      "Name": "Cody Beyer",
+      "Id": "https://devblogs.microsoft.com/visualstudio/author/codybeyer/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/visualstudio/author/codybeyer/"
         }
       ]
     },
@@ -499,6 +519,16 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/redth"
+        }
+      ]
+    },
+    {
+      "Name": "Jon Douglas",
+      "Id": "https://devblogs.microsoft.com/xamarin/author/jondouglas/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/xamarin/author/jondouglas/"
         }
       ]
     },
