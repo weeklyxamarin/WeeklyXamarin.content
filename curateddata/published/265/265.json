@@ -1,0 +1,575 @@
+{
+  "number": 265,
+  "title": "Issue 265",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/265",
+  "publication_status": "published",
+  "published_at": "2020-06-27T05:12:57+01:00",
+  "updated_at": "2020-06-27T05:13:01+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "WWDC, MAUI and Productivity",
+          "description": "<p>A bumper issue this week, with lots of information about Apples WWDC announcements and more on MAUI.  Let's not forget productivity tips and snippets to super charge your Xamarin.Forms development.</p>",
+          "description_markdown": "A bumper issue this week, with lots of information about Apples WWDC announcements and more on MAUI.  Let's not forget productivity tips and snippets to super charge your Xamarin.Forms development.",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "chzo387",
+          "type": "Link",
+          "title": "Design for intelligence",
+          "url_domain": "apple.com",
+          "url": "https://developer.apple.com/news/?id=mb3c4r4r",
+          "description": "<p>Intelligence is a core part of building a great modern app. App extensions, Siri suggestions, voice, widgets, app clips — Apple has announced all these features to help make everyday tasks easier for people who use their platforms.</p>\n\n<p><a href=\"https://developer.apple.com/news/?id=mb3c4r4r\"><strong>Design for intelligence</strong></a> by <a href=\"https://developer.apple.com\">Apple Developer</a></p>",
+          "description_markdown": "Intelligence is a core part of building a great modern app. App extensions, Siri suggestions, voice, widgets, app clips — Apple has announced all these features to help make everyday tasks easier for people who use their platforms.\r\n\r\n[**Design for intelligence**](https://developer.apple.com/news/?id=mb3c4r4r) by [Apple Developer](https://developer.apple.com)",
+          "embedded_links": [
+            {
+              "identifier": "V0E299R",
+              "title": "**Design for intelligence**",
+              "url_domain": "apple.com",
+              "url": "https://developer.apple.com/news/?id=mb3c4r4r"
+            },
+            {
+              "identifier": "vp2pXgv",
+              "title": "Apple Developer",
+              "url_domain": "apple.com",
+              "url": "https://developer.apple.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "IKp8dkU",
+          "type": "Link",
+          "title": "10 Visual Studio Ninja Code Editor Productivity Tips",
+          "url_domain": "ndepend.com",
+          "url": "https://blog.ndepend.com/10-visual-studio-solution-ninja-code-edition-tips/",
+          "description": "<p>Even for developers who are using Visual Studio for years, you can still probably find some productivity tips you didn't know about.</p>\n\n<p><a href=\"https://blog.ndepend.com/10-visual-studio-solution-ninja-code-edition-tips/\"><strong>10 Visual Studio Ninja Code Editor Productivity Tips</strong></a> by <a href=\"https://blog.ndepend.com/author/psmacchia/\">Patrick Smacchia</a></p>",
+          "description_markdown": "Even for developers who are using Visual Studio for years, you can still probably find some productivity tips you didn't know about.\r\n\r\n[**10 Visual Studio Ninja Code Editor Productivity Tips**](https://blog.ndepend.com/10-visual-studio-solution-ninja-code-edition-tips/) by [Patrick Smacchia](https://blog.ndepend.com/author/psmacchia/)",
+          "embedded_links": [
+            {
+              "identifier": "2E1eTU8",
+              "title": "**10 Visual Studio Ninja Code Editor Productivity Tips**",
+              "url_domain": "ndepend.com",
+              "url": "https://blog.ndepend.com/10-visual-studio-solution-ninja-code-edition-tips/"
+            },
+            {
+              "identifier": "xkVTWqa",
+              "title": "Patrick Smacchia",
+              "url_domain": "ndepend.com",
+              "url": "https://blog.ndepend.com/author/psmacchia/"
+            }
+          ]
+        },
+        {
+          "identifier": "VSZrHcR",
+          "type": "Link",
+          "title": "Code snippets in VS for Mac",
+          "url_domain": "wordpress.com",
+          "url": "https://oficinadologan.wordpress.com/2020/06/24/how-code-snippets-in-vs-for-mac-can-help-you-create-xamarin-forms-apps/",
+          "description": "<p>Learn how to create and use code snippets on VS for Mac. This is also part of Louis Matos’ Xamarin Month for which the theme is code snippets.</p>\n\n<p><a href=\"https://oficinadologan.wordpress.com/2020/06/24/how-code-snippets-in-vs-for-mac-can-help-you-create-xamarin-forms-apps/\"><strong>How code snippets in VS for Mac can help you create Xamarin Forms apps</strong></a> by <a href=\"https://oficinadologan.wordpress.com/author/ricardoprestes/\">Ricardo Prestes</a></p>",
+          "description_markdown": "Learn how to create and use code snippets on VS for Mac. This is also part of Louis Matos’ Xamarin Month for which the theme is code snippets.\r\n\r\n[**How code snippets in VS for Mac can help you create Xamarin Forms apps**](https://oficinadologan.wordpress.com/2020/06/24/how-code-snippets-in-vs-for-mac-can-help-you-create-xamarin-forms-apps/) by [Ricardo Prestes](https://oficinadologan.wordpress.com/author/ricardoprestes/)",
+          "embedded_links": [
+            {
+              "identifier": "djKIt2z",
+              "title": "**How code snippets in VS for Mac can help you create Xamarin Forms apps**",
+              "url_domain": "wordpress.com",
+              "url": "https://oficinadologan.wordpress.com/2020/06/24/how-code-snippets-in-vs-for-mac-can-help-you-create-xamarin-forms-apps/"
+            },
+            {
+              "identifier": "mYgDCGJ",
+              "title": "Ricardo Prestes",
+              "url_domain": "wordpress.com",
+              "url": "https://oficinadologan.wordpress.com/author/ricardoprestes/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "3OF4Jh4",
+          "type": "Link",
+          "title": "iOS 14 has a new home screen with widgets, a redesigned Siri, and more",
+          "url_domain": "theverge.com",
+          "url": "https://www.theverge.com/2020/6/22/21291695/apple-ios-14-updates-home-screen-redesign-features-release-date-wwdc-2020",
+          "description": "<p>Apple has announced iOS 14 onstage at WWDC 2020, giving the first (official) look at the latest version of its software for the iPhone, and it’s bringing the biggest change to the iOS home screen in years: widgets.</p>\n\n<p><a href=\"https://www.theverge.com/2020/6/22/21291695/apple-ios-14-updates-home-screen-redesign-features-release-date-wwdc-2020\"><strong>iOS 14 has a new home screen with widgets, a redesigned Siri, and more</strong></a> by <a href=\"https://www.theverge.com/authors/chaim-gartenberg\">Chaim Gartenberg</a></p>",
+          "description_markdown": "Apple has announced iOS 14 onstage at WWDC 2020, giving the first (official) look at the latest version of its software for the iPhone, and it’s bringing the biggest change to the iOS home screen in years: widgets.\r\n\r\n[**iOS 14 has a new home screen with widgets, a redesigned Siri, and more**](https://www.theverge.com/2020/6/22/21291695/apple-ios-14-updates-home-screen-redesign-features-release-date-wwdc-2020) by [Chaim Gartenberg](https://www.theverge.com/authors/chaim-gartenberg)",
+          "embedded_links": [
+            {
+              "identifier": "XqFfRM1",
+              "title": "**iOS 14 has a new home screen with widgets, a redesigned Siri, and more**",
+              "url_domain": "theverge.com",
+              "url": "https://www.theverge.com/2020/6/22/21291695/apple-ios-14-updates-home-screen-redesign-features-release-date-wwdc-2020"
+            },
+            {
+              "identifier": "RyI83Zh",
+              "title": "Chaim Gartenberg",
+              "url_domain": "theverge.com",
+              "url": "https://www.theverge.com/authors/chaim-gartenberg"
+            }
+          ]
+        },
+        {
+          "identifier": "y2RwlxB",
+          "type": "Link",
+          "title": "A first look at Apple's new Augmented Reality features",
+          "url_domain": "monstar-lab.com",
+          "url": "https://engineering.monstar-lab.com/2020/06/23/A-first-look-at-Apples-new-Augmented-Reality-features",
+          "description": "<p>Apple had some announcements around new Augmented Reality features.  Get the latest information and links to sessions in this blog post.</p>\n\n<p><a href=\"https://engineering.monstar-lab.com/2020/06/23/A-first-look-at-Apples-new-Augmented-Reality-features\"><strong>A first look at Apple's new Augmented Reality features</strong></a> by <a href=\"https://twitter.com/RoxanaJula\">Roxana Jula</a></p>",
+          "description_markdown": "Apple had some announcements around new Augmented Reality features.  Get the latest information and links to sessions in this blog post.\r\n\r\n[**A first look at Apple's new Augmented Reality features**](https://engineering.monstar-lab.com/2020/06/23/A-first-look-at-Apples-new-Augmented-Reality-features) by [Roxana Jula](https://twitter.com/RoxanaJula)",
+          "embedded_links": [
+            {
+              "identifier": "EDsomyB",
+              "title": "Roxana Jula",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/RoxanaJula"
+            },
+            {
+              "identifier": "hBkWlfA",
+              "title": "**A first look at Apple's new Augmented Reality features**",
+              "url_domain": "monstar-lab.com",
+              "url": "https://engineering.monstar-lab.com/2020/06/23/A-first-look-at-Apples-new-Augmented-Reality-features"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "g7UqQi",
+          "type": "Link",
+          "title": "Bottom Slider",
+          "url_domain": "xamaringuyshow.com",
+          "url": "https://xamaringuyshow.com/2020/06/21/xamarin-forms-bottom-slider/",
+          "description": "<p>Implement Sliders inside our Xamarin Forms Application with out using any plugin.</p>\n\n<p><a href=\"https://xamaringuyshow.com/2020/06/21/xamarin-forms-bottom-slider/\"><strong>Xamarin Forms Bottom Slider – Welcome to Xamarin Guy Show Blog</strong></a> by <a href=\"https://xamaringuyshow.com/author/samirgc/\">samirgc</a></p>",
+          "description_markdown": "Implement Sliders inside our Xamarin Forms Application with out using any plugin.\r\n\r\n[**Xamarin Forms Bottom Slider – Welcome to Xamarin Guy Show Blog**](https://xamaringuyshow.com/2020/06/21/xamarin-forms-bottom-slider/) by [samirgc](https://xamaringuyshow.com/author/samirgc/)",
+          "embedded_links": [
+            {
+              "identifier": "J4iad1R",
+              "title": "**Xamarin Forms Bottom Slider – Welcome to Xamarin Guy Show Blog**",
+              "url_domain": "xamaringuyshow.com",
+              "url": "https://xamaringuyshow.com/2020/06/21/xamarin-forms-bottom-slider/"
+            },
+            {
+              "identifier": "LWbAJCe",
+              "title": "samirgc",
+              "url_domain": "xamaringuyshow.com",
+              "url": "https://xamaringuyshow.com/author/samirgc/"
+            }
+          ]
+        },
+        {
+          "identifier": "R5HkLm3",
+          "type": "Link",
+          "title": "Introduction To Dialogs",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/introduction-to-dialogs-in-xamarin-forms",
+          "description": "<p>When developing mobile applications, dialogs are a foundational building block in our tool-belt. We can use dialogs to show a confirmation message, to indicate when the app is working or even display a rich input form that appears over our main user interface.</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/introduction-to-dialogs-in-xamarin-forms\"><strong>Introduction To Dialogs In Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/lachlanwgordon\">Lachlan Gordon</a></p>",
+          "description_markdown": "When developing mobile applications, dialogs are a foundational building block in our tool-belt. We can use dialogs to show a confirmation message, to indicate when the app is working or even display a rich input form that appears over our main user interface.\r\n\r\n[**Introduction To Dialogs In Xamarin.Forms**](https://www.mfractor.com/blogs/news/introduction-to-dialogs-in-xamarin-forms) by [Lachlan Gordon](https://twitter.com/lachlanwgordon)",
+          "embedded_links": [
+            {
+              "identifier": "Ve6y66Z",
+              "title": "**Introduction To Dialogs In Xamarin.Forms**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/introduction-to-dialogs-in-xamarin-forms"
+            },
+            {
+              "identifier": "WRpmxYG",
+              "title": "Lachlan Gordon",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/lachlanwgordon"
+            }
+          ]
+        },
+        {
+          "identifier": "zGJ37vh",
+          "type": "Link",
+          "title": "Easy Back Navigation in Shell",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-back-navigation/",
+          "description": "<p>Xamarin.Forms Shell introduced route based navigation to Xamarin.Forms applications to easily navigate through applications and also pass data through query properties. Turns out it's just as easy to go back and pass data as well.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-back-navigation/\"><strong>Xamarin.Forms Shell Quick Tip – Easy Back Navigation</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "Xamarin.Forms Shell introduced route based navigation to Xamarin.Forms applications to easily navigate through applications and also pass data through query properties. Turns out it's just as easy to go back and pass data as well.\r\n\r\n[**Xamarin.Forms Shell Quick Tip – Easy Back Navigation**](https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-back-navigation/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "pHdhoUk",
+              "title": "**Xamarin.Forms Shell Quick Tip – Easy Back Navigation**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-back-navigation/"
+            },
+            {
+              "identifier": "Wr7sZh2",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        },
+        {
+          "identifier": "5LHlDa4",
+          "type": "Link",
+          "title": "Converters in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/learning-about-converters-in-xamarin-forms/",
+          "description": "<p>If you are using a MVVM structure for your applications, then ValueConverters can be your best friend.</p>\n\n<p><a href=\"https://askxammy.com/learning-about-converters-in-xamarin-forms/\"><strong>Learning about Converters in Xamarin Forms</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "If you are using a MVVM structure for your applications, then ValueConverters can be your best friend.\r\n\r\n[**Learning about Converters in Xamarin Forms**](https://askxammy.com/learning-about-converters-in-xamarin-forms/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "imaMdKw",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            },
+            {
+              "identifier": "JVrdbvI",
+              "title": "**Learning about Converters in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/learning-about-converters-in-xamarin-forms/"
+            }
+          ]
+        },
+        {
+          "identifier": "5geHWz8",
+          "type": "Link",
+          "title": "Scrolling CollectionView from a ViewModel",
+          "url_domain": "msicc.net",
+          "url": "https://msicc.net/scroll-to-any-item-in-your-xamarin-forms-collectionview-from-your-viewmodel/",
+          "description": "<p>Marco shows you how you can easily extend CollectionView to implement ScrollTo functionality through DataBinding from a ViewModel.</p>\n\n<p><a href=\"https://msicc.net/scroll-to-any-item-in-your-xamarin-forms-collectionview-from-your-viewmodel/\"><strong>Scroll to any item in your Xamarin.Forms CollectionView from your ViewModel</strong></a> by <a href=\"https://twitter.com/msicc\">Marco Siccardi</a></p>",
+          "description_markdown": "Marco shows you how you can easily extend CollectionView to implement ScrollTo functionality through DataBinding from a ViewModel.\r\n\r\n[**Scroll to any item in your Xamarin.Forms CollectionView from your ViewModel**](https://msicc.net/scroll-to-any-item-in-your-xamarin-forms-collectionview-from-your-viewmodel/) by [Marco Siccardi](https://twitter.com/msicc)",
+          "embedded_links": [
+            {
+              "identifier": "PY6gZ8h",
+              "title": "Marco Siccardi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/msicc"
+            },
+            {
+              "identifier": "kDZEDU",
+              "title": "**Scroll to any item in your Xamarin.Forms CollectionView from your ViewModel**",
+              "url_domain": "msicc.net",
+              "url": "https://msicc.net/scroll-to-any-item-in-your-xamarin-forms-collectionview-from-your-viewmodel/"
+            }
+          ]
+        },
+        {
+          "identifier": "O0ixRyp",
+          "type": "Link",
+          "title": "Enable Default Zooming in Webview",
+          "url_domain": "blogspot.com",
+          "url": "https://xamarinmonkeys.blogspot.com/2020/06/xamarinforms-enable-default-zooming-in.html",
+          "description": "<p>Learn how to enable webview default zooming in Xamarin.Forms on iOS and Android using a custom renderer.</p>\n\n<p><a href=\"https://xamarinmonkeys.blogspot.com/2020/06/xamarinforms-enable-default-zooming-in.html\"><strong>Xamarin.Forms - Enable Default Zooming in Webview</strong></a> by <a href=\"https://www.blogger.com/profile/12290645674821205145\">Delpin Susai Raj</a></p>",
+          "description_markdown": "Learn how to enable webview default zooming in Xamarin.Forms on iOS and Android using a custom renderer.\r\n\r\n[**Xamarin.Forms - Enable Default Zooming in Webview**](https://xamarinmonkeys.blogspot.com/2020/06/xamarinforms-enable-default-zooming-in.html) by [Delpin Susai Raj](https://www.blogger.com/profile/12290645674821205145)",
+          "embedded_links": [
+            {
+              "identifier": "2Rnq9pJ",
+              "title": "**Xamarin.Forms - Enable Default Zooming in Webview**",
+              "url_domain": "blogspot.com",
+              "url": "https://xamarinmonkeys.blogspot.com/2020/06/xamarinforms-enable-default-zooming-in.html"
+            },
+            {
+              "identifier": "zwQq21R",
+              "title": "Delpin Susai Raj",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/12290645674821205145"
+            }
+          ]
+        },
+        {
+          "identifier": "Fs1HisS",
+          "type": "Link",
+          "title": "7 Things to Enjoy in MAUI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/7-things-to-enjoy-maui-and-dotnet-maui",
+          "description": "<p>.NET Multi-platform App UI (MAUI) is the next evolution of cross-platform UI solution for .NET developers. Just like the island, MAUI will have plenty to offer for developers. Let's explore the promise of .NET MAUI .</p>\n\n<p><a href=\"https://www.telerik.com/blogs/7-things-to-enjoy-maui-and-dotnet-maui\"><strong>7 Things to Enjoy in MAUI</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": ".NET Multi-platform App UI (MAUI) is the next evolution of cross-platform UI solution for .NET developers. Just like the island, MAUI will have plenty to offer for developers. Let's explore the promise of .NET MAUI . \r\n\r\n[**7 Things to Enjoy in MAUI**](https://www.telerik.com/blogs/7-things-to-enjoy-maui-and-dotnet-maui) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)",
+          "embedded_links": [
+            {
+              "identifier": "Pdb7AUo",
+              "title": "**7 Things to Enjoy in MAUI**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/7-things-to-enjoy-maui-and-dotnet-maui"
+            },
+            {
+              "identifier": "nmt1UiM",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        },
+        {
+          "identifier": "3TmOtGR",
+          "type": "Link",
+          "title": "Create a Google Chromecast app with Xamarin.Forms in under 10 minutes",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/google-chromecast-app/",
+          "description": "<p>Gerald slaps together a quick app to cast a stream to a Chromecast device using Xamarin.Forms and a little nuget magic.</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/xamarin-forms-xamarin/google-chromecast-app/\"><strong>Create a Google Chromecast app with Xamarin.Forms in under 10 minutes</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald</a></p>",
+          "description_markdown": "Gerald slaps together a quick app to cast a stream to a Chromecast device using Xamarin.Forms and a little nuget magic. \r\n\r\n[**Create a Google Chromecast app with Xamarin.Forms in under 10 minutes**](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/google-chromecast-app/) by [Gerald](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "kvLSDCB",
+              "title": "Gerald",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            },
+            {
+              "identifier": "cB5CvX1",
+              "title": "**Create a Google Chromecast app with Xamarin.Forms in under 10 minutes**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/google-chromecast-app/"
+            }
+          ]
+        },
+        {
+          "identifier": "YPqOzDn",
+          "type": "Link",
+          "title": "5 useful Xamarin Forms Snippets",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/5-useful-xamarin-forms-snippets/",
+          "description": "<p>While building Xamarin Forms applications there are several things which you find yourself repeating again and again. As part of Xamarin Snippet month, Damien shares 5 useful code snippets.</p>\n\n<p><a href=\"https://doumer.me/5-useful-xamarin-forms-snippets/\"><strong>5 useful Xamarin Forms Snippets</strong></a> by <a href=\"https://twitter.com/Damien_Doumer\">Damien Doumer</a></p>",
+          "description_markdown": "While building Xamarin Forms applications there are several things which you find yourself repeating again and again. As part of Xamarin Snippet month, Damien shares 5 useful code snippets.\r\n\r\n[**5 useful Xamarin Forms Snippets**](https://doumer.me/5-useful-xamarin-forms-snippets/) by [Damien Doumer](https://twitter.com/Damien_Doumer)",
+          "embedded_links": [
+            {
+              "identifier": "LK6IOEO",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Damien_Doumer"
+            },
+            {
+              "identifier": "R59oowB",
+              "title": "**5 useful Xamarin Forms Snippets**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/5-useful-xamarin-forms-snippets/"
+            }
+          ]
+        },
+        {
+          "identifier": "rlYkJAG",
+          "type": "Link",
+          "title": "Replicating Schedule UI in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-schedule-ui-in-xamarin-forms/",
+          "description": "<p>Leomaris shows you how to reproduce a nice looking timeline interface design.</p>\n\n<p><a href=\"https://askxammy.com/replicating-schedule-ui-in-xamarin-forms/\"><strong>Replicating Schedule UI in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris shows you how to reproduce a nice looking timeline interface design.\r\n\r\n[**Replicating Schedule UI in Xamarin Forms**](https://askxammy.com/replicating-schedule-ui-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "nByLTS8",
+              "title": "**Replicating Schedule UI in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-schedule-ui-in-xamarin-forms/"
+            },
+            {
+              "identifier": "4SiYFk3",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "JR2d6mj",
+          "type": "Link",
+          "title": "Fancy Flyout Menu",
+          "url_domain": "andrewhoefling.com",
+          "url": "https://www.andrewhoefling.com/Blog/post/xamarin-forms-fancy-flyout-menu",
+          "description": "<p>Andrew walks through how to create an animated flyout menu with a difference.</p>\n\n<p><a href=\"https://www.andrewhoefling.com/Blog/post/xamarin-forms-fancy-flyout-menu\"><strong>Xamarin.Forms Fancy Flyout Menu</strong></a> by <a href=\"https://twitter.com/andrew_hoefling\">Andrew Hoefling</a></p>",
+          "description_markdown": "Andrew walks through how to create an animated flyout menu with a difference.\r\n\r\n[**Xamarin.Forms Fancy Flyout Menu**](https://www.andrewhoefling.com/Blog/post/xamarin-forms-fancy-flyout-menu) by [Andrew Hoefling](https://twitter.com/andrew_hoefling)",
+          "embedded_links": [
+            {
+              "identifier": "JkRrFQb",
+              "title": "**Xamarin.Forms Fancy Flyout Menu**",
+              "url_domain": "andrewhoefling.com",
+              "url": "https://www.andrewhoefling.com/Blog/post/xamarin-forms-fancy-flyout-menu"
+            },
+            {
+              "identifier": "ki9sxiR",
+              "title": "Andrew Hoefling",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andrew_hoefling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "azure",
+      "name": "AZURE",
+      "items": [
+        {
+          "identifier": "Wi98E5O",
+          "type": "Link",
+          "title": "Building a Notifications Client",
+          "url_domain": "galasoft.ch",
+          "url": "https://galasoft.ch/posts/2020/06/notifications-client-step-0-specification",
+          "description": "<p>Laurent is building a cross-platform Notifications Client not tied to a specific system or application, but serves as a receiver and repository for all kinds of notifications</p>\n\n<p><a href=\"https://galasoft.ch/posts/2020/06/notifications-client-step-0-specification\"><strong>Sponsors</strong></a> by <a href=\"https://twitter.com/LBugnion\">Laurent Bugnion</a></p>",
+          "description_markdown": "Laurent is building a cross-platform Notifications Client not tied to a specific system or application, but serves as a receiver and repository for all kinds of notifications\r\n\r\n[**Sponsors**](https://galasoft.ch/posts/2020/06/notifications-client-step-0-specification) by [Laurent Bugnion](https://twitter.com/LBugnion)",
+          "embedded_links": [
+            {
+              "identifier": "Fq2iYXC",
+              "title": "**Sponsors**",
+              "url_domain": "galasoft.ch",
+              "url": "https://galasoft.ch/posts/2020/06/notifications-client-step-0-specification"
+            },
+            {
+              "identifier": "RbwR9Rl",
+              "title": "Laurent Bugnion",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/LBugnion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "XAatbbN",
+          "type": "Link",
+          "title": "Xamarin Podcast - Build 2020 Recap",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-podcast-build-2020-recap/",
+          "description": "<p>Keeping up with the latest in .NET, C#, Xamarin, and Azure is easier than ever. Co-hosts Matt Soucoup and James Montemagno cover a range of topics relevant to Xamarin developers from designing mobile apps to identity management.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-podcast-build-2020-recap/\"><strong>Xamarin Podcast: //Build 2020 Recap</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/matt-soucoup/\">Matt Soucoup</a></p>",
+          "description_markdown": "Keeping up with the latest in .NET, C#, Xamarin, and Azure is easier than ever. Co-hosts Matt Soucoup and James Montemagno cover a range of topics relevant to Xamarin developers from designing mobile apps to identity management.\r\n\r\n[**Xamarin Podcast: //Build 2020 Recap**](https://devblogs.microsoft.com/xamarin/xamarin-podcast-build-2020-recap/) by [Matt Soucoup](https://devblogs.microsoft.com/xamarin/author/matt-soucoup/)",
+          "embedded_links": [
+            {
+              "identifier": "MxiXsqj",
+              "title": "Matt Soucoup",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/matt-soucoup/"
+            },
+            {
+              "identifier": "j7w3L7P",
+              "title": "**Xamarin Podcast: //Build 2020 Recap**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-podcast-build-2020-recap/"
+            }
+          ]
+        },
+        {
+          "identifier": "aiEfunf",
+          "type": "Link",
+          "title": "Merge Conflict WWDC20 Special",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/special-edition-wwdc20",
+          "description": "<p>We are off to WWDC 2020! Or... watching the keynote from our house in quarantine. We break down all of the latest apple announcements from WWDC including macOS 11, iOS 14, tvOS 14, and watchOS 7!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/special-edition-wwdc20\"><strong>207.5: WWDC20 Recap</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "We are off to WWDC 2020! Or... watching the keynote from our house in quarantine. We break down all of the latest apple announcements from WWDC including macOS 11, iOS 14, tvOS 14, and watchOS 7!\r\n\r\n[**207.5: WWDC20 Recap**](https://www.mergeconflict.fm/special-edition-wwdc20) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "q9SWGPM",
+              "title": "**207.5: WWDC20 Recap**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/special-edition-wwdc20"
+            },
+            {
+              "identifier": "NkedHPI",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "bIqiqFl",
+          "type": "Link",
+          "title": "Merge Conflict 207 - C# Source Generators",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/207",
+          "description": "<p>Here comes our first podcast in our new ongoing .NET 5 series, where we talk about awesome .NET 5 features. This time... source generators! What are they and why should you care.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/207\"><strong>207: C# Source Generators</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Here comes our first podcast in our new ongoing .NET 5 series, where we talk about awesome .NET 5 features. This time... source generators! What are they and why should you care.\r\n\r\n[**207: C# Source Generators**](https://www.mergeconflict.fm/207) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "KqHaJxl",
+              "title": "**207: C# Source Generators**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/207"
+            },
+            {
+              "identifier": "VkAq6cI",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "5rzPAOO",
+          "type": "Link",
+          "title": "F# Fabulous - Beyond MVU Basics",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/FSharp-Fabulous-Beyond-MVU-Basics",
+          "description": "<p>This week, James is joined once again with designer and architect of F# Don Syme and Fabulous maintainer Timothé Larivière. They are back to talk more in-depth about building Xamarin mobile apps with F# and Fabulous.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/FSharp-Fabulous-Beyond-MVU-Basics\"><strong>F# Fabulous - Beyond MVU Basics | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined once again with designer and architect of F# Don Syme and Fabulous maintainer Timothé Larivière. They are back to talk more in-depth about building Xamarin mobile apps with F# and Fabulous.\r\n\r\n[**F# Fabulous - Beyond MVU Basics | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/FSharp-Fabulous-Beyond-MVU-Basics) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "u7ptRrR",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            },
+            {
+              "identifier": "7fCxC56",
+              "title": "**F# Fabulous - Beyond MVU Basics | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/FSharp-Fabulous-Beyond-MVU-Basics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "sMxpmNX",
+          "type": "Link",
+          "title": "Xamarin.Forms Projects – Second Edition",
+          "url_domain": "danielhindrikes.se",
+          "url": "https://danielhindrikes.se/index.php/2020/06/20/xamarin-forms-projects-second-edition/",
+          "description": "<p>The second edition of Xamarin.Forms Projects is now published.  An example-driven guide to help you build native cross-platform mobile apps using Xamarin, .NET Core 3, and Visual Studio 2019.</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2020/06/20/xamarin-forms-projects-second-edition/\"><strong>Xamarin.Forms Projects – Second Edition</strong></a> by <a href=\"https://danielhindrikes.se/index.php/author/dhindrik/\">dhindrik</a></p>",
+          "description_markdown": "The second edition of Xamarin.Forms Projects is now published.  An example-driven guide to help you build native cross-platform mobile apps using Xamarin, .NET Core 3, and Visual Studio 2019.\r\n\r\n[**Xamarin.Forms Projects – Second Edition**](https://danielhindrikes.se/index.php/2020/06/20/xamarin-forms-projects-second-edition/) by [dhindrik](https://danielhindrikes.se/index.php/author/dhindrik/)",
+          "embedded_links": [
+            {
+              "identifier": "VJQpHlP",
+              "title": "**Xamarin.Forms Projects – Second Edition**",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/2020/06/20/xamarin-forms-projects-second-edition/"
+            },
+            {
+              "identifier": "JkIM1LC",
+              "title": "dhindrik",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/author/dhindrik/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,7 +11,7 @@
       "Url": "https://developer.apple.com/news/?id=mb3c4r4r",
       "Description": "Intelligence is a core part of building a great modern app. App extensions, Siri suggestions, voice, widgets, app clips — Apple has announced all these features to help make everyday tasks easier for people who use their platforms.",
       "EditionId": "265",
-      "Author": "https://developer.apple.com/",
+      "Author": "Apple Developer",
       "Id": "265-1",
       "Category": "DESIGN"
     },
@@ -20,7 +20,7 @@
       "Url": "https://blog.ndepend.com/10-visual-studio-solution-ninja-code-edition-tips/",
       "Description": "Even for developers who are using Visual Studio for years, you can still probably find some productivity tips you didn't know about.",
       "EditionId": "265",
-      "Author": "https://blog.ndepend.com/author/psmacchia/",
+      "Author": "Patrick Smacchia",
       "Id": "265-2",
       "Category": "TOOLS"
     },
@@ -29,7 +29,7 @@
       "Url": "https://oficinadologan.wordpress.com/2020/06/24/how-code-snippets-in-vs-for-mac-can-help-you-create-xamarin-forms-apps/",
       "Description": "Learn how to create and use code snippets on VS for Mac. This is also part of Louis Matos’ Xamarin Month for which the theme is code snippets.",
       "EditionId": "265",
-      "Author": "https://oficinadologan.wordpress.com/author/ricardoprestes/",
+      "Author": "Ricardo Prestes",
       "Id": "265-3",
       "Category": "TOOLS"
     },
@@ -38,7 +38,7 @@
       "Url": "https://www.theverge.com/2020/6/22/21291695/apple-ios-14-updates-home-screen-redesign-features-release-date-wwdc-2020",
       "Description": "Apple has announced iOS 14 onstage at WWDC 2020, giving the first (official) look at the latest version of its software for the iPhone, and it’s bringing the biggest change to the iOS home screen in years: widgets.",
       "EditionId": "265",
-      "Author": "https://www.theverge.com/authors/chaim-gartenberg",
+      "Author": "Chaim Gartenberg",
       "Id": "265-4",
       "Category": "IOS"
     },
@@ -47,7 +47,7 @@
       "Url": "https://engineering.monstar-lab.com/2020/06/23/A-first-look-at-Apples-new-Augmented-Reality-features",
       "Description": "Apple had some announcements around new Augmented Reality features.  Get the latest information and links to sessions in this blog post.",
       "EditionId": "265",
-      "Author": "https://twitter.com/roxanajula",
+      "Author": "Roxana Jula",
       "Id": "265-5",
       "Category": "IOS"
     },
@@ -56,7 +56,7 @@
       "Url": "https://xamaringuyshow.com/2020/06/21/xamarin-forms-bottom-slider/",
       "Description": "Implement Sliders inside our Xamarin Forms Application with out using any plugin.",
       "EditionId": "265",
-      "Author": "https://xamaringuyshow.com/author/samirgc/",
+      "Author": "Samirgc",
       "Id": "265-6",
       "Category": "XAMARIN FORMS"
     },
@@ -65,7 +65,7 @@
       "Url": "https://www.mfractor.com/blogs/news/introduction-to-dialogs-in-xamarin-forms",
       "Description": "When developing mobile applications, dialogs are a foundational building block in our tool-belt. We can use dialogs to show a confirmation message, to indicate when the app is working or even display a rich input form that appears over our main user interface.",
       "EditionId": "265",
-      "Author": "https://twitter.com/lachlanwgordon",
+      "Author": "Lachlan Gordon",
       "Id": "265-7",
       "Category": "XAMARIN FORMS"
     },
@@ -74,7 +74,7 @@
       "Url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-back-navigation/",
       "Description": "Xamarin.Forms Shell introduced route based navigation to Xamarin.Forms applications to easily navigate through applications and also pass data through query properties. Turns out it's just as easy to go back and pass data as well.",
       "EditionId": "265",
-      "Author": "https://channel9.msdn.com/niners/jamesmontemagno",
+      "Author": "James Montemagno",
       "Id": "265-8",
       "Category": "XAMARIN FORMS"
     },
@@ -83,7 +83,7 @@
       "Url": "https://askxammy.com/learning-about-converters-in-xamarin-forms/",
       "Description": "If you are using a MVVM structure for your applications, then ValueConverters can be your best friend.",
       "EditionId": "265",
-      "Author": "https://twitter.com/leomarisreyes11",
+      "Author": "Leomaris Reyes",
       "Id": "265-9",
       "Category": "XAMARIN FORMS"
     },
@@ -92,7 +92,7 @@
       "Url": "https://msicc.net/scroll-to-any-item-in-your-xamarin-forms-collectionview-from-your-viewmodel/",
       "Description": "Marco shows you how you can easily extend CollectionView to implement ScrollTo functionality through DataBinding from a ViewModel.",
       "EditionId": "265",
-      "Author": "https://twitter.com/msicc",
+      "Author": "Marco Siccardi",
       "Id": "265-10",
       "Category": "XAMARIN FORMS"
     },
@@ -101,7 +101,7 @@
       "Url": "https://xamarinmonkeys.blogspot.com/2020/06/xamarinforms-enable-default-zooming-in.html",
       "Description": "Learn how to enable webview default zooming in Xamarin.Forms on iOS and Android using a custom renderer.",
       "EditionId": "265",
-      "Author": "https://www.blogger.com/profile/12290645674821205145",
+      "Author": "Delpin Susai Raj",
       "Id": "265-11",
       "Category": "XAMARIN FORMS"
     },
@@ -110,7 +110,7 @@
       "Url": "https://www.telerik.com/blogs/7-things-to-enjoy-maui-and-dotnet-maui",
       "Description": ".NET Multi-platform App UI (MAUI) is the next evolution of cross-platform UI solution for .NET developers. Just like the island, MAUI will have plenty to offer for developers. Let's explore the promise of .NET MAUI .",
       "EditionId": "265",
-      "Author": "https://www.telerik.com/blogs/author/sam-basu",
+      "Author": "Sam Basu",
       "Id": "265-12",
       "Category": "XAMARIN FORMS"
     },
@@ -119,7 +119,7 @@
       "Url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/google-chromecast-app/",
       "Description": "Gerald slaps together a quick app to cast a stream to a Chromecast device using Xamarin.Forms and a little nuget magic.",
       "EditionId": "265",
-      "Author": "https://blog.verslu.is/author/admin/",
+      "Author": "Gerald Versluis",
       "Id": "265-13",
       "Category": "XAMARIN FORMS"
     },
@@ -128,7 +128,7 @@
       "Url": "https://doumer.me/5-useful-xamarin-forms-snippets/",
       "Description": "While building Xamarin Forms applications there are several things which you find yourself repeating again and again. As part of Xamarin Snippet month, Damien shares 5 useful code snippets.",
       "EditionId": "265",
-      "Author": "https://twitter.com/damien_doumer",
+      "Author": "Damien Doumer",
       "Id": "265-14",
       "Category": "XAMARIN FORMS"
     },
@@ -137,7 +137,7 @@
       "Url": "https://askxammy.com/replicating-schedule-ui-in-xamarin-forms/",
       "Description": "Leomaris shows you how to reproduce a nice looking timeline interface design.",
       "EditionId": "265",
-      "Author": "https://twitter.com/leomarisreyes11",
+      "Author": "Leomaris Reyes",
       "Id": "265-15",
       "Category": "XAMARIN FORMS"
     },
@@ -146,7 +146,7 @@
       "Url": "https://www.andrewhoefling.com/Blog/post/xamarin-forms-fancy-flyout-menu",
       "Description": "Andrew walks through how to create an animated flyout menu with a difference.",
       "EditionId": "265",
-      "Author": "https://twitter.com/andrew_hoefling",
+      "Author": "Andrew Hoefling",
       "Id": "265-16",
       "Category": "XAMARIN FORMS"
     },
@@ -155,7 +155,7 @@
       "Url": "https://galasoft.ch/posts/2020/06/notifications-client-step-0-specification",
       "Description": "Laurent is building a cross-platform Notifications Client not tied to a specific system or application, but serves as a receiver and repository for all kinds of notifications",
       "EditionId": "265",
-      "Author": "https://twitter.com/lbugnion",
+      "Author": "Laurent Bugnion",
       "Id": "265-17",
       "Category": "AZURE"
     },
@@ -164,7 +164,7 @@
       "Url": "https://devblogs.microsoft.com/xamarin/xamarin-podcast-build-2020-recap/",
       "Description": "Keeping up with the latest in .NET, C#, Xamarin, and Azure is easier than ever. Co-hosts Matt Soucoup and James Montemagno cover a range of topics relevant to Xamarin developers from designing mobile apps to identity management.",
       "EditionId": "265",
-      "Author": "https://devblogs.microsoft.com/xamarin/author/matt-soucoup/",
+      "Author": "Matt Soucoup",
       "Id": "265-18",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -173,7 +173,7 @@
       "Url": "https://www.mergeconflict.fm/special-edition-wwdc20",
       "Description": "We are off to WWDC 2020! Or... watching the keynote from our house in quarantine. We break down all of the latest apple announcements from WWDC including macOS 11, iOS 14, tvOS 14, and watchOS 7!",
       "EditionId": "265",
-      "Author": "https://www.mergeconflict.fm/",
+      "Author": "Merge Conflict",
       "Id": "265-19",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -182,7 +182,7 @@
       "Url": "https://www.mergeconflict.fm/207",
       "Description": "Here comes our first podcast in our new ongoing .NET 5 series, where we talk about awesome .NET 5 features. This time... source generators! What are they and why should you care.",
       "EditionId": "265",
-      "Author": "https://www.mergeconflict.fm/",
+      "Author": "Merge Conflict",
       "Id": "265-20",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -191,7 +191,7 @@
       "Url": "https://channel9.msdn.com/Shows/XamarinShow/FSharp-Fabulous-Beyond-MVU-Basics",
       "Description": "This week, James is joined once again with designer and architect of F# Don Syme and Fabulous maintainer Timothé Larivière. They are back to talk more in-depth about building Xamarin mobile apps with F# and Fabulous.",
       "EditionId": "265",
-      "Author": "https://channel9.msdn.com/niners/jamesmontemagno",
+      "Author": "James Montemagno",
       "Id": "265-21",
       "Category": "PODCASTS & VIDEOS"
     },
@@ -200,7 +200,7 @@
       "Url": "https://danielhindrikes.se/index.php/2020/06/20/xamarin-forms-projects-second-edition/",
       "Description": "The second edition of Xamarin.Forms Projects is now published.  An example-driven guide to help you build native cross-platform mobile apps using Xamarin, .NET Core 3, and Visual Studio 2019.",
       "EditionId": "265",
-      "Author": "https://twitter.com/hindrikes",
+      "Author": "Daniel Hindrikes",
       "Id": "265-22",
       "Category": "RELEASES"
     }
