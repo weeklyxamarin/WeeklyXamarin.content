@@ -1,0 +1,135 @@
+{
+  "Id": "249",
+  "Name": "Issue 249",
+  "UpdatedTimeStamp": "2020-03-06T08:38:28Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hey all, Happy Friday! Welcome to March! Another great week with lots of great content! Thanks as always to all our contributors <3 Hope you have a great weekend and enjoy the newsletter! Luce 🧡",
+  "PublishDate": "2020-03-06T08:38:23Z",
+  "Curators": "Luce Carter",
+  "Articles": [
+    {
+      "Title": "Xamarin and .NET Developer Events in March",
+      "Url": "https://devblogs.microsoft.com/xamarin/march-xamarin-dotnet-events/",
+      "Description": "How is it already March?! Well time flying aisde, a brand new month means a brand new list of events for Xamarin and .NET developers around the world!",
+      "EditionId": "249",
+      "Id": "249-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Introducing GitTrends: GitHub Insights",
+      "Url": "https://codetraveler.io/2020/03/02/introducing-gittrends/",
+      "Description": "Do you contribute to open source projects on GitHub? Maybe you maintain your own? Brandon Minnick has created an amazing app that allows you to keep track of which repo's are still active and better yet? Even the app code is open source!!",
+      "EditionId": "249",
+      "Author": "Brandon Minnick",
+      "Id": "249-2",
+      "Category": "APP OF THE WEEK"
+    },
+    {
+      "Title": "Playing around with neumorphism in Xamarin.Forms",
+      "Url": "https://www.thewissen.io/playing-around-with-neumorphism-in-xamarin-forms/",
+      "Description": "Neumorphism (or neuomorphism) might be a word you’ve never heard before. If that’s the case, then this is the blog post for you! Steven does a great job of explaining what it is, how you might apply it and more importantly, reasons why you might not want to!",
+      "EditionId": "249",
+      "Author": "Steven Thewissen",
+      "Id": "249-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Add nightly builds to your Xamarin applications using Azure DevOps",
+      "Url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/03/05/add-nightly-builds-xamarin-using-azure-devops-en.html",
+      "Description": "The phrase \"Little and often\" definitely applies to things like DevOps. The longer you leave it, the bigger the task of merging/building. Damien shows you how to set up nightly builds so you can ensure regular builds of your app without affecting anyone on the team (because hopefully they are not working!)",
+      "EditionId": "249",
+      "Author": "Damien Aicheh",
+      "Id": "249-4",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "MVU For Native Xamarin Apps",
+      "Url": "https://thomasbandt.com/mvu-for-native-xamarin-apps",
+      "Description": "While Fabulous provides a great way to build Xamarin.Forms apps with F# and The Elm Architecture, there has been no such opportunity for Xamarin.iOS and Xamarin.Android. Yet. Here it comes.",
+      "EditionId": "249",
+      "Author": "Thomas Bandt",
+      "Id": "249-5",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Binding iOS Swift Libraries with Xamarin!",
+      "Url": "https://devblogs.microsoft.com/xamarin/binding-ios-swift-libraries/",
+      "Description": "Binding of libraries is very important when it comes to making non-Xamarin libraries available to use as cross-platform components. It has been documented for many years now how to achieve this with Objective-C for your iOS apps. But now Swift is the standard for native iOS development, how do you achieve the same binding goodness?",
+      "EditionId": "249",
+      "Author": "Alexey Strakh",
+      "Id": "249-6",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Let’s replicate a Travel App in Xamarin Forms",
+      "Url": "https://askxammy.com/lets-replicate-a-travel-app-in-xamarin-forms/",
+      "Description": "Here at WeeklyXamarin, we love UI challenges. This time, Leomaris is back with a Travel App!",
+      "EditionId": "249",
+      "Author": "Leomaris Reyes",
+      "Id": "249-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Braintree integration in Xamarin Forms (Part.3 ) ",
+      "Url": "https://www.xamboy.com/2020/02/28/braintree-integration-in-xamarin-forms-part-3/",
+      "Description": "This is Part 3 in a series from Rendy aka XamBoy. In this post you will learn how to take Paypal payments from your app. This is definitely useful as so many users (myself included) will choose Paypal over any other options for paying, just for the security and peace of mind.",
+      "EditionId": "249",
+      "Author": "Rendy Del Rosario",
+      "Id": "249-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Using Custom Renderers In Xamarin.Forms",
+      "Url": "https://www.mfractor.com/blogs/news/using-custom-renderers-in-xamarin-forms",
+      "Description": "Creating a compelling user interface is a must when it comes to mobile development. What works for iOS may not be acceptable in Android and vice versa. In order to accommodate the various platform expectations, we must be able to customize and create controls as needed. Renderers allows us this flexibility.",
+      "EditionId": "249",
+      "Author": "Les Brown",
+      "Id": "249-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Bindable Layout Support Now Built-in With Xamarin.Forms",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-bindable-layout/",
+      "Description": "When you need to display a lot of data Xamarin.Forms has you covered with awesome controls such as ListView, CollectionView, or CarouselView. These controls are great as they have built in support for scrolling, advanced layouts, and pull-to-refresh. Sometimes, you don’t need the full power of these controls and just want to repeat a control bound to a list of data. A great example is repeating categories for a conference session, profile photos, or icons. This can easily be accomplished by utilizing Bindable Layouts in Xamarin.Forms.",
+      "EditionId": "249",
+      "Author": "James Montemagno",
+      "Id": "249-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Sending push notifications to your Xamarin app from WordPress with Azure, Part I",
+      "Url": "https://msicc.net/sending-push-notifications-to-your-xamarin-app-from-wordpress-with-azure-part-i/",
+      "Description": "It is no secret that push notifications help to keep your users engaged. There are a bunch of options out there if you have a WordPress blog. This is the first post of a new series that shows you how to send them from a self-hosted WordPress installation to your Xamarin mobile app via Azure.",
+      "EditionId": "249",
+      "Author": "Marco Siccardi",
+      "Id": "249-11",
+      "Category": "AZURE"
+    },
+    {
+      "Title": "Merge Conflict: 191: An Odious Prime Deficient Number",
+      "Url": "https://www.mergeconflict.fm/191",
+      "Description": "After 190 being used to celebrate Frank's amazing new app AppStat, it is lightning rounds this week on Merge Conflict!!! YAML, Git GUI, Blazor, AndroidX, .NET 5, and more!",
+      "EditionId": "249",
+      "Author": "Merge Conflict",
+      "Id": "249-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Partly Cloudy Episode 9 Recap: Tweak It (Customizing the UI)",
+      "Url": "https://codemilltech.com/partly-cloudy-episode-9-recap-tweak-it/",
+      "Description": "Partly Cloudy is a great show from Matthew Soucoup where you learn how to build a cloud-connected Xamarin app from start to finish! In Episode 9, you begin to customise the UI to make it look even more awesome and polished than before!",
+      "EditionId": "249",
+      "Author": "Matthew Soucoup",
+      "Id": "249-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin: .NET Community Standup - March 5th 2020 - Dual Screen Fun with Shane!",
+      "Url": "https://www.youtube.com/watch?v=AGetbFTzRJE",
+      "Description": "Join the Mobile .NET Teams for our community standup covering great community contributions for Mobile .NET, Xamarin, Xamarin.Forms, Components, and more. This week , Shane talks Dual Screen fun! [**Xamarin: .NET Community Standup - March 5th 2020 - Dual Screen Fun with Shane!**](https://www.youtube.com/watch?v=AGetbFTzRJE)",
+      "EditionId": "249",
+      "Id": "249-14",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

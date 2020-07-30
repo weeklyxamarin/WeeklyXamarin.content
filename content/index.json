@@ -180,6 +180,15 @@
       "PublishDate": "2020-03-13T14:50:01Z",
       "Curators": "",
       "Articles": []
+    },
+    {
+      "Id": "249",
+      "Name": "Issue 249",
+      "UpdatedTimeStamp": "2020-03-06T08:38:28Z",
+      "Summary": "No Edition Summary",
+      "PublishDate": "2020-03-06T08:38:23Z",
+      "Curators": "",
+      "Articles": []
     }
   ],
   "FetchedDate": "0001-01-01T00:00:00"

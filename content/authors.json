@@ -649,6 +649,16 @@
       ]
     },
     {
+      "Name": "Les Brown",
+      "Id": "https://www.linkedin.com/in/les-brown-93885424/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.linkedin.com/in/les-brown-93885424/"
+        }
+      ]
+    },
+    {
       "Name": "Logesh Palani",
       "Id": "https://twitter.com/logeshpalani98",
       "Aliases": [
