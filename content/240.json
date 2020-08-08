@@ -1,0 +1,116 @@
+{
+  "Id": "240",
+  "Name": "Issue 240",
+  "UpdatedTimeStamp": "2020-01-03T07:47:02Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "A big welcome to the New Year!  We hope everyone had a magical holiday with family and friends. We here at Weekly Xamarin are looking forward to a fantastic year ahead and hope the same for each and every one of our readers. Thanks for subscribing to the newsletter and enjoy your weekend. ❤ Kym",
+  "PublishDate": "2020-01-03T07:46:57Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "5 Things To Stop Doing In Mobile App Design",
+      "Url": "https://www.smashingmagazine.com/2019/12/things-stop-doing-mobile-app-design/",
+      "Description": "Have you ever looked at the design techniques and elements you use to build mobile apps and evaluated whether or not they’re still useful or relevant?  [**5 Things To Stop Doing In Mobile App Design**](https://www.smashingmagazine.com/2019/12/things-stop-doing-mobile-app-design/)",
+      "EditionId": "240",
+      "Id": "240-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Repacking and Resigning an Android APK to Target Different Environments",
+      "Url": "https://nicksnettravels.builttoroam.com/repack-android-app/",
+      "Description": "Nick continues his discussion of targetting different environments for builds. In this post, he manually walks through what this process would look like for an Android APK.",
+      "EditionId": "240",
+      "Author": "Nick Randolph",
+      "Id": "240-2",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Project System Tools for Visual Studio for Mac",
+      "Url": "https://lastexitcode.com/blog/2019/12/31/ProjectSystemToolsForVisualStudioMac",
+      "Description": "The Project System Tools extension provides MSBuild design-time and build logging for Visual Studio for Mac. This is based on the Project System Tools available for Visual Studio on Windows and also re-uses code from this extension.",
+      "EditionId": "240",
+      "Id": "240-3",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "The Seven (Actually 10) Cardinal Sins of Android Development",
+      "Url": "https://proandroiddev.com/the-seven-actually-10-cardinal-sins-of-android-development-491d2f64c8e0",
+      "Description": "Are you making these common mistakes that can potentially break your app?",
+      "EditionId": "240",
+      "Author": "Gabor Varadi",
+      "Id": "240-4",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Publish smaller apps with the Android App Bundle",
+      "Url": "https://devblogs.microsoft.com/xamarin/android-app-bundle/",
+      "Description": "The Android App Bundle (.aab) is a new upload format that includes all of your app’s compiled code and resources, but defers APK generation and signing to Google Play at install time.",
+      "EditionId": "240",
+      "Author": "Jon Douglas",
+      "Id": "240-5",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Providing Free Trials in the App Store?",
+      "Url": "https://cutecoder.org/business/free-trial-app-store/",
+      "Description": "Stop making “lite editions” for new app releases and provide your customers with a full-featured time-limited trial instead.",
+      "EditionId": "240",
+      "Author": "Sasmito Adibowo",
+      "Id": "240-6",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Understanding Margin, Padding and Translation",
+      "Url": "https://askxammy.com/understanding-the-differences-between-margin-padding-and-translation-properties/",
+      "Description": "Leomaris looks at the Padding and Margin properties in Xamarin.Forms, which in many ways are considered “equivalent” properties, but it is important to understand what the difference is and the result of applying one property or another.",
+      "EditionId": "240",
+      "Author": "Leomaris Reyes",
+      "Id": "240-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Gradually moving from Xamarin Native to Xamarin.Forms",
+      "Url": "https://www.andreasnesheim.no/gradually-moving-from-xamarin-native-to-xamarin-forms-with-forms-embedding/",
+      "Description": "Forms embedding allows you to bring pages written in Xamarin.Forms into Xamarin native projects.  This has been around for quite a while and is just one of the many fantastic ways you can architect a Xamarin application.  In this Andreas shares his real-world experience using it.",
+      "EditionId": "240",
+      "Author": "Andreas Nesheim",
+      "Id": "240-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Cruise Mobile UI Challenge",
+      "Url": "https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-1/",
+      "Description": "Andreas has been working on a fun UI Challenge with Xamarin.Forms.  Check it out!",
+      "EditionId": "240",
+      "Author": "Andreas Nesheim",
+      "Id": "240-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "DevTalk 27 - Ooui. With Frank Krueger",
+      "Url": "https://kerry.lothrop.de/devtalk-27/",
+      "Description": "On this episode of DevTalk Kerry speaks to Frank Krueger about developing cross-platform apps and websites using Ooui.",
+      "EditionId": "240",
+      "Author": "Kerry Lothrop",
+      "Id": "240-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 182: Introduction to Electrical Engineering",
+      "Url": "https://www.mergeconflict.fm/182",
+      "Description": "To close out 2019 we go back to the basics with a little introduction to IoT, which means an introduction to electrical engineering. James is guided through the journey of understanding out all of this cool fun tech works by Frank, the electrical engineer himself. [**182: Introduction to Electrical Engineering**](https://www.mergeconflict.fm/182)",
+      "EditionId": "240",
+      "Id": "240-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Best Practices - Memory Management & Profiling | The Xamarin Show",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-Memory-Management--Profiling--The-Xamarin-Show",
+      "Description": "This week, James is joined by friend of the show Alexey Strakh, Microsoft Mobile Customer Advisory Team Engineer, who talks us through best practices for memory management and profiling of mobile applications.",
+      "EditionId": "240",
+      "Author": "James Montemagno",
+      "Id": "240-12",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

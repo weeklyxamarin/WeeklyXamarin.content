@@ -682,6 +682,16 @@
       ]
     },
     {
+      "Name": "Gabor Varadi",
+      "Id": "https://proandroiddev.com/@zhuinden",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://proandroiddev.com/@zhuinden"
+        }
+      ]
+    },
+    {
       "Name": "Geert van der Cruijsen",
       "TwitterHandle": "geertvdc",
       "GitHubHandle": "geertvdc",
@@ -1742,6 +1752,16 @@
         {
           "Type": "blog",
           "Name": "https://xamaringuyshow.com/author/samirgc/"
+        }
+      ]
+    },
+    {
+      "Name": "Sasmito Adibowo",
+      "Id": "https://cutecoder.org/author/adib/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://cutecoder.org/author/adib/"
         }
       ]
     },

@@ -261,6 +261,15 @@
       "PublishDate": "2020-01-10T11:01:20Z",
       "Curators": "",
       "Articles": []
+    },
+    {
+      "Id": "240",
+      "Name": "Issue 240",
+      "UpdatedTimeStamp": "2020-01-03T07:47:02Z",
+      "Summary": "No Edition Summary",
+      "PublishDate": "2020-01-03T07:46:57Z",
+      "Curators": "",
+      "Articles": []
     }
   ],
   "FetchedDate": "0001-01-01T00:00:00"

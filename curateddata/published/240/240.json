@@ -1,0 +1,327 @@
+{
+  "number": 240,
+  "title": "Issue 240",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/240",
+  "publication_status": "published",
+  "published_at": "2020-01-03T07:46:57+00:00",
+  "updated_at": "2020-01-03T07:47:02+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "Happy New Year",
+          "description": "<p>A big welcome to the New Year!  We hope everyone had a magical holiday with family and friends. We here at Weekly Xamarin are looking forward to a fantastic year ahead and hope the same for each and every one of our readers.</p>\n\n<p>Thanks for subscribing to the newsletter and enjoy your weekend.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "A big welcome to the New Year!  We hope everyone had a magical holiday with family and friends. We here at Weekly Xamarin are looking forward to a fantastic year ahead and hope the same for each and every one of our readers.\r\n\r\nThanks for subscribing to the newsletter and enjoy your weekend.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "j5njhTX",
+          "type": "Link",
+          "title": "5 Things To Stop Doing In Mobile App Design",
+          "url_domain": "smashingmagazine.com",
+          "url": "https://www.smashingmagazine.com/2019/12/things-stop-doing-mobile-app-design/",
+          "description": "<p>Have you ever looked at the design techniques and elements you use to build mobile apps and evaluated whether or not they’re still useful or relevant?</p>\n\n<p><a href=\"https://www.smashingmagazine.com/2019/12/things-stop-doing-mobile-app-design/\"><strong>5 Things To Stop Doing In Mobile App Design</strong></a></p>",
+          "description_markdown": "Have you ever looked at the design techniques and elements you use to build mobile apps and evaluated whether or not they’re still useful or relevant? \r\n\r\n[**5 Things To Stop Doing In Mobile App Design**](https://www.smashingmagazine.com/2019/12/things-stop-doing-mobile-app-design/) ",
+          "embedded_links": [
+            {
+              "identifier": "hqzUi8q",
+              "title": "**5 Things To Stop Doing In Mobile App Design**",
+              "url_domain": "smashingmagazine.com",
+              "url": "https://www.smashingmagazine.com/2019/12/things-stop-doing-mobile-app-design/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "1SBJDYY",
+          "type": "Link",
+          "title": "Repacking and Resigning an Android APK to Target Different Environments",
+          "url_domain": "builttoroam.com",
+          "url": "https://nicksnettravels.builttoroam.com/repack-android-app/",
+          "description": "<p>Nick continues his discussion of targetting different environments for builds. In this post, he manually walks through what this process would look like for an Android APK.</p>\n\n<p><a href=\"https://nicksnettravels.builttoroam.com/repack-android-app/\"><strong>Repacking and Resigning an Android APK to Target Different Environments</strong></a> by <a href=\"https://nicksnettravels.builttoroam.com/author/nick/\">Nick</a></p>",
+          "description_markdown": "Nick continues his discussion of targetting different environments for builds. In this post, he manually walks through what this process would look like for an Android APK.\r\n\r\n[**Repacking and Resigning an Android APK to Target Different Environments**](https://nicksnettravels.builttoroam.com/repack-android-app/) by [Nick](https://nicksnettravels.builttoroam.com/author/nick/)",
+          "embedded_links": [
+            {
+              "identifier": "Jou3WTq",
+              "title": "**Repacking and Resigning an Android APK to Target Different Environments**",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/repack-android-app/"
+            },
+            {
+              "identifier": "MaWtvrV",
+              "title": "Nick",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/author/nick/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "5vu34Um",
+          "type": "Link",
+          "title": "Project System Tools for Visual Studio for Mac",
+          "url_domain": "lastexitcode.com",
+          "url": "https://lastexitcode.com/blog/2019/12/31/ProjectSystemToolsForVisualStudioMac",
+          "description": "<p>The Project System Tools extension provides MSBuild design-time and build logging for Visual Studio for Mac. This is based on the Project System Tools available for Visual Studio on Windows and also re-uses code from this extension.</p>\n\n<p><a href=\"https://lastexitcode.com/blog/2019/12/31/ProjectSystemToolsForVisualStudioMac\"><strong>Project System Tools for Visual Studio for Mac</strong></a> by <a href=\"\">Matt Ward</a></p>",
+          "description_markdown": "The Project System Tools extension provides MSBuild design-time and build logging for Visual Studio for Mac. This is based on the Project System Tools available for Visual Studio on Windows and also re-uses code from this extension.\r\n\r\n[**Project System Tools for Visual Studio for Mac**](https://lastexitcode.com/blog/2019/12/31/ProjectSystemToolsForVisualStudioMac) by [Matt Ward]()",
+          "embedded_links": [
+            {
+              "identifier": "FEoG3sl",
+              "title": "**Project System Tools for Visual Studio for Mac**",
+              "url_domain": "lastexitcode.com",
+              "url": "https://lastexitcode.com/blog/2019/12/31/ProjectSystemToolsForVisualStudioMac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "ex2X9wQ",
+          "type": "Link",
+          "title": "The Seven (Actually 10) Cardinal Sins of Android Development",
+          "url_domain": "proandroiddev.com",
+          "url": "https://proandroiddev.com/the-seven-actually-10-cardinal-sins-of-android-development-491d2f64c8e0",
+          "description": "<p>Are you making these common mistakes that can potentially break your app?</p>\n\n<p><a href=\"https://proandroiddev.com/the-seven-actually-10-cardinal-sins-of-android-development-491d2f64c8e0\"><strong>The Seven (Actually 10) Cardinal Sins of Android Development</strong></a> by <a href=\"https://proandroiddev.com/@Zhuinden\">Gabor Varadi</a></p>",
+          "description_markdown": "Are you making these common mistakes that can potentially break your app?\r\n\r\n[**The Seven (Actually 10) Cardinal Sins of Android Development**](https://proandroiddev.com/the-seven-actually-10-cardinal-sins-of-android-development-491d2f64c8e0) by [Gabor Varadi](https://proandroiddev.com/@Zhuinden)",
+          "embedded_links": [
+            {
+              "identifier": "L0W4jwy",
+              "title": "**The Seven (Actually 10) Cardinal Sins of Android Development**",
+              "url_domain": "proandroiddev.com",
+              "url": "https://proandroiddev.com/the-seven-actually-10-cardinal-sins-of-android-development-491d2f64c8e0"
+            },
+            {
+              "identifier": "1NgxbYQ",
+              "title": "Gabor Varadi",
+              "url_domain": "proandroiddev.com",
+              "url": "https://proandroiddev.com/@Zhuinden"
+            }
+          ]
+        },
+        {
+          "identifier": "wGgaIol",
+          "type": "Link",
+          "title": "Publish smaller apps with the Android App Bundle",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/android-app-bundle/",
+          "description": "<p>The Android App Bundle (.aab) is a new upload format that includes all of your app’s compiled code and resources, but defers APK generation and signing to Google Play at install time.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/android-app-bundle/\"><strong>Publish smaller apps with the Android App Bundle</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jondouglas/\">Jon Douglas</a></p>",
+          "description_markdown": "The Android App Bundle (.aab) is a new upload format that includes all of your app’s compiled code and resources, but defers APK generation and signing to Google Play at install time. \r\n\r\n[**Publish smaller apps with the Android App Bundle**](https://devblogs.microsoft.com/xamarin/android-app-bundle/) by [Jon Douglas](https://devblogs.microsoft.com/xamarin/author/jondouglas/)",
+          "embedded_links": [
+            {
+              "identifier": "FFoaw3",
+              "title": "**Publish smaller apps with the Android App Bundle**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/android-app-bundle/"
+            },
+            {
+              "identifier": "gqBhIMv",
+              "title": "Jon Douglas",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jondouglas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "smz3N9w",
+          "type": "Link",
+          "title": "Providing Free Trials in the App Store?",
+          "url_domain": "cutecoder.org",
+          "url": "https://cutecoder.org/business/free-trial-app-store/",
+          "description": "<p>Stop making “lite editions” for new app releases and provide your customers with a full-featured time-limited trial instead.</p>\n\n<p><a href=\"https://cutecoder.org/business/free-trial-app-store/\"><strong>Providing Free Trials in the App Store?</strong></a> by <a href=\"https://cutecoder.org/author/adib/\">Sasmito Adibowo</a></p>",
+          "description_markdown": "Stop making “lite editions” for new app releases and provide your customers with a full-featured time-limited trial instead.\r\n\r\n[**Providing Free Trials in the App Store?**](https://cutecoder.org/business/free-trial-app-store/) by [Sasmito Adibowo](https://cutecoder.org/author/adib/)",
+          "embedded_links": [
+            {
+              "identifier": "DMcUuPj",
+              "title": "**Providing Free Trials in the App Store?**",
+              "url_domain": "cutecoder.org",
+              "url": "https://cutecoder.org/business/free-trial-app-store/"
+            },
+            {
+              "identifier": "bnOERXx",
+              "title": "Sasmito Adibowo",
+              "url_domain": "cutecoder.org",
+              "url": "https://cutecoder.org/author/adib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "jfAOpJc",
+          "type": "Link",
+          "title": "Understanding Margin, Padding and Translation",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/understanding-the-differences-between-margin-padding-and-translation-properties/",
+          "description": "<p>Leomaris looks at the Padding and Margin properties in Xamarin.Forms, which in many ways are considered “equivalent” properties, but it is important to understand what the difference is and the result of applying one property or another.</p>\n\n<p><a href=\"https://askxammy.com/understanding-the-differences-between-margin-padding-and-translation-properties/\"><strong>Understanding the differences between Margin &amp; Padding. and Translation properties</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris looks at the Padding and Margin properties in Xamarin.Forms, which in many ways are considered “equivalent” properties, but it is important to understand what the difference is and the result of applying one property or another.\r\n\r\n[**Understanding the differences between Margin & Padding. and Translation properties**](https://askxammy.com/understanding-the-differences-between-margin-padding-and-translation-properties/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "GIsdpIL",
+              "title": "**Understanding the differences between Margin & Padding. and Translation properties**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/understanding-the-differences-between-margin-padding-and-translation-properties/"
+            },
+            {
+              "identifier": "sJFPd3n",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "wXiOkIP",
+          "type": "Link",
+          "title": "Gradually moving from Xamarin Native to Xamarin.Forms",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/gradually-moving-from-xamarin-native-to-xamarin-forms-with-forms-embedding/",
+          "description": "<p>Forms embedding allows you to bring pages written in Xamarin.Forms into Xamarin native projects.  This has been around for quite a while and is just one of the many fantastic ways you can architect a Xamarin application.  In this Andreas shares his real-world experience using it.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/gradually-moving-from-xamarin-native-to-xamarin-forms-with-forms-embedding/\"><strong>Gradually moving from Xamarin Native to Xamarin.Forms with Forms Embedding</strong></a> by <a href=\"https://www.andreasnesheim.no/author/andrnes/\">Andreas Nesheim</a></p>",
+          "description_markdown": "Forms embedding allows you to bring pages written in Xamarin.Forms into Xamarin native projects.  This has been around for quite a while and is just one of the many fantastic ways you can architect a Xamarin application.  In this Andreas shares his real-world experience using it.\r\n\r\n[**Gradually moving from Xamarin Native to Xamarin.Forms with Forms Embedding**](https://www.andreasnesheim.no/gradually-moving-from-xamarin-native-to-xamarin-forms-with-forms-embedding/) by [Andreas Nesheim](https://www.andreasnesheim.no/author/andrnes/)",
+          "embedded_links": [
+            {
+              "identifier": "k0AxX7E",
+              "title": "Andreas Nesheim",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/author/andrnes/"
+            },
+            {
+              "identifier": "d5Y8aCo",
+              "title": "**Gradually moving from Xamarin Native to Xamarin.Forms with Forms Embedding**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/gradually-moving-from-xamarin-native-to-xamarin-forms-with-forms-embedding/"
+            }
+          ]
+        },
+        {
+          "identifier": "UHy80Be",
+          "type": "Link",
+          "title": "Cruise Mobile UI Challenge",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-1/",
+          "description": "<p>Andreas has been working on a fun UI Challenge with Xamarin.Forms.  Check it out!</p>\n\n<p><a href=\"https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-1/\"><strong>Xamarin UI Challenge – Cruise Mobile UI, Part 1</strong></a> by <a href=\"https://www.andreasnesheim.no/author/andrnes/\">Andreas Nesheim</a></p>",
+          "description_markdown": "Andreas has been working on a fun UI Challenge with Xamarin.Forms.  Check it out! \r\n\r\n[**Xamarin UI Challenge – Cruise Mobile UI, Part 1**](https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-1/) by [Andreas Nesheim](https://www.andreasnesheim.no/author/andrnes/)",
+          "embedded_links": [
+            {
+              "identifier": "Xtjscpt",
+              "title": "**Xamarin UI Challenge – Cruise Mobile UI, Part 1**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-1/"
+            },
+            {
+              "identifier": "rugqbIV",
+              "title": "Andreas Nesheim",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/author/andrnes/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "jBB4QUU",
+          "type": "Link",
+          "title": "DevTalk 27 - Ooui. With Frank Krueger",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-27/",
+          "description": "<p>On this episode of DevTalk Kerry speaks to Frank Krueger about developing cross-platform apps and websites using Ooui.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-27/\"><strong>27: Ooui. With Frank Krueger</strong></a> by <a href=\"https://kerry.lothrop.de/en/author/lothrop/\">kerry</a></p>",
+          "description_markdown": "On this episode of DevTalk Kerry speaks to Frank Krueger about developing cross-platform apps and websites using Ooui.\r\n\r\n[**27: Ooui. With Frank Krueger**](https://kerry.lothrop.de/devtalk-27/) by [kerry](https://kerry.lothrop.de/en/author/lothrop/)",
+          "embedded_links": [
+            {
+              "identifier": "2i8mPsr",
+              "title": "**27: Ooui. With Frank Krueger**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-27/"
+            },
+            {
+              "identifier": "LFkQLaR",
+              "title": "kerry",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/en/author/lothrop/"
+            }
+          ]
+        },
+        {
+          "identifier": "wGcqfzb",
+          "type": "Link",
+          "title": "Merge Conflict 182: Introduction to Electrical Engineering",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/182",
+          "description": "<p>To close out 2019 we go back to the basics with a little introduction to IoT, which means an introduction to electrical engineering. James is guided through the journey of understanding out all of this cool fun tech works by Frank, the electrical engineer himself.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/182\"><strong>182: Introduction to Electrical Engineering</strong></a></p>",
+          "description_markdown": "To close out 2019 we go back to the basics with a little introduction to IoT, which means an introduction to electrical engineering. James is guided through the journey of understanding out all of this cool fun tech works by Frank, the electrical engineer himself.\r\n\r\n[**182: Introduction to Electrical Engineering**](https://www.mergeconflict.fm/182)",
+          "embedded_links": [
+            {
+              "identifier": "jiKjsWJ",
+              "title": "**182: Introduction to Electrical Engineering**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/182"
+            }
+          ]
+        },
+        {
+          "identifier": "MwrYY8e",
+          "type": "Link",
+          "title": "Best Practices - Memory Management & Profiling | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-Memory-Management--Profiling--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by friend of the show Alexey Strakh, Microsoft Mobile Customer Advisory Team Engineer, who talks us through best practices for memory management and profiling of mobile applications.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-Memory-Management--Profiling--The-Xamarin-Show\"><strong>Best Practices - Memory Management &amp; Profiling | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by friend of the show Alexey Strakh, Microsoft Mobile Customer Advisory Team Engineer, who talks us through best practices for memory management and profiling of mobile applications.\r\n\r\n[**Best Practices - Memory Management & Profiling | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-Memory-Management--Profiling--The-Xamarin-Show) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "BV8R6b8",
+              "title": "**Best Practices - Memory Management & Profiling | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-Memory-Management--Profiling--The-Xamarin-Show"
+            },
+            {
+              "identifier": "QGI6ety",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
