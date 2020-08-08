@@ -48,7 +48,7 @@
       "Url": "https://medium.com/the-kickstarter/storedataingooglesheetsusingxamarin-ed8ba5c4b1bc",
       "Description": "There have been questions on StackOverflow asking how to use Google Sheets to store data using Xamarin, as a quick and simple database. After finding no articles online, this author decided to spend a few hours to figure it out.",
       "EditionId": "267",
-      "Author": "The First Prototype",
+      "Author": "Saamer Mansoor",
       "Id": "267-5",
       "Category": "XAMARIN FORMS"
     },
@@ -75,7 +75,7 @@
       "Url": "https://medium.com/dev-genius/oldmvvmcrossxamarinsolutionstheloomingandroid10deadline-1744a54b6dbd",
       "Description": "Android X is bringing big changes to  lot of the core requirements of your app. This means that many projects may need updating to meet these. The popular MVVMCross framework is an example of this. So what can you do? This blog post discusses your options.",
       "EditionId": "267",
-      "Author": "The First Prototype",
+      "Author": "Saamer Mansoor",
       "Id": "267-8",
       "Category": "MVVMCROSS"
     },

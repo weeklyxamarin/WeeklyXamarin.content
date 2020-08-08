@@ -120,7 +120,7 @@
       "Url": "https://vicenteguzman.mx/2020/05/18/protegiendo-datos-confidenciales-en-segundo-plano-xamarin-forms/",
       "Description": "When you switch tasks in iOS the system takes a screenshot of your application, but what if you have data in there that is private.  This article discusses keeping your sensitive data out of the Task Switcher in iOS (Xamarin.Forms). ** Note: Post is in Spanish **",
       "EditionId": "260",
-      "Author": "Vicente G. Guzmán Lucio",
+      "Author": "Vicente Guzman",
       "Id": "260-13",
       "Category": "XAMARIN FORMS"
     },

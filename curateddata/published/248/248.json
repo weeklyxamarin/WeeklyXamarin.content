@@ -1,0 +1,359 @@
+{
+  "number": 248,
+  "title": "Issue 248",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/248",
+  "publication_status": "published",
+  "published_at": "2020-02-28T08:24:28+00:00",
+  "updated_at": "2020-02-28T08:24:31+00:00",
+  "categories": [
+    {
+      "code": "lucecarter",
+      "name": "LUCE CARTER",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hey everyone!</p>\n\n<p>I hope you  have all had a great week!</p>\n\n<p>Yet more great links for you to enjoy and as ever, thanks to everyone who contributed. Always great to see so much love for Xamarin.Forms.</p>\n\n<p>It's a big week for Xamarin with the stable release of Xamarin.Forms 4.5! Check out the Microsoft Blog featured in the newsletter, where David Ortinau takes you through 5 things to know about 4.5!</p>\n\n<p>The agenda has also been announced for the DotNETConf: Focus on Xamarin event on March 23rd, and I am excited to announce I will be speaking!!</p>\n\n<p>Have a fantastic week, keep up the great community posts and see you next week!</p>\n\n<p>Luce 🧡</p>",
+          "description_markdown": "Hey everyone!\r\n\r\nI hope you  have all had a great week!\r\n\r\nYet more great links for you to enjoy and as ever, thanks to everyone who contributed. Always great to see so much love for Xamarin.Forms.\r\n\r\nIt's a big week for Xamarin with the stable release of Xamarin.Forms 4.5! Check out the Microsoft Blog featured in the newsletter, where David Ortinau takes you through 5 things to know about 4.5!\r\n\r\nThe agenda has also been announced for the DotNETConf: Focus on Xamarin event on March 23rd, and I am excited to announce I will be speaking!!\r\n\r\nHave a fantastic week, keep up the great community posts and see you next week!\r\n\r\nLuce 🧡",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "fM3UCVc",
+          "type": "Link",
+          "title": "Learn how to get the most out of Xamarin.Forms",
+          "url_domain": "xablu.com",
+          "url": "https://www.xablu.com/xamarin-forms-training/",
+          "description": "",
+          "description_markdown": "",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "6f3b1edf-1d97-4bac-b212-ef21cca04c61.jpg",
+          "image_extra_large_filename": "original_ratio_extra_large_6f3b1edf-1d97-4bac-b212-ef21cca04c61.jpg",
+          "image_medium_filename": "original_ratio_medium_6f3b1edf-1d97-4bac-b212-ef21cca04c61.jpg"
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "T29KHj5",
+          "type": "Link",
+          "title": "Xamarin.Forms 4.5 Stable Release Available!",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-4-5/",
+          "description": "<p>Every new release of Xamarin.Forms contains dozens of improvements. Today, we are thrilled to share that Xamarin.Forms 4.5 is now available bringing you AndroidX, new capabilities for creating responsive UI, and controls “in the box” to speed your development. Let’s look at what is new in Xamarin.Forms 4.5 with several features to get excited about!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-forms-4-5/\"><strong>Xamarin.Forms 4.5 Stable Release Available!</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/davidortinau/\">David Ortinau</a></p>",
+          "description_markdown": "Every new release of Xamarin.Forms contains dozens of improvements. Today, we are thrilled to share that Xamarin.Forms 4.5 is now available bringing you AndroidX, new capabilities for creating responsive UI, and controls “in the box” to speed your development. Let’s look at what is new in Xamarin.Forms 4.5 with several features to get excited about!\r\n\r\n[**Xamarin.Forms 4.5 Stable Release Available!**](https://devblogs.microsoft.com/xamarin/xamarin-forms-4-5/) by [David Ortinau](https://devblogs.microsoft.com/xamarin/author/davidortinau/)",
+          "embedded_links": [
+            {
+              "identifier": "RyWULFp",
+              "title": "**Xamarin.Forms 4.5 Stable Release Available!**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-4-5/"
+            },
+            {
+              "identifier": "tXba0qy",
+              "title": "David Ortinau",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/davidortinau/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "vqAj6Ve",
+          "type": "Link",
+          "title": "Xamarin.Forms: Native API Acces with Dependency Injection",
+          "url_domain": "andrewhoefling.com",
+          "url": "https://www.andrewhoefling.com/Blog/Post/xamarin-forms-native-api-acces-with-dependency-injection",
+          "description": "<p>Dependency Injection is a great technique for leveraging native code in the context of your shared code. In Xamarin.Forms you typically create a custom renderer which gives you native access. If you need to run some native code from the shared context you can easily do this with the built-in Dependency Injection tooling.</p>\n\n<p><a href=\"https://www.andrewhoefling.com/Blog/Post/xamarin-forms-native-api-acces-with-dependency-injection\"><strong>Xamarin.Forms: Native API Acces with Dependency Injection</strong></a> by <a href=\"https://twitter.com/andrew_hoefling\">Andrew Hoefling</a></p>",
+          "description_markdown": "Dependency Injection is a great technique for leveraging native code in the context of your shared code. In Xamarin.Forms you typically create a custom renderer which gives you native access. If you need to run some native code from the shared context you can easily do this with the built-in Dependency Injection tooling.\r\n\r\n[**Xamarin.Forms: Native API Acces with Dependency Injection**](https://www.andrewhoefling.com/Blog/Post/xamarin-forms-native-api-acces-with-dependency-injection) by [Andrew Hoefling](https://twitter.com/andrew_hoefling)",
+          "embedded_links": [
+            {
+              "identifier": "T3LZBxt",
+              "title": "**Xamarin.Forms: Native API Acces with Dependency Injection**",
+              "url_domain": "andrewhoefling.com",
+              "url": "https://www.andrewhoefling.com/Blog/Post/xamarin-forms-native-api-acces-with-dependency-injection"
+            },
+            {
+              "identifier": "HuS1rXb",
+              "title": "Andrew Hoefling",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andrew_hoefling"
+            }
+          ]
+        },
+        {
+          "identifier": "E4q6K73",
+          "type": "Link",
+          "title": "How To Confirm Exit in Android with Xamarin Forms",
+          "url_domain": "dylanberry.com",
+          "url": "https://www.dylanberry.com/2020/02/20/how-to-confirm-exit-in-android-with-xamarin-forms/",
+          "description": "<p>Ever hit the navigation bar back button when using an Android app and have it fully exit the app and drop you back on your home screen? I think all Android users have encountered this a few times. It is a frustrating and counter-productive experience. Let’s make sure your app has better UX by using a simple confirmation dialog!</p>\n\n<p><a href=\"https://www.dylanberry.com/2020/02/20/how-to-confirm-exit-in-android-with-xamarin-forms/\"><strong>How To Confirm Exit in Android with Xamarin Forms</strong></a> by <a href=\"https://twitter.com/dylbot9000\">Dylan Berry</a></p>",
+          "description_markdown": "Ever hit the navigation bar back button when using an Android app and have it fully exit the app and drop you back on your home screen? I think all Android users have encountered this a few times. It is a frustrating and counter-productive experience. Let’s make sure your app has better UX by using a simple confirmation dialog!\r\n\r\n[**How To Confirm Exit in Android with Xamarin Forms**](https://www.dylanberry.com/2020/02/20/how-to-confirm-exit-in-android-with-xamarin-forms/) by [Dylan Berry](https://twitter.com/dylbot9000)",
+          "embedded_links": [
+            {
+              "identifier": "PlB6KlX",
+              "title": "**How To Confirm Exit in Android with Xamarin Forms**",
+              "url_domain": "dylanberry.com",
+              "url": "https://www.dylanberry.com/2020/02/20/how-to-confirm-exit-in-android-with-xamarin-forms/"
+            },
+            {
+              "identifier": "gHrysIX",
+              "title": "Dylan Berry",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/dylbot9000"
+            }
+          ]
+        },
+        {
+          "identifier": "mpUeXx7",
+          "type": "Link",
+          "title": "Fill PDF Forms on the Go with Import and Export Form Data Support in Xamarin PDF Viewer",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/fill-pdf-forms-with-import-and-export-form-data-in-xamarin-pdf-viewer.aspx",
+          "description": "<p>Are you frequently filling PDF forms in your Xamarin mobile application? Are you annoyed at entering basic details like your name, email address, and phone number again and again? Then Syncfusion have a solution to your problem.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/fill-pdf-forms-with-import-and-export-form-data-in-xamarin-pdf-viewer.aspx\"><strong>Fill PDF Forms on the Go with Import and Export Form Data Support in Xamarin PDF Viewer</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/ramkumarrsyncfusion-com\">Ramkumar Ravy</a></p>",
+          "description_markdown": "Are you frequently filling PDF forms in your Xamarin mobile application? Are you annoyed at entering basic details like your name, email address, and phone number again and again? Then Syncfusion have a solution to your problem.\r\n\r\n[**Fill PDF Forms on the Go with Import and Export Form Data Support in Xamarin PDF Viewer**](https://www.syncfusion.com/blogs/post/fill-pdf-forms-with-import-and-export-form-data-in-xamarin-pdf-viewer.aspx) by [Ramkumar Ravy](https://www.syncfusion.com/blogs/author/ramkumarrsyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "zuyODOA",
+              "title": "**Fill PDF Forms on the Go with Import and Export Form Data Support in Xamarin PDF Viewer**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/fill-pdf-forms-with-import-and-export-form-data-in-xamarin-pdf-viewer.aspx"
+            },
+            {
+              "identifier": "2yLeSFS",
+              "title": "Ramkumar Ravy",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/ramkumarrsyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "AGJRHDR",
+          "type": "Link",
+          "title": "Cross platform tray bar applications with Xamarin.Forms",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@k.l.mueller/cross-platform-tray-bar-applications-with-xamarin-forms-bbd6c1b7f17a",
+          "description": "<p>Ever wondered how to create a tray/menu item bar application? It turns out you can do just that with Xamarin.Forms and Konrad shows you how!</p>\n\n<p><a href=\"https://medium.com/@k.l.mueller/cross-platform-tray-bar-applications-with-xamarin-forms-bbd6c1b7f17a\"><strong>Cross platform tray bar applications with Xamarin.Forms</strong></a> by <a href=\"https://medium.com/@k.l.mueller\">Konrad Müller</a></p>",
+          "description_markdown": "Ever wondered how to create a tray/menu item bar application? It turns out you can do just that with Xamarin.Forms and Konrad shows you how!\r\n\r\n[**Cross platform tray bar applications with Xamarin.Forms**](https://medium.com/@k.l.mueller/cross-platform-tray-bar-applications-with-xamarin-forms-bbd6c1b7f17a) by [Konrad Müller](https://medium.com/@k.l.mueller)",
+          "embedded_links": [
+            {
+              "identifier": "lxBqhU4",
+              "title": "**Cross platform tray bar applications with Xamarin.Forms**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@k.l.mueller/cross-platform-tray-bar-applications-with-xamarin-forms-bbd6c1b7f17a"
+            },
+            {
+              "identifier": "xn3k8g8",
+              "title": "Konrad Müller",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@k.l.mueller"
+            }
+          ]
+        },
+        {
+          "identifier": "GDxDjEy",
+          "type": "Link",
+          "title": "TaskLoaderView & Lottie Best Friends Forever",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/taskloaderview-lottie-best-friends-forever/",
+          "description": "<p>Lottie is a cross-platform library created by Twitter, then wrapped in a cool Xamarin.Forms view by Martijn van Dijk, allowing you to bring a unique identity to your app with animations. TaskLoaderView is a state container from Sharpnado, and in this post, Jean-Marie shows you how you can combine the two to bring exciting animations to your app depending on the state.</p>\n\n<p><a href=\"https://www.sharpnado.com/taskloaderview-lottie-best-friends-forever/\"><strong>TaskLoaderView &amp; Lottie Best Friends Forever</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "Lottie is a cross-platform library created by Twitter, then wrapped in a cool Xamarin.Forms view by Martijn van Dijk, allowing you to bring a unique identity to your app with animations. TaskLoaderView is a state container from Sharpnado, and in this post, Jean-Marie shows you how you can combine the two to bring exciting animations to your app depending on the state.\r\n\r\n[**TaskLoaderView & Lottie Best Friends Forever**](https://www.sharpnado.com/taskloaderview-lottie-best-friends-forever/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)",
+          "embedded_links": [
+            {
+              "identifier": "kdnElx9",
+              "title": "**TaskLoaderView & Lottie Best Friends Forever**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/taskloaderview-lottie-best-friends-forever/"
+            },
+            {
+              "identifier": "GTqdg8g",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        },
+        {
+          "identifier": "pMoACdx",
+          "type": "Link",
+          "title": "Using AutoMapper in your Xamarin Forms apps",
+          "url_domain": "mallibone.com",
+          "url": "https://mallibone.com/post/xamarin-automapper",
+          "description": "<p>Whenever you are creating a larger Xamarin Forms application, you usually end up with different models representing similar data but for different areas of your app. For example, you will get a minimalist Data Transfer Object (DTO) from your backend, which you might copy into another app-internal model or directly to the View Model representing the data displayed on your view. And this is where AutoMapper will help you out and prevent you from writing all that copy code.</p>\n\n<p><a href=\"https://mallibone.com/post/xamarin-automapper\"><strong>Using AutoMapper in your Xamarin Forms apps</strong></a> by <a href=\"https://twitter.com/mallibone\">Mark Allibone</a></p>",
+          "description_markdown": "Whenever you are creating a larger Xamarin Forms application, you usually end up with different models representing similar data but for different areas of your app. For example, you will get a minimalist Data Transfer Object (DTO) from your backend, which you might copy into another app-internal model or directly to the View Model representing the data displayed on your view. And this is where AutoMapper will help you out and prevent you from writing all that copy code.\r\n\r\n[**Using AutoMapper in your Xamarin Forms apps**](https://mallibone.com/post/xamarin-automapper) by [Mark Allibone](https://twitter.com/mallibone)",
+          "embedded_links": [
+            {
+              "identifier": "h068xL0",
+              "title": "**Using AutoMapper in your Xamarin Forms apps**",
+              "url_domain": "mallibone.com",
+              "url": "https://mallibone.com/post/xamarin-automapper"
+            },
+            {
+              "identifier": "7fgoH0m",
+              "title": "Mark Allibone",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mallibone"
+            }
+          ]
+        },
+        {
+          "identifier": "LlTjSAQ",
+          "type": "Link",
+          "title": "Exploring Grial UI Kit in Xamarin Forms",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/exploring-grial-ui-kit-in-xamarin-forms/",
+          "description": "<p>Grial UI Kit provides XAML templates, custom controls, helpers and resources that accelerate the creation of Xamarin.Forms apps. In this article, Charlin explores the Grial UI Kit, talking about how to use it, pricing and some personal feedback.</p>\n\n<p><a href=\"https://xamgirl.com/exploring-grial-ui-kit-in-xamarin-forms/\"><strong>Exploring Grial UI Kit in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/Chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "Grial UI Kit provides XAML templates, custom controls, helpers and resources that accelerate the creation of Xamarin.Forms apps. In this article, Charlin explores the Grial UI Kit, talking about how to use it, pricing and some personal feedback.\r\n\r\n[**Exploring Grial UI Kit in Xamarin Forms**](https://xamgirl.com/exploring-grial-ui-kit-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/Chard003)",
+          "embedded_links": [
+            {
+              "identifier": "KML6Zag",
+              "title": "**Exploring Grial UI Kit in Xamarin Forms**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/exploring-grial-ui-kit-in-xamarin-forms/"
+            },
+            {
+              "identifier": "QHjjViL",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Chard003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "aOjYrA5",
+          "type": "Link",
+          "title": "Merge Conflict: 190: The Creation of Appstat with Frank",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/190",
+          "description": "<p>Frank decided to do his holiday hack in mid-February and build an entire app in a weekend. What is it? What was his inspiration? How did he build it? How is he distributing and promoting it?</p>\n\n<p><a href=\"https://www.mergeconflict.fm/190\"><strong>Merge Conflict: 190: The Creation of Appstat with Frank</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "Frank decided to do his holiday hack in mid-February and build an entire app in a weekend. What is it? What was his inspiration? How did he build it? How is he distributing and promoting it?\r\n\r\n[**Merge Conflict: 190: The Creation of Appstat with Frank**](https://www.mergeconflict.fm/190) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "lX0LjZl",
+              "title": "**Merge Conflict: 190: The Creation of Appstat with Frank**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/190"
+            },
+            {
+              "identifier": "qq3XyKf",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        },
+        {
+          "identifier": "sNopAWJ",
+          "type": "Link",
+          "title": "DevTalk 31: Xamarin.Forms XAML HotReload and other new Xamarin features with Maddy Leger",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-31/",
+          "description": "<p>I had the pleasure of appearing on Kerry's podcast back in December, so I was super excited to see another episode out, this time with one of my favourite Xamariners, Maddy Leger!</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-31/\"><strong>DevTalk 31: Xamarin.Forms XAML HotReload and other new Xamarin features. With Maddy Leger</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "I had the pleasure of appearing on Kerry's podcast back in December, so I was super excited to see another episode out, this time with one of my favourite Xamariners, Maddy Leger!\r\n\r\n[**DevTalk 31: Xamarin.Forms XAML HotReload and other new Xamarin features. With Maddy Leger**](https://kerry.lothrop.de/devtalk-31/) by [Kerry Lothrop](https://twitter.com/kwlothrop)",
+          "embedded_links": [
+            {
+              "identifier": "fENznEX",
+              "title": "**DevTalk 31: Xamarin.Forms XAML HotReload and other new Xamarin features. With Maddy Leger**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-31/"
+            },
+            {
+              "identifier": "YIT4bI",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        },
+        {
+          "identifier": "Mljxx8g",
+          "type": "Link",
+          "title": "Xamarin Podcast: Xamarin.Forms Trigger Mania!",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/trigger-xamarin-forms-xamarin-podcast/",
+          "description": "<p>In this month’s episode, there’s news about every type of Xamarin.Forms Trigger, and they cover it all. And did you know Xamarin.Forms has dual screen support for the new Surface New and Duo? Tune in to find out more!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/trigger-xamarin-forms-xamarin-podcast/\"><strong>Xamarin Podcast: Xamarin.Forms Trigger Mania!</strong></a></p>",
+          "description_markdown": "In this month’s episode, there’s news about every type of Xamarin.Forms Trigger, and they cover it all. And did you know Xamarin.Forms has dual screen support for the new Surface New and Duo? Tune in to find out more!\r\n\r\n[**Xamarin Podcast: Xamarin.Forms Trigger Mania!**](https://devblogs.microsoft.com/xamarin/trigger-xamarin-forms-xamarin-podcast/)",
+          "embedded_links": [
+            {
+              "identifier": "hi4zfyG",
+              "title": "**Xamarin Podcast: Xamarin.Forms Trigger Mania!**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/trigger-xamarin-forms-xamarin-podcast/"
+            }
+          ]
+        },
+        {
+          "identifier": "duOyddP",
+          "type": "Link",
+          "title": "Xamarin UI Testing Webinar Questions & Answers",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/ui-testing-for-your-xamarin-forms-apps-webinar-qa.aspx",
+          "description": "<p>In Syncfusion’s latest webinar, “UI Testing for Your Xamarin.Forms Apps,” Codrina Merigo, a software engineer who works primarily with Xamarin, demonstrated different approaches to performing UI tests in Xamarin.Forms applications.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/ui-testing-for-your-xamarin-forms-apps-webinar-qa.aspx\"><strong>Xamarin UI Testing Webinar Questions &amp; Answers</strong></a> by <a href=\"https://twitter.com/_Codrina_\">Codrina Merigo</a></p>",
+          "description_markdown": "In Syncfusion’s latest webinar, “UI Testing for Your Xamarin.Forms Apps,” Codrina Merigo, a software engineer who works primarily with Xamarin, demonstrated different approaches to performing UI tests in Xamarin.Forms applications.\r\n\r\n[**Xamarin UI Testing Webinar Questions & Answers**](https://www.syncfusion.com/blogs/post/ui-testing-for-your-xamarin-forms-apps-webinar-qa.aspx) by [Codrina Merigo](https://twitter.com/_Codrina_)",
+          "embedded_links": [
+            {
+              "identifier": "JM6ePqF",
+              "title": "**Xamarin UI Testing Webinar Questions & Answers**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/ui-testing-for-your-xamarin-forms-apps-webinar-qa.aspx"
+            },
+            {
+              "identifier": "7soFsXy",
+              "title": "Codrina Merigo",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/_Codrina_"
+            }
+          ]
+        },
+        {
+          "identifier": "Eeis06s",
+          "type": "Link",
+          "title": "Custom Vision, Xamarin.Forms and Simpsons - The Community AI Show",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/custom-vision-xamarin-forms-simpsons/?utm_source=rss&utm_medium=rss&utm_campaign=custom-vision-xamarin-forms-simpsons",
+          "description": "<p>A new Community AI Show with Henk Boelman has launched and the first guest was none other than one of our favourite community members turned Microsoft employee Gerald Versluis!\nIn this inaugural episode, Gerald shows off one of my favourite services, Custom Vision and how you can combine that with a Xamarin.Forms app and..The Simpsons!</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/xamarin-forms-xamarin/custom-vision-xamarin-forms-simpsons/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=custom-vision-xamarin-forms-simpsons\"><strong>Custom Vision, Xamarin.Forms and Simpsons - The Community AI Show</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "A new Community AI Show with Henk Boelman has launched and the first guest was none other than one of our favourite community members turned Microsoft employee Gerald Versluis! \r\nIn this inaugural episode, Gerald shows off one of my favourite services, Custom Vision and how you can combine that with a Xamarin.Forms app and..The Simpsons!\r\n\r\n[**Custom Vision, Xamarin.Forms and Simpsons - The Community AI Show**](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/custom-vision-xamarin-forms-simpsons/?utm_source=rss&utm_medium=rss&utm_campaign=custom-vision-xamarin-forms-simpsons) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "nuazb8t",
+              "title": "**Custom Vision, Xamarin.Forms and Simpsons - The Community AI Show**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/custom-vision-xamarin-forms-simpsons/?utm_source=rss&utm_medium=rss&utm_campaign=custom-vision-xamarin-forms-simpsons"
+            },
+            {
+              "identifier": "2oJuDZJ",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

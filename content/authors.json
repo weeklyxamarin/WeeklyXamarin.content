@@ -368,6 +368,16 @@
       "Website": "https://crswlls.wordpress.com"
     },
     {
+      "Name": "Codrina Merigo",
+      "Id": "https://twitter.com/_codrina_",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/_codrina_"
+        }
+      ]
+    },
+    {
       "Name": "Cody Beyer",
       "Id": "https://devblogs.microsoft.com/visualstudio/author/codybeyer/",
       "Aliases": [
@@ -954,6 +964,16 @@
       "GitHubHandle": "egbakou",
       "Id": "https://twitter.com/lioncoding",
       "Website": "https://lioncoding.com/"
+    },
+    {
+      "Name": "Konrad Müller",
+      "Id": "https://medium.com/@k.l.mueller",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@k.l.mueller"
+        }
+      ]
     },
     {
       "Name": "Kym Phillpotts",
@@ -1597,6 +1617,10 @@
         {
           "Type": "blog",
           "Name": "https://medium.com/@prototypemakers"
+        },
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@prototypemakers?source=post_page-----1744a54b6dbd----------------------"
         }
       ],
       "Website": "https://medium.com/@prototypemakers"
