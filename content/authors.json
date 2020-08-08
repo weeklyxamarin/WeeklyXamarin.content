@@ -220,6 +220,16 @@
       ]
     },
     {
+      "Name": "Arthur Casals",
+      "Id": "https://www.infoq.com/profile/arthur-casals/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.infoq.com/profile/arthur-casals/"
+        }
+      ]
+    },
+    {
       "Name": "Asfend Yar Hamid",
       "TwitterHandle": "asfend",
       "GitHubHandle": "asfend",

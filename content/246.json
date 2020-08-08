@@ -1,0 +1,137 @@
+{
+  "Id": "246",
+  "Name": "Issue 246",
+  "UpdatedTimeStamp": "2020-02-14T06:15:58Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hiya, Welcome back to another issue of Weekly Xamarin and happy Valentine's day! We have some great posts in this weeks edition, we have dual-screens, UI Challenges, SkiaSharp, Maps, DevOps, tips&tricks and more Xamarin.Forms articles than you can poke a stick at.  There is even an interview with Miguel de Icaza. So what's stopping you, get reading ;-) And as always, thanks to the awesome Xamarin community for the excellent posts. ❤ Kym",
+  "PublishDate": "2020-02-14T06:15:52Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "UIWebView Deprecation and Xamarin.Forms",
+      "Url": "https://devblogs.microsoft.com/xamarin/uiwebview-deprecation-xamarin-forms/",
+      "Description": "A little while ago, Apple started sending out warning messages about the UIWebView deprecation. This has not gone unnoticed by our Xamarin.Forms users, who directly created an issue for it.",
+      "EditionId": "246",
+      "Author": "Gerald Versluis",
+      "Id": "246-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": ".NET Conf: \"Focus on Xamarin\"",
+      "Url": "https://focus.dotnetconf.net/",
+      "Description": "Mark your calendars people - .NET Conf: Focus on Xamarin has been announced for March 23, 2020. This is a free, one-day livestream event that features speakers from the community and .NET product teams that are working on building native mobile apps with Xamarin technology! Xamarin lets you build native mobile apps for Android and iOS with C# instead of Java and Swift. You definitely don't want to miss this event. [**.NET Conf: Focus on Xamarin**](https://focus.dotnetconf.net)\\",
+      "EditionId": "246",
+      "Id": "246-2",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Experimental Flags in Xamarin.Forms",
+      "Url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/experimental-flags-xamarin-forms/",
+      "Description": "You've probably seen the use of Experimental Flags in Xamarin.Forms releases, and maybe you are wondering what all this is about.  Worry no more, Gerald is here to explain the why's and wherefores.",
+      "EditionId": "246",
+      "Author": "Gerald Versluis",
+      "Id": "246-3",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Q&A with Miguel de Icaza",
+      "Url": "https://www.infoq.com/articles/mono-xamarin-webassembly-net5/",
+      "Description": "It's always amazing to hear from the amazing Miguel de Icaza.  This is an interview he did with InfoQ on the history and future of all things mono.",
+      "EditionId": "246",
+      "Author": "Arthur Casals",
+      "Id": "246-4",
+      "Category": "BUSINESS & MARKETING"
+    },
+    {
+      "Title": "Generate an Android App Bundle using Xamarin and Azure DevOps",
+      "Url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/02/03/generate-android-app-bundle-xamarin-azure-devops-en.html",
+      "Description": "Xamarin introduced Android App Bundle support a few weeks ago, it’s now time to take benefit of it! The Android App Bundle is a package that allows the user to download only what your application needs to run on their devices.",
+      "EditionId": "246",
+      "Id": "246-5",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Xamarin.Forms Android App Bundle (aab) DevOps YAML Pipeline",
+      "Url": "https://progrunning.net/xamarin-forms-android-aab-devops-yaml-pipeline/",
+      "Description": "Mikolaj Kieres continues his post on devops with Android App Bundles and his new found love of YAML pipelines. [**Xamarin.Forms Android App Bundle (aab) DevOps YAML Pipeline**](https://progrunning.net/xamarin-forms-android-aab-devops-yaml-pipeline/) by Mikolaj Kieres.",
+      "EditionId": "246",
+      "Id": "246-6",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Visual Studio XAML Binding Debug Extension",
+      "Url": "https://marketplace.visualstudio.com/items?itemName=PeterSpa.XamlBinding",
+      "Description": "This extension provides a tool window that shows XAML binding errors while debugging in Visual Studio 2019. The tool window makes it much easier to detect and understand the binding errors in your XAML that would normally be hidden in the output window. [**XAML Binding Debug Output**](https://marketplace.visualstudio.com/items?itemName=PeterSpa.XamlBinding)",
+      "EditionId": "246",
+      "Id": "246-7",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "GradientProgressBar: Accepting touch input Skiasharp",
+      "Url": "https://somostechies.com/gradientprogressbar-accepting-touch-input-skiasharp/",
+      "Description": "I loves myself some SkiaSharp... and so does Jesus Angulo!  In this post, he extends his SkiaSharp progress bar so a user can click and update the progress.",
+      "EditionId": "246",
+      "Author": "Jesus Angulo",
+      "Id": "246-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Using addresses, maps and geocoordinates in your Xamarin Forms apps",
+      "Url": "https://mallibone.com/post/xamarin-maps-addresses-geocoords",
+      "Description": "Ever had to develop an app where the position of something was of interest. An address of a user, store, restaurant or some other point of interest? The straight forward version might be to provide the user with a simple form.  While the form is easy to implement and reliable, it can be cumbersome.  Why not allow the user to click on a map to set the address.  Geocoding to the rescue! [**Using addresses, maps and geocoordinates in your Xamarin Forms apps**](https://mallibone.com/post/xamarin-maps-addresses-geocoords) by Mark Allibone",
+      "EditionId": "246",
+      "Id": "246-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin UI Challenge - Banking Profile UI",
+      "Url": "https://askxammy.com/lets-replicate-a-banking-profile-ui-in-xamarin-forms/",
+      "Description": "Leomaris has created another blog post on creating UI's in Xamarin.Forms.  This time she takes on a really nice looking page from a banking application she found on Dribbble.",
+      "EditionId": "246",
+      "Author": "Leomaris Reyes",
+      "Id": "246-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms Tips and Tricks",
+      "Url": "https://altkomsoftware.pl/en/blog/xamarin-forms-tips-tricks/",
+      "Description": "In this post Bartosz Jędrecki shares some tips and tricks that Altkom Software discovered during the development of ONSTAGE application as well as their Insurance Sales PoC.   [**Xamarin.Forms Tips and Tricks**](https://altkomsoftware.pl/en/blog/xamarin-forms-tips-tricks/)",
+      "EditionId": "246",
+      "Id": "246-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Braintree integration with Xamarin.Forms (part 2)",
+      "Url": "https://www.xamboy.com/2020/02/11/braintree-integration-in-xamarin-forms-part-2/",
+      "Description": "In his previous article, Rendy covered how to setup the braintree client-side integration to support credit card payments. Now he is extending the Braintree client-side integration to support Apple Pay and Google Pay payments in Xamarin Forms. [**Braintree integration in Xamarin Forms (Part.2 )**](https://www.xamboy.com/2020/02/11/braintree-integration-in-xamarin-forms-part-2/) by Rendy",
+      "EditionId": "246",
+      "Id": "246-12",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Tabs with Triggers",
+      "Url": "https://devblogs.microsoft.com/xamarin/tabs-and-triggers/",
+      "Description": "Xamarin.Forms makes setting Tabs Icons super easy! All there is to do is set the Icon property to the path of an image and you are done. Better still, you can use FontImageSource to have scalable vector graphics used for your icons. As well as avoid all that hassle with resolution dependent images. This article also covers another interesting thing called StyleTriggers.  Not something I have personally used much, but it provides a super simple way of dynamically changing a bindable property (like a tab icon).",
+      "EditionId": "246",
+      "Id": "246-13",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "MSAL + AAD B2C – 6 Tips, Tricks and Facts",
+      "Url": "https://www.dylanberry.com/2020/02/08/implementing-msal-aad-b2c-in-xamarin-6-tips-tricks-and-facts/",
+      "Description": "Inspired by Steven Thewissen’s excellent MSAL article, Dylan Berry shares what he has learnt about MSAL over the 3+ years he's worked with MSAL and Xamarin.",
+      "EditionId": "246",
+      "Author": "Dylan Berry",
+      "Id": "246-14",
+      "Category": "SECURITY"
+    },
+    {
+      "Title": "The future has two screens",
+      "Url": "https://devblogs.microsoft.com/xamarin/surface-duo-surface-neo-with-xamarin-forms/",
+      "Description": "Today we are announcing the preview availability of our cross-platform dual-screen support for the Surface Duo and Surface Neo, two new and amazing devices coming from the Surface team. Previously, we debuted Xamarin.Android and Xamarin.Forms support for the SDK for Surface Duo. [**Surface Duo and Surface Neo with Xamarin.Forms Preview : Xamarin Blog**](https://devblogs.microsoft.com/xamarin/surface-duo-surface-neo-with-xamarin-forms/)",
+      "EditionId": "246",
+      "Id": "246-15",
+      "Category": "RELEASES"
+    }
+  ]
+}

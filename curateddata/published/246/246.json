@@ -1,0 +1,387 @@
+{
+  "number": 246,
+  "title": "Issue 246",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/246",
+  "publication_status": "published",
+  "published_at": "2020-02-14T06:15:52+00:00",
+  "updated_at": "2020-02-14T06:15:58+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hiya,</p>\n\n<p>Welcome back to another issue of Weekly Xamarin and happy Valentine's day!</p>\n\n<p>We have some great posts in this weeks edition, we have dual-screens, UI Challenges, SkiaSharp, Maps, DevOps, tips&amp;tricks and more Xamarin.Forms articles than you can poke a stick at.  There is even an interview with Miguel de Icaza.</p>\n\n<p>So what's stopping you, get reading ;-)</p>\n\n<p>And as always, thanks to the awesome Xamarin community for the excellent posts.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Hiya,\r\n\r\nWelcome back to another issue of Weekly Xamarin and happy Valentine's day!\r\n\r\nWe have some great posts in this weeks edition, we have dual-screens, UI Challenges, SkiaSharp, Maps, DevOps, tips&tricks and more Xamarin.Forms articles than you can poke a stick at.  There is even an interview with Miguel de Icaza.\r\n\r\nSo what's stopping you, get reading ;-)\r\n\r\nAnd as always, thanks to the awesome Xamarin community for the excellent posts.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "6SKdUy8",
+          "type": "Link",
+          "title": "Learn how to get the most out of Xamarin.Forms",
+          "url_domain": "xablu.com",
+          "url": "https://www.xablu.com/xamarin-forms-training/",
+          "description": "",
+          "description_markdown": "",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "629321af-9cc8-46e2-8f04-b14f78cf46f5.jpg",
+          "image_extra_large_filename": "original_ratio_extra_large_629321af-9cc8-46e2-8f04-b14f78cf46f5.jpg",
+          "image_medium_filename": "original_ratio_medium_629321af-9cc8-46e2-8f04-b14f78cf46f5.jpg"
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "ttdneRr",
+          "type": "Link",
+          "title": "UIWebView Deprecation and Xamarin.Forms",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/uiwebview-deprecation-xamarin-forms/",
+          "description": "<p>A little while ago, Apple started sending out warning messages about the UIWebView deprecation. This has not gone unnoticed by our Xamarin.Forms users, who directly created an issue for it.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/uiwebview-deprecation-xamarin-forms/\"><strong>UIWebView Deprecation and Xamarin.Forms</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/geraldversluis/\">Gerald Versluis</a></p>",
+          "description_markdown": "A little while ago, Apple started sending out warning messages about the UIWebView deprecation. This has not gone unnoticed by our Xamarin.Forms users, who directly created an issue for it.\r\n\r\n[**UIWebView Deprecation and Xamarin.Forms**](https://devblogs.microsoft.com/xamarin/uiwebview-deprecation-xamarin-forms/) by [Gerald Versluis](https://devblogs.microsoft.com/xamarin/author/geraldversluis/)",
+          "embedded_links": [
+            {
+              "identifier": "V0PZHVu",
+              "title": "**UIWebView Deprecation and Xamarin.Forms**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/uiwebview-deprecation-xamarin-forms/"
+            },
+            {
+              "identifier": "dW7tz3n",
+              "title": "Gerald Versluis",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/geraldversluis/"
+            }
+          ]
+        },
+        {
+          "identifier": "9cyy0R8",
+          "type": "Link",
+          "title": ".NET Conf: \"Focus on Xamarin\"",
+          "url_domain": "dotnetconf.net",
+          "url": "https://focus.dotnetconf.net",
+          "description": "<p>Mark your calendars people - .NET Conf: Focus on Xamarin has been announced for March 23, 2020.</p>\n\n<p>This is a free, one-day livestream event that features speakers from the community and .NET product teams that are working on building native mobile apps with Xamarin technology! Xamarin lets you build native mobile apps for Android and iOS with C# instead of Java and Swift.</p>\n\n<p>You definitely don't want to miss this event.</p>\n\n<p><a href=\"https://focus.dotnetconf.net\"><strong>.NET Conf: Focus on Xamarin</strong></a>\\</p>",
+          "description_markdown": "Mark your calendars people - .NET Conf: Focus on Xamarin has been announced for March 23, 2020.\r\n\r\nThis is a free, one-day livestream event that features speakers from the community and .NET product teams that are working on building native mobile apps with Xamarin technology! Xamarin lets you build native mobile apps for Android and iOS with C# instead of Java and Swift.\r\n\r\nYou definitely don't want to miss this event.\r\n\r\n[**.NET Conf: Focus on Xamarin**](https://focus.dotnetconf.net)\\",
+          "embedded_links": [
+            {
+              "identifier": "EJpnvUN",
+              "title": "**.NET Conf: Focus on Xamarin**",
+              "url_domain": "dotnetconf.net",
+              "url": "https://focus.dotnetconf.net"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "CSWwovk",
+          "type": "Link",
+          "title": "Experimental Flags in Xamarin.Forms",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/experimental-flags-xamarin-forms/",
+          "description": "<p>You've probably seen the use of Experimental Flags in Xamarin.Forms releases, and maybe you are wondering what all this is about.  Worry no more, Gerald is here to explain the why's and wherefores.</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/xamarin-forms-xamarin/experimental-flags-xamarin-forms/\"><strong>Experimental Flags in Xamarin.Forms</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald</a></p>",
+          "description_markdown": "You've probably seen the use of Experimental Flags in Xamarin.Forms releases, and maybe you are wondering what all this is about.  Worry no more, Gerald is here to explain the why's and wherefores.\r\n\r\n[**Experimental Flags in Xamarin.Forms**](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/experimental-flags-xamarin-forms/) by [Gerald](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "t6IU404",
+              "title": "**Experimental Flags in Xamarin.Forms**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/experimental-flags-xamarin-forms/"
+            },
+            {
+              "identifier": "ZpIvtVn",
+              "title": "Gerald",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "businessandmarketing",
+      "name": "BUSINESS & MARKETING",
+      "items": [
+        {
+          "identifier": "1qpGNhI",
+          "type": "Link",
+          "title": "Q&A with Miguel de Icaza",
+          "url_domain": "infoq.com",
+          "url": "https://www.infoq.com/articles/mono-xamarin-webassembly-net5/",
+          "description": "<p>It's always amazing to hear from the amazing Miguel de Icaza.  This is an interview he did with InfoQ on the history and future of all things mono.</p>\n\n<p><a href=\"https://www.infoq.com/articles/mono-xamarin-webassembly-net5/\"><strong>Mono: From Xamarin to WebAssembly, Blazor, and .NET 5 - Q&amp;A with Miguel de Icaza</strong></a> by <a href=\"https://www.infoq.com/profile/Arthur-Casals/\">Arthur Casals</a></p>",
+          "description_markdown": "It's always amazing to hear from the amazing Miguel de Icaza.  This is an interview he did with InfoQ on the history and future of all things mono.\r\n\r\n[**Mono: From Xamarin to WebAssembly, Blazor, and .NET 5 - Q&A with Miguel de Icaza**](https://www.infoq.com/articles/mono-xamarin-webassembly-net5/) by [Arthur Casals](https://www.infoq.com/profile/Arthur-Casals/)",
+          "embedded_links": [
+            {
+              "identifier": "dWbqieQ",
+              "title": "**Mono: From Xamarin to WebAssembly, Blazor, and .NET 5 - Q&A with Miguel de Icaza**",
+              "url_domain": "infoq.com",
+              "url": "https://www.infoq.com/articles/mono-xamarin-webassembly-net5/"
+            },
+            {
+              "identifier": "xolKvyO",
+              "title": "Arthur Casals",
+              "url_domain": "infoq.com",
+              "url": "https://www.infoq.com/profile/Arthur-Casals/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "WXJ7IbX",
+          "type": "Link",
+          "title": "Generate an Android App Bundle using Xamarin and Azure DevOps",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/02/03/generate-android-app-bundle-xamarin-azure-devops-en.html",
+          "description": "<p>Xamarin introduced Android App Bundle support a few weeks ago, it’s now time to take benefit of it! The Android App Bundle is a package that allows the user to download only what your application needs to run on their devices.</p>\n\n<p><a href=\"https://damienaicheh.github.io/xamarin/azure/devops/2020/02/03/generate-android-app-bundle-xamarin-azure-devops-en.html\"><strong>Generate an Android App Bundle using Xamarin and Azure DevOps</strong></a> by <a href=\"\">Damien Aicheh</a></p>",
+          "description_markdown": "Xamarin introduced Android App Bundle support a few weeks ago, it’s now time to take benefit of it! The Android App Bundle is a package that allows the user to download only what your application needs to run on their devices.\r\n\r\n[**Generate an Android App Bundle using Xamarin and Azure DevOps**](https://damienaicheh.github.io/xamarin/azure/devops/2020/02/03/generate-android-app-bundle-xamarin-azure-devops-en.html) by [Damien Aicheh]()",
+          "embedded_links": [
+            {
+              "identifier": "sAHA3g9",
+              "title": "**Generate an Android App Bundle using Xamarin and Azure DevOps**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/02/03/generate-android-app-bundle-xamarin-azure-devops-en.html"
+            }
+          ]
+        },
+        {
+          "identifier": "Mag7gz0",
+          "type": "Link",
+          "title": "Xamarin.Forms Android App Bundle (aab) DevOps YAML Pipeline",
+          "url_domain": "progrunning.net",
+          "url": "https://progrunning.net/xamarin-forms-android-aab-devops-yaml-pipeline/",
+          "description": "<p>Mikolaj Kieres continues his post on devops with Android App Bundles and his new found love of YAML pipelines.</p>\n\n<p><a href=\"https://progrunning.net/xamarin-forms-android-aab-devops-yaml-pipeline/\"><strong>Xamarin.Forms Android App Bundle (aab) DevOps YAML Pipeline</strong></a> by Mikolaj Kieres.</p>",
+          "description_markdown": "Mikolaj Kieres continues his post on devops with Android App Bundles and his new found love of YAML pipelines.\r\n\r\n[**Xamarin.Forms Android App Bundle (aab) DevOps YAML Pipeline**](https://progrunning.net/xamarin-forms-android-aab-devops-yaml-pipeline/) by Mikolaj Kieres.",
+          "embedded_links": [
+            {
+              "identifier": "jOtPVhN",
+              "title": "**Xamarin.Forms Android App Bundle (aab) DevOps YAML Pipeline**",
+              "url_domain": "progrunning.net",
+              "url": "https://progrunning.net/xamarin-forms-android-aab-devops-yaml-pipeline/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "1lQSVRL",
+          "type": "Link",
+          "title": "Visual Studio XAML Binding Debug Extension",
+          "url_domain": "visualstudio.com",
+          "url": "https://marketplace.visualstudio.com/items?itemName=PeterSpa.XamlBinding",
+          "description": "<p>This extension provides a tool window that shows XAML binding errors while debugging in Visual Studio 2019. The tool window makes it much easier to detect and understand the binding errors in your XAML that would normally be hidden in the output window.</p>\n\n<p><a href=\"https://marketplace.visualstudio.com/items?itemName=PeterSpa.XamlBinding\"><strong>XAML Binding Debug Output</strong></a></p>",
+          "description_markdown": "This extension provides a tool window that shows XAML binding errors while debugging in Visual Studio 2019. The tool window makes it much easier to detect and understand the binding errors in your XAML that would normally be hidden in the output window.\r\n\r\n[**XAML Binding Debug Output**](https://marketplace.visualstudio.com/items?itemName=PeterSpa.XamlBinding) ",
+          "embedded_links": [
+            {
+              "identifier": "gvZBetX",
+              "title": "**XAML Binding Debug Output**",
+              "url_domain": "visualstudio.com",
+              "url": "https://marketplace.visualstudio.com/items?itemName=PeterSpa.XamlBinding"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "fGcwJ1S",
+          "type": "Link",
+          "title": "GradientProgressBar: Accepting touch input Skiasharp",
+          "url_domain": "somostechies.com",
+          "url": "https://somostechies.com/gradientprogressbar-accepting-touch-input-skiasharp/",
+          "description": "<p>I loves myself some SkiaSharp... and so does Jesus Angulo!  In this post, he extends his SkiaSharp progress bar so a user can click and update the progress.</p>\n\n<p><a href=\"https://somostechies.com/gradientprogressbar-accepting-touch-input-skiasharp/\"><strong>GradientProgressBar: Accepting touch input Skiasharp</strong></a> by <a href=\"https://somostechies.com/author/jesus/\">Jesus Angulo</a></p>",
+          "description_markdown": "I loves myself some SkiaSharp... and so does Jesus Angulo!  In this post, he extends his SkiaSharp progress bar so a user can click and update the progress.\r\n\r\n[**GradientProgressBar: Accepting touch input Skiasharp**](https://somostechies.com/gradientprogressbar-accepting-touch-input-skiasharp/) by [Jesus Angulo](https://somostechies.com/author/jesus/)",
+          "embedded_links": [
+            {
+              "identifier": "uksBMuT",
+              "title": "**GradientProgressBar: Accepting touch input Skiasharp**",
+              "url_domain": "somostechies.com",
+              "url": "https://somostechies.com/gradientprogressbar-accepting-touch-input-skiasharp/"
+            },
+            {
+              "identifier": "pXF1P8t",
+              "title": "Jesus Angulo",
+              "url_domain": "somostechies.com",
+              "url": "https://somostechies.com/author/jesus/"
+            }
+          ]
+        },
+        {
+          "identifier": "HvruGMZ",
+          "type": "Link",
+          "title": "Using addresses, maps and geocoordinates in your Xamarin Forms apps",
+          "url_domain": "mallibone.com",
+          "url": "https://mallibone.com/post/xamarin-maps-addresses-geocoords",
+          "description": "<p>Ever had to develop an app where the position of something was of interest. An address of a user, store, restaurant or some other point of interest? The straight forward version might be to provide the user with a simple form.</p>\n\n<p>While the form is easy to implement and reliable, it can be cumbersome.  Why not allow the user to click on a map to set the address.  Geocoding to the rescue!</p>\n\n<p><a href=\"https://mallibone.com/post/xamarin-maps-addresses-geocoords\"><strong>Using addresses, maps and geocoordinates in your Xamarin Forms apps</strong></a> by Mark Allibone</p>",
+          "description_markdown": "Ever had to develop an app where the position of something was of interest. An address of a user, store, restaurant or some other point of interest? The straight forward version might be to provide the user with a simple form. \r\n\r\nWhile the form is easy to implement and reliable, it can be cumbersome.  Why not allow the user to click on a map to set the address.  Geocoding to the rescue!\r\n\r\n[**Using addresses, maps and geocoordinates in your Xamarin Forms apps**](https://mallibone.com/post/xamarin-maps-addresses-geocoords) by Mark Allibone",
+          "embedded_links": [
+            {
+              "identifier": "gEwFbAY",
+              "title": "**Using addresses, maps and geocoordinates in your Xamarin Forms apps**",
+              "url_domain": "mallibone.com",
+              "url": "https://mallibone.com/post/xamarin-maps-addresses-geocoords"
+            }
+          ]
+        },
+        {
+          "identifier": "Y76eMBv",
+          "type": "Link",
+          "title": "Xamarin UI Challenge - Banking Profile UI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/lets-replicate-a-banking-profile-ui-in-xamarin-forms/",
+          "description": "<p>Leomaris has created another blog post on creating UI's in Xamarin.Forms.  This time she takes on a really nice looking page from a banking application she found on Dribbble.</p>\n\n<p><a href=\"https://askxammy.com/lets-replicate-a-banking-profile-ui-in-xamarin-forms/\"><strong>Let’s replicate a Banking Profile UI in Xamarin Forms</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris has created another blog post on creating UI's in Xamarin.Forms.  This time she takes on a really nice looking page from a banking application she found on Dribbble.\r\n\r\n[**Let’s replicate a Banking Profile UI in Xamarin Forms**](https://askxammy.com/lets-replicate-a-banking-profile-ui-in-xamarin-forms/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "kpFcFkS",
+              "title": "**Let’s replicate a Banking Profile UI in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/lets-replicate-a-banking-profile-ui-in-xamarin-forms/"
+            },
+            {
+              "identifier": "rRUe6pj",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "SgTmLMQ",
+          "type": "Link",
+          "title": "Xamarin.Forms Tips and Tricks",
+          "url_domain": "altkomsoftware.pl",
+          "url": "https://altkomsoftware.pl/en/blog/xamarin-forms-tips-tricks/",
+          "description": "<p>In this post Bartosz Jędrecki shares some tips and tricks that Altkom Software discovered during the development of ONSTAGE application as well as their Insurance Sales PoC.</p>\n\n<p><a href=\"https://altkomsoftware.pl/en/blog/xamarin-forms-tips-tricks/\"><strong>Xamarin.Forms Tips and Tricks</strong></a></p>",
+          "description_markdown": "In this post Bartosz Jędrecki shares some tips and tricks that Altkom Software discovered during the development of ONSTAGE application as well as their Insurance Sales PoC.  \r\n\r\n[**Xamarin.Forms Tips and Tricks**](https://altkomsoftware.pl/en/blog/xamarin-forms-tips-tricks/)",
+          "embedded_links": [
+            {
+              "identifier": "bnEvSON",
+              "title": "**Xamarin.Forms Tips and Tricks**",
+              "url_domain": "altkomsoftware.pl",
+              "url": "https://altkomsoftware.pl/en/blog/xamarin-forms-tips-tricks/"
+            }
+          ]
+        },
+        {
+          "identifier": "WvW3yHw",
+          "type": "Link",
+          "title": "Braintree integration with Xamarin.Forms (part 2)",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2020/02/11/braintree-integration-in-xamarin-forms-part-2/",
+          "description": "<p>In his previous article, Rendy covered how to setup the braintree client-side integration to support credit card payments. Now he is extending the Braintree client-side integration to support Apple Pay and Google Pay payments in Xamarin Forms.</p>\n\n<p><a href=\"https://www.xamboy.com/2020/02/11/braintree-integration-in-xamarin-forms-part-2/\"><strong>Braintree integration in Xamarin Forms (Part.2 )</strong></a> by Rendy</p>",
+          "description_markdown": "In his previous article, Rendy covered how to setup the braintree client-side integration to support credit card payments. Now he is extending the Braintree client-side integration to support Apple Pay and Google Pay payments in Xamarin Forms.\r\n\r\n[**Braintree integration in Xamarin Forms (Part.2 )**](https://www.xamboy.com/2020/02/11/braintree-integration-in-xamarin-forms-part-2/) by Rendy",
+          "embedded_links": [
+            {
+              "identifier": "HFtx33M",
+              "title": "**Braintree integration in Xamarin Forms (Part.2 )**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2020/02/11/braintree-integration-in-xamarin-forms-part-2/"
+            }
+          ]
+        },
+        {
+          "identifier": "bg9sozf",
+          "type": "Link",
+          "title": "Tabs with Triggers",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/tabs-and-triggers/",
+          "description": "<p>Xamarin.Forms makes setting Tabs Icons super easy! All there is to do is set the Icon property to the path of an image and you are done. Better still, you can use FontImageSource to have scalable vector graphics used for your icons. As well as avoid all that hassle with resolution dependent images.</p>\n\n<p>This article also covers another interesting thing called StyleTriggers.  Not something I have personally used much, but it provides a super simple way of dynamically changing a bindable property (like a tab icon).</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/tabs-and-triggers/\"><strong>Tabs with Triggers using Xamarin.Forms is simple and easy : Xamarin Blog</strong></a> by <a href=\"\"></a></p>",
+          "description_markdown": "Xamarin.Forms makes setting Tabs Icons super easy! All there is to do is set the Icon property to the path of an image and you are done. Better still, you can use FontImageSource to have scalable vector graphics used for your icons. As well as avoid all that hassle with resolution dependent images.\r\n\r\nThis article also covers another interesting thing called StyleTriggers.  Not something I have personally used much, but it provides a super simple way of dynamically changing a bindable property (like a tab icon).\r\n\r\n[**Tabs with Triggers using Xamarin.Forms is simple and easy : Xamarin Blog**](https://devblogs.microsoft.com/xamarin/tabs-and-triggers/) by []()",
+          "embedded_links": [
+            {
+              "identifier": "4BRUynj",
+              "title": "**Tabs with Triggers using Xamarin.Forms is simple and easy : Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/tabs-and-triggers/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "security",
+      "name": "SECURITY",
+      "items": [
+        {
+          "identifier": "vFKyIfR",
+          "type": "Link",
+          "title": "MSAL + AAD B2C – 6 Tips, Tricks and Facts",
+          "url_domain": "dylanberry.com",
+          "url": "https://www.dylanberry.com/2020/02/08/implementing-msal-aad-b2c-in-xamarin-6-tips-tricks-and-facts/",
+          "description": "<p>Inspired by Steven Thewissen’s excellent MSAL article, Dylan Berry shares what he has learnt about MSAL over the 3+ years he's worked with MSAL and Xamarin.</p>\n\n<p><a href=\"https://www.dylanberry.com/2020/02/08/implementing-msal-aad-b2c-in-xamarin-6-tips-tricks-and-facts/\"><strong>Implementing MSAL + AAD B2C in Xamarin – 6 Tips, Tricks and Facts</strong></a> by <a href=\"https://www.dylanberry.com/author/dylanberry_nl71be/\">Dylan Berry</a></p>",
+          "description_markdown": "Inspired by Steven Thewissen’s excellent MSAL article, Dylan Berry shares what he has learnt about MSAL over the 3+ years he's worked with MSAL and Xamarin. \r\n\r\n[**Implementing MSAL + AAD B2C in Xamarin – 6 Tips, Tricks and Facts**](https://www.dylanberry.com/2020/02/08/implementing-msal-aad-b2c-in-xamarin-6-tips-tricks-and-facts/) by [Dylan Berry](https://www.dylanberry.com/author/dylanberry_nl71be/)",
+          "embedded_links": [
+            {
+              "identifier": "cMG9oYM",
+              "title": "**Implementing MSAL + AAD B2C in Xamarin – 6 Tips, Tricks and Facts**",
+              "url_domain": "dylanberry.com",
+              "url": "https://www.dylanberry.com/2020/02/08/implementing-msal-aad-b2c-in-xamarin-6-tips-tricks-and-facts/"
+            },
+            {
+              "identifier": "idyLsSG",
+              "title": "Dylan Berry",
+              "url_domain": "dylanberry.com",
+              "url": "https://www.dylanberry.com/author/dylanberry_nl71be/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "jRp2hAF",
+          "type": "Link",
+          "title": "The future has two screens",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/surface-duo-surface-neo-with-xamarin-forms/",
+          "description": "<p>Today we are announcing the preview availability of our cross-platform dual-screen support for the Surface Duo and Surface Neo, two new and amazing devices coming from the Surface team. Previously, we debuted Xamarin.Android and Xamarin.Forms support for the SDK for Surface Duo.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/surface-duo-surface-neo-with-xamarin-forms/\"><strong>Surface Duo and Surface Neo with Xamarin.Forms Preview : Xamarin Blog</strong></a></p>",
+          "description_markdown": "Today we are announcing the preview availability of our cross-platform dual-screen support for the Surface Duo and Surface Neo, two new and amazing devices coming from the Surface team. Previously, we debuted Xamarin.Android and Xamarin.Forms support for the SDK for Surface Duo.\r\n\r\n[**Surface Duo and Surface Neo with Xamarin.Forms Preview : Xamarin Blog**](https://devblogs.microsoft.com/xamarin/surface-duo-surface-neo-with-xamarin-forms/)",
+          "embedded_links": [
+            {
+              "identifier": "mchttQq",
+              "title": "**Surface Duo and Surface Neo with Xamarin.Forms Preview : Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/surface-duo-surface-neo-with-xamarin-forms/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
