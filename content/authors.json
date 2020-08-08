@@ -22,6 +22,8 @@
     },
     {
       "Name": "Ahmed Fouad",
+      "TwitterHandle": "MCC_Ahmed",
+      "GitHubHandle": "TheFo2sh",
       "Id": "https://twitter.com/mcc_ahmed",
       "Aliases": [
         {
@@ -32,17 +34,21 @@
           "Type": "blog",
           "Name": "https://itnext.io/@csharpwriter"
         }
-      ]
+      ],
+      "Website": "https://itnext.com/@csharpwriter"
     },
     {
       "Name": "Alejandro Ruiz",
+      "TwitterHandle": "alejandroruizva",
+      "GitHubHandle": "AlejandroRuiz",
       "Id": "https://www.blogger.com/profile/02339751054134524870",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://www.blogger.com/profile/02339751054134524870"
         }
-      ]
+      ],
+      "Website": "https://alejandroruizvarela.blogspot.mx"
     },
     {
       "Name": "Aleksandar Gerchev",
@@ -100,13 +106,16 @@
     },
     {
       "Name": "Andreas Nesheim",
+      "TwitterHandle": "AndreasNesheim",
+      "GitHubHandle": "andreas-nesheim",
       "Id": "https://twitter.com/andreasnesheim",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/andreasnesheim"
         }
-      ]
+      ],
+      "Website": "https://www.andreasnesheim.no/"
     },
     {
       "Name": "Andreas Wäscher",
@@ -130,13 +139,16 @@
     },
     {
       "Name": "Andrew Hoefling",
+      "TwitterHandle": "andrew_hoefling",
+      "GitHubHandle": "ahoefling",
       "Id": "https://twitter.com/andrew_hoefling",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/andrew_hoefling"
         }
-      ]
+      ],
+      "Website": "https://www.andrewhoefling.com/"
     },
     {
       "Name": "Antonio Bello",
@@ -170,13 +182,16 @@
     },
     {
       "Name": "Bence Lenart",
+      "TwitterHandle": "officialdoniald",
+      "GitHubHandle": "officialdoniald",
       "Id": "https://github.com/officialdoniald/",
       "Aliases": [
         {
           "Type": "github",
           "Name": "https://github.com/officialdoniald/"
         }
-      ]
+      ],
+      "Website": "ttps://officialdoniald.azurewebsites.net/"
     },
     {
       "Name": "Bill Leach",
@@ -190,23 +205,29 @@
     },
     {
       "Name": "Bohdan Benetskyi",
+      "TwitterHandle": "bbenetskyy",
+      "GitHubHandle": "bbenetskyy",
       "Id": "https://twitter.com/bbenetskyy",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/bbenetskyy"
         }
-      ]
+      ],
+      "Website": "https://medium.com/@benetskyybogdan/"
     },
     {
       "Name": "Brandon Minnick",
+      "TwitterHandle": "TheCodeTraveler",
+      "GitHubHandle": "brminnick",
       "Id": "https://codetraveler.io/author/brandon/",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://codetraveler.io/author/brandon/"
         }
-      ]
+      ],
+      "Website": "https://codetraveler.io"
     },
     {
       "Name": "Chaim Gartenberg",
@@ -220,13 +241,16 @@
     },
     {
       "Name": "Charlin Agramonte",
+      "TwitterHandle": "Chard003",
+      "GitHubHandle": "char0394",
       "Id": "https://twitter.com/chard003",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/chard003"
         }
-      ]
+      ],
+      "Website": "https://xamgirl.com/"
     },
     {
       "Name": "Cheng Yang",
@@ -260,43 +284,55 @@
     },
     {
       "Name": "Damian Mehers",
+      "TwitterHandle": "DamianMehers",
+      "GitHubHandle": "DamianMehers",
       "Id": "https://twitter.com/damianmehers",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/damianmehers"
         }
-      ]
+      ],
+      "Website": "https://damian.fyi/"
     },
     {
       "Name": "Damien Aicheh",
+      "TwitterHandle": "damienaicheh",
+      "GitHubHandle": "damienaicheh",
       "Id": "https://twitter.com/damienaicheh",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/damienaicheh"
         }
-      ]
+      ],
+      "Website": "https://damienaicheh.github.io/"
     },
     {
       "Name": "Damien Doumer",
+      "TwitterHandle": "Damien_Doumer",
+      "GitHubHandle": "damiendoumer",
       "Id": "https://twitter.com/damien_doumer",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/damien_doumer"
         }
-      ]
+      ],
+      "Website": "https://doumer.me/"
     },
     {
       "Name": "Dan Siegel",
+      "TwitterHandle": "DanJSiegel",
+      "GitHubHandle": "dansiegel",
       "Id": "https://twitter.com/danjsiegel",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/danjsiegel"
         }
-      ]
+      ],
+      "Website": "https://dansiegel.net"
     },
     {
       "Name": "Daniel Gauthier",
@@ -310,6 +346,8 @@
     },
     {
       "Name": "Daniel Hindrikes",
+      "TwitterHandle": "hindrikes",
+      "GitHubHandle": "dhindrik",
       "Id": "https://twitter.com/hindrikes",
       "Aliases": [
         {
@@ -320,17 +358,21 @@
           "Type": "blog",
           "Name": "https://danielhindrikes.se/index.php/author/dhindrik/"
         }
-      ]
+      ],
+      "Website": "https://danielhindrikes.se"
     },
     {
       "Name": "David Britch",
+      "TwitterHandle": "britchdavid",
+      "GitHubHandle": "davidbritch",
       "Id": "https://www.blogger.com/profile/08228714867310322959",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://www.blogger.com/profile/08228714867310322959"
         }
-      ]
+      ],
+      "Website": "https://www.davidbritch.com"
     },
     {
       "Name": "David Ortinau",
@@ -354,13 +396,16 @@
     },
     {
       "Name": "Delpin Susai Raj",
+      "TwitterHandle": "susairajs18",
+      "GitHubHandle": "susairajs",
       "Id": "https://www.blogger.com/profile/12290645674821205145",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://www.blogger.com/profile/12290645674821205145"
         }
-      ]
+      ],
+      "Website": "https://xamarinmonkeys.blogspot.com/"
     },
     {
       "Name": "DevCrux Technologies",
@@ -374,13 +419,16 @@
     },
     {
       "Name": "Divikiran Ravela",
+      "TwitterHandle": "",
+      "GitHubHandle": "divikiran",
       "Id": "https://xamlabs.com/about/",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://xamlabs.com/about/"
         }
-      ]
+      ],
+      "Website": "https://xamlabs.com/"
     },
     {
       "Name": "Eduardo Rosas Osorno",
@@ -414,13 +462,16 @@
     },
     {
       "Name": "Gerald Versluis",
+      "TwitterHandle": "jfversluis",
+      "GitHubHandle": "jfversluis",
       "Id": "https://blog.verslu.is/author/admin/",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://blog.verslu.is/author/admin/"
         }
-      ]
+      ],
+      "Website": "https://blog.verslu.is/"
     },
     {
       "Name": "Glenn Stephens",
@@ -454,6 +505,8 @@
     },
     {
       "Name": "James Montemagno",
+      "TwitterHandle": "JamesMontemagno",
+      "GitHubHandle": "jamesmontemagno",
       "Id": "https://channel9.msdn.com/niners/jamesmontemagno",
       "Aliases": [
         {
@@ -468,7 +521,8 @@
           "Type": "blog",
           "Name": "https://channel9.msdn.com/niners/jamesmontemagno"
         }
-      ]
+      ],
+      "Website": "https://montemagno.com"
     },
     {
       "Name": "Javier Suárez",
@@ -500,23 +554,29 @@
     },
     {
       "Name": "Jean-Marie Alfonsi",
+      "TwitterHandle": "Piskariov",
+      "GitHubHandle": "roubachof",
       "Id": "https://www.sharpnado.com/author/roubachof/",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://www.sharpnado.com/author/roubachof/"
         }
-      ]
+      ],
+      "Website": "https://www.sharpnado.com/"
     },
     {
       "Name": "Jesse Liberty",
+      "TwitterHandle": "jesseliberty",
+      "GitHubHandle": "JesseLiberty",
       "Id": "http://jesseliberty.com/author/jl/",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "http://jesseliberty.com/author/jl/"
         }
-      ]
+      ],
+      "Website": "http://jesseliberty.me"
     },
     {
       "Name": "Jesus Angulo",
@@ -530,16 +590,21 @@
     },
     {
       "Name": "John Thiriet",
+      "TwitterHandle": "johnthiriet",
+      "GitHubHandle": "johnthiriet",
       "Id": "https://twitter.com/johnthiriet",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/johnthiriet"
         }
-      ]
+      ],
+      "Website": "https://johnthiriet.com/"
     },
     {
       "Name": "Jon Dick",
+      "TwitterHandle": "redth",
+      "GitHubHandle": "redth",
       "Id": "https://devblogs.microsoft.com/xamarin/author/redth/",
       "Aliases": [
         {
@@ -550,27 +615,34 @@
           "Type": "twitter",
           "Name": "https://twitter.com/redth"
         }
-      ]
+      ],
+      "Website": "https://redth.codes"
     },
     {
       "Name": "Jon Douglas",
+      "TwitterHandle": "_jondouglas",
+      "GitHubHandle": "JonDouglas",
       "Id": "https://devblogs.microsoft.com/xamarin/author/jondouglas/",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://devblogs.microsoft.com/xamarin/author/jondouglas/"
         }
-      ]
+      ],
+      "Website": "https://www.jon-douglas.com/"
     },
     {
       "Name": "Juliano Custódio",
+      "TwitterHandle": "JuuCustodio",
+      "GitHubHandle": "JuuCustodio",
       "Id": "https://julianocustodio.com/author/juucustodio/",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://julianocustodio.com/author/juucustodio/"
         }
-      ]
+      ],
+      "Website": "https://www.julianocustodio.com"
     },
     {
       "Name": "Keith Harrison",
@@ -598,6 +670,8 @@
     },
     {
       "Name": "Kym Phillpotts",
+      "TwitterHandle": "kphillpotts",
+      "GitHubHandle": "kphillpotts",
       "Id": "https://kymphillpotts.com/author/kphillpotts",
       "Aliases": [
         {
@@ -608,7 +682,8 @@
           "Type": "blog",
           "Name": "https://kymphillpotts.com/author/kphillpotts"
         }
-      ]
+      ],
+      "Website": "https://kymphillpotts.com/"
     },
     {
       "Name": "Lachlan Gordon",
@@ -632,6 +707,8 @@
     },
     {
       "Name": "Leomaris Reyes",
+      "TwitterHandle": "leomarisreyes11",
+      "GitHubHandle": "LeomarisReyes",
       "Id": "https://twitter.com/leomarisreyes11",
       "Aliases": [
         {
@@ -646,7 +723,8 @@
           "Type": "blog",
           "Name": "https://www.telerik.com/blogs/author/leomaris-reyes"
         }
-      ]
+      ],
+      "Website": "https://askxammy.com/"
     },
     {
       "Name": "Les Brown",
@@ -660,6 +738,8 @@
     },
     {
       "Name": "Logesh Palani",
+      "TwitterHandle": "logeshpalani98",
+      "GitHubHandle": "logeshpalani98",
       "Id": "https://twitter.com/logeshpalani98",
       "Aliases": [
         {
@@ -674,7 +754,8 @@
           "Type": "blog",
           "Name": "https://xmonkeys360.com/author/logeshpalani/"
         }
-      ]
+      ],
+      "Website": "https://logeshpalani.blogspot.com/"
     },
     {
       "Name": "Lorenzo Araujo",
@@ -698,23 +779,29 @@
     },
     {
       "Name": "Luis Matos",
+      "TwitterHandle": "luismatosluna",
+      "GitHubHandle": "luismts",
       "Id": "https://twitter.com/luismatosluna",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/luismatosluna"
         }
-      ]
+      ],
+      "Website": "https://www.luismts.com/"
     },
     {
       "Name": "Luis Pujols",
+      "TwitterHandle": "Pujolsluis1",
+      "GitHubHandle": "Pujolsluis",
       "Id": "https://www.pujolsluis.com/author/admin/",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://www.pujolsluis.com/author/admin/"
         }
-      ]
+      ],
+      "Website": "https://www.pujolsluis.com/"
     },
     {
       "Name": "Maddy Leger",
@@ -738,23 +825,29 @@
     },
     {
       "Name": "Marco Kuiper",
+      "TwitterHandle": "marcofolio",
+      "GitHubHandle": "marcofolio",
       "Id": "https://twitter.com/marcofolio",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/marcofolio"
         }
-      ]
+      ],
+      "Website": "https://www.marcofolio.net/"
     },
     {
       "Name": "Marco Siccardi",
+      "TwitterHandle": "msicc",
+      "GitHubHandle": "msiccdev",
       "Id": "https://twitter.com/msicc",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/msicc"
         }
-      ]
+      ],
+      "Website": "https://msicc.net/category/devstories/xamarin/"
     },
     {
       "Name": "Marius Muntean",
@@ -768,33 +861,42 @@
     },
     {
       "Name": "Mark Allibone",
+      "TwitterHandle": "mallibone",
+      "GitHubHandle": "mallibone",
       "Id": "https://twitter.com/mallibone",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/mallibone"
         }
-      ]
+      ],
+      "Website": "https://mallibone.com"
     },
     {
       "Name": "Martin Zikmund",
+      "TwitterHandle": "MZetko",
+      "GitHubHandle": "MartinZikmund",
       "Id": "https://twitter.com/mzikmunddev",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/mzikmunddev"
         }
-      ]
+      ],
+      "Website": "https://blog.mzikmund.com/"
     },
     {
       "Name": "Matt Crombie",
+      "TwitterHandle": "xamarinhowto",
+      "GitHubHandle": "xamarinhowto",
       "Id": "https://xamarinhowto.com/author/mattxamarinhowto-com/",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://xamarinhowto.com/author/mattxamarinhowto-com/"
         }
-      ]
+      ],
+      "Website": "https://xamarinhowto.com/"
     },
     {
       "Name": "Matt Soucoup",
@@ -818,16 +920,21 @@
     },
     {
       "Name": "Matthew Soucoup",
+      "TwitterHandle": "codemillmatt",
+      "GitHubHandle": "codemillmatt",
       "Id": "https://codemilltech.com/author/matthew/",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://codemilltech.com/author/matthew/"
         }
-      ]
+      ],
+      "Website": "https://codemilltech.com"
     },
     {
       "Name": "Merge Conflict",
+      "TwitterHandle": "MergeConflictFM",
+      "GitHubHandle": "",
       "Id": "https://www.mergeconflict.fm/",
       "Aliases": [
         {
@@ -838,7 +945,8 @@
           "Type": "blog",
           "Name": "https://www.mergeconflict.fm/"
         }
-      ]
+      ],
+      "Website": "http://mergeconflict.fm"
     },
     {
       "Name": "Michael Flarup",
@@ -872,6 +980,8 @@
     },
     {
       "Name": "Nick Randolph",
+      "TwitterHandle": "thenickrandolph",
+      "GitHubHandle": "nickrandolph",
       "Id": "https://twitter.com/thenickrandolph",
       "Aliases": [
         {
@@ -882,17 +992,21 @@
           "Type": "blog",
           "Name": "https://nicksnettravelsblog.azurewebsites.net/author/nick/"
         }
-      ]
+      ],
+      "Website": "https://builttoroam.com"
     },
     {
       "Name": "Nigel Ferrissey",
+      "TwitterHandle": "nferrissey",
+      "GitHubHandle": "nigelferrissey",
       "Id": "https://www.telerik.com/blogs/author/nigel-ferrissey",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://www.telerik.com/blogs/author/nigel-ferrissey"
         }
-      ]
+      ],
+      "Website": "https://xamarininsider.com"
     },
     {
       "Name": "Nijamudeen",
@@ -980,23 +1094,29 @@
     },
     {
       "Name": "Rendy Del Rosario",
+      "TwitterHandle": "rdelrosario",
+      "GitHubHandle": "rdelrosario",
       "Id": "https://twitter.com/rdelrosario",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/rdelrosario"
         }
-      ]
+      ],
+      "Website": "https://xamboy.com/"
     },
     {
       "Name": "Ricardo Prestes",
+      "TwitterHandle": "ricardo_prestes",
+      "GitHubHandle": "ricardoprestes",
       "Id": "https://oficinadologan.wordpress.com/author/ricardoprestes/",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://oficinadologan.wordpress.com/author/ricardoprestes/"
         }
-      ]
+      ],
+      "Website": "https://oficinadologan.wordpress.com/"
     },
     {
       "Name": "Rich Bryant",
@@ -1010,13 +1130,16 @@
     },
     {
       "Name": "Robin Schroeder",
+      "TwitterHandle": "RTSchroeder",
+      "GitHubHandle": "robintschroeder",
       "Id": "https://www.msctek.com/author/robin-schroeder/",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://www.msctek.com/author/robin-schroeder/"
         }
-      ]
+      ],
+      "Website": "https://msctek.com/"
     },
     {
       "Name": "Roxana Jula",
@@ -1064,13 +1187,16 @@
     },
     {
       "Name": "Sebastian Jensen",
+      "TwitterHandle": "tsjdevapps",
+      "GitHubHandle": "tsjdev-apps",
       "Id": "https://www.tsjdev-apps.de/author/tsjdev/",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://www.tsjdev-apps.de/author/tsjdev/"
         }
-      ]
+      ],
+      "Website": "https://www.tsjdev-apps.de/"
     },
     {
       "Name": "Selva Ganapathy Kathiresan",
@@ -1104,6 +1230,8 @@
     },
     {
       "Name": "Steven Thewissen",
+      "TwitterHandle": "devnl",
+      "GitHubHandle": "sthewissen",
       "Id": "https://twitter.com/devnl",
       "Aliases": [
         {
@@ -1114,7 +1242,8 @@
           "Type": "blog",
           "Name": "https://www.thewissen.io/author/steven/"
         }
-      ]
+      ],
+      "Website": "https://www.thewissen.io/"
     },
     {
       "Name": "Student Developer Team",
@@ -1148,56 +1277,73 @@
     },
     {
       "Name": "The Xamarin Show",
+      "TwitterHandle": "TheXamarinShow",
+      "GitHubHandle": "",
       "Id": "https://channel9.msdn.com/shows/xamarinshow",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://channel9.msdn.com/shows/xamarinshow"
         }
-      ]
+      ],
+      "Website": "http://xamarinshow.com"
     },
     {
       "Name": "Thiago Bertuzzi",
+      "TwitterHandle": "tbertuzzi",
+      "GitHubHandle": "tbertuzzi",
       "Id": "https://medium.com/@bertuzzi",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://medium.com/@bertuzzi"
         }
-      ]
+      ],
+      "Website": "https://medium.com/@bertuzzi/"
     },
     {
       "Name": "Thomas Bandt",
+      "TwitterHandle": "asp_net",
+      "GitHubHandle": "aspnetde",
       "Id": "https://twitter.com/asp_net",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/asp_net"
         }
-      ]
+      ],
+      "Website": "https://thomasbandt.com/"
     },
     {
       "Name": "Tom Soderling",
+      "TwitterHandle": "tomsoderling",
+      "GitHubHandle": "TomSoderling",
       "Id": "https://twitter.com/tomsoderling",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/tomsoderling"
         }
-      ]
+      ],
+      "Website": "https://tomsoderling.github.io"
     },
     {
       "Name": "Tomasz Cielecki",
+      "TwitterHandle": "Cheesebaron",
+      "GitHubHandle": "Cheesebaron",
       "Id": "https://twitter.com/cheesebaron",
       "Aliases": [
         {
           "Type": "twitter",
           "Name": "https://twitter.com/cheesebaron"
         }
-      ]
+      ],
+      "Website": "https://blog.ostebaronen.dk"
     },
     {
       "Name": "Udara Alwis",
+      "TwitterHandle": "Udara_Alwis",
+      "GitHubHandle": "UdaraAlwis",
       "Id": "https://twitter.com/udara_alwis",
       "Aliases": [
         {
@@ -1208,7 +1354,8 @@
           "Type": "github",
           "Name": "https://github.com/udaraalwis"
         }
-      ]
+      ],
+      "Website": "https://theconfuzedsourcecode.wordpress.com/"
     },
     {
       "Name": "Vicente G. Guzmán Lucio",
