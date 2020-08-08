@@ -1,0 +1,154 @@
+{
+  "Id": "245",
+  "Name": "Issue 245",
+  "UpdatedTimeStamp": "2020-02-07T12:02:50Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hey everyone, Happy Friday! Sorry the newsletter is a bit later than usual. Kym is still in Seattle at \"The Mothership\" and I was on my way back from a trip too and internet wasn't my friend! A nice varied mix of links this week. As usual, thanks to everyone for their contributions! I was at NDC London last week, teaching Xamarin to a friend who works at Twilio. We had a great time and it seemed to go down well, yay! Always love sharing our love of Xamarin with new attendees. Have a great weekend and see you all next week for more fantastic Xamarin content! Luce 🧡",
+  "PublishDate": "2020-02-07T12:02:44Z",
+  "Curators": "Luce Carter",
+  "Articles": [
+    {
+      "Title": "Little Cupid App that Transforms TV into Augmented Reality",
+      "Url": "https://devblogs.microsoft.com/xamarin/little-cupid-transforms-tv-to-ar/",
+      "Description": "I always enjoy reading customer showcase articles on the Xamarin blog as you hear about all the awesome things people are doing with Xamarin. This article is no different!",
+      "EditionId": "245",
+      "Author": "Christos Matskas",
+      "Id": "245-1",
+      "Category": "APP OF THE WEEK"
+    },
+    {
+      "Title": "Deploy Xamarin.Forms Apps to App Center from a Azure Multi-Stage Pipeline using Templates and Environments that Require Manual Approval",
+      "Url": "https://nicksnettravels.builttoroam.com/appcenter-deployment/?utm_source=rss&utm_medium=rss&utm_campaign=appcenter-deployment",
+      "Description": "Sometimes you want to separate the build and release pipelines in Azure DevOps. Unfortunately when using YAML, this can be quite awkward. Nick has you covered however with another post in his series on DevOps. This time he shows you how to deploy to App Center for testing during the build.",
+      "EditionId": "245",
+      "Author": "Nick Randolph",
+      "Id": "245-2",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Sharpnado's Xamarin.Forms XamlStyler config file",
+      "Url": "https://www.sharpnado.com/xamarin-forms-xamlstyler-config/",
+      "Description": "I heard XamlStyler mentioned a few times last year, all for positive reasons. So it's great to see Jean-Marie has gone ahead and shared his config for it when developing Xamarin.Forms XAML.",
+      "EditionId": "245",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "245-3",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Using Custom AOT Profiles with Xamarin.Android",
+      "Url": "https://ryandavis.io/using-custom-aot-profiles-with-xamarin-android/",
+      "Description": "For as long as Ryan can remember, Xamarin.Android has given developers the ability to choose between using JIT and AOT compilation for their applications. JIT'ed builds are far smaller, but carry the overhead of runtime method compilation. AOT builds are much larger, but generally more performant - often by a substantial margin. Ryan has a plan to try and get the best of both worlds to get the most performant compilation possible thanks to new features with Startup Tracing/Profile AOT from the Xamarin.Android team.",
+      "EditionId": "245",
+      "Author": "Ryan Davis",
+      "Id": "245-4",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Re-signing a IPA file",
+      "Url": "https://blog.ostebaronen.dk/2020/02/resigning-ipa.html",
+      "Description": "When working with iOS apps in Xamarin, signing your apps on release is unavoidable. However if your provisioning profile expires, you might not want to release a whole new version with this new profile. Instead you can re-sign the current app!",
+      "EditionId": "245",
+      "Author": "Tomasz Cielecki",
+      "Id": "245-5",
+      "Category": "IOS"
+    },
+    {
+      "Title": "How To Pick A Document In Xamarin.iOS",
+      "Url": "https://logeshpalani.blogspot.com/2020/01/how-to-pick-document-in-xamarinios.html",
+      "Description": "The DocumentViewController in iOS allows you to select documents on your iOS device. Logesh teaches you how to get started in a few short steps.",
+      "EditionId": "245",
+      "Author": "Logesh Palani",
+      "Id": "245-6",
+      "Category": "IOS"
+    },
+    {
+      "Title": "WPF Activity in Xamarin Forms",
+      "Url": "https://peterfoot.wordpress.com/2020/02/05/wpf-activity-in-xamarin-forms/",
+      "Description": "Peter is well known for his InTheHand.Forms library. But he has recently started having some features merged into Xamarin.Forms itself! In this post, Peter touches on his experience getting an ActivityIndicator in WPF.",
+      "EditionId": "245",
+      "Author": "Peter Foot",
+      "Id": "245-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Replicating user profile UI in Xamarin Forms",
+      "Url": "https://askxammy.com/replicating-user-profile-ui-in-xamarin-forms/",
+      "Description": "Profile pages are everywhere! Most apps have them so I was really excited to see Leomaris has replicated a user profile page, made it look beautiful and shared her experience!!",
+      "EditionId": "245",
+      "Author": "Leomaris Reyes",
+      "Id": "245-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Introducing the Xamarin.Forms Chat Control (Conversational UI)",
+      "Url": "https://www.syncfusion.com/blogs/post/xamarin-forms-chat-control-conversational-ui.aspx",
+      "Description": "Syncfusion are on fire lately! Not just with their controls being released but also the blog posts about them are always a great read! This time it is the turn of a chat control!",
+      "EditionId": "245",
+      "Author": "Neelakandan Kannan",
+      "Id": "245-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Implementing MSAL authentication in Xamarin.Forms",
+      "Url": "https://www.thewissen.io/implementing-msal-authentication-in-xamarin-forms/",
+      "Description": "Authenticating users in our app is a common challenge that mobile developers need to tackle. Leveraging existing authentication systems like those of social networks or big companies like Microsoft’s MSAL saves a lot of development time. But how do we get started?",
+      "EditionId": "245",
+      "Author": "Steven Thewissen",
+      "Id": "245-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms Twilio implementation",
+      "Url": "https://officialdoniald.azurewebsites.net/2020/02/05/xamarin-forms-twilio-implementation/",
+      "Description": "If you follow me on Twitter, you may be aware I am also a Twilio Champion. I had attempted Twilio bindings for Xamarin last year on my stream but it never got finished. So when I saw this post I jumped with excitement and got straight to reading!!",
+      "EditionId": "245",
+      "Author": "Bence Lenart",
+      "Id": "245-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Using Bindable Properties In Xamarin.Forms",
+      "Url": "https://www.mfractor.com/blogs/news/using-bindable-properties-in-xamarin-forms",
+      "Description": "Here at WeeklyXamarinHQ, we really love MFractor and this blog post on binding properties is great! It explains what they are and how you might use them, but then also goes on to discuss how much easier it can be thanks to a wizard built into MFractor.",
+      "EditionId": "245",
+      "Author": "Les Brown",
+      "Id": "245-12",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Improve Xamarin Forms App UX by Data Caching",
+      "Url": "https://xamgirl.com/improving-the-ux-of-a-xamarin-forms-application-by-caching-data/",
+      "Description": "When developing a mobile app persisting data is important, why? Because a mobile app is not a web app, it shouldn’t depend on having a reliable internet connection 100% of the time. For example, when you open a mobile app to see the list of transactions if you don’t have internet you will only see an empty screen with “There is no internet connection error” message. Won’t it be a better user experience if you could see the latest data cached? Charlin talks you through some options.",
+      "EditionId": "245",
+      "Author": "Charlin Agramonte",
+      "Id": "245-13",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Animating our Gradient Progress Bar Control in Xamarin.Forms",
+      "Url": "https://somostechies.com/animate-pb/",
+      "Description": "Jesús previously shared his custom Gradient Progress Bar Control and now he has taken that one step further by adding animation support!",
+      "EditionId": "245",
+      "Author": "Jesús Angulo",
+      "Id": "245-14",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Merge Conflict: 187: Blasting Off with Jupyter Notebooks",
+      "Url": "https://www.mergeconflict.fm/187",
+      "Description": "Frank goes deep on Jupyter Notebooks and James is oh so confused, but hey he got to fly some drones.",
+      "EditionId": "245",
+      "Author": "Merge Conflict",
+      "Id": "245-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin: .NET Community Standup - Feb 6th 2020 - Gradients Everywhere!",
+      "Url": "https://www.youtube.com/watch?v=pjCnog1wW_g",
+      "Description": "New month, new .NET Community Standup for Xamarin! [**Xamarin: .NET Community Standup - Feb 6th 2020 - Gradients Everywhere!**](https://www.youtube.com/watch?v=pjCnog1wW_g)",
+      "EditionId": "245",
+      "Id": "245-16",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

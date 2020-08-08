@@ -1,0 +1,457 @@
+{
+  "number": 245,
+  "title": "Issue 245",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/245",
+  "publication_status": "published",
+  "published_at": "2020-02-07T12:02:44+00:00",
+  "updated_at": "2020-02-07T12:02:50+00:00",
+  "categories": [
+    {
+      "code": "lucecarter",
+      "name": "LUCE CARTER",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hey everyone,</p>\n\n<p>Happy Friday! Sorry the newsletter is a bit later than usual. Kym is still in Seattle at \"The Mothership\" and I was on my way back from a trip too and internet wasn't my friend!</p>\n\n<p>A nice varied mix of links this week. As usual, thanks to everyone for their contributions!</p>\n\n<p>I was at NDC London last week, teaching Xamarin to a friend who works at Twilio. We had a great time and it seemed to go down well, yay! Always love sharing our love of Xamarin with new attendees.</p>\n\n<p>Have a great weekend and see you all next week for more fantastic Xamarin content!</p>\n\n<p>Luce 🧡</p>",
+          "description_markdown": "Hey everyone,\r\n\r\nHappy Friday! Sorry the newsletter is a bit later than usual. Kym is still in Seattle at \"The Mothership\" and I was on my way back from a trip too and internet wasn't my friend!\r\n\r\nA nice varied mix of links this week. As usual, thanks to everyone for their contributions!\r\n\r\nI was at NDC London last week, teaching Xamarin to a friend who works at Twilio. We had a great time and it seemed to go down well, yay! Always love sharing our love of Xamarin with new attendees.\r\n\r\nHave a great weekend and see you all next week for more fantastic Xamarin content!\r\n\r\nLuce 🧡",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "tJf7mv5",
+          "type": "Link",
+          "title": " Run your Xamarin.Forms apps on the Web via Uno Platform",
+          "url_domain": "platform.uno",
+          "url": "https://platform.uno/announcing-uno-platform-2-0/?utm_source=newsletter-xamarin-weekly&utm_medium=email&utm_campaign=uno-awareness-xforms",
+          "description": "<p>Xamarin.Forms has support for UWP and Windows, and since the Uno Platform provides the full UWP API set, it is easy to build renderers on top of Uno to enable WebAssembly.  This enables Xamarin.Forms apps to run on the Web with execution of a simple command line. Here’s <a href=\"https://platform.uno/announcing-uno-platform-2-0/?utm_source=newsletter-xamarin-weekly&amp;utm_medium=email&amp;utm_campaign=uno-awareness-xforms\">how to do it in Visual Studio</a>.</p>",
+          "description_markdown": "Xamarin.Forms has support for UWP and Windows, and since the Uno Platform provides the full UWP API set, it is easy to build renderers on top of Uno to enable WebAssembly.  This enables Xamarin.Forms apps to run on the Web with execution of a simple command line. Here’s [how to do it in Visual Studio](https://platform.uno/announcing-uno-platform-2-0/?utm_source=newsletter-xamarin-weekly&utm_medium=email&utm_campaign=uno-awareness-xforms). ",
+          "embedded_links": [
+            {
+              "identifier": "DL5QqUN",
+              "title": "how to do it in Visual Studio",
+              "url_domain": "platform.uno",
+              "url": "https://platform.uno/announcing-uno-platform-2-0/?utm_source=newsletter-xamarin-weekly&utm_medium=email&utm_campaign=uno-awareness-xforms"
+            }
+          ],
+          "image_original_filename": "46ff5f8c-89ce-49b5-ab2a-fc8e174c86d3.png",
+          "image_extra_large_filename": "twenty_by_nine_extra_large_46ff5f8c-89ce-49b5-ab2a-fc8e174c86d3.png",
+          "image_medium_filename": "twenty_by_nine_medium_46ff5f8c-89ce-49b5-ab2a-fc8e174c86d3.png"
+        }
+      ]
+    },
+    {
+      "code": "appoftheweek",
+      "name": "APP OF THE WEEK",
+      "items": [
+        {
+          "identifier": "9XVegBb",
+          "type": "Link",
+          "title": "Little Cupid App that Transforms TV into Augmented Reality",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/little-cupid-transforms-tv-to-ar/",
+          "description": "<p>I always enjoy reading customer showcase articles on the Xamarin blog as you hear about all the awesome things people are doing with Xamarin. This article is no different!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/little-cupid-transforms-tv-to-ar/\"><strong>Little Cupid App that Transforms TV into Augmented Reality</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/chmatskmicrosoft-com/\">Christos Matskas</a></p>",
+          "description_markdown": "I always enjoy reading customer showcase articles on the Xamarin blog as you hear about all the awesome things people are doing with Xamarin. This article is no different!\r\n\r\n[**Little Cupid App that Transforms TV into Augmented Reality**](https://devblogs.microsoft.com/xamarin/little-cupid-transforms-tv-to-ar/) by [Christos Matskas](https://devblogs.microsoft.com/xamarin/author/chmatskmicrosoft-com/)",
+          "embedded_links": [
+            {
+              "identifier": "zAizRyd",
+              "title": "**Little Cupid App that Transforms TV into Augmented Reality**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/little-cupid-transforms-tv-to-ar/"
+            },
+            {
+              "identifier": "ejhQJbz",
+              "title": "Christos Matskas",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/chmatskmicrosoft-com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "KzExTHl",
+          "type": "Link",
+          "title": "Deploy Xamarin.Forms Apps to App Center from a Azure Multi-Stage Pipeline using Templates and Environments that Require Manual Approval",
+          "url_domain": "builttoroam.com",
+          "url": "https://nicksnettravels.builttoroam.com/appcenter-deployment/?utm_source=rss&utm_medium=rss&utm_campaign=appcenter-deployment",
+          "description": "<p>Sometimes you want to separate the build and release pipelines in Azure DevOps. Unfortunately when using YAML, this can be quite awkward. Nick has you covered however with another post in his series on DevOps. This time he shows you how to deploy to App Center for testing during the build.</p>\n\n<p><a href=\"https://nicksnettravels.builttoroam.com/appcenter-deployment/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=appcenter-deployment\"><strong>Deploy Xamarin.Forms Apps to App Center from a Azure Multi-Stage Pipeline using Templates and Environments that Require Manual Approval</strong></a> by <a href=\"https://twitter.com/thenickrandolph\">Nick Randolph</a></p>",
+          "description_markdown": "Sometimes you want to separate the build and release pipelines in Azure DevOps. Unfortunately when using YAML, this can be quite awkward. Nick has you covered however with another post in his series on DevOps. This time he shows you how to deploy to App Center for testing during the build.\r\n\r\n[**Deploy Xamarin.Forms Apps to App Center from a Azure Multi-Stage Pipeline using Templates and Environments that Require Manual Approval**](https://nicksnettravels.builttoroam.com/appcenter-deployment/?utm_source=rss&utm_medium=rss&utm_campaign=appcenter-deployment) by [Nick Randolph](https://twitter.com/thenickrandolph)",
+          "embedded_links": [
+            {
+              "identifier": "45PZygb",
+              "title": "**Deploy Xamarin.Forms Apps to App Center from a Azure Multi-Stage Pipeline using Templates and Environments that Require Manual Approval**",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/appcenter-deployment/?utm_source=rss&utm_medium=rss&utm_campaign=appcenter-deployment"
+            },
+            {
+              "identifier": "VLJJBfV",
+              "title": "Nick Randolph",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/thenickrandolph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "QPfUUKO",
+          "type": "Link",
+          "title": "Sharpnado's Xamarin.Forms XamlStyler config file",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/xamarin-forms-xamlstyler-config/",
+          "description": "<p>I heard XamlStyler mentioned a few times last year, all for positive reasons. So it's great to see Jean-Marie has gone ahead and shared his config for it when developing Xamarin.Forms XAML.</p>\n\n<p><a href=\"https://www.sharpnado.com/xamarin-forms-xamlstyler-config/\"><strong>Sharpnado's Xamarin.Forms XamlStyler config file</strong></a> by <a href=\"https://twitter.com/Piskariov\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "I heard XamlStyler mentioned a few times last year, all for positive reasons. So it's great to see Jean-Marie has gone ahead and shared his config for it when developing Xamarin.Forms XAML.\r\n\r\n[**Sharpnado's Xamarin.Forms XamlStyler config file**](https://www.sharpnado.com/xamarin-forms-xamlstyler-config/) by [Jean-Marie Alfonsi](https://twitter.com/Piskariov)",
+          "embedded_links": [
+            {
+              "identifier": "jwx4UDi",
+              "title": "**Sharpnado's Xamarin.Forms XamlStyler config file**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/xamarin-forms-xamlstyler-config/"
+            },
+            {
+              "identifier": "3SVwUSR",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Piskariov"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "zNgUDIM",
+          "type": "Link",
+          "title": "Using Custom AOT Profiles with Xamarin.Android",
+          "url_domain": "ryandavis.io",
+          "url": "https://ryandavis.io/using-custom-aot-profiles-with-xamarin-android/",
+          "description": "<p>For as long as Ryan can remember, Xamarin.Android has given developers the ability to choose between using JIT and AOT compilation for their applications. JIT'ed builds are far smaller, but carry the overhead of runtime method compilation. AOT builds are much larger, but generally more performant - often by a substantial margin. Ryan has a plan to try and get the best of both worlds to get the most performant compilation possible thanks to new features with Startup Tracing/Profile AOT from the Xamarin.Android team.</p>\n\n<p><a href=\"https://ryandavis.io/using-custom-aot-profiles-with-xamarin-android/\"><strong>Using Custom AOT Profiles with Xamarin.Android</strong></a> by <a href=\"https://twitter.com/rdavis_au\">Ryan Davis</a></p>",
+          "description_markdown": "For as long as Ryan can remember, Xamarin.Android has given developers the ability to choose between using JIT and AOT compilation for their applications. JIT'ed builds are far smaller, but carry the overhead of runtime method compilation. AOT builds are much larger, but generally more performant - often by a substantial margin. Ryan has a plan to try and get the best of both worlds to get the most performant compilation possible thanks to new features with Startup Tracing/Profile AOT from the Xamarin.Android team.\r\n\r\n[**Using Custom AOT Profiles with Xamarin.Android**](https://ryandavis.io/using-custom-aot-profiles-with-xamarin-android/) by [Ryan Davis](https://twitter.com/rdavis_au)",
+          "embedded_links": [
+            {
+              "identifier": "GNdsuKt",
+              "title": "**Using Custom AOT Profiles with Xamarin.Android**",
+              "url_domain": "ryandavis.io",
+              "url": "https://ryandavis.io/using-custom-aot-profiles-with-xamarin-android/"
+            },
+            {
+              "identifier": "kMgAWJm",
+              "title": "Ryan Davis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdavis_au"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "xPkIRVd",
+          "type": "Link",
+          "title": "Re-signing a IPA file",
+          "url_domain": "ostebaronen.dk",
+          "url": "https://blog.ostebaronen.dk/2020/02/resigning-ipa.html",
+          "description": "<p>When working with iOS apps in Xamarin, signing your apps on release is unavoidable. However if your provisioning profile expires, you might not want to release a whole new version with this new profile. Instead you can re-sign the current app!</p>\n\n<p><a href=\"https://blog.ostebaronen.dk/2020/02/resigning-ipa.html\"><strong>Re-signing a IPA fileRe-signing a IPA file</strong></a> by <a href=\"https://twitter.com/Cheesebaron\">Tomasz Cielecki</a></p>",
+          "description_markdown": "When working with iOS apps in Xamarin, signing your apps on release is unavoidable. However if your provisioning profile expires, you might not want to release a whole new version with this new profile. Instead you can re-sign the current app!\r\n\r\n[**Re-signing a IPA fileRe-signing a IPA file**](https://blog.ostebaronen.dk/2020/02/resigning-ipa.html) by [Tomasz Cielecki](https://twitter.com/Cheesebaron)",
+          "embedded_links": [
+            {
+              "identifier": "gl3Oejf",
+              "title": "**Re-signing a IPA fileRe-signing a IPA file**",
+              "url_domain": "ostebaronen.dk",
+              "url": "https://blog.ostebaronen.dk/2020/02/resigning-ipa.html"
+            },
+            {
+              "identifier": "MMQ6DXV",
+              "title": "Tomasz Cielecki",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Cheesebaron"
+            }
+          ]
+        },
+        {
+          "identifier": "EjQ2RDM",
+          "type": "Link",
+          "title": "How To Pick A Document In Xamarin.iOS",
+          "url_domain": "blogspot.com",
+          "url": "https://logeshpalani.blogspot.com/2020/01/how-to-pick-document-in-xamarinios.html",
+          "description": "<p>The DocumentViewController in iOS allows you to select documents on your iOS device. Logesh teaches you how to get started in a few short steps.</p>\n\n<p><a href=\"https://logeshpalani.blogspot.com/2020/01/how-to-pick-document-in-xamarinios.html\"><strong>How To Pick A Document In Xamarin.iOS</strong></a> by <a href=\"https://twitter.com/logeshpalani98\">Logesh Palani</a></p>",
+          "description_markdown": "The DocumentViewController in iOS allows you to select documents on your iOS device. Logesh teaches you how to get started in a few short steps.\r\n\r\n[**How To Pick A Document In Xamarin.iOS**](https://logeshpalani.blogspot.com/2020/01/how-to-pick-document-in-xamarinios.html) by [Logesh Palani](https://twitter.com/logeshpalani98)",
+          "embedded_links": [
+            {
+              "identifier": "AXrqFPh",
+              "title": "**How To Pick A Document In Xamarin.iOS**",
+              "url_domain": "blogspot.com",
+              "url": "https://logeshpalani.blogspot.com/2020/01/how-to-pick-document-in-xamarinios.html"
+            },
+            {
+              "identifier": "bFRx4nr",
+              "title": "Logesh Palani",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/logeshpalani98"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "dNUsdRD",
+          "type": "Link",
+          "title": "WPF Activity in Xamarin Forms",
+          "url_domain": "wordpress.com",
+          "url": "https://peterfoot.wordpress.com/2020/02/05/wpf-activity-in-xamarin-forms/",
+          "description": "<p>Peter is well known for his InTheHand.Forms library. But he has recently started having some features merged into Xamarin.Forms itself! In this post, Peter touches on his experience getting an ActivityIndicator in WPF.</p>\n\n<p><a href=\"https://peterfoot.wordpress.com/2020/02/05/wpf-activity-in-xamarin-forms/\"><strong>WPF Activity in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/PeterFoot\">Peter Foot</a></p>",
+          "description_markdown": "Peter is well known for his InTheHand.Forms library. But he has recently started having some features merged into Xamarin.Forms itself! In this post, Peter touches on his experience getting an ActivityIndicator in WPF.\r\n\r\n[**WPF Activity in Xamarin Forms**](https://peterfoot.wordpress.com/2020/02/05/wpf-activity-in-xamarin-forms/) by [Peter Foot](https://twitter.com/PeterFoot)",
+          "embedded_links": [
+            {
+              "identifier": "om4qBPz",
+              "title": "**WPF Activity in Xamarin Forms**",
+              "url_domain": "wordpress.com",
+              "url": "https://peterfoot.wordpress.com/2020/02/05/wpf-activity-in-xamarin-forms/"
+            },
+            {
+              "identifier": "SxtKeG1",
+              "title": "Peter Foot",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/PeterFoot"
+            }
+          ]
+        },
+        {
+          "identifier": "Qgc1k26",
+          "type": "Link",
+          "title": "Replicating user profile UI in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-user-profile-ui-in-xamarin-forms/",
+          "description": "<p>Profile pages are everywhere! Most apps have them so I was really excited to see Leomaris has replicated a user profile page, made it look beautiful and shared her experience!!</p>\n\n<p><a href=\"https://askxammy.com/replicating-user-profile-ui-in-xamarin-forms/\"><strong>Replicating user profile UI in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/LeomarisReyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Profile pages are everywhere! Most apps have them so I was really excited to see Leomaris has replicated a user profile page, made it look beautiful and shared her experience!!\r\n\r\n[**Replicating user profile UI in Xamarin Forms**](https://askxammy.com/replicating-user-profile-ui-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/LeomarisReyes11)",
+          "embedded_links": [
+            {
+              "identifier": "WUv24Qq",
+              "title": "**Replicating user profile UI in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-user-profile-ui-in-xamarin-forms/"
+            },
+            {
+              "identifier": "f8oaIEO",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/LeomarisReyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "bSW67hL",
+          "type": "Link",
+          "title": "Introducing the Xamarin.Forms Chat Control (Conversational UI)",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/xamarin-forms-chat-control-conversational-ui.aspx",
+          "description": "<p>Syncfusion are on fire lately! Not just with their controls being released but also the blog posts about them are always a great read! This time it is the turn of a chat control!</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/xamarin-forms-chat-control-conversational-ui.aspx\"><strong>Introducing the Xamarin.Forms Chat Control (Conversational UI)</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/neelakandan-kannansyncfusion-com\">Neelakandan Kannan</a></p>",
+          "description_markdown": "Syncfusion are on fire lately! Not just with their controls being released but also the blog posts about them are always a great read! This time it is the turn of a chat control!\r\n\r\n[**Introducing the Xamarin.Forms Chat Control (Conversational UI)**](https://www.syncfusion.com/blogs/post/xamarin-forms-chat-control-conversational-ui.aspx) by [Neelakandan Kannan](https://www.syncfusion.com/blogs/author/neelakandan-kannansyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "E1o3bnV",
+              "title": "**Introducing the Xamarin.Forms Chat Control (Conversational UI)**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/xamarin-forms-chat-control-conversational-ui.aspx"
+            },
+            {
+              "identifier": "7LgFxgD",
+              "title": "Neelakandan Kannan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/neelakandan-kannansyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "lD8HIBH",
+          "type": "Link",
+          "title": "Implementing MSAL authentication in Xamarin.Forms",
+          "url_domain": "thewissen.io",
+          "url": "https://www.thewissen.io/implementing-msal-authentication-in-xamarin-forms/",
+          "description": "<p>Authenticating users in our app is a common challenge that mobile developers need to tackle. Leveraging existing authentication systems like those of social networks or big companies like Microsoft’s MSAL saves a lot of development time. But how do we get started?</p>\n\n<p><a href=\"https://www.thewissen.io/implementing-msal-authentication-in-xamarin-forms/\"><strong>Implementing MSAL authentication in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/devnl\">Steven Thewissen</a></p>",
+          "description_markdown": "Authenticating users in our app is a common challenge that mobile developers need to tackle. Leveraging existing authentication systems like those of social networks or big companies like Microsoft’s MSAL saves a lot of development time. But how do we get started?\r\n\r\n[**Implementing MSAL authentication in Xamarin.Forms**](https://www.thewissen.io/implementing-msal-authentication-in-xamarin-forms/) by [Steven Thewissen](https://twitter.com/devnl)",
+          "embedded_links": [
+            {
+              "identifier": "coB6Rmr",
+              "title": "**Implementing MSAL authentication in Xamarin.Forms**",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/implementing-msal-authentication-in-xamarin-forms/"
+            },
+            {
+              "identifier": "UthhzeX",
+              "title": "Steven Thewissen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/devnl"
+            }
+          ]
+        },
+        {
+          "identifier": "RAcrYnO",
+          "type": "Link",
+          "title": "Xamarin.Forms Twilio implementation",
+          "url_domain": "azurewebsites.net",
+          "url": "https://officialdoniald.azurewebsites.net/2020/02/05/xamarin-forms-twilio-implementation/",
+          "description": "<p>If you follow me on Twitter, you may be aware I am also a Twilio Champion. I had attempted Twilio bindings for Xamarin last year on my stream but it never got finished. So when I saw this post I jumped with excitement and got straight to reading!!</p>\n\n<p><a href=\"https://officialdoniald.azurewebsites.net/2020/02/05/xamarin-forms-twilio-implementation/\"><strong>Xamarin.Forms Twilio implementation</strong></a> by <a href=\"https://twitter.com/officialdoniald\">Bence Lenart</a></p>",
+          "description_markdown": "If you follow me on Twitter, you may be aware I am also a Twilio Champion. I had attempted Twilio bindings for Xamarin last year on my stream but it never got finished. So when I saw this post I jumped with excitement and got straight to reading!!\r\n\r\n[**Xamarin.Forms Twilio implementation**](https://officialdoniald.azurewebsites.net/2020/02/05/xamarin-forms-twilio-implementation/) by [Bence Lenart](https://twitter.com/officialdoniald)",
+          "embedded_links": [
+            {
+              "identifier": "BfSF2Po",
+              "title": "**Xamarin.Forms Twilio implementation**",
+              "url_domain": "azurewebsites.net",
+              "url": "https://officialdoniald.azurewebsites.net/2020/02/05/xamarin-forms-twilio-implementation/"
+            },
+            {
+              "identifier": "PscyLkz",
+              "title": "Bence Lenart",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/officialdoniald"
+            }
+          ]
+        },
+        {
+          "identifier": "9kEYYX",
+          "type": "Link",
+          "title": "Using Bindable Properties In Xamarin.Forms",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/using-bindable-properties-in-xamarin-forms",
+          "description": "<p>Here at WeeklyXamarinHQ, we really love MFractor and this blog post on binding properties is great! It explains what they are and how you might use them, but then also goes on to discuss how much easier it can be thanks to a wizard built into MFractor.</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/using-bindable-properties-in-xamarin-forms\"><strong>Using Bindable Properties In Xamarin.Forms</strong></a> by <a href=\"https://www.linkedin.com/in/les-brown-93885424/\">Les Brown</a></p>",
+          "description_markdown": "Here at WeeklyXamarinHQ, we really love MFractor and this blog post on binding properties is great! It explains what they are and how you might use them, but then also goes on to discuss how much easier it can be thanks to a wizard built into MFractor.\r\n\r\n[**Using Bindable Properties In Xamarin.Forms**](https://www.mfractor.com/blogs/news/using-bindable-properties-in-xamarin-forms) by [Les Brown](https://www.linkedin.com/in/les-brown-93885424/)",
+          "embedded_links": [
+            {
+              "identifier": "mHlpXV6",
+              "title": "**Using Bindable Properties In Xamarin.Forms**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/using-bindable-properties-in-xamarin-forms"
+            },
+            {
+              "identifier": "gUEehYd",
+              "title": "Les Brown",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/les-brown-93885424/"
+            }
+          ]
+        },
+        {
+          "identifier": "ddQpgMl",
+          "type": "Link",
+          "title": "Improve Xamarin Forms App UX by Data Caching",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/improving-the-ux-of-a-xamarin-forms-application-by-caching-data/",
+          "description": "<p>When developing a mobile app persisting data is important, why? Because a mobile app is not a web app, it shouldn’t depend on having a reliable internet connection 100% of the time. For example, when you open a mobile app to see the list of transactions if you don’t have internet you will only see an empty screen with “There is no internet connection error” message. Won’t it be a better user experience if you could see the latest data cached? Charlin talks you through some options.</p>\n\n<p><a href=\"https://xamgirl.com/improving-the-ux-of-a-xamarin-forms-application-by-caching-data/\"><strong>Improve Xamarin Forms App UX by Data Caching</strong></a> by <a href=\"https://twitter.com/Chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "When developing a mobile app persisting data is important, why? Because a mobile app is not a web app, it shouldn’t depend on having a reliable internet connection 100% of the time. For example, when you open a mobile app to see the list of transactions if you don’t have internet you will only see an empty screen with “There is no internet connection error” message. Won’t it be a better user experience if you could see the latest data cached? Charlin talks you through some options.\r\n\r\n[**Improve Xamarin Forms App UX by Data Caching**](https://xamgirl.com/improving-the-ux-of-a-xamarin-forms-application-by-caching-data/) by [Charlin Agramonte](https://twitter.com/Chard003)",
+          "embedded_links": [
+            {
+              "identifier": "QH7vxwD",
+              "title": "**Improve Xamarin Forms App UX by Data Caching**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/improving-the-ux-of-a-xamarin-forms-application-by-caching-data/"
+            },
+            {
+              "identifier": "glrGAp3",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "AtrC9be",
+          "type": "Link",
+          "title": "Animating our Gradient Progress Bar Control in Xamarin.Forms",
+          "url_domain": "somostechies.com",
+          "url": "https://somostechies.com/animate-pb/",
+          "description": "<p>Jesús previously shared his custom Gradient Progress Bar Control and now he has taken that one step further by adding animation support!</p>\n\n<p><a href=\"https://somostechies.com/animate-pb/\"><strong>Animating our Gradient Progress Bar Control in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/jesulink2514\">Jesús Angelo</a></p>",
+          "description_markdown": "Jesús previously shared his custom Gradient Progress Bar Control and now he has taken that one step further by adding animation support!\r\n\r\n[**Animating our Gradient Progress Bar Control in Xamarin.Forms**](https://somostechies.com/animate-pb/) by [Jesús Angelo](https://twitter.com/jesulink2514)",
+          "embedded_links": [
+            {
+              "identifier": "Fz0bRhE",
+              "title": "**Animating our Gradient Progress Bar Control in Xamarin.Forms**",
+              "url_domain": "somostechies.com",
+              "url": "https://somostechies.com/animate-pb/"
+            },
+            {
+              "identifier": "fLwczy4",
+              "title": "Jesús Angelo",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jesulink2514"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "RxACPkT",
+          "type": "Link",
+          "title": "Merge Conflict: 187: Blasting Off with Jupyter Notebooks",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/187",
+          "description": "<p>Frank goes deep on Jupyter Notebooks and James is oh so confused, but hey he got to fly some drones.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/187\"><strong>Merge Conflict: 187: Blasting Off with Jupyter Notebooks</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "Frank goes deep on Jupyter Notebooks and James is oh so confused, but hey he got to fly some drones.\r\n\r\n[**Merge Conflict: 187: Blasting Off with Jupyter Notebooks**](https://www.mergeconflict.fm/187) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "FnABANs",
+              "title": "**Merge Conflict: 187: Blasting Off with Jupyter Notebooks**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/187"
+            },
+            {
+              "identifier": "S2Ike1W",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        },
+        {
+          "identifier": "Ulw0BW7",
+          "type": "Link",
+          "title": "Xamarin: .NET Community Standup - Feb 6th 2020 - Gradients Everywhere!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=pjCnog1wW_g",
+          "description": "<p>New month, new .NET Community Standup for Xamarin!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=pjCnog1wW_g\"><strong>Xamarin: .NET Community Standup - Feb 6th 2020 - Gradients Everywhere!</strong></a></p>",
+          "description_markdown": "New month, new .NET Community Standup for Xamarin!\r\n\r\n[**Xamarin: .NET Community Standup - Feb 6th 2020 - Gradients Everywhere!**](https://www.youtube.com/watch?v=pjCnog1wW_g)",
+          "embedded_links": [
+            {
+              "identifier": "hTt7HLX",
+              "title": "**Xamarin: .NET Community Standup - Feb 6th 2020 - Gradients Everywhere!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=pjCnog1wW_g"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

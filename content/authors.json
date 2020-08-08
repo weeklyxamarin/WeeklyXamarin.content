@@ -388,6 +388,16 @@
       "Website": "https://crswlls.wordpress.com"
     },
     {
+      "Name": "Christos Matskas",
+      "Id": "https://devblogs.microsoft.com/xamarin/author/chmatskmicrosoft-com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/xamarin/author/chmatskmicrosoft-com/"
+        }
+      ]
+    },
+    {
       "Name": "Codrina Merigo",
       "Id": "https://twitter.com/_codrina_",
       "Aliases": [
@@ -1386,6 +1396,16 @@
         {
           "Type": "github",
           "Name": "https://github.com/nat"
+        }
+      ]
+    },
+    {
+      "Name": "Neelakandan Kannan",
+      "Id": "https://www.syncfusion.com/blogs/author/neelakandan-kannansyncfusion-com",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.syncfusion.com/blogs/author/neelakandan-kannansyncfusion-com"
         }
       ]
     },
