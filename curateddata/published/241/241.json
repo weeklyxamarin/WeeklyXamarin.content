@@ -1,0 +1,677 @@
+{
+  "number": 241,
+  "title": "Issue 241",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/241",
+  "publication_status": "published",
+  "published_at": "2020-01-10T11:01:20+00:00",
+  "updated_at": "2020-01-10T11:01:24+00:00",
+  "categories": [
+    {
+      "code": "lucecarter",
+      "name": "LUCE CARTER",
+      "items": [
+        {
+          "type": "Text",
+          "title": "Another Bumper Issue",
+          "description": "<p>Hey everyone!</p>\n\n<p>Another bumper issue this week, with lots of things to read!</p>\n\n<p>I was back at work this week and managed to survive until Friday so yay! ;)</p>\n\n<p>Hope you all have a fantastic weekend and see you all next week!</p>\n\n<p>Luce 🧡</p>",
+          "description_markdown": "Hey everyone!\r\n\r\nAnother bumper issue this week, with lots of things to read!\r\n\r\nI was back at work this week and managed to survive until Friday so yay! ;)\r\n\r\nHope you all have a fantastic weekend and see you all next week!\r\n\r\nLuce 🧡",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "4ckCE2e",
+          "type": "Link",
+          "title": "Learn how to get the most out of Xamarin.Forms",
+          "url_domain": "xablu.com",
+          "url": "https://www.xablu.com/xamarin-forms-training/",
+          "description": "",
+          "description_markdown": "",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "d326b2e7-0a63-4791-a595-e728327a0d8d.jpg",
+          "image_extra_large_filename": "original_ratio_extra_large_d326b2e7-0a63-4791-a595-e728327a0d8d.jpg",
+          "image_medium_filename": "original_ratio_medium_d326b2e7-0a63-4791-a595-e728327a0d8d.jpg"
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "qX9F0LQ",
+          "type": "Link",
+          "title": "Top Xamarin Blog Posts of 2019",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/top-xamarin-blog-posts-2019/",
+          "description": "<p>2019 was an awesome year for Xamarin developers! It was packed full with new releases, exciting events, and product announcements. As well as brand new features to boost productivity and accelerate mobile development.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/top-xamarin-blog-posts-2019/\"><strong>Top Xamarin Blog Posts of 2019</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "2019 was an awesome year for Xamarin developers! It was packed full with new releases, exciting events, and product announcements. As well as brand new features to boost productivity and accelerate mobile development.\r\n\r\n[**Top Xamarin Blog Posts of 2019**](https://devblogs.microsoft.com/xamarin/top-xamarin-blog-posts-2019/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "QvQmEqd",
+              "title": "**Top Xamarin Blog Posts of 2019**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/top-xamarin-blog-posts-2019/"
+            },
+            {
+              "identifier": "lzw1OYF",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "JhWGdtt",
+          "type": "Link",
+          "title": "Building a mobile application with GrialKit and UXDivers",
+          "url_domain": "jon-douglas.com",
+          "url": "https://jon-douglas.com/2020/01/02/mobile-app-grialkit/",
+          "description": "<p>Building a mobile application is hard. Building a beautiful mobile application is even more difficult. As a mobile developer without strong design skills, building a good-looking application for people to use directly from the app store is quite a challenge.</p>\n\n<p><a href=\"https://jon-douglas.com/2020/01/02/mobile-app-grialkit/\"><strong>Building a mobile application with GrialKit and UXDivers</strong></a> by <a href=\"https://twitter.com/_JonDouglas\">Jon Douglas</a></p>",
+          "description_markdown": "Building a mobile application is hard. Building a beautiful mobile application is even more difficult. As a mobile developer without strong design skills, building a good-looking application for people to use directly from the app store is quite a challenge.\r\n\r\n[**Building a mobile application with GrialKit and UXDivers**](https://jon-douglas.com/2020/01/02/mobile-app-grialkit/) by [Jon Douglas](https://twitter.com/_JonDouglas)",
+          "embedded_links": [
+            {
+              "identifier": "Iiv56Xo",
+              "title": "**Building a mobile application with GrialKit and UXDivers**",
+              "url_domain": "jon-douglas.com",
+              "url": "https://jon-douglas.com/2020/01/02/mobile-app-grialkit/"
+            },
+            {
+              "identifier": "CCAAMvT",
+              "title": "Jon Douglas",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/_JonDouglas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "opensource",
+      "name": "OPEN SOURCE",
+      "items": [
+        {
+          "identifier": "rKEhL77",
+          "type": "Link",
+          "title": "Git Rebase: Don’t be Afraid of the Force (Push)",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/git/git-rebase/",
+          "description": "<p>While contributing to a big OSS project it’s quite useful to know how to do a Git rebase. And more importantly: don’t be afraid of the Git force push. In this post, Gerald writes a little about the why and the how. Finally, your change is ready for the world to see.</p>\n\n<p><a href=\"https://blog.verslu.is/git/git-rebase/\"><strong>Git Rebase: Don’t be Afraid of the Force (Push)</strong></a> by <a href=\"https://twitter.com/jfversluis/\">Gerald Versluis</a></p>",
+          "description_markdown": "While contributing to a big OSS project it’s quite useful to know how to do a Git rebase. And more importantly: don’t be afraid of the Git force push. In this post, Gerald writes a little about the why and the how. Finally, your change is ready for the world to see.\r\n\r\n[**Git Rebase: Don’t be Afraid of the Force (Push)**](https://blog.verslu.is/git/git-rebase/) by [Gerald Versluis](https://twitter.com/jfversluis/)",
+          "embedded_links": [
+            {
+              "identifier": "1cNuBbw",
+              "title": "**Git Rebase: Don’t be Afraid of the Force (Push)**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/git/git-rebase/"
+            },
+            {
+              "identifier": "yZn4svO",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "testing",
+      "name": "TESTING",
+      "items": [
+        {
+          "identifier": "MRQNrSo",
+          "type": "Link",
+          "title": "More Readable Tests with NUnit and FluentAssertions [Portugese]",
+          "url_domain": "high5devs.com",
+          "url": "http://high5devs.com/2019/12/testes-mais-legiveis-com-fluentassertions-em-projetos-nunit-xamarin/",
+          "description": "<p>Tests are important in any project, regardless of the technology stack. NUnit is a common testing framework and FluentAssertions allow you to write more readable tests which helps encourage everyone to keep high test coverage and quality. But FluentAssertions and NUnit.Xamarin can be a bit hard to get to play nicely.</p>\n\n<p><a href=\"http://high5devs.com/2019/12/testes-mais-legiveis-com-fluentassertions-em-projetos-nunit-xamarin/\"><strong>Testes mais legíveis com FluentAssertions em projetos nUnit.Xamarin</strong></a> by <a href=\"http://high5devs.com/author/akamud/\">Mahmoud Ali</a></p>",
+          "description_markdown": "Tests are important in any project, regardless of the technology stack. NUnit is a common testing framework and FluentAssertions allow you to write more readable tests which helps encourage everyone to keep high test coverage and quality. But FluentAssertions and NUnit.Xamarin can be a bit hard to get to play nicely.\r\n\r\n[**Testes mais legíveis com FluentAssertions em projetos nUnit.Xamarin**](http://high5devs.com/2019/12/testes-mais-legiveis-com-fluentassertions-em-projetos-nunit-xamarin/) by [Mahmoud Ali](http://high5devs.com/author/akamud/)",
+          "embedded_links": [
+            {
+              "identifier": "QBbhBVz",
+              "title": "**Testes mais legíveis com FluentAssertions em projetos nUnit.Xamarin**",
+              "url_domain": "high5devs.com",
+              "url": "http://high5devs.com/2019/12/testes-mais-legiveis-com-fluentassertions-em-projetos-nunit-xamarin/"
+            },
+            {
+              "identifier": "wwfHCtQ",
+              "title": "Mahmoud Ali",
+              "url_domain": "high5devs.com",
+              "url": "http://high5devs.com/author/akamud/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "anayltics",
+      "name": "ANAYLTICS",
+      "items": [
+        {
+          "identifier": "yDcBowR",
+          "type": "Link",
+          "title": "Using Firebase Analytics in your Xamarin.Forms app",
+          "url_domain": "thewissen.io",
+          "url": "https://www.thewissen.io/using-firebase-analytics-in-your-xamarin-forms-app/",
+          "description": "<p>We all know and love Microsoft’s AppCenter offering when it comes to analytics and crash reporting for our mobile apps. But sometimes you want more in-depth analysis. A tool like Firebase can help with that!</p>\n\n<p><a href=\"https://www.thewissen.io/using-firebase-analytics-in-your-xamarin-forms-app/\"><strong>Using Firebase Analytics in your Xamarin.Forms app</strong></a> by <a href=\"https://www.thewissen.io/author/steven/\">Steven Thewissen</a></p>",
+          "description_markdown": "We all know and love Microsoft’s AppCenter offering when it comes to analytics and crash reporting for our mobile apps. But sometimes you want more in-depth analysis. A tool like Firebase can help with that!\r\n\r\n[**Using Firebase Analytics in your Xamarin.Forms app**](https://www.thewissen.io/using-firebase-analytics-in-your-xamarin-forms-app/) by [Steven Thewissen](https://www.thewissen.io/author/steven/)",
+          "embedded_links": [
+            {
+              "identifier": "JxAxr9v",
+              "title": "**Using Firebase Analytics in your Xamarin.Forms app**",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/using-firebase-analytics-in-your-xamarin-forms-app/"
+            },
+            {
+              "identifier": "yoghSYn",
+              "title": "Steven Thewissen",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/author/steven/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "kxzHslJ",
+          "type": "Link",
+          "title": "Easily differentiate versions of your applications using Azure DevOps",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/azure/devops/2020/01/09/easily-differentiate-versions-of-your-applications-using-azure-devops-en.html",
+          "description": "<p>When you develop a mobile application you always have different versions and each one has a specific environment. During the entire life of your project you switch between each versions to try new features or to correct some bugs.</p>\n\n<p><a href=\"https://damienaicheh.github.io/azure/devops/2020/01/09/easily-differentiate-versions-of-your-applications-using-azure-devops-en.html\"><strong>Easily differentiate versions of your applications using Azure DevOps</strong></a> by <a href=\"https://damienaicheh.github.io/about\">Damien Aicheh</a></p>",
+          "description_markdown": "When you develop a mobile application you always have different versions and each one has a specific environment. During the entire life of your project you switch between each versions to try new features or to correct some bugs.\r\n\r\n[**Easily differentiate versions of your applications using Azure DevOps**](https://damienaicheh.github.io/azure/devops/2020/01/09/easily-differentiate-versions-of-your-applications-using-azure-devops-en.html) by [Damien Aicheh](https://damienaicheh.github.io/about)",
+          "embedded_links": [
+            {
+              "identifier": "ifuJ9wV",
+              "title": "**Easily differentiate versions of your applications using Azure DevOps**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/azure/devops/2020/01/09/easily-differentiate-versions-of-your-applications-using-azure-devops-en.html"
+            },
+            {
+              "identifier": "EQiE3AZ",
+              "title": "Damien Aicheh",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/about"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "Ym39LS5",
+          "type": "Link",
+          "title": "Adventures in Low Overhead Dependency Injection using DryIoCZero",
+          "url_domain": "ryandavis.io",
+          "url": "https://ryandavis.io/adventures-in-low-overhead-dependency-injection-using-dryioczero/",
+          "description": "<p>Dependency Injection (DI) might be one of the more polarising topics in the Xamarin community. But Ryan shows you how to reduce the overhead of using DI.</p>\n\n<p><a href=\"https://ryandavis.io/adventures-in-low-overhead-dependency-injection-using-dryioczero/\"><strong>Adventures in Low Overhead Dependency Injection using DryIoCZero</strong></a> by <a href=\"http://ryandavis.io/author/ryan\">Ryan Davis</a></p>",
+          "description_markdown": "Dependency Injection (DI) might be one of the more polarising topics in the Xamarin community. But Ryan shows you how to reduce the overhead of using DI.\r\n\r\n[**Adventures in Low Overhead Dependency Injection using DryIoCZero**](https://ryandavis.io/adventures-in-low-overhead-dependency-injection-using-dryioczero/) by [Ryan Davis](http://ryandavis.io/author/ryan)",
+          "embedded_links": [
+            {
+              "identifier": "LiCvi8v",
+              "title": "**Adventures in Low Overhead Dependency Injection using DryIoCZero**",
+              "url_domain": "ryandavis.io",
+              "url": "https://ryandavis.io/adventures-in-low-overhead-dependency-injection-using-dryioczero/"
+            },
+            {
+              "identifier": "qkkRr3Z",
+              "title": "Ryan Davis",
+              "url_domain": "ryandavis.io",
+              "url": "http://ryandavis.io/author/ryan"
+            }
+          ]
+        },
+        {
+          "identifier": "VdQ874E",
+          "type": "Link",
+          "title": "Multiple Environments Using ApkTool Extension for Azure DevOps",
+          "url_domain": "builttoroam.com",
+          "url": "https://nicksnettravels.builttoroam.com/apktool-extension-azure-devops/",
+          "description": "<p>In my last couple of posts (here and here) I talked a bit about using the ApkTool to repack an Android APK in order to update an Android application to target different environments. To make this easier I’ve just published a preview of an extension for Azure DevOps.</p>\n\n<p><a href=\"https://nicksnettravels.builttoroam.com/apktool-extension-azure-devops/\"><strong>Multiple Environments Using ApkTool Extension for Azure DevOps</strong></a> by <a href=\"https://nicksnettravels.builttoroam.com/author/nick/\">Nick Randolph</a></p>",
+          "description_markdown": "In my last couple of posts (here and here) I talked a bit about using the ApkTool to repack an Android APK in order to update an Android application to target different environments. To make this easier I’ve just published a preview of an extension for Azure DevOps.\r\n\r\n[**Multiple Environments Using ApkTool Extension for Azure DevOps**](https://nicksnettravels.builttoroam.com/apktool-extension-azure-devops/) by [Nick Randolph](https://nicksnettravels.builttoroam.com/author/nick/)",
+          "embedded_links": [
+            {
+              "identifier": "lANMGwE",
+              "title": "**Multiple Environments Using ApkTool Extension for Azure DevOps**",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/apktool-extension-azure-devops/"
+            },
+            {
+              "identifier": "xem6i7S",
+              "title": "Nick Randolph",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/author/nick/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "XETDffB",
+          "type": "Link",
+          "title": "Xamarin.Tip – Fixing Missing iOS App Icons",
+          "url_domain": "alexdunn.org",
+          "url": "https://alexdunn.org/2020/01/06/xamarin-tip-fixing-missing-ios-app-icons/",
+          "description": "<p>If you have ever faced issues with missing app icons on iOS, you are not alone! Alex has some great advice on some troubleshooting steps.</p>\n\n<p><a href=\"https://alexdunn.org/2020/01/06/xamarin-tip-fixing-missing-ios-app-icons/\"><strong>Xamarin.Tip – Fixing Missing iOS App Icons</strong></a> by <a href=\"https://alexdunn.org/author/adunndev/\">Alex Dunn</a></p>",
+          "description_markdown": "If you have ever faced issues with missing app icons on iOS, you are not alone! Alex has some great advice on some troubleshooting steps.\r\n\r\n[**Xamarin.Tip – Fixing Missing iOS App Icons**](https://alexdunn.org/2020/01/06/xamarin-tip-fixing-missing-ios-app-icons/) by [Alex Dunn](https://alexdunn.org/author/adunndev/)",
+          "embedded_links": [
+            {
+              "identifier": "sYLDYf5",
+              "title": "**Xamarin.Tip – Fixing Missing iOS App Icons**",
+              "url_domain": "alexdunn.org",
+              "url": "https://alexdunn.org/2020/01/06/xamarin-tip-fixing-missing-ios-app-icons/"
+            },
+            {
+              "identifier": "nj5getr",
+              "title": "Alex Dunn",
+              "url_domain": "alexdunn.org",
+              "url": "https://alexdunn.org/author/adunndev/"
+            }
+          ]
+        },
+        {
+          "identifier": "dyiuMGh",
+          "type": "Link",
+          "title": "Building Quality iOS Apps, Quickly",
+          "url_domain": "bignerdranch.com",
+          "url": "https://www.bignerdranch.com/blog/building-quality-ios-apps-quickly/",
+          "description": "<p>Quality isn’t the only concern when building an app for your business. Often, it’s also important to get these apps in the App Store as quickly as possible.</p>\n\n<p><a href=\"https://www.bignerdranch.com/blog/building-quality-ios-apps-quickly/\"><strong>Building Quality iOS Apps, Quickly</strong></a> by <a href=\"https://www.bignerdranch.com/blog/category/authors/chris-downie/\">Chris Downie</a></p>",
+          "description_markdown": "Quality isn’t the only concern when building an app for your business. Often, it’s also important to get these apps in the App Store as quickly as possible.\r\n\r\n[**Building Quality iOS Apps, Quickly**](https://www.bignerdranch.com/blog/building-quality-ios-apps-quickly/) by [Chris Downie](https://www.bignerdranch.com/blog/category/authors/chris-downie/)",
+          "embedded_links": [
+            {
+              "identifier": "8NqVcj6",
+              "title": "**Building Quality iOS Apps, Quickly**",
+              "url_domain": "bignerdranch.com",
+              "url": "https://www.bignerdranch.com/blog/building-quality-ios-apps-quickly/"
+            },
+            {
+              "identifier": "sqmmHgI",
+              "title": "Chris Downie",
+              "url_domain": "bignerdranch.com",
+              "url": "https://www.bignerdranch.com/blog/category/authors/chris-downie/"
+            }
+          ]
+        },
+        {
+          "identifier": "J9LNQOt",
+          "type": "Link",
+          "title": "How to use Multiple View Controller in Single Page in Xamarin iOS",
+          "url_domain": "blogspot.com",
+          "url": "https://logeshpalani.blogspot.com/2020/01/how-to-use-multiple-view-controller-in.html",
+          "description": "<p>There is no easy solution to handling showing multiple view controllers from inside a single view controller in iOS. But this post shows it is possible!</p>\n\n<p><a href=\"https://logeshpalani.blogspot.com/2020/01/how-to-use-multiple-view-controller-in.html\"><strong>How to use Multiple View Controller in Single Page in Xamarin iOS</strong></a> by <a href=\"https://www.blogger.com/profile/11572235997627400122\">Logesh Palani</a></p>",
+          "description_markdown": "There is no easy solution to handling showing multiple view controllers from inside a single view controller in iOS. But this post shows it is possible!\r\n\r\n[**How to use Multiple View Controller in Single Page in Xamarin iOS**](https://logeshpalani.blogspot.com/2020/01/how-to-use-multiple-view-controller-in.html) by [Logesh Palani](https://www.blogger.com/profile/11572235997627400122)",
+          "embedded_links": [
+            {
+              "identifier": "Rk6usoa",
+              "title": "**How to use Multiple View Controller in Single Page in Xamarin iOS**",
+              "url_domain": "blogspot.com",
+              "url": "https://logeshpalani.blogspot.com/2020/01/how-to-use-multiple-view-controller-in.html"
+            },
+            {
+              "identifier": "rnmtGHV",
+              "title": "Logesh Palani",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/11572235997627400122"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "odGEKRy",
+          "type": "Link",
+          "title": "Prism for Xamarin.Forms: IConfirmNavigation",
+          "url_domain": "blogspot.com",
+          "url": "https://almirvuk.blogspot.com/2020/01/prism-for-xamarinforms.html",
+          "description": "<p>Many of you use Prism in your Xamarin.Forms projects. The IConfirmNavigation feature allows you to confirm or prevent navigation from the ViewModel.</p>\n\n<p><a href=\"https://almirvuk.blogspot.com/2020/01/prism-for-xamarinforms.html\"><strong>Prism for Xamarin.Forms: IConfirmNavigation</strong></a> by <a href=\"https://twitter.com/almirvuk\">Almir Vuk</a></p>",
+          "description_markdown": "Many of you use Prism in your Xamarin.Forms projects. The IConfirmNavigation feature allows you to confirm or prevent navigation from the ViewModel.\r\n\r\n[**Prism for Xamarin.Forms: IConfirmNavigation**](https://almirvuk.blogspot.com/2020/01/prism-for-xamarinforms.html) by [Almir Vuk](https://twitter.com/almirvuk)",
+          "embedded_links": [
+            {
+              "identifier": "VV2NTLC",
+              "title": "**Prism for Xamarin.Forms: IConfirmNavigation**",
+              "url_domain": "blogspot.com",
+              "url": "https://almirvuk.blogspot.com/2020/01/prism-for-xamarinforms.html"
+            },
+            {
+              "identifier": "gs9yEbK",
+              "title": "Almir Vuk",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/almirvuk"
+            }
+          ]
+        },
+        {
+          "identifier": "CUcbAI8",
+          "type": "Link",
+          "title": "Introducing Xamarin.Forms Time Picker",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/introducing-xamarin-forms-time-picker.aspx",
+          "description": "<p>Syncfusion's Essential Studio 2019 is a great toolkit for complex and beautiful Xamarin.Forms components. In Volume 4, they introduced a Time Picker.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/introducing-xamarin-forms-time-picker.aspx\"><strong>Introducing Xamarin.Forms Time Picker</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/paulandersonsyncfusion-com\">Paul Anderson</a></p>",
+          "description_markdown": "Syncfusion's Essential Studio 2019 is a great toolkit for complex and beautiful Xamarin.Forms components. In Volume 4, they introduced a Time Picker.\r\n\r\n[**Introducing Xamarin.Forms Time Picker**](https://www.syncfusion.com/blogs/post/introducing-xamarin-forms-time-picker.aspx) by [Paul Anderson](https://www.syncfusion.com/blogs/author/paulandersonsyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "BHLmOot",
+              "title": "**Introducing Xamarin.Forms Time Picker**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/introducing-xamarin-forms-time-picker.aspx"
+            },
+            {
+              "identifier": "B9Gyec7",
+              "title": "Paul Anderson",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/paulandersonsyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "3ET5dmh",
+          "type": "Link",
+          "title": "Easily Animate your Xamarin Applications with Lottie Animation",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/easily-animate-xamarin-application-with-lottie.aspx",
+          "description": "<p>Adding simple animations to any application will make it look better. Xamarin.Forms provides native options to work with animations. But using Lottie animations makes it easier to add animation to your application.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/easily-animate-xamarin-application-with-lottie.aspx\"><strong>Easily Animate your Xamarin Applications with Lottie Animation</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/meikandaisyncfusion-com\">Meikanda Nayanar</a></p>",
+          "description_markdown": "Adding simple animations to any application will make it look better. Xamarin.Forms provides native options to work with animations. But using Lottie animations makes it easier to add animation to your application.\r\n\r\n[**Easily Animate your Xamarin Applications with Lottie Animation**](https://www.syncfusion.com/blogs/post/easily-animate-xamarin-application-with-lottie.aspx) by [Meikanda Nayanar](https://www.syncfusion.com/blogs/author/meikandaisyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "h1tNv9K",
+              "title": "**Easily Animate your Xamarin Applications with Lottie Animation**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/easily-animate-xamarin-application-with-lottie.aspx"
+            },
+            {
+              "identifier": "Zh0ib1r",
+              "title": "Meikanda Nayanar",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/meikandaisyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "WKlBOPn",
+          "type": "Link",
+          "title": "Xamarin.Forms Markdown [Portugese]",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-markdownview-cf4c08e133ea",
+          "description": "<p>Markdown has mixed views but it can be a useful format for writing nice user documentation for example. Ever wanted to include nice markdown formatted information inside your app? Read on to find out how!</p>\n\n<p><a href=\"https://medium.com/@bertuzzi/o-x-do-xamarin-forms-markdownview-cf4c08e133ea\"><strong>O X do Xamarin Forms</strong></a> by <a href=\"https://medium.com/@bertuzzi\">Thiago Bertuzzi</a></p>",
+          "description_markdown": "Markdown has mixed views but it can be a useful format for writing nice user documentation for example. Ever wanted to include nice markdown formatted information inside your app? Read on to find out how!\r\n\r\n[**O X do Xamarin Forms**](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-markdownview-cf4c08e133ea) by [Thiago Bertuzzi](https://medium.com/@bertuzzi)",
+          "embedded_links": [
+            {
+              "identifier": "FISZEa7",
+              "title": "**O X do Xamarin Forms**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-markdownview-cf4c08e133ea"
+            },
+            {
+              "identifier": "aFSEljc",
+              "title": "Thiago Bertuzzi",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi"
+            }
+          ]
+        },
+        {
+          "identifier": "hx0a8Gm",
+          "type": "Link",
+          "title": "Accessibility in Xamarin.Forms",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/accessibility-in-xamarin-forms",
+          "description": "<p>In the last American census, it was estimated that 18.7% of the population has some type of disability and of those, according to the Pew Internet Project, 54% utilize internet connected services and devices.</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/accessibility-in-xamarin-forms\"><strong>Accessibility in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/matthewrdev\">Matthew Robbins</a></p>",
+          "description_markdown": "In the last American census, it was estimated that 18.7% of the population has some type of disability and of those, according to the Pew Internet Project, 54% utilize internet connected services and devices.\r\n\r\n[**Accessibility in Xamarin.Forms**](https://www.mfractor.com/blogs/news/accessibility-in-xamarin-forms) by [Matthew Robbins](https://twitter.com/matthewrdev)",
+          "embedded_links": [
+            {
+              "identifier": "tw0cADm",
+              "title": "**Accessibility in Xamarin.Forms**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/accessibility-in-xamarin-forms"
+            },
+            {
+              "identifier": "lq3AFZw",
+              "title": "Matthew Robbins",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/matthewrdev"
+            }
+          ]
+        },
+        {
+          "identifier": "dOwQeP8",
+          "type": "Link",
+          "title": "Skiasharp: Building Gradient ProgressBar for Xamarin.Forms",
+          "url_domain": "somostechies.com",
+          "url": "https://somostechies.com/skiasharp-building-gradient-progressbar-for-xamarin-forms/",
+          "description": "<p>We love pretty apps and components here at WeeklyXamarin HQ. So this article from Jesus on how to create a gradient progress bar is a great read!</p>\n\n<p><a href=\"https://somostechies.com/skiasharp-building-gradient-progressbar-for-xamarin-forms/\"><strong>Skiasharp: Building Gradient ProgressBar for Xamarin.Forms</strong></a> by <a href=\"https://somostechies.com/author/jesus/\">Jesus Angulo</a></p>",
+          "description_markdown": "We love pretty apps and components here at WeeklyXamarin HQ. So this article from Jesus on how to create a gradient progress bar is a great read!\r\n\r\n[**Skiasharp: Building Gradient ProgressBar for Xamarin.Forms**](https://somostechies.com/skiasharp-building-gradient-progressbar-for-xamarin-forms/) by [Jesus Angulo](https://somostechies.com/author/jesus/)",
+          "embedded_links": [
+            {
+              "identifier": "NGDQXFQ",
+              "title": "**Skiasharp: Building Gradient ProgressBar for Xamarin.Forms**",
+              "url_domain": "somostechies.com",
+              "url": "https://somostechies.com/skiasharp-building-gradient-progressbar-for-xamarin-forms/"
+            },
+            {
+              "identifier": "37jgwuq",
+              "title": "Jesus Angulo",
+              "url_domain": "somostechies.com",
+              "url": "https://somostechies.com/author/jesus/"
+            }
+          ]
+        },
+        {
+          "identifier": "x9PnKwy",
+          "type": "Link",
+          "title": "Learning about Embedded Images in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/learning-about-embedded-images-in-xamarin-forms/",
+          "description": "<p>Embedded images are a lesser known solution to the issue of having to put a load of images of different resolutions, into each platform in your solution. Read on to find out how to use them!</p>\n\n<p><a href=\"https://askxammy.com/learning-about-embedded-images-in-xamarin-forms/\"><strong>Learning about Embedded Images in Xamarin Forms</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Embedded images are a lesser known solution to the issue of having to put a load of images of different resolutions, into each platform in your solution. Read on to find out how to use them!\r\n\r\n[**Learning about Embedded Images in Xamarin Forms**](https://askxammy.com/learning-about-embedded-images-in-xamarin-forms/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "m57rD7D",
+              "title": "**Learning about Embedded Images in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/learning-about-embedded-images-in-xamarin-forms/"
+            },
+            {
+              "identifier": "usYsT6",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "zLZ56fo",
+          "type": "Link",
+          "title": "Adding Shortcuts in Xamarin.Forms",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/adding-shortcuts-in-xamarin-forms/",
+          "description": "<p>Ever wondered how you get that shortcuts menu for an app, accessed by holding down on the icon, in Xamarin.Forms? Charlin aka XamGirl has you covered!</p>\n\n<p><a href=\"https://xamgirl.com/adding-shortcuts-in-xamarin-forms/\"><strong>Adding Shortcuts in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "Ever wondered how you get that shortcuts menu for an app, accessed by holding down on the icon, in Xamarin.Forms? Charlin aka XamGirl has you covered!\r\n\r\n[**Adding Shortcuts in Xamarin Forms**](https://xamgirl.com/adding-shortcuts-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003)",
+          "embedded_links": [
+            {
+              "identifier": "cG6uhng",
+              "title": "**Adding Shortcuts in Xamarin Forms**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/adding-shortcuts-in-xamarin-forms/"
+            },
+            {
+              "identifier": "cDdDSXN",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "Dyfx4ab",
+          "type": "Link",
+          "title": "Partly Cloudy Episode 7 Recap: Ctrl + S (App Center Data)",
+          "url_domain": "codemilltech.com",
+          "url": "https://codemilltech.com/partly-cloudy-episode-7-recap-ctrl-s-app-center-data/",
+          "description": "<p>Partly Cloudy is back! The show where you learn how to build a cloud-connected Xamarin mobile application. You start from nothing and don't quit until it's ready for the App Store!</p>\n\n<p><a href=\"https://codemilltech.com/partly-cloudy-episode-7-recap-ctrl-s-app-center-data/\"><strong>Partly Cloudy Episode 7 Recap: Ctrl + S (App Center Data)</strong></a> by <a href=\"https://codemilltech.com/author/matthew/\">Matthew Soucoup</a></p>",
+          "description_markdown": "Partly Cloudy is back! The show where you learn how to build a cloud-connected Xamarin mobile application. You start from nothing and don't quit until it's ready for the App Store!\r\n\r\n[**Partly Cloudy Episode 7 Recap: Ctrl + S (App Center Data)**](https://codemilltech.com/partly-cloudy-episode-7-recap-ctrl-s-app-center-data/) by [Matthew Soucoup](https://codemilltech.com/author/matthew/)",
+          "embedded_links": [
+            {
+              "identifier": "EwpjDFM",
+              "title": "**Partly Cloudy Episode 7 Recap: Ctrl + S (App Center Data)**",
+              "url_domain": "codemilltech.com",
+              "url": "https://codemilltech.com/partly-cloudy-episode-7-recap-ctrl-s-app-center-data/"
+            },
+            {
+              "identifier": "N1xx3cl",
+              "title": "Matthew Soucoup",
+              "url_domain": "codemilltech.com",
+              "url": "https://codemilltech.com/author/matthew/"
+            }
+          ]
+        },
+        {
+          "identifier": "9EmgR7s",
+          "type": "Link",
+          "title": "Play Device Information (Xamarin.Essentials API of the Week)",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Device-Information-XamarinEssentials-API-of-the-Week",
+          "description": "<p>Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Xamarin.Essential API of the week, take a look at the Device Info API that can give developers information about the device they are using.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Device-Information-XamarinEssentials-API-of-the-Week\"><strong>Play Device Information (Xamarin.Essentials API of the Week)</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Xamarin.Essential API of the week, take a look at the Device Info API that can give developers information about the device they are using.\r\n\r\n[**Play Device Information (Xamarin.Essentials API of the Week)**](https://channel9.msdn.com/Shows/XamarinShow/Device-Information-XamarinEssentials-API-of-the-Week) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "Fsyw60V",
+              "title": "**Play Device Information (Xamarin.Essentials API of the Week)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Device-Information-XamarinEssentials-API-of-the-Week"
+            },
+            {
+              "identifier": "Y6qI6nJ",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "OY8H2Ru",
+          "type": "Link",
+          "title": "Best Practices - When to use async void | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-When-to-use-async-void--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by friend of the show Dean Faizel, Microsoft Mobile Customer Advisory Team Engineer, who talks us through the best practices of using async void and how to avoid it.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-When-to-use-async-void--The-Xamarin-Show\"><strong>Best Practices - When to use async void | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by friend of the show Dean Faizel, Microsoft Mobile Customer Advisory Team Engineer, who talks us through the best practices of using async void and how to avoid it.\r\n\r\n[**Best Practices - When to use async void | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-When-to-use-async-void--The-Xamarin-Show) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "eDJpdKS",
+              "title": "**Best Practices - When to use async void | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-When-to-use-async-void--The-Xamarin-Show"
+            },
+            {
+              "identifier": "oL7xPY7",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "GYmNJUd",
+          "type": "Link",
+          "title": "183: How This Thing Is Made",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/183",
+          "description": "<p>What started off as a conversation about flying around drones turned into a full podcast about how we make MergeConflict.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/183\"><strong>183: How This Thing Is Made</strong></a> by <a href=\"https://mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "What started off as a conversation about flying around drones turned into a full podcast about how we make MergeConflict.\r\n\r\n[**183: How This Thing Is Made**](https://www.mergeconflict.fm/183) by [Merge Conflict](https://mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "GbKHcWH",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://mergeconflict.fm"
+            },
+            {
+              "identifier": "QIY8tzm",
+              "title": "**183: How This Thing Is Made**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/183"
+            }
+          ]
+        },
+        {
+          "identifier": "p8yfBhN",
+          "type": "Link",
+          "title": "Top Xamarin Videos of 2019 for Developers : Xamarin Blog",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/top-xamarin-videos-2019/",
+          "description": "<p>Each week, the Xamarin team at Microsoft bring us all great content from videos, to series, to blog posts. James shares some of their top videos from 2019, just in case you happened to miss any!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/top-xamarin-videos-2019/\"><strong>Top Xamarin Videos of 2019 for Developers : Xamarin Blog</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "Each week, the Xamarin team at Microsoft bring us all great content from videos, to series, to blog posts. James shares some of their top videos from 2019, just in case you happened to miss any!\r\n\r\n[**Top Xamarin Videos of 2019 for Developers : Xamarin Blog**](https://devblogs.microsoft.com/xamarin/top-xamarin-videos-2019/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "1yk38hu",
+              "title": "**Top Xamarin Videos of 2019 for Developers : Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/top-xamarin-videos-2019/"
+            },
+            {
+              "identifier": "TKFpo6y",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        },
+        {
+          "identifier": "LSqKnTH",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 69: Happy New Decade!",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/69",
+          "description": "<p>This month James and Matt recover from their holiday hacks to go over the latest and greatest in the world of Xamarin!</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/69\"><strong>The Xamarin Podcast Episode 69: Happy New Decade!</strong></a></p>",
+          "description_markdown": "This month James and Matt recover from their holiday hacks to go over the latest and greatest in the world of Xamarin!\r\n\r\n[**The Xamarin Podcast Episode 69: Happy New Decade!**](https://www.xamarinpodcast.com/69)",
+          "embedded_links": [
+            {
+              "identifier": "SAQVWd1",
+              "title": "**The Xamarin Podcast Episode 69: Happy New Decade!**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/69"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

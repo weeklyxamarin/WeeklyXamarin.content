@@ -374,6 +374,16 @@
       ]
     },
     {
+      "Name": "Chris Downie",
+      "Id": "https://www.bignerdranch.com/blog/category/authors/chris-downie/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.bignerdranch.com/blog/category/authors/chris-downie/"
+        }
+      ]
+    },
+    {
       "Name": "Chris Hamons",
       "TwitterHandle": "IfErrThrowBrick",
       "GitHubHandle": "chamons",
@@ -1343,6 +1353,16 @@
         }
       ],
       "Website": "https://codemilltech.com"
+    },
+    {
+      "Name": "Meikanda Nayanar",
+      "Id": "https://www.syncfusion.com/blogs/author/meikandaisyncfusion-com",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.syncfusion.com/blogs/author/meikandaisyncfusion-com"
+        }
+      ]
     },
     {
       "Name": "Merge Conflict",
