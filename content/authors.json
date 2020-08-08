@@ -21,6 +21,12 @@
       ]
     },
     {
+      "Name": "Achraf Ben Alaya",
+      "TwitterHandle": "AchrafBenAlaya",
+      "GitHubHandle": "achrafbenalaya",
+      "Website": "https://achrafbenalaya.github.io/Achrafbenalayablog/"
+    },
+    {
       "Name": "Ahmed Fouad",
       "TwitterHandle": "MCC_Ahmed",
       "GitHubHandle": "TheFo2sh",
@@ -61,6 +67,12 @@
       ]
     },
     {
+      "Name": "Alessandro Caliaro",
+      "TwitterHandle": "acaliaro",
+      "GitHubHandle": "acaliaro",
+      "Website": "https://acaliaro.wordpress.com"
+    },
+    {
       "Name": "Alessandro Del Sole",
       "Id": "https://www.c-sharpcorner.com/members/alessandro-del-sole",
       "Aliases": [
@@ -69,6 +81,18 @@
           "Name": "https://www.c-sharpcorner.com/members/alessandro-del-sole"
         }
       ]
+    },
+    {
+      "Name": "Alex Shirshov",
+      "TwitterHandle": "omnitalented",
+      "GitHubHandle": "shirshov",
+      "Website": "https://omnitalented.com"
+    },
+    {
+      "Name": "Alexandr Sorokoletov",
+      "TwitterHandle": "AlexSorokoletov",
+      "GitHubHandle": "alexsorokoletov",
+      "Website": "https://sorokoletov.com"
     },
     {
       "Name": "Alexey Strakh",
@@ -83,6 +107,18 @@
           "Name": "https://devblogs.microsoft.com/xamarin/author/alexeystrakh/"
         }
       ]
+    },
+    {
+      "Name": "Allan Ritchie",
+      "TwitterHandle": "allanritchie911",
+      "GitHubHandle": "aritchie",
+      "Website": "https://allancritchie.net"
+    },
+    {
+      "Name": "Almir Vuk",
+      "TwitterHandle": "almirvuk",
+      "GitHubHandle": "almirvuk",
+      "Website": "https://almirvuk.com/"
     },
     {
       "Name": "Alyson La",
@@ -103,6 +139,12 @@
           "Name": "https://devblogs.microsoft.com/visualstudio/author/amandas/"
         }
       ]
+    },
+    {
+      "Name": "Anbu Mani",
+      "TwitterHandle": "anbu_mani27",
+      "GitHubHandle": "AnbuMani27",
+      "Website": "https://www.xmonkeys360.com/"
     },
     {
       "Name": "Andreas Nesheim",
@@ -171,6 +213,12 @@
       ]
     },
     {
+      "Name": "Asfend Yar Hamid",
+      "TwitterHandle": "asfend",
+      "GitHubHandle": "asfend",
+      "Website": "https://xamarinui.blogspot.com/"
+    },
+    {
       "Name": "Atanas Popatanasov",
       "Id": "https://www.telerik.com/blogs/author/atanas-popatanasov",
       "Aliases": [
@@ -179,6 +227,12 @@
           "Name": "https://www.telerik.com/blogs/author/atanas-popatanasov"
         }
       ]
+    },
+    {
+      "Name": "Bas de Cort",
+      "TwitterHandle": "basdecort",
+      "GitHubHandle": "basdecort",
+      "Website": "https://www.basdecort.com"
     },
     {
       "Name": "Bence Lenart",
@@ -191,7 +245,7 @@
           "Name": "https://github.com/officialdoniald/"
         }
       ],
-      "Website": "ttps://officialdoniald.azurewebsites.net/"
+      "Website": "https://officialdoniald.azurewebsites.net/"
     },
     {
       "Name": "Bill Leach",
@@ -202,6 +256,12 @@
           "Name": "https://devblogs.microsoft.com/xamarin/author/bill-leach/"
         }
       ]
+    },
+    {
+      "Name": "Boguslaw Blonski",
+      "TwitterHandle": "filipoff",
+      "GitHubHandle": "filipoff2",
+      "Website": "https://medium.com/@boguslawblonski"
     },
     {
       "Name": "Bohdan Benetskyi",
@@ -228,6 +288,24 @@
         }
       ],
       "Website": "https://codetraveler.io"
+    },
+    {
+      "Name": "Bryan Anthony Garcia",
+      "TwitterHandle": "mindofai",
+      "GitHubHandle": "mindofai",
+      "Website": "https://mindofai.github.io/"
+    },
+    {
+      "Name": "Can Bilgin",
+      "TwitterHandle": "can_bilgin",
+      "GitHubHandle": "canbilgin",
+      "Website": "https://canbilgin.wordpress.com/"
+    },
+    {
+      "Name": "Carel Lotz",
+      "TwitterHandle": "cjlotz",
+      "GitHubHandle": "cjlotz",
+      "Website": "https://cjlotz.github.io"
     },
     {
       "Name": "Chaim Gartenberg",
@@ -263,6 +341,12 @@
       ]
     },
     {
+      "Name": "Chris Hamons",
+      "TwitterHandle": "IfErrThrowBrick",
+      "GitHubHandle": "chamons",
+      "Website": "https://medium.com/@donblas"
+    },
+    {
       "Name": "Chris Miller",
       "Id": "https://twitter.com/anotherlab",
       "Aliases": [
@@ -271,6 +355,12 @@
           "Name": "https://twitter.com/anotherlab"
         }
       ]
+    },
+    {
+      "Name": "Chris Williams",
+      "TwitterHandle": "crswlls",
+      "GitHubHandle": "",
+      "Website": "https://crswlls.wordpress.com"
     },
     {
       "Name": "Cody Beyer",
@@ -322,6 +412,12 @@
       "Website": "https://doumer.me/"
     },
     {
+      "Name": "Dan Rigby",
+      "TwitterHandle": "DanRigby",
+      "GitHubHandle": "DanRigby",
+      "Website": "https://danrigby.com/"
+    },
+    {
       "Name": "Dan Siegel",
       "TwitterHandle": "DanJSiegel",
       "GitHubHandle": "dansiegel",
@@ -333,6 +429,12 @@
         }
       ],
       "Website": "https://dansiegel.net"
+    },
+    {
+      "Name": "Daniel Causer",
+      "TwitterHandle": "danielcauser",
+      "GitHubHandle": "danielcauser",
+      "Website": "https://causerexception.com/"
     },
     {
       "Name": "Daniel Gauthier",
@@ -360,6 +462,12 @@
         }
       ],
       "Website": "https://danielhindrikes.se"
+    },
+    {
+      "Name": "Daniel Monetelli",
+      "TwitterHandle": "DanielMonetelli",
+      "GitHubHandle": "monetelli",
+      "Website": "https://www.youtube.com/c/danielmonetelli"
     },
     {
       "Name": "David Britch",
@@ -431,6 +539,12 @@
       "Website": "https://xamlabs.com/"
     },
     {
+      "Name": "Dylan Berry",
+      "TwitterHandle": "dylbot9000",
+      "GitHubHandle": "dylanberry",
+      "Website": "https://www.dylanberry.com/"
+    },
+    {
       "Name": "Eduardo Rosas Osorno",
       "Id": "https://lalorosas.com/?author=5a8198e15e0ed8a0efe637ff",
       "Aliases": [
@@ -451,6 +565,30 @@
       ]
     },
     {
+      "Name": "Elbrinner da Silva Fernandes",
+      "TwitterHandle": "elbrinner",
+      "GitHubHandle": "elbrinner",
+      "Website": "https://www.elbrinner.com/"
+    },
+    {
+      "Name": "Esteban Solano",
+      "TwitterHandle": "stvansolano",
+      "GitHubHandle": "stvansolano",
+      "Website": "https://stvansolano.github.io/"
+    },
+    {
+      "Name": "Evgeny Zborovsky",
+      "TwitterHandle": "ezborovsky",
+      "GitHubHandle": "yuv4ik",
+      "Website": "https://evgenyzborovsky.com/"
+    },
+    {
+      "Name": "Francois Raminosona",
+      "TwitterHandle": "framinosona",
+      "GitHubHandle": "framinosona",
+      "Website": "https://blog.francois.raminosona.com/"
+    },
+    {
       "Name": "Frank Krueger",
       "Id": "https://twitter.com/praeclarum",
       "Aliases": [
@@ -459,6 +597,12 @@
           "Name": "https://twitter.com/praeclarum"
         }
       ]
+    },
+    {
+      "Name": "Geert van der Cruijsen",
+      "TwitterHandle": "geertvdc",
+      "GitHubHandle": "geertvdc",
+      "Website": "https://mobilefirstcloudfirst.net"
     },
     {
       "Name": "Gerald Versluis",
@@ -474,6 +618,12 @@
       "Website": "https://blog.verslu.is/"
     },
     {
+      "Name": "Giampaolo Tucci",
+      "TwitterHandle": "GiampaoloTUCCI",
+      "GitHubHandle": "gptucci",
+      "Website": "https://www.informaticapressapochista.com/it"
+    },
+    {
       "Name": "Glenn Stephens",
       "Id": "https://medium.com/@glennstephens_98130",
       "Aliases": [
@@ -484,6 +634,18 @@
       ]
     },
     {
+      "Name": "Gone Mobile",
+      "TwitterHandle": "gonemobilecast",
+      "GitHubHandle": "",
+      "Website": "http://gonemobile.io"
+    },
+    {
+      "Name": "Greg Shackles",
+      "TwitterHandle": "gshackles",
+      "GitHubHandle": "gshackles",
+      "Website": "https://gregshackles.com"
+    },
+    {
       "Name": "Gunnar Peipman",
       "Id": "https://gunnarpeipman.com/bio/",
       "Aliases": [
@@ -492,6 +654,18 @@
           "Name": "https://gunnarpeipman.com/bio/"
         }
       ]
+    },
+    {
+      "Name": "Hussain Abbasi",
+      "TwitterHandle": "HussainNAbbasi",
+      "GitHubHandle": "hnabbasi",
+      "Website": "https://www.intelliabb.com/"
+    },
+    {
+      "Name": "Ione Souza Junior",
+      "TwitterHandle": "ionixjunior",
+      "GitHubHandle": "ionixjunior",
+      "Website": "https://www.ionixjunior.com.br"
     },
     {
       "Name": "Jacob Kirsch",
@@ -523,6 +697,18 @@
         }
       ],
       "Website": "https://montemagno.com"
+    },
+    {
+      "Name": "Jan Tourlamain",
+      "TwitterHandle": "",
+      "GitHubHandle": "jtourlamain",
+      "Website": "https://www.devprotocol.com/"
+    },
+    {
+      "Name": "Javier Suarez",
+      "TwitterHandle": "jsuarezruiz",
+      "GitHubHandle": "jsuarezruiz",
+      "Website": "https://javiersuarezruiz.wordpress.com"
     },
     {
       "Name": "Javier Suárez",
@@ -566,6 +752,24 @@
       "Website": "https://www.sharpnado.com/"
     },
     {
+      "Name": "Jefferson Balivo",
+      "TwitterHandle": "jbalivo",
+      "GitHubHandle": "balivo",
+      "Website": "https://balivo.com.br/"
+    },
+    {
+      "Name": "Jérôme Giacomini",
+      "TwitterHandle": "jeromegiacomini",
+      "GitHubHandle": "jgiacomini",
+      "Website": "https://jeromegiacomini.net/Blog/"
+    },
+    {
+      "Name": "Jesse Jiang",
+      "TwitterHandle": "jessejiang0214",
+      "GitHubHandle": "jessejiang0214",
+      "Website": "https://jessejiang.xyz/"
+    },
+    {
       "Name": "Jesse Liberty",
       "TwitterHandle": "jesseliberty",
       "GitHubHandle": "JesseLiberty",
@@ -589,6 +793,30 @@
       ]
     },
     {
+      "Name": "Jesús Angulo",
+      "TwitterHandle": "jesulink2514",
+      "GitHubHandle": "jesulink2514",
+      "Website": "https://somostechies.com"
+    },
+    {
+      "Name": "Jim Bennett",
+      "TwitterHandle": "jimbobbennett",
+      "GitHubHandle": "",
+      "Website": "https://jimbobbennett.io/"
+    },
+    {
+      "Name": "Joe Meyer",
+      "TwitterHandle": "iwritecodesmtms",
+      "GitHubHandle": "JoeM-RP",
+      "Website": "https://iwritecodesometimes.net"
+    },
+    {
+      "Name": "John Taubensee",
+      "TwitterHandle": "jtaubensee",
+      "GitHubHandle": "jtaubensee",
+      "Website": "https://taubensee.net"
+    },
+    {
       "Name": "John Thiriet",
       "TwitterHandle": "johnthiriet",
       "GitHubHandle": "johnthiriet",
@@ -600,6 +828,12 @@
         }
       ],
       "Website": "https://johnthiriet.com/"
+    },
+    {
+      "Name": "John Wilson",
+      "TwitterHandle": "wislon",
+      "GitHubHandle": "wislon",
+      "Website": "https://blog.wislon.io/"
     },
     {
       "Name": "Jon Dick",
@@ -632,6 +866,12 @@
       "Website": "https://www.jon-douglas.com/"
     },
     {
+      "Name": "Jon Peppers",
+      "TwitterHandle": "jonathanpeppers",
+      "GitHubHandle": "jonathanpeppers",
+      "Website": "https://jonathanpeppers.com/"
+    },
+    {
       "Name": "Juliano Custódio",
       "TwitterHandle": "JuuCustodio",
       "GitHubHandle": "JuuCustodio",
@@ -655,8 +895,16 @@
       ]
     },
     {
+      "Name": "Kent Boogaart",
+      "TwitterHandle": "kent_boogaart",
+      "GitHubHandle": "",
+      "Website": "https://kent-boogaart.com/"
+    },
+    {
       "Name": "Kerry Lothrop",
       "Id": "https://kerry.lothrop.de/en/author/lothrop/",
+      "TwitterHandle": "kwlothrop",
+      "GitHubHandle": "",
       "Aliases": [
         {
           "Type": "twitter",
@@ -666,7 +914,14 @@
           "Type": "blog",
           "Name": "https://kerry.lothrop.de/en/author/lothrop/"
         }
-      ]
+      ],
+      "Website": "https://kerry.lothrop.de/"
+    },
+    {
+      "Name": "Kodjo Laurent Egbakou",
+      "TwitterHandle": "lioncoding",
+      "GitHubHandle": "egbakou",
+      "Website": "https://lioncoding.com/"
     },
     {
       "Name": "Kym Phillpotts",
@@ -814,6 +1069,24 @@
       ]
     },
     {
+      "Name": "Mahmoud Ali",
+      "TwitterHandle": "akamud",
+      "GitHubHandle": "akamud",
+      "Website": "https://www.lambda3.com.br/blog"
+    },
+    {
+      "Name": "Malcolm Jack",
+      "TwitterHandle": "inquisitorjax",
+      "GitHubHandle": "inquisitorjax",
+      "Website": "https://inquisitorjax.blogspot.com/"
+    },
+    {
+      "Name": "Marc Bruins",
+      "TwitterHandle": "MarcBruins",
+      "GitHubHandle": "MarcBruins",
+      "Website": "https://www.marcbruins.nl"
+    },
+    {
       "Name": "Marco",
       "Id": "https://marcofolio.net/author/marco/",
       "Aliases": [
@@ -873,6 +1146,24 @@
       "Website": "https://mallibone.com"
     },
     {
+      "Name": "Mark Deanil Vicente",
+      "TwitterHandle": "DeanilVincent03",
+      "GitHubHandle": "deanilvincent",
+      "Website": "https://deanilvincent.github.io/"
+    },
+    {
+      "Name": "Marko Lazić",
+      "TwitterHandle": "markolazic88",
+      "GitHubHandle": "markolazic88",
+      "Website": "https://markolazic.com/"
+    },
+    {
+      "Name": "Martijn van Dijk",
+      "TwitterHandle": "mhvdijk",
+      "GitHubHandle": "martijn00",
+      "Website": "https://medium.com/@martijn00"
+    },
+    {
       "Name": "Martin Zikmund",
       "TwitterHandle": "MZetko",
       "GitHubHandle": "MartinZikmund",
@@ -884,6 +1175,12 @@
         }
       ],
       "Website": "https://blog.mzikmund.com/"
+    },
+    {
+      "Name": "Martyn Wiggins",
+      "TwitterHandle": "Martynnw",
+      "GitHubHandle": "Martynnw",
+      "Website": "https://martynnw.wordpress.com"
     },
     {
       "Name": "Matt Crombie",
@@ -907,6 +1204,12 @@
           "Name": "https://devblogs.microsoft.com/xamarin/author/matt-soucoup/"
         }
       ]
+    },
+    {
+      "Name": "Matthew Leibowitz",
+      "TwitterHandle": "mattleibow",
+      "GitHubHandle": "mattleibow",
+      "Website": "https://dotnetdevaddict.co.za"
     },
     {
       "Name": "Matthew Robbins",
@@ -949,6 +1252,12 @@
       "Website": "http://mergeconflict.fm"
     },
     {
+      "Name": "MFractor",
+      "TwitterHandle": "mfractor",
+      "GitHubHandle": "mfractor",
+      "Website": "https://www.mfractor.com/"
+    },
+    {
       "Name": "Michael Flarup",
       "Id": "https://twitter.com/flarup/",
       "Aliases": [
@@ -957,6 +1266,24 @@
           "Name": "https://twitter.com/flarup/"
         }
       ]
+    },
+    {
+      "Name": "Michael Ridland",
+      "TwitterHandle": "rid00z",
+      "GitHubHandle": "rid00z",
+      "Website": "https://michaelridland.com"
+    },
+    {
+      "Name": "Mike Grant",
+      "TwitterHandle": "mike_grant_",
+      "GitHubHandle": "mike-grant",
+      "Website": "https://www.mikegrant.org.uk"
+    },
+    {
+      "Name": "Mikolaj Kieres",
+      "TwitterHandle": "mikolajkieres",
+      "GitHubHandle": "mkieres",
+      "Website": "https://progrunning.net"
     },
     {
       "Name": "Mobile-Angel",
@@ -1009,6 +1336,12 @@
       "Website": "https://xamarininsider.com"
     },
     {
+      "Name": "Nigel Sampson",
+      "TwitterHandle": "nigelsampson",
+      "GitHubHandle": "nigel-sampson",
+      "Website": "https://compiledexperience.com/"
+    },
+    {
       "Name": "Nijamudeen",
       "Id": "https://www.syncfusion.com/blogs/author/nijamudeensulaimansyncfusion-com",
       "Aliases": [
@@ -1053,6 +1386,12 @@
       ]
     },
     {
+      "Name": "Peter Foot",
+      "TwitterHandle": "peterfoot",
+      "GitHubHandle": "peterfoot",
+      "Website": "https://inthehand.com/blog/"
+    },
+    {
       "Name": "Peter Mbanugo",
       "Id": "https://www.telerik.com/blogs/author/peter-mbanugo",
       "Aliases": [
@@ -1073,6 +1412,12 @@
       ]
     },
     {
+      "Name": "Pieter Nijs",
+      "TwitterHandle": "nijspieter",
+      "GitHubHandle": "PieEatingNinjas",
+      "Website": "https://blog.pieeatingninjas.be/"
+    },
+    {
       "Name": "Ram Shandilya",
       "Id": "https://twitter.com/ramshandilya",
       "Aliases": [
@@ -1091,6 +1436,18 @@
           "Name": "https://www.syncfusion.com/blogs/author/ramkumarrsyncfusion-com"
         }
       ]
+    },
+    {
+      "Name": "Ramon Esteban",
+      "TwitterHandle": "ramonesteban78",
+      "GitHubHandle": "ramonesteban78",
+      "Website": "https://ramonesteban78.github.io/"
+    },
+    {
+      "Name": "ReactiveUI",
+      "TwitterHandle": "ReactiveXUI",
+      "GitHubHandle": "ReactiveUI",
+      "Website": "https://reactiveui.net/"
     },
     {
       "Name": "Rendy Del Rosario",
@@ -1142,6 +1499,12 @@
       "Website": "https://msctek.com/"
     },
     {
+      "Name": "Robin-Manuel Thiel",
+      "TwitterHandle": "robinmanuelt",
+      "GitHubHandle": "robinmanuelthiel",
+      "Website": "https://pumpingco.de/"
+    },
+    {
       "Name": "Roxana Jula",
       "Id": "https://twitter.com/roxanajula",
       "Aliases": [
@@ -1150,6 +1513,31 @@
           "Name": "https://twitter.com/roxanajula"
         }
       ]
+    },
+    {
+      "Name": "Runar Ovesen Hjerpbakk",
+      "TwitterHandle": "hjerpbakk",
+      "GitHubHandle": "Sankra",
+      "Website": "https://hjerpbakk.com/"
+    },
+    {
+      "Name": "Ryan Davis",
+      "TwitterHandle": "rdavis_au",
+      "GitHubHandle": "rdavisau",
+      "Website": "https://ryandavis.io"
+    },
+    {
+      "Name": "Saamer Mansoor",
+      "Id": "https://medium.com/@prototypemakers",
+      "TwitterHandle": "saamerm",
+      "GitHubHandle": "saamerm",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@prototypemakers"
+        }
+      ],
+      "Website": "https://medium.com/@prototypemakers"
     },
     {
       "Name": "Sam Basu",
@@ -1164,6 +1552,8 @@
     {
       "Name": "Samir G.C",
       "Id": "https://twitter.com/xamaringuy",
+      "TwitterHandle": "xamaringuy",
+      "GitHubHandle": "samirgcofficial",
       "Aliases": [
         {
           "Type": "twitter",
@@ -1209,6 +1599,12 @@
       ]
     },
     {
+      "Name": "Sheharyar Shahid",
+      "TwitterHandle": "sshary19",
+      "GitHubHandle": "sshary019",
+      "Website": "https://letsxamarin.com"
+    },
+    {
       "Name": "Simon Bisson",
       "Id": "https://www.infoworld.com/author/simon-bisson/",
       "Aliases": [
@@ -1227,6 +1623,18 @@
           "Name": "https://www.telerik.com/blogs/author/stefan-nenchev"
         }
       ]
+    },
+    {
+      "Name": "Stefan Riedmann",
+      "TwitterHandle": "CicloSoftware",
+      "GitHubHandle": "StefanRiedmann",
+      "Website": "https://www.ciclosoftware.com"
+    },
+    {
+      "Name": "Stephen Marcus",
+      "TwitterHandle": "",
+      "GitHubHandle": "marcusts",
+      "Website": "https://www.marcusts.com"
     },
     {
       "Name": "Steven Thewissen",
@@ -1256,6 +1664,18 @@
       ]
     },
     {
+      "Name": "Suthahar Jegatheesan",
+      "TwitterHandle": "jssuthahar",
+      "GitHubHandle": "jssuthahar",
+      "Website": "https://www.msdevbuild.com/"
+    },
+    {
+      "Name": "Sven-Michael Stübe",
+      "TwitterHandle": "stuebe2k14",
+      "GitHubHandle": "smstuebe",
+      "Website": "https://smstuebe.de/"
+    },
+    {
       "Name": "SwiftKey",
       "Id": "https://medium.com/@swiftkey",
       "Aliases": [
@@ -1266,14 +1686,22 @@
       ]
     },
     {
-      "Name": "The First Prototype",
-      "Id": "https://medium.com/@prototypemakers",
-      "Aliases": [
-        {
-          "Type": "blog",
-          "Name": "https://medium.com/@prototypemakers"
-        }
-      ]
+      "Name": "Syncfusion",
+      "TwitterHandle": "Syncfusion",
+      "GitHubHandle": "",
+      "Website": "https://www.syncfusion.com/xamarin-ui-controls"
+    },
+    {
+      "Name": "The Xamarin Blog",
+      "TwitterHandle": "xamarinhq",
+      "GitHubHandle": "xamarin",
+      "Website": "https://blog.xamarin.com"
+    },
+    {
+      "Name": "The Xamarin Podcast",
+      "TwitterHandle": "XamarinPodcast",
+      "GitHubHandle": "",
+      "Website": "http://www.xamarinpodcast.com"
     },
     {
       "Name": "The Xamarin Show",
@@ -1315,6 +1743,18 @@
       "Website": "https://thomasbandt.com/"
     },
     {
+      "Name": "Thomas Burkhart",
+      "TwitterHandle": "ThomasBurkhartB",
+      "GitHubHandle": "escamoteur",
+      "Website": "https://blog.burkharts.net/"
+    },
+    {
+      "Name": "Timothé Larivière",
+      "TwitterHandle": "Tim_Lariviere",
+      "GitHubHandle": "TimLariviere",
+      "Website": "https://timothelariviere.com"
+    },
+    {
       "Name": "Tom Soderling",
       "TwitterHandle": "tomsoderling",
       "GitHubHandle": "TomSoderling",
@@ -1341,6 +1781,12 @@
       "Website": "https://blog.ostebaronen.dk"
     },
     {
+      "Name": "Trailhead Technology",
+      "TwitterHandle": "@TrailheadTec",
+      "GitHubHandle": "trailheadtechnology",
+      "Website": "https://www.trailheadtechnology.com/"
+    },
+    {
       "Name": "Udara Alwis",
       "TwitterHandle": "Udara_Alwis",
       "GitHubHandle": "UdaraAlwis",
@@ -1358,8 +1804,16 @@
       "Website": "https://theconfuzedsourcecode.wordpress.com/"
     },
     {
-      "Name": "Vicente G. Guzmán Lucio",
+      "Name": "Umair Hassan",
+      "TwitterHandle": "umairhassan03",
+      "GitHubHandle": "umairhassan003",
+      "Website": "https://xamarinweb.com/"
+    },
+    {
+      "Name": "Vicente Guzman",
       "Id": "https://vicenteguzman.mx/",
+      "TwitterHandle": "luciomsp",
+      "GitHubHandle": "VicenteGuzman",
       "Aliases": [
         {
           "Type": "twitter",
@@ -1369,7 +1823,8 @@
           "Type": "blog",
           "Name": "https://vicenteguzman.mx/"
         }
-      ]
+      ],
+      "Website": "https://vicenteguzman.mx/"
     },
     {
       "Name": "Vidit Bhargava",
@@ -1396,6 +1851,24 @@
       ]
     },
     {
+      "Name": "Vulcan Lee",
+      "TwitterHandle": "vulcanlee",
+      "GitHubHandle": "vulcanlee",
+      "Website": "https://mylabtw.blogspot.com/"
+    },
+    {
+      "Name": "William Barbosa",
+      "TwitterHandle": "willdotnet",
+      "GitHubHandle": "willsb",
+      "Website": "https://willsb.github.io"
+    },
+    {
+      "Name": "Winston Gubantes",
+      "TwitterHandle": "tony_fear",
+      "GitHubHandle": "winstongubantes",
+      "Website": "https://winstongubantes.blogspot.com/"
+    },
+    {
       "Name": "Works",
       "Id": "https://twitter.com/worksdotpm",
       "Aliases": [
@@ -1404,6 +1877,12 @@
           "Name": "https://twitter.com/worksdotpm"
         }
       ]
+    },
+    {
+      "Name": "Xablu",
+      "TwitterHandle": "xabluhq",
+      "GitHubHandle": "xablu",
+      "Website": "https://www.xablu.com/"
     },
     {
       "Name": "Xamarin Developers",
