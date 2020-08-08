@@ -200,6 +200,16 @@
       "Website": "https://www.andrewhoefling.com/"
     },
     {
+      "Name": "Anıl taşkıran",
+      "Id": "https://medium.com/@aniltaskiran",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@aniltaskiran"
+        }
+      ]
+    },
+    {
       "Name": "Antonio Bello",
       "Id": "https://www.raywenderlich.com/u/jeden",
       "Aliases": [
@@ -585,6 +595,16 @@
         }
       ],
       "Website": "https://xamlabs.com/"
+    },
+    {
+      "Name": "Dominic Nahous",
+      "Id": "https://devblogs.microsoft.com/visualstudio/author/dominicn/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/visualstudio/author/dominicn/"
+        }
+      ]
     },
     {
       "Name": "Dylan Berry",
@@ -1422,6 +1442,10 @@
         {
           "Type": "blog",
           "Name": "https://nicksnettravelsblog.azurewebsites.net/author/nick/"
+        },
+        {
+          "Type": "blog",
+          "Name": "https://nicksnettravels.builttoroam.com/author/nick/"
         }
       ],
       "Website": "https://builttoroam.com"
@@ -1725,6 +1749,16 @@
       ]
     },
     {
+      "Name": "Sermet",
+      "Id": "https://medium.com/@sermetkose",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@sermetkose"
+        }
+      ]
+    },
+    {
       "Name": "Sheharyar Shahid",
       "TwitterHandle": "sshary19",
       "GitHubHandle": "sshary019",
@@ -1971,6 +2005,16 @@
         {
           "Type": "blog",
           "Name": "https://medium.com/@viditb"
+        }
+      ]
+    },
+    {
+      "Name": "Vijayakumar Yoganandan",
+      "Id": "https://www.syncfusion.com/blogs/author/vijayakumar-yoganandansyncfusion-com",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.syncfusion.com/blogs/author/vijayakumar-yoganandansyncfusion-com"
         }
       ]
     },

@@ -1,0 +1,358 @@
+{
+  "number": 244,
+  "title": "Issue 244",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/244",
+  "publication_status": "published",
+  "published_at": "2020-01-31T22:08:26+00:00",
+  "updated_at": "2020-01-31T22:08:31+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy weekend everyone!</p>\n\n<p>A pretty light issue this week, but lots of great releases for you to dig into over the weekend.</p>\n\n<p>I'm literally about to board a flight to Seattle to go and visit \"The Mothership\" hopefully I get time to catch up with some amazing Xamarin peeps.</p>\n\n<p>Also, please go and check out our sponsor <a href=\"https://www.xablu.com/training/#\">Xablu</a> to learn about their Xamarin training options!</p>\n\n<p>Have a great weekend everyone and see you back next week.</p>\n\n<p>❤️</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy weekend everyone!\r\n\r\nA pretty light issue this week, but lots of great releases for you to dig into over the weekend.  \r\n\r\nI'm literally about to board a flight to Seattle to go and visit \"The Mothership\" hopefully I get time to catch up with some amazing Xamarin peeps.\r\n\r\nAlso, please go and check out our sponsor [Xablu](https://www.xablu.com/training/#) to learn about their Xamarin training options!\r\n\r\nHave a great weekend everyone and see you back next week.\r\n\r\n❤️\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "p7Vdwh6",
+              "title": "Xablu",
+              "url_domain": "xablu.com",
+              "url": "https://www.xablu.com/training/#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "xPqNkog",
+          "type": "Link",
+          "title": "Learn how to get the most out of Xamarin.Forms",
+          "url_domain": "xablu.com",
+          "url": "https://www.xablu.com/xamarin-forms-training/",
+          "description": "",
+          "description_markdown": "",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "08c85233-a07c-4e3d-b345-17263919f1dc.jpg",
+          "image_extra_large_filename": "original_ratio_extra_large_08c85233-a07c-4e3d-b345-17263919f1dc.jpg",
+          "image_medium_filename": "original_ratio_medium_08c85233-a07c-4e3d-b345-17263919f1dc.jpg"
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "uO3xvju",
+          "type": "Link",
+          "title": "Building Xamarin.Forms Apps on Azure DevOps using Templates",
+          "url_domain": "builttoroam.com",
+          "url": "https://nicksnettravels.builttoroam.com/pipeline-templates/",
+          "description": "<p>Need to easily add CI to your Xamarin.Forms project?  Well, Nick Randolph is putting together some Azure DevOps templates to kick start any Xamarin.Forms DevOps pipeline.  This is awesome because as he says in the blog post, normally we end up just recreating the same pipelines over and over again.</p>\n\n<p><a href=\"https://nicksnettravels.builttoroam.com/pipeline-templates/\"><strong>Pipeline Templates: Building Xamarin.Forms Apps on Azure DevOps using Templates</strong></a> by <a href=\"https://nicksnettravels.builttoroam.com/author/nick/\">Nick</a></p>",
+          "description_markdown": "Need to easily add CI to your Xamarin.Forms project?  Well, Nick Randolph is putting together some Azure DevOps templates to kick start any Xamarin.Forms DevOps pipeline.  This is awesome because as he says in the blog post, normally we end up just recreating the same pipelines over and over again. \r\n\r\n[**Pipeline Templates: Building Xamarin.Forms Apps on Azure DevOps using Templates**](https://nicksnettravels.builttoroam.com/pipeline-templates/) by [Nick](https://nicksnettravels.builttoroam.com/author/nick/)",
+          "embedded_links": [
+            {
+              "identifier": "PzC7dj8",
+              "title": "**Pipeline Templates: Building Xamarin.Forms Apps on Azure DevOps using Templates**",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/pipeline-templates/"
+            },
+            {
+              "identifier": "HVqoIqX",
+              "title": "Nick",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/author/nick/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "dm9BqTp",
+          "type": "Link",
+          "title": "What’s New with Location and Bluetooth APIs on iOS 13",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/flawless-app-stories/whats-new-with-location-and-bluetooth-apis-on-ios-13-a6d8497ffa39",
+          "description": "<p>With the recently announced iOS 13, we see that Apple’s approach to location privacy is getting more and more serious. This new update will include recurring notifications for users to see whether the app uses their location in the background or not, allowing them to adjust the setting regularly.</p>\n\n<p><a href=\"https://medium.com/flawless-app-stories/whats-new-with-location-and-bluetooth-apis-on-ios-13-a6d8497ffa39\"><strong>What’s New with Location and Bluetooth APIs on iOS 13</strong></a> by <a href=\"https://medium.com/@aniltaskiran\">Anıl taşkıran</a></p>",
+          "description_markdown": "With the recently announced iOS 13, we see that Apple’s approach to location privacy is getting more and more serious. This new update will include recurring notifications for users to see whether the app uses their location in the background or not, allowing them to adjust the setting regularly.\r\n\r\n[**What’s New with Location and Bluetooth APIs on iOS 13**](https://medium.com/flawless-app-stories/whats-new-with-location-and-bluetooth-apis-on-ios-13-a6d8497ffa39) by [Anıl taşkıran](https://medium.com/@aniltaskiran)",
+          "embedded_links": [
+            {
+              "identifier": "BInB59c",
+              "title": "**What’s New with Location and Bluetooth APIs on iOS 13**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/flawless-app-stories/whats-new-with-location-and-bluetooth-apis-on-ios-13-a6d8497ffa39"
+            },
+            {
+              "identifier": "vzTO2Yu",
+              "title": "Anıl taşkıran",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@aniltaskiran"
+            }
+          ]
+        },
+        {
+          "identifier": "SM9iqox",
+          "type": "Link",
+          "title": "Picking a Document In Xamarin.iOS",
+          "url_domain": "blogspot.com",
+          "url": "https://logeshpalani.blogspot.com/2020/01/how-to-pick-document-in-xamarinios.html",
+          "description": "<p>Logesh shows you how to pick a file from your iOS device in a Xamarin iOS application.</p>\n\n<p><a href=\"https://logeshpalani.blogspot.com/2020/01/how-to-pick-document-in-xamarinios.html\"><strong>How To Pick Document In Xamarin.iOS</strong></a> by <a href=\"https://www.blogger.com/profile/11572235997627400122\">Logesh Palani</a></p>",
+          "description_markdown": "Logesh shows you how to pick a file from your iOS device in a Xamarin iOS application.\r\n\r\n[**How To Pick Document In Xamarin.iOS**](https://logeshpalani.blogspot.com/2020/01/how-to-pick-document-in-xamarinios.html) by [Logesh Palani](https://www.blogger.com/profile/11572235997627400122)",
+          "embedded_links": [
+            {
+              "identifier": "3DYSK1z",
+              "title": "**How To Pick Document In Xamarin.iOS**",
+              "url_domain": "blogspot.com",
+              "url": "https://logeshpalani.blogspot.com/2020/01/how-to-pick-document-in-xamarinios.html"
+            },
+            {
+              "identifier": "KFlpW1k",
+              "title": "Logesh Palani",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/11572235997627400122"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "i9qJvTK",
+          "type": "Link",
+          "title": "Integrating Braintree with Xamarin Forms",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2020/01/28/braintree-integration-in-xamarin-forms-part-1/",
+          "description": "<p>In this article, Rendy shows you how to add Braintree client-side integration in a Xamarin Forms app.</p>\n\n<p>For those not familiar with Braintree:</p>\n\n<blockquote><p>Braintree Payment Gateway is a simple and modern way to accept payments. Along with its list of flexible features, it provides the ability to merchants to accept payments online or within a mobile application.</p></blockquote>\n\n<p><a href=\"https://www.xamboy.com/2020/01/28/braintree-integration-in-xamarin-forms-part-1/\"><strong>Braintree integration in Xamarin Forms (Part.1 )</strong></a> by Rendy</p>",
+          "description_markdown": "In this article, Rendy shows you how to add Braintree client-side integration in a Xamarin Forms app.\r\n\r\nFor those not familiar with Braintree:\r\n> Braintree Payment Gateway is a simple and modern way to accept payments. Along with its list of flexible features, it provides the ability to merchants to accept payments online or within a mobile application.\r\n\r\n[**Braintree integration in Xamarin Forms (Part.1 )**](https://www.xamboy.com/2020/01/28/braintree-integration-in-xamarin-forms-part-1/) by Rendy",
+          "embedded_links": [
+            {
+              "identifier": "YJJd4sR",
+              "title": "**Braintree integration in Xamarin Forms (Part.1 )**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2020/01/28/braintree-integration-in-xamarin-forms-part-1/"
+            }
+          ]
+        },
+        {
+          "identifier": "qdGuvRR",
+          "type": "Link",
+          "title": "Keep it clean!",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/sermet-blog/clean-xamarin-development-environment-and-some-nuget-packages-e94918fe6513",
+          "description": "<p>Sermet has some tips for cleaning up your Xamarin environment and saving some space.  As a cheeky little bonus, he also lists out his favourite libraries for Xamarin development</p>\n\n<p><a href=\"https://medium.com/sermet-blog/clean-xamarin-development-environment-and-some-nuget-packages-e94918fe6513\"><strong>Clean Xamarin Development Environment and Some Nuget Packages</strong></a> by <a href=\"https://medium.com/@sermetkose\">Sermet</a></p>",
+          "description_markdown": "Sermet has some tips for cleaning up your Xamarin environment and saving some space.  As a cheeky little bonus, he also lists out his favourite libraries for Xamarin development\r\n\r\n[**Clean Xamarin Development Environment and Some Nuget Packages**](https://medium.com/sermet-blog/clean-xamarin-development-environment-and-some-nuget-packages-e94918fe6513) by [Sermet](https://medium.com/@sermetkose)",
+          "embedded_links": [
+            {
+              "identifier": "Ad6E0F1",
+              "title": "**Clean Xamarin Development Environment and Some Nuget Packages**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/sermet-blog/clean-xamarin-development-environment-and-some-nuget-packages-e94918fe6513"
+            },
+            {
+              "identifier": "ITdlewc",
+              "title": "Sermet",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@sermetkose"
+            }
+          ]
+        },
+        {
+          "identifier": "fFaUld7",
+          "type": "Link",
+          "title": "Preferences in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/touching-base-with-preferences-in-xamarin-forms/",
+          "description": "<p>Leomaris shows how to get started with storing preferences using Xamarin.Essentials in your Xamarin.Forms project.</p>\n\n<p><a href=\"https://askxammy.com/touching-base-with-preferences-in-xamarin-forms/\"><strong>Touching base with Preferences in Xamarin Forms</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris shows how to get started with storing preferences using Xamarin.Essentials in your Xamarin.Forms project.\r\n\r\n[**Touching base with Preferences in Xamarin Forms**](https://askxammy.com/touching-base-with-preferences-in-xamarin-forms/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "hUFb1C8",
+              "title": "**Touching base with Preferences in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/touching-base-with-preferences-in-xamarin-forms/"
+            },
+            {
+              "identifier": "EW7aQPe",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "sgv8aTt",
+          "type": "Link",
+          "title": "New embedded fonts goodness",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2020/01/24/xamarin-forms-embedded-fonts/",
+          "description": "<p>Most production apps will use custom fonts to add a nice styling.  But if you have done this before,  you'll know it's a real pain.  Javier shows a now option with Forms 4.5 that just makes things easier.</p>\n\n<p><strong>Note: Post is in Spanish</strong></p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2020/01/24/xamarin-forms-embedded-fonts/\"><strong>[Xamarin.Forms] Embedded fonts</strong></a> by <a href=\"https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/\">Javier Suárez Ruiz</a></p>",
+          "description_markdown": "Most production apps will use custom fonts to add a nice styling.  But if you have done this before,  you'll know it's a real pain.  Javier shows a now option with Forms 4.5 that just makes things easier.\r\n\r\n**Note: Post is in Spanish**\r\n\r\n[**[Xamarin.Forms] Embedded fonts**](https://javiersuarezruiz.wordpress.com/2020/01/24/xamarin-forms-embedded-fonts/) by [Javier Suárez Ruiz](https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/)",
+          "embedded_links": [
+            {
+              "identifier": "bq0ig1g",
+              "title": "Xamarin.Forms] Embedded fonts**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2020/01/24/xamarin-forms-embedded-fonts/"
+            },
+            {
+              "identifier": "w6FEcSX",
+              "title": "Javier Suárez Ruiz",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/"
+            }
+          ]
+        },
+        {
+          "identifier": "eIyjpbd",
+          "type": "Link",
+          "title": "Google Login Integration in Xamarin Forms: A Complete Guide",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/google-login-integration-in-xamarin-forms-a-complete-guide.aspx",
+          "description": "<p>Login is very common but so is having to remember a load of passwords and usernames. For this reason, it is becoming more and more common that we can log in to apps with existing accounts from social media. One of my most common accounts I use is Google. This shows you how to do it!</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/google-login-integration-in-xamarin-forms-a-complete-guide.aspx\"><strong>Google Login Integration in Xamarin Forms: A Complete Guide</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/vijayakumar-yoganandansyncfusion-com\">Vijayakumar Yoganandan</a></p>",
+          "description_markdown": "Login is very common but so is having to remember a load of passwords and usernames. For this reason, it is becoming more and more common that we can log in to apps with existing accounts from social media. One of my most common accounts I use is Google. This shows you how to do it!\r\n\r\n[**Google Login Integration in Xamarin Forms: A Complete Guide**](https://www.syncfusion.com/blogs/post/google-login-integration-in-xamarin-forms-a-complete-guide.aspx) by [Vijayakumar Yoganandan](https://www.syncfusion.com/blogs/author/vijayakumar-yoganandansyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "H5jR20f",
+              "title": "**Google Login Integration in Xamarin Forms: A Complete Guide**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/google-login-integration-in-xamarin-forms-a-complete-guide.aspx"
+            },
+            {
+              "identifier": "OKk3BuM",
+              "title": "Vijayakumar Yoganandan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/vijayakumar-yoganandansyncfusion-com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "LravVZJ",
+          "type": "Link",
+          "title": "Merge Conflict: 186: Hot Hot Hot",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/186",
+          "description": "<p>Everything is HOT! XAML Hot Reload, Hot Restart, Hot UI, Hot Hot, and the Hottest of the Hot and we discuss it all!</p>\n\n<p><a href=\"Merge%20Conflict:%20186:%20Hot%20Hot%20Hot\"><strong>Merge Conflict: 186: Hot Hot Hot</strong></a> by <a href=\"https://mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "Everything is HOT! XAML Hot Reload, Hot Restart, Hot UI, Hot Hot, and the Hottest of the Hot and we discuss it all!\r\n\r\n[**Merge Conflict: 186: Hot Hot Hot**](Merge Conflict: 186: Hot Hot Hot) by [Merge Conflict](https://mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "wqAyGHR",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://mergeconflict.fm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "NPjwZhZ",
+          "type": "Link",
+          "title": "Visual Studio 2019 for Mac version 8.5 Preview 2 is available",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-5-preview-2-is-available/",
+          "description": "<p>Visual Studio 2019 for Mac 8.5 Preview 2 is ready to download today! The latest preview of Visual Studio for Mac adds a handful of neat features and fixes that were direct requests from our users such as: One of the most requested features from our ASP.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-5-preview-2-is-available/\"><strong>Visual Studio 2019 for Mac version 8.5 Preview 2 is available</strong></a> by <a href=\"https://devblogs.microsoft.com/visualstudio/author/dominicn/\">Dominic Nahous</a></p>",
+          "description_markdown": "Visual Studio 2019 for Mac 8.5 Preview 2 is ready to download today! The latest preview of Visual Studio for Mac adds a handful of neat features and fixes that were direct requests from our users such as: One of the most requested features from our ASP.\r\n\r\n[**Visual Studio 2019 for Mac version 8.5 Preview 2 is available**](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-5-preview-2-is-available/) by [Dominic Nahous](https://devblogs.microsoft.com/visualstudio/author/dominicn/)",
+          "embedded_links": [
+            {
+              "identifier": "BiyVTSt",
+              "title": "**Visual Studio 2019 for Mac version 8.5 Preview 2 is available**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-5-preview-2-is-available/"
+            },
+            {
+              "identifier": "EImpFWq",
+              "title": "Dominic Nahous",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/author/dominicn/"
+            }
+          ]
+        },
+        {
+          "identifier": "Yj8HABZ",
+          "type": "Link",
+          "title": "New Sharpnado!",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/sharpnado-1-4-0-drag-and-refresh/",
+          "description": "<p>Sharpnado has a new release with Dark mode and draggable cell improvements!</p>\n\n<p><a href=\"https://www.sharpnado.com/sharpnado-1-4-0-drag-and-refresh/\"><strong>Sharpnado 1.4.0: Drag and Drop and Refresh!</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "Sharpnado has a new release with Dark mode and draggable cell improvements!\r\n\r\n[**Sharpnado 1.4.0: Drag and Drop and Refresh!**](https://www.sharpnado.com/sharpnado-1-4-0-drag-and-refresh/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)",
+          "embedded_links": [
+            {
+              "identifier": "EUKwhP2",
+              "title": "**Sharpnado 1.4.0: Drag and Drop and Refresh!**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/sharpnado-1-4-0-drag-and-refresh/"
+            },
+            {
+              "identifier": "IViB1qe",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        },
+        {
+          "identifier": "ZyO6Qjh",
+          "type": "Link",
+          "title": "Shiny 1.0 Release",
+          "url_domain": "allancritchie.net",
+          "url": "https://allancritchie.net/posts/shiny10",
+          "description": "<p>Shiny Version 1.0 is released. Enough said.  Go get it!</p>\n\n<p><a href=\"https://allancritchie.net/posts/shiny10\"><strong>Shiny 1.0 Release</strong></a></p>",
+          "description_markdown": "Shiny Version 1.0 is released. Enough said.  Go get it!\r\n\r\n[**Shiny 1.0 Release**](https://allancritchie.net/posts/shiny10) ",
+          "embedded_links": [
+            {
+              "identifier": "CcudVMA",
+              "title": "**Shiny 1.0 Release**",
+              "url_domain": "allancritchie.net",
+              "url": "https://allancritchie.net/posts/shiny10"
+            }
+          ]
+        },
+        {
+          "identifier": "W2BpaTY",
+          "type": "Link",
+          "title": "What's New in Visual Studio 2019 version 16.5 Preview 2",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/visual-studio-2019-version-16-5-preview-2/",
+          "description": "<p>This week, Visual Studio 2019 version 16.5 Preview 2 was released, bringing several new features and improvements for mobile developers in Visual Studio to help you build better mobile apps, faster.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/visual-studio-2019-version-16-5-preview-2/\"><strong>What's New in Visual Studio 2019 version 16.5 Preview 2 : Xamarin Blog</strong></a></p>",
+          "description_markdown": "This week, Visual Studio 2019 version 16.5 Preview 2 was released, bringing several new features and improvements for mobile developers in Visual Studio to help you build better mobile apps, faster.\r\n\r\n[**What's New in Visual Studio 2019 version 16.5 Preview 2 : Xamarin Blog**](https://devblogs.microsoft.com/xamarin/visual-studio-2019-version-16-5-preview-2/)",
+          "embedded_links": [
+            {
+              "identifier": "zQ1ppcz",
+              "title": "**What's New in Visual Studio 2019 version 16.5 Preview 2 : Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/visual-studio-2019-version-16-5-preview-2/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

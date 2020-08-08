@@ -1,0 +1,124 @@
+{
+  "Id": "244",
+  "Name": "Issue 244",
+  "UpdatedTimeStamp": "2020-01-31T22:08:31Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Happy weekend everyone! A pretty light issue this week, but lots of great releases for you to dig into over the weekend.   I'm literally about to board a flight to Seattle to go and visit \"The Mothership\" hopefully I get time to catch up with some amazing Xamarin peeps. Also, please go and check out our sponsor [Xablu](https://www.xablu.com/training/#) to learn about their Xamarin training options! Have a great weekend everyone and see you back next week. ❤️ Kym",
+  "PublishDate": "2020-01-31T22:08:26Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Building Xamarin.Forms Apps on Azure DevOps using Templates",
+      "Url": "https://nicksnettravels.builttoroam.com/pipeline-templates/",
+      "Description": "Need to easily add CI to your Xamarin.Forms project?  Well, Nick Randolph is putting together some Azure DevOps templates to kick start any Xamarin.Forms DevOps pipeline.  This is awesome because as he says in the blog post, normally we end up just recreating the same pipelines over and over again.",
+      "EditionId": "244",
+      "Author": "Nick Randolph",
+      "Id": "244-1",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "What’s New with Location and Bluetooth APIs on iOS 13",
+      "Url": "https://medium.com/flawless-app-stories/whats-new-with-location-and-bluetooth-apis-on-ios-13-a6d8497ffa39",
+      "Description": "With the recently announced iOS 13, we see that Apple’s approach to location privacy is getting more and more serious. This new update will include recurring notifications for users to see whether the app uses their location in the background or not, allowing them to adjust the setting regularly.",
+      "EditionId": "244",
+      "Author": "Anıl taşkıran",
+      "Id": "244-2",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Picking a Document In Xamarin.iOS",
+      "Url": "https://logeshpalani.blogspot.com/2020/01/how-to-pick-document-in-xamarinios.html",
+      "Description": "Logesh shows you how to pick a file from your iOS device in a Xamarin iOS application.",
+      "EditionId": "244",
+      "Author": "Logesh Palani",
+      "Id": "244-3",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Integrating Braintree with Xamarin Forms",
+      "Url": "https://www.xamboy.com/2020/01/28/braintree-integration-in-xamarin-forms-part-1/",
+      "Description": "In this article, Rendy shows you how to add Braintree client-side integration in a Xamarin Forms app. For those not familiar with Braintree:> Braintree Payment Gateway is a simple and modern way to accept payments. Along with its list of flexible features, it provides the ability to merchants to accept payments online or within a mobile application. [**Braintree integration in Xamarin Forms (Part.1 )**](https://www.xamboy.com/2020/01/28/braintree-integration-in-xamarin-forms-part-1/) by Rendy",
+      "EditionId": "244",
+      "Id": "244-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Keep it clean!",
+      "Url": "https://medium.com/sermet-blog/clean-xamarin-development-environment-and-some-nuget-packages-e94918fe6513",
+      "Description": "Sermet has some tips for cleaning up your Xamarin environment and saving some space.  As a cheeky little bonus, he also lists out his favourite libraries for Xamarin development",
+      "EditionId": "244",
+      "Author": "Sermet",
+      "Id": "244-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Preferences in Xamarin Forms",
+      "Url": "https://askxammy.com/touching-base-with-preferences-in-xamarin-forms/",
+      "Description": "Leomaris shows how to get started with storing preferences using Xamarin.Essentials in your Xamarin.Forms project.",
+      "EditionId": "244",
+      "Author": "Leomaris Reyes",
+      "Id": "244-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "New embedded fonts goodness",
+      "Url": "https://javiersuarezruiz.wordpress.com/2020/01/24/xamarin-forms-embedded-fonts/",
+      "Description": "Most production apps will use custom fonts to add a nice styling.  But if you have done this before,  you'll know it's a real pain.  Javier shows a now option with Forms 4.5 that just makes things easier. **Note: Post is in Spanish**",
+      "EditionId": "244",
+      "Author": "Javier Suárez",
+      "Id": "244-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Google Login Integration in Xamarin Forms: A Complete Guide",
+      "Url": "https://www.syncfusion.com/blogs/post/google-login-integration-in-xamarin-forms-a-complete-guide.aspx",
+      "Description": "Login is very common but so is having to remember a load of passwords and usernames. For this reason, it is becoming more and more common that we can log in to apps with existing accounts from social media. One of my most common accounts I use is Google. This shows you how to do it!",
+      "EditionId": "244",
+      "Author": "Vijayakumar Yoganandan",
+      "Id": "244-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Merge Conflict: 186: Hot Hot Hot",
+      "Url": "https://www.mergeconflict.fm/186",
+      "Description": "Everything is HOT! XAML Hot Reload, Hot Restart, Hot UI, Hot Hot, and the Hottest of the Hot and we discuss it all!",
+      "EditionId": "244",
+      "Id": "244-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Visual Studio 2019 for Mac version 8.5 Preview 2 is available",
+      "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-5-preview-2-is-available/",
+      "Description": "Visual Studio 2019 for Mac 8.5 Preview 2 is ready to download today! The latest preview of Visual Studio for Mac adds a handful of neat features and fixes that were direct requests from our users such as: One of the most requested features from our ASP.",
+      "EditionId": "244",
+      "Author": "Dominic Nahous",
+      "Id": "244-10",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "New Sharpnado!",
+      "Url": "https://www.sharpnado.com/sharpnado-1-4-0-drag-and-refresh/",
+      "Description": "Sharpnado has a new release with Dark mode and draggable cell improvements!",
+      "EditionId": "244",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "244-11",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "Shiny 1.0 Release",
+      "Url": "https://allancritchie.net/posts/shiny10",
+      "Description": "Shiny Version 1.0 is released. Enough said.  Go get it! [**Shiny 1.0 Release**](https://allancritchie.net/posts/shiny10)",
+      "EditionId": "244",
+      "Id": "244-12",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "What's New in Visual Studio 2019 version 16.5 Preview 2",
+      "Url": "https://devblogs.microsoft.com/xamarin/visual-studio-2019-version-16-5-preview-2/",
+      "Description": "This week, Visual Studio 2019 version 16.5 Preview 2 was released, bringing several new features and improvements for mobile developers in Visual Studio to help you build better mobile apps, faster. [**What's New in Visual Studio 2019 version 16.5 Preview 2 : Xamarin Blog**](https://devblogs.microsoft.com/xamarin/visual-studio-2019-version-16-5-preview-2/)",
+      "EditionId": "244",
+      "Id": "244-13",
+      "Category": "RELEASES"
+    }
+  ]
+}
