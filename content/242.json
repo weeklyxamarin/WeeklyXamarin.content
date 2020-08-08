@@ -1,0 +1,128 @@
+{
+  "Id": "242",
+  "Name": "Issue 242",
+  "UpdatedTimeStamp": "2020-01-17T07:54:52Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hey everyone, Welcome to another great issue this week! Since the last issue, sad news reached us here at WeeklyXamarin HQ, about the passing of [K. Scott Allen](https://twitter.com/OdeToCode). Scott was an infamous Pluralsight course author, who helped so many developers with his courses on C#. He was also a speaker, mentor, fellow Microsoft MVP and very popular in the community. The tributes pouring in have shown just how respected and liked he was, and how much he has influenced people in their careers. Thank you for everything Scott!  Whatever you get up to this weekend, have a great time and see you next week! Luce 🧡",
+  "PublishDate": "2020-01-17T07:54:46Z",
+  "Curators": "Luce Carter",
+  "Articles": [
+    {
+      "Title": "TaskLoaderView 2.0: Let's burn IsBusy=true!",
+      "Url": "https://www.sharpnado.com/taskloaderview-2-0-lets-burn-isbusy-true/",
+      "Description": "The related talk to this post from Xamarin Expert Day this year, was in fact on at the same time as my talk so I never got to see it. So I am really excited to see Jean-Marie has created a blog post all about it!",
+      "EditionId": "242",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "242-1",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Launch Icon Badge",
+      "Url": "https://damienaicheh.github.io/tools/2020/01/09/tool-easily-differentiate-versions-of-your-applications-using-azure-devops-en.html",
+      "Description": "When you develop a mobile application you always have different versions and each one has a specific environment. During the entire life of your project you switch between each version to try new features or to correct some bugs. Damien has created an extension for Azure DevOps that lets you clearly tell which version of the app is which, from it's launch icon.",
+      "EditionId": "242",
+      "Author": "Damien Aicheh",
+      "Id": "242-2",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Mobile - Analyse your application network",
+      "Url": "https://johnthiriet.com/mobile-analyse-app-network/",
+      "Description": "Most mobile applications require network connection. Unfortunately, analysing calls is not so easy. If you want to know more about the calls being made, errors or performance, this post can help!",
+      "EditionId": "242",
+      "Author": "John Thiriet",
+      "Id": "242-3",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Tips and Tricks for XAML Hot Reload",
+      "Url": "https://devblogs.microsoft.com/xamarin/tips-tricks-xaml-hot-reload/",
+      "Description": "XAML Hot Reload for Xamarin.Forms has been out for a while now in GA. It's an excellent way to massively speed up your UI development. Maddy has some Tips and Tricks to get you started!",
+      "EditionId": "242",
+      "Author": "Maddy Leger",
+      "Id": "242-4",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "DevOps for Android App Bundles",
+      "Url": "https://devblogs.microsoft.com/xamarin/android-app-bundles-azure-devops/",
+      "Description": "Android App Bundle is a new app packaging format from Google for Android applications that dramatically reduces the install size for end users. Traditionally, when building an Android app, one would create one large APK file that all users would receive.",
+      "EditionId": "242",
+      "Author": "James Montemagno",
+      "Id": "242-5",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Xamarin Forms Tips: Navigate to a Page and Wait Results",
+      "Url": "https://doumer.me/xamarin-forms-tips-navigate-to-a-page-and-wait-results/",
+      "Description": "In Xamarin.Forms, you can navigate asynchronously to a page or a modal. With the Xamarin.Forms Shell, you can perform URL navigation and even pass parameters to the page or the page’s View Model. But once you navigate to this page or modal and it completes the processing for which it was called, how do you return directly a result to the underlying layer which called the page?",
+      "EditionId": "242",
+      "Author": "Damien Doumer",
+      "Id": "242-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Introducing Xamarin.Forms Date Picker",
+      "Url": "https://www.syncfusion.com/blogs/post/introducing-xamarin-forms-date-picker.aspx",
+      "Description": "Paul Anderson from Syncfusion is back with another great post on a new component from their Essential Studio 2019 Volume 4. This time it is Date Picker!",
+      "EditionId": "242",
+      "Author": "Paul Anderson",
+      "Id": "242-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Simplifying Visual State Manager with TargetName",
+      "Url": "https://devblogs.microsoft.com/xamarin/visual-state-manager/",
+      "Description": "The Visual State Manager (VSM) has been around for a while now. Since Xamarin.Forms 3.0 in fact! But some exciting improvements to it are coming to Xamarin.Forms 4.5. In his first post on the official blog, Gerald talks you through these changes and how to get started!",
+      "EditionId": "242",
+      "Author": "Gerald Versluis",
+      "Id": "242-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Sign in with Apple in Xamarin Forms",
+      "Url": "https://www.xamboy.com/2020/01/13/sign-in-with-apple-in-xamarin-forms/",
+      "Description": "iOS 13 added the ability to sign in with Apple. But how do you do this from your Xamarin code?Rendy aka XamBoy shows you how!",
+      "EditionId": "242",
+      "Author": "Rendy Del Rosario",
+      "Id": "242-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Device Display Information (Xamarin.Essentials API of the Week) | The Xamarin Show",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Device-Display-Information-XamarinEssentials-API-of-the-Week",
+      "Description": "Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Xamarin.Essential API of the week we take a look at the Device Display API that enables you to get information about the current display of the device. This include size, orientation, and a lot more.",
+      "EditionId": "242",
+      "Author": "The Xamarin Show",
+      "Id": "242-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Best Practices - Advanced Async / Await | The Xamarin Show",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-Advanced-Async--Await--The-Xamarin-Show",
+      "Description": "This week, James is joined by friend of the show Dean Faizel, Microsoft Mobile Customer Advisory Team Engineer, who talks us through the best practices when using async and await for mobile development.",
+      "EditionId": "242",
+      "Author": "James Montemagno",
+      "Id": "242-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Partly Cloudy Episode 8 Recap: Mostly Cloudy (CDN & Front Door)",
+      "Url": "https://codemilltech.com/partly-cloudy-episode-8-recap-mostly-cloudy-cdn-front-door/",
+      "Description": "Welcome back to Partly Cloudy! The show where you learn how to build a cloud-connected Xamarin mobile application. We start from nothing and don't quit until it's ready for the App Store!",
+      "EditionId": "242",
+      "Author": "Matthew Soucoup",
+      "Id": "242-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 184: Building 3D Apps with SceneKit",
+      "Url": "https://www.mergeconflict.fm/184",
+      "Description": "2D, 3D, VR, MR, all the things with SceneKit! Frank talks about his adventures into creating a full 3D application that IS NOT A GAME with SceneKit!",
+      "EditionId": "242",
+      "Author": "Merge Conflict",
+      "Id": "242-13",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

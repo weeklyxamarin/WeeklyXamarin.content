@@ -1515,6 +1515,16 @@
       ]
     },
     {
+      "Name": "Paul Anderson",
+      "Id": "https://www.syncfusion.com/blogs/author/paulandersonsyncfusion-com",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.syncfusion.com/blogs/author/paulandersonsyncfusion-com"
+        }
+      ]
+    },
+    {
       "Name": "Pavel Pavlov",
       "Id": "https://www.telerik.com/blogs/author/pavel-pavlov",
       "Aliases": [

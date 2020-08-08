@@ -1,0 +1,388 @@
+{
+  "number": 242,
+  "title": "Issue 242",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/242",
+  "publication_status": "published",
+  "published_at": "2020-01-17T07:54:46+00:00",
+  "updated_at": "2020-01-17T07:54:52+00:00",
+  "categories": [
+    {
+      "code": "lucecarter",
+      "name": "LUCE CARTER",
+      "items": [
+        {
+          "type": "Text",
+          "title": "Remembering Scott Allen",
+          "description": "<p>Hey everyone,</p>\n\n<p>Welcome to another great issue this week!</p>\n\n<p>Since the last issue, sad news reached us here at WeeklyXamarin HQ, about the passing of <a href=\"https://twitter.com/OdeToCode\">K. Scott Allen</a>. Scott was an infamous Pluralsight course author, who helped so many developers with his courses on C#. He was also a speaker, mentor, fellow Microsoft MVP and very popular in the community.</p>\n\n<p>The tributes pouring in have shown just how respected and liked he was, and how much he has influenced people in their careers. Thank you for everything Scott!</p>\n\n<p>Whatever you get up to this weekend, have a great time and see you next week!</p>\n\n<p>Luce 🧡</p>",
+          "description_markdown": "Hey everyone,\r\n\r\nWelcome to another great issue this week!\r\n\r\nSince the last issue, sad news reached us here at WeeklyXamarin HQ, about the passing of [K. Scott Allen](https://twitter.com/OdeToCode). Scott was an infamous Pluralsight course author, who helped so many developers with his courses on C#. He was also a speaker, mentor, fellow Microsoft MVP and very popular in the community.\r\n\r\nThe tributes pouring in have shown just how respected and liked he was, and how much he has influenced people in their careers. Thank you for everything Scott! \r\n\r\nWhatever you get up to this weekend, have a great time and see you next week!\r\n\r\nLuce 🧡",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "apSLSVE",
+              "title": "K. Scott Allen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/OdeToCode"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "eA2m8ES",
+          "type": "Link",
+          "title": "Learn how to get the most out of Xamarin.Forms",
+          "url_domain": "xablu.com",
+          "url": "https://www.xablu.com/xamarin-forms-training/",
+          "description": "",
+          "description_markdown": "",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "21daa347-2a25-46bd-9c94-5b8a0c1281dc.jpg",
+          "image_extra_large_filename": "original_ratio_extra_large_21daa347-2a25-46bd-9c94-5b8a0c1281dc.jpg",
+          "image_medium_filename": "original_ratio_medium_21daa347-2a25-46bd-9c94-5b8a0c1281dc.jpg"
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "AZAvORw",
+          "type": "Link",
+          "title": "TaskLoaderView 2.0: Let's burn IsBusy=true!",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/taskloaderview-2-0-lets-burn-isbusy-true/",
+          "description": "<p>The related talk to this post from Xamarin Expert Day this year, was in fact on at the same time as my talk so I never got to see it. So I am really excited to see Jean-Marie has created a blog post all about it!</p>\n\n<p><a href=\"https://www.sharpnado.com/taskloaderview-2-0-lets-burn-isbusy-true/\"><strong>TaskLoaderView 2.0: Let's burn IsBusy=true!</strong></a> by <a href=\"https://twitter.com/Piskariov\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "The related talk to this post from Xamarin Expert Day this year, was in fact on at the same time as my talk so I never got to see it. So I am really excited to see Jean-Marie has created a blog post all about it!\r\n\r\n[**TaskLoaderView 2.0: Let's burn IsBusy=true!**](https://www.sharpnado.com/taskloaderview-2-0-lets-burn-isbusy-true/) by [Jean-Marie Alfonsi](https://twitter.com/Piskariov)",
+          "embedded_links": [
+            {
+              "identifier": "4WSJkXz",
+              "title": "**TaskLoaderView 2.0: Let's burn IsBusy=true!**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/taskloaderview-2-0-lets-burn-isbusy-true/"
+            },
+            {
+              "identifier": "MRH5faQ",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Piskariov"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "tJ9DxYY",
+          "type": "Link",
+          "title": "Launch Icon Badge",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/tools/2020/01/09/tool-easily-differentiate-versions-of-your-applications-using-azure-devops-en.html",
+          "description": "<p>When you develop a mobile application you always have different versions and each one has a specific environment. During the entire life of your project you switch between each version to try new features or to correct some bugs. Damien has created an extension for Azure DevOps that lets you clearly tell which version of the app is which, from it's launch icon.</p>\n\n<p><a href=\"https://damienaicheh.github.io/tools/2020/01/09/tool-easily-differentiate-versions-of-your-applications-using-azure-devops-en.html\"><strong>Launch Icon Badge</strong></a> by <a href=\"https://twitter.com/DamienAicheh\">Damien Aicheh</a></p>",
+          "description_markdown": "When you develop a mobile application you always have different versions and each one has a specific environment. During the entire life of your project you switch between each version to try new features or to correct some bugs. Damien has created an extension for Azure DevOps that lets you clearly tell which version of the app is which, from it's launch icon.\r\n\r\n[**Launch Icon Badge**](https://damienaicheh.github.io/tools/2020/01/09/tool-easily-differentiate-versions-of-your-applications-using-azure-devops-en.html) by [Damien Aicheh](https://twitter.com/DamienAicheh)",
+          "embedded_links": [
+            {
+              "identifier": "t7KHYoJ",
+              "title": "**Launch Icon Badge**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/tools/2020/01/09/tool-easily-differentiate-versions-of-your-applications-using-azure-devops-en.html"
+            },
+            {
+              "identifier": "xhGJVQy",
+              "title": "Damien Aicheh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DamienAicheh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "WUKXsfV",
+          "type": "Link",
+          "title": "Mobile - Analyse your application network",
+          "url_domain": "johnthiriet.com",
+          "url": "https://johnthiriet.com/mobile-analyse-app-network/",
+          "description": "<p>Most mobile applications require network connection. Unfortunately, analysing calls is not so easy.\nIf you want to know more about the calls being made, errors or performance, this post can help!</p>\n\n<p><a href=\"https://johnthiriet.com/mobile-analyse-app-network/\"><strong>Mobile - Analyse your application network</strong></a> by <a href=\"https://twitter.com/johnthiriet\">John Thiriet</a></p>",
+          "description_markdown": "Most mobile applications require network connection. Unfortunately, analysing calls is not so easy. \r\nIf you want to know more about the calls being made, errors or performance, this post can help!\r\n\r\n[**Mobile - Analyse your application network**](https://johnthiriet.com/mobile-analyse-app-network/) by [John Thiriet](https://twitter.com/johnthiriet)",
+          "embedded_links": [
+            {
+              "identifier": "o0TRV4q",
+              "title": "**Mobile - Analyse your application network**",
+              "url_domain": "johnthiriet.com",
+              "url": "https://johnthiriet.com/mobile-analyse-app-network/"
+            },
+            {
+              "identifier": "f6nNeQh",
+              "title": "John Thiriet",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/johnthiriet"
+            }
+          ]
+        },
+        {
+          "identifier": "rQu0Mhm",
+          "type": "Link",
+          "title": "Tips and Tricks for XAML Hot Reload",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/tips-tricks-xaml-hot-reload/",
+          "description": "<p>XAML Hot Reload for Xamarin.Forms has been out for a while now in GA. It's an excellent way to massively speed up your UI development. Maddy has some Tips and Tricks to get you started!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/tips-tricks-xaml-hot-reload/\"><strong>Tips and Tricks for XAML Hot Reload</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/malegermicrosoft-com/\">Maddy Leger</a></p>",
+          "description_markdown": "XAML Hot Reload for Xamarin.Forms has been out for a while now in GA. It's an excellent way to massively speed up your UI development. Maddy has some Tips and Tricks to get you started!\r\n\r\n[**Tips and Tricks for XAML Hot Reload**](https://devblogs.microsoft.com/xamarin/tips-tricks-xaml-hot-reload/) by [Maddy Leger](https://devblogs.microsoft.com/xamarin/author/malegermicrosoft-com/)",
+          "embedded_links": [
+            {
+              "identifier": "2qVv2TC",
+              "title": "**Tips and Tricks for XAML Hot Reload**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/tips-tricks-xaml-hot-reload/"
+            },
+            {
+              "identifier": "pNyqYLX",
+              "title": "Maddy Leger",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/malegermicrosoft-com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "iu7XGs1",
+          "type": "Link",
+          "title": "DevOps for Android App Bundles",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/android-app-bundles-azure-devops/",
+          "description": "<p>Android App Bundle is a new app packaging format from Google for Android applications that dramatically reduces the install size for end users. Traditionally, when building an Android app, one would create one large APK file that all users would receive.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/android-app-bundles-azure-devops/\"><strong>DevOps for Android App Bundles</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "Android App Bundle is a new app packaging format from Google for Android applications that dramatically reduces the install size for end users. Traditionally, when building an Android app, one would create one large APK file that all users would receive.\r\n\r\n[**DevOps for Android App Bundles**](https://devblogs.microsoft.com/xamarin/android-app-bundles-azure-devops/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "83LhtH0",
+              "title": "**DevOps for Android App Bundles**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/android-app-bundles-azure-devops/"
+            },
+            {
+              "identifier": "E0nGbE9",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "166RRnP",
+          "type": "Link",
+          "title": "Xamarin Forms Tips: Navigate to a Page and Wait Results",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/xamarin-forms-tips-navigate-to-a-page-and-wait-results/",
+          "description": "<p>In Xamarin.Forms, you can navigate asynchronously to a page or a modal. With the Xamarin.Forms Shell, you can perform URL navigation and even pass parameters to the page or the page’s View Model. But once you navigate to this page or modal and it completes the processing for which it was called, how do you return directly a result to the underlying layer which called the page?</p>\n\n<p><a href=\"https://doumer.me/xamarin-forms-tips-navigate-to-a-page-and-wait-results/\"><strong>Xamarin Forms Tips, Navigate to a Page and Wait Results</strong></a> by <a href=\"https://twitter.com/Damien_Doumer\">Damien Doumer</a></p>",
+          "description_markdown": "In Xamarin.Forms, you can navigate asynchronously to a page or a modal. With the Xamarin.Forms Shell, you can perform URL navigation and even pass parameters to the page or the page’s View Model. But once you navigate to this page or modal and it completes the processing for which it was called, how do you return directly a result to the underlying layer which called the page?\r\n\r\n[**Xamarin Forms Tips, Navigate to a Page and Wait Results**](https://doumer.me/xamarin-forms-tips-navigate-to-a-page-and-wait-results/) by [Damien Doumer](https://twitter.com/Damien_Doumer)",
+          "embedded_links": [
+            {
+              "identifier": "WkyU56y",
+              "title": "**Xamarin Forms Tips, Navigate to a Page and Wait Results**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/xamarin-forms-tips-navigate-to-a-page-and-wait-results/"
+            },
+            {
+              "identifier": "dQfOSY5",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Damien_Doumer"
+            }
+          ]
+        },
+        {
+          "identifier": "wTMyTSN",
+          "type": "Link",
+          "title": "Introducing Xamarin.Forms Date Picker",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/introducing-xamarin-forms-date-picker.aspx",
+          "description": "<p>Paul Anderson from Syncfusion is back with another great post on a new component from their Essential Studio 2019 Volume 4. This time it is Date Picker!</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/introducing-xamarin-forms-date-picker.aspx\"><strong>Introducing Xamarin.Forms Date Picker</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/paulandersonsyncfusion-com\">Paul Anderson</a></p>",
+          "description_markdown": "Paul Anderson from Syncfusion is back with another great post on a new component from their Essential Studio 2019 Volume 4. This time it is Date Picker!\r\n\r\n[**Introducing Xamarin.Forms Date Picker**](https://www.syncfusion.com/blogs/post/introducing-xamarin-forms-date-picker.aspx) by [Paul Anderson](https://www.syncfusion.com/blogs/author/paulandersonsyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "CeyMeU0",
+              "title": "**Introducing Xamarin.Forms Date Picker**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/introducing-xamarin-forms-date-picker.aspx"
+            },
+            {
+              "identifier": "VFvDWCN",
+              "title": "Paul Anderson",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/paulandersonsyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "lktf1oU",
+          "type": "Link",
+          "title": "Simplifying Visual State Manager with TargetName",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/visual-state-manager/",
+          "description": "<p>The Visual State Manager (VSM) has been around for a while now. Since Xamarin.Forms 3.0 in fact! But some exciting improvements to it are coming to Xamarin.Forms 4.5. In his first post on the official blog, Gerald talks you through these changes and how to get started!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/visual-state-manager/\"><strong>Simplifying Visual State Manager with TargetName</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/geraldversluis/\">Gerald Versluis</a></p>",
+          "description_markdown": "The Visual State Manager (VSM) has been around for a while now. Since Xamarin.Forms 3.0 in fact! But some exciting improvements to it are coming to Xamarin.Forms 4.5. In his first post on the official blog, Gerald talks you through these changes and how to get started!\r\n\r\n[**Simplifying Visual State Manager with TargetName**](https://devblogs.microsoft.com/xamarin/visual-state-manager/) by [Gerald Versluis](https://devblogs.microsoft.com/xamarin/author/geraldversluis/)",
+          "embedded_links": [
+            {
+              "identifier": "xRUF75F",
+              "title": "**Simplifying Visual State Manager with TargetName**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/visual-state-manager/"
+            },
+            {
+              "identifier": "LG97pQ1",
+              "title": "Gerald Versluis",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/geraldversluis/"
+            }
+          ]
+        },
+        {
+          "identifier": "INYfTBc",
+          "type": "Link",
+          "title": "Sign in with Apple in Xamarin Forms",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2020/01/13/sign-in-with-apple-in-xamarin-forms/",
+          "description": "<p>iOS 13 added the ability to sign in with Apple. But how do you do this from your Xamarin code?\nRendy aka XamBoy shows you how!</p>\n\n<p><a href=\"https://www.xamboy.com/2020/01/13/sign-in-with-apple-in-xamarin-forms/\"><strong>Sign in with Apple in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "iOS 13 added the ability to sign in with Apple. But how do you do this from your Xamarin code?\r\nRendy aka XamBoy shows you how!\r\n\r\n[**Sign in with Apple in Xamarin Forms**](https://www.xamboy.com/2020/01/13/sign-in-with-apple-in-xamarin-forms/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "o16ybcV",
+              "title": "**Sign in with Apple in Xamarin Forms**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2020/01/13/sign-in-with-apple-in-xamarin-forms/"
+            },
+            {
+              "identifier": "oOvavrW",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        },
+        {
+          "identifier": "fKULEPw",
+          "type": "Link",
+          "title": "Device Display Information (Xamarin.Essentials API of the Week) | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Device-Display-Information-XamarinEssentials-API-of-the-Week",
+          "description": "<p>Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Xamarin.Essential API of the week we take a look at the Device Display API that enables you to get information about the current display of the device. This include size, orientation, and a lot more.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Device-Display-Information-XamarinEssentials-API-of-the-Week\"><strong>Device Display Information (Xamarin.Essentials API of the Week)</strong></a> by <a href=\"https://channel9.msdn.com/Shows/XamarinShow\">Xamarin Show</a></p>",
+          "description_markdown": "Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Xamarin.Essential API of the week we take a look at the Device Display API that enables you to get information about the current display of the device. This include size, orientation, and a lot more.\r\n\r\n[**Device Display Information (Xamarin.Essentials API of the Week)**](https://channel9.msdn.com/Shows/XamarinShow/Device-Display-Information-XamarinEssentials-API-of-the-Week) by [Xamarin Show](https://channel9.msdn.com/Shows/XamarinShow)",
+          "embedded_links": [
+            {
+              "identifier": "QfRhtkP",
+              "title": "**Device Display Information (Xamarin.Essentials API of the Week)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Device-Display-Information-XamarinEssentials-API-of-the-Week"
+            },
+            {
+              "identifier": "RT9dbaf",
+              "title": "Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "yAzlHbC",
+          "type": "Link",
+          "title": "Best Practices - Advanced Async / Await | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-Advanced-Async--Await--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by friend of the show Dean Faizel, Microsoft Mobile Customer Advisory Team Engineer, who talks us through the best practices when using async and await for mobile development.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-Advanced-Async--Await--The-Xamarin-Show\"><strong>Best Practices - Advanced Async / Await | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by friend of the show Dean Faizel, Microsoft Mobile Customer Advisory Team Engineer, who talks us through the best practices when using async and await for mobile development.\r\n\r\n[**Best Practices - Advanced Async / Await | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-Advanced-Async--Await--The-Xamarin-Show) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "y0mIM5V",
+              "title": "**Best Practices - Advanced Async / Await | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-Advanced-Async--Await--The-Xamarin-Show"
+            },
+            {
+              "identifier": "kVku1CC",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "pJLV0h6",
+          "type": "Link",
+          "title": "Partly Cloudy Episode 8 Recap: Mostly Cloudy (CDN & Front Door)",
+          "url_domain": "codemilltech.com",
+          "url": "https://codemilltech.com/partly-cloudy-episode-8-recap-mostly-cloudy-cdn-front-door/",
+          "description": "<p>Welcome back to Partly Cloudy! The show where you learn how to build a cloud-connected Xamarin mobile application. We start from nothing and don't quit until it's ready for the App Store!</p>\n\n<p><a href=\"https://codemilltech.com/partly-cloudy-episode-8-recap-mostly-cloudy-cdn-front-door/\"><strong>Partly Cloudy Episode 8 Recap: Mostly Cloudy (CDN &amp; Front Door)</strong></a> by <a href=\"https://codemilltech.com/author/matthew/\">Matthew Soucoup</a></p>",
+          "description_markdown": "Welcome back to Partly Cloudy! The show where you learn how to build a cloud-connected Xamarin mobile application. We start from nothing and don't quit until it's ready for the App Store!\r\n\r\n[**Partly Cloudy Episode 8 Recap: Mostly Cloudy (CDN & Front Door)**](https://codemilltech.com/partly-cloudy-episode-8-recap-mostly-cloudy-cdn-front-door/) by [Matthew Soucoup](https://codemilltech.com/author/matthew/)",
+          "embedded_links": [
+            {
+              "identifier": "88xn9SH",
+              "title": "**Partly Cloudy Episode 8 Recap: Mostly Cloudy (CDN & Front Door)**",
+              "url_domain": "codemilltech.com",
+              "url": "https://codemilltech.com/partly-cloudy-episode-8-recap-mostly-cloudy-cdn-front-door/"
+            },
+            {
+              "identifier": "aSfDU7b",
+              "title": "Matthew Soucoup",
+              "url_domain": "codemilltech.com",
+              "url": "https://codemilltech.com/author/matthew/"
+            }
+          ]
+        },
+        {
+          "identifier": "ndaUVlu",
+          "type": "Link",
+          "title": "Merge Conflict: 184: Building 3D Apps with SceneKit",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/184",
+          "description": "<p>2D, 3D, VR, MR, all the things with SceneKit! Frank talks about his adventures into creating a full 3D application that IS NOT A GAME with SceneKit!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/184\"><strong>Merge Conflict: 184: Building 3D Apps with SceneKit</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "2D, 3D, VR, MR, all the things with SceneKit! Frank talks about his adventures into creating a full 3D application that IS NOT A GAME with SceneKit!\r\n\r\n[**Merge Conflict: 184: Building 3D Apps with SceneKit**](https://www.mergeconflict.fm/184) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "glaA3gI",
+              "title": "**Merge Conflict: 184: Building 3D Apps with SceneKit**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/184"
+            },
+            {
+              "identifier": "rvT1rsv",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
