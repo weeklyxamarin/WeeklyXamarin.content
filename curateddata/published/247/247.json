@@ -1,0 +1,415 @@
+{
+  "number": 247,
+  "title": "Issue 247",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/247",
+  "publication_status": "published",
+  "published_at": "2020-02-22T10:45:09+00:00",
+  "updated_at": "2020-02-22T10:45:13+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hey Everyone,</p>\n\n<p>Sorry for the late Weekly Xamarin.</p>\n\n<p>I've been at MonkeyFest Australia in Sydney and it was great to catch up with so many Xamarin Developers.  Hope all of you who attended MonkeyFest's around the world had an equally awesome day.</p>\n\n<p>This week we are celebrating the release of MFractor for Windows which I've been waiting for a long time.</p>\n\n<p>Have a great weekend everyone and enjoy the links</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Hey Everyone,\r\n\r\nSorry for the late Weekly Xamarin.  \r\n\r\nI've been at MonkeyFest Australia in Sydney and it was great to catch up with so many Xamarin Developers.  Hope all of you who attended MonkeyFest's around the world had an equally awesome day.\r\n\r\nThis week we are celebrating the release of MFractor for Windows which I've been waiting for a long time.\r\n\r\nHave a great weekend everyone and enjoy the links\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "8i8jXrp",
+          "type": "Link",
+          "title": "MFractor for Windows is here!",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/mfractor-for-visual-studio-windows-now-available",
+          "description": "<p>MFractor is now available for Visual Studio Windows 🎊</p>\n\n<p>A powerful productivity tool for Xamarin developers, MFractor makes it easier to write beautiful, bug-free Xamarin apps.</p>\n\n<p>To celebrate the release, use the discount code <strong>MFRACTOR-WINDOWS-LAUNCH</strong> at checkout before March 19th 2020 to get 25% off MFractor Professional.</p>\n\n<p>Learn more at: <a href=\"https://www.mfractor.com/blogs/news/mfractor-for-visual-studio-windows-now-available\">https://www.mfractor.com/blogs/news/mfractor-for-visual-studio-windows-now-available</a></p>",
+          "description_markdown": "MFractor is now available for Visual Studio Windows 🎊\r\n\r\nA powerful productivity tool for Xamarin developers, MFractor makes it easier to write beautiful, bug-free Xamarin apps.\r\n\r\nTo celebrate the release, use the discount code **MFRACTOR-WINDOWS-LAUNCH** at checkout before March 19th 2020 to get 25% off MFractor Professional.\r\n\r\nLearn more at: [https://www.mfractor.com/blogs/news/mfractor-for-visual-studio-windows-now-available](https://www.mfractor.com/blogs/news/mfractor-for-visual-studio-windows-now-available)",
+          "embedded_links": [
+            {
+              "identifier": "MvxFR3a",
+              "title": "https://www.mfractor.com/blogs/news/mfractor-for-visual-studio-windows-now-available",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/mfractor-for-visual-studio-windows-now-available"
+            }
+          ],
+          "image_original_filename": "31215693-f998-4f72-9f4f-77b7512dd000.png",
+          "image_extra_large_filename": "original_ratio_extra_large_31215693-f998-4f72-9f4f-77b7512dd000.png",
+          "image_medium_filename": "original_ratio_medium_31215693-f998-4f72-9f4f-77b7512dd000.png"
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "xJgffY1",
+          "type": "Link",
+          "title": "Xamarin Coding Standards",
+          "url_domain": "jesseliberty.com",
+          "url": "http://jesseliberty.com/2020/02/18/xamarin-coding-standards/",
+          "description": "<p>Jessy shares the best practices he uses at his company to build Xamarin applications.</p>\n\n<p><a href=\"http://jesseliberty.com/2020/02/18/xamarin-coding-standards/\"><strong>Xamarin Coding Standards</strong></a> by <a href=\"http://jesseliberty.com/author/jl/\">Jesse Liberty</a></p>",
+          "description_markdown": "Jessy shares the best practices he uses at his company to build Xamarin applications. \r\n\r\n[**Xamarin Coding Standards**](http://jesseliberty.com/2020/02/18/xamarin-coding-standards/) by [Jesse Liberty](http://jesseliberty.com/author/jl/)",
+          "embedded_links": [
+            {
+              "identifier": "2Kg9hLY",
+              "title": "**Xamarin Coding Standards**",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/2020/02/18/xamarin-coding-standards/"
+            },
+            {
+              "identifier": "f4iWSM3",
+              "title": "Jesse Liberty",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/author/jl/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "5j1UCF9",
+          "type": "Link",
+          "title": "Automate your mobile development process using Azure DevOps",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/02/20/azure-devops-series-en.html",
+          "description": "<p>In this series of posts Damien is going to show us how to setup your continuous integration (CI) and continuous delivery (CD) for your mobile application using Azure DevOps.</p>\n\n<p><a href=\"https://damienaicheh.github.io/xamarin/azure/devops/2020/02/20/azure-devops-series-en.html\"><strong>Automate your mobile development process using Azure DevOps</strong></a> by Damien Aicheh</p>",
+          "description_markdown": "In this series of posts Damien is going to show us how to setup your continuous integration (CI) and continuous delivery (CD) for your mobile application using Azure DevOps. \r\n\r\n[**Automate your mobile development process using Azure DevOps**](https://damienaicheh.github.io/xamarin/azure/devops/2020/02/20/azure-devops-series-en.html) by Damien Aicheh",
+          "embedded_links": [
+            {
+              "identifier": "EjpKIk",
+              "title": "**Automate your mobile development process using Azure DevOps**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/xamarin/azure/devops/2020/02/20/azure-devops-series-en.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "nA3PXAk",
+          "type": "Link",
+          "title": "Are your iOS 13+ notifications broken?",
+          "url_domain": "alexdunn.org",
+          "url": "https://alexdunn.org/2020/02/18/xamarin-tip-ios-push-notification-device-token-extraction-in-ios-13/",
+          "description": "<p>Alex Dunn spent some time fixing apps to handle IOS13 notification breaking changes and shares the juicy details.</p>\n\n<p><a href=\"https://alexdunn.org/2020/02/18/xamarin-tip-ios-push-notification-device-token-extraction-in-ios-13/\"><strong>Xamarin.Tip – iOS Push Notification Device Token Extraction in iOS 13+</strong></a> by <a href=\"https://alexdunn.org/author/adunndev/\">Alex Dunn</a></p>",
+          "description_markdown": "Alex Dunn spent some time fixing apps to handle IOS13 notification breaking changes and shares the juicy details.\r\n\r\n[**Xamarin.Tip – iOS Push Notification Device Token Extraction in iOS 13+**](https://alexdunn.org/2020/02/18/xamarin-tip-ios-push-notification-device-token-extraction-in-ios-13/) by [Alex Dunn](https://alexdunn.org/author/adunndev/)",
+          "embedded_links": [
+            {
+              "identifier": "LPUmUer",
+              "title": "**Xamarin.Tip – iOS Push Notification Device Token Extraction in iOS 13+**",
+              "url_domain": "alexdunn.org",
+              "url": "https://alexdunn.org/2020/02/18/xamarin-tip-ios-push-notification-device-token-extraction-in-ios-13/"
+            },
+            {
+              "identifier": "K93O5my",
+              "title": "Alex Dunn",
+              "url_domain": "alexdunn.org",
+              "url": "https://alexdunn.org/author/adunndev/"
+            }
+          ]
+        },
+        {
+          "identifier": "5uky2qa",
+          "type": "Link",
+          "title": "Testing push notifications on the iOS simulator",
+          "url_domain": "avanderlee.com",
+          "url": "https://www.avanderlee.com/workflow/testing-push-notifications-ios-simulator/",
+          "description": "<p>Testing push notifications in the iOS simulator make it a lot easier to add support for remote notifications. You often need to iterate a lot to verify that your code is working as expected. Up until Xcode 11.</p>\n\n<p><a href=\"https://www.avanderlee.com/workflow/testing-push-notifications-ios-simulator/\"><strong>Testing push notifications on the iOS simulator</strong></a> by <a href=\"\">Antoine van</a></p>",
+          "description_markdown": "Testing push notifications in the iOS simulator make it a lot easier to add support for remote notifications. You often need to iterate a lot to verify that your code is working as expected. Up until Xcode 11.\r\n\r\n[**Testing push notifications on the iOS simulator**](https://www.avanderlee.com/workflow/testing-push-notifications-ios-simulator/) by [Antoine van]()",
+          "embedded_links": [
+            {
+              "identifier": "uBNv4zs",
+              "title": "**Testing push notifications on the iOS simulator**",
+              "url_domain": "avanderlee.com",
+              "url": "https://www.avanderlee.com/workflow/testing-push-notifications-ios-simulator/"
+            }
+          ]
+        },
+        {
+          "identifier": "omNm8fh",
+          "type": "Link",
+          "title": "SideMenu in Xamarin iOS",
+          "url_domain": "blogspot.com",
+          "url": "https://logeshpalani.blogspot.com/2020/02/sidemenu-in-xamarin-ios.html",
+          "description": "<p>Logesh shows you how to create a Sliding Side Menu in Xamarin.iOS.</p>\n\n<p><a href=\"https://logeshpalani.blogspot.com/2020/02/sidemenu-in-xamarin-ios.html\"><strong>SideMenu in Xamarin iOS</strong></a> by Logesh Palani</p>",
+          "description_markdown": "Logesh shows you how to create a Sliding Side Menu in Xamarin.iOS.\r\n\r\n[**SideMenu in Xamarin iOS**](https://logeshpalani.blogspot.com/2020/02/sidemenu-in-xamarin-ios.html) by Logesh Palani",
+          "embedded_links": [
+            {
+              "identifier": "fd7E5eM",
+              "title": "**SideMenu in Xamarin iOS**",
+              "url_domain": "blogspot.com",
+              "url": "https://logeshpalani.blogspot.com/2020/02/sidemenu-in-xamarin-ios.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "V0Lu5b2",
+          "type": "Link",
+          "title": "Exploring grid overlays in DebugRainbows",
+          "url_domain": "thewissen.io",
+          "url": "https://www.thewissen.io/exploring-grid-overlays-in-debugrainbows/",
+          "description": "<p>Debug Rainbows is a great UI debug tool for Xamarin.Forms developers.  It now has grid overlays to help you keep all your ducks in a row.</p>\n\n<p><a href=\"https://www.thewissen.io/exploring-grid-overlays-in-debugrainbows/\"><strong>Exploring grid overlays in DebugRainbows</strong></a> by <a href=\"https://www.thewissen.io/author/steven/\">Steven</a></p>",
+          "description_markdown": "Debug Rainbows is a great UI debug tool for Xamarin.Forms developers.  It now has grid overlays to help you keep all your ducks in a row.\r\n\r\n[**Exploring grid overlays in DebugRainbows**](https://www.thewissen.io/exploring-grid-overlays-in-debugrainbows/) by [Steven](https://www.thewissen.io/author/steven/)",
+          "embedded_links": [
+            {
+              "identifier": "YDVlB3a",
+              "title": "**Exploring grid overlays in DebugRainbows**",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/exploring-grid-overlays-in-debugrainbows/"
+            },
+            {
+              "identifier": "a0VtRcO",
+              "title": "Steven",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/author/steven/"
+            }
+          ]
+        },
+        {
+          "identifier": "YgNNp5",
+          "type": "Link",
+          "title": "Using ReactiveUI With Xamarin.Forms",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/using-the-reactive-mvvm-framework-reactiveui-with-xamarin-forms/",
+          "description": "<p>Doumer has an updated blog post to help you get started with ReactiveUI as an MvvM framework. If that's your thing.</p>\n\n<p><a href=\"https://doumer.me/using-the-reactive-mvvm-framework-reactiveui-with-xamarin-forms/\"><strong>Using ReactiveUI With Xamarin Forms</strong></a> by Doumer</p>",
+          "description_markdown": "Doumer has an updated blog post to help you get started with ReactiveUI as an MvvM framework. If that's your thing.\r\n\r\n[**Using ReactiveUI With Xamarin Forms**](https://doumer.me/using-the-reactive-mvvm-framework-reactiveui-with-xamarin-forms/) by Doumer",
+          "embedded_links": [
+            {
+              "identifier": "rXyGpCp",
+              "title": "**Using ReactiveUI With Xamarin Forms**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/using-the-reactive-mvvm-framework-reactiveui-with-xamarin-forms/"
+            }
+          ]
+        },
+        {
+          "identifier": "8nbtgD2",
+          "type": "Link",
+          "title": "Xamarin.Forms MediaElement First Look",
+          "url_domain": "blogspot.com",
+          "url": "https://alejandroruizvarela.blogspot.com/2020/02/xamarinforms-mediaelement-first-look.html",
+          "description": "<p>There is a new MediaElement control in Xamarin.FOrms.  This is fantastic news. In this post Alejandro takes a peek at it.</p>\n\n<p><a href=\"https://alejandroruizvarela.blogspot.com/2020/02/xamarinforms-mediaelement-first-look.html\"><strong>Xamarin.Forms MediaElement First Look</strong></a></p>",
+          "description_markdown": "There is a new MediaElement control in Xamarin.FOrms.  This is fantastic news. In this post Alejandro takes a peek at it.\r\n\r\n[**Xamarin.Forms MediaElement First Look**](https://alejandroruizvarela.blogspot.com/2020/02/xamarinforms-mediaelement-first-look.html)",
+          "embedded_links": [
+            {
+              "identifier": "iaeNpAg",
+              "title": "**Xamarin.Forms MediaElement First Look**",
+              "url_domain": "blogspot.com",
+              "url": "https://alejandroruizvarela.blogspot.com/2020/02/xamarinforms-mediaelement-first-look.html"
+            }
+          ]
+        },
+        {
+          "identifier": "kmBayUm",
+          "type": "Link",
+          "title": "Book Review: Mastering Xamarin.Forms Third Edition",
+          "url_domain": "andrewhoefling.com",
+          "url": "https://www.andrewhoefling.com/Blog/post/book-review-mastering-xamarin-forms-third-edition",
+          "description": "<p>Mastering Xamarin.Forms the Third Edition is a great book for both seasoned Xamarin developers and beginners just starting a Xamarin.Forms project. It is a great resource for many techniques needed to solve the complex problems of Xamarin.Forms application development.</p>\n\n<p><a href=\"https://www.andrewhoefling.com/Blog/post/book-review-mastering-xamarin-forms-third-edition\"><strong>Book Review: Mastering Xamarin.Forms Third Edition</strong></a> by Andrew Hoefling</p>",
+          "description_markdown": "Mastering Xamarin.Forms the Third Edition is a great book for both seasoned Xamarin developers and beginners just starting a Xamarin.Forms project. It is a great resource for many techniques needed to solve the complex problems of Xamarin.Forms application development.\r\n\r\n[**Book Review: Mastering Xamarin.Forms Third Edition**](https://www.andrewhoefling.com/Blog/post/book-review-mastering-xamarin-forms-third-edition) by Andrew Hoefling",
+          "embedded_links": [
+            {
+              "identifier": "S8g4pae",
+              "title": "**Book Review: Mastering Xamarin.Forms Third Edition**",
+              "url_domain": "andrewhoefling.com",
+              "url": "https://www.andrewhoefling.com/Blog/post/book-review-mastering-xamarin-forms-third-edition"
+            }
+          ]
+        },
+        {
+          "identifier": "zQH4hXv",
+          "type": "Link",
+          "title": "Demo: Xamarin.Forms Material Visual",
+          "url_domain": "tsjdev-apps.de",
+          "url": "https://www.tsjdev-apps.de/demo-xamarin-forms-material-visual/",
+          "description": "<p>Material Design is a Design concept from Google that determines the size, color, distance and layout of different controls. Google has designed both the design for Android and iOS. With Xamarin.Forms Material Visual, there is now an easy option to adapt this design concept for its own Xamarin.Forms apps. With just three simple steps, you can present your Android and iOS app in the material design look.</p>\n\n<p><strong>Note: Page is in German</strong></p>\n\n<p><a href=\"https://www.tsjdev-apps.de/demo-xamarin-forms-material-visual/\"><strong>Demo: Xamarin.Forms Material Visual</strong></a> by <a href=\"https://www.tsjdev-apps.de/author/tsjdev/\">Sebastian Jensen</a></p>",
+          "description_markdown": "Material Design is a Design concept from Google that determines the size, color, distance and layout of different controls. Google has designed both the design for Android and iOS. With Xamarin.Forms Material Visual, there is now an easy option to adapt this design concept for its own Xamarin.Forms apps. With just three simple steps, you can present your Android and iOS app in the material design look.  \r\n\r\n**Note: Page is in German**\r\n\r\n[**Demo: Xamarin.Forms Material Visual**](https://www.tsjdev-apps.de/demo-xamarin-forms-material-visual/) by [Sebastian Jensen](https://www.tsjdev-apps.de/author/tsjdev/)",
+          "embedded_links": [
+            {
+              "identifier": "hDGiySw",
+              "title": "**Demo: Xamarin.Forms Material Visual**",
+              "url_domain": "tsjdev-apps.de",
+              "url": "https://www.tsjdev-apps.de/demo-xamarin-forms-material-visual/"
+            },
+            {
+              "identifier": "QLxWZux",
+              "title": "Sebastian Jensen",
+              "url_domain": "tsjdev-apps.de",
+              "url": "https://www.tsjdev-apps.de/author/tsjdev/"
+            }
+          ]
+        },
+        {
+          "identifier": "8OQifxR",
+          "type": "Link",
+          "title": "StateTriggers",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2020/02/19/xamarin-forms-statetriggers/",
+          "description": "<p>The latest and greatest Xamarin.Forms has a whole bunch of new triggers. These look like they will save you lots of code and help keep UI related tasks in your XAML.</p>\n\n<p><strong> Note: Page is in Spanish </strong></p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2020/02/19/xamarin-forms-statetriggers/\"><strong>[Xamarin.Forms] StateTriggers</strong></a> by <a href=\"https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/\">Javier Suárez Ruiz</a></p>",
+          "description_markdown": "The latest and greatest Xamarin.Forms has a whole bunch of new triggers. These look like they will save you lots of code and help keep UI related tasks in your XAML.\r\n\r\n** Note: Page is in Spanish ** \r\n\r\n[**[Xamarin.Forms] StateTriggers**](https://javiersuarezruiz.wordpress.com/2020/02/19/xamarin-forms-statetriggers/) by [Javier Suárez Ruiz](https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/)",
+          "embedded_links": [
+            {
+              "identifier": "sO0QPVM",
+              "title": "Xamarin.Forms] StateTriggers**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2020/02/19/xamarin-forms-statetriggers/"
+            },
+            {
+              "identifier": "cFQgrb9",
+              "title": "Javier Suárez Ruiz",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "yNXGJ4b",
+          "type": "Link",
+          "title": "It's Xamarin.Forms Trigger-Mania!",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/70",
+          "description": "<p>It's trigger-mania! Mania! On the dancefloor! This month James and Matt talk about Xamarin.Forms triggers every chance they get - because there's trigger news everywhere!</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/70\"><strong>It's Xamarin.Forms Trigger-Mania!</strong></a> by <a href=\"\">Xamarin</a></p>",
+          "description_markdown": "It's trigger-mania! Mania! On the dancefloor! This month James and Matt talk about Xamarin.Forms triggers every chance they get - because there's trigger news everywhere!\r\n\r\n[**It's Xamarin.Forms Trigger-Mania!**](https://www.xamarinpodcast.com/70) by [Xamarin]()",
+          "embedded_links": [
+            {
+              "identifier": "rVMpFOP",
+              "title": "**It's Xamarin.Forms Trigger-Mania!**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/70"
+            }
+          ]
+        },
+        {
+          "identifier": "D5b23O3",
+          "type": "Link",
+          "title": "Merge Conflict 189: Enter the era of dual-screen development",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/189",
+          "description": "<p>It is all things dual-screen with Windows 10x, Surface Neo, and Surface Duo. We take a look at some of the awesome announcements from the last week and what it means for Xamarin developers.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/189\"><strong>189: Enter the era of dual-screen development</strong></a></p>",
+          "description_markdown": "It is all things dual-screen with Windows 10x, Surface Neo, and Surface Duo. We take a look at some of the awesome announcements from the last week and what it means for Xamarin developers.\r\n\r\n[**189: Enter the era of dual-screen development**](https://www.mergeconflict.fm/189) ",
+          "embedded_links": [
+            {
+              "identifier": "hFU4tHr",
+              "title": "**189: Enter the era of dual-screen development**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "Irm3nfu",
+          "type": "Link",
+          "title": "Telerik UI For Xamarin R1 2020 - What's New",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/telerik-ui-for-xamarin-r1-2020-whats-new",
+          "description": "<p>Find our what Telerik has in store for you in the first Telerik for Xamarin release of 2020. Now that we have welcomed 2020, it's time for Telerik UI for Xamarin's first release of the new year (and decade) to emerge on the scene.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/telerik-ui-for-xamarin-r1-2020-whats-new\"><strong>Telerik UI For Xamarin R1 2020 - What's New</strong></a> by <a href=\"https://www.telerik.com/blogs/author/stefan-nenchev\">Stefan Nenchev</a></p>",
+          "description_markdown": "Find our what Telerik has in store for you in the first Telerik for Xamarin release of 2020. Now that we have welcomed 2020, it's time for Telerik UI for Xamarin's first release of the new year (and decade) to emerge on the scene.\r\n\r\n[**Telerik UI For Xamarin R1 2020 - What's New**](https://www.telerik.com/blogs/telerik-ui-for-xamarin-r1-2020-whats-new) by [Stefan Nenchev](https://www.telerik.com/blogs/author/stefan-nenchev)",
+          "embedded_links": [
+            {
+              "identifier": "WCTwDuv",
+              "title": "**Telerik UI For Xamarin R1 2020 - What's New**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/telerik-ui-for-xamarin-r1-2020-whats-new"
+            },
+            {
+              "identifier": "vYoWBd7",
+              "title": "Stefan Nenchev",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/stefan-nenchev"
+            }
+          ]
+        },
+        {
+          "identifier": "SvYrQjN",
+          "type": "Link",
+          "title": "AndroidX NuGet Packages are Stable!",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/androidx-nuget-packages-are-stable/",
+          "description": "<p><em>\"Last year, we introduced AndroidX for Xamarin. In addition to that, today we are happy to bring you stable AndroidX NuGet packages! Furthermore, since AndroidX is a big transition for your Android projects, we have also introduced a number of ways to migrate your Xamarin Android projects.\"</em></p>\n\n<p>And that's good news for us developers.  Personally I'm a little scared to move to AndroidX but it's nice to know that the Xamarin team has our backs.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/androidx-nuget-packages-are-stable/\"><strong>AndroidX NuGet Packages are Stable!</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jondouglas/\">Jon Douglas</a></p>",
+          "description_markdown": "*\"Last year, we introduced AndroidX for Xamarin. In addition to that, today we are happy to bring you stable AndroidX NuGet packages! Furthermore, since AndroidX is a big transition for your Android projects, we have also introduced a number of ways to migrate your Xamarin Android projects.\"*\r\n\r\nAnd that's good news for us developers.  Personally I'm a little scared to move to AndroidX but it's nice to know that the Xamarin team has our backs.\r\n\r\n[**AndroidX NuGet Packages are Stable!**](https://devblogs.microsoft.com/xamarin/androidx-nuget-packages-are-stable/) by [Jon Douglas](https://devblogs.microsoft.com/xamarin/author/jondouglas/)",
+          "embedded_links": [
+            {
+              "identifier": "7yJEePX",
+              "title": "**AndroidX NuGet Packages are Stable!**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/androidx-nuget-packages-are-stable/"
+            },
+            {
+              "identifier": "QlYrWp8",
+              "title": "Jon Douglas",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jondouglas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "identifier": "6H59078",
+          "type": "Link",
+          "title": ".NET Conf: Focus on Xamarin",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/net-conf-focus-on-xamarin/",
+          "description": "<p>This is your weekly reminder that .NET Conf: Focus on Xamarin is on Monday, March 23rd, 2020 beginning at 08:00 PST! This is a free, one-day livestream event that features speakers from the community and product teams that are working on building native mobile apps with Xamarin technology!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/net-conf-focus-on-xamarin/\"><strong>Announcing .NET Conf: Focus on Xamarin</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "This is your weekly reminder that .NET Conf: Focus on Xamarin is on Monday, March 23rd, 2020 beginning at 08:00 PST! This is a free, one-day livestream event that features speakers from the community and product teams that are working on building native mobile apps with Xamarin technology!\r\n\r\n[**Announcing .NET Conf: Focus on Xamarin**](https://devblogs.microsoft.com/xamarin/net-conf-focus-on-xamarin/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "SDBLa7p",
+              "title": "**Announcing .NET Conf: Focus on Xamarin**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/net-conf-focus-on-xamarin/"
+            },
+            {
+              "identifier": "yExZLnL",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

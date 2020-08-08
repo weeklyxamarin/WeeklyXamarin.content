@@ -75,6 +75,16 @@
       ]
     },
     {
+      "Name": "Alex Dunn",
+      "Id": "https://alexdunn.org/author/adunndev/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://alexdunn.org/author/adunndev/"
+        }
+      ]
+    },
+    {
       "Name": "Alex Shirshov",
       "TwitterHandle": "omnitalented",
       "GitHubHandle": "shirshov",

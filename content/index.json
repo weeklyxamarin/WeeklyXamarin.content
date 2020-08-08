@@ -198,6 +198,15 @@
       "PublishDate": "2020-02-28T08:24:28Z",
       "Curators": "",
       "Articles": []
+    },
+    {
+      "Id": "247",
+      "Name": "Issue 247",
+      "UpdatedTimeStamp": "2020-02-22T10:45:13Z",
+      "Summary": "No Edition Summary",
+      "PublishDate": "2020-02-22T10:45:09Z",
+      "Curators": "",
+      "Articles": []
     }
   ],
   "FetchedDate": "0001-01-01T00:00:00"
