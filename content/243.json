@@ -1,0 +1,136 @@
+{
+  "Id": "243",
+  "Name": "Issue 243",
+  "UpdatedTimeStamp": "2020-01-24T15:52:21Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Happy Friday everyone and hope you have had a great week.   In just the blink of an eye it is almost the end of January. For me the ongoing frustration of moving house and doing home renovations is real. But soon I will have a new office to work from which I am excited about. Speaking of excitement, there is a new version of [Visual Studio 2019 16.5 Preview 2](https://devblogs.microsoft.com/xamarin/visual-studio-2019-version-16-5-preview-2/) which has been released with Hot Restart for code changes.  That is definitely something to check out. Lots of great links in the newsletter this week.  Thanks to Luce who has put many of the links together for this weeks issue and as always, thanks to the community for so much great content. Have a great weekend! ❤ Kym",
+  "PublishDate": "2020-01-24T06:30:24Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "A look at Mobile Blazor Bindings [Spanish]",
+      "Url": "https://javiersuarezruiz.wordpress.com/2020/01/20/un-vistazo-a-mobile-blazor-bindings/",
+      "Description": "We recently had a .NET Conf Day, dedicated to Blazor. It had some big announcements, but the huge one for us as Xamarin developers was Mobile Bindings for Blazor. If you are interested trying it out, Javier shows you how to get started.",
+      "EditionId": "243",
+      "Author": "Javier Suarez",
+      "Id": "243-1",
+      "Category": "GETTING STARTED"
+    },
+    {
+      "Title": "Automatically scale FontSize on Label",
+      "Url": "https://msicc.net/xfeffects-forms-effect-to-automatically-scale-fontsize-on-label/",
+      "Description": "There are a few reasons you might want to dynamically change your font size including varying lengths and different device resolutions. So Marco shows you how to write an Effect to help with this!",
+      "EditionId": "243",
+      "Author": "Marco Siccardi",
+      "Id": "243-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "A bag full of tiny tools",
+      "Url": "https://tiny-helpers.dev/",
+      "Description": "This site is a collection of free single-purpose online tools.  Whilst It's designed for web developers, there are lots of great utilities that you will find in here for mobile developers.  For example, image size reduction, font tools, color tools, json tools, regular expression tools.  A very handy little site. [**Tiny helpers**](https://tiny-helpers.dev/)",
+      "EditionId": "243",
+      "Id": "243-3",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Using the Xamarin.Forms Nightly Feed",
+      "Url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/xamarin-forms-nightly-feed/",
+      "Description": "Whether you want to check out the latest and greatest features, or see if that bug you reported got fixed. There are a number of good reasons to check out the Xamarin.Forms Nightly Feed. In this post you will learn what the nightly feed is exactly and how you can use it yourself.",
+      "EditionId": "243",
+      "Author": "Gerald Versluis",
+      "Id": "243-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Cruise Mobile UI, Part 2",
+      "Url": "https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-2/",
+      "Description": "Our very own Kym is well known for his beautiful UI challenges so we love it when the community also try their hand. This is Part 2 in a series where Andreas recreate a Cruise Mobile UI.  The results are fantastic!",
+      "EditionId": "243",
+      "Author": "Andreas Nesheim",
+      "Id": "243-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Replicating Food UI Sample",
+      "Url": "https://askxammy.com/replicating-food-ui-sample/",
+      "Description": "Leomaris Reyes has been doing some Xamarin UI Challenges also.  Check out this lovely Food UI reproduction.",
+      "EditionId": "243",
+      "Author": "Leomaris Reyes",
+      "Id": "243-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms Logging with AppCenter",
+      "Url": "https://www.msctek.com/xamarin-forms-logging-with-appcenter/?utm_source=rss&utm_medium=rss&utm_campaign=xamarin-forms-logging-with-appcenter",
+      "Description": "Logging is very important. How else are we going to debug those weird issues? Robin shows you how to use AppCenter to get your app logs in an easy to access place.",
+      "EditionId": "243",
+      "Author": "Robin Schroeder",
+      "Id": "243-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms: Customizing the Entry control [Spanish]",
+      "Url": "https://somostechies.com/entry-custom/",
+      "Description": "Sometimes we want to customise controls, like the Entry control, to be consistent accross platforms. But maybe we don't want to apply the only Visual option at the moment, Material from Google.",
+      "EditionId": "243",
+      "Author": "Jesús Angulo",
+      "Id": "243-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Fixing a partial button ripple effect on Samsung devices",
+      "Url": "https://www.thewissen.io/fixing-partial-button-ripple-effect-on-samsung-devices/",
+      "Description": "Although this is specifically about an issue with Samsung devices, there are also some useful tips Steven adds about approaching solving issues you come across.",
+      "EditionId": "243",
+      "Author": "Steven Thewissen",
+      "Id": "243-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Dual Screen SDK for Surface Duo with Xamarin.Forms | Xamarin Blog",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-goes-dual-screen/",
+      "Description": "Microsoft recently announced the Surface Duo, the start of a future with dual screen devices. Xamarin has now released their public preview SDK for Surface Duo support.",
+      "EditionId": "243",
+      "Author": "David Ortinau",
+      "Id": "243-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin Podcast: It’s a Brand New Decade!",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-podcast-new-decade/",
+      "Description": "Keeping up with the latest in .NET, C#, Xamarin, and Azure is easier than ever. Co-hosts Matt Soucoup and James Montemagno cover a range of topics relevant to Xamarin developers from designing mobile apps to identity management.",
+      "EditionId": "243",
+      "Author": "Matt Soucoup",
+      "Id": "243-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 185: Frank Hates Dark Mode",
+      "Url": "https://www.mergeconflict.fm/185",
+      "Description": "James and Frank are back talking about designing beautiful applications that span both light and dark modes. While maybe Frank doesn't hate dark mode, he has great tips and tricks that they discuss to make your app pop.",
+      "EditionId": "243",
+      "Author": "Merge Conflict",
+      "Id": "243-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Color Converters (Xamarin.Essentials API of the Week)",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Color-Converters-XamarinEssentials-API-of-the-Week",
+      "Description": "On this week's Xamarin.Essential API of the week, take a look at built in color converters and helper methods simplifying development.",
+      "EditionId": "243",
+      "Author": "James Montemagno",
+      "Id": "243-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "MFractor 3.10 - Smarter code fixes plus image and color tooltips",
+      "Url": "https://www.mfractor.com/blogs/news/mfractor-3-10-smarter-code-fixes-plus-image-and-color-tooltips",
+      "Description": "MFractor 3.10 is out with some great new features! This post summarises what is available.",
+      "EditionId": "243",
+      "Author": "Matthew Robbins",
+      "Id": "243-14",
+      "Category": "RELEASES"
+    }
+  ]
+}

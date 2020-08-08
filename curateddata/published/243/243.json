@@ -1,0 +1,405 @@
+{
+  "number": 243,
+  "title": "Issue 243",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/243",
+  "publication_status": "published",
+  "published_at": "2020-01-24T06:30:24+00:00",
+  "updated_at": "2020-01-24T15:52:21+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday everyone and hope you have had a great week.</p>\n\n<p>In just the blink of an eye it is almost the end of January. For me the ongoing frustration of moving house and doing home renovations is real. But soon I will have a new office to work from which I am excited about.</p>\n\n<p>Speaking of excitement, there is a new version of <a href=\"https://devblogs.microsoft.com/xamarin/visual-studio-2019-version-16-5-preview-2/\">Visual Studio 2019 16.5 Preview 2</a> which has been released with Hot Restart for code changes.  That is definitely something to check out.</p>\n\n<p>Lots of great links in the newsletter this week.  Thanks to Luce who has put many of the links together for this weeks issue and as always, thanks to the community for so much great content.</p>\n\n<p>Have a great weekend!</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Friday everyone and hope you have had a great week.  \r\n\r\nIn just the blink of an eye it is almost the end of January. For me the ongoing frustration of moving house and doing home renovations is real. But soon I will have a new office to work from which I am excited about.\r\n\r\nSpeaking of excitement, there is a new version of [Visual Studio 2019 16.5 Preview 2](https://devblogs.microsoft.com/xamarin/visual-studio-2019-version-16-5-preview-2/) which has been released with Hot Restart for code changes.  That is definitely something to check out.\r\n\r\nLots of great links in the newsletter this week.  Thanks to Luce who has put many of the links together for this weeks issue and as always, thanks to the community for so much great content.\r\n\r\nHave a great weekend!\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "oNfkKfu",
+              "title": "Visual Studio 2019 16.5 Preview 2",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/visual-studio-2019-version-16-5-preview-2/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "jYWShMx",
+          "type": "Link",
+          "title": "Learn how to get the most out of Xamarin.Forms",
+          "url_domain": "xablu.com",
+          "url": "https://www.xablu.com/xamarin-forms-training/",
+          "description": "",
+          "description_markdown": "",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "1c4f8486-ad17-4120-8317-e9998fb2ba15.jpg",
+          "image_extra_large_filename": "original_ratio_extra_large_1c4f8486-ad17-4120-8317-e9998fb2ba15.jpg",
+          "image_medium_filename": "original_ratio_medium_1c4f8486-ad17-4120-8317-e9998fb2ba15.jpg"
+        }
+      ]
+    },
+    {
+      "code": "gettingstarted",
+      "name": "GETTING STARTED",
+      "items": [
+        {
+          "identifier": "3yj731j",
+          "type": "Link",
+          "title": "A look at Mobile Blazor Bindings [Spanish]",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2020/01/20/un-vistazo-a-mobile-blazor-bindings/",
+          "description": "<p>We recently had a .NET Conf Day, dedicated to Blazor. It had some big announcements, but the huge one for us as Xamarin developers was Mobile Bindings for Blazor. If you are interested trying it out, Javier shows you how to get started.</p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2020/01/20/un-vistazo-a-mobile-blazor-bindings/\"><strong>A look at Mobile Blazor Bindings</strong></a> by <a href=\"https://twitter.com/jsuarezruiz\">Javier Suárez</a></p>",
+          "description_markdown": "We recently had a .NET Conf Day, dedicated to Blazor. It had some big announcements, but the huge one for us as Xamarin developers was Mobile Bindings for Blazor. If you are interested trying it out, Javier shows you how to get started.\r\n\r\n[**A look at Mobile Blazor Bindings**](https://javiersuarezruiz.wordpress.com/2020/01/20/un-vistazo-a-mobile-blazor-bindings/) by [Javier Suárez](https://twitter.com/jsuarezruiz)",
+          "embedded_links": [
+            {
+              "identifier": "KnVZXhp",
+              "title": "**A look at Mobile Blazor Bindings**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2020/01/20/un-vistazo-a-mobile-blazor-bindings/"
+            },
+            {
+              "identifier": "LqkN9oU",
+              "title": "Javier Suárez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jsuarezruiz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "uHrul9y",
+          "type": "Link",
+          "title": "Automatically scale FontSize on Label",
+          "url_domain": "msicc.net",
+          "url": "https://msicc.net/xfeffects-forms-effect-to-automatically-scale-fontsize-on-label/",
+          "description": "<p>There are a few reasons you might want to dynamically change your font size including varying lengths and different device resolutions. So Marco shows you how to write an Effect to help with this!</p>\n\n<p><a href=\"https://msicc.net/xfeffects-forms-effect-to-automatically-scale-fontsize-on-label/\"><strong>XfEffects: Forms Effect to automatically scale FontSize on Label</strong></a> by <a href=\"https://twitter.com/msicc\">Marco Siccardi</a></p>",
+          "description_markdown": "There are a few reasons you might want to dynamically change your font size including varying lengths and different device resolutions. So Marco shows you how to write an Effect to help with this!\r\n\r\n[**XfEffects: Forms Effect to automatically scale FontSize on Label**](https://msicc.net/xfeffects-forms-effect-to-automatically-scale-fontsize-on-label/) by [Marco Siccardi](https://twitter.com/msicc)",
+          "embedded_links": [
+            {
+              "identifier": "UYFrLuG",
+              "title": "**XfEffects: Forms Effect to automatically scale FontSize on Label**",
+              "url_domain": "msicc.net",
+              "url": "https://msicc.net/xfeffects-forms-effect-to-automatically-scale-fontsize-on-label/"
+            },
+            {
+              "identifier": "BAxCoBw",
+              "title": "Marco Siccardi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/msicc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "7Q61Y8A",
+          "type": "Link",
+          "title": "A bag full of tiny tools",
+          "url_domain": "tiny-helpers.dev",
+          "url": "https://tiny-helpers.dev/",
+          "description": "<p>This site is a collection of free single-purpose online tools.  Whilst It's designed for web developers, there are lots of great utilities that you will find in here for mobile developers.  For example, image size reduction, font tools, color tools, json tools, regular expression tools.  A very handy little site.</p>\n\n<p><a href=\"https://tiny-helpers.dev/\"><strong>Tiny helpers</strong></a></p>",
+          "description_markdown": "This site is a collection of free single-purpose online tools.  Whilst It's designed for web developers, there are lots of great utilities that you will find in here for mobile developers.  For example, image size reduction, font tools, color tools, json tools, regular expression tools.  A very handy little site.\r\n\r\n[**Tiny helpers**](https://tiny-helpers.dev/)",
+          "embedded_links": [
+            {
+              "identifier": "qB7kYRY",
+              "title": "**Tiny helpers**",
+              "url_domain": "tiny-helpers.dev",
+              "url": "https://tiny-helpers.dev/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "qTAZTPP",
+          "type": "Link",
+          "title": "Using the Xamarin.Forms Nightly Feed",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/xamarin-forms-nightly-feed/",
+          "description": "<p>Whether you want to check out the latest and greatest features, or see if that bug you reported got fixed. There are a number of good reasons to check out the Xamarin.Forms Nightly Feed. In this post you will learn what the nightly feed is exactly and how you can use it yourself.</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/xamarin-forms-xamarin/xamarin-forms-nightly-feed/\"><strong>Using the Xamarin.Forms Nightly Feed</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Whether you want to check out the latest and greatest features, or see if that bug you reported got fixed. There are a number of good reasons to check out the Xamarin.Forms Nightly Feed. In this post you will learn what the nightly feed is exactly and how you can use it yourself.\r\n\r\n[**Using the Xamarin.Forms Nightly Feed**](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/xamarin-forms-nightly-feed/) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "5Aln3Tn",
+              "title": "**Using the Xamarin.Forms Nightly Feed**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/xamarin-forms-nightly-feed/"
+            },
+            {
+              "identifier": "YoM5zJC",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "4bo40Lu",
+          "type": "Link",
+          "title": "Cruise Mobile UI, Part 2",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-2/",
+          "description": "<p>Our very own Kym is well known for his beautiful UI challenges so we love it when the community also try their hand. This is Part 2 in a series where Andreas recreate a Cruise Mobile UI.  The results are fantastic!</p>\n\n<p><a href=\"https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-2/\"><strong>Xamarin UI Challenge - Cruise Mobile UI, Part 2</strong></a> by <a href=\"https://twitter.com/AndreasNesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "Our very own Kym is well known for his beautiful UI challenges so we love it when the community also try their hand. This is Part 2 in a series where Andreas recreate a Cruise Mobile UI.  The results are fantastic!\r\n\r\n[**Xamarin UI Challenge - Cruise Mobile UI, Part 2**](https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-2/) by [Andreas Nesheim](https://twitter.com/AndreasNesheim)",
+          "embedded_links": [
+            {
+              "identifier": "yNCzj84",
+              "title": "**Xamarin UI Challenge - Cruise Mobile UI, Part 2**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-2/"
+            },
+            {
+              "identifier": "SCXuNPb",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/AndreasNesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "ZHKE5sm",
+          "type": "Link",
+          "title": "Replicating Food UI Sample",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-food-ui-sample/",
+          "description": "<p>Leomaris Reyes has been doing some Xamarin UI Challenges also.  Check out this lovely Food UI reproduction.</p>\n\n<p><a href=\"https://askxammy.com/replicating-food-ui-sample/\"><strong>Replicating Food UI Sample</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris Reyes has been doing some Xamarin UI Challenges also.  Check out this lovely Food UI reproduction.\r\n\r\n[**Replicating Food UI Sample**](https://askxammy.com/replicating-food-ui-sample/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "UjMd8LX",
+              "title": "**Replicating Food UI Sample**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-food-ui-sample/"
+            },
+            {
+              "identifier": "NLx4o3F",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "IANuLQF",
+          "type": "Link",
+          "title": "Xamarin.Forms Logging with AppCenter",
+          "url_domain": "msctek.com",
+          "url": "https://www.msctek.com/xamarin-forms-logging-with-appcenter/?utm_source=rss&utm_medium=rss&utm_campaign=xamarin-forms-logging-with-appcenter",
+          "description": "<p>Logging is very important. How else are we going to debug those weird issues? Robin shows you how to use AppCenter to get your app logs in an easy to access place.</p>\n\n<p><a href=\"https://www.msctek.com/xamarin-forms-logging-with-appcenter/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=xamarin-forms-logging-with-appcenter\"><strong>Xamarin.Forms Logging with AppCenter</strong></a> by <a href=\"https://twitter.com/RTSchroeder\">Robin Schroeder</a></p>",
+          "description_markdown": "Logging is very important. How else are we going to debug those weird issues? Robin shows you how to use AppCenter to get your app logs in an easy to access place.\r\n\r\n[**Xamarin.Forms Logging with AppCenter**](https://www.msctek.com/xamarin-forms-logging-with-appcenter/?utm_source=rss&utm_medium=rss&utm_campaign=xamarin-forms-logging-with-appcenter) by [Robin Schroeder](https://twitter.com/RTSchroeder)",
+          "embedded_links": [
+            {
+              "identifier": "SWsQxLH",
+              "title": "**Xamarin.Forms Logging with AppCenter**",
+              "url_domain": "msctek.com",
+              "url": "https://www.msctek.com/xamarin-forms-logging-with-appcenter/?utm_source=rss&utm_medium=rss&utm_campaign=xamarin-forms-logging-with-appcenter"
+            },
+            {
+              "identifier": "7gnAnO7",
+              "title": "Robin Schroeder",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/RTSchroeder"
+            }
+          ]
+        },
+        {
+          "identifier": "RiyVNwY",
+          "type": "Link",
+          "title": "Xamarin.Forms: Customizing the Entry control [Spanish]",
+          "url_domain": "somostechies.com",
+          "url": "https://somostechies.com/entry-custom/",
+          "description": "<p>Sometimes we want to customise controls, like the Entry control, to be consistent accross platforms. But maybe we don't want to apply the only Visual option at the moment, Material from Google.</p>\n\n<p><a href=\"https://somostechies.com/entry-custom/\"><strong>Xamarin.Forms: Customizing the Entry control </strong></a> by <a href=\"https://twitter.com/jesulink2514\">Jesus Angulo</a></p>",
+          "description_markdown": "Sometimes we want to customise controls, like the Entry control, to be consistent accross platforms. But maybe we don't want to apply the only Visual option at the moment, Material from Google.\r\n\r\n[**Xamarin.Forms: Customizing the Entry control **](https://somostechies.com/entry-custom/) by [Jesus Angulo](https://twitter.com/jesulink2514)",
+          "embedded_links": [
+            {
+              "identifier": "TKxqVfr",
+              "title": "**Xamarin.Forms: Customizing the Entry control **",
+              "url_domain": "somostechies.com",
+              "url": "https://somostechies.com/entry-custom/"
+            },
+            {
+              "identifier": "IgvLEjn",
+              "title": "Jesus Angulo",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jesulink2514"
+            }
+          ]
+        },
+        {
+          "identifier": "SBpWkbY",
+          "type": "Link",
+          "title": "Fixing a partial button ripple effect on Samsung devices",
+          "url_domain": "thewissen.io",
+          "url": "https://www.thewissen.io/fixing-partial-button-ripple-effect-on-samsung-devices/",
+          "description": "<p>Although this is specifically about an issue with Samsung devices, there are also some useful tips Steven adds about approaching solving issues you come across.</p>\n\n<p><a href=\"https://www.thewissen.io/fixing-partial-button-ripple-effect-on-samsung-devices/\"><strong>Fixing a partial button ripple effect on Samsung devices</strong></a> by <a href=\"https://www.twitter.com/devnl\">Steven Thewissen</a></p>",
+          "description_markdown": "Although this is specifically about an issue with Samsung devices, there are also some useful tips Steven adds about approaching solving issues you come across.\r\n\r\n[**Fixing a partial button ripple effect on Samsung devices**](https://www.thewissen.io/fixing-partial-button-ripple-effect-on-samsung-devices/) by [Steven Thewissen](https://www.twitter.com/devnl)",
+          "embedded_links": [
+            {
+              "identifier": "iYNvM5n",
+              "title": "**Fixing a partial button ripple effect on Samsung devices**",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/fixing-partial-button-ripple-effect-on-samsung-devices/"
+            },
+            {
+              "identifier": "yTuH85j",
+              "title": "Steven Thewissen",
+              "url_domain": "twitter.com",
+              "url": "https://www.twitter.com/devnl"
+            }
+          ]
+        },
+        {
+          "identifier": "MjufvTb",
+          "type": "Link",
+          "title": "Dual Screen SDK for Surface Duo with Xamarin.Forms | Xamarin Blog",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-goes-dual-screen/",
+          "description": "<p>Microsoft recently announced the Surface Duo, the start of a future with dual screen devices.\nXamarin has now released their public preview SDK for Surface Duo support.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-goes-dual-screen/https://devblogs.microsoft.com/xamarin/xamarin-goes-dual-screen/\"><strong>Dual Screen SDK for Surface Duo with Xamarin.Forms</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/davidortinau/\">David Ortinau</a></p>",
+          "description_markdown": "Microsoft recently announced the Surface Duo, the start of a future with dual screen devices. \r\nXamarin has now released their public preview SDK for Surface Duo support.\r\n\r\n[**Dual Screen SDK for Surface Duo with Xamarin.Forms**](https://devblogs.microsoft.com/xamarin/xamarin-goes-dual-screen/https://devblogs.microsoft.com/xamarin/xamarin-goes-dual-screen/) by [David Ortinau](https://devblogs.microsoft.com/xamarin/author/davidortinau/)",
+          "embedded_links": [
+            {
+              "identifier": "dBb1ivr",
+              "title": "**Dual Screen SDK for Surface Duo with Xamarin.Forms**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-goes-dual-screen/"
+            },
+            {
+              "identifier": "HbVgcIT",
+              "title": "David Ortinau",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/davidortinau/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "APpk7uP",
+          "type": "Link",
+          "title": "Xamarin Podcast: It’s a Brand New Decade!",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-podcast-new-decade/",
+          "description": "<p>Keeping up with the latest in .NET, C#, Xamarin, and Azure is easier than ever. Co-hosts Matt Soucoup and James Montemagno cover a range of topics relevant to Xamarin developers from designing mobile apps to identity management.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-podcast-new-decade/\"><strong>Xamarin Podcast: It’s a Brand New Decade!</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/matt-soucoup/\">Matt Soucoup</a></p>",
+          "description_markdown": "Keeping up with the latest in .NET, C#, Xamarin, and Azure is easier than ever. Co-hosts Matt Soucoup and James Montemagno cover a range of topics relevant to Xamarin developers from designing mobile apps to identity management.\r\n\r\n[**Xamarin Podcast: It’s a Brand New Decade!**](https://devblogs.microsoft.com/xamarin/xamarin-podcast-new-decade/) by [Matt Soucoup](https://devblogs.microsoft.com/xamarin/author/matt-soucoup/)",
+          "embedded_links": [
+            {
+              "identifier": "RChtD6q",
+              "title": "Matt Soucoup",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/matt-soucoup/"
+            },
+            {
+              "identifier": "nGv8sF0",
+              "title": "**Xamarin Podcast: It’s a Brand New Decade!**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-podcast-new-decade/"
+            }
+          ]
+        },
+        {
+          "identifier": "UlRBK59",
+          "type": "Link",
+          "title": "Merge Conflict: 185: Frank Hates Dark Mode",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/185",
+          "description": "<p>James and Frank are back talking about designing beautiful applications that span both light and dark modes. While maybe Frank doesn't hate dark mode, he has great tips and tricks that they discuss to make your app pop.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/185\"><strong>Merge Conflict: 185: Frank Hates Dark Mode</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "James and Frank are back talking about designing beautiful applications that span both light and dark modes. While maybe Frank doesn't hate dark mode, he has great tips and tricks that they discuss to make your app pop.\r\n\r\n[**Merge Conflict: 185: Frank Hates Dark Mode**](https://www.mergeconflict.fm/185) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "69y2On0",
+              "title": "**Merge Conflict: 185: Frank Hates Dark Mode**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/185"
+            },
+            {
+              "identifier": "W9Lj8iM",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        },
+        {
+          "identifier": "SuEOQNE",
+          "type": "Link",
+          "title": "Color Converters (Xamarin.Essentials API of the Week)",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Color-Converters-XamarinEssentials-API-of-the-Week",
+          "description": "<p>On this week's Xamarin.Essential API of the week, take a look at built in color converters and helper methods simplifying development.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Color-Converters-XamarinEssentials-API-of-the-Week\"><strong>Color Converters (Xamarin.Essentials API of the Week)</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "On this week's Xamarin.Essential API of the week, take a look at built in color converters and helper methods simplifying development.\r\n\r\n[**Color Converters (Xamarin.Essentials API of the Week)**](https://channel9.msdn.com/Shows/XamarinShow/Color-Converters-XamarinEssentials-API-of-the-Week) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "wMyCOPZ",
+              "title": "**Color Converters (Xamarin.Essentials API of the Week)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Color-Converters-XamarinEssentials-API-of-the-Week"
+            },
+            {
+              "identifier": "RIDSbA0",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "86CcTtY",
+          "type": "Link",
+          "title": "MFractor 3.10 - Smarter code fixes plus image and color tooltips",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/mfractor-3-10-smarter-code-fixes-plus-image-and-color-tooltips",
+          "description": "<p>MFractor 3.10 is out with some great new features! This post summarises what is available.</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/mfractor-3-10-smarter-code-fixes-plus-image-and-color-tooltips\"><strong>MFractor 3.10 - Smarter code fixes plus image and color tooltips</strong></a> by <a href=\"https://twitter.com/matthewrdev\">Matthew Robbins</a></p>",
+          "description_markdown": "MFractor 3.10 is out with some great new features! This post summarises what is available.\r\n\r\n[**MFractor 3.10 - Smarter code fixes plus image and color tooltips**](https://www.mfractor.com/blogs/news/mfractor-3-10-smarter-code-fixes-plus-image-and-color-tooltips) by [Matthew Robbins](https://twitter.com/matthewrdev)",
+          "embedded_links": [
+            {
+              "identifier": "xv1ubHa",
+              "title": "**MFractor 3.10 - Smarter code fixes plus image and color tooltips**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/mfractor-3-10-smarter-code-fixes-plus-image-and-color-tooltips"
+            },
+            {
+              "identifier": "jc1MQlY",
+              "title": "Matthew Robbins",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/matthewrdev"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
