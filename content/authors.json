@@ -1,16 +1,6 @@
 {
   "Authors": [
     {
-      "Name": "Patrick Junsay",
-      "Id": "https://codesandchips.wordpress.com/author/kirtoy/",
-      "Aliases": [
-        {
-          "Type": "blog",
-          "Name": "https://codesandchips.wordpress.com/author/kirtoy/"
-        }
-      ]
-    },
-    {
       "Name": ".NET Rocks!",
       "Id": "https://dotnetrocks.com/",
       "Aliases": [
@@ -1417,6 +1407,16 @@
         {
           "Type": "blog",
           "Name": "https://nullpointers.io/"
+        }
+      ]
+    },
+    {
+      "Name": "Patrick Junsay",
+      "Id": "https://codesandchips.wordpress.com/author/kirtoy/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://codesandchips.wordpress.com/author/kirtoy/"
         }
       ]
     },
