@@ -902,9 +902,9 @@
     },
     {
       "Name": "Kerry Lothrop",
-      "Id": "https://kerry.lothrop.de/en/author/lothrop/",
       "TwitterHandle": "kwlothrop",
       "GitHubHandle": "",
+      "Id": "https://kerry.lothrop.de/en/author/lothrop/",
       "Aliases": [
         {
           "Type": "twitter",
@@ -1528,9 +1528,9 @@
     },
     {
       "Name": "Saamer Mansoor",
-      "Id": "https://medium.com/@prototypemakers",
       "TwitterHandle": "saamerm",
       "GitHubHandle": "saamerm",
+      "Id": "https://medium.com/@prototypemakers",
       "Aliases": [
         {
           "Type": "blog",
@@ -1551,9 +1551,9 @@
     },
     {
       "Name": "Samir G.C",
-      "Id": "https://twitter.com/xamaringuy",
       "TwitterHandle": "xamaringuy",
       "GitHubHandle": "samirgcofficial",
+      "Id": "https://twitter.com/xamaringuy",
       "Aliases": [
         {
           "Type": "twitter",
@@ -1811,9 +1811,9 @@
     },
     {
       "Name": "Vicente Guzman",
-      "Id": "https://vicenteguzman.mx/",
       "TwitterHandle": "luciomsp",
       "GitHubHandle": "VicenteGuzman",
+      "Id": "https://vicenteguzman.mx/",
       "Aliases": [
         {
           "Type": "twitter",
