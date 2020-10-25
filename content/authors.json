@@ -672,11 +672,11 @@
     },
     {
       "Name": "DevCrux Technologies",
-      "Id": "https://www.youtube.com/channel/ucvwwehjc74qbhmhwfwjkweq",
+      "Id": "https://www.youtube.com/channel/UCVwwehJC74qBhMhwFWJkwEQ",
       "Aliases": [
         {
           "Type": "blog",
-          "Name": "https://www.youtube.com/channel/ucvwwehjc74qbhmhwfwjkweq"
+          "Name": "https://www.youtube.com/channel/UCVwwehJC74qBhMhwFWJkwEQ"
         }
       ]
     },
@@ -891,11 +891,11 @@
     },
     {
       "Name": "How it's Built",
-      "Id": "https://www.youtube.com/channel/ucn0yf6aajmqipyxdz0cdfxa",
+      "Id": "https://www.youtube.com/channel/UCN0yF6AaJmqiPYXDz0CDfxA",
       "Aliases": [
         {
           "Type": "blog",
-          "Name": "https://www.youtube.com/channel/ucn0yf6aajmqipyxdz0cdfxa"
+          "Name": "https://www.youtube.com/channel/UCN0yF6AaJmqiPYXDz0CDfxA"
         }
       ]
     },
@@ -990,12 +990,8 @@
     },
     {
       "Name": "Javier Suárez",
-      "Id": "https://www.youtube.com/channel/ucknulhrlk_zhrpatwvnodma",
+      "Id": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/",
       "Aliases": [
-        {
-          "Type": "blog",
-          "Name": "https://www.youtube.com/channel/ucknulhrlk_zhrpatwvnodma"
-        },
         {
           "Type": "blog",
           "Name": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/"
@@ -2250,6 +2246,10 @@
         {
           "Type": "blog",
           "Name": "https://channel9.msdn.com/shows/xamarinshow"
+        },
+        {
+          "Type": "blog",
+          "Name": "https://channel9.msdn.com/Shows/XamarinShow"
         }
       ],
       "Website": "http://xamarinshow.com"
@@ -2322,11 +2322,11 @@
     },
     {
       "Name": "Toronto Mobile Developers",
-      "Id": "https://www.youtube.com/channel/ucashuenpchri0aabp2qal6w",
+      "Id": "https://www.youtube.com/channel/UCASHUenPcHRI0Aabp2QAl6w",
       "Aliases": [
         {
           "Type": "blog",
-          "Name": "https://www.youtube.com/channel/ucashuenpchri0aabp2qal6w"
+          "Name": "https://www.youtube.com/channel/UCASHUenPcHRI0Aabp2QAl6w"
         }
       ]
     },
@@ -2369,7 +2369,7 @@
       "Aliases": [
         {
           "Type": "twitter",
-          "Name": "https://twitter.com/luciomsp"
+          "Name": "https://twitter.com/LucioMSP"
         },
         {
           "Type": "blog",
@@ -2476,11 +2476,11 @@
     },
     {
       "Name": "Xamarin Developers",
-      "Id": "https://www.youtube.com/channel/uce-f02uzgexdhmhpc3loaqg",
+      "Id": "https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg",
       "Aliases": [
         {
           "Type": "blog",
-          "Name": "https://www.youtube.com/channel/uce-f02uzgexdhmhpc3loaqg"
+          "Name": "https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg"
         }
       ]
     },

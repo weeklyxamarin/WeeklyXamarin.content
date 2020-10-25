@@ -274,7 +274,7 @@
           "url_domain": "syncfusion.com",
           "url": "https://www.syncfusion.com/blogs/post/how-to-create-custom-renderers-for-a-control-in-xamarin-forms.aspx",
           "description": "<p>Xamarin.Forms uses a common API to render cross-platform mobile UIs. Therefore, the components can be rendered differently on each platform, using a renderer class. This renderer class creates a native control and translates the properties of the Xamarin.Forms control to it.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/how-to-create-custom-renderers-for-a-control-in-xamarin-forms.aspx\"><strong>How to Create Custom Renderers for a Control in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/luciomsp\">Vicente Gerardo Guzmán Lucio</a></p>",
-          "description_markdown": "Xamarin.Forms uses a common API to render cross-platform mobile UIs. Therefore, the components can be rendered differently on each platform, using a renderer class. This renderer class creates a native control and translates the properties of the Xamarin.Forms control to it.\r\n\r\n[**How to Create Custom Renderers for a Control in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/how-to-create-custom-renderers-for-a-control-in-xamarin-forms.aspx) by [Vicente Gerardo Guzmán Lucio](https://twitter.com/luciomsp)",
+          "description_markdown": "Xamarin.Forms uses a common API to render cross-platform mobile UIs. Therefore, the components can be rendered differently on each platform, using a renderer class. This renderer class creates a native control and translates the properties of the Xamarin.Forms control to it.\r\n\r\n[**How to Create Custom Renderers for a Control in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/how-to-create-custom-renderers-for-a-control-in-xamarin-forms.aspx) by [Vicente Gerardo Guzmán Lucio](https://twitter.com/LucioMSP)",
           "embedded_links": [
             {
               "identifier": "Dub3oVB",
@@ -286,7 +286,7 @@
               "identifier": "fEYoBlE",
               "title": "Vicente Gerardo Guzmán Lucio",
               "url_domain": "twitter.com",
-              "url": "https://twitter.com/luciomsp"
+              "url": "https://twitter.com/LucioMSP"
             }
           ]
         },
