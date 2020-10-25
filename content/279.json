@@ -1,0 +1,137 @@
+{
+  "Id": "279",
+  "Name": "Issue 279",
+  "UpdatedTimeStamp": "2020-10-02T08:07:33Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hey Everyone, It's Friday and that means 3 things.  First, it's time for Weekly Xamarin. Second, it's the start of the weekend.  And Third, the Xamarin Expert Day 2020 is happening right now and you should go check it out - https://expertday.forxamarin.com/ Thanks again to all the community for your amazing content. Stay Safe, and have a great weekend. ❤ Kym",
+  "PublishDate": "2020-10-02T08:07:32Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Xamarin.Forms 5 Preview: Advanced UI Controls for Beautiful Apps",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-5-preview/",
+      "Description": "Xamarin.Forms 5 brings to stable release features that you have seen in preview over the latest several 4.x releases. This includes solid and gradient Brushes, CarouselView, drag-and-drop, RadioButton, Shapes, and SwipeView. These new features inject new creative potential for your application designs to create beautiful, interactive experiences. Let’s look at those highlights, and then a quick checklist of what you should review as you get started with the Xamarin.Forms 5 pre-release.",
+      "EditionId": "279",
+      "Author": "David Ortinau",
+      "Id": "279-1",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms 4.6, 4.7, and 4.8 shiny bits with Alessandro Del Sole",
+      "Url": "https://www.syncfusion.com/blogs/post/learn-whats-new-in-xamarin-forms-4-6-4-7-and-4-8.aspx",
+      "Description": "In this webinar, Microsoft MVP Alessandro Del Sole will discuss all the important updates in Xamarin.Forms 4.6, 4.7, and 4.8.",
+      "EditionId": "279",
+      "Author": "Graham High",
+      "Id": "279-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Building a Xamarin.Forms Moon Phase App",
+      "Url": "https://blog.jetbrains.com/dotnet/2020/09/25/build-a-xamarin-forms-moon-phase-app/",
+      "Description": "One of the wonderful things about .NET is the vast array of platforms .NET developers can target. My personal experience has been developing ASP.NET applications and HTTP APIs, but recently I’ve been dabbling with mobile applications built using Rider and Xamarin.Forms.",
+      "EditionId": "279",
+      "Author": "Khalid Abuhakmeh",
+      "Id": "279-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Custom pop-up with MvvmCross the right way",
+      "Url": "https://medium.com/@prin53/pop-up-xamarin-e2d815441a54",
+      "Description": "In this post Denys describes how to implement cross-platform, maintainable, and testable pop-ups using Xamarin and MvvmCross.",
+      "EditionId": "279",
+      "Author": "Denys Fiediaiev",
+      "Id": "279-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Replicating Sneakers UI in Xamarin Forms",
+      "Url": "https://askxammy.com/replicating-sneakers-ui-in-xamarin-forms/",
+      "Description": "Leomaris tackles another UI in Xamarin.Forms.  This one is for a sneakers store and involves some cool Xamarin.Forms Shapes controls.",
+      "EditionId": "279",
+      "Author": "Leomaris Reyes",
+      "Id": "279-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Hunting Xamarin.Forms Shadows leaks on Android",
+      "Url": "https://www.sharpnado.com/shadows-leaks/",
+      "Description": "Jean Marie Alfonsi is going all detective again looking for memory leaks in his Shadows library.",
+      "EditionId": "279",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "279-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Build pixel-perfect Microsoft Surface Duo apps with Uno Platform",
+      "Url": "https://devblogs.microsoft.com/surface-duo/get-started-uno-platform/",
+      "Description": "The Surface Duo has started to become available to developers and users alike so in this guest post, the team at Uno discuss how you can use the Uno Platform for your next Surface Duo app as well as how to test it and make the most of its unique design.",
+      "EditionId": "279",
+      "Author": "Agnès Zitte",
+      "Id": "279-7",
+      "Category": "UNO PLATFORM"
+    },
+    {
+      "Title": "XamExpertDay 2020",
+      "Url": "https://www.youtube.com/watch?v=rTVPs0nKJjw&feature=emb_logo",
+      "Description": "The XamExpertDay of 2020 is a free virtual event organized by the community, for the community. This all-day event is all about Xamarin, Xamarin.Forms and everything related to that. Tune in on October 2nd as we will have 9 speakers from all around the world providing you with deep-dive, expert content. Don't miss it! [**XamExpertDay 2020**](https://www.youtube.com/watch?v=rTVPs0nKJjw&feature=emb_logo)",
+      "EditionId": "279",
+      "Author": "Gerald Versluis",
+      "Id": "279-8",
+      "Category": "MEETUPS"
+    },
+    {
+      "Title": ".NET Conf 2020 and Community Events this October",
+      "Url": "https://devblogs.microsoft.com/xamarin/dotnet-conf-2020-community-events-october/",
+      "Description": "Virtually tune-in to communities around the world through amazing online events, streams, and recordings this October. Stay connected to your developer communities through the upcoming .NET Conf 2020, virtual Meetups, community stand-ups, podcasts, and more! As well as discovering ways to get started with .NET tutorials and hosting your own virtual experiences.",
+      "EditionId": "279",
+      "Author": "Jayme Singleton",
+      "Id": "279-9",
+      "Category": "MEETUPS"
+    },
+    {
+      "Title": "Replicating User Profile UI | The Xamarin Show",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Replicating-User-Profile-UI--The-Xamarin-Show",
+      "Description": "This week, James is joined by Leomaris Reyes, Microsoft MVP, who walks us through building beautiful user interface step-by-step with Xamarin.Forms!",
+      "EditionId": "279",
+      "Author": "James Montemagno",
+      "Id": "279-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Community Standup - Oct 1, 2020 - Community member Theodora shows off her College Diary app",
+      "Url": "https://www.youtube.com/watch?v=Ht99b8Bmrhc",
+      "Description": "Join Maddy, David, and special guest Theodora for the usual display of blogs, PRs, and a walkthrough of Theodora's College Diary app built with Xamarin.Forms!",
+      "EditionId": "279",
+      "Author": "Xamarin Developers",
+      "Id": "279-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Scribble Together with Bridger Maxwell",
+      "Url": "https://www.youtube.com/watch?v=HT7EaX9GXfc",
+      "Description": "Bridger Maxwell is the engineer behind Scribble Together - a collaborative drawing app. In this video he discusses general software architecture, networking, and drawing aspects of the app.",
+      "EditionId": "279",
+      "Author": "How it's Built",
+      "Id": "279-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "A lot of Xamarin and a bit of MAUI with Gerald Versluis",
+      "Url": "https://developerweeklypodcast.com/15/a-lot-of-xamarin-and-a-bit-of-maui-with-gerald-versluis",
+      "Description": "This week, Barry talks with Gerald Versluis about Xamarin. We talk about what Xamarin is and what you can do with it and how you can use it to build apps for lots of platforms like iOS and Android. We also touch on the future of Xamarin, which is .NET MAUI that will be released in the .NET 6 timeframe.",
+      "EditionId": "279",
+      "Author": "Developer Weekly Podcast",
+      "Id": "279-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 221: Swift on Windows, Clean Code, and iOS 14",
+      "Url": "https://www.mergeconflict.fm/221",
+      "Description": "Now back to our normally scheduled lightning topics with awesome listener suggestions including Swift on Windows, .NET Maui, Database selection, clean code, iOS 14, and more.",
+      "EditionId": "279",
+      "Author": "Merge Conflict",
+      "Id": "279-14",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

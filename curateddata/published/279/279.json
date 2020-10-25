@@ -1,0 +1,373 @@
+{
+  "number": 279,
+  "title": "Issue 279",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/279",
+  "publication_status": "published",
+  "published_at": "2020-10-02T09:07:32+01:00",
+  "updated_at": "2020-10-02T09:07:33+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hey Everyone,</p>\n\n<p>It's Friday and that means 3 things.  First, it's time for Weekly Xamarin. Second, it's the start of the weekend.  And Third, the Xamarin Expert Day 2020 is happening right now and you should go check it out - https://expertday.forxamarin.com/</p>\n\n<p>Thanks again to all the community for your amazing content.</p>\n\n<p>Stay Safe, and have a great weekend.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Hey Everyone,\r\n\r\nIt's Friday and that means 3 things.  First, it's time for Weekly Xamarin. Second, it's the start of the weekend.  And Third, the Xamarin Expert Day 2020 is happening right now and you should go check it out - https://expertday.forxamarin.com/\r\n\r\nThanks again to all the community for your amazing content.\r\n\r\nStay Safe, and have a great weekend.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "wuLoDIR",
+          "type": "Link",
+          "title": "Xamarin.Forms 5 Preview: Advanced UI Controls for Beautiful Apps",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-5-preview/",
+          "description": "<p>Xamarin.Forms 5 brings to stable release features that you have seen in preview over the latest several 4.x releases. This includes solid and gradient Brushes, CarouselView, drag-and-drop, RadioButton, Shapes, and SwipeView. These new features inject new creative potential for your application designs to create beautiful, interactive experiences.</p>\n\n<p>Let’s look at those highlights, and then a quick checklist of what you should review as you get started with the Xamarin.Forms 5 pre-release.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-forms-5-preview/\"><strong>Xamarin.Forms 5 Preview: Advanced UI Controls for Beautiful Apps</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/davidortinau/\">David Ortinau</a></p>",
+          "description_markdown": "Xamarin.Forms 5 brings to stable release features that you have seen in preview over the latest several 4.x releases. This includes solid and gradient Brushes, CarouselView, drag-and-drop, RadioButton, Shapes, and SwipeView. These new features inject new creative potential for your application designs to create beautiful, interactive experiences.\r\n\r\nLet’s look at those highlights, and then a quick checklist of what you should review as you get started with the Xamarin.Forms 5 pre-release.\r\n\r\n[**Xamarin.Forms 5 Preview: Advanced UI Controls for Beautiful Apps**](https://devblogs.microsoft.com/xamarin/xamarin-forms-5-preview/) by [David Ortinau](https://devblogs.microsoft.com/xamarin/author/davidortinau/)",
+          "embedded_links": [
+            {
+              "identifier": "OZbaoTR",
+              "title": "**Xamarin.Forms 5 Preview: Advanced UI Controls for Beautiful Apps**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-5-preview/"
+            },
+            {
+              "identifier": "DmfKlkf",
+              "title": "David Ortinau",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/davidortinau/"
+            }
+          ]
+        },
+        {
+          "identifier": "jRb8Mej",
+          "type": "Link",
+          "title": "Xamarin.Forms 4.6, 4.7, and 4.8 shiny bits with Alessandro Del Sole",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/learn-whats-new-in-xamarin-forms-4-6-4-7-and-4-8.aspx",
+          "description": "<p>In this webinar, Microsoft MVP Alessandro Del Sole will discuss all the important updates in Xamarin.Forms 4.6, 4.7, and 4.8.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/learn-whats-new-in-xamarin-forms-4-6-4-7-and-4-8.aspx\"><strong>Learn What’s New in Xamarin.Forms 4.6, 4.7, and 4.8 with Microsoft MVP Alessandro Del Sole [Webinar Show Notes]</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/grahamhsyncfusion-com\">Graham High</a></p>",
+          "description_markdown": "In this webinar, Microsoft MVP Alessandro Del Sole will discuss all the important updates in Xamarin.Forms 4.6, 4.7, and 4.8.\r\n\r\n[**Learn What’s New in Xamarin.Forms 4.6, 4.7, and 4.8 with Microsoft MVP Alessandro Del Sole [Webinar Show Notes]**](https://www.syncfusion.com/blogs/post/learn-whats-new-in-xamarin-forms-4-6-4-7-and-4-8.aspx) by [Graham High](https://www.syncfusion.com/blogs/author/grahamhsyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "XMBvzsu",
+              "title": "Webinar Show Notes]**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/learn-whats-new-in-xamarin-forms-4-6-4-7-and-4-8.aspx"
+            },
+            {
+              "identifier": "NziFvcb",
+              "title": "Graham High",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/grahamhsyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "IJGrwux",
+          "type": "Link",
+          "title": "Building a Xamarin.Forms Moon Phase App",
+          "url_domain": "jetbrains.com",
+          "url": "https://blog.jetbrains.com/dotnet/2020/09/25/build-a-xamarin-forms-moon-phase-app/",
+          "description": "<p>One of the wonderful things about .NET is the vast array of platforms .NET developers can target. My personal experience has been developing ASP.NET applications and HTTP APIs, but recently I’ve been dabbling with mobile applications built using Rider and Xamarin.Forms.</p>\n\n<p><a href=\"https://blog.jetbrains.com/dotnet/2020/09/25/build-a-xamarin-forms-moon-phase-app/\"><strong>Building a Xamarin.Forms Moon Phase App</strong></a> by <a href=\"https://blog.jetbrains.com/author/khalid-abuhakmeh\">Khalid Abuhakmeh</a></p>",
+          "description_markdown": "One of the wonderful things about .NET is the vast array of platforms .NET developers can target. My personal experience has been developing ASP.NET applications and HTTP APIs, but recently I’ve been dabbling with mobile applications built using Rider and Xamarin.Forms.\r\n\r\n[**Building a Xamarin.Forms Moon Phase App**](https://blog.jetbrains.com/dotnet/2020/09/25/build-a-xamarin-forms-moon-phase-app/) by [Khalid Abuhakmeh](https://blog.jetbrains.com/author/khalid-abuhakmeh)",
+          "embedded_links": [
+            {
+              "identifier": "q8RVml3",
+              "title": "**Building a Xamarin.Forms Moon Phase App**",
+              "url_domain": "jetbrains.com",
+              "url": "https://blog.jetbrains.com/dotnet/2020/09/25/build-a-xamarin-forms-moon-phase-app/"
+            },
+            {
+              "identifier": "QFmwwyT",
+              "title": "Khalid Abuhakmeh",
+              "url_domain": "jetbrains.com",
+              "url": "https://blog.jetbrains.com/author/khalid-abuhakmeh"
+            }
+          ]
+        },
+        {
+          "identifier": "SrB4882",
+          "type": "Link",
+          "title": "Custom pop-up with MvvmCross the right way",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@prin53/pop-up-xamarin-e2d815441a54",
+          "description": "<p>In this post Denys describes how to implement cross-platform, maintainable, and testable pop-ups using Xamarin and MvvmCross.</p>\n\n<p><a href=\"https://medium.com/@prin53/pop-up-xamarin-e2d815441a54\"><strong>How to create a custom pop-up in Xamarin with MvvmCross in the right way</strong></a> by <a href=\"https://medium.com/@prin53\">Denys Fiediaiev</a></p>",
+          "description_markdown": "In this post Denys describes how to implement cross-platform, maintainable, and testable pop-ups using Xamarin and MvvmCross.\r\n\r\n[**How to create a custom pop-up in Xamarin with MvvmCross in the right way**](https://medium.com/@prin53/pop-up-xamarin-e2d815441a54) by [Denys Fiediaiev](https://medium.com/@prin53)",
+          "embedded_links": [
+            {
+              "identifier": "EBQdBNA",
+              "title": "**How to create a custom pop-up in Xamarin with MvvmCross in the right way**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prin53/pop-up-xamarin-e2d815441a54"
+            },
+            {
+              "identifier": "sAux4kz",
+              "title": "Denys Fiediaiev",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prin53"
+            }
+          ]
+        },
+        {
+          "identifier": "OTFKkpr",
+          "type": "Link",
+          "title": "Replicating Sneakers UI in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-sneakers-ui-in-xamarin-forms/",
+          "description": "<p>Leomaris tackles another UI in Xamarin.Forms.  This one is for a sneakers store and involves some cool Xamarin.Forms Shapes controls.</p>\n\n<p><a href=\"https://askxammy.com/replicating-sneakers-ui-in-xamarin-forms/\"><strong>Replicating Sneakers UI in Xamarin Forms</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris tackles another UI in Xamarin.Forms.  This one is for a sneakers store and involves some cool Xamarin.Forms Shapes controls.\r\n\r\n[**Replicating Sneakers UI in Xamarin Forms**](https://askxammy.com/replicating-sneakers-ui-in-xamarin-forms/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "y78h6o9",
+              "title": "**Replicating Sneakers UI in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-sneakers-ui-in-xamarin-forms/"
+            },
+            {
+              "identifier": "w6WYtmj",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "ESG89Z2",
+          "type": "Link",
+          "title": "Hunting Xamarin.Forms Shadows leaks on Android",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/shadows-leaks/",
+          "description": "<p>Jean Marie Alfonsi is going all detective again looking for memory leaks in his Shadows library.</p>\n\n<p><a href=\"https://www.sharpnado.com/shadows-leaks/\"><strong>Hunting Xamarin.Forms Shadows leaks on Android</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "Jean Marie Alfonsi is going all detective again looking for memory leaks in his Shadows library. \r\n\r\n[**Hunting Xamarin.Forms Shadows leaks on Android**](https://www.sharpnado.com/shadows-leaks/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)",
+          "embedded_links": [
+            {
+              "identifier": "UkRzY9M",
+              "title": "**Hunting Xamarin.Forms Shadows leaks on Android**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/shadows-leaks/"
+            },
+            {
+              "identifier": "2ZL3vmr",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "unoplatform",
+      "name": "UNO PLATFORM",
+      "items": [
+        {
+          "identifier": "beDVbcG",
+          "type": "Link",
+          "title": "Build pixel-perfect Microsoft Surface Duo apps with Uno Platform",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/surface-duo/get-started-uno-platform/",
+          "description": "<p>The Surface Duo has started to become available to developers and users alike so in this guest post, the team at Uno discuss how you can use the Uno Platform for your next Surface Duo app as well as how to test it and make the most of its unique design.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/surface-duo/get-started-uno-platform/\"><strong>Build pixel-perfect Microsoft Surface Duo apps with Uno Platform</strong></a> by <a href=\"https://devblogs.microsoft.com/surface-duo/author/agneszittenventivecom/\">Agnès Zitte</a></p>",
+          "description_markdown": "The Surface Duo has started to become available to developers and users alike so in this guest post, the team at Uno discuss how you can use the Uno Platform for your next Surface Duo app as well as how to test it and make the most of its unique design.\r\n\r\n[**Build pixel-perfect Microsoft Surface Duo apps with Uno Platform**](https://devblogs.microsoft.com/surface-duo/get-started-uno-platform/) by [Agnès Zitte](https://devblogs.microsoft.com/surface-duo/author/agneszittenventivecom/)",
+          "embedded_links": [
+            {
+              "identifier": "gADjrIv",
+              "title": "**Build pixel-perfect Microsoft Surface Duo apps with Uno Platform**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/surface-duo/get-started-uno-platform/"
+            },
+            {
+              "identifier": "KmKrm3J",
+              "title": "Agnès Zitte",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/surface-duo/author/agneszittenventivecom/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "meetups",
+      "name": "MEETUPS",
+      "items": [
+        {
+          "identifier": "iU8dLpO",
+          "type": "Link",
+          "title": "XamExpertDay 2020",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=rTVPs0nKJjw&feature=emb_logo",
+          "description": "<p>The XamExpertDay of 2020 is a free virtual event organized by the community, for the community. This all-day event is all about Xamarin, Xamarin.Forms and everything related to that. Tune in on October 2nd as we will have 9 speakers from all around the world providing you with deep-dive, expert content. Don't miss it!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=rTVPs0nKJjw&amp;feature=emb_logo\"><strong>XamExpertDay 2020</strong></a>\n<a href=\"https://www.youtube.com/watch?v=rTVPs0nKJjw&amp;feature=emb_logo\"><strong>XamExpertDay 2020</strong></a> by <a href=\"https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw\">Gerald Versluis</a></p>",
+          "description_markdown": "The XamExpertDay of 2020 is a free virtual event organized by the community, for the community. This all-day event is all about Xamarin, Xamarin.Forms and everything related to that. Tune in on October 2nd as we will have 9 speakers from all around the world providing you with deep-dive, expert content. Don't miss it!\r\n\r\n[**XamExpertDay 2020**](https://www.youtube.com/watch?v=rTVPs0nKJjw&feature=emb_logo)\r\n[**XamExpertDay 2020**](https://www.youtube.com/watch?v=rTVPs0nKJjw&feature=emb_logo) by [Gerald Versluis](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw)",
+          "embedded_links": [
+            {
+              "identifier": "7SeTNJa",
+              "title": "**XamExpertDay 2020**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=rTVPs0nKJjw&feature=emb_logo"
+            },
+            {
+              "identifier": "WM0dYiq",
+              "title": "Gerald Versluis",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw"
+            }
+          ]
+        },
+        {
+          "identifier": "ztbkHPD",
+          "type": "Link",
+          "title": ".NET Conf 2020 and Community Events this October",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/dotnet-conf-2020-community-events-october/",
+          "description": "<p>Virtually tune-in to communities around the world through amazing online events, streams, and recordings this October. Stay connected to your developer communities through the upcoming .NET Conf 2020, virtual Meetups, community stand-ups, podcasts, and more! As well as discovering ways to get started with .NET tutorials and hosting your own virtual experiences.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/dotnet-conf-2020-community-events-october/\"><strong>.NET Conf 2020 and Community Events this October</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jaymesingleton/\">Jayme Singleton</a></p>",
+          "description_markdown": "Virtually tune-in to communities around the world through amazing online events, streams, and recordings this October. Stay connected to your developer communities through the upcoming .NET Conf 2020, virtual Meetups, community stand-ups, podcasts, and more! As well as discovering ways to get started with .NET tutorials and hosting your own virtual experiences.\r\n\r\n[**.NET Conf 2020 and Community Events this October**](https://devblogs.microsoft.com/xamarin/dotnet-conf-2020-community-events-october/) by [Jayme Singleton](https://devblogs.microsoft.com/xamarin/author/jaymesingleton/)",
+          "embedded_links": [
+            {
+              "identifier": "qpugfyI",
+              "title": "**.NET Conf 2020 and Community Events this October**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/dotnet-conf-2020-community-events-october/"
+            },
+            {
+              "identifier": "sE7di3Q",
+              "title": "Jayme Singleton",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jaymesingleton/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "nYOClK1",
+          "type": "Link",
+          "title": "Replicating User Profile UI | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Replicating-User-Profile-UI--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by Leomaris Reyes, Microsoft MVP, who walks us through building beautiful user interface step-by-step with Xamarin.Forms!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Replicating-User-Profile-UI--The-Xamarin-Show\"><strong>Replicating User Profile UI | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by Leomaris Reyes, Microsoft MVP, who walks us through building beautiful user interface step-by-step with Xamarin.Forms!\r\n\r\n[**Replicating User Profile UI | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Replicating-User-Profile-UI--The-Xamarin-Show) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "tGZOpNt",
+              "title": "**Replicating User Profile UI | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Replicating-User-Profile-UI--The-Xamarin-Show"
+            },
+            {
+              "identifier": "KtxQAqC",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "WkNO2SM",
+          "type": "Link",
+          "title": "Xamarin Community Standup - Oct 1, 2020 - Community member Theodora shows off her College Diary app",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Ht99b8Bmrhc",
+          "description": "<p>Join Maddy, David, and special guest Theodora for the usual display of blogs, PRs, and a walkthrough of Theodora's College Diary app built with Xamarin.Forms!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Ht99b8Bmrhc\"><strong>Xamarin Community Standup - Oct 1, 2020 - Community member Theodora shows off her College Diary app</strong></a> by <a href=\"https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg\">Xamarin Developers</a></p>",
+          "description_markdown": "Join Maddy, David, and special guest Theodora for the usual display of blogs, PRs, and a walkthrough of Theodora's College Diary app built with Xamarin.Forms!\r\n\r\n[**Xamarin Community Standup - Oct 1, 2020 - Community member Theodora shows off her College Diary app**](https://www.youtube.com/watch?v=Ht99b8Bmrhc) by [Xamarin Developers](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)",
+          "embedded_links": [
+            {
+              "identifier": "NmmAa2J",
+              "title": "**Xamarin Community Standup - Oct 1, 2020 - Community member Theodora shows off her College Diary app**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Ht99b8Bmrhc"
+            },
+            {
+              "identifier": "y2GgjHG",
+              "title": "Xamarin Developers",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg"
+            }
+          ]
+        },
+        {
+          "identifier": "I88AGim",
+          "type": "Link",
+          "title": "Scribble Together with Bridger Maxwell",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=HT7EaX9GXfc",
+          "description": "<p>Bridger Maxwell is the engineer behind Scribble Together - a collaborative drawing app. In this video he discusses general software architecture, networking, and drawing aspects of the app.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=HT7EaX9GXfc\"><strong>Scribble Together with Bridger Maxwell</strong></a> by <a href=\"https://www.youtube.com/channel/UCN0yF6AaJmqiPYXDz0CDfxA\">How it's Built</a></p>",
+          "description_markdown": "Bridger Maxwell is the engineer behind Scribble Together - a collaborative drawing app. In this video he discusses general software architecture, networking, and drawing aspects of the app. \r\n\r\n[**Scribble Together with Bridger Maxwell**](https://www.youtube.com/watch?v=HT7EaX9GXfc) by [How it's Built](https://www.youtube.com/channel/UCN0yF6AaJmqiPYXDz0CDfxA)",
+          "embedded_links": [
+            {
+              "identifier": "CBAQ07w",
+              "title": "**Scribble Together with Bridger Maxwell**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=HT7EaX9GXfc"
+            },
+            {
+              "identifier": "4huxRD3",
+              "title": "How it's Built",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCN0yF6AaJmqiPYXDz0CDfxA"
+            }
+          ]
+        },
+        {
+          "identifier": "GvKMBL9",
+          "type": "Link",
+          "title": "A lot of Xamarin and a bit of MAUI with Gerald Versluis",
+          "url_domain": "developerweeklypodcast.com",
+          "url": "https://developerweeklypodcast.com/15/a-lot-of-xamarin-and-a-bit-of-maui-with-gerald-versluis",
+          "description": "<p>This week, Barry talks with Gerald Versluis about Xamarin. We talk about what Xamarin is and what you can do with it and how you can use it to build apps for lots of platforms like iOS and Android. We also touch on the future of Xamarin, which is .NET MAUI that will be released in the .NET 6 timeframe.</p>\n\n<p><a href=\"https://developerweeklypodcast.com/15/a-lot-of-xamarin-and-a-bit-of-maui-with-gerald-versluis\"><strong>A lot of Xamarin and a bit of MAUI with Gerald Versluis</strong></a> by <a href=\"https://developerweeklypodcast.com\">Developer Weekly Podcast</a></p>",
+          "description_markdown": "This week, Barry talks with Gerald Versluis about Xamarin. We talk about what Xamarin is and what you can do with it and how you can use it to build apps for lots of platforms like iOS and Android. We also touch on the future of Xamarin, which is .NET MAUI that will be released in the .NET 6 timeframe.\r\n\r\n[**A lot of Xamarin and a bit of MAUI with Gerald Versluis**](https://developerweeklypodcast.com/15/a-lot-of-xamarin-and-a-bit-of-maui-with-gerald-versluis) by [Developer Weekly Podcast](https://developerweeklypodcast.com)",
+          "embedded_links": [
+            {
+              "identifier": "488IWqi",
+              "title": "**A lot of Xamarin and a bit of MAUI with Gerald Versluis**",
+              "url_domain": "developerweeklypodcast.com",
+              "url": "https://developerweeklypodcast.com/15/a-lot-of-xamarin-and-a-bit-of-maui-with-gerald-versluis"
+            },
+            {
+              "identifier": "Z5A29wp",
+              "title": "Developer Weekly Podcast",
+              "url_domain": "developerweeklypodcast.com",
+              "url": "https://developerweeklypodcast.com"
+            }
+          ]
+        },
+        {
+          "identifier": "C8j8nh7",
+          "type": "Link",
+          "title": "Merge Conflict: 221: Swift on Windows, Clean Code, and iOS 14",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/221",
+          "description": "<p>Now back to our normally scheduled lightning topics with awesome listener suggestions including Swift on Windows, .NET Maui, Database selection, clean code, iOS 14, and more.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/221\"><strong>Merge Conflict: 221: Swift on Windows, Clean Code, and iOS 14</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "Now back to our normally scheduled lightning topics with awesome listener suggestions including Swift on Windows, .NET Maui, Database selection, clean code, iOS 14, and more.\r\n\r\n[**Merge Conflict: 221: Swift on Windows, Clean Code, and iOS 14**](https://www.mergeconflict.fm/221) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "BIZVNpF",
+              "title": "**Merge Conflict: 221: Swift on Windows, Clean Code, and iOS 14**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/221"
+            },
+            {
+              "identifier": "AzjxPT7",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

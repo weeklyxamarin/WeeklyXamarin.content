@@ -28,6 +28,16 @@
       ]
     },
     {
+      "Name": "Agnès Zitte",
+      "Id": "https://devblogs.microsoft.com/surface-duo/author/agneszittenventivecom/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/surface-duo/author/agneszittenventivecom/"
+        }
+      ]
+    },
+    {
       "Name": "Ahmed Fouad",
       "TwitterHandle": "MCC_Ahmed",
       "GitHubHandle": "TheFo2sh",
@@ -651,12 +661,32 @@
       "Website": "https://xamarinmonkeys.blogspot.com/"
     },
     {
+      "Name": "Denys Fiediaiev",
+      "Id": "https://medium.com/@prin53",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@prin53"
+        }
+      ]
+    },
+    {
       "Name": "DevCrux Technologies",
       "Id": "https://www.youtube.com/channel/ucvwwehjc74qbhmhwfwjkweq",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://www.youtube.com/channel/ucvwwehjc74qbhmhwfwjkweq"
+        }
+      ]
+    },
+    {
+      "Name": "Developer Weekly Podcast",
+      "Id": "https://developerweeklypodcast.com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://developerweeklypodcast.com/"
         }
       ]
     },
@@ -823,6 +853,16 @@
       "Website": "http://gonemobile.io"
     },
     {
+      "Name": "Graham High",
+      "Id": "https://www.syncfusion.com/blogs/author/grahamhsyncfusion-com",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.syncfusion.com/blogs/author/grahamhsyncfusion-com"
+        }
+      ]
+    },
+    {
       "Name": "Greg Shackles",
       "TwitterHandle": "gshackles",
       "GitHubHandle": "gshackles",
@@ -846,6 +886,16 @@
         {
           "Type": "blog",
           "Name": "https://uxdesign.cc/@hosseinraspberry"
+        }
+      ]
+    },
+    {
+      "Name": "How it's Built",
+      "Id": "https://www.youtube.com/channel/ucn0yf6aajmqipyxdz0cdfxa",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.youtube.com/channel/ucn0yf6aajmqipyxdz0cdfxa"
         }
       ]
     },
