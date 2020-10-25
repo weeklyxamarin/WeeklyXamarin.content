@@ -1,0 +1,431 @@
+{
+  "number": 280,
+  "title": "Issue 280",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/280",
+  "publication_status": "published",
+  "published_at": "2020-10-10T06:16:24+01:00",
+  "updated_at": "2020-10-10T06:16:26+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday,</p>\n\n<p>Well actually we are a little late this week, so happy Saturday ;-) This week we have a bunch of videos for you to go through, including the excellent sessions at XamExpertDay.  But there is so much more too!</p>\n\n<p>As always, thanks to the community for their excellent posts and have a wonderful, safe weekend.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Friday,\r\n\r\nWell actually we are a little late this week, so happy Saturday ;-) This week we have a bunch of videos for you to go through, including the excellent sessions at XamExpertDay.  But there is so much more too!\r\n\r\nAs always, thanks to the community for their excellent posts and have a wonderful, safe weekend.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "Ddodwjm",
+          "type": "Link",
+          "title": "XamExpertDay 2020 Recordings",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/xamarin/xamexpertday-2020/",
+          "description": "<p>The excellent XamExpertDay happened recently.  If you missed it or want to rewatch one of the sessions, then have a look at Gerald's post.</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/xamexpertday-2020/\"><strong>XamExpertDay 2020 Online: A Full Day of Deep-Dive Xamarin and .NET MAUI Content</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "The excellent XamExpertDay happened recently.  If you missed it or want to rewatch one of the sessions, then have a look at Gerald's post.\r\n\r\n[**XamExpertDay 2020 Online: A Full Day of Deep-Dive Xamarin and .NET MAUI Content**](https://blog.verslu.is/xamarin/xamexpertday-2020/) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "MwsjYSp",
+              "title": "**XamExpertDay 2020 Online: A Full Day of Deep-Dive Xamarin and .NET MAUI Content**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/xamarin/xamexpertday-2020/"
+            },
+            {
+              "identifier": "vziAMdr",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "BqtYx1M",
+          "type": "Link",
+          "title": "4 Ways To Communicate the Visibility of System Status in UI",
+          "url_domain": "uxplanet.org",
+          "url": "https://uxplanet.org/4-ways-to-communicate-the-visibility-of-system-status-in-ui-14ff2351c8e8",
+          "description": "<p>Visibility of system status is one of Jakob Nielsen’s ten heuristics for user interface design. By communicating the current state of the system, you make users feel in control with the system, and this sense of control helps you build trust.</p>\n\n<p><a href=\"https://uxplanet.org/4-ways-to-communicate-the-visibility-of-system-status-in-ui-14ff2351c8e8\"><strong>4 Ways To Communicate the Visibility of System Status in UI</strong></a> by <a href=\"https://uxplanet.org/@101\">Nick Babich</a></p>",
+          "description_markdown": "Visibility of system status is one of Jakob Nielsen’s ten heuristics for user interface design. By communicating the current state of the system, you make users feel in control with the system, and this sense of control helps you build trust.\r\n\r\n[**4 Ways To Communicate the Visibility of System Status in UI**](https://uxplanet.org/4-ways-to-communicate-the-visibility-of-system-status-in-ui-14ff2351c8e8) by [Nick Babich](https://uxplanet.org/@101)",
+          "embedded_links": [
+            {
+              "identifier": "ZvnC0BX",
+              "title": "**4 Ways To Communicate the Visibility of System Status in UI**",
+              "url_domain": "uxplanet.org",
+              "url": "https://uxplanet.org/4-ways-to-communicate-the-visibility-of-system-status-in-ui-14ff2351c8e8"
+            },
+            {
+              "identifier": "eQQhUSS",
+              "title": "Nick Babich",
+              "url_domain": "uxplanet.org",
+              "url": "https://uxplanet.org/@101"
+            }
+          ]
+        },
+        {
+          "identifier": "H5dGgYk",
+          "type": "Link",
+          "title": "The How (and Why) of User Flows",
+          "url_domain": "learnuxd.io",
+          "url": "https://www.learnuxd.io/posts/the-how-and-why-of-user-flows/",
+          "description": "<p>User Flows show the path a user takes through an app as they complete a specific task. The ability to create and think in user flows is one of the most important skills in a designing an app.</p>\n\n<p><a href=\"https://www.learnuxd.io/posts/the-how-and-why-of-user-flows/\"><strong>The How (and Why) of User Flows</strong></a> by <a href=\"https://twitter.com/jrdnbwmn\">Jordan Bowman</a></p>",
+          "description_markdown": "User Flows show the path a user takes through an app as they complete a specific task. The ability to create and think in user flows is one of the most important skills in a designing an app.\r\n\r\n[**The How (and Why) of User Flows**](https://www.learnuxd.io/posts/the-how-and-why-of-user-flows/) by [Jordan Bowman](https://twitter.com/jrdnbwmn)",
+          "embedded_links": [
+            {
+              "identifier": "7OZPxWn",
+              "title": "**The How (and Why) of User Flows**",
+              "url_domain": "learnuxd.io",
+              "url": "https://www.learnuxd.io/posts/the-how-and-why-of-user-flows/"
+            },
+            {
+              "identifier": "LrAPLSQ",
+              "title": "Jordan Bowman",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jrdnbwmn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "opensource",
+      "name": "OPEN SOURCE",
+      "items": [
+        {
+          "identifier": "RqnigoB",
+          "type": "Link",
+          "title": "Join Hacktoberfest at the Xamarin Community Toolkit",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/hacktoberfest-xamarin-community-toolkit/",
+          "description": "<p>You may have heard about the Xamarin Community Toolkit by now. This toolkit will be an important part of the Xamarin.Forms ecosystem during the evolution to .NET 6. Now is the time to contribute since it is “Hacktoberfest” after all!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/hacktoberfest-xamarin-community-toolkit/\"><strong>Join Hacktoberfest at the Xamarin Community Toolkit</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "You may have heard about the Xamarin Community Toolkit by now. This toolkit will be an important part of the Xamarin.Forms ecosystem during the evolution to .NET 6. Now is the time to contribute since it is “Hacktoberfest” after all! \r\n\r\n[**Join Hacktoberfest at the Xamarin Community Toolkit**](https://devblogs.microsoft.com/xamarin/hacktoberfest-xamarin-community-toolkit/) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "ONkI7nt",
+              "title": "**Join Hacktoberfest at the Xamarin Community Toolkit**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/hacktoberfest-xamarin-community-toolkit/"
+            },
+            {
+              "identifier": "x7ngGAZ",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "9ViM7cX",
+          "type": "Link",
+          "title": "Sharpnado Performance Updates",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/shadows-and-materialframe-performance-updates/",
+          "description": "<p>Follow the adventures of Sharpnado and the eternal quest for performance improvements.</p>\n\n<p><a href=\"https://www.sharpnado.com/shadows-and-materialframe-performance-updates/\"><strong>Shadows and MaterialFrame blur: Performance Updates</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi's Picture</a></p>",
+          "description_markdown": "Follow the adventures of Sharpnado and the eternal quest for performance improvements.  \r\n\r\n[**Shadows and MaterialFrame blur: Performance Updates**](https://www.sharpnado.com/shadows-and-materialframe-performance-updates/) by [Jean-Marie Alfonsi's Picture](https://www.sharpnado.com/author/roubachof/)",
+          "embedded_links": [
+            {
+              "identifier": "QUJXEYL",
+              "title": "**Shadows and MaterialFrame blur: Performance Updates**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/shadows-and-materialframe-performance-updates/"
+            },
+            {
+              "identifier": "Ns9bHUQ",
+              "title": "Jean-Marie Alfonsi's Picture",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        },
+        {
+          "identifier": "BgJhiHR",
+          "type": "Link",
+          "title": "How to provide negative numeric input on Xamarin.Forms iOS",
+          "url_domain": "thewissen.io",
+          "url": "https://www.thewissen.io/how-to-provide-negative-numeric-input-on-xamarin-forms-ios/",
+          "description": "<p>When creating a text input in Xamarin.Forms you might want to show a numeric keyboard. However, when setting it up and running your app on iOS you can’t put in negative numbers. What’s up with that?\n<a href=\"https://www.thewissen.io/how-to-provide-negative-numeric-input-on-xamarin-forms-ios/\"><strong>How to provide negative numeric input on Xamarin.Forms iOS</strong></a> by <a href=\"https://twitter.com/devnl\">Steven Thewissen</a></p>",
+          "description_markdown": "When creating a text input in Xamarin.Forms you might want to show a numeric keyboard. However, when setting it up and running your app on iOS you can’t put in negative numbers. What’s up with that?\r\n[**How to provide negative numeric input on Xamarin.Forms iOS**](https://www.thewissen.io/how-to-provide-negative-numeric-input-on-xamarin-forms-ios/) by [Steven Thewissen](https://twitter.com/devnl)",
+          "embedded_links": [
+            {
+              "identifier": "tsNZ6FY",
+              "title": "**How to provide negative numeric input on Xamarin.Forms iOS**",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/how-to-provide-negative-numeric-input-on-xamarin-forms-ios/"
+            },
+            {
+              "identifier": "8EPX9sz",
+              "title": "Steven Thewissen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/devnl"
+            }
+          ]
+        },
+        {
+          "identifier": "GVUHdJT",
+          "type": "Link",
+          "title": "When to Use Xamarin.Forms vs Xamarin Native?",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/when-to-use-xamarin-forms-vs-xamarin-native",
+          "description": "<p>Xamarin.Forms can take your Xamarin.Native skills even further, but there are times it makes more sense than others.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/when-to-use-xamarin-forms-vs-xamarin-native\"><strong>When to Use Xamarin.Forms vs Xamarin Native?</strong></a> by <a href=\"https://www.telerik.com/blogs/author/nigel-ferrissey\">Nigel Ferrissey</a></p>",
+          "description_markdown": "Xamarin.Forms can take your Xamarin.Native skills even further, but there are times it makes more sense than others.\r\n\r\n[**When to Use Xamarin.Forms vs Xamarin Native?**](https://www.telerik.com/blogs/when-to-use-xamarin-forms-vs-xamarin-native) by [Nigel Ferrissey](https://www.telerik.com/blogs/author/nigel-ferrissey)",
+          "embedded_links": [
+            {
+              "identifier": "qton8Xv",
+              "title": "Nigel Ferrissey",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/nigel-ferrissey"
+            },
+            {
+              "identifier": "xXyRnp6",
+              "title": "**When to Use Xamarin.Forms vs Xamarin Native?**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/when-to-use-xamarin-forms-vs-xamarin-native"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "dz88dmH",
+          "type": "Link",
+          "title": "Mobile App Redesign For Developers Star Tracker OnBoarding Empty States Part 1",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=KwhedIsE7Pg",
+          "description": "<p>In this talk, you will learn how to integrate our Star Tracker UI designs on the GitTrends Project leveraging C# for markup guided by our special guest and speaker Brandon Minnick, we are then going to cover our last topics for our live series Onboarding &amp; Empty states with the help of our Speaker Luis Pujols.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=KwhedIsE7Pg\"><strong>Mobile App Redesign For Developers Star Tracker OnBoarding Empty States Part 1</strong></a> by <a href=\"https://www.youtube.com/channel/UCy6mppDJXjYZtsiy2sETKvA\">dotnetdo</a></p>",
+          "description_markdown": "In this talk, you will learn how to integrate our Star Tracker UI designs on the GitTrends Project leveraging C# for markup guided by our special guest and speaker Brandon Minnick, we are then going to cover our last topics for our live series Onboarding & Empty states with the help of our Speaker Luis Pujols.\r\n\r\n[**Mobile App Redesign For Developers Star Tracker OnBoarding Empty States Part 1**](https://www.youtube.com/watch?v=KwhedIsE7Pg) by [dotnetdo](https://www.youtube.com/channel/UCy6mppDJXjYZtsiy2sETKvA)",
+          "embedded_links": [
+            {
+              "identifier": "5EkgIEc",
+              "title": "**Mobile App Redesign For Developers Star Tracker OnBoarding Empty States Part 1**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=KwhedIsE7Pg"
+            },
+            {
+              "identifier": "J3Ycxok",
+              "title": "dotnetdo",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCy6mppDJXjYZtsiy2sETKvA"
+            }
+          ]
+        },
+        {
+          "identifier": "EqNqIOb",
+          "type": "Link",
+          "title": "DevTalk 47: The Xamarin Community and XamExpertDay. With Saamer Mansoor",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-47-saamer-mansoor/",
+          "description": "<p>On this episode of DevTalk I speak to Saamer Mansoor about the Xamarin community and XamExpertDay.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-47-saamer-mansoor/\"><strong>47: The Xamarin Community and XamExpertDay. With Saamer Mansoor</strong></a> by <a href=\"https://kerry.lothrop.de/devtalk/\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk I speak to Saamer Mansoor about the Xamarin community and XamExpertDay.\r\n\r\n[**47: The Xamarin Community and XamExpertDay. With Saamer Mansoor**](https://kerry.lothrop.de/devtalk-47-saamer-mansoor/) by [Kerry Lothrop](https://kerry.lothrop.de/devtalk/)",
+          "embedded_links": [
+            {
+              "identifier": "mEitlQR",
+              "title": "**47: The Xamarin Community and XamExpertDay. With Saamer Mansoor**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-47-saamer-mansoor/"
+            },
+            {
+              "identifier": "M4HzyyD",
+              "title": "Kerry Lothrop",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk/"
+            }
+          ]
+        },
+        {
+          "identifier": "qnoSOV8",
+          "type": "Link",
+          "title": "October of Releases",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/79",
+          "description": "<p>This month James and Matt talk about all of the new releases that are out and ready for you to code with in October! There's a new iOS. There has to be a new XCode then too. What would another month be without a new Xamarin.Forms preview release be?</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/79\"><strong>October of Releases</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "This month James and Matt talk about all of the new releases that are out and ready for you to code with in October! There's a new iOS. There has to be a new XCode then too. What would another month be without a new Xamarin.Forms preview release be? \r\n\r\n[**October of Releases**](https://www.xamarinpodcast.com/79) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)",
+          "embedded_links": [
+            {
+              "identifier": "CROVHzE",
+              "title": "**October of Releases**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/79"
+            },
+            {
+              "identifier": "LQLwfBK",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        },
+        {
+          "identifier": "iKQYrkG",
+          "type": "Link",
+          "title": "Null Pointers 21 - Going cross-platform",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/21/",
+          "description": "<p>In this episode, we talk about writing cross-platform apps. What are the approaches? What are the pros and cons you might want to consider? And is there a right way?</p>\n\n<p><a href=\"https://nullpointers.io/21/\"><strong>21: Going cross-platform</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "In this episode, we talk about writing cross-platform apps. What are the approaches? What are the pros and cons you might want to consider? And is there a right way? \r\n\r\n[**21: Going cross-platform**](https://nullpointers.io/21/) by [Null Pointers](https://twitter.com/nullpointersio)",
+          "embedded_links": [
+            {
+              "identifier": "qVMekFZ",
+              "title": "**21: Going cross-platform**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/21/"
+            },
+            {
+              "identifier": "vvqL4Kw",
+              "title": "Null Pointers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        },
+        {
+          "identifier": "665QkUC",
+          "type": "Link",
+          "title": "Binding Tools for Swift | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Binding-Tools-for-Swift--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by Steve Hawley, Engineer on Xamarin iOS, who talks about some brand new binding technology to take Swift libraries for iOS and turn them into beautiful C# libraries for your apps.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Binding-Tools-for-Swift--The-Xamarin-Show\"><strong>Binding Tools for Swift | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by Steve Hawley, Engineer on Xamarin iOS, who talks about some brand new binding technology to take Swift libraries for iOS and turn them into beautiful C# libraries for your apps.\r\n\r\n[**Binding Tools for Swift | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Binding-Tools-for-Swift--The-Xamarin-Show) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "IK4Iokc",
+              "title": "**Binding Tools for Swift | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Binding-Tools-for-Swift--The-Xamarin-Show"
+            },
+            {
+              "identifier": "T0W6LmZ",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "ZZktKXi",
+          "type": "Link",
+          "title": "Merge Conflict 222 -  Cool New Tech",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/222",
+          "description": "<p>Drone cameras, 3d printing with pens, google tvs, and so much more!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/222\"><strong>222: Cool New Tech</strong></a> by <a href=\"https://twitter.com/MergeConflictFM\">Merge Conflict</a></p>",
+          "description_markdown": "Drone cameras, 3d printing with pens, google tvs, and so much more!\r\n\r\n[**222: Cool New Tech**](https://www.mergeconflict.fm/222) by [Merge Conflict](https://twitter.com/MergeConflictFM)",
+          "embedded_links": [
+            {
+              "identifier": "R0JG0Hg",
+              "title": "**222: Cool New Tech**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/222"
+            },
+            {
+              "identifier": "SXWTM5w",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/MergeConflictFM"
+            }
+          ]
+        },
+        {
+          "identifier": "Q9LMV7",
+          "type": "Link",
+          "title": "Indy Xamarin User Group - The Best Way to Architect Your Xamarin.Forms App",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=FW_aGvSQ5oQ",
+          "description": "<p>The title of this talk is a lie. There is no one single way to architect an app. If the app works well, is robust for future expansion, and maintainable - it's architected just fine. You can mess things up though. And then everything is terrible. So, tune in to this talk to find out about some ways you can go about architecting your Xamarin.Forms app so you don't hate yourself before development of the app is complete.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=FW_aGvSQ5oQ\"><strong>Indy Xamarin User Group - The Best Way to Architect Your Xamarin.Forms App</strong></a> by <a href=\"https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A\">.NET Foundation</a></p>",
+          "description_markdown": "The title of this talk is a lie. There is no one single way to architect an app. If the app works well, is robust for future expansion, and maintainable - it's architected just fine. You can mess things up though. And then everything is terrible. So, tune in to this talk to find out about some ways you can go about architecting your Xamarin.Forms app so you don't hate yourself before development of the app is complete.\r\n\r\n[**Indy Xamarin User Group - The Best Way to Architect Your Xamarin.Forms App**](https://www.youtube.com/watch?v=FW_aGvSQ5oQ) by [.NET Foundation](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)",
+          "embedded_links": [
+            {
+              "identifier": "LsYddh3",
+              "title": "**Indy Xamarin User Group - The Best Way to Architect Your Xamarin.Forms App**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=FW_aGvSQ5oQ"
+            },
+            {
+              "identifier": "SYdUzqE",
+              "title": ".NET Foundation",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A"
+            }
+          ]
+        },
+        {
+          "identifier": "WFo6Ln1",
+          "type": "Link",
+          "title": "Publish iOS App to App Store ",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=fkBRXzotbzw",
+          "description": "<p>Samir has made a video tutorial of uploading an app the App Store.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=fkBRXzotbzw\"><strong>Publish iOS App to App Store  Xamarin forms</strong></a> by <a href=\"https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ\">Xamarin Guy</a></p>",
+          "description_markdown": "Samir has made a video tutorial of uploading an app the App Store.\r\n\r\n[**Publish iOS App to App Store  Xamarin forms**](https://www.youtube.com/watch?v=fkBRXzotbzw) by [Xamarin Guy](https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ)",
+          "embedded_links": [
+            {
+              "identifier": "tOnDUMf",
+              "title": "**Publish iOS App to App Store  Xamarin forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=fkBRXzotbzw"
+            },
+            {
+              "identifier": "RsxwpoB",
+              "title": "Xamarin Guy",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "C5jYmV6",
+          "type": "Link",
+          "title": "Xamarin.Essentials 1.6 preview: macOS, media, and more!",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-6-preview/",
+          "description": "<p>Xamarin.Essentials has been a staple for developers building iOS, Android, and Windows apps with Xamarin and .NET since it was first released last year. Now, we are introducing Xamarin.Essentials 1.6, which adds new APIs including MediaPicker, AppActions, Contacts, and more.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-6-preview/\"><strong>Xamarin.Essentials 1.6 preview: macOS, media, and more!</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "Xamarin.Essentials has been a staple for developers building iOS, Android, and Windows apps with Xamarin and .NET since it was first released last year. Now, we are introducing Xamarin.Essentials 1.6, which adds new APIs including MediaPicker, AppActions, Contacts, and more.\r\n\r\n[**Xamarin.Essentials 1.6 preview: macOS, media, and more!**](https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-6-preview/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "qr72BQq",
+              "title": "**Xamarin.Essentials 1.6 preview: macOS, media, and more!**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-6-preview/"
+            },
+            {
+              "identifier": "qx6bj6W",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

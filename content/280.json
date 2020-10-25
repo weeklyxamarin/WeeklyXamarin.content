@@ -1,0 +1,155 @@
+{
+  "Id": "280",
+  "Name": "Issue 280",
+  "UpdatedTimeStamp": "2020-10-10T05:16:26Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Happy Friday, Well actually we are a little late this week, so happy Saturday ;-) This week we have a bunch of videos for you to go through, including the excellent sessions at XamExpertDay.  But there is so much more too! As always, thanks to the community for their excellent posts and have a wonderful, safe weekend. ❤ Kym",
+  "PublishDate": "2020-10-10T05:16:24Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "XamExpertDay 2020 Recordings",
+      "Url": "https://blog.verslu.is/xamarin/xamexpertday-2020/",
+      "Description": "The excellent XamExpertDay happened recently.  If you missed it or want to rewatch one of the sessions, then have a look at Gerald's post.",
+      "EditionId": "280",
+      "Author": "Gerald Versluis",
+      "Id": "280-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "4 Ways To Communicate the Visibility of System Status in UI",
+      "Url": "https://uxplanet.org/4-ways-to-communicate-the-visibility-of-system-status-in-ui-14ff2351c8e8",
+      "Description": "Visibility of system status is one of Jakob Nielsen’s ten heuristics for user interface design. By communicating the current state of the system, you make users feel in control with the system, and this sense of control helps you build trust.",
+      "EditionId": "280",
+      "Author": "Nick Babich",
+      "Id": "280-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "The How (and Why) of User Flows",
+      "Url": "https://www.learnuxd.io/posts/the-how-and-why-of-user-flows/",
+      "Description": "User Flows show the path a user takes through an app as they complete a specific task. The ability to create and think in user flows is one of the most important skills in a designing an app.",
+      "EditionId": "280",
+      "Author": "Jordan Bowman",
+      "Id": "280-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Join Hacktoberfest at the Xamarin Community Toolkit",
+      "Url": "https://devblogs.microsoft.com/xamarin/hacktoberfest-xamarin-community-toolkit/",
+      "Description": "You may have heard about the Xamarin Community Toolkit by now. This toolkit will be an important part of the Xamarin.Forms ecosystem during the evolution to .NET 6. Now is the time to contribute since it is “Hacktoberfest” after all!",
+      "EditionId": "280",
+      "Author": "Gerald Versluis",
+      "Id": "280-4",
+      "Category": "OPEN SOURCE"
+    },
+    {
+      "Title": "Sharpnado Performance Updates",
+      "Url": "https://www.sharpnado.com/shadows-and-materialframe-performance-updates/",
+      "Description": "Follow the adventures of Sharpnado and the eternal quest for performance improvements.",
+      "EditionId": "280",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "280-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "How to provide negative numeric input on Xamarin.Forms iOS",
+      "Url": "https://www.thewissen.io/how-to-provide-negative-numeric-input-on-xamarin-forms-ios/",
+      "Description": "When creating a text input in Xamarin.Forms you might want to show a numeric keyboard. However, when setting it up and running your app on iOS you can’t put in negative numbers. What’s up with that?",
+      "EditionId": "280",
+      "Author": "Steven Thewissen",
+      "Id": "280-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "When to Use Xamarin.Forms vs Xamarin Native?",
+      "Url": "https://www.telerik.com/blogs/when-to-use-xamarin-forms-vs-xamarin-native",
+      "Description": "Xamarin.Forms can take your Xamarin.Native skills even further, but there are times it makes more sense than others.",
+      "EditionId": "280",
+      "Author": "Nigel Ferrissey",
+      "Id": "280-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Mobile App Redesign For Developers Star Tracker OnBoarding Empty States Part 1",
+      "Url": "https://www.youtube.com/watch?v=KwhedIsE7Pg",
+      "Description": "In this talk, you will learn how to integrate our Star Tracker UI designs on the GitTrends Project leveraging C# for markup guided by our special guest and speaker Brandon Minnick, we are then going to cover our last topics for our live series Onboarding & Empty states with the help of our Speaker Luis Pujols.",
+      "EditionId": "280",
+      "Author": "dotnetdo",
+      "Id": "280-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 47: The Xamarin Community and XamExpertDay. With Saamer Mansoor",
+      "Url": "https://kerry.lothrop.de/devtalk-47-saamer-mansoor/",
+      "Description": "On this episode of DevTalk I speak to Saamer Mansoor about the Xamarin community and XamExpertDay.",
+      "EditionId": "280",
+      "Author": "Kerry Lothrop",
+      "Id": "280-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "October of Releases",
+      "Url": "https://www.xamarinpodcast.com/79",
+      "Description": "This month James and Matt talk about all of the new releases that are out and ready for you to code with in October! There's a new iOS. There has to be a new XCode then too. What would another month be without a new Xamarin.Forms preview release be?",
+      "EditionId": "280",
+      "Author": "The Xamarin Podcast",
+      "Id": "280-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 21 - Going cross-platform",
+      "Url": "https://nullpointers.io/21/",
+      "Description": "In this episode, we talk about writing cross-platform apps. What are the approaches? What are the pros and cons you might want to consider? And is there a right way?",
+      "EditionId": "280",
+      "Author": "Null Pointers",
+      "Id": "280-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Binding Tools for Swift | The Xamarin Show",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Binding-Tools-for-Swift--The-Xamarin-Show",
+      "Description": "This week, James is joined by Steve Hawley, Engineer on Xamarin iOS, who talks about some brand new binding technology to take Swift libraries for iOS and turn them into beautiful C# libraries for your apps.",
+      "EditionId": "280",
+      "Author": "James Montemagno",
+      "Id": "280-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 222 -  Cool New Tech",
+      "Url": "https://www.mergeconflict.fm/222",
+      "Description": "Drone cameras, 3d printing with pens, google tvs, and so much more!",
+      "EditionId": "280",
+      "Author": "Merge Conflict",
+      "Id": "280-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Indy Xamarin User Group - The Best Way to Architect Your Xamarin.Forms App",
+      "Url": "https://www.youtube.com/watch?v=FW_aGvSQ5oQ",
+      "Description": "The title of this talk is a lie. There is no one single way to architect an app. If the app works well, is robust for future expansion, and maintainable - it's architected just fine. You can mess things up though. And then everything is terrible. So, tune in to this talk to find out about some ways you can go about architecting your Xamarin.Forms app so you don't hate yourself before development of the app is complete.",
+      "EditionId": "280",
+      "Author": ".NET Foundation",
+      "Id": "280-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Publish iOS App to App Store ",
+      "Url": "https://www.youtube.com/watch?v=fkBRXzotbzw",
+      "Description": "Samir has made a video tutorial of uploading an app the App Store.",
+      "EditionId": "280",
+      "Author": "Xamarin Guy",
+      "Id": "280-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Essentials 1.6 preview: macOS, media, and more!",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-6-preview/",
+      "Description": "Xamarin.Essentials has been a staple for developers building iOS, Android, and Windows apps with Xamarin and .NET since it was first released last year. Now, we are introducing Xamarin.Essentials 1.6, which adds new APIs including MediaPicker, AppActions, Contacts, and more.",
+      "EditionId": "280",
+      "Author": "James Montemagno",
+      "Id": "280-16",
+      "Category": "RELEASES"
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "Authors": [
     {
+      "Name": ".NET Foundation",
+      "Id": "https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A"
+        }
+      ]
+    },
+    {
       "Name": ".NET Rocks!",
       "Id": "https://dotnetrocks.com/",
       "Aliases": [
@@ -714,6 +724,16 @@
       ]
     },
     {
+      "Name": "dotnetdo",
+      "Id": "https://www.youtube.com/channel/UCy6mppDJXjYZtsiy2sETKvA",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.youtube.com/channel/UCy6mppDJXjYZtsiy2sETKvA"
+        }
+      ]
+    },
+    {
       "Name": "Dylan Berry",
       "TwitterHandle": "dylbot9000",
       "GitHubHandle": "dylanberry",
@@ -1179,6 +1199,16 @@
         }
       ],
       "Website": "https://jonathanpeppers.com/"
+    },
+    {
+      "Name": "Jordan Bowman",
+      "Id": "https://twitter.com/jrdnbwmn",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/jrdnbwmn"
+        }
+      ]
     },
     {
       "Name": "Juliano Custódio",
@@ -1722,6 +1752,16 @@
         {
           "Type": "blog",
           "Name": "https://www.syncfusion.com/blogs/author/neelakandan-kannansyncfusion-com"
+        }
+      ]
+    },
+    {
+      "Name": "Nick Babich",
+      "Id": "https://uxplanet.org/@101",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://uxplanet.org/@101"
         }
       ]
     },
@@ -2491,6 +2531,16 @@
         {
           "Type": "blog",
           "Name": "https://docs.microsoft.com/xamarin/tools/profiler/release-notes/"
+        }
+      ]
+    },
+    {
+      "Name": "Xamarin Guy",
+      "Id": "https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ"
         }
       ]
     },
