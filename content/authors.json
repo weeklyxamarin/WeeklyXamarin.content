@@ -85,6 +85,16 @@
       ]
     },
     {
+      "Name": "Alex Blount",
+      "Id": "https://devblogs.microsoft.com/xamarin/author/alblountmicrosoft-com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/xamarin/author/alblountmicrosoft-com/"
+        }
+      ]
+    },
+    {
       "Name": "Alex Dunn",
       "Id": "https://alexdunn.org/author/adunndev/",
       "Aliases": [
@@ -273,6 +283,16 @@
         {
           "Type": "blog",
           "Name": "https://www.telerik.com/blogs/author/atanas-popatanasov"
+        }
+      ]
+    },
+    {
+      "Name": "Balaji Renganathan",
+      "Id": "https://www.syncfusion.com/blogs/author/balajirsyncfusion-com",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.syncfusion.com/blogs/author/balajirsyncfusion-com"
         }
       ]
     },
@@ -471,6 +491,16 @@
         {
           "Type": "blog",
           "Name": "https://devblogs.microsoft.com/surface-duo/author/craigdunn/"
+        }
+      ]
+    },
+    {
+      "Name": "Damian Antonowicz",
+      "Id": "https://twitter.com/d_antonowicz",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/d_antonowicz"
         }
       ]
     },
@@ -1976,6 +2006,16 @@
       ]
     },
     {
+      "Name": "Scott Kuhl",
+      "Id": "https://medium.com/@scottkuhl",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@scottkuhl"
+        }
+      ]
+    },
+    {
       "Name": "Sebastian Jensen",
       "TwitterHandle": "tsjdevapps",
       "GitHubHandle": "tsjdev-apps",
@@ -2332,6 +2372,16 @@
       "GitHubHandle": "vulcanlee",
       "Id": "https://twitter.com/vulcanlee",
       "Website": "https://mylabtw.blogspot.com/"
+    },
+    {
+      "Name": "Whitney Schmidt",
+      "Id": "https://devblogs.microsoft.com/xamarin/author/whschmmicrosoft-com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/xamarin/author/whschmmicrosoft-com/"
+        }
+      ]
     },
     {
       "Name": "William Barbosa",

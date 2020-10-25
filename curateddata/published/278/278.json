@@ -1,0 +1,333 @@
+{
+  "number": 278,
+  "title": "Issue 278",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/278",
+  "publication_status": "published",
+  "published_at": "2020-09-25T14:04:28+01:00",
+  "updated_at": "2020-09-25T14:04:30+01:00",
+  "categories": [
+    {
+      "code": "lucecarter",
+      "name": "LUCE CARTER",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday everyone!</p>\n\n<p>It's been a big week this week with Microsoft Ignite happening. Lots of great announcements including Xamarin.Forms 5.0 Pre-release 1!</p>\n\n<p>Another week of great links, including Xamarin being involved in The Oscars! Thanks as always to everyone who contributed and have a great weekend. :)</p>\n\n<p>Luce ♥</p>",
+          "description_markdown": "Happy Friday everyone!\r\n\r\nIt's been a big week this week with Microsoft Ignite happening. Lots of great announcements including Xamarin.Forms 5.0 Pre-release 1!\r\n\r\nAnother week of great links, including Xamarin being involved in The Oscars! Thanks as always to everyone who contributed and have a great weekend. :)\r\n\r\nLuce ♥",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "LP7BwFt",
+          "type": "Link",
+          "title": "Customer Showcase: The Academy of Motion Picture Arts and Sciences",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/customer-showcase-the-academy-of-motion-picture-arts-sciences/",
+          "description": "<p>We always love it when we can point to a well known company or app and say \"Look this was made in Xamarin!\" and this is no different. The team behind The Oscars needed to improve the interaction experience for members so they turned to Xamarin of course!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/customer-showcase-the-academy-of-motion-picture-arts-sciences/\"><strong>Customer Showcase: The Academy of Motion Picture Arts and Sciences</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/alblountmicrosoft-com/\">Alex Blount</a></p>",
+          "description_markdown": "We always love it when we can point to a well known company or app and say \"Look this was made in Xamarin!\" and this is no different. The team behind The Oscars needed to improve the interaction experience for members so they turned to Xamarin of course!\r\n\r\n[**Customer Showcase: The Academy of Motion Picture Arts and Sciences**](https://devblogs.microsoft.com/xamarin/customer-showcase-the-academy-of-motion-picture-arts-sciences/) by [Alex Blount](https://devblogs.microsoft.com/xamarin/author/alblountmicrosoft-com/)",
+          "embedded_links": [
+            {
+              "identifier": "3ZxlB7T",
+              "title": "**Customer Showcase: The Academy of Motion Picture Arts and Sciences**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/customer-showcase-the-academy-of-motion-picture-arts-sciences/"
+            },
+            {
+              "identifier": "lgq4bUO",
+              "title": "Alex Blount",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/alblountmicrosoft-com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "enaljEo",
+          "type": "Link",
+          "title": "Quickest way to clean temp files & directories in Xamarin",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@prototypemakers/cleanbinobjdirectoriesxamarinprojects-de58f11d366d",
+          "description": "<p>If you have done a weeks’ worth of Xamarin mobile development, you know the need to frequently delete the bin &amp; obj folders in each sub-directory of your solution. This tedious process essentially clears the cache and deletes any improperly built code, so that you can recompile your code, and this magically solves half the problems you face.</p>\n\n<p><a href=\"https://medium.com/@prototypemakers/cleanbinobjdirectoriesxamarinprojects-de58f11d366d\"><strong>Quickest way to clean temp files &amp; directories in Xamarin</strong></a></p>",
+          "description_markdown": "If you have done a weeks’ worth of Xamarin mobile development, you know the need to frequently delete the bin & obj folders in each sub-directory of your solution. This tedious process essentially clears the cache and deletes any improperly built code, so that you can recompile your code, and this magically solves half the problems you face.\r\n\r\n[**Quickest way to clean temp files & directories in Xamarin**](https://medium.com/@prototypemakers/cleanbinobjdirectoriesxamarinprojects-de58f11d366d)",
+          "embedded_links": [
+            {
+              "identifier": "zlSoP3y",
+              "title": "**Quickest way to clean temp files & directories in Xamarin**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prototypemakers/cleanbinobjdirectoriesxamarinprojects-de58f11d366d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "rIp32vb",
+          "type": "Link",
+          "title": "Build Xamarin.iOS apps using iOS 14 and Xcode 12",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/ios-14-and-xcode-12-xamarin-ios/",
+          "description": "<p>Support for iOS 14 and Xcode 12 to accompany Apple’s Xcode 12 GM release was just announced! Now, build your Xamarin.iOS (and Xamarin.Forms for iOS) apps with Xcode 12 GM and submit your iOS 14, tvOS 14 or watchOS 7 apps to the Apple App Store.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/ios-14-and-xcode-12-xamarin-ios/\"><strong>Build Xamarin.iOS apps using iOS 14 and Xcode 12</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/whschmmicrosoft-com/\">Whitney Schmidt</a></p>",
+          "description_markdown": "Support for iOS 14 and Xcode 12 to accompany Apple’s Xcode 12 GM release was just announced! Now, build your Xamarin.iOS (and Xamarin.Forms for iOS) apps with Xcode 12 GM and submit your iOS 14, tvOS 14 or watchOS 7 apps to the Apple App Store.\r\n\r\n[**Build Xamarin.iOS apps using iOS 14 and Xcode 12**](https://devblogs.microsoft.com/xamarin/ios-14-and-xcode-12-xamarin-ios/) by [Whitney Schmidt](https://devblogs.microsoft.com/xamarin/author/whschmmicrosoft-com/)",
+          "embedded_links": [
+            {
+              "identifier": "q2Auust",
+              "title": "**Build Xamarin.iOS apps using iOS 14 and Xcode 12**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/ios-14-and-xcode-12-xamarin-ios/"
+            },
+            {
+              "identifier": "daY1XWn",
+              "title": "Whitney Schmidt",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/whschmmicrosoft-com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "6MuOatS",
+          "type": "Link",
+          "title": "Getting Device Display Information Xamarin Essentials",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/getting-device-display-information-data-xamarin-essentials",
+          "description": "<p>Xamarin.Essentials has been a really great addition to the Xamarin family, with so many different classes available to us in our shared code for common features. In this post, Leomaris talks about two of these that make it super simple to grab device related information!</p>\n\n<p><a href=\"https://www.telerik.com/blogs/getting-device-display-information-data-xamarin-essentials\"><strong>Getting Device Display Information Xamarin Essentials</strong></a> by <a href=\"https://www.telerik.com/blogs/author/leomaris-reyes\">Leomaris Reyes</a></p>",
+          "description_markdown": "Xamarin.Essentials has been a really great addition to the Xamarin family, with so many different classes available to us in our shared code for common features. In this post, Leomaris talks about two of these that make it super simple to grab device related information!\r\n\r\n[**Getting Device Display Information Xamarin Essentials**](https://www.telerik.com/blogs/getting-device-display-information-data-xamarin-essentials) by [Leomaris Reyes](https://www.telerik.com/blogs/author/leomaris-reyes)",
+          "embedded_links": [
+            {
+              "identifier": "UKxIwlp",
+              "title": "**Getting Device Display Information Xamarin Essentials**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/getting-device-display-information-data-xamarin-essentials"
+            },
+            {
+              "identifier": "3oKT9K7",
+              "title": "Leomaris Reyes",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/leomaris-reyes"
+            }
+          ]
+        },
+        {
+          "identifier": "BRTNAe1",
+          "type": "Link",
+          "title": "Creating animated Floating Action Button for Xamarin.Forms",
+          "url_domain": "damianantonowicz.pl",
+          "url": "https://damianantonowicz.pl/2020/09/19/creating-animated-floating-action-button-for-xamarin-forms/",
+          "description": "<p>Animated Floating Action Button for Xamarin.Forms? It’s easy! In this post, Damian will show how we can use pure Xamarin.Forms for creating Floating Action Button that will animate when page appears.</p>\n\n<p><a href=\"https://damianantonowicz.pl/2020/09/19/creating-animated-floating-action-button-for-xamarin-forms/\"><strong>Creating animated Floating Action Button for Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/D_Antonowicz\">Damian Antonowicz</a></p>",
+          "description_markdown": "Animated Floating Action Button for Xamarin.Forms? It’s easy! In this post, Damian will show how we can use pure Xamarin.Forms for creating Floating Action Button that will animate when page appears. \r\n\r\n[**Creating animated Floating Action Button for Xamarin.Forms**](https://damianantonowicz.pl/2020/09/19/creating-animated-floating-action-button-for-xamarin-forms/) by [Damian Antonowicz](https://twitter.com/D_Antonowicz)",
+          "embedded_links": [
+            {
+              "identifier": "gzXYgqN",
+              "title": "**Creating animated Floating Action Button for Xamarin.Forms**",
+              "url_domain": "damianantonowicz.pl",
+              "url": "https://damianantonowicz.pl/2020/09/19/creating-animated-floating-action-button-for-xamarin-forms/"
+            },
+            {
+              "identifier": "DOjvSRn",
+              "title": "Damian Antonowicz",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/D_Antonowicz"
+            }
+          ]
+        },
+        {
+          "identifier": "9pIGdZy",
+          "type": "Link",
+          "title": "Dual Screen in Xamarin.Forms",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@scottkuhl/dual-screen-in-xamarin-forms-33962b765c9",
+          "description": "<p>Let’s look at how to update the default Shell template experience to appropriately handle dual screen support using the Master-Detail Pattern. Xamarin.Forms up to now has mostly had to deal with one screen as it is a mobile operating system development environment at heart.</p>\n\n<p><a href=\"https://medium.com/@scottkuhl/dual-screen-in-xamarin-forms-33962b765c9\"><strong>Dual Screen in Xamarin.Forms</strong></a> by <a href=\"https://medium.com/@scottkuhl\">Scott Kuhl</a></p>",
+          "description_markdown": "Let’s look at how to update the default Shell template experience to appropriately handle dual screen support using the Master-Detail Pattern. Xamarin.Forms up to now has mostly had to deal with one screen as it is a mobile operating system development environment at heart.\r\n\r\n[**Dual Screen in Xamarin.Forms**](https://medium.com/@scottkuhl/dual-screen-in-xamarin-forms-33962b765c9) by [Scott Kuhl](https://medium.com/@scottkuhl)",
+          "embedded_links": [
+            {
+              "identifier": "Y8WpOKv",
+              "title": "**Dual Screen in Xamarin.Forms**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@scottkuhl/dual-screen-in-xamarin-forms-33962b765c9"
+            },
+            {
+              "identifier": "AXOwNFw",
+              "title": "Scott Kuhl",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@scottkuhl"
+            }
+          ]
+        },
+        {
+          "identifier": "3owrRTP",
+          "type": "Link",
+          "title": "Scratch View in Xamarin Forms",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/scratch-view-in-xamarin-forms/",
+          "description": "<p>So Charlin was looking through some apps and saw some fun behaviour of scratching off a picture to reveal another in an app. Based on the sample code she then created a controller so you can do it too!</p>\n\n<p><a href=\"https://xamgirl.com/scratch-view-in-xamarin-forms/\"><strong>Scratch View in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/Chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "So Charlin was looking through some apps and saw some fun behaviour of scratching off a picture to reveal another in an app. Based on the sample code she then created a controller so you can do it too!\r\n\r\n[**Scratch View in Xamarin.Forms**](https://xamgirl.com/scratch-view-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/Chard003)",
+          "embedded_links": [
+            {
+              "identifier": "2BLcBnJ",
+              "title": "**Scratch View in Xamarin.Forms**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/scratch-view-in-xamarin-forms/"
+            },
+            {
+              "identifier": "8GAr226",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Chard003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "vIKhERV",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 78: The Oscars",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/78",
+          "description": "<p>In this special episode of the Xamarin Podcast - Matt talks to the folks behind the Oscars app.</p>\n\n<p>You'll find out a ton of great insights on how the Academy of Motion Pictures Arts and Sciences built a Xamarin.tvOS app, lift and shifted their infrastructure to Azure, and released a Xamarin.Forms app too.</p>\n\n<p>All with a little help with our friends from Microsoft's Mobile Customer Advisory Team!</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/78\"><strong>The Xamarin Podcast Episode 78: The Oscars</strong></a> by <a href=\"https://www.xamarinpodcast.com\">Xamarin Podcast</a></p>",
+          "description_markdown": "In this special episode of the Xamarin Podcast - Matt talks to the folks behind the Oscars app.\r\n\r\nYou'll find out a ton of great insights on how the Academy of Motion Pictures Arts and Sciences built a Xamarin.tvOS app, lift and shifted their infrastructure to Azure, and released a Xamarin.Forms app too.\r\n\r\nAll with a little help with our friends from Microsoft's Mobile Customer Advisory Team!\r\n\r\n[**The Xamarin Podcast Episode 78: The Oscars**](https://www.xamarinpodcast.com/78) by [Xamarin Podcast](https://www.xamarinpodcast.com)",
+          "embedded_links": [
+            {
+              "identifier": "3dZYNFB",
+              "title": "**The Xamarin Podcast Episode 78: The Oscars**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/78"
+            },
+            {
+              "identifier": "92ikGkL",
+              "title": "The Xamarin Podcast",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com"
+            }
+          ]
+        },
+        {
+          "identifier": "swLwQsC",
+          "type": "Link",
+          "title": "DevTalk 46: Moving to .NET MAUI. With Jon Dick",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-46-jon-dick/",
+          "description": "<p>The move to .NET MAUI in .NET 6 is still a big talking point. In this episode of DevTalk, Kerry speaks to Jon Dick about what's coming up!</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-46-jon-dick/\"><strong>DevTalk 46: Moving to .NET MAUI. With Jon Dick</strong></a> by <a href=\"https://devtalk.lothrop.de/\">Kerry Lothrop</a></p>",
+          "description_markdown": "The move to .NET MAUI in .NET 6 is still a big talking point. In this episode of DevTalk, Kerry speaks to Jon Dick about what's coming up!\r\n\r\n[**DevTalk 46: Moving to .NET MAUI. With Jon Dick**](https://kerry.lothrop.de/devtalk-46-jon-dick/) by [Kerry Lothrop](https://devtalk.lothrop.de/)",
+          "embedded_links": [
+            {
+              "identifier": "kp70FW3",
+              "title": "**DevTalk 46: Moving to .NET MAUI. With Jon Dick**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-46-jon-dick/"
+            },
+            {
+              "identifier": "lnQDFiY",
+              "title": "Kerry Lothrop",
+              "url_domain": "lothrop.de",
+              "url": "https://devtalk.lothrop.de/"
+            }
+          ]
+        },
+        {
+          "identifier": "p5a2dth",
+          "type": "Link",
+          "title": "Null Pointers 19: Version Control",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/19/",
+          "description": "<p>Version control. A thing of beauty or a thing of frustration? Or maybe even both. In this episode, we try to demystify some of the things around Git, share our war stories of yesteryear and try to make sense of why everyone should be using it.</p>\n\n<p><a href=\"https://nullpointers.io/19/\"><strong>Null Pointers 19: Version Control</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "Version control. A thing of beauty or a thing of frustration? Or maybe even both. In this episode, we try to demystify some of the things around Git, share our war stories of yesteryear and try to make sense of why everyone should be using it.\r\n\r\n[**Null Pointers 19: Version Control**](https://nullpointers.io/19/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "R4L98OI",
+              "title": "**Null Pointers 19: Version Control**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/19/"
+            },
+            {
+              "identifier": "kMsYrLK",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "TGxM0Gj",
+          "type": "Link",
+          "title": "Merge Conflict: 220: Apple Event Recap - Apple Watch Series 6 & New iPad Air",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/220",
+          "description": "<p>We are back with a full breakdown of last week's exciting Apple event. We break down all of the highlights around the new Apple Watch Series 6, watchOS 7, Apple Fitness+, Apple One, and the New iPad Air.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/220\"><strong>Merge Conflict: 220: Apple Event Recap - Apple Watch Series 6 &amp; New iPad Air</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "We are back with a full breakdown of last week's exciting Apple event. We break down all of the highlights around the new Apple Watch Series 6, watchOS 7, Apple Fitness+, Apple One, and the New iPad Air.\r\n\r\n[**Merge Conflict: 220: Apple Event Recap - Apple Watch Series 6 & New iPad Air**](https://www.mergeconflict.fm/220) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "LyBzgYS",
+              "title": "**Merge Conflict: 220: Apple Event Recap - Apple Watch Series 6 & New iPad Air**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/220"
+            },
+            {
+              "identifier": "HanoQ8H",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "P6oUCll",
+          "type": "Link",
+          "title": "Sneak Peek at 2020 Volume 3: Major Highlights | Syncfusion Blogs",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/sneak-peek-at-2020-volume-3-major-highlights.aspx",
+          "description": "<p>Syncfusion are releasing their 2020 Volume 3 release in October which will add some exciting new features including an offline installer. Another exciting feature will be support for AndroidX, check out this sneak peak post to learn more!</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/sneak-peek-at-2020-volume-3-major-highlights.aspx\"><strong>Sneak Peek at 2020 Volume 3: Major Highlights</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/balajirsyncfusion-com\">Balaji Renganathan</a></p>",
+          "description_markdown": "Syncfusion are releasing their 2020 Volume 3 release in October which will add some exciting new features including an offline installer. Another exciting feature will be support for AndroidX, check out this sneak peak post to learn more!\r\n\r\n[**Sneak Peek at 2020 Volume 3: Major Highlights**](https://www.syncfusion.com/blogs/post/sneak-peek-at-2020-volume-3-major-highlights.aspx) by [Balaji Renganathan](https://www.syncfusion.com/blogs/author/balajirsyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "5clyYu9",
+              "title": "**Sneak Peek at 2020 Volume 3: Major Highlights**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/sneak-peek-at-2020-volume-3-major-highlights.aspx"
+            },
+            {
+              "identifier": "EEzgsxS",
+              "title": "Balaji Renganathan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/balajirsyncfusion-com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

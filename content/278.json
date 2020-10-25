@@ -1,0 +1,118 @@
+{
+  "Id": "278",
+  "Name": "Issue 278",
+  "UpdatedTimeStamp": "2020-09-25T13:04:30Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Happy Friday everyone! It's been a big week this week with Microsoft Ignite happening. Lots of great announcements including Xamarin.Forms 5.0 Pre-release 1! Another week of great links, including Xamarin being involved in The Oscars! Thanks as always to everyone who contributed and have a great weekend. :) Luce ♥",
+  "PublishDate": "2020-09-25T13:04:28Z",
+  "Curators": "Luce Carter",
+  "Articles": [
+    {
+      "Title": "Customer Showcase: The Academy of Motion Picture Arts and Sciences",
+      "Url": "https://devblogs.microsoft.com/xamarin/customer-showcase-the-academy-of-motion-picture-arts-sciences/",
+      "Description": "We always love it when we can point to a well known company or app and say \"Look this was made in Xamarin!\" and this is no different. The team behind The Oscars needed to improve the interaction experience for members so they turned to Xamarin of course!",
+      "EditionId": "278",
+      "Author": "Alex Blount",
+      "Id": "278-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Quickest way to clean temp files & directories in Xamarin",
+      "Url": "https://medium.com/@prototypemakers/cleanbinobjdirectoriesxamarinprojects-de58f11d366d",
+      "Description": "If you have done a weeks’ worth of Xamarin mobile development, you know the need to frequently delete the bin & obj folders in each sub-directory of your solution. This tedious process essentially clears the cache and deletes any improperly built code, so that you can recompile your code, and this magically solves half the problems you face. [**Quickest way to clean temp files & directories in Xamarin**](https://medium.com/@prototypemakers/cleanbinobjdirectoriesxamarinprojects-de58f11d366d)",
+      "EditionId": "278",
+      "Id": "278-2",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Build Xamarin.iOS apps using iOS 14 and Xcode 12",
+      "Url": "https://devblogs.microsoft.com/xamarin/ios-14-and-xcode-12-xamarin-ios/",
+      "Description": "Support for iOS 14 and Xcode 12 to accompany Apple’s Xcode 12 GM release was just announced! Now, build your Xamarin.iOS (and Xamarin.Forms for iOS) apps with Xcode 12 GM and submit your iOS 14, tvOS 14 or watchOS 7 apps to the Apple App Store.",
+      "EditionId": "278",
+      "Author": "Whitney Schmidt",
+      "Id": "278-3",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Getting Device Display Information Xamarin Essentials",
+      "Url": "https://www.telerik.com/blogs/getting-device-display-information-data-xamarin-essentials",
+      "Description": "Xamarin.Essentials has been a really great addition to the Xamarin family, with so many different classes available to us in our shared code for common features. In this post, Leomaris talks about two of these that make it super simple to grab device related information!",
+      "EditionId": "278",
+      "Author": "Leomaris Reyes",
+      "Id": "278-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Creating animated Floating Action Button for Xamarin.Forms",
+      "Url": "https://damianantonowicz.pl/2020/09/19/creating-animated-floating-action-button-for-xamarin-forms/",
+      "Description": "Animated Floating Action Button for Xamarin.Forms? It’s easy! In this post, Damian will show how we can use pure Xamarin.Forms for creating Floating Action Button that will animate when page appears.",
+      "EditionId": "278",
+      "Author": "Damian Antonowicz",
+      "Id": "278-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Dual Screen in Xamarin.Forms",
+      "Url": "https://medium.com/@scottkuhl/dual-screen-in-xamarin-forms-33962b765c9",
+      "Description": "Let’s look at how to update the default Shell template experience to appropriately handle dual screen support using the Master-Detail Pattern. Xamarin.Forms up to now has mostly had to deal with one screen as it is a mobile operating system development environment at heart.",
+      "EditionId": "278",
+      "Author": "Scott Kuhl",
+      "Id": "278-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Scratch View in Xamarin Forms",
+      "Url": "https://xamgirl.com/scratch-view-in-xamarin-forms/",
+      "Description": "So Charlin was looking through some apps and saw some fun behaviour of scratching off a picture to reveal another in an app. Based on the sample code she then created a controller so you can do it too!",
+      "EditionId": "278",
+      "Author": "Charlin Agramonte",
+      "Id": "278-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "The Xamarin Podcast Episode 78: The Oscars",
+      "Url": "https://www.xamarinpodcast.com/78",
+      "Description": "In this special episode of the Xamarin Podcast - Matt talks to the folks behind the Oscars app. You'll find out a ton of great insights on how the Academy of Motion Pictures Arts and Sciences built a Xamarin.tvOS app, lift and shifted their infrastructure to Azure, and released a Xamarin.Forms app too. All with a little help with our friends from Microsoft's Mobile Customer Advisory Team!",
+      "EditionId": "278",
+      "Author": "The Xamarin Podcast",
+      "Id": "278-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 46: Moving to .NET MAUI. With Jon Dick",
+      "Url": "https://kerry.lothrop.de/devtalk-46-jon-dick/",
+      "Description": "The move to .NET MAUI in .NET 6 is still a big talking point. In this episode of DevTalk, Kerry speaks to Jon Dick about what's coming up!",
+      "EditionId": "278",
+      "Author": "Kerry Lothrop",
+      "Id": "278-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 19: Version Control",
+      "Url": "https://nullpointers.io/19/",
+      "Description": "Version control. A thing of beauty or a thing of frustration? Or maybe even both. In this episode, we try to demystify some of the things around Git, share our war stories of yesteryear and try to make sense of why everyone should be using it.",
+      "EditionId": "278",
+      "Author": "Null Pointers",
+      "Id": "278-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 220: Apple Event Recap - Apple Watch Series 6 & New iPad Air",
+      "Url": "https://www.mergeconflict.fm/220",
+      "Description": "We are back with a full breakdown of last week's exciting Apple event. We break down all of the highlights around the new Apple Watch Series 6, watchOS 7, Apple Fitness+, Apple One, and the New iPad Air.",
+      "EditionId": "278",
+      "Author": "Merge Conflict",
+      "Id": "278-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Sneak Peek at 2020 Volume 3: Major Highlights | Syncfusion Blogs",
+      "Url": "https://www.syncfusion.com/blogs/post/sneak-peek-at-2020-volume-3-major-highlights.aspx",
+      "Description": "Syncfusion are releasing their 2020 Volume 3 release in October which will add some exciting new features including an offline installer. Another exciting feature will be support for AndroidX, check out this sneak peak post to learn more!",
+      "EditionId": "278",
+      "Author": "Balaji Renganathan",
+      "Id": "278-12",
+      "Category": "RELEASES"
+    }
+  ]
+}
