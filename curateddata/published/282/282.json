@@ -1,0 +1,379 @@
+{
+  "number": 282,
+  "title": "Issue 282",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/282",
+  "publication_status": "published",
+  "published_at": "2020-10-24T02:04:50+01:00",
+  "updated_at": "2020-10-24T02:04:53+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>It's the weekend and that means it's time to relax and enjoy another edition of Weekly Xamarin.</p>\n\n<p>Xamarin.Forms 5.0 is getting closer and the Xamarin Community Toolkit is getting some great updates.  We are mid way through Hacktober, but there is  still time to help contribute to these projects.</p>\n\n<p>Have a great weekend everyone.</p>\n\n<p>♥</p>\n\n<p>Kym</p>",
+          "description_markdown": "It's the weekend and that means it's time to relax and enjoy another edition of Weekly Xamarin. \r\n\r\nXamarin.Forms 5.0 is getting closer and the Xamarin Community Toolkit is getting some great updates.  We are mid way through Hacktober, but there is  still time to help contribute to these projects.\r\n\r\nHave a great weekend everyone.\r\n\r\n♥\r\n\r\nKym\r\n\r\n",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "gkxznDE",
+          "type": "Link",
+          "title": "Improving our design system through Dark Mode",
+          "url_domain": "codeascraft.com",
+          "url": "https://codeascraft.com/2020/10/21/improving-our-design-system-through-dark-mode/",
+          "description": "<p>Etsy recently launched Dark Mode in our iOS and Android buyer apps. Since Dark Mode was introduced system-wide last year in iOS 13 and Android 10, it has quickly become a highly requested feature by our users and an industry standard.</p>\n\n<p><a href=\"https://codeascraft.com/2020/10/21/improving-our-design-system-through-dark-mode/\"><strong>Improving our design system through Dark Mode</strong></a> by <a href=\"https://codeascraft.com/author/ssharp/\">Stephanie Sharp</a></p>",
+          "description_markdown": "Etsy recently launched Dark Mode in our iOS and Android buyer apps. Since Dark Mode was introduced system-wide last year in iOS 13 and Android 10, it has quickly become a highly requested feature by our users and an industry standard.\r\n\r\n[**Improving our design system through Dark Mode**](https://codeascraft.com/2020/10/21/improving-our-design-system-through-dark-mode/) by [Stephanie Sharp](https://codeascraft.com/author/ssharp/)",
+          "embedded_links": [
+            {
+              "identifier": "6kvrc1Z",
+              "title": "Stephanie Sharp",
+              "url_domain": "codeascraft.com",
+              "url": "https://codeascraft.com/author/ssharp/"
+            },
+            {
+              "identifier": "JunM4es",
+              "title": "**Improving our design system through Dark Mode**",
+              "url_domain": "codeascraft.com",
+              "url": "https://codeascraft.com/2020/10/21/improving-our-design-system-through-dark-mode/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "p5E1h2j",
+          "type": "Link",
+          "title": "Query & Interact with Apps in Android 11 with Package Visibility",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/android-11-package-visibility/",
+          "description": "<p>Android 11 introduced several exciting updates for developers to integrate into their app experience including new device and media controls, enhanced support for foldables, and a lot more. In addition to new features there are also several privacy enhancements that developers need to integrate into their application when upgraded and re-targeting to Android 11.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/android-11-package-visibility/\"><strong>Query &amp; Interact with Apps in Android 11 with Package Visibility</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "Android 11 introduced several exciting updates for developers to integrate into their app experience including new device and media controls, enhanced support for foldables, and a lot more. In addition to new features there are also several privacy enhancements that developers need to integrate into their application when upgraded and re-targeting to Android 11.\r\n\r\n[**Query & Interact with Apps in Android 11 with Package Visibility**](https://devblogs.microsoft.com/xamarin/android-11-package-visibility/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "NvR4G1k",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            },
+            {
+              "identifier": "Z9s49oS",
+              "title": "**Query & Interact with Apps in Android 11 with Package Visibility**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/android-11-package-visibility/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "naN6MMI",
+          "type": "Link",
+          "title": "iPhone 12 Screen Sizes",
+          "url_domain": "medium.com",
+          "url": "https://hacknicity.medium.com/how-ios-apps-adapt-to-the-various-iphone-12-screen-sizes-e45c021e1b8b",
+          "description": "<p>Screen size fragmentation used to only be a problem for Android developers. Now Apple has released the same feature. ;-)  This is a useful article if you want your app to adapt to that new shiny apple hardware.</p>\n\n<p><a href=\"https://hacknicity.medium.com/how-ios-apps-adapt-to-the-various-iphone-12-screen-sizes-e45c021e1b8b\"><strong>How iOS Apps Adapt to the various iPhone 12 Screen Sizes</strong></a> by <a href=\"https://hacknicity.medium.com/@hacknicity\">Geoff Hackworth</a></p>",
+          "description_markdown": "Screen size fragmentation used to only be a problem for Android developers. Now Apple has released the same feature. ;-)  This is a useful article if you want your app to adapt to that new shiny apple hardware.\r\n\r\n[**How iOS Apps Adapt to the various iPhone 12 Screen Sizes**](https://hacknicity.medium.com/how-ios-apps-adapt-to-the-various-iphone-12-screen-sizes-e45c021e1b8b) by [Geoff Hackworth](https://hacknicity.medium.com/@hacknicity)",
+          "embedded_links": [
+            {
+              "identifier": "7LB228b",
+              "title": "**How iOS Apps Adapt to the various iPhone 12 Screen Sizes**",
+              "url_domain": "medium.com",
+              "url": "https://hacknicity.medium.com/how-ios-apps-adapt-to-the-various-iphone-12-screen-sizes-e45c021e1b8b"
+            },
+            {
+              "identifier": "oZNEEEJ",
+              "title": "Geoff Hackworth",
+              "url_domain": "medium.com",
+              "url": "https://hacknicity.medium.com/@hacknicity"
+            }
+          ]
+        },
+        {
+          "identifier": "CtNk23O",
+          "type": "Link",
+          "title": "Background Location Updates in iOS",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2020/10/19/battery-efficient-background-time-based-location-updates-on-ios/",
+          "description": "<p>In this article, Rendy will show you how to get background time-based location updates by using a DispatchSourceTimer. It is the lowest level background timer API that gives you more control over the time interval and provides adjustments parameters for energy efficiency.</p>\n\n<p><a href=\"https://www.xamboy.com/2020/10/19/battery-efficient-background-time-based-location-updates-on-ios/\"><strong>Battery efficient background time-based location updates on iOS</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "In this article, Rendy will show you how to get background time-based location updates by using a DispatchSourceTimer. It is the lowest level background timer API that gives you more control over the time interval and provides adjustments parameters for energy efficiency.\r\n\r\n[**Battery efficient background time-based location updates on iOS**](https://www.xamboy.com/2020/10/19/battery-efficient-background-time-based-location-updates-on-ios/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "9YNj8DS",
+              "title": "**Battery efficient background time-based location updates on iOS**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2020/10/19/battery-efficient-background-time-based-location-updates-on-ios/"
+            },
+            {
+              "identifier": "EiLaa7Z",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "apOApAi",
+          "type": "Link",
+          "title": "Bringing .NET extensions to Xamarin.Forms",
+          "url_domain": "spatial-focus.net",
+          "url": "https://www.spatial-focus.net/blog/bringing-net-extensions-to-xamarin-forms",
+          "description": "<p>This blog post will show you a way of integrating configuration, dependency injection, logging and localization of the .NET extensions stack into your Xamarin.Forms application.</p>\n\n<p><a href=\"https://www.spatial-focus.net/blog/bringing-net-extensions-to-xamarin-forms\"><strong>Bringing .NET extensions to Xamarin.Forms</strong></a> by <a href=\"https://www.spatial-focus.net/blog/author/e215da98-13e9-4cba-bcc8-b3b7d092c6f4\">Christopher Dresel</a></p>",
+          "description_markdown": "This blog post will show you a way of integrating configuration, dependency injection, logging and localization of the .NET extensions stack into your Xamarin.Forms application.\r\n\r\n[**Bringing .NET extensions to Xamarin.Forms**](https://www.spatial-focus.net/blog/bringing-net-extensions-to-xamarin-forms) by [Christopher Dresel](https://www.spatial-focus.net/blog/author/e215da98-13e9-4cba-bcc8-b3b7d092c6f4)",
+          "embedded_links": [
+            {
+              "identifier": "EwM38y8",
+              "title": "**Bringing .NET extensions to Xamarin.Forms**",
+              "url_domain": "spatial-focus.net",
+              "url": "https://www.spatial-focus.net/blog/bringing-net-extensions-to-xamarin-forms"
+            },
+            {
+              "identifier": "qhoewKF",
+              "title": "Christopher Dresel",
+              "url_domain": "spatial-focus.net",
+              "url": "https://www.spatial-focus.net/blog/author/e215da98-13e9-4cba-bcc8-b3b7d092c6f4"
+            }
+          ]
+        },
+        {
+          "identifier": "qB4PxGY",
+          "type": "Link",
+          "title": "Adding Shortcuts with Xamarin Essentials",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/adding-shortcuts-with-xamarin-essentials/",
+          "description": "<p>Leomaris shows how to use a new feature in Xamarin Essentials to add shortcuts for your app on the home-screen.</p>\n\n<p><a href=\"https://askxammy.com/adding-shortcuts-with-xamarin-essentials/\"><strong>Adding Shortcuts with Xamarin Essentials</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris shows how to use a new feature in Xamarin Essentials to add shortcuts for your app on the home-screen.\r\n\r\n[**Adding Shortcuts with Xamarin Essentials**](https://askxammy.com/adding-shortcuts-with-xamarin-essentials/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "Pfg0ocB",
+              "title": "**Adding Shortcuts with Xamarin Essentials**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/adding-shortcuts-with-xamarin-essentials/"
+            },
+            {
+              "identifier": "CEaIs9",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "uXiEes3",
+          "type": "Link",
+          "title": "Custom Visual State triggers and Control Templates",
+          "url_domain": "weblogs.us",
+          "url": "https://depblog.weblogs.us/2020/10/19/xamarin-forms-custom-visual-state-triggers-and-control-templates/",
+          "description": "<p>Glenn Versweyveld digs into Custom Visual State triggers and Control Templates in Xamarin.Forms to be able to show a different view of some data by swapping the style of a ContentView while using Control Template.</p>\n\n<p><a href=\"https://depblog.weblogs.us/2020/10/19/xamarin-forms-custom-visual-state-triggers-and-control-templates/\"><strong>Xamarin Forms – Custom Visual State triggers and Control Templates</strong></a> by <a href=\"https://twitter.com/depechie\">Glenn Versweyveld</a></p>",
+          "description_markdown": "Glenn Versweyveld digs into Custom Visual State triggers and Control Templates in Xamarin.Forms to be able to show a different view of some data by swapping the style of a ContentView while using Control Template.\r\n\r\n[**Xamarin Forms – Custom Visual State triggers and Control Templates**](https://depblog.weblogs.us/2020/10/19/xamarin-forms-custom-visual-state-triggers-and-control-templates/) by [Glenn Versweyveld](https://twitter.com/depechie)",
+          "embedded_links": [
+            {
+              "identifier": "DhJAven",
+              "title": "**Xamarin Forms – Custom Visual State triggers and Control Templates**",
+              "url_domain": "weblogs.us",
+              "url": "https://depblog.weblogs.us/2020/10/19/xamarin-forms-custom-visual-state-triggers-and-control-templates/"
+            },
+            {
+              "identifier": "XWgsOF3",
+              "title": "Glenn Versweyveld",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/depechie"
+            }
+          ]
+        },
+        {
+          "identifier": "xPEzF47",
+          "type": "Link",
+          "title": "Adding Dark Theme Support for Xamarin Forms Shell",
+          "url_domain": "mitchelsellers.com",
+          "url": "https://mitchelsellers.com/blog/article/adding-dark-theme-support-for-xamarin-forms-shell",
+          "description": "<p>Xamarin Forms has had support for Dark Mode for a while now. However, how it is supported has changed.  This blog post digs in a little more.</p>\n\n<p><a href=\"https://mitchelsellers.com/blog/article/adding-dark-theme-support-for-xamarin-forms-shell\"><strong>Adding Dark Theme Support for Xamarin Forms Shell</strong></a> by <a href=\"https://twitter.com/mitchelsellers\">Mitchel Sellers</a></p>",
+          "description_markdown": "Xamarin Forms has had support for Dark Mode for a while now. However, how it is supported has changed.  This blog post digs in a little more.\r\n\r\n[**Adding Dark Theme Support for Xamarin Forms Shell**](https://mitchelsellers.com/blog/article/adding-dark-theme-support-for-xamarin-forms-shell) by [Mitchel Sellers](https://twitter.com/mitchelsellers)",
+          "embedded_links": [
+            {
+              "identifier": "4iK27pK",
+              "title": "**Adding Dark Theme Support for Xamarin Forms Shell**",
+              "url_domain": "mitchelsellers.com",
+              "url": "https://mitchelsellers.com/blog/article/adding-dark-theme-support-for-xamarin-forms-shell"
+            },
+            {
+              "identifier": "sjWvIXY",
+              "title": "Mitchel Sellers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mitchelsellers"
+            }
+          ]
+        },
+        {
+          "identifier": "68d0gGu",
+          "type": "Link",
+          "title": "OTP Auto-Fill Entry for iOS",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/otp-auto-fill-entry-for-ios-with-xamarin-forms/",
+          "description": "<p>Gerald shows how you can implement One Time Password (OTP) support to your Xamarin.Forms iOS Apps.</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/xamarin-forms-xamarin/otp-auto-fill-entry-for-ios-with-xamarin-forms/\"><strong>OTP Auto-Fill Entry for iOS with Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Gerald shows how you can implement One Time Password (OTP) support to your Xamarin.Forms iOS Apps.\r\n\r\n[**OTP Auto-Fill Entry for iOS with Xamarin.Forms**](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/otp-auto-fill-entry-for-ios-with-xamarin-forms/) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "l73QCsB",
+              "title": "**OTP Auto-Fill Entry for iOS with Xamarin.Forms**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/otp-auto-fill-entry-for-ios-with-xamarin-forms/"
+            },
+            {
+              "identifier": "VxMrMA3",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "wWnf09v",
+          "type": "Link",
+          "title": "In-app reviews for your Android apps",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/android-in-app-reviews/",
+          "description": "<p>In Android you can now enable users to provide in-app reviews.  Who knew? Sameer did and in this post he shows how  with just a few lines of code you can bring this feature to your apps.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/android-in-app-reviews/\"><strong>In-app reviews for your Android apps</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/saamermansoor/\">Saamer Mansoor</a></p>",
+          "description_markdown": "In Android you can now enable users to provide in-app reviews.  Who knew? Sameer did and in this post he shows how  with just a few lines of code you can bring this feature to your apps.\r\n\r\n[**In-app reviews for your Android apps**](https://devblogs.microsoft.com/xamarin/android-in-app-reviews/) by [Saamer Mansoor](https://devblogs.microsoft.com/xamarin/author/saamermansoor/)",
+          "embedded_links": [
+            {
+              "identifier": "74LM6FM",
+              "title": "Saamer Mansoor",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/saamermansoor/"
+            },
+            {
+              "identifier": "AkVaPMu",
+              "title": "**In-app reviews for your Android apps**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/android-in-app-reviews/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "XdMJAXV",
+          "type": "Link",
+          "title": "Xamarin.Forms 5 Is Here!",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-5-Is-Here",
+          "description": "<p>This week, James is joined by David Ortinau, Xamarin Principal Program Manager, who is here to talk about all of the goodies that are available in the brand new release Xamarin.Forms 5.0! He walks us through what is in, what is out, and what are the major themes of the release.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-5-Is-Here\"><strong>Xamarin.Forms 5 Is Here!</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "This week, James is joined by David Ortinau, Xamarin Principal Program Manager, who is here to talk about all of the goodies that are available in the brand new release Xamarin.Forms 5.0! He walks us through what is in, what is out, and what are the major themes of the release.\r\n\r\n[**Xamarin.Forms 5 Is Here!**](https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-5-Is-Here) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "MtemBtq",
+              "title": "**Xamarin.Forms 5 Is Here!**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-5-Is-Here"
+            },
+            {
+              "identifier": "bhFNBBu",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "Eac8jy0",
+          "type": "Link",
+          "title": "DevTalk 48: Moving from Xamarin.iOS to Swift. With Damian Mehers",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-48-damian-mehers/",
+          "description": "<p>On this episode of DevTalk I speak to Damian Mehers about applying your Xamarin.iOS knowledge using Apple’s Swift.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-48-damian-mehers/\"><strong>48: Moving from Xamarin.iOS to Swift. With Damian Mehers</strong></a> by <a href=\"https://twitter.com/kwlothrop/\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk I speak to Damian Mehers about applying your Xamarin.iOS knowledge using Apple’s Swift.\r\n\r\n[**48: Moving from Xamarin.iOS to Swift. With Damian Mehers**](https://kerry.lothrop.de/devtalk-48-damian-mehers/) by [Kerry Lothrop](https://twitter.com/kwlothrop/)",
+          "embedded_links": [
+            {
+              "identifier": "T13chuW",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop/"
+            },
+            {
+              "identifier": "a4W26zC",
+              "title": "**48: Moving from Xamarin.iOS to Swift. With Damian Mehers**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-48-damian-mehers/"
+            }
+          ]
+        },
+        {
+          "identifier": "XouFcmq",
+          "type": "Link",
+          "title": "The Xamarin Podcast: Seeing AI",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/80",
+          "description": "<p>Seeing AI is an app for iOS that narrates the world around you. And it's built with Xamarin and Azure. In this episode of the Xamarin Podcast, Matt talks to the folks behind Seeing AI. The history of the app, how it was built, and the challenges and successes encountered along the way.</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/80\"><strong>Seeing AI</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "Seeing AI is an app for iOS that narrates the world around you. And it's built with Xamarin and Azure. In this episode of the Xamarin Podcast, Matt talks to the folks behind Seeing AI. The history of the app, how it was built, and the challenges and successes encountered along the way.\r\n\r\n[**Seeing AI**](https://www.xamarinpodcast.com/80) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)",
+          "embedded_links": [
+            {
+              "identifier": "aSZr7s1",
+              "title": "**Seeing AI**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/80"
+            },
+            {
+              "identifier": "ow5uCmk",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        },
+        {
+          "identifier": "f8CqdjF",
+          "type": "Link",
+          "title": "MergeConflict 224: iPhone 12 is here with magnets!",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/224",
+          "description": "<p>That is right, we are back with another full breakdown of a lovely apple event. This time it is the Apple Homepod Mini and iPhone 12 event.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/224\"><strong>224: iPhone 12 is here with magnets!</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "That is right, we are back with another full breakdown of a lovely apple event. This time it is the Apple Homepod Mini and iPhone 12 event.\r\n\r\n[**224: iPhone 12 is here with magnets!**](https://www.mergeconflict.fm/224) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "zOBNWGP",
+              "title": "**224: iPhone 12 is here with magnets!**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/224"
+            },
+            {
+              "identifier": "4g5nwkA",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

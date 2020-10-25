@@ -1,0 +1,137 @@
+{
+  "Id": "282",
+  "Name": "Issue 282",
+  "UpdatedTimeStamp": "2020-10-24T01:04:53Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "It's the weekend and that means it's time to relax and enjoy another edition of Weekly Xamarin.  Xamarin.Forms 5.0 is getting closer and the Xamarin Community Toolkit is getting some great updates.  We are mid way through Hacktober, but there is  still time to help contribute to these projects. Have a great weekend everyone. ♥ Kym",
+  "PublishDate": "2020-10-24T01:04:50Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Improving our design system through Dark Mode",
+      "Url": "https://codeascraft.com/2020/10/21/improving-our-design-system-through-dark-mode/",
+      "Description": "Etsy recently launched Dark Mode in our iOS and Android buyer apps. Since Dark Mode was introduced system-wide last year in iOS 13 and Android 10, it has quickly become a highly requested feature by our users and an industry standard.",
+      "EditionId": "282",
+      "Author": "Stephanie Sharp",
+      "Id": "282-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Query & Interact with Apps in Android 11 with Package Visibility",
+      "Url": "https://devblogs.microsoft.com/xamarin/android-11-package-visibility/",
+      "Description": "Android 11 introduced several exciting updates for developers to integrate into their app experience including new device and media controls, enhanced support for foldables, and a lot more. In addition to new features there are also several privacy enhancements that developers need to integrate into their application when upgraded and re-targeting to Android 11.",
+      "EditionId": "282",
+      "Author": "James Montemagno",
+      "Id": "282-2",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "iPhone 12 Screen Sizes",
+      "Url": "https://hacknicity.medium.com/how-ios-apps-adapt-to-the-various-iphone-12-screen-sizes-e45c021e1b8b",
+      "Description": "Screen size fragmentation used to only be a problem for Android developers. Now Apple has released the same feature. ;-)  This is a useful article if you want your app to adapt to that new shiny apple hardware.",
+      "EditionId": "282",
+      "Author": "Geoff Hackworth",
+      "Id": "282-3",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Background Location Updates in iOS",
+      "Url": "https://www.xamboy.com/2020/10/19/battery-efficient-background-time-based-location-updates-on-ios/",
+      "Description": "In this article, Rendy will show you how to get background time-based location updates by using a DispatchSourceTimer. It is the lowest level background timer API that gives you more control over the time interval and provides adjustments parameters for energy efficiency.",
+      "EditionId": "282",
+      "Author": "Rendy Del Rosario",
+      "Id": "282-4",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Bringing .NET extensions to Xamarin.Forms",
+      "Url": "https://www.spatial-focus.net/blog/bringing-net-extensions-to-xamarin-forms",
+      "Description": "This blog post will show you a way of integrating configuration, dependency injection, logging and localization of the .NET extensions stack into your Xamarin.Forms application.",
+      "EditionId": "282",
+      "Author": "Christopher Dresel",
+      "Id": "282-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Adding Shortcuts with Xamarin Essentials",
+      "Url": "https://askxammy.com/adding-shortcuts-with-xamarin-essentials/",
+      "Description": "Leomaris shows how to use a new feature in Xamarin Essentials to add shortcuts for your app on the home-screen.",
+      "EditionId": "282",
+      "Author": "Leomaris Reyes",
+      "Id": "282-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Custom Visual State triggers and Control Templates",
+      "Url": "https://depblog.weblogs.us/2020/10/19/xamarin-forms-custom-visual-state-triggers-and-control-templates/",
+      "Description": "Glenn Versweyveld digs into Custom Visual State triggers and Control Templates in Xamarin.Forms to be able to show a different view of some data by swapping the style of a ContentView while using Control Template.",
+      "EditionId": "282",
+      "Author": "Glenn Versweyveld",
+      "Id": "282-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Adding Dark Theme Support for Xamarin Forms Shell",
+      "Url": "https://mitchelsellers.com/blog/article/adding-dark-theme-support-for-xamarin-forms-shell",
+      "Description": "Xamarin Forms has had support for Dark Mode for a while now. However, how it is supported has changed.  This blog post digs in a little more.",
+      "EditionId": "282",
+      "Author": "Mitchel Sellers",
+      "Id": "282-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "OTP Auto-Fill Entry for iOS",
+      "Url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/otp-auto-fill-entry-for-ios-with-xamarin-forms/",
+      "Description": "Gerald shows how you can implement One Time Password (OTP) support to your Xamarin.Forms iOS Apps.",
+      "EditionId": "282",
+      "Author": "Gerald Versluis",
+      "Id": "282-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "In-app reviews for your Android apps",
+      "Url": "https://devblogs.microsoft.com/xamarin/android-in-app-reviews/",
+      "Description": "In Android you can now enable users to provide in-app reviews.  Who knew? Sameer did and in this post he shows how  with just a few lines of code you can bring this feature to your apps.",
+      "EditionId": "282",
+      "Author": "Saamer Mansoor",
+      "Id": "282-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms 5 Is Here!",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-5-Is-Here",
+      "Description": "This week, James is joined by David Ortinau, Xamarin Principal Program Manager, who is here to talk about all of the goodies that are available in the brand new release Xamarin.Forms 5.0! He walks us through what is in, what is out, and what are the major themes of the release.",
+      "EditionId": "282",
+      "Author": "The Xamarin Show",
+      "Id": "282-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 48: Moving from Xamarin.iOS to Swift. With Damian Mehers",
+      "Url": "https://kerry.lothrop.de/devtalk-48-damian-mehers/",
+      "Description": "On this episode of DevTalk I speak to Damian Mehers about applying your Xamarin.iOS knowledge using Apple’s Swift.",
+      "EditionId": "282",
+      "Author": "Kerry Lothrop",
+      "Id": "282-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Podcast: Seeing AI",
+      "Url": "https://www.xamarinpodcast.com/80",
+      "Description": "Seeing AI is an app for iOS that narrates the world around you. And it's built with Xamarin and Azure. In this episode of the Xamarin Podcast, Matt talks to the folks behind Seeing AI. The history of the app, how it was built, and the challenges and successes encountered along the way.",
+      "EditionId": "282",
+      "Author": "The Xamarin Podcast",
+      "Id": "282-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "MergeConflict 224: iPhone 12 is here with magnets!",
+      "Url": "https://www.mergeconflict.fm/224",
+      "Description": "That is right, we are back with another full breakdown of a lovely apple event. This time it is the Apple Homepod Mini and iPhone 12 event.",
+      "EditionId": "282",
+      "Author": "Merge Conflict",
+      "Id": "282-14",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

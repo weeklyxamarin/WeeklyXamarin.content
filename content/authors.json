@@ -475,6 +475,16 @@
       "Website": "https://crswlls.wordpress.com"
     },
     {
+      "Name": "Christopher Dresel",
+      "Id": "https://www.spatial-focus.net/blog/author/e215da98-13e9-4cba-bcc8-b3b7d092c6f4",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.spatial-focus.net/blog/author/e215da98-13e9-4cba-bcc8-b3b7d092c6f4"
+        }
+      ]
+    },
+    {
       "Name": "Christos Matskas",
       "Id": "https://devblogs.microsoft.com/xamarin/author/chmatskmicrosoft-com/",
       "Aliases": [
@@ -836,6 +846,16 @@
       "Website": "https://mobilefirstcloudfirst.net"
     },
     {
+      "Name": "Geoff Hackworth",
+      "Id": "https://hacknicity.medium.com/@hacknicity",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://hacknicity.medium.com/@hacknicity"
+        }
+      ]
+    },
+    {
       "Name": "Gerald Versluis",
       "TwitterHandle": "jfversluis",
       "GitHubHandle": "jfversluis",
@@ -872,6 +892,16 @@
         {
           "Type": "blog",
           "Name": "https://medium.com/@glennstephens_98130"
+        }
+      ]
+    },
+    {
+      "Name": "Glenn Versweyveld",
+      "Id": "https://twitter.com/depechie",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/depechie"
         }
       ]
     },
@@ -1726,6 +1756,16 @@
       "Website": "https://progrunning.net"
     },
     {
+      "Name": "Mitchel Sellers",
+      "Id": "https://twitter.com/mitchelsellers",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/mitchelsellers"
+        }
+      ]
+    },
+    {
       "Name": "Mobile-Angel",
       "Id": "https://mobile-angel.com/author/mobile-angel/",
       "Aliases": [
@@ -2197,6 +2237,16 @@
       "GitHubHandle": "StefanRiedmann",
       "Id": "https://twitter.com/CicloSoftware",
       "Website": "https://www.ciclosoftware.com"
+    },
+    {
+      "Name": "Stephanie Sharp",
+      "Id": "https://codeascraft.com/author/ssharp/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://codeascraft.com/author/ssharp/"
+        }
+      ]
     },
     {
       "Name": "Stephen Marcus",
