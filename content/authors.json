@@ -294,19 +294,6 @@
       "Website": "https://www.basdecort.com"
     },
     {
-      "Name": "Bence Lenart",
-      "TwitterHandle": "officialdoniald",
-      "GitHubHandle": "officialdoniald",
-      "Id": "https://github.com/officialdoniald/",
-      "Aliases": [
-        {
-          "Type": "github",
-          "Name": "https://github.com/officialdoniald/"
-        }
-      ],
-      "Website": "https://officialdoniald.azurewebsites.net/"
-    },
-    {
       "Name": "Bill Leach",
       "Id": "https://devblogs.microsoft.com/xamarin/author/bill-leach/",
       "Aliases": [
@@ -803,6 +790,16 @@
       ]
     },
     {
+      "Name": "Hossein Raspberry",
+      "Id": "https://uxdesign.cc/@hosseinraspberry",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://uxdesign.cc/@hosseinraspberry"
+        }
+      ]
+    },
+    {
       "Name": "Hussain Abbasi",
       "TwitterHandle": "HussainNAbbasi",
       "GitHubHandle": "hnabbasi",
@@ -1169,6 +1166,23 @@
       ]
     },
     {
+      "Name": "Lénárt Bence",
+      "TwitterHandle": "officialdoniald",
+      "GitHubHandle": "officialdoniald",
+      "Id": "https://twitter.com/officialdoniald",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/officialdoniald"
+        },
+        {
+          "Type": "github",
+          "Name": "https://github.com/officialdoniald/"
+        }
+      ],
+      "Website": "https://officialdoniald.azurewebsites.net/"
+    },
+    {
       "Name": "Leomaris Reyes",
       "TwitterHandle": "leomarisreyes11",
       "GitHubHandle": "LeomarisReyes",
@@ -1532,6 +1546,16 @@
         {
           "Type": "blog",
           "Name": "https://mobile-angel.com/author/mobile-angel/"
+        }
+      ]
+    },
+    {
+      "Name": "Mohana Das",
+      "Id": "https://uxdesign.cc/@mohanadas.dsi",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://uxdesign.cc/@mohanadas.dsi"
         }
       ]
     },

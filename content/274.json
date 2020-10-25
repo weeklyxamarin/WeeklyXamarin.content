@@ -1,0 +1,145 @@
+{
+  "Id": "274",
+  "Name": "Issue 274",
+  "UpdatedTimeStamp": "2020-08-29T05:44:08Z",
+  "Summary": "This weeks posts in five words: Android, Design, Forms, Behaviors and Podcasts",
+  "Introduction": "This weeks posts in five words: Android, Design, Forms, Behaviors and Podcasts. Enjoy the weekend everyone! ❤  Kym",
+  "PublishDate": "2020-08-29T05:44:06Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Starting a Tech Blog",
+      "Url": "https://xamgirl.com/starting-my-tech-blog/",
+      "Description": "Charlin shares why you should start a blog, some ideas for things to write and finding motivation.",
+      "EditionId": "274",
+      "Author": "Charlin Agramonte",
+      "Id": "274-1",
+      "Category": "GETTING STARTED"
+    },
+    {
+      "Title": "Designing cards",
+      "Url": "https://uxdesign.cc/designing-cards-for-beginners-9ed9454d27f6",
+      "Description": "Card style views are a stable in Apps. But how do you design a good one?",
+      "EditionId": "274",
+      "Author": "Mohana Das",
+      "Id": "274-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "The 13 scientific principles every UXer needs to know",
+      "Url": "https://uxdesign.cc/the-13-scientific-principles-every-uxer-needs-to-know-b7c347d74351",
+      "Description": "What are the scientific reasons behind the choices you make? How many studies have been done? Where is the evidence? Isn’t it subjective?… Well, it isn’t!",
+      "EditionId": "274",
+      "Author": "Hossein Raspberry",
+      "Id": "274-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Bottom Bubble TabBar",
+      "Url": "https://officialdoniald.azurewebsites.net/2020/08/24/xamarin-android-bottom-bubble-tabbar/",
+      "Description": "How to create a cute little custom tab bar with bubbles in Xamarin.Android.",
+      "EditionId": "274",
+      "Author": "Lénárt Bence",
+      "Id": "274-4",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Automatic Grid Height",
+      "Url": "https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-automatic-grid-height/",
+      "Description": "Making your gridview heights scale automatically in Xamarin.Android.",
+      "EditionId": "274",
+      "Author": "Lénárt Bence",
+      "Id": "274-5",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Using SVG Images, VectorDrawable",
+      "Url": "https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-using-svg-images-via-vectordrawable/",
+      "Description": "By default, Android does not support svg. For this, they invented VectorDrawable, which can display svgs.",
+      "EditionId": "274",
+      "Author": "Lénárt Bence",
+      "Id": "274-6",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Xamarin.Android – Automatic ListView Height",
+      "Url": "https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-automatic-listview-height/",
+      "Description": "Discussing how to make Xamarin.Android ListView heights size automatically.",
+      "EditionId": "274",
+      "Author": "Lénárt Bence",
+      "Id": "274-7",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Xamarin Forms Month and Year Picker",
+      "Url": "https://medium.com/@benetskyybogdan/xamarin-forms-month-and-year-picker-105550772222",
+      "Description": "Sometimes we want to select a Date with Month, Day and a Year and we can go with global custom picker on Xamarin.Forms or in an easy way create a Native picker to makes the app more predictable and harmonious for users.",
+      "EditionId": "274",
+      "Author": "Bohdan Benetskyi",
+      "Id": "274-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Login, Onboarding, and similar scenarios in Xamarin Forms",
+      "Url": "https://luismts.com/shell-login-onboarding-xamarin-forms/",
+      "Description": "Luis discusses his findings around using shell for things like Login, Onboarding screens.",
+      "EditionId": "274",
+      "Author": "Luis Matos",
+      "Id": "274-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Drink and Food Menu UI in Xamarin.Forms",
+      "Url": "https://www.syncfusion.com/blogs/post/replicating-a-drink-and-food-menu-ui-in-xamarin-forms.aspx",
+      "Description": "Another nice UI design in Xamarin.Forms, this time how to build a drink menu UI.",
+      "EditionId": "274",
+      "Author": "Leomaris Reyes",
+      "Id": "274-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Mvvm Navigation for XAML Frameworks",
+      "Url": "https://nicksnettravels.builttoroam.com/viewmodel-navigation/",
+      "Description": "Nick thinks out loud about the approach for navigation within applications.",
+      "EditionId": "274",
+      "Author": "Nick Randolph",
+      "Id": "274-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Using and Creating Behaviors",
+      "Url": "https://www.youtube.com/watch?v=EKmj8Got_gE",
+      "Description": "Don't you wish you could add functionality to UI controls without having to subclass them and do all kinds of complex stuff? You can with Behaviors! In this video we see what Behaviors are. We will learn how to consume them in your own code, but also how to create them yourself!",
+      "EditionId": "274",
+      "Author": "Gerald Versluis",
+      "Id": "274-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 15: Xamarin Community Toolkit",
+      "Url": "https://nullpointers.io/15/",
+      "Description": "In this episode, we talk about the Xamarin Community Toolkit. You will get a scoop of the origins and how it came about. What the intentions are behind it and how it differs compared to the other well known Xamarin Essentials library. Be sure to tune in and have all the knowledge ready should the Xamarin Community Toolkit become the discussion topic of your next (remote) party.",
+      "EditionId": "274",
+      "Author": "Null Pointers",
+      "Id": "274-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Podcast: Drawing, VS2019, & Virtual Meetups",
+      "Url": "https://devblogs.microsoft.com/xamarin/drawing-xamarin-podcast/",
+      "Description": "Ever looked at your app and thought, “It needs some shapes or gradients to make the final touches”? Now with Xamarin.Forms 4.8, you can customize that design experience for your users. Tune-in to find out how you can draw any shape you want using Xamarin.Forms 4.8. Including adding in the content of an SVG file with the ease. [**Xamarin Podcast: Drawing, VS2019, & Virtual Meetups**](https://devblogs.microsoft.com/xamarin/drawing-xamarin-podcast/) And you need gradients? Xamarin.Forms has gradients too! This podcast episode has you covered.",
+      "EditionId": "274",
+      "Id": "274-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 216: GaaS - GUID as a Service",
+      "Url": "https://www.mergeconflict.fm/216",
+      "Description": "Everything you ever wanted to know or didn't think you wanted to know about GUIDs aka UUIDs.",
+      "EditionId": "274",
+      "Author": "Merge Conflict",
+      "Id": "274-15",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "274",
+      "Name": "Issue 274",
+      "UpdatedTimeStamp": "2020-08-29T05:44:08Z",
+      "Summary": "This weeks posts in five words: Android, Design, Forms, Behaviors and Podcasts",
+      "PublishDate": "2020-08-29T05:44:06Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "273",
       "Name": "Issue 273",
       "UpdatedTimeStamp": "2020-08-21T10:28:08Z",

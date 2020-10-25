@@ -1,0 +1,396 @@
+{
+  "number": 274,
+  "title": "Issue 274",
+  "summary": "This weeks posts in five words: Android, Design, Forms, Behaviors and Podcasts",
+  "url": "http://weeklyxamarin.com/issues/274",
+  "publication_status": "published",
+  "published_at": "2020-08-29T06:44:06+01:00",
+  "updated_at": "2020-08-29T06:44:08+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>This weeks posts in five words: Android, Design, Forms, Behaviors and Podcasts.</p>\n\n<p>Enjoy the weekend everyone!</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "This weeks posts in five words: Android, Design, Forms, Behaviors and Podcasts.\r\n\r\nEnjoy the weekend everyone!\r\n\r\n❤ \r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "gettingstarted",
+      "name": "GETTING STARTED",
+      "items": [
+        {
+          "identifier": "w8Nke7B",
+          "type": "Link",
+          "title": "Starting a Tech Blog",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/starting-my-tech-blog/",
+          "description": "<p>Charlin shares why you should start a blog, some ideas for things to write and finding motivation.</p>\n\n<p><a href=\"https://xamgirl.com/starting-my-tech-blog/\"><strong>Starting my Tech Blog</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "Charlin shares why you should start a blog, some ideas for things to write and finding motivation.\r\n\r\n[**Starting my Tech Blog**](https://xamgirl.com/starting-my-tech-blog/) by [Charlin Agramonte](https://twitter.com/chard003)",
+          "embedded_links": [
+            {
+              "identifier": "mUxPyoI",
+              "title": "**Starting my Tech Blog**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/starting-my-tech-blog/"
+            },
+            {
+              "identifier": "VM6V7QR",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "6ncqKQQ",
+          "type": "Link",
+          "title": "Designing cards",
+          "url_domain": "uxdesign.cc",
+          "url": "https://uxdesign.cc/designing-cards-for-beginners-9ed9454d27f6",
+          "description": "<p>Card style views are a stable in Apps. But how do you design a good one?</p>\n\n<p><a href=\"https://uxdesign.cc/designing-cards-for-beginners-9ed9454d27f6\"><strong>Designing cards</strong></a> by <a href=\"https://uxdesign.cc/@mohanadas.dsi\">Mohana Das</a></p>",
+          "description_markdown": "Card style views are a stable in Apps. But how do you design a good one?\r\n\r\n[**Designing cards**](https://uxdesign.cc/designing-cards-for-beginners-9ed9454d27f6) by [Mohana Das](https://uxdesign.cc/@mohanadas.dsi)",
+          "embedded_links": [
+            {
+              "identifier": "HxXynTW",
+              "title": "**Designing cards**",
+              "url_domain": "uxdesign.cc",
+              "url": "https://uxdesign.cc/designing-cards-for-beginners-9ed9454d27f6"
+            },
+            {
+              "identifier": "MQUPHDx",
+              "title": "Mohana Das",
+              "url_domain": "uxdesign.cc",
+              "url": "https://uxdesign.cc/@mohanadas.dsi"
+            }
+          ]
+        },
+        {
+          "identifier": "xcRLccB",
+          "type": "Link",
+          "title": "The 13 scientific principles every UXer needs to know",
+          "url_domain": "uxdesign.cc",
+          "url": "https://uxdesign.cc/the-13-scientific-principles-every-uxer-needs-to-know-b7c347d74351",
+          "description": "<p>What are the scientific reasons behind the choices you make? How many studies have been done? Where is the evidence? Isn’t it subjective?… Well, it isn’t!</p>\n\n<p><a href=\"https://uxdesign.cc/the-13-scientific-principles-every-uxer-needs-to-know-b7c347d74351\"><strong>The 13 scientific principles every UXer needs to know</strong></a> by <a href=\"https://uxdesign.cc/@hosseinraspberry\">Hossein Raspberry</a></p>",
+          "description_markdown": "What are the scientific reasons behind the choices you make? How many studies have been done? Where is the evidence? Isn’t it subjective?… Well, it isn’t!\r\n\r\n[**The 13 scientific principles every UXer needs to know**](https://uxdesign.cc/the-13-scientific-principles-every-uxer-needs-to-know-b7c347d74351) by [Hossein Raspberry](https://uxdesign.cc/@hosseinraspberry)",
+          "embedded_links": [
+            {
+              "identifier": "ouPkt0J",
+              "title": "**The 13 scientific principles every UXer needs to know**",
+              "url_domain": "uxdesign.cc",
+              "url": "https://uxdesign.cc/the-13-scientific-principles-every-uxer-needs-to-know-b7c347d74351"
+            },
+            {
+              "identifier": "JFa1A7O",
+              "title": "Hossein Raspberry",
+              "url_domain": "uxdesign.cc",
+              "url": "https://uxdesign.cc/@hosseinraspberry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "yjvlau4",
+          "type": "Link",
+          "title": "Bottom Bubble TabBar",
+          "url_domain": "azurewebsites.net",
+          "url": "https://officialdoniald.azurewebsites.net/2020/08/24/xamarin-android-bottom-bubble-tabbar/",
+          "description": "<p>How to create a cute little custom tab bar with bubbles in Xamarin.Android.</p>\n\n<p><a href=\"https://officialdoniald.azurewebsites.net/2020/08/24/xamarin-android-bottom-bubble-tabbar/\"><strong>Xamarin.Android – Bottom Bubble TabBar</strong></a> by <a href=\"https://twitter.com/officialdoniald\">Lénárt Bence</a></p>",
+          "description_markdown": "How to create a cute little custom tab bar with bubbles in Xamarin.Android.\r\n\r\n[**Xamarin.Android – Bottom Bubble TabBar**](https://officialdoniald.azurewebsites.net/2020/08/24/xamarin-android-bottom-bubble-tabbar/) by [Lénárt Bence](https://twitter.com/officialdoniald)",
+          "embedded_links": [
+            {
+              "identifier": "tMjWP40",
+              "title": "**Xamarin.Android – Bottom Bubble TabBar**",
+              "url_domain": "azurewebsites.net",
+              "url": "https://officialdoniald.azurewebsites.net/2020/08/24/xamarin-android-bottom-bubble-tabbar/"
+            },
+            {
+              "identifier": "HqKMPlc",
+              "title": "Lénárt Bence",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/officialdoniald"
+            }
+          ]
+        },
+        {
+          "identifier": "Cx5fKud",
+          "type": "Link",
+          "title": "Automatic Grid Height",
+          "url_domain": "azurewebsites.net",
+          "url": "https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-automatic-grid-height/",
+          "description": "<p>Making your gridview heights scale automatically in Xamarin.Android.</p>\n\n<p><a href=\"https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-automatic-grid-height/\"><strong>Xamarin.Android – Automatic Grid Height</strong></a> by <a href=\"https://twitter.com/officialdoniald\">Lénárt Bence</a></p>",
+          "description_markdown": "Making your gridview heights scale automatically in Xamarin.Android.\r\n\r\n[**Xamarin.Android – Automatic Grid Height**](https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-automatic-grid-height/) by [Lénárt Bence](https://twitter.com/officialdoniald)",
+          "embedded_links": [
+            {
+              "identifier": "flmYXQg",
+              "title": "**Xamarin.Android – Automatic Grid Height**",
+              "url_domain": "azurewebsites.net",
+              "url": "https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-automatic-grid-height/"
+            },
+            {
+              "identifier": "zWMgTQR",
+              "title": "Lénárt Bence",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/officialdoniald"
+            }
+          ]
+        },
+        {
+          "identifier": "qk0ur46",
+          "type": "Link",
+          "title": "Using SVG Images, VectorDrawable",
+          "url_domain": "azurewebsites.net",
+          "url": "https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-using-svg-images-via-vectordrawable/",
+          "description": "<p>By default, Android does not support svg. For this, they invented VectorDrawable, which can display svgs.</p>\n\n<p><a href=\"https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-using-svg-images-via-vectordrawable/\"><strong>Xamarin.Android – Using SVG Images, VectorDrawable</strong></a> by <a href=\"https://twitter.com/officialdoniald\">Lénárt Bence</a></p>",
+          "description_markdown": "By default, Android does not support svg. For this, they invented VectorDrawable, which can display svgs.\r\n\r\n[**Xamarin.Android – Using SVG Images, VectorDrawable**](https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-using-svg-images-via-vectordrawable/) by [Lénárt Bence](https://twitter.com/officialdoniald)",
+          "embedded_links": [
+            {
+              "identifier": "JJbbiJe",
+              "title": "Lénárt Bence",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/officialdoniald"
+            },
+            {
+              "identifier": "FrUGKZg",
+              "title": "**Xamarin.Android – Using SVG Images, VectorDrawable**",
+              "url_domain": "azurewebsites.net",
+              "url": "https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-using-svg-images-via-vectordrawable/"
+            }
+          ]
+        },
+        {
+          "identifier": "L6Xbh20",
+          "type": "Link",
+          "title": "Xamarin.Android – Automatic ListView Height",
+          "url_domain": "azurewebsites.net",
+          "url": "https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-automatic-listview-height/",
+          "description": "<p>Discussing how to make Xamarin.Android ListView heights size automatically.</p>\n\n<p><a href=\"https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-automatic-listview-height/\"><strong>Xamarin.Android – Automatic ListView Height</strong></a> by <a href=\"https://twitter.com/officialdoniald\">Lénárt Bence</a></p>",
+          "description_markdown": "Discussing how to make Xamarin.Android ListView heights size automatically.\r\n\r\n[**Xamarin.Android – Automatic ListView Height**](https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-automatic-listview-height/) by [Lénárt Bence](https://twitter.com/officialdoniald)",
+          "embedded_links": [
+            {
+              "identifier": "amG1boL",
+              "title": "**Xamarin.Android – Automatic ListView Height**",
+              "url_domain": "azurewebsites.net",
+              "url": "https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-automatic-listview-height/"
+            },
+            {
+              "identifier": "LdmteOX",
+              "title": "Lénárt Bence",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/officialdoniald"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "vzuZKNG",
+          "type": "Link",
+          "title": "Xamarin Forms Month and Year Picker",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@benetskyybogdan/xamarin-forms-month-and-year-picker-105550772222",
+          "description": "<p>Sometimes we want to select a Date with Month, Day and a Year and we can go with global custom picker on Xamarin.Forms or in an easy way create a Native picker to makes the app more predictable and harmonious for users.</p>\n\n<p><a href=\"https://medium.com/@benetskyybogdan/xamarin-forms-month-and-year-picker-105550772222\"><strong>Xamarin Forms Month and Year Picker</strong></a> by <a href=\"https://medium.com/@benetskyybogdan\">Bohdan Benetskyi</a></p>",
+          "description_markdown": "Sometimes we want to select a Date with Month, Day and a Year and we can go with global custom picker on Xamarin.Forms or in an easy way create a Native picker to makes the app more predictable and harmonious for users.\r\n\r\n[**Xamarin Forms Month and Year Picker**](https://medium.com/@benetskyybogdan/xamarin-forms-month-and-year-picker-105550772222) by [Bohdan Benetskyi](https://medium.com/@benetskyybogdan)",
+          "embedded_links": [
+            {
+              "identifier": "zji0CUa",
+              "title": "**Xamarin Forms Month and Year Picker**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@benetskyybogdan/xamarin-forms-month-and-year-picker-105550772222"
+            },
+            {
+              "identifier": "OdNrYw6",
+              "title": "Bohdan Benetskyi",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@benetskyybogdan"
+            }
+          ]
+        },
+        {
+          "identifier": "vWpMvaA",
+          "type": "Link",
+          "title": "Login, Onboarding, and similar scenarios in Xamarin Forms",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/shell-login-onboarding-xamarin-forms/",
+          "description": "<p>Luis discusses his findings around using shell for things like Login, Onboarding screens.</p>\n\n<p><a href=\"https://luismts.com/shell-login-onboarding-xamarin-forms/\"><strong>Shell: How to do Login, Onboarding, and similar scenarios in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Luis discusses his findings around using shell for things like Login, Onboarding screens.\r\n\r\n[**Shell: How to do Login, Onboarding, and similar scenarios in Xamarin Forms**](https://luismts.com/shell-login-onboarding-xamarin-forms/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "DSSvoyD",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            },
+            {
+              "identifier": "7xOuHQi",
+              "title": "**Shell: How to do Login, Onboarding, and similar scenarios in Xamarin Forms**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/shell-login-onboarding-xamarin-forms/"
+            }
+          ]
+        },
+        {
+          "identifier": "O26IHy9",
+          "type": "Link",
+          "title": "Drink and Food Menu UI in Xamarin.Forms",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/replicating-a-drink-and-food-menu-ui-in-xamarin-forms.aspx",
+          "description": "<p>Another nice UI design in Xamarin.Forms, this time how to build a drink menu UI.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/replicating-a-drink-and-food-menu-ui-in-xamarin-forms.aspx\"><strong>Replicating a Drink and Food Menu UI in Xamarin.Forms</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/lreyesstemelle-com\">Leomaris Reyes</a></p>",
+          "description_markdown": "Another nice UI design in Xamarin.Forms, this time how to build a drink menu UI.\r\n\r\n[**Replicating a Drink and Food Menu UI in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/replicating-a-drink-and-food-menu-ui-in-xamarin-forms.aspx) by [Leomaris Reyes](https://www.syncfusion.com/blogs/author/lreyesstemelle-com)",
+          "embedded_links": [
+            {
+              "identifier": "z5J6BMv",
+              "title": "**Replicating a Drink and Food Menu UI in Xamarin.Forms**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/replicating-a-drink-and-food-menu-ui-in-xamarin-forms.aspx"
+            },
+            {
+              "identifier": "BfcIeYB",
+              "title": "Leomaris Reyes",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/lreyesstemelle-com"
+            }
+          ]
+        },
+        {
+          "identifier": "igyTUIw",
+          "type": "Link",
+          "title": "Mvvm Navigation for XAML Frameworks",
+          "url_domain": "builttoroam.com",
+          "url": "https://nicksnettravels.builttoroam.com/viewmodel-navigation/",
+          "description": "<p>Nick thinks out loud about the approach for navigation within applications.</p>\n\n<p><a href=\"https://nicksnettravels.builttoroam.com/viewmodel-navigation/\"><strong>Thinking Out Loud: Mvvm Navigation for XAML Frameworks such as Xamarin.Forms, UWP/WinUI, WPF and Uno</strong></a> by <a href=\"https://nicksnettravels.builttoroam.com/author/nick/\">Nick</a></p>",
+          "description_markdown": "Nick thinks out loud about the approach for navigation within applications.\r\n\r\n[**Thinking Out Loud: Mvvm Navigation for XAML Frameworks such as Xamarin.Forms, UWP/WinUI, WPF and Uno**](https://nicksnettravels.builttoroam.com/viewmodel-navigation/) by [Nick](https://nicksnettravels.builttoroam.com/author/nick/)",
+          "embedded_links": [
+            {
+              "identifier": "XqQHct5",
+              "title": "**Thinking Out Loud: Mvvm Navigation for XAML Frameworks such as Xamarin.Forms, UWP/WinUI, WPF and Uno**",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/viewmodel-navigation/"
+            },
+            {
+              "identifier": "A7iZ5U9",
+              "title": "Nick",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/author/nick/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "dThqnAO",
+          "type": "Link",
+          "title": "Using and Creating Behaviors",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=EKmj8Got_gE",
+          "description": "<p>Don't you wish you could add functionality to UI controls without having to subclass them and do all kinds of complex stuff? You can with Behaviors! In this video we see what Behaviors are. We will learn how to consume them in your own code, but also how to create them yourself!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=EKmj8Got_gE\"><strong>Using and Creating #Behaviors for your UI controls in #XamarinForms</strong></a> by <a href=\"https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw\">Gerald Versluis</a></p>",
+          "description_markdown": "Don't you wish you could add functionality to UI controls without having to subclass them and do all kinds of complex stuff? You can with Behaviors! In this video we see what Behaviors are. We will learn how to consume them in your own code, but also how to create them yourself!\r\n\r\n[**Using and Creating #Behaviors for your UI controls in #XamarinForms**](https://www.youtube.com/watch?v=EKmj8Got_gE) by [Gerald Versluis](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw)",
+          "embedded_links": [
+            {
+              "identifier": "BMIRjAh",
+              "title": "**Using and Creating #Behaviors for your UI controls in #XamarinForms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=EKmj8Got_gE"
+            },
+            {
+              "identifier": "vQp5G5W",
+              "title": "Gerald Versluis",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw"
+            }
+          ]
+        },
+        {
+          "identifier": "UyPhp1r",
+          "type": "Link",
+          "title": "Null Pointers 15: Xamarin Community Toolkit",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/15/",
+          "description": "<p>In this episode, we talk about the Xamarin Community Toolkit. You will get a scoop of the origins and how it came about. What the intentions are behind it and how it differs compared to the other well known Xamarin Essentials library. Be sure to tune in and have all the knowledge ready should the Xamarin Community Toolkit become the discussion topic of your next (remote) party.</p>\n\n<p><a href=\"https://nullpointers.io/15/\"><strong>15: Xamarin Community Toolkit – Null Pointers</strong></a> by <a href=\"https://nullpointers.io\">Null Pointers</a></p>",
+          "description_markdown": "In this episode, we talk about the Xamarin Community Toolkit. You will get a scoop of the origins and how it came about. What the intentions are behind it and how it differs compared to the other well known Xamarin Essentials library. Be sure to tune in and have all the knowledge ready should the Xamarin Community Toolkit become the discussion topic of your next (remote) party.\r\n\r\n[**15: Xamarin Community Toolkit – Null Pointers**](https://nullpointers.io/15/) by [Null Pointers](https://nullpointers.io)",
+          "embedded_links": [
+            {
+              "identifier": "PHmobAT",
+              "title": "**15: Xamarin Community Toolkit – Null Pointers**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/15/"
+            },
+            {
+              "identifier": "mPgDjVl",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io"
+            }
+          ]
+        },
+        {
+          "identifier": "MJtwtN4",
+          "type": "Link",
+          "title": "Xamarin Podcast: Drawing, VS2019, & Virtual Meetups",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/drawing-xamarin-podcast/",
+          "description": "<p>Ever looked at your app and thought, “It needs some shapes or gradients to make the final touches”? Now with Xamarin.Forms 4.8, you can customize that design experience for your users. Tune-in to find out how you can draw any shape you want using Xamarin.Forms 4.8. Including adding in the content of an SVG file with the ease.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/drawing-xamarin-podcast/\"><strong>Xamarin Podcast: Drawing, VS2019, &amp; Virtual Meetups</strong></a></p>\n\n<p>And you need gradients? Xamarin.Forms has gradients too! This podcast episode has you covered.</p>",
+          "description_markdown": "Ever looked at your app and thought, “It needs some shapes or gradients to make the final touches”? Now with Xamarin.Forms 4.8, you can customize that design experience for your users. Tune-in to find out how you can draw any shape you want using Xamarin.Forms 4.8. Including adding in the content of an SVG file with the ease.\r\n\r\n[**Xamarin Podcast: Drawing, VS2019, & Virtual Meetups**](https://devblogs.microsoft.com/xamarin/drawing-xamarin-podcast/)\r\n\r\nAnd you need gradients? Xamarin.Forms has gradients too! This podcast episode has you covered.",
+          "embedded_links": [
+            {
+              "identifier": "UtvulWN",
+              "title": "**Xamarin Podcast: Drawing, VS2019, & Virtual Meetups**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/drawing-xamarin-podcast/"
+            }
+          ]
+        },
+        {
+          "identifier": "TwWKSFO",
+          "type": "Link",
+          "title": "Merge Conflict: 216: GaaS - GUID as a Service",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/216",
+          "description": "<p>Everything you ever wanted to know or didn't think you wanted to know about GUIDs aka UUIDs.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/216\"><strong>Merge Conflict: 216: GaaS - GUID as a Service</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "Everything you ever wanted to know or didn't think you wanted to know about GUIDs aka UUIDs.\r\n\r\n[**Merge Conflict: 216: GaaS - GUID as a Service**](https://www.mergeconflict.fm/216) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "Utidhdp",
+              "title": "**Merge Conflict: 216: GaaS - GUID as a Service**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/216"
+            },
+            {
+              "identifier": "9v8Yn7w",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
