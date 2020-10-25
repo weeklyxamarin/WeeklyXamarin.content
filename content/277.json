@@ -1,0 +1,146 @@
+{
+  "Id": "277",
+  "Name": "Issue 277",
+  "UpdatedTimeStamp": "2020-09-18T12:09:23Z",
+  "Summary": ".NET 5, Maui, Videos, Design and Neomorphism",
+  "Introduction": "Happy Friday everyone. Another week full of articles and videos from the community.  Definitely enough to keep you busy during the weekend.   Speaking of the weekend, remember that [ReactiveUI Virtual Conf](https://www.rxuiconf.net/) is on this weekend so jump on that.  ❤ Kym",
+  "PublishDate": "2020-09-18T12:09:20Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Mobile App Redesign For Developers: Iconography & Magic Numbers",
+      "Url": "https://www.pujolsluis.com/mobile-app-redesign-for-developers-iconography-magic-numbers/",
+      "Description": "Even small details like adding Icons or providing the right amount of Spacing, can make a significant impact in our overall design and by doing so we can make a clean, coherent, and attractive UI for our users.",
+      "EditionId": "277",
+      "Author": "Luis Pujols",
+      "Id": "277-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Clean temp files and directories in your projects",
+      "Url": "https://medium.com/@prototypemakers/cleanbinobjdirectoriesxamarinprojects-de58f11d366d",
+      "Description": "Another approach for deleting the bin & obj folders in each sub-directory of your solution. This time with the added thrill of git command line.",
+      "EditionId": "277",
+      "Author": "Saamer Mansoor",
+      "Id": "277-2",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Neumorphic animations",
+      "Url": "https://www.jmparent.com/2020/09/16/neumorphic-animation-with-sharpnado-shadows/",
+      "Description": "This is a great little tip for creating animated concave and convex fancy buttons using our best friends Sharpnado.Shadows and PancakeView.",
+      "EditionId": "277",
+      "Author": "Jean-Marie Parent",
+      "Id": "277-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Video Background in Xamarin.Forms",
+      "Url": "https://iwritecodesometimes.net/2020/09/16/fullscreen-video-background-in-xamarin-forms/",
+      "Description": "How to create a full screen video background in Xamarin.Forms using the experimental Media Element.",
+      "EditionId": "277",
+      "Author": "Joe Meyer",
+      "Id": "277-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "MVVM With Xamarin.Forms and JetBrains Rider",
+      "Url": "https://khalidabuhakmeh.com/mvvm-with-xamarin-forms",
+      "Description": "Khalid looks at the Model View View Model (MVVM) pattern and how it changes a solution’s profile and his approach to building mobile experiences. Khalid is also using Jetbrains Rider, another popular IDE for developing Xamarin.Forms applications.",
+      "EditionId": "277",
+      "Author": "Khalid Abuhakmeh",
+      "Id": "277-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Animate A Mic Drop with Xamarin.Forms",
+      "Url": "https://khalidabuhakmeh.com/animate-a-mic-drop-with-xamarin-dot-forms",
+      "Description": "Khalid bashes together emojis and animation to create an animated mic drop. A useful article if you want to learn a bit about composing animations.",
+      "EditionId": "277",
+      "Author": "Khalid Abuhakmeh",
+      "Id": "277-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "The future of .NET Standard",
+      "Url": "https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/",
+      "Description": "Since .NET 5 was announced, many of you have asked what this means for .NET Standard and whether it will still be relevant. In this post, Immo Landwerth explains how .NET 5 improves code sharing and replaces .NET Standard. I’ll also cover the cases where you still need .NET Standard.",
+      "EditionId": "277",
+      "Author": "Immo Landwerth",
+      "Id": "277-7",
+      "Category": ".NET"
+    },
+    {
+      "Title": "Can Microsoft Finally Unify Desktop and Mobile Development?",
+      "Url": "https://medium.com/young-coder/can-microsoft-unify-desktop-and-mobile-34f08348178b",
+      "Description": "Microsoft has almost made it to the finish line with .NET 5, their ambitious platform unification project. For the first time since 2016 — when Microsoft introduced .NET Core and created a parallel track for cross-platform development — all .NET applications will be back together under one roof. What about Maui and .NET 6?",
+      "EditionId": "277",
+      "Author": "Matthew MacDonald",
+      "Id": "277-8",
+      "Category": ".NET"
+    },
+    {
+      "Title": "Building a Notifications client with Xamarin and Azure - Part 3",
+      "Url": "https://blog.allaroundazure.com/post/2020-08-03-building-a-push-notifications-client-using-azure-and-xamarin-part3/",
+      "Description": "The continuing adventures of building a Cross Platform Notification client for Xamarin with Azure.",
+      "EditionId": "277",
+      "Author": "Frank Boucher",
+      "Id": "277-9",
+      "Category": "AZURE"
+    },
+    {
+      "Title": "Gerald.Codes()",
+      "Url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw",
+      "Description": "Gerald has been pumping out so many good Xamarin bite sized videos recently that you should do yourself a favor and go check them out.",
+      "EditionId": "277",
+      "Author": "Gerald Versluis",
+      "Id": "277-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Toronto Mobile .NET Developers Meetup - Mobile App Redesign for Devs",
+      "Url": "https://www.youtube.com/watch?v=wUcf37JcXPI",
+      "Description": "Polishing and working with UI/UX design can feel intimidating and like we definitely need a Designer in our team to get out a production-ready app design. In this talk, you will be able to learn key tools, resources, and workflow you can use to start building clean and immersive app designs.",
+      "EditionId": "277",
+      "Author": "Toronto Mobile Developers",
+      "Id": "277-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Webinar - Xamarin, MAUI and the reactive MVVM between them",
+      "Url": "https://www.youtube.com/watch?v=o4p34vKXlNU",
+      "Description": "ReactiveUI is a MVVM framework based on Reactive Extensions, which are a cross language approach to functional programming. During this talk we will take a trip through Xamarin, MVVM, ReactiveUI and show the future state of Xamarin, MAUI.",
+      "EditionId": "277",
+      "Author": "Rodney Littles II",
+      "Id": "277-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Show - Xamarin.Forms Code Snippets",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-Code-Snippets",
+      "Description": "This week, James is joined by Damien Doumer, Microsoft MVP, who shows off some of his favorite code snippets for Xamarin.Forms and how you can create your own.",
+      "EditionId": "277",
+      "Author": "James Montemagno",
+      "Id": "277-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 18: AI",
+      "Url": "https://nullpointers.io/18/",
+      "Description": "Artificial Intelligence or AI for short is all around us it seems.",
+      "EditionId": "277",
+      "Author": "Null Pointers",
+      "Id": "277-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 219: Move over float, it is time for Half",
+      "Url": "https://www.mergeconflict.fm/219",
+      "Description": "Is it possible for us to talk about a new floating point time in .NET for 30 minutes and make it super fun? Find out!",
+      "EditionId": "277",
+      "Author": "Merge Conflict",
+      "Id": "277-15",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

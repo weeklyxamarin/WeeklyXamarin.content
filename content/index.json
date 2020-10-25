@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "277",
+      "Name": "Issue 277",
+      "UpdatedTimeStamp": "2020-09-18T12:09:23Z",
+      "Summary": ".NET 5, Maui, Videos, Design and Neomorphism",
+      "PublishDate": "2020-09-18T12:09:20Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "276",
       "Name": "Issue 276",
       "UpdatedTimeStamp": "2020-09-11T14:20:55Z",

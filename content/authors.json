@@ -719,6 +719,16 @@
       "Website": "https://blog.francois.raminosona.com/"
     },
     {
+      "Name": "Frank Boucher",
+      "Id": "https://twitter.com/fboucheros",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/fboucheros"
+        }
+      ]
+    },
+    {
       "Name": "Frank Krueger",
       "Id": "https://twitter.com/praeclarum",
       "Aliases": [
@@ -815,6 +825,16 @@
       "GitHubHandle": "hnabbasi",
       "Id": "https://twitter.com/HussainNAbbasi",
       "Website": "https://www.intelliabb.com/"
+    },
+    {
+      "Name": "Immo Landwerth",
+      "Id": "https://devblogs.microsoft.com/dotnet/author/terrajobstweb-de/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/dotnet/author/terrajobstweb-de/"
+        }
+      ]
     },
     {
       "Name": "Ione Souza Junior",
@@ -928,6 +948,16 @@
         }
       ],
       "Website": "https://www.sharpnado.com/"
+    },
+    {
+      "Name": "Jean-Marie Parent",
+      "Id": "https://www.jmparent.com/author/vkqzlqju83s2/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.jmparent.com/author/vkqzlqju83s2/"
+        }
+      ]
     },
     {
       "Name": "Jefferson Balivo",
@@ -1472,6 +1502,16 @@
       "Website": "https://dotnetdevaddict.co.za"
     },
     {
+      "Name": "Matthew MacDonald",
+      "Id": "https://medium.com/@prosetech",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@prosetech"
+        }
+      ]
+    },
+    {
       "Name": "Matthew Robbins",
       "Id": "https://twitter.com/matthewrdev",
       "Aliases": [
@@ -1839,6 +1879,16 @@
       "Website": "https://pumpingco.de/"
     },
     {
+      "Name": "Rodney Littles II",
+      "Id": "https://twitter.com/rlittlesii/",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/rlittlesii/"
+        }
+      ]
+    },
+    {
       "Name": "Roxana Jula",
       "Id": "https://twitter.com/roxanajula",
       "Aliases": [
@@ -2179,6 +2229,16 @@
         }
       ],
       "Website": "https://blog.ostebaronen.dk"
+    },
+    {
+      "Name": "Toronto Mobile Developers",
+      "Id": "https://www.youtube.com/channel/ucashuenpchri0aabp2qal6w",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.youtube.com/channel/ucashuenpchri0aabp2qal6w"
+        }
+      ]
     },
     {
       "Name": "Trailhead Technology",

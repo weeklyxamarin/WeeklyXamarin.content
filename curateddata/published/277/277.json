@@ -1,0 +1,413 @@
+{
+  "number": 277,
+  "title": "Issue 277",
+  "summary": ".NET 5, Maui, Videos, Design and Neomorphism",
+  "url": "http://weeklyxamarin.com/issues/277",
+  "publication_status": "published",
+  "published_at": "2020-09-18T13:09:20+01:00",
+  "updated_at": "2020-09-18T13:09:23+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday everyone.</p>\n\n<p>Another week full of articles and videos from the community.  Definitely enough to keep you busy during the weekend.</p>\n\n<p>Speaking of the weekend, remember that <a href=\"https://www.rxuiconf.net/\">ReactiveUI Virtual Conf</a> is on this weekend so jump on that.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Friday everyone.\r\n\r\nAnother week full of articles and videos from the community.  Definitely enough to keep you busy during the weekend.  \r\n\r\nSpeaking of the weekend, remember that [ReactiveUI Virtual Conf](https://www.rxuiconf.net/) is on this weekend so jump on that. \r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "6eTTdnE",
+              "title": "ReactiveUI Virtual Conf",
+              "url_domain": "rxuiconf.net",
+              "url": "https://www.rxuiconf.net/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "mThNYz1",
+          "type": "Link",
+          "title": "Mobile App Redesign For Developers: Iconography & Magic Numbers",
+          "url_domain": "pujolsluis.com",
+          "url": "https://www.pujolsluis.com/mobile-app-redesign-for-developers-iconography-magic-numbers/",
+          "description": "<p>Even small details like adding Icons or providing the right amount of Spacing, can make a significant impact in our overall design and by doing so we can make a clean, coherent, and attractive UI for our users.</p>\n\n<p><a href=\"https://www.pujolsluis.com/mobile-app-redesign-for-developers-iconography-magic-numbers/\"><strong>Mobile App Redesign For Developers: Iconography &amp; Magic Numbers</strong></a> by <a href=\"https://www.pujolsluis.com/author/admin/\">Luis Pujols</a></p>",
+          "description_markdown": "Even small details like adding Icons or providing the right amount of Spacing, can make a significant impact in our overall design and by doing so we can make a clean, coherent, and attractive UI for our users.\r\n\r\n[**Mobile App Redesign For Developers: Iconography & Magic Numbers**](https://www.pujolsluis.com/mobile-app-redesign-for-developers-iconography-magic-numbers/) by [Luis Pujols](https://www.pujolsluis.com/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "BpQgSyW",
+              "title": "**Mobile App Redesign For Developers: Iconography & Magic Numbers**",
+              "url_domain": "pujolsluis.com",
+              "url": "https://www.pujolsluis.com/mobile-app-redesign-for-developers-iconography-magic-numbers/"
+            },
+            {
+              "identifier": "QOE28xd",
+              "title": "Luis Pujols",
+              "url_domain": "pujolsluis.com",
+              "url": "https://www.pujolsluis.com/author/admin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "MXdfgWH",
+          "type": "Link",
+          "title": "Clean temp files and directories in your projects",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@prototypemakers/cleanbinobjdirectoriesxamarinprojects-de58f11d366d",
+          "description": "<p>Another approach for deleting the bin &amp; obj folders in each sub-directory of your solution. This time with the added thrill of git command line.</p>\n\n<p><a href=\"https://medium.com/@prototypemakers/cleanbinobjdirectoriesxamarinprojects-de58f11d366d\"><strong>Quickest way to clean temp files &amp; directories in Xamarin mobile projects</strong></a> by <a href=\"https://twitter.com/saamerm\">Saamer Mansoor</a></p>",
+          "description_markdown": "Another approach for deleting the bin & obj folders in each sub-directory of your solution. This time with the added thrill of git command line.\r\n\r\n[**Quickest way to clean temp files & directories in Xamarin mobile projects**](https://medium.com/@prototypemakers/cleanbinobjdirectoriesxamarinprojects-de58f11d366d) by [Saamer Mansoor](https://twitter.com/saamerm)",
+          "embedded_links": [
+            {
+              "identifier": "qvWkrXI",
+              "title": "**Quickest way to clean temp files & directories in Xamarin mobile projects**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prototypemakers/cleanbinobjdirectoriesxamarinprojects-de58f11d366d"
+            },
+            {
+              "identifier": "o5UgFJB",
+              "title": "Saamer Mansoor",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/saamerm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "B0F6a3Q",
+          "type": "Link",
+          "title": "Neumorphic animations",
+          "url_domain": "jmparent.com",
+          "url": "https://www.jmparent.com/2020/09/16/neumorphic-animation-with-sharpnado-shadows/",
+          "description": "<p>This is a great little tip for creating animated concave and convex fancy buttons using our best friends Sharpnado.Shadows and PancakeView.</p>\n\n<p><a href=\"https://www.jmparent.com/2020/09/16/neumorphic-animation-with-sharpnado-shadows/\"><strong>Neumorphic animation with Sharpnado.Shadows</strong></a> by <a href=\"https://www.jmparent.com/author/vkqzlqju83s2/\">Jean-Marie Parent</a></p>",
+          "description_markdown": "This is a great little tip for creating animated concave and convex fancy buttons using our best friends Sharpnado.Shadows and PancakeView.\r\n\r\n[**Neumorphic animation with Sharpnado.Shadows**](https://www.jmparent.com/2020/09/16/neumorphic-animation-with-sharpnado-shadows/) by [Jean-Marie Parent](https://www.jmparent.com/author/vkqzlqju83s2/)",
+          "embedded_links": [
+            {
+              "identifier": "tX20X4j",
+              "title": "**Neumorphic animation with Sharpnado.Shadows**",
+              "url_domain": "jmparent.com",
+              "url": "https://www.jmparent.com/2020/09/16/neumorphic-animation-with-sharpnado-shadows/"
+            },
+            {
+              "identifier": "UXT57Xz",
+              "title": "Jean-Marie Parent",
+              "url_domain": "jmparent.com",
+              "url": "https://www.jmparent.com/author/vkqzlqju83s2/"
+            }
+          ]
+        },
+        {
+          "identifier": "oG9PmI5",
+          "type": "Link",
+          "title": "Video Background in Xamarin.Forms",
+          "url_domain": "iwritecodesometimes.net",
+          "url": "https://iwritecodesometimes.net/2020/09/16/fullscreen-video-background-in-xamarin-forms/",
+          "description": "<p>How to create a full screen video background in Xamarin.Forms using the experimental Media Element.</p>\n\n<p><a href=\"https://iwritecodesometimes.net/2020/09/16/fullscreen-video-background-in-xamarin-forms/\"><strong>Fullscreen Video Background in Xamarin.Forms</strong></a> by <a href=\"https://iwritecodesometimes.net/author/jgh8597/\">Joe Meyer</a></p>",
+          "description_markdown": "How to create a full screen video background in Xamarin.Forms using the experimental Media Element.\r\n\r\n[**Fullscreen Video Background in Xamarin.Forms**](https://iwritecodesometimes.net/2020/09/16/fullscreen-video-background-in-xamarin-forms/) by [Joe Meyer](https://iwritecodesometimes.net/author/jgh8597/)",
+          "embedded_links": [
+            {
+              "identifier": "VLsAm35",
+              "title": "**Fullscreen Video Background in Xamarin.Forms**",
+              "url_domain": "iwritecodesometimes.net",
+              "url": "https://iwritecodesometimes.net/2020/09/16/fullscreen-video-background-in-xamarin-forms/"
+            },
+            {
+              "identifier": "a0JmNW",
+              "title": "Joe Meyer",
+              "url_domain": "iwritecodesometimes.net",
+              "url": "https://iwritecodesometimes.net/author/jgh8597/"
+            }
+          ]
+        },
+        {
+          "identifier": "jKRKAov",
+          "type": "Link",
+          "title": "MVVM With Xamarin.Forms and JetBrains Rider",
+          "url_domain": "khalidabuhakmeh.com",
+          "url": "https://khalidabuhakmeh.com/mvvm-with-xamarin-forms",
+          "description": "<p>Khalid looks at the Model View View Model (MVVM) pattern and how it changes a solution’s profile and his approach to building mobile experiences. Khalid is also using Jetbrains Rider, another popular IDE for developing Xamarin.Forms applications.</p>\n\n<p><a href=\"https://khalidabuhakmeh.com/mvvm-with-xamarin-forms\"><strong>MVVM With Xamarin.Forms and JetBrains Rider</strong></a> by <a href=\"https://twitter.com/buhakmeh\">Khalid Abuhakmeh</a></p>",
+          "description_markdown": "Khalid looks at the Model View View Model (MVVM) pattern and how it changes a solution’s profile and his approach to building mobile experiences. Khalid is also using Jetbrains Rider, another popular IDE for developing Xamarin.Forms applications.\r\n\r\n[**MVVM With Xamarin.Forms and JetBrains Rider**](https://khalidabuhakmeh.com/mvvm-with-xamarin-forms) by [Khalid Abuhakmeh](https://twitter.com/buhakmeh)",
+          "embedded_links": [
+            {
+              "identifier": "P5lM31j",
+              "title": "**MVVM With Xamarin.Forms and JetBrains Rider**",
+              "url_domain": "khalidabuhakmeh.com",
+              "url": "https://khalidabuhakmeh.com/mvvm-with-xamarin-forms"
+            },
+            {
+              "identifier": "7P7Sxrs",
+              "title": "Khalid Abuhakmeh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/buhakmeh"
+            }
+          ]
+        },
+        {
+          "identifier": "VTNxYj3",
+          "type": "Link",
+          "title": "Animate A Mic Drop with Xamarin.Forms",
+          "url_domain": "khalidabuhakmeh.com",
+          "url": "https://khalidabuhakmeh.com/animate-a-mic-drop-with-xamarin-dot-forms",
+          "description": "<p>Khalid bashes together emojis and animation to create an animated mic drop. A useful article if you want to learn a bit about composing animations.</p>\n\n<p><a href=\"https://khalidabuhakmeh.com/animate-a-mic-drop-with-xamarin-dot-forms\"><strong>Animate A Mic Drop With Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/buhakmeh\">Khalid Abuhakmeh</a></p>",
+          "description_markdown": "Khalid bashes together emojis and animation to create an animated mic drop. A useful article if you want to learn a bit about composing animations.\r\n\r\n[**Animate A Mic Drop With Xamarin.Forms**](https://khalidabuhakmeh.com/animate-a-mic-drop-with-xamarin-dot-forms) by [Khalid Abuhakmeh](https://twitter.com/buhakmeh)",
+          "embedded_links": [
+            {
+              "identifier": "s69NDk1",
+              "title": "**Animate A Mic Drop With Xamarin.Forms**",
+              "url_domain": "khalidabuhakmeh.com",
+              "url": "https://khalidabuhakmeh.com/animate-a-mic-drop-with-xamarin-dot-forms"
+            },
+            {
+              "identifier": "fUxIkkj",
+              "title": "Khalid Abuhakmeh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/buhakmeh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "net",
+      "name": ".NET",
+      "items": [
+        {
+          "identifier": "hMXktqN",
+          "type": "Link",
+          "title": "The future of .NET Standard",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/",
+          "description": "<p>Since .NET 5 was announced, many of you have asked what this means for .NET Standard and whether it will still be relevant. In this post, Immo Landwerth explains how .NET 5 improves code sharing and replaces .NET Standard. I’ll also cover the cases where you still need .NET Standard.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/\"><strong>The future of .NET Standard</strong></a> by <a href=\"https://devblogs.microsoft.com/dotnet/author/terrajobstweb-de/\">Immo Landwerth</a></p>",
+          "description_markdown": "Since .NET 5 was announced, many of you have asked what this means for .NET Standard and whether it will still be relevant. In this post, Immo Landwerth explains how .NET 5 improves code sharing and replaces .NET Standard. I’ll also cover the cases where you still need .NET Standard. \r\n\r\n[**The future of .NET Standard**](https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/) by [Immo Landwerth](https://devblogs.microsoft.com/dotnet/author/terrajobstweb-de/)",
+          "embedded_links": [
+            {
+              "identifier": "Sy1EmDP",
+              "title": "**The future of .NET Standard**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/"
+            },
+            {
+              "identifier": "66R36O9",
+              "title": "Immo Landwerth",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/author/terrajobstweb-de/"
+            }
+          ]
+        },
+        {
+          "identifier": "O7XYrPq",
+          "type": "Link",
+          "title": "Can Microsoft Finally Unify Desktop and Mobile Development?",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/young-coder/can-microsoft-unify-desktop-and-mobile-34f08348178b",
+          "description": "<p>Microsoft has almost made it to the finish line with .NET 5, their ambitious platform unification project. For the first time since 2016 — when Microsoft introduced .NET Core and created a parallel track for cross-platform development — all .NET applications will be back together under one roof. What about Maui and .NET 6?</p>\n\n<p><a href=\"https://medium.com/young-coder/can-microsoft-unify-desktop-and-mobile-34f08348178b\"><strong>The Long Wait: Can Microsoft Finally Unify Desktop and Mobile Development?</strong></a> by <a href=\"https://medium.com/@prosetech\">Matthew MacDonald</a></p>",
+          "description_markdown": "Microsoft has almost made it to the finish line with .NET 5, their ambitious platform unification project. For the first time since 2016 — when Microsoft introduced .NET Core and created a parallel track for cross-platform development — all .NET applications will be back together under one roof. What about Maui and .NET 6?\r\n\r\n[**The Long Wait: Can Microsoft Finally Unify Desktop and Mobile Development?**](https://medium.com/young-coder/can-microsoft-unify-desktop-and-mobile-34f08348178b) by [Matthew MacDonald](https://medium.com/@prosetech)",
+          "embedded_links": [
+            {
+              "identifier": "cq3aeW",
+              "title": "**The Long Wait: Can Microsoft Finally Unify Desktop and Mobile Development?**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/young-coder/can-microsoft-unify-desktop-and-mobile-34f08348178b"
+            },
+            {
+              "identifier": "q9hhZ2B",
+              "title": "Matthew MacDonald",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prosetech"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "azure",
+      "name": "AZURE",
+      "items": [
+        {
+          "identifier": "Aa7PP8i",
+          "type": "Link",
+          "title": "Building a Notifications client with Xamarin and Azure - Part 3",
+          "url_domain": "allaroundazure.com",
+          "url": "https://blog.allaroundazure.com/post/2020-08-03-building-a-push-notifications-client-using-azure-and-xamarin-part3/",
+          "description": "<p>The continuing adventures of building a Cross Platform Notification client for Xamarin with Azure.</p>\n\n<p><a href=\"https://blog.allaroundazure.com/post/2020-08-03-building-a-push-notifications-client-using-azure-and-xamarin-part3/\"><strong>Building a Notifications client with Xamarin and Azure - Part 3</strong></a> by <a href=\"https://twitter.com/fboucheros\">Frank Boucher</a></p>",
+          "description_markdown": "The continuing adventures of building a Cross Platform Notification client for Xamarin with Azure.\r\n\r\n[**Building a Notifications client with Xamarin and Azure - Part 3**](https://blog.allaroundazure.com/post/2020-08-03-building-a-push-notifications-client-using-azure-and-xamarin-part3/) by [Frank Boucher](https://twitter.com/fboucheros)",
+          "embedded_links": [
+            {
+              "identifier": "QkvexOo",
+              "title": "**Building a Notifications client with Xamarin and Azure - Part 3**",
+              "url_domain": "allaroundazure.com",
+              "url": "https://blog.allaroundazure.com/post/2020-08-03-building-a-push-notifications-client-using-azure-and-xamarin-part3/"
+            },
+            {
+              "identifier": "c2WNWGO",
+              "title": "Frank Boucher",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/fboucheros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "N2jDZ3V",
+          "type": "Link",
+          "title": "Gerald.Codes()",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw",
+          "description": "<p>Gerald has been pumping out so many good Xamarin bite sized videos recently that you should do yourself a favor and go check them out.</p>\n\n<p><a href=\"https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw\"><strong>Gerald Versluis' YouTube channel</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Gerald has been pumping out so many good Xamarin bite sized videos recently that you should do yourself a favor and go check them out.\r\n\r\n[**Gerald Versluis' YouTube channel**](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "QZaoYlT",
+              "title": "**Gerald Versluis' YouTube channel**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw"
+            },
+            {
+              "identifier": "60StLFw",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "WHDpZIv",
+          "type": "Link",
+          "title": "Toronto Mobile .NET Developers Meetup - Mobile App Redesign for Devs",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=wUcf37JcXPI",
+          "description": "<p>Polishing and working with UI/UX design can feel intimidating and like we definitely need a Designer in our team to get out a production-ready app design. In this talk, you will be able to learn key tools, resources, and workflow you can use to start building clean and immersive app designs.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=wUcf37JcXPI\"><strong>Toronto Mobile .NET Developers Meetup - 2020-09-15 - Mobile App Redesign for Devs - Luis Pujols</strong></a> by <a href=\"https://www.youtube.com/channel/UCASHUenPcHRI0Aabp2QAl6w\">Toronto Mobile Developers</a></p>",
+          "description_markdown": "Polishing and working with UI/UX design can feel intimidating and like we definitely need a Designer in our team to get out a production-ready app design. In this talk, you will be able to learn key tools, resources, and workflow you can use to start building clean and immersive app designs.\r\n\r\n[**Toronto Mobile .NET Developers Meetup - 2020-09-15 - Mobile App Redesign for Devs - Luis Pujols**](https://www.youtube.com/watch?v=wUcf37JcXPI) by [Toronto Mobile Developers](https://www.youtube.com/channel/UCASHUenPcHRI0Aabp2QAl6w)",
+          "embedded_links": [
+            {
+              "identifier": "FVlfPV",
+              "title": "**Toronto Mobile .NET Developers Meetup - 2020-09-15 - Mobile App Redesign for Devs - Luis Pujols**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=wUcf37JcXPI"
+            },
+            {
+              "identifier": "gb4jabQ",
+              "title": "Toronto Mobile Developers",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCASHUenPcHRI0Aabp2QAl6w"
+            }
+          ]
+        },
+        {
+          "identifier": "a5CJrVl",
+          "type": "Link",
+          "title": "Webinar - Xamarin, MAUI and the reactive MVVM between them",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=o4p34vKXlNU",
+          "description": "<p>ReactiveUI is a MVVM framework based on Reactive Extensions, which are a cross language approach to functional programming. During this talk we will take a trip through Xamarin, MVVM, ReactiveUI and show the future state of Xamarin, MAUI.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=o4p34vKXlNU\"><strong>Webinar - Xamarin, MAUI and the reactive MVVM between them</strong></a> by <a href=\"https://twitter.com/rlittlesii/\">Rodney Littles II</a></p>",
+          "description_markdown": "ReactiveUI is a MVVM framework based on Reactive Extensions, which are a cross language approach to functional programming. During this talk we will take a trip through Xamarin, MVVM, ReactiveUI and show the future state of Xamarin, MAUI.\r\n\r\n[**Webinar - Xamarin, MAUI and the reactive MVVM between them**](https://www.youtube.com/watch?v=o4p34vKXlNU) by [Rodney Littles II](https://twitter.com/rlittlesii/)",
+          "embedded_links": [
+            {
+              "identifier": "amBmuYX",
+              "title": "**Webinar - Xamarin, MAUI and the reactive MVVM between them**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=o4p34vKXlNU"
+            },
+            {
+              "identifier": "UyEDJBY",
+              "title": "Rodney Littles II",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rlittlesii/"
+            }
+          ]
+        },
+        {
+          "identifier": "7rhWDkZ",
+          "type": "Link",
+          "title": "The Xamarin Show - Xamarin.Forms Code Snippets",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-Code-Snippets",
+          "description": "<p>This week, James is joined by Damien Doumer, Microsoft MVP, who shows off some of his favorite code snippets for Xamarin.Forms and how you can create your own.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-Code-Snippets\"><strong>Xamarin.Forms Code Snippets</strong></a> by <a href=\"https://twitter.com/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by Damien Doumer, Microsoft MVP, who shows off some of his favorite code snippets for Xamarin.Forms and how you can create your own.\r\n\r\n[**Xamarin.Forms Code Snippets**](https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-Code-Snippets) by [James Montemagno](https://twitter.com/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "TI1syNE",
+              "title": "**Xamarin.Forms Code Snippets**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-Code-Snippets"
+            },
+            {
+              "identifier": "xM5cK3l",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "lXC5paK",
+          "type": "Link",
+          "title": "Null Pointers 18: AI",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/18/",
+          "description": "<p>Artificial Intelligence or AI for short is all around us it seems.</p>\n\n<p><a href=\"https://nullpointers.io/18/\"><strong>18: AI</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "Artificial Intelligence or AI for short is all around us it seems.\r\n\r\n[**18: AI**](https://nullpointers.io/18/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "RI8POiB",
+              "title": "**18: AI**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/18/"
+            },
+            {
+              "identifier": "TruRkw8",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "n8aUa1l",
+          "type": "Link",
+          "title": "Merge Conflict 219: Move over float, it is time for Half",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/219",
+          "description": "<p>Is it possible for us to talk about a new floating point time in .NET for 30 minutes and make it super fun? Find out!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/219\"><strong>219: Move over float, it is time for Half</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Is it possible for us to talk about a new floating point time in .NET for 30 minutes and make it super fun? Find out!\r\n\r\n[**219: Move over float, it is time for Half**](https://www.mergeconflict.fm/219) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "aadF5tq",
+              "title": "**219: Move over float, it is time for Half**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/219"
+            },
+            {
+              "identifier": "IgvnN4f",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
