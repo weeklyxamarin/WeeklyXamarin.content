@@ -1,0 +1,310 @@
+{
+  "number": 275,
+  "title": "Issue 275",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/275",
+  "publication_status": "published",
+  "published_at": "2020-09-04T21:16:21+01:00",
+  "updated_at": "2020-09-04T21:16:24+01:00",
+  "categories": [
+    {
+      "code": "lucecarter",
+      "name": "LUCE CARTER",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hey everyone,</p>\n\n<p>Happy Weekend!</p>\n\n<p>Another quiet issue this week but hopefully that means you are with your loved ones enjoying some quality time and relaxing!</p>\n\n<p>If you follow me on Twitter you may have seen my Tweet about it but I have a funny story for you. On Monday I was streaming over on Twitch, working on a Xamarin.Forms app that uses Cognitive Services and I was sure my code I was porting over from an old version was right, but it wasn't returning the emotion from a face in a photo to the results page like I was expecting. Was really confused then I realised..the label text colour was white and so was the background!</p>\n\n<p>Just remember this little tale if you ever find yourself hit by Imposter Syndrome. I'm qualified enough to be part of this newsletter and be a Microsoft MVP yet I failed to notice a label colour. We all make mistakes. Especially at a time when we are working from home more and not got our colleagues around to vent to as much, remember to be kind to yourselves and mistakes don't mean you're stupid, it means you're human!!</p>\n\n<p>Whatever you have planned, have a great week!</p>\n\n<p>Luce 🧡</p>",
+          "description_markdown": "Hey everyone,\r\n\r\nHappy Weekend!\r\n\r\nAnother quiet issue this week but hopefully that means you are with your loved ones enjoying some quality time and relaxing!\r\n\r\nIf you follow me on Twitter you may have seen my Tweet about it but I have a funny story for you. On Monday I was streaming over on Twitch, working on a Xamarin.Forms app that uses Cognitive Services and I was sure my code I was porting over from an old version was right, but it wasn't returning the emotion from a face in a photo to the results page like I was expecting. Was really confused then I realised..the label text colour was white and so was the background! \r\n\r\nJust remember this little tale if you ever find yourself hit by Imposter Syndrome. I'm qualified enough to be part of this newsletter and be a Microsoft MVP yet I failed to notice a label colour. We all make mistakes. Especially at a time when we are working from home more and not got our colleagues around to vent to as much, remember to be kind to yourselves and mistakes don't mean you're stupid, it means you're human!!\r\n\r\nWhatever you have planned, have a great week!\r\n\r\nLuce 🧡\r\n\r\n",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "GFBaS1I",
+          "type": "Link",
+          "title": "Thinking Out Loud: Mvvm Navigation for XAML Frameworks such as Xamarin.Forms, UWP/WinUI, WPF and Uno",
+          "url_domain": "builttoroam.com",
+          "url": "https://nicksnettravels.builttoroam.com/viewmodel-navigation/",
+          "description": "<p>Being able to drive navigation from your view models is a common scenario and one that is often why people use certain libraries. In this post Nick goes through a bit of a thought journey to look at some of the existing strategies for view model navigation, discuss the pros and cons, and then look at whether we can build an alternative.</p>\n\n<p><a href=\"https://nicksnettravels.builttoroam.com/viewmodel-navigation/\"><strong>Thinking Out Loud: Mvvm Navigation for XAML Frameworks</strong></a> by <a href=\"https://twitter.com/thenickrandolph\">Nick Randolph</a></p>",
+          "description_markdown": "Being able to drive navigation from your view models is a common scenario and one that is often why people use certain libraries. In this post Nick goes through a bit of a thought journey to look at some of the existing strategies for view model navigation, discuss the pros and cons, and then look at whether we can build an alternative.\r\n\r\n[**Thinking Out Loud: Mvvm Navigation for XAML Frameworks**](https://nicksnettravels.builttoroam.com/viewmodel-navigation/) by [Nick Randolph](https://twitter.com/thenickrandolph)",
+          "embedded_links": [
+            {
+              "identifier": "rVpvA6h",
+              "title": "**Thinking Out Loud: Mvvm Navigation for XAML Frameworks**",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/viewmodel-navigation/"
+            },
+            {
+              "identifier": "UH8ggUa",
+              "title": "Nick Randolph",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/thenickrandolph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "QUjbCHR",
+          "type": "Link",
+          "title": "The ultimate guide to search UX",
+          "url_domain": "uxdesign.cc",
+          "url": "https://uxdesign.cc/the-ultimate-guide-to-designing-for-an-end-to-end-search-ux-part-1-6e558adb10a",
+          "description": "<p>Like it or not, a Search UX is an integral part of any app UX these days. You might think that designing for a search experience is so easy — put a magnifier or a search bar on top of an app home page and be done with the job.</p>\n\n<p><a href=\"https://uxdesign.cc/the-ultimate-guide-to-designing-for-an-end-to-end-search-ux-part-1-6e558adb10a\"><strong>The ultimate guide to search UX</strong></a> by <a href=\"https://uxdesign.cc/@yuyan.duan\">Yuyan Duan</a></p>",
+          "description_markdown": "Like it or not, a Search UX is an integral part of any app UX these days. You might think that designing for a search experience is so easy — put a magnifier or a search bar on top of an app home page and be done with the job.\r\n\r\n[**The ultimate guide to search UX**](https://uxdesign.cc/the-ultimate-guide-to-designing-for-an-end-to-end-search-ux-part-1-6e558adb10a) by [Yuyan Duan](https://uxdesign.cc/@yuyan.duan)",
+          "embedded_links": [
+            {
+              "identifier": "ftx6bN2",
+              "title": "**The ultimate guide to search UX**",
+              "url_domain": "uxdesign.cc",
+              "url": "https://uxdesign.cc/the-ultimate-guide-to-designing-for-an-end-to-end-search-ux-part-1-6e558adb10a"
+            },
+            {
+              "identifier": "86SmGFW",
+              "title": "Yuyan Duan",
+              "url_domain": "uxdesign.cc",
+              "url": "https://uxdesign.cc/@yuyan.duan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "HqjoarB",
+          "type": "Link",
+          "title": "Xamarin Tips - Sreenshot your Android Phone from AD",
+          "url_domain": "mikegrant.org.uk",
+          "url": "https://www.mikegrant.org.uk/2020/09/03/xamarin-tips-screenshot-from-adb.html",
+          "description": "<p>I think it's fair to say that we often take screenshots of our apps for various reasons throughout the dev lifecycle. I know I am often doing it to show something I have done on Twitter, or to show an issue I am having. But did you know that the ADB command prompt will actually let you output a screenshot much faster? Mike shows you how!</p>\n\n<p><a href=\"https://www.mikegrant.org.uk/2020/09/03/xamarin-tips-screenshot-from-adb.html\"><strong>Xamarin Tips - Sreenshot your Android Phone from AD</strong></a> by <a href=\"http://mike_grant_\">Mike Grant</a></p>",
+          "description_markdown": "I think it's fair to say that we often take screenshots of our apps for various reasons throughout the dev lifecycle. I know I am often doing it to show something I have done on Twitter, or to show an issue I am having. But did you know that the ADB command prompt will actually let you output a screenshot much faster? Mike shows you how!\r\n\r\n[**Xamarin Tips - Sreenshot your Android Phone from AD**](https://www.mikegrant.org.uk/2020/09/03/xamarin-tips-screenshot-from-adb.html) by [Mike Grant](http://mike_grant_)",
+          "embedded_links": [
+            {
+              "identifier": "J6oxNum",
+              "title": "**Xamarin Tips - Sreenshot your Android Phone from AD**",
+              "url_domain": "mikegrant.org.uk",
+              "url": "https://www.mikegrant.org.uk/2020/09/03/xamarin-tips-screenshot-from-adb.html"
+            },
+            {
+              "identifier": "YkpTsaU",
+              "title": "Mike Grant",
+              "url_domain": ".mike_grant_",
+              "url": "http://mike_grant_"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "1yPZWr0",
+          "type": "Link",
+          "title": "Multi-Column UIPickerView in Xamarin Forms",
+          "url_domain": "iwritecodesometimes.net",
+          "url": "https://iwritecodesometimes.net/2020/09/03/multi-column-uipickerview-in-xamarin-forms/",
+          "description": "<p>It is always great to see examples of existing controls being evolved and this UIPickerView is a great example!</p>\n\n<p><a href=\"https://iwritecodesometimes.net/2020/09/03/multi-column-uipickerview-in-xamarin-forms/\"><strong>Multi-Column UIPickerView in Xamarin Forms</strong></a> by <a href=\"https://iwritecodesometimes.net/about/\">Joe Meyer</a></p>",
+          "description_markdown": "It is always great to see examples of existing controls being evolved and this UIPickerView is a great example!\r\n\r\n[**Multi-Column UIPickerView in Xamarin Forms**](https://iwritecodesometimes.net/2020/09/03/multi-column-uipickerview-in-xamarin-forms/) by [Joe Meyer](https://iwritecodesometimes.net/about/)",
+          "embedded_links": [
+            {
+              "identifier": "rOSLcKV",
+              "title": "**Multi-Column UIPickerView in Xamarin Forms**",
+              "url_domain": "iwritecodesometimes.net",
+              "url": "https://iwritecodesometimes.net/2020/09/03/multi-column-uipickerview-in-xamarin-forms/"
+            },
+            {
+              "identifier": "D32Y4UV",
+              "title": "Joe Meyer",
+              "url_domain": "iwritecodesometimes.net",
+              "url": "https://iwritecodesometimes.net/about/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "bZSVueV",
+          "type": "Link",
+          "title": "Xamarin Card Scan Plugin",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2020/08/31/xamarin-card-scan-plugin/",
+          "description": "<p>Over the past few months, Rendy has been writing about how to create a binding library and now shows us how to make a plugin that actually uses this binding. I am sure we have often used apps that let us take a photo of our card and it reads the details on it. Now you can learn how to do it in your apps!</p>\n\n<p><a href=\"https://www.xamboy.com/2020/08/31/xamarin-card-scan-plugin/\"><strong>Xamarin Card Scan Plugin</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "Over the past few months, Rendy has been writing about how to create a binding library and now shows us how to make a plugin that actually uses this binding. I am sure we have often used apps that let us take a photo of our card and it reads the details on it. Now you can learn how to do it in your apps!\r\n\r\n[**Xamarin Card Scan Plugin**](https://www.xamboy.com/2020/08/31/xamarin-card-scan-plugin/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "os5bEG9",
+              "title": "**Xamarin Card Scan Plugin**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2020/08/31/xamarin-card-scan-plugin/"
+            },
+            {
+              "identifier": "fZ8ZowW",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        },
+        {
+          "identifier": "U9JVpQX",
+          "type": "Link",
+          "title": "Shadows for Xamarin.Forms components creators",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/shadows-for-creators/",
+          "description": "<p>Shadows from Sharpnado is fantastic and there are already quite a few apps that take advantage of this. But did you know it is modular and you can actually use it in your own components?</p>\n\n<p><a href=\"https://www.sharpnado.com/shadows-for-creators/\"><strong>Shadows for Xamarin.Forms components creators</strong></a> by <a href=\"https://twitter.com/Piskariov\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "Shadows from Sharpnado is fantastic and there are already quite a few apps that take advantage of this. But did you know it is modular and you can actually use it in your own components?\r\n\r\n[**Shadows for Xamarin.Forms components creators**](https://www.sharpnado.com/shadows-for-creators/) by [Jean-Marie Alfonsi](https://twitter.com/Piskariov)",
+          "embedded_links": [
+            {
+              "identifier": "uqKjgQ3",
+              "title": "**Shadows for Xamarin.Forms components creators**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/shadows-for-creators/"
+            },
+            {
+              "identifier": "bz60DBL",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Piskariov"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "meetups",
+      "name": "MEETUPS",
+      "items": [
+        {
+          "identifier": "V2aIwIi",
+          "type": "Link",
+          "title": "Virtual Events in September to Discover!",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/september-dotnet-virtual-events/",
+          "description": "<p>Time to virtually tune-in to any event around the world to find amazing online events, streams, and recordings to watch this September! Discover new ways to stay active with your developer communities through upcoming .NET and Xamarin MeetUps. Get lots of exciting content provided by the teams at Microsoft and the global community. Read on to find out more about events this month, getting started with .NET, and information to help you host your own virtual experiences!  </p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/september-dotnet-virtual-events/\"><strong>Virtual Events in September to Discover!</strong></a></p>",
+          "description_markdown": "Time to virtually tune-in to any event around the world to find amazing online events, streams, and recordings to watch this September! Discover new ways to stay active with your developer communities through upcoming .NET and Xamarin MeetUps. Get lots of exciting content provided by the teams at Microsoft and the global community. Read on to find out more about events this month, getting started with .NET, and information to help you host your own virtual experiences!  \r\n\r\n[**Virtual Events in September to Discover!**](https://devblogs.microsoft.com/xamarin/september-dotnet-virtual-events/)",
+          "embedded_links": [
+            {
+              "identifier": "zhmKB0J",
+              "title": "**Virtual Events in September to Discover!**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/september-dotnet-virtual-events/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "Kyi6Vj",
+          "type": "Link",
+          "title": "Xamarin Community Standup - Sept 3rd 2020 - XAML Tooling Updates & Dual-screen Fun",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=9U2eyHSx7hQ",
+          "description": "<p>The team are back with this month's Xamarin Community Standup, complete with a special guest to talk about a certain device that was announced recently ;)</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=9U2eyHSx7hQ\"><strong>Xamarin Community Standup - Sept 3rd 2020 - XAML Tooling Updates &amp; Dual-screen Fun</strong></a></p>",
+          "description_markdown": "The team are back with this month's Xamarin Community Standup, complete with a special guest to talk about a certain device that was announced recently ;)\r\n\r\n[**Xamarin Community Standup - Sept 3rd 2020 - XAML Tooling Updates & Dual-screen Fun**](https://www.youtube.com/watch?v=9U2eyHSx7hQ)",
+          "embedded_links": [
+            {
+              "identifier": "AWgGldJ",
+              "title": "**Xamarin Community Standup - Sept 3rd 2020 - XAML Tooling Updates & Dual-screen Fun**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=9U2eyHSx7hQ"
+            }
+          ]
+        },
+        {
+          "identifier": "6jHjcNu",
+          "type": "Link",
+          "title": "16: Exceptions – Null Pointers",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/16/",
+          "description": "<p>All episodes of Null Pointers are great, and this episode is no exception. In this episode, exceptions are what it’s all about. Why should you care? How does exception handling even work internally? Should you care about handling exceptions? All good questions which are answered with a fair amount of dad jokes that get some pity laughs.</p>\n\n<p><a href=\"https://nullpointers.io/16/\"><strong>16: Exceptions – Null Pointers</strong></a> by <a href=\"http://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "All episodes of Null Pointers are great, and this episode is no exception. In this episode, exceptions are what it’s all about. Why should you care? How does exception handling even work internally? Should you care about handling exceptions? All good questions which are answered with a fair amount of dad jokes that get some pity laughs.\r\n\r\n[**16: Exceptions – Null Pointers**](https://nullpointers.io/16/) by [Null Pointers](http://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "WV4dsVm",
+              "title": "**16: Exceptions – Null Pointers**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/16/"
+            },
+            {
+              "identifier": "I3E9nlw",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "http://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "Rp29fYf",
+          "type": "Link",
+          "title": ".NET Maui!!! | Jesse Liberty",
+          "url_domain": "jesseliberty.com",
+          "url": "http://jesseliberty.com/2020/09/03/net-maui/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JesseLiberty-SilverlightGeek+%28Jesse+Liberty%29",
+          "description": "<p>Want to learn more about all things MAUI? Love podcasts? Then this episode from Jesse Liberty with some special guests is for you!</p>\n\n<p><a href=\"http://jesseliberty.com/2020/09/03/net-maui/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+JesseLiberty-SilverlightGeek+%28Jesse+Liberty%29\"><strong>.NET Maui!!!</strong></a> by <a href=\"http://jesseliberty.com/bio\">Jesse Liberty</a></p>",
+          "description_markdown": "Want to learn more about all things MAUI? Love podcasts? Then this episode from Jesse Liberty with some special guests is for you!\r\n\r\n[**.NET Maui!!!**](http://jesseliberty.com/2020/09/03/net-maui/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JesseLiberty-SilverlightGeek+%28Jesse+Liberty%29) by [Jesse Liberty](http://jesseliberty.com/bio)",
+          "embedded_links": [
+            {
+              "identifier": "LBp7rqM",
+              "title": "**.NET Maui!!!**",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/2020/09/03/net-maui/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JesseLiberty-SilverlightGeek+%28Jesse+Liberty%29"
+            },
+            {
+              "identifier": "ySCfJmR",
+              "title": "Jesse Liberty",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/bio"
+            }
+          ]
+        },
+        {
+          "identifier": "OpRMbCI",
+          "type": "Link",
+          "title": "Merge Conflict: 217: Frank's Custom Identity Service",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/217",
+          "description": "<p>Frank stands up against the entities of ASP.NET Core's built-in beautiful identity service powered by Entity Framework to do his own thing! How does it turn out? Tune in!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/217\"><strong>Merge Conflict: 217: Frank's Custom Identity Service</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "Frank stands up against the entities of ASP.NET Core's built-in beautiful identity service powered by Entity Framework to do his own thing! How does it turn out? Tune in!\r\n\r\n[**Merge Conflict: 217: Frank's Custom Identity Service**](https://www.mergeconflict.fm/217) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "hZsZ086",
+              "title": "**Merge Conflict: 217: Frank's Custom Identity Service**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/217"
+            },
+            {
+              "identifier": "o78GJQ2",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

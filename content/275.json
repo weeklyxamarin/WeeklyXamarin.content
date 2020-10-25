@@ -1,0 +1,108 @@
+{
+  "Id": "275",
+  "Name": "Issue 275",
+  "UpdatedTimeStamp": "2020-09-04T20:16:24Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hey everyone, Happy Weekend! Another quiet issue this week but hopefully that means you are with your loved ones enjoying some quality time and relaxing! If you follow me on Twitter you may have seen my Tweet about it but I have a funny story for you. On Monday I was streaming over on Twitch, working on a Xamarin.Forms app that uses Cognitive Services and I was sure my code I was porting over from an old version was right, but it wasn't returning the emotion from a face in a photo to the results page like I was expecting. Was really confused then I realised..the label text colour was white and so was the background!  Just remember this little tale if you ever find yourself hit by Imposter Syndrome. I'm qualified enough to be part of this newsletter and be a Microsoft MVP yet I failed to notice a label colour. We all make mistakes. Especially at a time when we are working from home more and not got our colleagues around to vent to as much, remember to be kind to yourselves and mistakes don't mean you're stupid, it means you're human!! Whatever you have planned, have a great week! Luce 🧡",
+  "PublishDate": "2020-09-04T20:16:21Z",
+  "Curators": "Luce Carter",
+  "Articles": [
+    {
+      "Title": "Thinking Out Loud: Mvvm Navigation for XAML Frameworks such as Xamarin.Forms, UWP/WinUI, WPF and Uno",
+      "Url": "https://nicksnettravels.builttoroam.com/viewmodel-navigation/",
+      "Description": "Being able to drive navigation from your view models is a common scenario and one that is often why people use certain libraries. In this post Nick goes through a bit of a thought journey to look at some of the existing strategies for view model navigation, discuss the pros and cons, and then look at whether we can build an alternative.",
+      "EditionId": "275",
+      "Author": "Nick Randolph",
+      "Id": "275-1",
+      "Category": "CODE"
+    },
+    {
+      "Title": "The ultimate guide to search UX",
+      "Url": "https://uxdesign.cc/the-ultimate-guide-to-designing-for-an-end-to-end-search-ux-part-1-6e558adb10a",
+      "Description": "Like it or not, a Search UX is an integral part of any app UX these days. You might think that designing for a search experience is so easy — put a magnifier or a search bar on top of an app home page and be done with the job.",
+      "EditionId": "275",
+      "Author": "Yuyan Duan",
+      "Id": "275-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Xamarin Tips - Sreenshot your Android Phone from AD",
+      "Url": "https://www.mikegrant.org.uk/2020/09/03/xamarin-tips-screenshot-from-adb.html",
+      "Description": "I think it's fair to say that we often take screenshots of our apps for various reasons throughout the dev lifecycle. I know I am often doing it to show something I have done on Twitter, or to show an issue I am having. But did you know that the ADB command prompt will actually let you output a screenshot much faster? Mike shows you how!",
+      "EditionId": "275",
+      "Author": "Mike Grant",
+      "Id": "275-3",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Multi-Column UIPickerView in Xamarin Forms",
+      "Url": "https://iwritecodesometimes.net/2020/09/03/multi-column-uipickerview-in-xamarin-forms/",
+      "Description": "It is always great to see examples of existing controls being evolved and this UIPickerView is a great example!",
+      "EditionId": "275",
+      "Author": "Joe Meyer",
+      "Id": "275-4",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Xamarin Card Scan Plugin",
+      "Url": "https://www.xamboy.com/2020/08/31/xamarin-card-scan-plugin/",
+      "Description": "Over the past few months, Rendy has been writing about how to create a binding library and now shows us how to make a plugin that actually uses this binding. I am sure we have often used apps that let us take a photo of our card and it reads the details on it. Now you can learn how to do it in your apps!",
+      "EditionId": "275",
+      "Author": "Rendy Del Rosario",
+      "Id": "275-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Shadows for Xamarin.Forms components creators",
+      "Url": "https://www.sharpnado.com/shadows-for-creators/",
+      "Description": "Shadows from Sharpnado is fantastic and there are already quite a few apps that take advantage of this. But did you know it is modular and you can actually use it in your own components?",
+      "EditionId": "275",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "275-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Virtual Events in September to Discover!",
+      "Url": "https://devblogs.microsoft.com/xamarin/september-dotnet-virtual-events/",
+      "Description": "Time to virtually tune-in to any event around the world to find amazing online events, streams, and recordings to watch this September! Discover new ways to stay active with your developer communities through upcoming .NET and Xamarin MeetUps. Get lots of exciting content provided by the teams at Microsoft and the global community. Read on to find out more about events this month, getting started with .NET, and information to help you host your own virtual experiences!   [**Virtual Events in September to Discover!**](https://devblogs.microsoft.com/xamarin/september-dotnet-virtual-events/)",
+      "EditionId": "275",
+      "Id": "275-7",
+      "Category": "MEETUPS"
+    },
+    {
+      "Title": "Xamarin Community Standup - Sept 3rd 2020 - XAML Tooling Updates & Dual-screen Fun",
+      "Url": "https://www.youtube.com/watch?v=9U2eyHSx7hQ",
+      "Description": "The team are back with this month's Xamarin Community Standup, complete with a special guest to talk about a certain device that was announced recently ;) [**Xamarin Community Standup - Sept 3rd 2020 - XAML Tooling Updates & Dual-screen Fun**](https://www.youtube.com/watch?v=9U2eyHSx7hQ)",
+      "EditionId": "275",
+      "Id": "275-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "16: Exceptions – Null Pointers",
+      "Url": "https://nullpointers.io/16/",
+      "Description": "All episodes of Null Pointers are great, and this episode is no exception. In this episode, exceptions are what it’s all about. Why should you care? How does exception handling even work internally? Should you care about handling exceptions? All good questions which are answered with a fair amount of dad jokes that get some pity laughs.",
+      "EditionId": "275",
+      "Author": "Null Pointers",
+      "Id": "275-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET Maui!!! | Jesse Liberty",
+      "Url": "http://jesseliberty.com/2020/09/03/net-maui/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JesseLiberty-SilverlightGeek+%28Jesse+Liberty%29",
+      "Description": "Want to learn more about all things MAUI? Love podcasts? Then this episode from Jesse Liberty with some special guests is for you!",
+      "EditionId": "275",
+      "Author": "Jesse Liberty",
+      "Id": "275-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 217: Frank's Custom Identity Service",
+      "Url": "https://www.mergeconflict.fm/217",
+      "Description": "Frank stands up against the entities of ASP.NET Core's built-in beautiful identity service powered by Entity Framework to do his own thing! How does it turn out? Tune in!",
+      "EditionId": "275",
+      "Author": "Merge Conflict",
+      "Id": "275-11",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

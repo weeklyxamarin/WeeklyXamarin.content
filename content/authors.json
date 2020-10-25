@@ -2299,6 +2299,16 @@
           "Name": "https://docs.microsoft.com/xamarin/tools/profiler/release-notes/"
         }
       ]
+    },
+    {
+      "Name": "Yuyan Duan",
+      "Id": "https://uxdesign.cc/@yuyan.duan",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://uxdesign.cc/@yuyan.duan"
+        }
+      ]
     }
   ]
 }
