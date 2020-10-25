@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "273",
+      "Name": "Issue 273",
+      "UpdatedTimeStamp": "2020-08-21T10:28:08Z",
+      "Summary": "Android Performance, Surface Do, Tools and Quizes",
+      "PublishDate": "2020-08-21T10:28:07Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "272",
       "Name": "Issue 272",
       "UpdatedTimeStamp": "2020-08-14T15:09:50Z",

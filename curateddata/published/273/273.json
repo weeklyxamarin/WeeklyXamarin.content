@@ -1,0 +1,362 @@
+{
+  "number": 273,
+  "title": "Issue 273",
+  "summary": "Android Performance, Surface Do, Tools and Quizes",
+  "url": "http://weeklyxamarin.com/issues/273",
+  "publication_status": "published",
+  "published_at": "2020-08-21T11:28:07+01:00",
+  "updated_at": "2020-08-21T11:28:08+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday everyone.</p>\n\n<p>This week we have great contributions from the community including: designing and developing for the Surface Duo, hidden tools in VS mac, performance tuning your Android apps, and a fun quiz.</p>\n\n<p>Have a wonderful weekend.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Friday everyone.\r\n\r\nThis week we have great contributions from the community including: designing and developing for the Surface Duo, hidden tools in VS mac, performance tuning your Android apps, and a fun quiz.\r\n\r\nHave a wonderful weekend.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "6kLrRck",
+          "type": "Link",
+          "title": "Designing for the Microsoft Surface Duo",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/microsoft-design/designing-for-the-microsoft-surface-duo-8a83f232100",
+          "description": "<p>With the upcoming release of the two screened Surface Duo, it's time to start thinking about how we might design experiences and apps for them.</p>\n\n<p><a href=\"https://medium.com/microsoft-design/designing-for-the-microsoft-surface-duo-8a83f232100\"><strong>Designing for the Microsoft Surface Duo</strong></a> by <a href=\"https://medium.com/@designjon\">Jon Friedman</a></p>",
+          "description_markdown": "With the upcoming release of the two screened Surface Duo, it's time to start thinking about how we might design experiences and apps for them.\r\n\r\n[**Designing for the Microsoft Surface Duo**](https://medium.com/microsoft-design/designing-for-the-microsoft-surface-duo-8a83f232100) by [Jon Friedman](https://medium.com/@designjon)",
+          "embedded_links": [
+            {
+              "identifier": "14bbV1K",
+              "title": "**Designing for the Microsoft Surface Duo**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/microsoft-design/designing-for-the-microsoft-surface-duo-8a83f232100"
+            },
+            {
+              "identifier": "PCHgpAf",
+              "title": "Jon Friedman",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@designjon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "4PXm6ii",
+          "type": "Link",
+          "title": "Visual Studio Mac Hidden Tools",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/using-visual-studio-mac-5-handy-hidden-tools",
+          "description": "<p>No matter how long you have been using Visual Studio Mac, there are still some hidden gems and features hiding behind hotkeys.</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/using-visual-studio-mac-5-handy-hidden-tools\"><strong>Using Visual Studio Mac: 5 Handy Hidden Tools</strong></a> by <a href=\"https://github.com/lachlanwgordon\">Lachlan Gordon</a></p>",
+          "description_markdown": "No matter how long you have been using Visual Studio Mac, there are still some hidden gems and features hiding behind hotkeys.\r\n\r\n[**Using Visual Studio Mac: 5 Handy Hidden Tools**](https://www.mfractor.com/blogs/news/using-visual-studio-mac-5-handy-hidden-tools) by [Lachlan Gordon](https://github.com/lachlanwgordon)",
+          "embedded_links": [
+            {
+              "identifier": "FN7WNQJ",
+              "title": "**Using Visual Studio Mac: 5 Handy Hidden Tools**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/using-visual-studio-mac-5-handy-hidden-tools"
+            },
+            {
+              "identifier": "675OH7k",
+              "title": "Lachlan Gordon",
+              "url_domain": "github.com",
+              "url": "https://github.com/lachlanwgordon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "J9KDI4N",
+          "type": "Link",
+          "title": "Measure performance in Xamarin.Android applications",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/performance-xamarin-android-apps/",
+          "description": "<p>Poor performance can be a huge detriment to a mobile application’s success. Users don’t want to see a splash screen for 10 seconds when using any app. They may get frustrated, abandon their shopping cart, or uninstall the app completely if kept waiting for too long.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/performance-xamarin-android-apps/\"><strong>Measure performance in Xamarin.Android applications : Xamarin Blog</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jopeppermicrosoft-com/\">Jonathan Peppers</a></p>",
+          "description_markdown": "Poor performance can be a huge detriment to a mobile application’s success. Users don’t want to see a splash screen for 10 seconds when using any app. They may get frustrated, abandon their shopping cart, or uninstall the app completely if kept waiting for too long.\r\n\r\n[**Measure performance in Xamarin.Android applications : Xamarin Blog**](https://devblogs.microsoft.com/xamarin/performance-xamarin-android-apps/) by [Jonathan Peppers](https://devblogs.microsoft.com/xamarin/author/jopeppermicrosoft-com/)",
+          "embedded_links": [
+            {
+              "identifier": "qs4qgYQ",
+              "title": "**Measure performance in Xamarin.Android applications : Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/performance-xamarin-android-apps/"
+            },
+            {
+              "identifier": "gp2atq2",
+              "title": "Jonathan Peppers",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jopeppermicrosoft-com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "m9E6ZSJ",
+          "type": "Link",
+          "title": "Templated Controls in Xamarin.Forms",
+          "url_domain": "dotnetdevaddict.co.za",
+          "url": "https://dotnetdevaddict.co.za/2020/08/16/templated-controls-in-xamarin-forms/",
+          "description": "<p>Sometimes you want to create that awesome control, but also want the user to be able to totally customize it… What do you do? Create a templated control! Xamarin.Forms has a pretty cool view that we can use: TemplatedView).</p>\n\n<p><a href=\"https://dotnetdevaddict.co.za/2020/08/16/templated-controls-in-xamarin-forms/\"><strong>Templated Controls in Xamarin.Forms</strong></a> by <a href=\"https://dotnetdevaddict.co.za/author/mattleibow/\">Matthew Leibowitz</a></p>",
+          "description_markdown": "Sometimes you want to create that awesome control, but also want the user to be able to totally customize it… What do you do? Create a templated control! Xamarin.Forms has a pretty cool view that we can use: TemplatedView).\r\n\r\n[**Templated Controls in Xamarin.Forms**](https://dotnetdevaddict.co.za/2020/08/16/templated-controls-in-xamarin-forms/) by [Matthew Leibowitz](https://dotnetdevaddict.co.za/author/mattleibow/)",
+          "embedded_links": [
+            {
+              "identifier": "gJPqom4",
+              "title": "**Templated Controls in Xamarin.Forms**",
+              "url_domain": "dotnetdevaddict.co.za",
+              "url": "https://dotnetdevaddict.co.za/2020/08/16/templated-controls-in-xamarin-forms/"
+            },
+            {
+              "identifier": "bReFfPn",
+              "title": "Matthew Leibowitz",
+              "url_domain": "dotnetdevaddict.co.za",
+              "url": "https://dotnetdevaddict.co.za/author/mattleibow/"
+            }
+          ]
+        },
+        {
+          "identifier": "occuNeD",
+          "type": "Link",
+          "title": "Microsoft Surface Duo developer training now on Microsoft Learn",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/surface-duo/xamarin-developer-training-on-microsoft-learn/",
+          "description": "<p>Microsoft Learn has a new module to help developers build apps for Surface Duo. The new module is called Build dual-screen Xamarin.Forms apps by using TwoPaneView.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/surface-duo/xamarin-developer-training-on-microsoft-learn/\"><strong>Microsoft Surface Duo developer training now on Microsoft Learn</strong></a> by <a href=\"https://devblogs.microsoft.com/surface-duo/author/craigdunn/\">Craig Dunn</a></p>",
+          "description_markdown": "Microsoft Learn has a new module to help developers build apps for Surface Duo. The new module is called Build dual-screen Xamarin.Forms apps by using TwoPaneView.\r\n\r\n[**Microsoft Surface Duo developer training now on Microsoft Learn**](https://devblogs.microsoft.com/surface-duo/xamarin-developer-training-on-microsoft-learn/) by [Craig Dunn](https://devblogs.microsoft.com/surface-duo/author/craigdunn/)",
+          "embedded_links": [
+            {
+              "identifier": "gLSyxvP",
+              "title": "**Microsoft Surface Duo developer training now on Microsoft Learn**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/surface-duo/xamarin-developer-training-on-microsoft-learn/"
+            },
+            {
+              "identifier": "TML4H58",
+              "title": "Craig Dunn",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/surface-duo/author/craigdunn/"
+            }
+          ]
+        },
+        {
+          "identifier": "oHC0fsi",
+          "type": "Link",
+          "title": "Quiz: Let’s practice some simple UI skills! 😍",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/quiz-lets-practice-some-simple-ui-skills-%f0%9f%98%8d/",
+          "description": "<p>Leomaris wants to test your knowledge of XAML UI Design.</p>\n\n<p><a href=\"https://askxammy.com/quiz-lets-practice-some-simple-ui-skills-%f0%9f%98%8d/\"><strong>Quiz: Let’s practice some simple UI skills! 😍</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris wants to test your knowledge of XAML UI Design.\r\n\r\n[**Quiz: Let’s practice some simple UI skills! 😍**](https://askxammy.com/quiz-lets-practice-some-simple-ui-skills-%f0%9f%98%8d/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "owioZjs",
+              "title": "**Quiz: Let’s practice some simple UI skills! 😍**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/quiz-lets-practice-some-simple-ui-skills-%f0%9f%98%8d/"
+            },
+            {
+              "identifier": "V4Nv9oz",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "EE2lrAv",
+          "type": "Link",
+          "title": "MonkeyCache - Step by Step",
+          "url_domain": "jesseliberty.com",
+          "url": "http://jesseliberty.com/2020/08/16/monkeycache-step-by-step/",
+          "description": "<p>MonkeyCache is a simple but incredibly useful cache you can get up and running quickly in your app. Whether it's caching data for performance or offline ability, it's definitely a good option to look at.</p>\n\n<p><a href=\"http://jesseliberty.com/2020/08/16/monkeycache-step-by-step/\"><strong>MonkeyCache step by step</strong></a> by <a href=\"http://jesseliberty.com/author/jl/\">Jesse Liberty</a></p>",
+          "description_markdown": "MonkeyCache is a simple but incredibly useful cache you can get up and running quickly in your app. Whether it's caching data for performance or offline ability, it's definitely a good option to look at.  \r\n\r\n[**MonkeyCache step by step**](http://jesseliberty.com/2020/08/16/monkeycache-step-by-step/) by [Jesse Liberty](http://jesseliberty.com/author/jl/)",
+          "embedded_links": [
+            {
+              "identifier": "CGdoOON",
+              "title": "**MonkeyCache step by step**",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/2020/08/16/monkeycache-step-by-step/"
+            },
+            {
+              "identifier": "jJayMNa",
+              "title": "Jesse Liberty",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/author/jl/"
+            }
+          ]
+        },
+        {
+          "identifier": "Kd2A6BR",
+          "type": "Link",
+          "title": "First Run Detection with Xamarin.Essentials",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/first-run-xamarin-essentials/",
+          "description": "<p>One common scenario that developers often need to integrate into an app, is showing a prompt when an app is launched for the first time. Easy Peasy with Xamarin.Essentials.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/first-run-xamarin-essentials/\"><strong>First Run Dedection with Xamarin.Essentials : Xamarin Blog</strong></a> by []ames Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)</p>",
+          "description_markdown": "One common scenario that developers often need to integrate into an app, is showing a prompt when an app is launched for the first time. Easy Peasy with Xamarin.Essentials.\r\n\r\n[**First Run Dedection with Xamarin.Essentials : Xamarin Blog**](https://devblogs.microsoft.com/xamarin/first-run-xamarin-essentials/) by []ames Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "pyx2iBF",
+              "title": "**First Run Dedection with Xamarin.Essentials : Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/first-run-xamarin-essentials/"
+            },
+            {
+              "identifier": "SRcIWCa",
+              "title": "]ames Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "ALMS8sL",
+          "type": "Link",
+          "title": "Xamarin Assemble Videos",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/channel/UCCdihCgJXn8etWhoVB-FjZA",
+          "description": "<p>Enjoy some session recordings from the recent Xamarin Assemble conference over on their YouTube channel.</p>\n\n<p><a href=\"https://www.youtube.com/channel/UCCdihCgJXn8etWhoVB-FjZA\"><strong>Xamarin Assemble</strong></a> by <a href=\"https://twitter.com/xamarinassemble\">Xamarin Assemble</a></p>",
+          "description_markdown": "Enjoy some session recordings from the recent Xamarin Assemble conference over on their YouTube channel.\r\n\r\n[**Xamarin Assemble**](https://www.youtube.com/channel/UCCdihCgJXn8etWhoVB-FjZA) by [Xamarin Assemble](https://twitter.com/xamarinassemble)",
+          "embedded_links": [
+            {
+              "identifier": "LQX1BHC",
+              "title": "**Xamarin Assemble**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCCdihCgJXn8etWhoVB-FjZA"
+            },
+            {
+              "identifier": "Ivn3aKd",
+              "title": "Xamarin Assemble",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/xamarinassemble"
+            }
+          ]
+        },
+        {
+          "identifier": "qwgH3fg",
+          "type": "Link",
+          "title": "Xamarin.Forms New Drawing API! Part 1",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-New-Drawing-API-Part-1",
+          "description": "<p>This week on the Xamarin Show, James is joined by Javier Suárez, Developer on Xamarin.Forms, who walks us through the brand new drawing API for Xamarin.Forms. This new native API enables you to draw just about anything!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-New-Drawing-API-Part-1\"><strong>Play Xamarin.Forms New Drawing API! Part 1</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week on the Xamarin Show, James is joined by Javier Suárez, Developer on Xamarin.Forms, who walks us through the brand new drawing API for Xamarin.Forms. This new native API enables you to draw just about anything!\r\n\r\n[**Play Xamarin.Forms New Drawing API! Part 1**](https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-New-Drawing-API-Part-1) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "fz1ngFc",
+              "title": "**Play Xamarin.Forms New Drawing API! Part 1**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-New-Drawing-API-Part-1"
+            },
+            {
+              "identifier": "ZjOHV3f",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "8bmqHAQ",
+          "type": "Link",
+          "title": "Null Pointers 14: Dark Mode",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/14/",
+          "description": "<p>Dark Mode seems to be a trend that is getting more and more momentum. It has taken over designs on the interwebs, desktop computers, tablets and even the beloved phone in your pocket. But what is it all about? Save the planet due to reduced power usage? A design fad?</p>\n\n<p><a href=\"https://nullpointers.io/14/\"><strong>14: Dark Mode – Null Pointers</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "Dark Mode seems to be a trend that is getting more and more momentum. It has taken over designs on the interwebs, desktop computers, tablets and even the beloved phone in your pocket. But what is it all about? Save the planet due to reduced power usage? A design fad?\r\n\r\n[**14: Dark Mode – Null Pointers**](https://nullpointers.io/14/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "o0OSelR",
+              "title": "**14: Dark Mode – Null Pointers**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/14/"
+            },
+            {
+              "identifier": "8P8DWdr",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "y9scHUo",
+          "type": "Link",
+          "title": "Merge Conflict 215: Model Intermediate Language",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/215",
+          "description": "<p>Merge Conflict are back talking about machine learning taking a look at the latest and greatest in Core ML 4.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/215\"><strong>215: Model Intermediate Language</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Merge Conflict are back talking about machine learning taking a look at the latest and greatest in Core ML 4.\r\n\r\n[**215: Model Intermediate Language**](https://www.mergeconflict.fm/215) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "eaCIWBq",
+              "title": "**215: Model Intermediate Language**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/215"
+            },
+            {
+              "identifier": "NfDiPCh",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "identifier": "mnQi9gC",
+          "type": "Link",
+          "title": "Webinar – Xamarin, MAUI and the reactive MVVM between them",
+          "url_domain": "jetbrains.com",
+          "url": "https://blog.jetbrains.com/dotnet/2020/08/19/webinar-xamarin-maui-and-the-reactive-mvvm-between-them/",
+          "description": "<p>If you are not busy on Thursday, September 17 2020 you should check out a free live webinar, hosted by Jetbrains. \"Xamarin, MAUI and the reactive MVVM between them\", with Rodney Littles, II.</p>\n\n<p><a href=\"https://blog.jetbrains.com/dotnet/2020/08/19/webinar-xamarin-maui-and-the-reactive-mvvm-between-them/\"><strong>Webinar – Xamarin, MAUI and the reactive MVVM between them</strong></a> by <a href=\"https://blog.jetbrains.com/author/maarten-balliauw\">Maarten Balliauw</a></p>",
+          "description_markdown": "If you are not busy on Thursday, September 17 2020 you should check out a free live webinar, hosted by Jetbrains. \"Xamarin, MAUI and the reactive MVVM between them\", with Rodney Littles, II.\r\n\r\n[**Webinar – Xamarin, MAUI and the reactive MVVM between them**](https://blog.jetbrains.com/dotnet/2020/08/19/webinar-xamarin-maui-and-the-reactive-mvvm-between-them/) by [Maarten Balliauw](https://blog.jetbrains.com/author/maarten-balliauw)",
+          "embedded_links": [
+            {
+              "identifier": "RbJVCA4",
+              "title": "**Webinar – Xamarin, MAUI and the reactive MVVM between them**",
+              "url_domain": "jetbrains.com",
+              "url": "https://blog.jetbrains.com/dotnet/2020/08/19/webinar-xamarin-maui-and-the-reactive-mvvm-between-them/"
+            },
+            {
+              "identifier": "ffe2R1t",
+              "title": "Maarten Balliauw",
+              "url_domain": "jetbrains.com",
+              "url": "https://blog.jetbrains.com/author/maarten-balliauw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "Id": "273",
+  "Name": "Issue 273",
+  "UpdatedTimeStamp": "2020-08-21T10:28:08Z",
+  "Summary": "Android Performance, Surface Do, Tools and Quizes",
+  "Introduction": "Happy Friday everyone. This week we have great contributions from the community including: designing and developing for the Surface Duo, hidden tools in VS mac, performance tuning your Android apps, and a fun quiz. Have a wonderful weekend. ❤ Kym",
+  "PublishDate": "2020-08-21T10:28:07Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Designing for the Microsoft Surface Duo",
+      "Url": "https://medium.com/microsoft-design/designing-for-the-microsoft-surface-duo-8a83f232100",
+      "Description": "With the upcoming release of the two screened Surface Duo, it's time to start thinking about how we might design experiences and apps for them.",
+      "EditionId": "273",
+      "Author": "Jon Friedman",
+      "Id": "273-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Visual Studio Mac Hidden Tools",
+      "Url": "https://www.mfractor.com/blogs/news/using-visual-studio-mac-5-handy-hidden-tools",
+      "Description": "No matter how long you have been using Visual Studio Mac, there are still some hidden gems and features hiding behind hotkeys.",
+      "EditionId": "273",
+      "Author": "Lachlan Gordon",
+      "Id": "273-2",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Measure performance in Xamarin.Android applications",
+      "Url": "https://devblogs.microsoft.com/xamarin/performance-xamarin-android-apps/",
+      "Description": "Poor performance can be a huge detriment to a mobile application’s success. Users don’t want to see a splash screen for 10 seconds when using any app. They may get frustrated, abandon their shopping cart, or uninstall the app completely if kept waiting for too long.",
+      "EditionId": "273",
+      "Author": "Jon Peppers",
+      "Id": "273-3",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Templated Controls in Xamarin.Forms",
+      "Url": "https://dotnetdevaddict.co.za/2020/08/16/templated-controls-in-xamarin-forms/",
+      "Description": "Sometimes you want to create that awesome control, but also want the user to be able to totally customize it… What do you do? Create a templated control! Xamarin.Forms has a pretty cool view that we can use: TemplatedView).",
+      "EditionId": "273",
+      "Author": "Matthew Leibowitz",
+      "Id": "273-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Microsoft Surface Duo developer training now on Microsoft Learn",
+      "Url": "https://devblogs.microsoft.com/surface-duo/xamarin-developer-training-on-microsoft-learn/",
+      "Description": "Microsoft Learn has a new module to help developers build apps for Surface Duo. The new module is called Build dual-screen Xamarin.Forms apps by using TwoPaneView.",
+      "EditionId": "273",
+      "Author": "Craig Dunn",
+      "Id": "273-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Quiz: Let’s practice some simple UI skills! 😍",
+      "Url": "https://askxammy.com/quiz-lets-practice-some-simple-ui-skills-😍/",
+      "Description": "Leomaris wants to test your knowledge of XAML UI Design.",
+      "EditionId": "273",
+      "Author": "Leomaris Reyes",
+      "Id": "273-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "MonkeyCache - Step by Step",
+      "Url": "http://jesseliberty.com/2020/08/16/monkeycache-step-by-step/",
+      "Description": "MonkeyCache is a simple but incredibly useful cache you can get up and running quickly in your app. Whether it's caching data for performance or offline ability, it's definitely a good option to look at.",
+      "EditionId": "273",
+      "Author": "Jesse Liberty",
+      "Id": "273-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "First Run Detection with Xamarin.Essentials",
+      "Url": "https://devblogs.microsoft.com/xamarin/first-run-xamarin-essentials/",
+      "Description": "One common scenario that developers often need to integrate into an app, is showing a prompt when an app is launched for the first time. Easy Peasy with Xamarin.Essentials.",
+      "EditionId": "273",
+      "Author": "James Montemagno",
+      "Id": "273-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin Assemble Videos",
+      "Url": "https://www.youtube.com/channel/UCCdihCgJXn8etWhoVB-FjZA",
+      "Description": "Enjoy some session recordings from the recent Xamarin Assemble conference over on their YouTube channel.",
+      "EditionId": "273",
+      "Author": "Xamarin Assemble",
+      "Id": "273-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms New Drawing API! Part 1",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/XamarinForms-New-Drawing-API-Part-1",
+      "Description": "This week on the Xamarin Show, James is joined by Javier Suárez, Developer on Xamarin.Forms, who walks us through the brand new drawing API for Xamarin.Forms. This new native API enables you to draw just about anything!",
+      "EditionId": "273",
+      "Author": "James Montemagno",
+      "Id": "273-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 14: Dark Mode",
+      "Url": "https://nullpointers.io/14/",
+      "Description": "Dark Mode seems to be a trend that is getting more and more momentum. It has taken over designs on the interwebs, desktop computers, tablets and even the beloved phone in your pocket. But what is it all about? Save the planet due to reduced power usage? A design fad?",
+      "EditionId": "273",
+      "Author": "Null Pointers",
+      "Id": "273-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 215: Model Intermediate Language",
+      "Url": "https://www.mergeconflict.fm/215",
+      "Description": "Merge Conflict are back talking about machine learning taking a look at the latest and greatest in Core ML 4.",
+      "EditionId": "273",
+      "Author": "Merge Conflict",
+      "Id": "273-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Webinar – Xamarin, MAUI and the reactive MVVM between them",
+      "Url": "https://blog.jetbrains.com/dotnet/2020/08/19/webinar-xamarin-maui-and-the-reactive-mvvm-between-them/",
+      "Description": "If you are not busy on Thursday, September 17 2020 you should check out a free live webinar, hosted by Jetbrains. \"Xamarin, MAUI and the reactive MVVM between them\", with Rodney Littles, II.",
+      "EditionId": "273",
+      "Author": "Maarten Balliauw",
+      "Id": "273-13",
+      "Category": "AND FINALLY..."
+    }
+  ]
+}

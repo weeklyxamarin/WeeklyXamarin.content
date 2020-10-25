@@ -478,6 +478,16 @@
       ]
     },
     {
+      "Name": "Craig Dunn",
+      "Id": "https://devblogs.microsoft.com/surface-duo/author/craigdunn/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/surface-duo/author/craigdunn/"
+        }
+      ]
+    },
+    {
       "Name": "Damian Mehers",
       "TwitterHandle": "DamianMehers",
       "GitHubHandle": "DamianMehers",
@@ -1025,10 +1035,26 @@
       "Website": "https://www.jon-douglas.com/"
     },
     {
+      "Name": "Jon Friedman",
+      "Id": "https://medium.com/@designjon",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@designjon"
+        }
+      ]
+    },
+    {
       "Name": "Jon Peppers",
       "TwitterHandle": "jonathanpeppers",
       "GitHubHandle": "jonathanpeppers",
       "Id": "https://twitter.com/jonathanpeppers",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/xamarin/author/jopeppermicrosoft-com/"
+        }
+      ],
       "Website": "https://jonathanpeppers.com/"
     },
     {
@@ -1239,6 +1265,16 @@
         }
       ],
       "Website": "https://www.pujolsluis.com/"
+    },
+    {
+      "Name": "Maarten Balliauw",
+      "Id": "https://blog.jetbrains.com/author/maarten-balliauw",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://blog.jetbrains.com/author/maarten-balliauw"
+        }
+      ]
     },
     {
       "Name": "Maddy Leger",
@@ -2209,6 +2245,16 @@
       "GitHubHandle": "xablu",
       "Id": "https://twitter.com/xabluhq",
       "Website": "https://www.xablu.com/"
+    },
+    {
+      "Name": "Xamarin Assemble",
+      "Id": "https://twitter.com/xamarinassemble",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/xamarinassemble"
+        }
+      ]
     },
     {
       "Name": "Xamarin Developers",
