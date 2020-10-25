@@ -1,0 +1,348 @@
+{
+  "number": 270,
+  "title": "Issue 270",
+  "summary": "Xamarin.Mac, Tools, UI Designs, MVU and of course Xamarin.Forms",
+  "url": "http://weeklyxamarin.com/issues/270",
+  "publication_status": "published",
+  "published_at": "2020-07-31T14:28:40+01:00",
+  "updated_at": "2020-07-31T14:28:42+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday everyone,</p>\n\n<p>It's been a pretty quiet week on the blog-o-sphere so it's a lighter edition today. But as always, some great links for Xamarin Developers.</p>\n\n<p>Kick back and enjoy your weekend.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Friday everyone, \r\n\r\nIt's been a pretty quiet week on the blog-o-sphere so it's a lighter edition today. But as always, some great links for Xamarin Developers. \r\n\r\nKick back and enjoy your weekend.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "7aWZzpG",
+          "type": "Link",
+          "title": "UnoConf 2020 – Virtual & Free",
+          "url_domain": "unoconf.com",
+          "url": "https://unoconf.com?utm_source=xamweekly-aug1&utm_medium=email&utm_campaign=unoconf",
+          "description": "<p>Learn how to build cross-platform, single source, Web-Mobile-Desktop applications with C# and XAML only at Uno Platform’s annual conference. Speakers from Microsoft, Uno Platform core OSS team and community. <a href=\"https://unoconf.com?utm_source=xamweekly-aug1&amp;utm_medium=email&amp;utm_campaign=unoconf\">Register now</a>.</p>",
+          "description_markdown": "Learn how to build cross-platform, single source, Web-Mobile-Desktop applications with C# and XAML only at Uno Platform’s annual conference. Speakers from Microsoft, Uno Platform core OSS team and community. [Register now](https://unoconf.com?utm_source=xamweekly-aug1&utm_medium=email&utm_campaign=unoconf).",
+          "embedded_links": [
+            {
+              "identifier": "ubK3wrk",
+              "title": "Register now",
+              "url_domain": "unoconf.com",
+              "url": "https://unoconf.com?utm_source=xamweekly-aug1&utm_medium=email&utm_campaign=unoconf"
+            }
+          ],
+          "image_original_filename": "098594b1-9b2b-4711-b047-c9b1f31a6444.jpg",
+          "image_extra_large_filename": "original_ratio_extra_large_098594b1-9b2b-4711-b047-c9b1f31a6444.jpg",
+          "image_medium_filename": "original_ratio_medium_098594b1-9b2b-4711-b047-c9b1f31a6444.jpg"
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "ipyrwHL",
+          "type": "Link",
+          "title": "Xamarin Documentation What's New?",
+          "url_domain": "microsoft.com",
+          "url": "https://docs.microsoft.com/en-us/xamarin/whats-new/",
+          "description": "<p>The Microsoft docs team has put together a What's New page for Xamarin that gives you an easy way to see all the Xamarin related doc updates. Neato!</p>\n\n<p><a href=\"https://docs.microsoft.com/en-us/xamarin/whats-new/\"><strong>Xamarin Documentation What's New?</strong></a> by <a href=\"https://docs.microsoft.com/xamarin/tools/profiler/release-notes/\">Xamarin Docs Releases</a></p>",
+          "description_markdown": "The Microsoft docs team has put together a What's New page for Xamarin that gives you an easy way to see all the Xamarin related doc updates. Neato!\r\n\r\n[**Xamarin Documentation What's New?**](https://docs.microsoft.com/en-us/xamarin/whats-new/) by [Xamarin Docs Releases](https://docs.microsoft.com/xamarin/tools/profiler/release-notes/)",
+          "embedded_links": [
+            {
+              "identifier": "qAyz9ut",
+              "title": "**Xamarin Documentation What's New?**",
+              "url_domain": "microsoft.com",
+              "url": "https://docs.microsoft.com/en-us/xamarin/whats-new/"
+            },
+            {
+              "identifier": "heMeL2A",
+              "title": "Xamarin Docs Releases",
+              "url_domain": "microsoft.com",
+              "url": "https://docs.microsoft.com/xamarin/tools/profiler/release-notes/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "elsuWGQ",
+          "type": "Link",
+          "title": "Is Redesigning Your Mobile App A Bad Idea?",
+          "url_domain": "smashingmagazine.com",
+          "url": "https://www.smashingmagazine.com/2020/07/redesigning-mobile-app/",
+          "description": "<p>The Scrabble GO, Instacart and YouTube mobile apps have recently undergone disruptive redesigns. Were they worth it in the end?</p>\n\n<p><a href=\"https://www.smashingmagazine.com/2020/07/redesigning-mobile-app/\"><strong>Is Redesigning Your Mobile App A Bad Idea?</strong></a> by <a href=\"https://twitter.com/sescacca\">Suzanne Scacca</a></p>",
+          "description_markdown": "The Scrabble GO, Instacart and YouTube mobile apps have recently undergone disruptive redesigns. Were they worth it in the end?\r\n\r\n[**Is Redesigning Your Mobile App A Bad Idea?**](https://www.smashingmagazine.com/2020/07/redesigning-mobile-app/) by [Suzanne Scacca](https://twitter.com/sescacca)",
+          "embedded_links": [
+            {
+              "identifier": "VueHgFJ",
+              "title": "**Is Redesigning Your Mobile App A Bad Idea?**",
+              "url_domain": "smashingmagazine.com",
+              "url": "https://www.smashingmagazine.com/2020/07/redesigning-mobile-app/"
+            },
+            {
+              "identifier": "9pqqf9u",
+              "title": "Suzanne Scacca",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/sescacca"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "3KHpxPS",
+          "type": "Link",
+          "title": "Reverse engineering tools for .NET applications",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@pelock/reverse-engineering-tools-for-net-applications-a28275f185b4",
+          "description": "<p>Bartosz has a look at different tools for .NET reverse engineering and decompiling.</p>\n\n<p><a href=\"https://medium.com/@pelock/reverse-engineering-tools-for-net-applications-a28275f185b4\"><strong>Reverse engineering tools for .NET applications</strong></a> by <a href=\"https://medium.com/@pelock\">Bartosz Wójcik</a></p>",
+          "description_markdown": "Bartosz has a look at different tools for .NET reverse engineering and decompiling.\r\n\r\n[**Reverse engineering tools for .NET applications**](https://medium.com/@pelock/reverse-engineering-tools-for-net-applications-a28275f185b4) by [Bartosz Wójcik](https://medium.com/@pelock)",
+          "embedded_links": [
+            {
+              "identifier": "aa0sAs5",
+              "title": "**Reverse engineering tools for .NET applications**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@pelock/reverse-engineering-tools-for-net-applications-a28275f185b4"
+            },
+            {
+              "identifier": "NyuI7GV",
+              "title": "Bartosz Wójcik",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@pelock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "mac",
+      "name": "MAC",
+      "items": [
+        {
+          "identifier": "NRdcTcC",
+          "type": "Link",
+          "title": "Write Xamarin.Mac Apps With JetBrains Rider",
+          "url_domain": "khalidabuhakmeh.com",
+          "url": "https://khalidabuhakmeh.com/write-xamarin-mac-apps-with-jetbrains-rider",
+          "description": "<p>Get started with created Xamarin.Mac apps.  This is also a good intro to those looking at using JetBrains Rider as well.</p>\n\n<p><a href=\"https://khalidabuhakmeh.com/write-xamarin-mac-apps-with-jetbrains-rider\"><strong>Write Xamarin.Mac Apps With JetBrains Rider</strong></a> by <a href=\"https://twitter.com/buhakmeh\">Khalid Abuhakmeh</a></p>",
+          "description_markdown": "Get started with created Xamarin.Mac apps.  This is also a good intro to those looking at using JetBrains Rider as well.\r\n\r\n[**Write Xamarin.Mac Apps With JetBrains Rider**](https://khalidabuhakmeh.com/write-xamarin-mac-apps-with-jetbrains-rider) by [Khalid Abuhakmeh](https://twitter.com/buhakmeh)",
+          "embedded_links": [
+            {
+              "identifier": "S8MwCab",
+              "title": "**Write Xamarin.Mac Apps With JetBrains Rider**",
+              "url_domain": "khalidabuhakmeh.com",
+              "url": "https://khalidabuhakmeh.com/write-xamarin-mac-apps-with-jetbrains-rider"
+            },
+            {
+              "identifier": "vT177U0",
+              "title": "Khalid Abuhakmeh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/buhakmeh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "KgR6o4b",
+          "type": "Link",
+          "title": "UI Challenge - BMI Calculator",
+          "url_domain": "xgenoapps.com",
+          "url": "http://blog.xgenoapps.com/post/2020/07/23/ui-challenge-bmi-calculator-using-xamarin-forms",
+          "description": "<p>Naweed has used the new Shapes features to create a cool UI with animations. Very nice.</p>\n\n<p><a href=\"http://blog.xgenoapps.com/post/2020/07/23/ui-challenge-bmi-calculator-using-xamarin-forms\"><strong>UI Challenge - BMI Calculator using Xamarin Forms</strong></a> by <a href=\"https://twitter.com/xgeno\">Naweed Akram</a></p>",
+          "description_markdown": "Naweed has used the new Shapes features to create a cool UI with animations. Very nice.\r\n\r\n[**UI Challenge - BMI Calculator using Xamarin Forms**](http://blog.xgenoapps.com/post/2020/07/23/ui-challenge-bmi-calculator-using-xamarin-forms) by [Naweed Akram](https://twitter.com/xgeno)",
+          "embedded_links": [
+            {
+              "identifier": "rjau4GV",
+              "title": "**UI Challenge - BMI Calculator using Xamarin Forms**",
+              "url_domain": "xgenoapps.com",
+              "url": "http://blog.xgenoapps.com/post/2020/07/23/ui-challenge-bmi-calculator-using-xamarin-forms"
+            },
+            {
+              "identifier": "GFCNrKO",
+              "title": "Naweed Akram",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/xgeno"
+            }
+          ]
+        },
+        {
+          "identifier": "SVSjxrW",
+          "type": "Link",
+          "title": "RowDefinition & ColumnDefinition through binding",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/xamarin-forms-rowdefinition-columndefinition-through-binding/",
+          "description": "<p>Under one of Geralds YouTube videos about the simplified grid RowDefinition and ColumnDefinition syntax, he got the question how to do this in with data-binding. In this post he shows covers that exact topic.</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/xamarin-forms-xamarin/xamarin-forms-rowdefinition-columndefinition-through-binding/\"><strong>Xamarin.Forms RowDefinition &amp; ColumnDefinition through binding</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Under one of Geralds YouTube videos about the simplified grid RowDefinition and ColumnDefinition syntax, he got the question how to do this in with data-binding. In this post he shows covers that exact topic.\r\n\r\n[**Xamarin.Forms RowDefinition & ColumnDefinition through binding**](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/xamarin-forms-rowdefinition-columndefinition-through-binding/) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "cp2gqev",
+              "title": "**Xamarin.Forms RowDefinition & ColumnDefinition through binding**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/xamarin-forms-rowdefinition-columndefinition-through-binding/"
+            },
+            {
+              "identifier": "uvk3geG",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "VxNmMrM",
+          "type": "Link",
+          "title": "Show/Hide password using EventTrigger",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/show-hide-password-using-eventtrigger-in-xamarin-forms/",
+          "description": "<p>A common requirement in mobile applications is the ability to show/hide a password field. In this post, Charlin shows a very simple way to achieve this by using EventTrigger.</p>\n\n<p><a href=\"https://xamgirl.com/show-hide-password-using-eventtrigger-in-xamarin-forms/\"><strong>Show/Hide password using EventTrigger in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "A common requirement in mobile applications is the ability to show/hide a password field. In this post, Charlin shows a very simple way to achieve this by using EventTrigger.\r\n\r\n[**Show/Hide password using EventTrigger in Xamarin Forms**](https://xamgirl.com/show-hide-password-using-eventtrigger-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003)",
+          "embedded_links": [
+            {
+              "identifier": "5E7S5Sv",
+              "title": "**Show/Hide password using EventTrigger in Xamarin Forms**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/show-hide-password-using-eventtrigger-in-xamarin-forms/"
+            },
+            {
+              "identifier": "l4fBzXH",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "TxLU3hU",
+          "type": "Link",
+          "title": "Creating a Binding Library in Xamarin (Part. 2)",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2020/07/28/creating-a-binding-library-in-xamarin-part-2/",
+          "description": "<p>Rendy continues his series on creating a binding library in Xamarin for Pay.Card SDK.</p>\n\n<p><a href=\"https://www.xamboy.com/2020/07/28/creating-a-binding-library-in-xamarin-part-2/\"><strong>Creating a Binding Library in Xamarin (Part. 2)</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "Rendy continues his series on creating a binding library in Xamarin for Pay.Card SDK.\r\n\r\n[**Creating a Binding Library in Xamarin (Part. 2)**](https://www.xamboy.com/2020/07/28/creating-a-binding-library-in-xamarin-part-2/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "oFdRlaC",
+              "title": "**Creating a Binding Library in Xamarin (Part. 2)**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2020/07/28/creating-a-binding-library-in-xamarin-part-2/"
+            },
+            {
+              "identifier": "sAGw43K",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "qJ0FmS9",
+          "type": "Link",
+          "title": "Merge Conflict 212 - Model-View-Update (MVU) - What, Why, How",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/212",
+          "description": "<p>It is all in the name - Model-View-Update (MVU) - What, Why, How. Join James and Frank for a great discussion.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/212\"><strong>212: Model-View-Update (MVU) - What, Why, How</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "It is all in the name - Model-View-Update (MVU) - What, Why, How. Join James and Frank for a great discussion.\r\n\r\n[**212: Model-View-Update (MVU) - What, Why, How**](https://www.mergeconflict.fm/212) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "r6syNdn",
+              "title": "**212: Model-View-Update (MVU) - What, Why, How**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/212"
+            },
+            {
+              "identifier": "Jjc2AvJ",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "9h2hyuE",
+          "type": "Link",
+          "title": "Yet Another Podcast - VS Mac & More",
+          "url_domain": "jesseliberty.com",
+          "url": "http://jesseliberty.com/2020/07/24/jon-galloway-vs-mac-more/",
+          "description": "<p>Jon Galloway talks to Jesse Liberty about VS Mac.</p>\n\n<p><a href=\"http://jesseliberty.com/2020/07/24/jon-galloway-vs-mac-more/\"><strong>Jon Galloway: VS Mac &amp; More</strong></a> by <a href=\"http://jesseliberty.com/author/jl/\">Jesse Liberty</a></p>",
+          "description_markdown": "Jon Galloway talks to Jesse Liberty about VS Mac.\r\n\r\n[**Jon Galloway: VS Mac & More**](http://jesseliberty.com/2020/07/24/jon-galloway-vs-mac-more/) by [Jesse Liberty](http://jesseliberty.com/author/jl/)",
+          "embedded_links": [
+            {
+              "identifier": "HAFe8ZN",
+              "title": "**Jon Galloway: VS Mac & More**",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/2020/07/24/jon-galloway-vs-mac-more/"
+            },
+            {
+              "identifier": "68GNWG0",
+              "title": "Jesse Liberty",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/author/jl/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "identifier": "obTpNkV",
+          "type": "Link",
+          "title": "ReactiveUI Virtual Conf",
+          "url_domain": "rxuiconf.net",
+          "url": "https://www.rxuiconf.net/",
+          "description": "<p>Get Ready for the First Ever ReactiveUI Virtual Conf. There are some great speakers, so if you are looking at expanding your knowledge of Reactive technologies, sign up for this.</p>\n\n<p><a href=\"https://www.rxuiconf.net/\"><strong>ReactiveUI Virtual Conf</strong></a> by <a href=\"https://www.reactiveui.net/\">ReactiveUI</a></p>",
+          "description_markdown": "Get Ready for the First Ever ReactiveUI Virtual Conf. There are some great speakers, so if you are looking at expanding your knowledge of Reactive technologies, sign up for this.\r\n\r\n[**ReactiveUI Virtual Conf**](https://www.rxuiconf.net/) by [ReactiveUI](https://www.reactiveui.net/)",
+          "embedded_links": [
+            {
+              "identifier": "4xR4Djk",
+              "title": "**ReactiveUI Virtual Conf**",
+              "url_domain": "rxuiconf.net",
+              "url": "https://www.rxuiconf.net/"
+            },
+            {
+              "identifier": "cb9PqSz",
+              "title": "ReactiveUI",
+              "url_domain": "reactiveui.net",
+              "url": "https://www.reactiveui.net/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

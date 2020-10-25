@@ -257,6 +257,16 @@
       ]
     },
     {
+      "Name": "Bartosz Wójcik",
+      "Id": "https://medium.com/@pelock",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@pelock"
+        }
+      ]
+    },
+    {
       "Name": "Bas de Cort",
       "TwitterHandle": "basdecort",
       "GitHubHandle": "basdecort",
@@ -1029,6 +1039,16 @@
       "Website": "https://kerry.lothrop.de/"
     },
     {
+      "Name": "Khalid Abuhakmeh",
+      "Id": "https://twitter.com/buhakmeh",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/buhakmeh"
+        }
+      ]
+    },
+    {
       "Name": "Kodjo Laurent Egbakou",
       "TwitterHandle": "lioncoding",
       "GitHubHandle": "egbakou",
@@ -1446,6 +1466,16 @@
         {
           "Type": "github",
           "Name": "https://github.com/nat"
+        }
+      ]
+    },
+    {
+      "Name": "Naweed Akram",
+      "Id": "https://twitter.com/xgeno",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/xgeno"
         }
       ]
     },
@@ -1884,6 +1914,16 @@
       "Website": "https://www.msdevbuild.com/"
     },
     {
+      "Name": "Suzanne Scacca",
+      "Id": "https://twitter.com/sescacca",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/sescacca"
+        }
+      ]
+    },
+    {
       "Name": "Sven-Michael Stübe",
       "TwitterHandle": "stuebe2k14",
       "GitHubHandle": "smstuebe",
@@ -2127,6 +2167,16 @@
         {
           "Type": "blog",
           "Name": "https://www.youtube.com/channel/uce-f02uzgexdhmhpc3loaqg"
+        }
+      ]
+    },
+    {
+      "Name": "Xamarin Docs Releases",
+      "Id": "https://docs.microsoft.com/xamarin/tools/profiler/release-notes/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://docs.microsoft.com/xamarin/tools/profiler/release-notes/"
         }
       ]
     }

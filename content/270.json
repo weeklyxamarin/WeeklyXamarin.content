@@ -1,0 +1,110 @@
+{
+  "Id": "270",
+  "Name": "Issue 270",
+  "UpdatedTimeStamp": "2020-07-31T13:28:42Z",
+  "Summary": "Xamarin.Mac, Tools, UI Designs, MVU and of course Xamarin.Forms",
+  "Introduction": "Happy Friday everyone,  It's been a pretty quiet week on the blog-o-sphere so it's a lighter edition today. But as always, some great links for Xamarin Developers.  Kick back and enjoy your weekend. ❤ Kym",
+  "PublishDate": "2020-07-31T13:28:40Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Xamarin Documentation What's New?",
+      "Url": "https://docs.microsoft.com/en-us/xamarin/whats-new/",
+      "Description": "The Microsoft docs team has put together a What's New page for Xamarin that gives you an easy way to see all the Xamarin related doc updates. Neato!",
+      "EditionId": "270",
+      "Author": "Xamarin Docs Releases",
+      "Id": "270-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Is Redesigning Your Mobile App A Bad Idea?",
+      "Url": "https://www.smashingmagazine.com/2020/07/redesigning-mobile-app/",
+      "Description": "The Scrabble GO, Instacart and YouTube mobile apps have recently undergone disruptive redesigns. Were they worth it in the end?",
+      "EditionId": "270",
+      "Author": "Suzanne Scacca",
+      "Id": "270-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Reverse engineering tools for .NET applications",
+      "Url": "https://medium.com/@pelock/reverse-engineering-tools-for-net-applications-a28275f185b4",
+      "Description": "Bartosz has a look at different tools for .NET reverse engineering and decompiling.",
+      "EditionId": "270",
+      "Author": "Bartosz Wójcik",
+      "Id": "270-3",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Write Xamarin.Mac Apps With JetBrains Rider",
+      "Url": "https://khalidabuhakmeh.com/write-xamarin-mac-apps-with-jetbrains-rider",
+      "Description": "Get started with created Xamarin.Mac apps.  This is also a good intro to those looking at using JetBrains Rider as well.",
+      "EditionId": "270",
+      "Author": "Khalid Abuhakmeh",
+      "Id": "270-4",
+      "Category": "MAC"
+    },
+    {
+      "Title": "UI Challenge - BMI Calculator",
+      "Url": "http://blog.xgenoapps.com/post/2020/07/23/ui-challenge-bmi-calculator-using-xamarin-forms",
+      "Description": "Naweed has used the new Shapes features to create a cool UI with animations. Very nice.",
+      "EditionId": "270",
+      "Author": "Naweed Akram",
+      "Id": "270-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "RowDefinition & ColumnDefinition through binding",
+      "Url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/xamarin-forms-rowdefinition-columndefinition-through-binding/",
+      "Description": "Under one of Geralds YouTube videos about the simplified grid RowDefinition and ColumnDefinition syntax, he got the question how to do this in with data-binding. In this post he shows covers that exact topic.",
+      "EditionId": "270",
+      "Author": "Gerald Versluis",
+      "Id": "270-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Show/Hide password using EventTrigger",
+      "Url": "https://xamgirl.com/show-hide-password-using-eventtrigger-in-xamarin-forms/",
+      "Description": "A common requirement in mobile applications is the ability to show/hide a password field. In this post, Charlin shows a very simple way to achieve this by using EventTrigger.",
+      "EditionId": "270",
+      "Author": "Charlin Agramonte",
+      "Id": "270-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Creating a Binding Library in Xamarin (Part. 2)",
+      "Url": "https://www.xamboy.com/2020/07/28/creating-a-binding-library-in-xamarin-part-2/",
+      "Description": "Rendy continues his series on creating a binding library in Xamarin for Pay.Card SDK.",
+      "EditionId": "270",
+      "Author": "Rendy Del Rosario",
+      "Id": "270-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Merge Conflict 212 - Model-View-Update (MVU) - What, Why, How",
+      "Url": "https://www.mergeconflict.fm/212",
+      "Description": "It is all in the name - Model-View-Update (MVU) - What, Why, How. Join James and Frank for a great discussion.",
+      "EditionId": "270",
+      "Author": "Merge Conflict",
+      "Id": "270-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Yet Another Podcast - VS Mac & More",
+      "Url": "http://jesseliberty.com/2020/07/24/jon-galloway-vs-mac-more/",
+      "Description": "Jon Galloway talks to Jesse Liberty about VS Mac.",
+      "EditionId": "270",
+      "Author": "Jesse Liberty",
+      "Id": "270-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "ReactiveUI Virtual Conf",
+      "Url": "https://www.rxuiconf.net/",
+      "Description": "Get Ready for the First Ever ReactiveUI Virtual Conf. There are some great speakers, so if you are looking at expanding your knowledge of Reactive technologies, sign up for this.",
+      "EditionId": "270",
+      "Author": "ReactiveUI",
+      "Id": "270-11",
+      "Category": "AND FINALLY..."
+    }
+  ]
+}
