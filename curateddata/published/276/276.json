@@ -1,0 +1,492 @@
+{
+  "number": 276,
+  "title": "Issue 276",
+  "summary": "Lots of design articles, Android 11 is out, Maui information, MVU and data caching to name just a few...",
+  "url": "http://weeklyxamarin.com/issues/276",
+  "publication_status": "published",
+  "published_at": "2020-09-11T15:20:51+01:00",
+  "updated_at": "2020-09-11T15:20:55+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday,</p>\n\n<p>Great posts from the community this week, we have lots of design articles, Android 11 is out, Maui information, MVU and data caching to name just a few...</p>\n\n<p>Hope you have a relaxing and safe weekend.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Friday,\r\n\r\nGreat posts from the community this week, we have lots of design articles, Android 11 is out, Maui information, MVU and data caching to name just a few...\r\n\r\nHope you have a relaxing and safe weekend.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "6x2IEGw",
+          "type": "Link",
+          "title": "MonkeyFest USA - Call For Speakers",
+          "url_domain": "sessionize.com",
+          "url": "https://sessionize.com/monkey-fest-usa-2020/",
+          "description": "<p>MonkeyFest USA is happening November 21st and right now they have a Request For Speakers open. So make sure you sign up for the conference and if you are keen put in a speaker request.</p>",
+          "description_markdown": "MonkeyFest USA is happening November 21st and right now they have a Request For Speakers open. So make sure you sign up for the conference and if you are keen put in a speaker request.",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "52998a9e-8b60-4841-9297-265efb40d8f9.png",
+          "image_extra_large_filename": "original_ratio_extra_large_52998a9e-8b60-4841-9297-265efb40d8f9.png",
+          "image_medium_filename": "original_ratio_medium_52998a9e-8b60-4841-9297-265efb40d8f9.png"
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "C9wuwvg",
+          "type": "Link",
+          "title": "Creating Usability with Motion: The UX in Motion Manifesto",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc",
+          "description": "<p>Motion when used well in an application enhances the user experience.  This article shares twelve specific opportunities to support usability in your UX projects using motion.</p>\n\n<p><a href=\"https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc\"><strong>Creating Usability with Motion: The UX in Motion Manifesto</strong></a> by <a href=\"https://medium.com/@ux_in_motion\">Issara Willenskomer</a></p>",
+          "description_markdown": "Motion when used well in an application enhances the user experience.  This article shares twelve specific opportunities to support usability in your UX projects using motion.\r\n\r\n[**Creating Usability with Motion: The UX in Motion Manifesto**](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc) by [Issara Willenskomer](https://medium.com/@ux_in_motion)",
+          "embedded_links": [
+            {
+              "identifier": "ygvOUpS",
+              "title": "**Creating Usability with Motion: The UX in Motion Manifesto**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc"
+            },
+            {
+              "identifier": "fh32mgs",
+              "title": "Issara Willenskomer",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@ux_in_motion"
+            }
+          ]
+        },
+        {
+          "identifier": "oHFjPOD",
+          "type": "Link",
+          "title": "Mobile App Redesign for Developers: Colors and Typography",
+          "url_domain": "pujolsluis.com",
+          "url": "https://www.pujolsluis.com/mobile-app-redesign-for-developers-colors-and-typography/",
+          "description": "<p>Luis continues his series on lessons learnt creating the design for GitTrends - this time he talks about two incredibly important design aspects, Color and Typography.</p>\n\n<p><a href=\"https://www.pujolsluis.com/mobile-app-redesign-for-developers-colors-and-typography/\"><strong>Mobile App Redesign for Developers: Colors and Typography</strong></a> by <a href=\"https://www.pujolsluis.com/author/admin/\">Luis Pujols</a></p>",
+          "description_markdown": "Luis continues his series on lessons learnt creating the design for GitTrends - this time he talks about two incredibly important design aspects, Color and Typography.\r\n\r\n[**Mobile App Redesign for Developers: Colors and Typography**](https://www.pujolsluis.com/mobile-app-redesign-for-developers-colors-and-typography/) by [Luis Pujols](https://www.pujolsluis.com/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "7hdao3B",
+              "title": "**Mobile App Redesign for Developers: Colors and Typography**",
+              "url_domain": "pujolsluis.com",
+              "url": "https://www.pujolsluis.com/mobile-app-redesign-for-developers-colors-and-typography/"
+            },
+            {
+              "identifier": "T2Dgkf7",
+              "title": "Luis Pujols",
+              "url_domain": "pujolsluis.com",
+              "url": "https://www.pujolsluis.com/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "iY0IsCT",
+          "type": "Link",
+          "title": "16 UX and UI Design Tips That Always Deliver Growth",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/design-for-growth/16-ux-and-ui-design-tips-that-always-deliver-growth-6bacd9fd25fe",
+          "description": "<p>UX is a discovery process. We often argue that user experience doesn’t start and finish with a project. As long as your product is live, the UX process never ends.</p>\n\n<p><a href=\"https://medium.com/design-for-growth/16-ux-and-ui-design-tips-that-always-deliver-growth-6bacd9fd25fe\"><strong>16 UX and UI Design Tips That Always Deliver Growth</strong></a> by <a href=\"https://medium.com/@StefIvanov\">Stef Ivanov</a></p>",
+          "description_markdown": "UX is a discovery process. We often argue that user experience doesn’t start and finish with a project. As long as your product is live, the UX process never ends.\r\n\r\n[**16 UX and UI Design Tips That Always Deliver Growth**](https://medium.com/design-for-growth/16-ux-and-ui-design-tips-that-always-deliver-growth-6bacd9fd25fe) by [Stef Ivanov](https://medium.com/@StefIvanov)",
+          "embedded_links": [
+            {
+              "identifier": "Ca4GIKD",
+              "title": "**16 UX and UI Design Tips That Always Deliver Growth**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/design-for-growth/16-ux-and-ui-design-tips-that-always-deliver-growth-6bacd9fd25fe"
+            },
+            {
+              "identifier": "w9vf54c",
+              "title": "Stef Ivanov",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@StefIvanov"
+            }
+          ]
+        },
+        {
+          "identifier": "cEvuMsK",
+          "type": "Link",
+          "title": "6 Basic Design Tips",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/8px-magazine/6-basic-design-tips-1b14523d55b",
+          "description": "<p>Ester provides 6 great tips that you can use when designing your apps.  In fact designing anything.</p>\n\n<p><a href=\"https://medium.com/8px-magazine/6-basic-design-tips-1b14523d55b\"><strong>6 Basic Design Tips</strong></a> by <a href=\"https://medium.com/@esthertch\">Esther Teo</a></p>",
+          "description_markdown": "Ester provides 6 great tips that you can use when designing your apps.  In fact designing anything.\r\n\r\n[**6 Basic Design Tips**](https://medium.com/8px-magazine/6-basic-design-tips-1b14523d55b) by [Esther Teo](https://medium.com/@esthertch)",
+          "embedded_links": [
+            {
+              "identifier": "JBzwvGw",
+              "title": "**6 Basic Design Tips**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/8px-magazine/6-basic-design-tips-1b14523d55b"
+            },
+            {
+              "identifier": "DJzxDw8",
+              "title": "Esther Teo",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@esthertch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "sJChuzg",
+          "type": "Link",
+          "title": "Screenshot your Android Phone from ADB",
+          "url_domain": "mikegrant.org.uk",
+          "url": "https://www.mikegrant.org.uk/2020/09/03/xamarin-tips-screenshot-from-adb.html",
+          "description": "<p>Having the ability to take a screenshot directly from your command prompt will save you a lot of time over the duration of a project.</p>\n\n<p><a href=\"https://www.mikegrant.org.uk/2020/09/03/xamarin-tips-screenshot-from-adb.html\"><strong>Xamarin Tips - Sreenshot your Android Phone from ADB</strong></a> by <a href=\"https://twitter.com/mike_grant_\">Mike Grant</a></p>",
+          "description_markdown": "Having the ability to take a screenshot directly from your command prompt will save you a lot of time over the duration of a project.\r\n\r\n[**Xamarin Tips - Sreenshot your Android Phone from ADB**](https://www.mikegrant.org.uk/2020/09/03/xamarin-tips-screenshot-from-adb.html) by [Mike Grant](https://twitter.com/mike_grant_)",
+          "embedded_links": [
+            {
+              "identifier": "X0c0taI",
+              "title": "**Xamarin Tips - Sreenshot your Android Phone from ADB**",
+              "url_domain": "mikegrant.org.uk",
+              "url": "https://www.mikegrant.org.uk/2020/09/03/xamarin-tips-screenshot-from-adb.html"
+            },
+            {
+              "identifier": "EsyKXmw",
+              "title": "Mike Grant",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mike_grant_"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "7Rli904",
+          "type": "Link",
+          "title": "Turning it up to 11: Android 11 for developers",
+          "url_domain": "googleblog.com",
+          "url": "https://android-developers.googleblog.com/2020/09/android11-final-release.html",
+          "description": "<p>Android 11 is here! Learn about some of the new features available on the release that might appeal to us developers.</p>\n\n<p><a href=\"https://android-developers.googleblog.com/2020/09/android11-final-release.html\"><strong>Turning it up to 11: Android 11 for developers</strong></a> by <a href=\"\">Stephanie Cuthbertson</a></p>",
+          "description_markdown": "Android 11 is here! Learn about some of the new features available on the release that might appeal to us developers.\r\n\r\n[**Turning it up to 11: Android 11 for developers**](https://android-developers.googleblog.com/2020/09/android11-final-release.html) by [Stephanie Cuthbertson]()",
+          "embedded_links": [
+            {
+              "identifier": "6h9ue6A",
+              "title": "**Turning it up to 11: Android 11 for developers**",
+              "url_domain": "googleblog.com",
+              "url": "https://android-developers.googleblog.com/2020/09/android11-final-release.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "mL7XKXA",
+          "type": "Link",
+          "title": "Learning to use Data Caching in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/learning-to-use-data-caching-in-xamarin-forms/",
+          "description": "<p>Caching is important for lots of applications. Monkey Cache is a super simple but effective cache library from James Montemagno. In this article Leomaris helps you get started using it.</p>\n\n<p><a href=\"https://askxammy.com/learning-to-use-data-caching-in-xamarin-forms/\"><strong>Learning to use Data Caching in Xamarin Forms</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Caching is important for lots of applications. Monkey Cache is a super simple but effective cache library from James Montemagno. In this article Leomaris helps you get started using it.\r\n\r\n[**Learning to use Data Caching in Xamarin Forms**](https://askxammy.com/learning-to-use-data-caching-in-xamarin-forms/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "yGKfiu3",
+              "title": "**Learning to use Data Caching in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/learning-to-use-data-caching-in-xamarin-forms/"
+            },
+            {
+              "identifier": "DBhu8wD",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "2yTvwKD",
+          "type": "Link",
+          "title": "Modal Navigation in Shell",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-quick-tip-modal-navigation/",
+          "description": "<p>If you want to implement a modal page navigation (where a new page pops up over the current page) in Shell, this article provides a good starting point for you.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-quick-tip-modal-navigation/\"><strong>Xamarin.Forms Shell Quick Tip – Modal Navigation</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "If you want to implement a modal page navigation (where a new page pops up over the current page) in Shell, this article provides a good starting point for you.\r\n\r\n[**Xamarin.Forms Shell Quick Tip – Modal Navigation**](https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-quick-tip-modal-navigation/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "uicImeZ",
+              "title": "**Xamarin.Forms Shell Quick Tip – Modal Navigation**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-quick-tip-modal-navigation/"
+            },
+            {
+              "identifier": "6aBKdpY",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        },
+        {
+          "identifier": "2WYGuKe",
+          "type": "Link",
+          "title": "Functional App Development",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/fabulous-functional-app-development/",
+          "description": "<p>Applications built with Fabulous use the MVU design pattern (Model-View-Update, also known from the origin The Elm Architecture). These app also use declarative views written directly in F#. If you want to learn a bit more about MVU and the Fabulous framework, check this out.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/fabulous-functional-app-development/\"><strong>Fabulous: Functional App Development</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/timothelariviere/\">Timothé Larivière</a></p>",
+          "description_markdown": "Applications built with Fabulous use the MVU design pattern (Model-View-Update, also known from the origin The Elm Architecture). These app also use declarative views written directly in F#. If you want to learn a bit more about MVU and the Fabulous framework, check this out.\r\n\r\n[**Fabulous: Functional App Development**](https://devblogs.microsoft.com/xamarin/fabulous-functional-app-development/) by [Timothé Larivière](https://devblogs.microsoft.com/xamarin/author/timothelariviere/)",
+          "embedded_links": [
+            {
+              "identifier": "keCbZfh",
+              "title": "**Fabulous: Functional App Development**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/fabulous-functional-app-development/"
+            },
+            {
+              "identifier": "5dPfPQI",
+              "title": "Timothé Larivière",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/timothelariviere/"
+            }
+          ]
+        },
+        {
+          "identifier": "UzkACmq",
+          "type": "Link",
+          "title": "Creating Custom Renderers",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/how-to-create-custom-renderers-for-a-control-in-xamarin-forms.aspx",
+          "description": "<p>Xamarin.Forms uses a common API to render cross-platform mobile UIs. Therefore, the components can be rendered differently on each platform, using a renderer class. This renderer class creates a native control and translates the properties of the Xamarin.Forms control to it.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/how-to-create-custom-renderers-for-a-control-in-xamarin-forms.aspx\"><strong>How to Create Custom Renderers for a Control in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/luciomsp\">Vicente Gerardo Guzmán Lucio</a></p>",
+          "description_markdown": "Xamarin.Forms uses a common API to render cross-platform mobile UIs. Therefore, the components can be rendered differently on each platform, using a renderer class. This renderer class creates a native control and translates the properties of the Xamarin.Forms control to it.\r\n\r\n[**How to Create Custom Renderers for a Control in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/how-to-create-custom-renderers-for-a-control-in-xamarin-forms.aspx) by [Vicente Gerardo Guzmán Lucio](https://twitter.com/luciomsp)",
+          "embedded_links": [
+            {
+              "identifier": "Dub3oVB",
+              "title": "**How to Create Custom Renderers for a Control in Xamarin.Forms**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/how-to-create-custom-renderers-for-a-control-in-xamarin-forms.aspx"
+            },
+            {
+              "identifier": "fEYoBlE",
+              "title": "Vicente Gerardo Guzmán Lucio",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luciomsp"
+            }
+          ]
+        },
+        {
+          "identifier": "tjG3vkY",
+          "type": "Link",
+          "title": "Xamarin.Forms Brushes",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2020/09/07/xamarin-forms-brushes/",
+          "description": "<p>With the advent of Xamarin.Forms 4.8 comes highly expected functionality, the ability to use Brushes and gradients. In this article, we will know the new possibilities that we have using brushes.</p>\n\n<p><strong>NOTE: Article is in Spanish</strong></p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2020/09/07/xamarin-forms-brushes/\"><strong>[Xamarin.Forms] Brushes</strong></a> by <a href=\"https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/\">Javier Suárez Ruiz</a></p>",
+          "description_markdown": "With the advent of Xamarin.Forms 4.8 comes highly expected functionality, the ability to use Brushes and gradients. In this article, we will know the new possibilities that we have using brushes.\r\n\r\n**NOTE: Article is in Spanish**\r\n\r\n[**[Xamarin.Forms] Brushes**](https://javiersuarezruiz.wordpress.com/2020/09/07/xamarin-forms-brushes/) by [Javier Suárez Ruiz](https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/)",
+          "embedded_links": [
+            {
+              "identifier": "mtrbKSu",
+              "title": "Xamarin.Forms] Brushes**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2020/09/07/xamarin-forms-brushes/"
+            },
+            {
+              "identifier": "VrApxaL",
+              "title": "Javier Suárez Ruiz",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/author/javiersuarezruiz/"
+            }
+          ]
+        },
+        {
+          "identifier": "kDeoI4o",
+          "type": "Link",
+          "title": "A bindable AsyncCommand for Xamarin.Forms",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/taskloadercommand-asynccommand/",
+          "description": "<p>A short blog by Jean-Marie to showcase an undocumented feature of the TaskLoaderView: the TaskLoaderCommand.</p>\n\n<p><a href=\"https://www.sharpnado.com/taskloadercommand-asynccommand/\"><strong>TaskLoaderCommand: a bindable AsyncCommand for Xamarin.Forms</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "A short blog by Jean-Marie to showcase an undocumented feature of the TaskLoaderView: the TaskLoaderCommand.\r\n\r\n[**TaskLoaderCommand: a bindable AsyncCommand for Xamarin.Forms**](https://www.sharpnado.com/taskloadercommand-asynccommand/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)",
+          "embedded_links": [
+            {
+              "identifier": "V4nvBmA",
+              "title": "**TaskLoaderCommand: a bindable AsyncCommand for Xamarin.Forms**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/taskloadercommand-asynccommand/"
+            },
+            {
+              "identifier": "jhc5zgJ",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        },
+        {
+          "identifier": "f05AhSJ",
+          "type": "Link",
+          "title": "Goodbye Xamarin.Forms, Hello .NET MAUI!",
+          "url_domain": "dotnetcurry.com",
+          "url": "https://www.dotnetcurry.com/xamarin/dotnet-maui-multi-platform-app-ui",
+          "description": "<p>If you are interested in the mobile development space, you must’ve heard by now: Xamarin.Forms is evolving into .NET Multi-platform App User Interface (MAUI). In this tutorial, Gerald will tell you all about the ins and outs of this change and what it might mean for you.</p>\n\n<p><a href=\"https://www.dotnetcurry.com/xamarin/dotnet-maui-multi-platform-app-ui\"><strong>Goodbye Xamarin.Forms, Hello .NET MAUI!</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "If you are interested in the mobile development space, you must’ve heard by now: Xamarin.Forms is evolving into .NET Multi-platform App User Interface (MAUI). In this tutorial, Gerald will tell you all about the ins and outs of this change and what it might mean for you.\r\n\r\n[**Goodbye Xamarin.Forms, Hello .NET MAUI!**](https://www.dotnetcurry.com/xamarin/dotnet-maui-multi-platform-app-ui) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "Y3fGlE7",
+              "title": "**Goodbye Xamarin.Forms, Hello .NET MAUI!**",
+              "url_domain": "dotnetcurry.com",
+              "url": "https://www.dotnetcurry.com/xamarin/dotnet-maui-multi-platform-app-ui"
+            },
+            {
+              "identifier": "fOu58uH",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "zNqUi3m",
+          "type": "Link",
+          "title": "New Features in Xamarin.Forms 4.8: Gradients, Brushes, and Flyout Backdrop Color",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/new-features-in-xamarin-forms-4-8-gradients-brushes-and-flyout-backdrop-color.aspx?utm_source=twitter&utm_medium=social&utm_campaign=xamforms4.8newfeatures_bptwsep20",
+          "description": "<p>The new brushes in Xamarin.Forms 4.8 have got me really excited, especially as linear gradients have allowed me to make rainbows in my apps (because why not?). But they can do more than just that and this post from Vicente over on the Syncfusion blog has some great examples of what you can do with some of the features in the Xamarin.Forms 4.8 release.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/new-features-in-xamarin-forms-4-8-gradients-brushes-and-flyout-backdrop-color.aspx?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=xamforms4.8newfeatures_bptwsep20\"><strong>New Features in Xamarin.Forms 4.8: Gradients, Brushes, and Flyout Backdrop Color</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/luciomspgeeks-ms\">Vicente Gerardo Guzmán Lucio</a></p>",
+          "description_markdown": "The new brushes in Xamarin.Forms 4.8 have got me really excited, especially as linear gradients have allowed me to make rainbows in my apps (because why not?). But they can do more than just that and this post from Vicente over on the Syncfusion blog has some great examples of what you can do with some of the features in the Xamarin.Forms 4.8 release.\r\n\r\n[**New Features in Xamarin.Forms 4.8: Gradients, Brushes, and Flyout Backdrop Color**](https://www.syncfusion.com/blogs/post/new-features-in-xamarin-forms-4-8-gradients-brushes-and-flyout-backdrop-color.aspx?utm_source=twitter&utm_medium=social&utm_campaign=xamforms4.8newfeatures_bptwsep20) by [Vicente Gerardo Guzmán Lucio](https://www.syncfusion.com/blogs/author/luciomspgeeks-ms)",
+          "embedded_links": [
+            {
+              "identifier": "aArnzRl",
+              "title": "**New Features in Xamarin.Forms 4.8: Gradients, Brushes, and Flyout Backdrop Color**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/new-features-in-xamarin-forms-4-8-gradients-brushes-and-flyout-backdrop-color.aspx?utm_source=twitter&utm_medium=social&utm_campaign=xamforms4.8newfeatures_bptwsep20"
+            },
+            {
+              "identifier": "IbD2zmh",
+              "title": "Vicente Gerardo Guzmán Lucio",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/luciomspgeeks-ms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "security",
+      "name": "SECURITY",
+      "items": [
+        {
+          "identifier": "QgR1iHt",
+          "type": "Link",
+          "title": "Am I running on a Jailbroken device?",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-meu-app-esta-seguro-parte-1-14095f6ed22",
+          "description": "<p>The BreachDetector plugin tells you if our app is running on an Unlocked phone (Root on Android/Jailbreak on iOS), if the app was installed by the store if it is an emulator.</p>\n\n<p><strong>Note: Article is in Portuguese</strong></p>\n\n<p><a href=\"https://medium.com/@bertuzzi/o-x-do-xamarin-forms-meu-app-esta-seguro-parte-1-14095f6ed22\"><strong>O X do Xamarin Forms</strong></a> by <a href=\"https://medium.com/@bertuzzi\">Thiago Bertuzzi</a></p>",
+          "description_markdown": "The BreachDetector plugin tells you if our app is running on an Unlocked phone (Root on Android/Jailbreak on iOS), if the app was installed by the store if it is an emulator.\r\n\r\n**Note: Article is in Portuguese**\r\n\r\n[**O X do Xamarin Forms**](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-meu-app-esta-seguro-parte-1-14095f6ed22) by [Thiago Bertuzzi](https://medium.com/@bertuzzi)",
+          "embedded_links": [
+            {
+              "identifier": "1OqtAcG",
+              "title": "**O X do Xamarin Forms**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-meu-app-esta-seguro-parte-1-14095f6ed22"
+            },
+            {
+              "identifier": "DYB6BG6",
+              "title": "Thiago Bertuzzi",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "lW18pSB",
+          "type": "Link",
+          "title": "Surface Duo, Android Startup Times, and Xamarin.Essentials",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/77",
+          "description": "<p>This month James and Matt talk about new Microsoft Learn modules on the Surface Duo. The continuing saga of the Xamarin.Forms Shell quick tips. Of course it's a new month and that means there's a new preview version of Visual Studio! Find out all the goodness that goes along with that.</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/77\"><strong>Surface Duo, Android Startup Times, and Xamarin.Essentials</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "This month James and Matt talk about new Microsoft Learn modules on the Surface Duo. The continuing saga of the Xamarin.Forms Shell quick tips. Of course it's a new month and that means there's a new preview version of Visual Studio! Find out all the goodness that goes along with that.\r\n\r\n[**Surface Duo, Android Startup Times, and Xamarin.Essentials**](https://www.xamarinpodcast.com/77) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)",
+          "embedded_links": [
+            {
+              "identifier": "f1mlCUO",
+              "title": "**Surface Duo, Android Startup Times, and Xamarin.Essentials**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/77"
+            },
+            {
+              "identifier": "zmrtXZd",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        },
+        {
+          "identifier": "ZoJkwGS",
+          "type": "Link",
+          "title": ".NET Rocks! vNext",
+          "url_domain": "dotnetrocks.com",
+          "url": "https://www.dotnetrocks.com/default.aspx?ShowNum=1704",
+          "description": "<p>Carl and Richard talk to Theodora Tataru about her experience creating an application using Xamarin to help with tracker her college grades. Theodora talks about learning the tools, the libraries, and the various techniques to making a Xamarin app - including asking for help! College Diary is just starting to arrive in the app stores - and Theodora is starting her career as a developer!</p>\n\n<p><a href=\"https://www.dotnetrocks.com/default.aspx?ShowNum=1704\"><strong>.NET Rocks! vNext</strong></a> by <a href=\"https://dotnetrocks.com/\">.NET Rocks!</a></p>",
+          "description_markdown": "Carl and Richard talk to Theodora Tataru about her experience creating an application using Xamarin to help with tracker her college grades. Theodora talks about learning the tools, the libraries, and the various techniques to making a Xamarin app - including asking for help! College Diary is just starting to arrive in the app stores - and Theodora is starting her career as a developer!\r\n\r\n[**.NET Rocks! vNext**](https://www.dotnetrocks.com/default.aspx?ShowNum=1704) by [.NET Rocks!](https://dotnetrocks.com/)",
+          "embedded_links": [
+            {
+              "identifier": "NW5bapr",
+              "title": "**.NET Rocks! vNext**",
+              "url_domain": "dotnetrocks.com",
+              "url": "https://www.dotnetrocks.com/default.aspx?ShowNum=1704"
+            },
+            {
+              "identifier": "rcYBXPh",
+              "title": ".NET Rocks!",
+              "url_domain": "dotnetrocks.com",
+              "url": "https://dotnetrocks.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "aZJcnDG",
+          "type": "Link",
+          "title": "Merge Conflict: 218: The One About Blazor",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/218",
+          "description": "<p>It seems wherever you look. these days in the .NET space, someone is using or talking about Blazor. James and Frank this week talk about their favourite new web framework!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/218\"><strong>Merge Conflict: 218: The One About Blazor</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "It seems wherever you look. these days in the .NET space, someone is using or talking about Blazor. James and Frank this week talk about their favourite new web framework!\r\n\r\n[**Merge Conflict: 218: The One About Blazor**](https://www.mergeconflict.fm/218) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "nVyOtHI",
+              "title": "**Merge Conflict: 218: The One About Blazor**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/218"
+            },
+            {
+              "identifier": "MEWCr5Q",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

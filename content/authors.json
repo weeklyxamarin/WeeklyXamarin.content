@@ -695,6 +695,16 @@
       "Website": "https://stvansolano.github.io/"
     },
     {
+      "Name": "Esther Teo",
+      "Id": "https://medium.com/@esthertch",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@esthertch"
+        }
+      ]
+    },
+    {
       "Name": "Evgeny Zborovsky",
       "TwitterHandle": "ezborovsky",
       "GitHubHandle": "yuv4ik",
@@ -812,6 +822,16 @@
       "GitHubHandle": "ionixjunior",
       "Id": "https://twitter.com/ionixjunior",
       "Website": "https://www.ionixjunior.com.br"
+    },
+    {
+      "Name": "Issara Willenskomer",
+      "Id": "https://medium.com/@ux_in_motion",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@ux_in_motion"
+        }
+      ]
     },
     {
       "Name": "Jacob Kirsch",
@@ -1956,6 +1976,16 @@
       ]
     },
     {
+      "Name": "Stef Ivanov",
+      "Id": "https://medium.com/@stefivanov",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@stefivanov"
+        }
+      ]
+    },
+    {
       "Name": "Stefan Nenchev",
       "Id": "https://www.telerik.com/blogs/author/stefan-nenchev",
       "Aliases": [
@@ -2194,6 +2224,10 @@
         {
           "Type": "blog",
           "Name": "https://vicenteguzman.mx/"
+        },
+        {
+          "Type": "blog",
+          "Name": "https://www.syncfusion.com/blogs/author/luciomspgeeks-ms"
         }
       ],
       "Website": "https://vicenteguzman.mx/"

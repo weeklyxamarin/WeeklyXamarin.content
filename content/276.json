@@ -1,0 +1,180 @@
+{
+  "Id": "276",
+  "Name": "Issue 276",
+  "UpdatedTimeStamp": "2020-09-11T14:20:55Z",
+  "Summary": "Lots of design articles, Android 11 is out, Maui information, MVU and data caching to name just a few...",
+  "Introduction": "Happy Friday, Great posts from the community this week, we have lots of design articles, Android 11 is out, Maui information, MVU and data caching to name just a few... Hope you have a relaxing and safe weekend. ❤ Kym",
+  "PublishDate": "2020-09-11T14:20:51Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "MonkeyFest USA - Call For Speakers",
+      "Url": "https://sessionize.com/monkey-fest-usa-2020/",
+      "Description": "MonkeyFest USA is happening November 21st and right now they have a Request For Speakers open. So make sure you sign up for the conference and if you are keen put in a speaker request.",
+      "EditionId": "276",
+      "Id": "276-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Creating Usability with Motion: The UX in Motion Manifesto",
+      "Url": "https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc",
+      "Description": "Motion when used well in an application enhances the user experience.  This article shares twelve specific opportunities to support usability in your UX projects using motion.",
+      "EditionId": "276",
+      "Author": "Issara Willenskomer",
+      "Id": "276-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Mobile App Redesign for Developers: Colors and Typography",
+      "Url": "https://www.pujolsluis.com/mobile-app-redesign-for-developers-colors-and-typography/",
+      "Description": "Luis continues his series on lessons learnt creating the design for GitTrends - this time he talks about two incredibly important design aspects, Color and Typography.",
+      "EditionId": "276",
+      "Author": "Luis Pujols",
+      "Id": "276-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "16 UX and UI Design Tips That Always Deliver Growth",
+      "Url": "https://medium.com/design-for-growth/16-ux-and-ui-design-tips-that-always-deliver-growth-6bacd9fd25fe",
+      "Description": "UX is a discovery process. We often argue that user experience doesn’t start and finish with a project. As long as your product is live, the UX process never ends.",
+      "EditionId": "276",
+      "Author": "Stef Ivanov",
+      "Id": "276-4",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "6 Basic Design Tips",
+      "Url": "https://medium.com/8px-magazine/6-basic-design-tips-1b14523d55b",
+      "Description": "Ester provides 6 great tips that you can use when designing your apps.  In fact designing anything.",
+      "EditionId": "276",
+      "Author": "Esther Teo",
+      "Id": "276-5",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Screenshot your Android Phone from ADB",
+      "Url": "https://www.mikegrant.org.uk/2020/09/03/xamarin-tips-screenshot-from-adb.html",
+      "Description": "Having the ability to take a screenshot directly from your command prompt will save you a lot of time over the duration of a project.",
+      "EditionId": "276",
+      "Author": "Mike Grant",
+      "Id": "276-6",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Turning it up to 11: Android 11 for developers",
+      "Url": "https://android-developers.googleblog.com/2020/09/android11-final-release.html",
+      "Description": "Android 11 is here! Learn about some of the new features available on the release that might appeal to us developers.",
+      "EditionId": "276",
+      "Id": "276-7",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Learning to use Data Caching in Xamarin Forms",
+      "Url": "https://askxammy.com/learning-to-use-data-caching-in-xamarin-forms/",
+      "Description": "Caching is important for lots of applications. Monkey Cache is a super simple but effective cache library from James Montemagno. In this article Leomaris helps you get started using it.",
+      "EditionId": "276",
+      "Author": "Leomaris Reyes",
+      "Id": "276-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Modal Navigation in Shell",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-shell-quick-tip-modal-navigation/",
+      "Description": "If you want to implement a modal page navigation (where a new page pops up over the current page) in Shell, this article provides a good starting point for you.",
+      "EditionId": "276",
+      "Author": "James Montemagno",
+      "Id": "276-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Functional App Development",
+      "Url": "https://devblogs.microsoft.com/xamarin/fabulous-functional-app-development/",
+      "Description": "Applications built with Fabulous use the MVU design pattern (Model-View-Update, also known from the origin The Elm Architecture). These app also use declarative views written directly in F#. If you want to learn a bit more about MVU and the Fabulous framework, check this out.",
+      "EditionId": "276",
+      "Author": "Timothé Larivière",
+      "Id": "276-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Creating Custom Renderers",
+      "Url": "https://www.syncfusion.com/blogs/post/how-to-create-custom-renderers-for-a-control-in-xamarin-forms.aspx",
+      "Description": "Xamarin.Forms uses a common API to render cross-platform mobile UIs. Therefore, the components can be rendered differently on each platform, using a renderer class. This renderer class creates a native control and translates the properties of the Xamarin.Forms control to it.",
+      "EditionId": "276",
+      "Author": "Vicente Guzman",
+      "Id": "276-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms Brushes",
+      "Url": "https://javiersuarezruiz.wordpress.com/2020/09/07/xamarin-forms-brushes/",
+      "Description": "With the advent of Xamarin.Forms 4.8 comes highly expected functionality, the ability to use Brushes and gradients. In this article, we will know the new possibilities that we have using brushes. **NOTE: Article is in Spanish**",
+      "EditionId": "276",
+      "Author": "Javier Suárez",
+      "Id": "276-12",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "A bindable AsyncCommand for Xamarin.Forms",
+      "Url": "https://www.sharpnado.com/taskloadercommand-asynccommand/",
+      "Description": "A short blog by Jean-Marie to showcase an undocumented feature of the TaskLoaderView: the TaskLoaderCommand.",
+      "EditionId": "276",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "276-13",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Goodbye Xamarin.Forms, Hello .NET MAUI!",
+      "Url": "https://www.dotnetcurry.com/xamarin/dotnet-maui-multi-platform-app-ui",
+      "Description": "If you are interested in the mobile development space, you must’ve heard by now: Xamarin.Forms is evolving into .NET Multi-platform App User Interface (MAUI). In this tutorial, Gerald will tell you all about the ins and outs of this change and what it might mean for you.",
+      "EditionId": "276",
+      "Author": "Gerald Versluis",
+      "Id": "276-14",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "New Features in Xamarin.Forms 4.8: Gradients, Brushes, and Flyout Backdrop Color",
+      "Url": "https://www.syncfusion.com/blogs/post/new-features-in-xamarin-forms-4-8-gradients-brushes-and-flyout-backdrop-color.aspx?utm_source=twitter&utm_medium=social&utm_campaign=xamforms4.8newfeatures_bptwsep20",
+      "Description": "The new brushes in Xamarin.Forms 4.8 have got me really excited, especially as linear gradients have allowed me to make rainbows in my apps (because why not?). But they can do more than just that and this post from Vicente over on the Syncfusion blog has some great examples of what you can do with some of the features in the Xamarin.Forms 4.8 release.",
+      "EditionId": "276",
+      "Author": "Vicente Guzman",
+      "Id": "276-15",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Am I running on a Jailbroken device?",
+      "Url": "https://medium.com/@bertuzzi/o-x-do-xamarin-forms-meu-app-esta-seguro-parte-1-14095f6ed22",
+      "Description": "The BreachDetector plugin tells you if our app is running on an Unlocked phone (Root on Android/Jailbreak on iOS), if the app was installed by the store if it is an emulator. **Note: Article is in Portuguese**",
+      "EditionId": "276",
+      "Author": "Thiago Bertuzzi",
+      "Id": "276-16",
+      "Category": "SECURITY"
+    },
+    {
+      "Title": "Surface Duo, Android Startup Times, and Xamarin.Essentials",
+      "Url": "https://www.xamarinpodcast.com/77",
+      "Description": "This month James and Matt talk about new Microsoft Learn modules on the Surface Duo. The continuing saga of the Xamarin.Forms Shell quick tips. Of course it's a new month and that means there's a new preview version of Visual Studio! Find out all the goodness that goes along with that.",
+      "EditionId": "276",
+      "Author": "The Xamarin Podcast",
+      "Id": "276-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET Rocks! vNext",
+      "Url": "https://www.dotnetrocks.com/default.aspx?ShowNum=1704",
+      "Description": "Carl and Richard talk to Theodora Tataru about her experience creating an application using Xamarin to help with tracker her college grades. Theodora talks about learning the tools, the libraries, and the various techniques to making a Xamarin app - including asking for help! College Diary is just starting to arrive in the app stores - and Theodora is starting her career as a developer!",
+      "EditionId": "276",
+      "Author": ".NET Rocks!",
+      "Id": "276-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 218: The One About Blazor",
+      "Url": "https://www.mergeconflict.fm/218",
+      "Description": "It seems wherever you look. these days in the .NET space, someone is using or talking about Blazor. James and Frank this week talk about their favourite new web framework!",
+      "EditionId": "276",
+      "Author": "Merge Conflict",
+      "Id": "276-19",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
