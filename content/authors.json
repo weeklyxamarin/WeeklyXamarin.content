@@ -18,6 +18,16 @@
       "Website": "https://achrafbenalaya.github.io/Achrafbenalayablog/"
     },
     {
+      "Name": "Aden Earnshaw",
+      "Id": "https://twitter.com/adenearnshaw",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/adenearnshaw"
+        }
+      ]
+    },
+    {
       "Name": "Ahmed Fouad",
       "TwitterHandle": "MCC_Ahmed",
       "GitHubHandle": "TheFo2sh",
@@ -226,6 +236,16 @@
         {
           "Type": "blog",
           "Name": "https://developer.apple.com/"
+        }
+      ]
+    },
+    {
+      "Name": "Ariel Michaeli",
+      "Id": "https://twitter.com/arielmichaeli",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/arielmichaeli"
         }
       ]
     },

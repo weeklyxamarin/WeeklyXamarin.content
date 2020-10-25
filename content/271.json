@@ -1,0 +1,117 @@
+{
+  "Id": "271",
+  "Name": "Issue 271",
+  "UpdatedTimeStamp": "2020-08-07T16:31:55Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hey everyone, Happy Friday! Another quiet but quality week for content this week, but hopefully that means you are all off on vacation, relaxing and spending time with loved ones. Hope you all stay safe and well and have a wonderful weekend! Luce ❤",
+  "PublishDate": "2020-08-07T16:31:53Z",
+  "Curators": "Luce Carter",
+  "Articles": [
+    {
+      "Title": "How To Design Screenshots That Result in Downloads—Musts, Tips, and Don'ts",
+      "Url": "https://appfigures.com/resources/aso/optimizing-screenshots-creatives",
+      "Description": "App Store Optimization has two sides, keyword optimization, which gets people to view your app's page, and screenshot optimization, which turns those views into downloads. One needs the other, and the two build on top of each other to give your app the downloads it deserves.",
+      "EditionId": "271",
+      "Author": "Ariel Michaeli",
+      "Id": "271-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Working with Master-Detail-Pages | Prism",
+      "Url": "https://prismlibrary.com/docs/xamarin-forms/navigation/working-with-masterdetailpages.html",
+      "Description": "The introduction of Shell to Xamarin.Forms 4.0 changed the game when it comes to tabbed and master detail pages. But maybe you are using Prism. In this post, Dan talks you through how to achieve the Master-Detail page layout using Prism.",
+      "EditionId": "271",
+      "Author": "Dan Siegel",
+      "Id": "271-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Open Xamarin.Forms WebView links in external browser",
+      "Url": "https://adenearnshaw.com/open-xamarin-forms-webview-links-in-external-browser/",
+      "Description": "On occasions you may find a need to display a block of HTML in your app, for a bit of legal blurb for example, and you'll reach for the trusty WebView. The WebView control is great for displaying a page of HTML, however it comes \"as is\". If a user clicks on a link within the WebView, it opens the link within the same view, but the user is unable to go back, as the WebView has no navigation controls.",
+      "EditionId": "271",
+      "Author": "Aden Earnshaw",
+      "Id": "271-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Getting started with Excel Files creation in Xamarin Forms",
+      "Url": "https://askxammy.com/getting-started-with-excel-files-creation-in-xamarin-forms/",
+      "Description": "Ever wondered how to generate Excel files from a Xamarin.Forms app? Well Leomaris has you covered!",
+      "EditionId": "271",
+      "Author": "Leomaris Reyes",
+      "Id": "271-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "You only need an OneTime binding",
+      "Url": "https://danielhindrikes.se/index.php/2020/08/03/you-only-need-an-onetime-binding/",
+      "Description": "When creating a binding in Xamarin.Forms, the default is that you create an OneWay binding (except for input elements that have TwoWay bindings), this means that it updates the view from the ViewModel whenever the value in the ViewModel changes. But often you don't need an OneWay binding, you only need an OneTime binding, but you use OneWay just because it is the default.",
+      "EditionId": "271",
+      "Author": "Daniel Hindrikes",
+      "Id": "271-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "August dotNET Virtural Events to Tune Into",
+      "Url": "https://devblogs.microsoft.com/xamarin/august-dotnet-virtual-events/",
+      "Description": "With Covid still very much still much around, a lot of meetups are virtual in August. All this means is even more events we can attend, yay!!",
+      "EditionId": "271",
+      "Author": "Jayme Singleton",
+      "Id": "271-6",
+      "Category": "MEETUPS"
+    },
+    {
+      "Title": "Xamarin Summit 2019, O maior encontro de desenvolvedores #Xamarin da América Latina,04 e 05 de Outubro, Florianópolis, Brasil",
+      "Url": "http://www.xamarinsummit.com.br/",
+      "Description": "Xamarin Summit 2019, O maior encontro de desenvolvedores #Xamarin da América Latina,04 e 05 de Outubro, Florianópolis, Brasil [**Xamarin Summit 2019, O maior encontro de desenvolvedores #Xamarin da América Latina,04 e 05 de Outubro, Florianópolis, Brasil**](http://www.xamarinsummit.com.br)",
+      "EditionId": "271",
+      "Id": "271-7",
+      "Category": "MEETUPS"
+    },
+    {
+      "Title": "XamarinCommunityToolkit: an introduction",
+      "Url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/microsoft-toolkit-xamarin-forms-introduction/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-toolkit-xamarin-forms-introduction",
+      "Description": "A bunch of community legends have recently started to revive the Xamarin Community Toolkit, a great aggregation of commonly used code. Ever found yourself constantly copying and pasting certain converters, animations, effects, behaviours or controls? Then this is the Nuget for you!",
+      "EditionId": "271",
+      "Author": "Gerald Versluis",
+      "Id": "271-8",
+      "Category": "NUGET OF THE WEEK"
+    },
+    {
+      "Title": "12: MVVM – Null Pointers",
+      "Url": "https://nullpointers.io/12/",
+      "Description": "A large proportion of Xamarin.Forms applications are architected to follow the MVVM architecture so this is a great episode that covers advantages, libraries, IoC and more...with a bonus Easter Egg at the end!",
+      "EditionId": "271",
+      "Author": "Null Pointers",
+      "Id": "271-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Community Standup - August 6th 2020 - Xamarin.Forms 4.8 Gradients with Shane",
+      "Url": "https://www.youtube.com/watch?v=hjYe9_U8fwo",
+      "Description": "Another fantastic Xamarin Community Standup happened this week. Covering community blogs, community PR's, gradients and more! [**Xamarin Community Standup - August 6th 2020](https://www.youtube.com/watch?v=hjYe9_U8fwo)",
+      "EditionId": "271",
+      "Id": "271-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 213: GPT-3",
+      "Url": "https://www.mergeconflict.fm/213",
+      "Description": "Is GPT-3 set to take over the world? Find out on this week's podcast!",
+      "EditionId": "271",
+      "Author": "Merge Conflict",
+      "Id": "271-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "MFractor 4.3 Now Available",
+      "Url": "https://www.mfractor.com/blogs/news/mfractor-4-3-now-available",
+      "Description": "MFractor 4.3 is now available for both Visual Studio Windows and Mac. This release provides support for Visual Studio Mac 8.7 and includes many tooltip features for both XAML and C#. In 4.3, the goal was to surface useful additional information about your code and to improve the navigation experience in MFractor.",
+      "EditionId": "271",
+      "Author": "MFractor",
+      "Id": "271-12",
+      "Category": "RELEASES"
+    }
+  ]
+}
