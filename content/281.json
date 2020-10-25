@@ -1,0 +1,109 @@
+{
+  "Id": "281",
+  "Name": "Issue 281",
+  "UpdatedTimeStamp": "2020-10-16T15:24:36Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hey everyone, Happy Friday! Autumn is starting to hit here in the UK, so much so that the weather is getting colder and even British Summer Time ends at the weekend as we turn the clocks back and go back to GMT/UTC. Lots of great articles this week, so hopefully you all have a fantastic weekend and get to enjoy the great work of the community! Luce 🧡",
+  "PublishDate": "2020-10-16T15:24:33Z",
+  "Curators": "Luce Carter",
+  "Articles": [
+    {
+      "Title": "My Top Xamarin Blogs and Online Communities",
+      "Url": "https://www.jmparent.com/2020/10/12/my-top-xamarin-blogs-and-online-communities/",
+      "Description": "We love all kinds of content here at Weekly Xamarin and this is another great list of resources for Xamarin blogs and online communities where we can all enjoy our love of this wonderful technology!",
+      "EditionId": "281",
+      "Author": "Jean-Marie Parent",
+      "Id": "281-1",
+      "Category": "GETTING STARTED"
+    },
+    {
+      "Title": "Query & Interact with Apps in Android 11 with Package Visibility",
+      "Url": "https://devblogs.microsoft.com/xamarin/android-11-package-visibility/",
+      "Description": "Android 11 introduced several exciting updates for developers to integrate into their app experience including new device and media controls, enhanced support for foldables, and a lot more. In addition to new features there are also several privacy enhancements that developers need to integrate into their application when upgraded and re-targeting to Android 11. One of those enhancements is the introduction of package visibility that alters the ability to query installed applications and packages on a user’s device.",
+      "EditionId": "281",
+      "Author": "James Montemagno",
+      "Id": "281-2",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Thinking Out Loud: Events, Messaging and Mvvm Navigation with XAML Frameworks",
+      "Url": "https://nicksnettravels.builttoroam.com/viewmodel-message-navigation/?utm_source=rss&utm_medium=rss&utm_campaign=viewmodel-message-navigation",
+      "Description": "This post from Nick carries on from a previous post we featured, and this time it takes advantage of C# 9 features to help reduce even more the code you have to write, winner!",
+      "EditionId": "281",
+      "Author": "Nick Randolph",
+      "Id": "281-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "OTP Auto-Fill Entry for iOS with Xamarin.Forms",
+      "Url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/otp-auto-fill-entry-for-ios-with-xamarin-forms/?utm_source=rss&utm_medium=rss&utm_campaign=otp-auto-fill-entry-for-ios-with-xamarin-forms",
+      "Description": "I was actually thinking about this exact feature recently when I benefitted from 2FA auto-fill on iOS, so really excited to see Gerald has written this excellent post showing us how to do it in Xamarin.Forms!",
+      "EditionId": "281",
+      "Author": "Gerald Versluis",
+      "Id": "281-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "5 Tips to Easily Use the Grid for Layouts in Xamarin.Forms",
+      "Url": "https://www.syncfusion.com/blogs/post/5-tips-to-easily-use-the-grid-for-layouts-in-xamarin-forms.aspx",
+      "Description": "Grids are one of my favourite layouts in Xamarin.Forms and Leomaris is always a great teacher so this is excellent if you have found yourself shying away from grids.",
+      "EditionId": "281",
+      "Author": "Leomaris Reyes",
+      "Id": "281-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Choose a Time Duration: Telerik TimeSpan Picker for Xamarin",
+      "Url": "https://www.telerik.com/blogs/choose-time-duration-telerik-timespan-picker-xamarin",
+      "Description": "The Telerik TimeSpanPicker for Xamarin provides users with a quick and easy way to select a time duration, and the duration interval can be measured in days, hours, minutes and all the way down to seconds. Just like all other picker controls from the Telerik UI for Xamarin suite, TimeSpanPicker is highly customizable—you can modify every part of the control, including the popup, spinners, header and footer as well as the displayed text before and after time interval is selected.",
+      "EditionId": "281",
+      "Author": "Yana Kerpecheva",
+      "Id": "281-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "PR Tracker for .NET projects",
+      "Url": "https://prtracker.net/",
+      "Description": "This is a fun project from Microsoft MVP and .NET Foundation Board Member Layla Porter, that allows you to log and track your contributions to any open source .NET project marked with the Hacktoberfest label. Not only can you use it to track your contributions but the project can also be found on [GitHub](https://github.com/layla-p/hacktoberfestproject) and openly welcomes PR's so you can even track work you have done on the tracker project, meta!",
+      "EditionId": "281",
+      "Author": "Layla Porter",
+      "Id": "281-7",
+      "Category": ".NET"
+    },
+    {
+      "Title": "Using Styles in Xamarin.Forms: Implicit, Explicit and Inherit Styles",
+      "Url": "https://www.youtube.com/watch?v=a2A4uWfjHf0",
+      "Description": "Xamarin.Forms applications often contain multiple controls that have a similar appearance. Setting the appearance of each individual control can be repetitive and error prone. With styles you can make your XAML less verbose and the maintenance of the look and feel of your Xamarin.Forms app much simpeler. In this video we will learn how to use implicit styles, explicit styles, style inheritance and how to make styles apply to your own custom controls.",
+      "EditionId": "281",
+      "Author": "Gerald Versluis",
+      "Id": "281-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 223: How App Updates Work",
+      "Url": "https://www.mergeconflict.fm/223",
+      "Description": "How to app updates work, what do you need to know, migrate, and hook into? Or do you need to at all?",
+      "EditionId": "281",
+      "Id": "281-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "XamExpertDay 2020 Live Stream : Full Day Deep-Dive Xamarin Content",
+      "Url": "https://www.youtube.com/playlist?list=PLfbOp004UaYXvwJnu4cRr-LPxAp2i7KoL",
+      "Description": "Here you can find all the sessions from the XamExpertDay 2020 live event. XamExpertDay is a full day of in-depth Xamarin sessions and was a really great day with fantastic speakers.",
+      "EditionId": "281",
+      "Author": "Gerald Versluis",
+      "Id": "281-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 22: .NET Maui",
+      "Url": "https://nullpointers.io/22/",
+      "Description": "In this episode, we finally talk about .NET Maui, also known as the future of Xamarin.Forms. What’s coming and more importantly, when is it coming? We will tell you all about it!",
+      "EditionId": "281",
+      "Author": "Null Pointers",
+      "Id": "281-11",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

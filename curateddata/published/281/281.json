@@ -1,0 +1,310 @@
+{
+  "number": 281,
+  "title": "Issue 281",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/281",
+  "publication_status": "published",
+  "published_at": "2020-10-16T16:24:33+01:00",
+  "updated_at": "2020-10-16T16:24:36+01:00",
+  "categories": [
+    {
+      "code": "lucecarter",
+      "name": "LUCE CARTER",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hey everyone,</p>\n\n<p>Happy Friday!</p>\n\n<p>Autumn is starting to hit here in the UK, so much so that the weather is getting colder and even British Summer Time ends at the weekend as we turn the clocks back and go back to GMT/UTC.</p>\n\n<p>Lots of great articles this week, so hopefully you all have a fantastic weekend and get to enjoy the great work of the community!</p>\n\n<p>Luce 🧡</p>",
+          "description_markdown": "Hey everyone,\r\n\r\nHappy Friday!\r\n\r\nAutumn is starting to hit here in the UK, so much so that the weather is getting colder and even British Summer Time ends at the weekend as we turn the clocks back and go back to GMT/UTC.\r\n\r\nLots of great articles this week, so hopefully you all have a fantastic weekend and get to enjoy the great work of the community!\r\n\r\nLuce 🧡",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "gettingstarted",
+      "name": "GETTING STARTED",
+      "items": [
+        {
+          "identifier": "REkbepx",
+          "type": "Link",
+          "title": "My Top Xamarin Blogs and Online Communities",
+          "url_domain": "jmparent.com",
+          "url": "https://www.jmparent.com/2020/10/12/my-top-xamarin-blogs-and-online-communities/",
+          "description": "<p>We love all kinds of content here at Weekly Xamarin and this is another great list of resources for Xamarin blogs and online communities where we can all enjoy our love of this wonderful technology!</p>\n\n<p><a href=\"https://www.jmparent.com/2020/10/12/my-top-xamarin-blogs-and-online-communities/\"><strong>My Top Xamarin Blogs and Online Communities</strong></a> by <a href=\"https://twitter.com/jmparent_dev\">Jean-Marie Parent</a></p>",
+          "description_markdown": "We love all kinds of content here at Weekly Xamarin and this is another great list of resources for Xamarin blogs and online communities where we can all enjoy our love of this wonderful technology!\r\n\r\n[**My Top Xamarin Blogs and Online Communities**](https://www.jmparent.com/2020/10/12/my-top-xamarin-blogs-and-online-communities/) by [Jean-Marie Parent](https://twitter.com/jmparent_dev)",
+          "embedded_links": [
+            {
+              "identifier": "5eeH2M9",
+              "title": "**My Top Xamarin Blogs and Online Communities**",
+              "url_domain": "jmparent.com",
+              "url": "https://www.jmparent.com/2020/10/12/my-top-xamarin-blogs-and-online-communities/"
+            },
+            {
+              "identifier": "4CkQp0P",
+              "title": "Jean-Marie Parent",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jmparent_dev"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "5trzllD",
+          "type": "Link",
+          "title": "Query & Interact with Apps in Android 11 with Package Visibility",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/android-11-package-visibility/",
+          "description": "<p>Android 11 introduced several exciting updates for developers to integrate into their app experience including new device and media controls, enhanced support for foldables, and a lot more. In addition to new features there are also several privacy enhancements that developers need to integrate into their application when upgraded and re-targeting to Android 11. One of those enhancements is the introduction of package visibility that alters the ability to query installed applications and packages on a user’s device.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/android-11-package-visibility/\"><strong>Query &amp; Interact with Apps in Android 11 with Package Visibility</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/\">James Montemagno</a></p>",
+          "description_markdown": "Android 11 introduced several exciting updates for developers to integrate into their app experience including new device and media controls, enhanced support for foldables, and a lot more. In addition to new features there are also several privacy enhancements that developers need to integrate into their application when upgraded and re-targeting to Android 11. One of those enhancements is the introduction of package visibility that alters the ability to query installed applications and packages on a user’s device.\r\n\r\n[**Query & Interact with Apps in Android 11 with Package Visibility**](https://devblogs.microsoft.com/xamarin/android-11-package-visibility/) by [James Montemagno](https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/)",
+          "embedded_links": [
+            {
+              "identifier": "WbRi2Yc",
+              "title": "**Query & Interact with Apps in Android 11 with Package Visibility**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/android-11-package-visibility/"
+            },
+            {
+              "identifier": "WXZ8Uww",
+              "title": "James Montemagno",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jamesmontemagno/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "VILviro",
+          "type": "Link",
+          "title": "Thinking Out Loud: Events, Messaging and Mvvm Navigation with XAML Frameworks",
+          "url_domain": "builttoroam.com",
+          "url": "https://nicksnettravels.builttoroam.com/viewmodel-message-navigation/?utm_source=rss&utm_medium=rss&utm_campaign=viewmodel-message-navigation",
+          "description": "<p>This post from Nick carries on from a previous post we featured, and this time it takes advantage of C# 9 features to help reduce even more the code you have to write, winner!</p>\n\n<p><a href=\"https://nicksnettravels.builttoroam.com/viewmodel-message-navigation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=viewmodel-message-navigation\"><strong>Thinking Out Loud: Events, Messaging and Mvvm Navigation with XAML Frameworks</strong></a> by <a href=\"https://twitter.com/thenickrandolph\">Nick Randolph</a></p>",
+          "description_markdown": "This post from Nick carries on from a previous post we featured, and this time it takes advantage of C# 9 features to help reduce even more the code you have to write, winner!\r\n\r\n[**Thinking Out Loud: Events, Messaging and Mvvm Navigation with XAML Frameworks**](https://nicksnettravels.builttoroam.com/viewmodel-message-navigation/?utm_source=rss&utm_medium=rss&utm_campaign=viewmodel-message-navigation) by [Nick Randolph](https://twitter.com/thenickrandolph)",
+          "embedded_links": [
+            {
+              "identifier": "oYGj141",
+              "title": "**Thinking Out Loud: Events, Messaging and Mvvm Navigation with XAML Frameworks**",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/viewmodel-message-navigation/?utm_source=rss&utm_medium=rss&utm_campaign=viewmodel-message-navigation"
+            },
+            {
+              "identifier": "BKymZVT",
+              "title": "Nick Randolph",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/thenickrandolph"
+            }
+          ]
+        },
+        {
+          "identifier": "CvNHgRy",
+          "type": "Link",
+          "title": "OTP Auto-Fill Entry for iOS with Xamarin.Forms",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/otp-auto-fill-entry-for-ios-with-xamarin-forms/?utm_source=rss&utm_medium=rss&utm_campaign=otp-auto-fill-entry-for-ios-with-xamarin-forms",
+          "description": "<p>I was actually thinking about this exact feature recently when I benefitted from 2FA auto-fill on iOS, so really excited to see Gerald has written this excellent post showing us how to do it in Xamarin.Forms!</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/xamarin-forms-xamarin/otp-auto-fill-entry-for-ios-with-xamarin-forms/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=otp-auto-fill-entry-for-ios-with-xamarin-forms\"><strong>OTP Auto-Fill Entry for iOS with Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "I was actually thinking about this exact feature recently when I benefitted from 2FA auto-fill on iOS, so really excited to see Gerald has written this excellent post showing us how to do it in Xamarin.Forms!\r\n\r\n[**OTP Auto-Fill Entry for iOS with Xamarin.Forms**](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/otp-auto-fill-entry-for-ios-with-xamarin-forms/?utm_source=rss&utm_medium=rss&utm_campaign=otp-auto-fill-entry-for-ios-with-xamarin-forms) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "vVbxgSN",
+              "title": "**OTP Auto-Fill Entry for iOS with Xamarin.Forms**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/xamarin/xamarin-forms-xamarin/otp-auto-fill-entry-for-ios-with-xamarin-forms/?utm_source=rss&utm_medium=rss&utm_campaign=otp-auto-fill-entry-for-ios-with-xamarin-forms"
+            },
+            {
+              "identifier": "OB7ArYC",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "xH1wDrM",
+          "type": "Link",
+          "title": "5 Tips to Easily Use the Grid for Layouts in Xamarin.Forms",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/5-tips-to-easily-use-the-grid-for-layouts-in-xamarin-forms.aspx",
+          "description": "<p>Grids are one of my favourite layouts in Xamarin.Forms and Leomaris is always a great teacher so this is excellent if you have found yourself shying away from grids.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/5-tips-to-easily-use-the-grid-for-layouts-in-xamarin-forms.aspx\"><strong>5 Tips to Easily Use the Grid for Layouts in Xamarin.Forms</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/lreyesstemelle-com\">Leomaris Reyes</a></p>",
+          "description_markdown": "Grids are one of my favourite layouts in Xamarin.Forms and Leomaris is always a great teacher so this is excellent if you have found yourself shying away from grids. \r\n\r\n[**5 Tips to Easily Use the Grid for Layouts in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/5-tips-to-easily-use-the-grid-for-layouts-in-xamarin-forms.aspx) by [Leomaris Reyes](https://www.syncfusion.com/blogs/author/lreyesstemelle-com)",
+          "embedded_links": [
+            {
+              "identifier": "1iXNPyc",
+              "title": "**5 Tips to Easily Use the Grid for Layouts in Xamarin.Forms**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/5-tips-to-easily-use-the-grid-for-layouts-in-xamarin-forms.aspx"
+            },
+            {
+              "identifier": "AEeVoYy",
+              "title": "Leomaris Reyes",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/lreyesstemelle-com"
+            }
+          ]
+        },
+        {
+          "identifier": "jAIvRR1",
+          "type": "Link",
+          "title": "Choose a Time Duration: Telerik TimeSpan Picker for Xamarin",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/choose-time-duration-telerik-timespan-picker-xamarin",
+          "description": "<p>The Telerik TimeSpanPicker for Xamarin provides users with a quick and easy way to select a time duration, and the duration interval can be measured in days, hours, minutes and all the way down to seconds. Just like all other picker controls from the Telerik UI for Xamarin suite, TimeSpanPicker is highly customizable—you can modify every part of the control, including the popup, spinners, header and footer as well as the displayed text before and after time interval is selected.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/choose-time-duration-telerik-timespan-picker-xamarin\"><strong>Choose a Time Duration: Telerik TimeSpan Picker for Xamarin</strong></a> by <a href=\"https://www.telerik.com/blogs/author/yana-kerpecheva\">Yana Kerpecheva</a></p>",
+          "description_markdown": "The Telerik TimeSpanPicker for Xamarin provides users with a quick and easy way to select a time duration, and the duration interval can be measured in days, hours, minutes and all the way down to seconds. Just like all other picker controls from the Telerik UI for Xamarin suite, TimeSpanPicker is highly customizable—you can modify every part of the control, including the popup, spinners, header and footer as well as the displayed text before and after time interval is selected.\r\n\r\n[**Choose a Time Duration: Telerik TimeSpan Picker for Xamarin**](https://www.telerik.com/blogs/choose-time-duration-telerik-timespan-picker-xamarin) by [Yana Kerpecheva](https://www.telerik.com/blogs/author/yana-kerpecheva)",
+          "embedded_links": [
+            {
+              "identifier": "Zt30RjX",
+              "title": "**Choose a Time Duration: Telerik TimeSpan Picker for Xamarin**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/choose-time-duration-telerik-timespan-picker-xamarin"
+            },
+            {
+              "identifier": "JZKvTqs",
+              "title": "Yana Kerpecheva",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/yana-kerpecheva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "net",
+      "name": ".NET",
+      "items": [
+        {
+          "identifier": "P7ZZCt1",
+          "type": "Link",
+          "title": "PR Tracker for .NET projects",
+          "url_domain": "prtracker.net",
+          "url": "https://prtracker.net/",
+          "description": "<p>This is a fun project from Microsoft MVP and .NET Foundation Board Member Layla Porter, that allows you to log and track your contributions to any open source .NET project marked with the Hacktoberfest label. Not only can you use it to track your contributions but the project can also be found on <a href=\"https://github.com/layla-p/hacktoberfestproject\">GitHub</a> and openly welcomes PR's so you can even track work you have done on the tracker project, meta!</p>\n\n<p><a href=\"https://prtracker.net/\"><strong>PR Tracker for .NET projects</strong></a> by <a href=\"https://twitter.com/laylacodesit\">Layla Porter</a></p>",
+          "description_markdown": "This is a fun project from Microsoft MVP and .NET Foundation Board Member Layla Porter, that allows you to log and track your contributions to any open source .NET project marked with the Hacktoberfest label. Not only can you use it to track your contributions but the project can also be found on [GitHub](https://github.com/layla-p/hacktoberfestproject) and openly welcomes PR's so you can even track work you have done on the tracker project, meta!\r\n\r\n[**PR Tracker for .NET projects**](https://prtracker.net/) by [Layla Porter](https://twitter.com/laylacodesit)",
+          "embedded_links": [
+            {
+              "identifier": "hmKLJpT",
+              "title": "GitHub",
+              "url_domain": "github.com",
+              "url": "https://github.com/layla-p/hacktoberfestproject"
+            },
+            {
+              "identifier": "DvICaBm",
+              "title": "**PR Tracker for .NET projects**",
+              "url_domain": "prtracker.net",
+              "url": "https://prtracker.net/"
+            },
+            {
+              "identifier": "BMdi09",
+              "title": "Layla Porter",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/laylacodesit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "qJ9ni9C",
+          "type": "Link",
+          "title": "Using Styles in Xamarin.Forms: Implicit, Explicit and Inherit Styles",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=a2A4uWfjHf0",
+          "description": "<p>Xamarin.Forms applications often contain multiple controls that have a similar appearance. Setting the appearance of each individual control can be repetitive and error prone. With styles you can make your XAML less verbose and the maintenance of the look and feel of your Xamarin.Forms app much simpeler. In this video we will learn how to use implicit styles, explicit styles, style inheritance and how to make styles apply to your own custom controls.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=a2A4uWfjHf0\"><strong>Using Styles in Xamarin.Forms: Implicit, Explicit and Inherit Styles</strong></a> by <a href=\"https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw\">Gerald Versluis</a></p>",
+          "description_markdown": "Xamarin.Forms applications often contain multiple controls that have a similar appearance. Setting the appearance of each individual control can be repetitive and error prone. With styles you can make your XAML less verbose and the maintenance of the look and feel of your Xamarin.Forms app much simpeler. In this video we will learn how to use implicit styles, explicit styles, style inheritance and how to make styles apply to your own custom controls.\r\n\r\n[**Using Styles in Xamarin.Forms: Implicit, Explicit and Inherit Styles**](https://www.youtube.com/watch?v=a2A4uWfjHf0) by [Gerald Versluis](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw)",
+          "embedded_links": [
+            {
+              "identifier": "XWC9XYy",
+              "title": "**Using Styles in Xamarin.Forms: Implicit, Explicit and Inherit Styles**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=a2A4uWfjHf0"
+            },
+            {
+              "identifier": "d2agoU1",
+              "title": "Gerald Versluis",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw"
+            }
+          ]
+        },
+        {
+          "identifier": "c0bRZQt",
+          "type": "Link",
+          "title": "Merge Conflict: 223: How App Updates Work",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/223",
+          "description": "<p>How to app updates work, what do you need to know, migrate, and hook into? Or do you need to at all?</p>\n\n<p><a href=\"https://www.mergeconflict.fm/223\"><strong>Merge Conflict: 223: How App Updates Work</strong></a> by <a href=\"https://www.mergeconflict.fm/223\">Merge Conflict</a></p>",
+          "description_markdown": "How to app updates work, what do you need to know, migrate, and hook into? Or do you need to at all?\r\n\r\n[**Merge Conflict: 223: How App Updates Work**](https://www.mergeconflict.fm/223) by [Merge Conflict](https://www.mergeconflict.fm/223)",
+          "embedded_links": [
+            {
+              "identifier": "gJdrF7f",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/223"
+            }
+          ]
+        },
+        {
+          "identifier": "rJEReMr",
+          "type": "Link",
+          "title": "XamExpertDay 2020 Live Stream : Full Day Deep-Dive Xamarin Content",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/playlist?list=PLfbOp004UaYXvwJnu4cRr-LPxAp2i7KoL",
+          "description": "<p>Here you can find all the sessions from the XamExpertDay 2020 live event. XamExpertDay is a full day of in-depth Xamarin sessions and was a really great day with fantastic speakers.</p>\n\n<p><a href=\"https://www.youtube.com/playlist?list=PLfbOp004UaYXvwJnu4cRr-LPxAp2i7KoL\"><strong>XamExpertDay 2020 Live Stream : Full Day Deep-Dive Xamarin Content</strong></a> by <a href=\"https://www.youtube.com/c/GeraldVersluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Here you can find all the sessions from the XamExpertDay 2020 live event. XamExpertDay is a full day of in-depth Xamarin sessions and was a really great day with fantastic speakers.\r\n\r\n[**XamExpertDay 2020 Live Stream : Full Day Deep-Dive Xamarin Content**](https://www.youtube.com/playlist?list=PLfbOp004UaYXvwJnu4cRr-LPxAp2i7KoL) by [Gerald Versluis](https://www.youtube.com/c/GeraldVersluis)",
+          "embedded_links": [
+            {
+              "identifier": "YsziM52",
+              "title": "**XamExpertDay 2020 Live Stream : Full Day Deep-Dive Xamarin Content**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/playlist?list=PLfbOp004UaYXvwJnu4cRr-LPxAp2i7KoL"
+            },
+            {
+              "identifier": "1YvoZ8a",
+              "title": "Gerald Versluis",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/c/GeraldVersluis"
+            }
+          ]
+        },
+        {
+          "identifier": "kphlfpp",
+          "type": "Link",
+          "title": "Null Pointers 22: .NET Maui",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/22/",
+          "description": "<p>In this episode, we finally talk about .NET Maui, also known as the future of Xamarin.Forms. What’s coming and more importantly, when is it coming? We will tell you all about it!</p>\n\n<p><a href=\"https://nullpointers.io/22/\"><strong>Null Pointers 22: .NET Maui</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "In this episode, we finally talk about .NET Maui, also known as the future of Xamarin.Forms. What’s coming and more importantly, when is it coming? We will tell you all about it!\r\n\r\n[**Null Pointers 22: .NET Maui**](https://nullpointers.io/22/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "3E6J0tU",
+              "title": "**Null Pointers 22: .NET Maui**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/22/"
+            },
+            {
+              "identifier": "CgSb6sc",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

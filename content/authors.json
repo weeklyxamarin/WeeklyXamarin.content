@@ -856,6 +856,16 @@
       "Website": "https://www.informaticapressapochista.com/it"
     },
     {
+      "Name": "GitHub",
+      "Id": "https://github.com/layla-p/hacktoberfestproject",
+      "Aliases": [
+        {
+          "Type": "github",
+          "Name": "https://github.com/layla-p/hacktoberfestproject"
+        }
+      ]
+    },
+    {
       "Name": "Glenn Stephens",
       "Id": "https://medium.com/@glennstephens_98130",
       "Aliases": [
@@ -1318,6 +1328,16 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/lbugnion"
+        }
+      ]
+    },
+    {
+      "Name": "Layla Porter",
+      "Id": "https://twitter.com/laylacodesit",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/laylacodesit"
         }
       ]
     },
@@ -2541,6 +2561,16 @@
         {
           "Type": "blog",
           "Name": "https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ"
+        }
+      ]
+    },
+    {
+      "Name": "Yana Kerpecheva",
+      "Id": "https://www.telerik.com/blogs/author/yana-kerpecheva",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.telerik.com/blogs/author/yana-kerpecheva"
         }
       ]
     },
