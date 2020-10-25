@@ -1,0 +1,469 @@
+{
+  "number": 272,
+  "title": "Issue 272",
+  "summary": "Amazing open source libraries, DevOps, UI Challenges, and performance tips. ",
+  "url": "http://weeklyxamarin.com/issues/272",
+  "publication_status": "published",
+  "published_at": "2020-08-14T16:09:47+01:00",
+  "updated_at": "2020-08-14T16:09:50+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "So much goodness!",
+          "description": "<p>Happy Friday,</p>\n\n<p>This week we have so much great content.  Amazing open source libraries, DevOps, UI Challenges, and performance tips.</p>\n\n<p>Have a great weekend everyone!</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Friday,\r\n\r\nThis week we have so much great content.  Amazing open source libraries, DevOps, UI Challenges, and performance tips. \r\n\r\nHave a great weekend everyone!\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "hp3KCVF",
+          "type": "Link",
+          "title": "Building a mobile product is hard work, even after you have learned Xamarin",
+          "url_domain": "areyouadev.com",
+          "url": "https://www.areyouadev.com/try-the-program.html",
+          "description": "<p>You need to validate your idea, create logos, decide how to monitise, launch to the App Stores and let's not forget market your product to potential users and customers.</p>\n\n<p>We have brought our in-person program online in the time of COVID, if you're skeptical after reading/watching our try the program material, schedule a 1 to 1 call with us to answer any of your mobile product questions, no strings.</p>",
+          "description_markdown": "You need to validate your idea, create logos, decide how to monitise, launch to the App Stores and let's not forget market your product to potential users and customers.\r\n\r\nWe have brought our in-person program online in the time of COVID, if you're skeptical after reading/watching our try the program material, schedule a 1 to 1 call with us to answer any of your mobile product questions, no strings.",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "9a415a4d-7745-48b7-872d-6ff474c5e1f3.png",
+          "image_extra_large_filename": "original_ratio_extra_large_9a415a4d-7745-48b7-872d-6ff474c5e1f3.png",
+          "image_medium_filename": "original_ratio_medium_9a415a4d-7745-48b7-872d-6ff474c5e1f3.png"
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "3Tj9eNV",
+          "type": "Link",
+          "title": "Templated UI Controls",
+          "url_domain": "github.com",
+          "url": "https://github.com/jsuarezruiz/TemplateUI",
+          "description": "<p>A great looking set of controls created by Javier, including things like Chat Bubbles, Grid Splitters, Circular Progress, and many more.</p>\n\n<p><a href=\"https://github.com/jsuarezruiz/TemplateUI\"><strong>TemplateUI</strong></a> by <a href=\"https://twitter.com/jsuarezruiz\">Javier Suarez</a></p>",
+          "description_markdown": "A great looking set of controls created by Javier, including things like Chat Bubbles, Grid Splitters, Circular Progress, and many more. \r\n\r\n[**TemplateUI**](https://github.com/jsuarezruiz/TemplateUI) by [Javier Suarez](https://twitter.com/jsuarezruiz)",
+          "embedded_links": [
+            {
+              "identifier": "79UMV0H",
+              "title": "**TemplateUI**",
+              "url_domain": "github.com",
+              "url": "https://github.com/jsuarezruiz/TemplateUI"
+            },
+            {
+              "identifier": "frXpGCU",
+              "title": "Javier Suarez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jsuarezruiz"
+            }
+          ]
+        },
+        {
+          "identifier": "ZC3AYx4",
+          "type": "Link",
+          "title": "Xamarin and CosmosDB",
+          "url_domain": "github.com",
+          "url": "https://github.com/InquisitorJax/Xamarin-Cosmos-DB",
+          "description": "<p>Sample project demonstrating using CosmosDB from Xamarin Apps using the latest v3 SDK for CosmosDB.</p>\n\n<p><a href=\"https://github.com/InquisitorJax/Xamarin-Cosmos-DB\"><strong>Xamarin-Cosmos-DB</strong></a> by <a href=\"https://github.com/InquisitorJax\">Malcolm Jack</a></p>",
+          "description_markdown": "Sample project demonstrating using CosmosDB from Xamarin Apps using the latest v3 SDK for CosmosDB.\r\n\r\n[**Xamarin-Cosmos-DB**](https://github.com/InquisitorJax/Xamarin-Cosmos-DB) by [Malcolm Jack](https://github.com/InquisitorJax)",
+          "embedded_links": [
+            {
+              "identifier": "81KasGQ",
+              "title": "**Xamarin-Cosmos-DB**",
+              "url_domain": "github.com",
+              "url": "https://github.com/InquisitorJax/Xamarin-Cosmos-DB"
+            },
+            {
+              "identifier": "FtMZgBl",
+              "title": "Malcolm Jack",
+              "url_domain": "github.com",
+              "url": "https://github.com/InquisitorJax"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "F5uMD4y",
+          "type": "Link",
+          "title": "Mastering Mobile DevOps with App Center",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/mobile-devops-app-center/",
+          "description": "<p>Today, user expectations for mobile applications are very high and higher if they are consumer-oriented. DevOps provides a way to keep up with these high expectations and the demands of evolving users, especially when it comes to the world of mobile apps.</p>\n\n<p><a href=\"https://luismts.com/mobile-devops-app-center/\"><strong>Mastering Mobile DevOps with App Center</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Today, user expectations for mobile applications are very high and higher if they are consumer-oriented. DevOps provides a way to keep up with these high expectations and the demands of evolving users, especially when it comes to the world of mobile apps.\r\n\r\n[**Mastering Mobile DevOps with App Center**](https://luismts.com/mobile-devops-app-center/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "k6d4TNh",
+              "title": "**Mastering Mobile DevOps with App Center**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/mobile-devops-app-center/"
+            },
+            {
+              "identifier": "4SBIzBa",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "eSuYaQZ",
+          "type": "Link",
+          "title": "Azure DevOps Snippets",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/tools/2020/08/12/tool-azure-devops-snippets-en.html",
+          "description": "<p>Damien created a new VSCode extension to help developers create or edit Azure Pipeline YAML templates. This extension has all snippets for all official Azure Pipeline tasks available. Discover it here!</p>\n\n<p><a href=\"https://damienaicheh.github.io/tools/2020/08/12/tool-azure-devops-snippets-en.html\"><strong>Azure DevOps Snippets</strong></a> by <a href=\"https://twitter.com/damienaicheh\">Damien Aicheh</a></p>",
+          "description_markdown": "Damien created a new VSCode extension to help developers create or edit Azure Pipeline YAML templates. This extension has all snippets for all official Azure Pipeline tasks available. Discover it here!\r\n\r\n[**Azure DevOps Snippets**](https://damienaicheh.github.io/tools/2020/08/12/tool-azure-devops-snippets-en.html) by [Damien Aicheh](https://twitter.com/damienaicheh)",
+          "embedded_links": [
+            {
+              "identifier": "P8q0whw",
+              "title": "**Azure DevOps Snippets**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/tools/2020/08/12/tool-azure-devops-snippets-en.html"
+            },
+            {
+              "identifier": "eMObXFk",
+              "title": "Damien Aicheh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damienaicheh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "EiozCIV",
+          "type": "Link",
+          "title": "Streaming UI App Design",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-streaming-ui-app-in-xamarin-forms/",
+          "description": "<p>Leomaris walks through creating a great looking Streaming Video UI in Xamarin.Forms.</p>\n\n<p><a href=\"https://askxammy.com/replicating-streaming-ui-app-in-xamarin-forms/\"><strong>Replicating Streaming UI App in Xamarin Forms</strong></a> by <a href=\"https://askxammy.com/author/leoreyes/\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris walks through creating a great looking Streaming Video UI in Xamarin.Forms.\r\n\r\n[**Replicating Streaming UI App in Xamarin Forms**](https://askxammy.com/replicating-streaming-ui-app-in-xamarin-forms/) by [Leomaris Reyes](https://askxammy.com/author/leoreyes/)",
+          "embedded_links": [
+            {
+              "identifier": "1zl9RyX",
+              "title": "**Replicating Streaming UI App in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-streaming-ui-app-in-xamarin-forms/"
+            },
+            {
+              "identifier": "TXZroCf",
+              "title": "Leomaris Reyes",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/author/leoreyes/"
+            }
+          ]
+        },
+        {
+          "identifier": "RIUAZ8N",
+          "type": "Link",
+          "title": "A Xamarin Stripe example",
+          "url_domain": "damian.fyi",
+          "url": "https://damian.fyi/xamarin/2020/08/07/xamarin-stripe.html",
+          "description": "<p>Damian has put together a Xamarin Forms Stripe example app, based on their standard iOS and Android examples that let you browse products, choose a shipping address and method, add and select a payment method, and purchase the product.</p>\n\n<p><a href=\"https://damian.fyi/xamarin/2020/08/07/xamarin-stripe.html\"><strong>A Xamarin Stripe example</strong></a> by <a href=\"https://twitter.com/damianmehers\">Damian Mehers</a></p>",
+          "description_markdown": "Damian has put together a Xamarin Forms Stripe example app, based on their standard iOS and Android examples that let you browse products, choose a shipping address and method, add and select a payment method, and purchase the product.\r\n\r\n[**A Xamarin Stripe example**](https://damian.fyi/xamarin/2020/08/07/xamarin-stripe.html) by [Damian Mehers](https://twitter.com/damianmehers)",
+          "embedded_links": [
+            {
+              "identifier": "4BA4iZV",
+              "title": "**A Xamarin Stripe example**",
+              "url_domain": "damian.fyi",
+              "url": "https://damian.fyi/xamarin/2020/08/07/xamarin-stripe.html"
+            },
+            {
+              "identifier": "IvA7UtQ",
+              "title": "Damian Mehers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damianmehers"
+            }
+          ]
+        },
+        {
+          "identifier": "GQn9vii",
+          "type": "Link",
+          "title": "Telerik Real-World Xamarin App Examples",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/xamarin-ui/sample-apps",
+          "description": "<p>Telerik has put together some real world Xamarin samples that are all open source.  In addition, they have an step-by-step guide to building Telerik's Xamarin apps from backend to frontend.</p>\n\n<p><a href=\"https://www.telerik.com/xamarin-ui/sample-apps\"><strong>Real-World Xamarin App Examples</strong></a> by <a href=\"https://www.telerik.com/\">Telerik</a></p>",
+          "description_markdown": "Telerik has put together some real world Xamarin samples that are all open source.  In addition, they have an step-by-step guide to building Telerik's Xamarin apps from backend to frontend.\r\n\r\n[**Real-World Xamarin App Examples**](https://www.telerik.com/xamarin-ui/sample-apps) by [Telerik](https://www.telerik.com/)",
+          "embedded_links": [
+            {
+              "identifier": "srvWftY",
+              "title": "**Real-World Xamarin App Examples**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/xamarin-ui/sample-apps"
+            },
+            {
+              "identifier": "5Cfm474",
+              "title": "Telerik",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "ZvDkWJd",
+          "type": "Link",
+          "title": "Sometimes OneTime binding is best",
+          "url_domain": "danielhindrikes.se",
+          "url": "https://danielhindrikes.se/index.php/2020/08/03/you-only-need-an-onetime-binding/",
+          "description": "<p>Choosing the correct binding mode in Xamarin.Forms can have a significant impact on performance. Sometimes the default binding mode is not the always the best option.</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2020/08/03/you-only-need-an-onetime-binding/\"><strong>You only need an OneTime binding</strong></a> by <a href=\"https://danielhindrikes.se/index.php/author/dhindrik/\">Daniel Hindrikes</a></p>",
+          "description_markdown": "Choosing the correct binding mode in Xamarin.Forms can have a significant impact on performance. Sometimes the default binding mode is not the always the best option.\r\n\r\n[**You only need an OneTime binding**](https://danielhindrikes.se/index.php/2020/08/03/you-only-need-an-onetime-binding/) by [Daniel Hindrikes](https://danielhindrikes.se/index.php/author/dhindrik/)",
+          "embedded_links": [
+            {
+              "identifier": "5B84Ju4",
+              "title": "**You only need an OneTime binding**",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/2020/08/03/you-only-need-an-onetime-binding/"
+            },
+            {
+              "identifier": "jsEN9dX",
+              "title": "Daniel Hindrikes",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/author/dhindrik/"
+            }
+          ]
+        },
+        {
+          "identifier": "ZH1F5EA",
+          "type": "Link",
+          "title": "TaskLoaderView with DataTemplates",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/taskloaderview-style/",
+          "description": "<p>TaskLoaderView supports custom views for your Tasks states. Since 2.1.0 TaskLoaderView custom views properties now supports DataTemplates.</p>\n\n<p><a href=\"https://www.sharpnado.com/taskloaderview-style/\"><strong>TaskLoaderView comes back in Style with DataTemplate</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "TaskLoaderView supports custom views for your Tasks states. Since 2.1.0 TaskLoaderView custom views properties now supports DataTemplates.\r\n\r\n[**TaskLoaderView comes back in Style with DataTemplate**](https://www.sharpnado.com/taskloaderview-style/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)",
+          "embedded_links": [
+            {
+              "identifier": "63WEBzG",
+              "title": "**TaskLoaderView comes back in Style with DataTemplate**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/taskloaderview-style/"
+            },
+            {
+              "identifier": "Mr4SNx4",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        },
+        {
+          "identifier": "Qy2RHmu",
+          "type": "Link",
+          "title": "Gradients & Brushes with Xamarin.Forms 4.8",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarinforms-4-8-gradients-brushes/",
+          "description": "<p>Xamarin.Forms 4.8 is out with a collection of features and quality improvements, Xamarin.Forms will give you even more opportunities to build colorful, interactive cross-platform applications. Let us take a dive into all of the new features coming to you in Xamarin.Forms!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarinforms-4-8-gradients-brushes/\"><strong>Try New Gradients &amp; Brushes with Xamarin.Forms 4.8 : Xamarin Blog</strong></a> by <a href=\"https://twitter.com/ThisIsKirsch\">Jake Kirsch</a></p>",
+          "description_markdown": "Xamarin.Forms 4.8 is out with a collection of features and quality improvements, Xamarin.Forms will give you even more opportunities to build colorful, interactive cross-platform applications. Let us take a dive into all of the new features coming to you in Xamarin.Forms!\r\n\r\n[**Try New Gradients & Brushes with Xamarin.Forms 4.8 : Xamarin Blog**](https://devblogs.microsoft.com/xamarin/xamarinforms-4-8-gradients-brushes/) by [Jake Kirsch](https://twitter.com/ThisIsKirsch)",
+          "embedded_links": [
+            {
+              "identifier": "zeAgjYX",
+              "title": "**Try New Gradients & Brushes with Xamarin.Forms 4.8 : Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarinforms-4-8-gradients-brushes/"
+            },
+            {
+              "identifier": "FLc3kCo",
+              "title": "Jake Kirsch",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/ThisIsKirsch"
+            }
+          ]
+        },
+        {
+          "identifier": "JDgmjuA",
+          "type": "Link",
+          "title": "Introduction to DataTemplateSelector",
+          "url_domain": "jesseliberty.com",
+          "url": "http://jesseliberty.com/2020/08/10/datatemplateselector/",
+          "description": "<p>Suppose you have a collection of items and you want to display them in a ListView (Xamarin.Forms). The catch is that you want to change the display of each item depending on its state or some other code-based attributes. That's where DataTemplateSelectors come in.</p>\n\n<p><a href=\"http://jesseliberty.com/2020/08/10/datatemplateselector/\"><strong>DataTemplateSelector</strong></a> by <a href=\"http://jesseliberty.com/author/jl/\">Jesse Liberty</a></p>",
+          "description_markdown": "Suppose you have a collection of items and you want to display them in a ListView (Xamarin.Forms). The catch is that you want to change the display of each item depending on its state or some other code-based attributes. That's where DataTemplateSelectors come in.\r\n\r\n[**DataTemplateSelector**](http://jesseliberty.com/2020/08/10/datatemplateselector/) by [Jesse Liberty](http://jesseliberty.com/author/jl/)",
+          "embedded_links": [
+            {
+              "identifier": "9nC1Ewt",
+              "title": "**DataTemplateSelector**",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/2020/08/10/datatemplateselector/"
+            },
+            {
+              "identifier": "Ju8CjMY",
+              "title": "Jesse Liberty",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/author/jl/"
+            }
+          ]
+        },
+        {
+          "identifier": "Ok56TBJ",
+          "type": "Link",
+          "title": "How to Display PDF in Xamarin Forms",
+          "url_domain": "pujolsluis.com",
+          "url": "https://www.pujolsluis.com/how-to-display-pdf-in-xamarin-forms-with-ease/",
+          "description": "<p>A pretty common requirement is to display PDFs within our application. In this post, Luis discusses some different approaches.</p>\n\n<p><a href=\"https://www.pujolsluis.com/how-to-display-pdf-in-xamarin-forms-with-ease/\"><strong>How to Display PDF in Xamarin Forms With Ease</strong></a> by <a href=\"https://www.pujolsluis.com/author/admin/\">Luis Pujols</a></p>",
+          "description_markdown": "A pretty common requirement is to display PDFs within our application. In this post, Luis discusses some different approaches.\r\n\r\n[**How to Display PDF in Xamarin Forms With Ease**](https://www.pujolsluis.com/how-to-display-pdf-in-xamarin-forms-with-ease/) by [Luis Pujols](https://www.pujolsluis.com/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "xfcVrXK",
+              "title": "**How to Display PDF in Xamarin Forms With Ease**",
+              "url_domain": "pujolsluis.com",
+              "url": "https://www.pujolsluis.com/how-to-display-pdf-in-xamarin-forms-with-ease/"
+            },
+            {
+              "identifier": "qJsrSuE",
+              "title": "Luis Pujols",
+              "url_domain": "pujolsluis.com",
+              "url": "https://www.pujolsluis.com/author/admin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "nuget",
+      "name": "NUGET OF THE WEEK",
+      "items": [
+        {
+          "identifier": "aYy1LHe",
+          "type": "Link",
+          "title": "Community Toolkit",
+          "url_domain": "github.com",
+          "url": "https://github.com/xamarin/XamarinCommunityToolkit",
+          "description": "<p>The Xamarin Community Toolkit for Xamarin.Forms is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. This is the rebirth of the Community Toolkit and a great collection of super useful things.</p>\n\n<p><a href=\"https://github.com/xamarin/XamarinCommunityToolkit\"><strong>xamarin/XamarinCommunityToolkit</strong></a> by <a href=\"https://github.com/xamarin\">XamarinCommunityToolkit</a></p>",
+          "description_markdown": "The Xamarin Community Toolkit for Xamarin.Forms is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. This is the rebirth of the Community Toolkit and a great collection of super useful things.\r\n\r\n[**xamarin/XamarinCommunityToolkit**](https://github.com/xamarin/XamarinCommunityToolkit) by [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit)",
+          "embedded_links": [
+            {
+              "identifier": "NI4NUfn",
+              "title": "**xamarin/XamarinCommunityToolkit**",
+              "url_domain": "github.com",
+              "url": "https://github.com/xamarin/XamarinCommunityToolkit"
+            },
+            {
+              "identifier": "bZSqt4T",
+              "title": "Xamarin Community Toolkit",
+              "url_domain": "github.com",
+              "url": "https://github.com/xamarin/XamarinCommunityToolkit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "pEtulBg",
+          "type": "Link",
+          "title": "Null Pointers 13: Mobile Data Storage",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/13/",
+          "description": "<p>If you own a mobile phone, the chances are that there is data stored on it somewhere. Few apps are around these days that don’t store data in some form. But how is that done? What caveats are there to it, and what about caching or syncing data back to a backend? All of that and more on this episode!</p>\n\n<p><a href=\"https://nullpointers.io/13/\"><strong>13: Mobile Data Storage</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "If you own a mobile phone, the chances are that there is data stored on it somewhere. Few apps are around these days that don’t store data in some form. But how is that done? What caveats are there to it, and what about caching or syncing data back to a backend? All of that and more on this episode!\r\n\r\n[**13: Mobile Data Storage**](https://nullpointers.io/13/) by [Null Pointers](https://twitter.com/nullpointersio)",
+          "embedded_links": [
+            {
+              "identifier": "BO4Z1lm",
+              "title": "**13: Mobile Data Storage**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/13/"
+            },
+            {
+              "identifier": "XueSYfl",
+              "title": "Null Pointers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        },
+        {
+          "identifier": "l4vWmzC",
+          "type": "Link",
+          "title": "Merge Conflict 214: Switching from Android to iPhone",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/214",
+          "description": "<p>After 11 years James has moved from Android based phones to iPhone running iOS. Let's talk about the good, bad, and ugly of the transition.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/214\"><strong>214: Switching from Android to iPhone</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "After 11 years James has moved from Android based phones to iPhone running iOS. Let's talk about the good, bad, and ugly of the transition.\r\n\r\n[**214: Switching from Android to iPhone**](https://www.mergeconflict.fm/214) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "xttLNdX",
+              "title": "**214: Switching from Android to iPhone**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/214"
+            },
+            {
+              "identifier": "yad1HXb",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "hFyaQrm",
+          "type": "Link",
+          "title": "Brushes, Gradients, and Shapes",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/76",
+          "description": "<p>Lots of new stuff to talk about this month! Ever want to get down to the nitty gritty and do some drawing in Xamarin.Forms! Well, now in Xamarin.Forms 4.8 you can!</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/76\"><strong>Brushes, Gradients, and Shapes</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "Lots of new stuff to talk about this month! Ever want to get down to the nitty gritty and do some drawing in Xamarin.Forms! Well, now in Xamarin.Forms 4.8 you can!\r\n\r\n[**Brushes, Gradients, and Shapes**](https://www.xamarinpodcast.com/76) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)",
+          "embedded_links": [
+            {
+              "identifier": "3lk7FmW",
+              "title": "**Brushes, Gradients, and Shapes**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/76"
+            },
+            {
+              "identifier": "XSgBzYa",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        },
+        {
+          "identifier": "U4n8HUH",
+          "type": "Link",
+          "title": "COVID Health Hack: Intro to Prism for Xamarin.Forms",
+          "url_domain": "brianlagunas.com",
+          "url": "https://brianlagunas.com/covid-health-hack-intro-to-prism-for-xamarin-forms/",
+          "description": "<p>Brian has did a twitch stream supporting a COVID Health Hack effort by giving an introduction to Prism for Xamarin.Forms. From File / New, we start learning how to get started with Prism for XF, and how to use the various feature of Prism.</p>\n\n<p><a href=\"https://brianlagunas.com/covid-health-hack-intro-to-prism-for-xamarin-forms/\"><strong>COVID Health Hack: Intro to Prism for Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/brianlagunas\">Brian Lagunas</a></p>",
+          "description_markdown": "Brian has did a twitch stream supporting a COVID Health Hack effort by giving an introduction to Prism for Xamarin.Forms. From File / New, we start learning how to get started with Prism for XF, and how to use the various feature of Prism.\r\n\r\n[**COVID Health Hack: Intro to Prism for Xamarin.Forms**](https://brianlagunas.com/covid-health-hack-intro-to-prism-for-xamarin-forms/) by [Brian Lagunas](https://twitter.com/brianlagunas)",
+          "embedded_links": [
+            {
+              "identifier": "9yrJnqn",
+              "title": "**COVID Health Hack: Intro to Prism for Xamarin.Forms**",
+              "url_domain": "brianlagunas.com",
+              "url": "https://brianlagunas.com/covid-health-hack-intro-to-prism-for-xamarin-forms/"
+            },
+            {
+              "identifier": "48OIoFF",
+              "title": "Brian Lagunas",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/brianlagunas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

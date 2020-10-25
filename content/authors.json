@@ -350,6 +350,16 @@
       "Website": "https://codetraveler.io"
     },
     {
+      "Name": "Brian Lagunas",
+      "Id": "https://twitter.com/brianlagunas",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/brianlagunas"
+        }
+      ]
+    },
+    {
       "Name": "Bryan Anthony Garcia",
       "TwitterHandle": "mindofai",
       "GitHubHandle": "mindofai",
@@ -803,6 +813,16 @@
         {
           "Type": "blog",
           "Name": "https://devblogs.microsoft.com/xamarin/author/jacobkirsch/"
+        }
+      ]
+    },
+    {
+      "Name": "Jake Kirsch",
+      "Id": "https://twitter.com/thisiskirsch",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/thisiskirsch"
         }
       ]
     },
@@ -1966,6 +1986,16 @@
       "GitHubHandle": "",
       "Id": "https://twitter.com/Syncfusion",
       "Website": "https://www.syncfusion.com/xamarin-ui-controls"
+    },
+    {
+      "Name": "Telerik",
+      "Id": "https://www.telerik.com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.telerik.com/"
+        }
+      ]
     },
     {
       "Name": "The Xamarin Blog",

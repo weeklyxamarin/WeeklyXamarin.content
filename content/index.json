@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "272",
+      "Name": "Issue 272",
+      "UpdatedTimeStamp": "2020-08-14T15:09:50Z",
+      "Summary": "Amazing open source libraries, DevOps, UI Challenges, and performance tips. ",
+      "PublishDate": "2020-08-14T15:09:47Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "271",
       "Name": "Issue 271",
       "UpdatedTimeStamp": "2020-08-07T16:31:55Z",

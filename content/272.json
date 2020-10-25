@@ -1,0 +1,163 @@
+{
+  "Id": "272",
+  "Name": "Issue 272",
+  "UpdatedTimeStamp": "2020-08-14T15:09:50Z",
+  "Summary": "Amazing open source libraries, DevOps, UI Challenges, and performance tips. ",
+  "Introduction": "Happy Friday, This week we have so much great content.  Amazing open source libraries, DevOps, UI Challenges, and performance tips.  Have a great weekend everyone! ❤ Kym",
+  "PublishDate": "2020-08-14T15:09:47Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Templated UI Controls",
+      "Url": "https://github.com/jsuarezruiz/TemplateUI",
+      "Description": "A great looking set of controls created by Javier, including things like Chat Bubbles, Grid Splitters, Circular Progress, and many more.",
+      "EditionId": "272",
+      "Author": "Javier Suarez",
+      "Id": "272-1",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Xamarin and CosmosDB",
+      "Url": "https://github.com/InquisitorJax/Xamarin-Cosmos-DB",
+      "Description": "Sample project demonstrating using CosmosDB from Xamarin Apps using the latest v3 SDK for CosmosDB.",
+      "EditionId": "272",
+      "Author": "Malcolm Jack",
+      "Id": "272-2",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Mastering Mobile DevOps with App Center",
+      "Url": "https://luismts.com/mobile-devops-app-center/",
+      "Description": "Today, user expectations for mobile applications are very high and higher if they are consumer-oriented. DevOps provides a way to keep up with these high expectations and the demands of evolving users, especially when it comes to the world of mobile apps.",
+      "EditionId": "272",
+      "Author": "Luis Matos",
+      "Id": "272-3",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Azure DevOps Snippets",
+      "Url": "https://damienaicheh.github.io/tools/2020/08/12/tool-azure-devops-snippets-en.html",
+      "Description": "Damien created a new VSCode extension to help developers create or edit Azure Pipeline YAML templates. This extension has all snippets for all official Azure Pipeline tasks available. Discover it here!",
+      "EditionId": "272",
+      "Author": "Damien Aicheh",
+      "Id": "272-4",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Streaming UI App Design",
+      "Url": "https://askxammy.com/replicating-streaming-ui-app-in-xamarin-forms/",
+      "Description": "Leomaris walks through creating a great looking Streaming Video UI in Xamarin.Forms.",
+      "EditionId": "272",
+      "Author": "Leomaris Reyes",
+      "Id": "272-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "A Xamarin Stripe example",
+      "Url": "https://damian.fyi/xamarin/2020/08/07/xamarin-stripe.html",
+      "Description": "Damian has put together a Xamarin Forms Stripe example app, based on their standard iOS and Android examples that let you browse products, choose a shipping address and method, add and select a payment method, and purchase the product.",
+      "EditionId": "272",
+      "Author": "Damian Mehers",
+      "Id": "272-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Telerik Real-World Xamarin App Examples",
+      "Url": "https://www.telerik.com/xamarin-ui/sample-apps",
+      "Description": "Telerik has put together some real world Xamarin samples that are all open source.  In addition, they have an step-by-step guide to building Telerik's Xamarin apps from backend to frontend.",
+      "EditionId": "272",
+      "Author": "Telerik",
+      "Id": "272-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Sometimes OneTime binding is best",
+      "Url": "https://danielhindrikes.se/index.php/2020/08/03/you-only-need-an-onetime-binding/",
+      "Description": "Choosing the correct binding mode in Xamarin.Forms can have a significant impact on performance. Sometimes the default binding mode is not the always the best option.",
+      "EditionId": "272",
+      "Author": "Daniel Hindrikes",
+      "Id": "272-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "TaskLoaderView with DataTemplates",
+      "Url": "https://www.sharpnado.com/taskloaderview-style/",
+      "Description": "TaskLoaderView supports custom views for your Tasks states. Since 2.1.0 TaskLoaderView custom views properties now supports DataTemplates.",
+      "EditionId": "272",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "272-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Gradients & Brushes with Xamarin.Forms 4.8",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarinforms-4-8-gradients-brushes/",
+      "Description": "Xamarin.Forms 4.8 is out with a collection of features and quality improvements, Xamarin.Forms will give you even more opportunities to build colorful, interactive cross-platform applications. Let us take a dive into all of the new features coming to you in Xamarin.Forms!",
+      "EditionId": "272",
+      "Author": "Jake Kirsch",
+      "Id": "272-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Introduction to DataTemplateSelector",
+      "Url": "http://jesseliberty.com/2020/08/10/datatemplateselector/",
+      "Description": "Suppose you have a collection of items and you want to display them in a ListView (Xamarin.Forms). The catch is that you want to change the display of each item depending on its state or some other code-based attributes. That's where DataTemplateSelectors come in.",
+      "EditionId": "272",
+      "Author": "Jesse Liberty",
+      "Id": "272-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "How to Display PDF in Xamarin Forms",
+      "Url": "https://www.pujolsluis.com/how-to-display-pdf-in-xamarin-forms-with-ease/",
+      "Description": "A pretty common requirement is to display PDFs within our application. In this post, Luis discusses some different approaches.",
+      "EditionId": "272",
+      "Author": "Luis Pujols",
+      "Id": "272-12",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Community Toolkit",
+      "Url": "https://github.com/xamarin/XamarinCommunityToolkit",
+      "Description": "The Xamarin Community Toolkit for Xamarin.Forms is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. This is the rebirth of the Community Toolkit and a great collection of super useful things.",
+      "EditionId": "272",
+      "Id": "272-13",
+      "Category": "NUGET OF THE WEEK"
+    },
+    {
+      "Title": "Null Pointers 13: Mobile Data Storage",
+      "Url": "https://nullpointers.io/13/",
+      "Description": "If you own a mobile phone, the chances are that there is data stored on it somewhere. Few apps are around these days that don’t store data in some form. But how is that done? What caveats are there to it, and what about caching or syncing data back to a backend? All of that and more on this episode!",
+      "EditionId": "272",
+      "Author": "Null Pointers",
+      "Id": "272-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 214: Switching from Android to iPhone",
+      "Url": "https://www.mergeconflict.fm/214",
+      "Description": "After 11 years James has moved from Android based phones to iPhone running iOS. Let's talk about the good, bad, and ugly of the transition.",
+      "EditionId": "272",
+      "Author": "Merge Conflict",
+      "Id": "272-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Brushes, Gradients, and Shapes",
+      "Url": "https://www.xamarinpodcast.com/76",
+      "Description": "Lots of new stuff to talk about this month! Ever want to get down to the nitty gritty and do some drawing in Xamarin.Forms! Well, now in Xamarin.Forms 4.8 you can!",
+      "EditionId": "272",
+      "Author": "The Xamarin Podcast",
+      "Id": "272-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "COVID Health Hack: Intro to Prism for Xamarin.Forms",
+      "Url": "https://brianlagunas.com/covid-health-hack-intro-to-prism-for-xamarin-forms/",
+      "Description": "Brian has did a twitch stream supporting a COVID Health Hack effort by giving an introduction to Prism for Xamarin.Forms. From File / New, we start learning how to get started with Prism for XF, and how to use the various feature of Prism.",
+      "EditionId": "272",
+      "Author": "Brian Lagunas",
+      "Id": "272-17",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
