@@ -687,7 +687,12 @@
         {
           "Type": "blog",
           "Name": "https://medium.com/@prin53"
+        },
+        {
+          "Type": "blog",
+          "Name": "https://prin53.medium.com/"
         }
+
       ]
     },
     {
@@ -1469,6 +1474,10 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/luismatosluna"
+        },
+        {
+          "Type": "blog",
+          "Name": "https://luismts.com/"
         }
       ],
       "Website": "https://www.luismts.com/"
@@ -1843,6 +1852,7 @@
           "Type": "blog",
           "Name": "https://nicksnettravels.builttoroam.com/author/nick/"
         }
+        
       ],
       "Website": "https://builttoroam.com"
     },
