@@ -1,0 +1,356 @@
+{
+  "number": 292,
+  "title": "Issue 292",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/292",
+  "publication_status": "published",
+  "published_at": "2021-01-16T01:27:22+00:00",
+  "updated_at": "2021-01-16T01:27:24+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Welcome back to another Weekly Xamarin.</p>\n\n<p>As always lots of great articles to keep you up to date with the happenings in the Xamarin Community.</p>\n\n<p>Have a great weekend, and stay safe.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Welcome back to another Weekly Xamarin.\r\n\r\nAs always lots of great articles to keep you up to date with the happenings in the Xamarin Community.\r\n\r\nHave a great weekend, and stay safe.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "gettingstarted",
+      "name": "GETTING STARTED",
+      "items": [
+        {
+          "identifier": "uDymf9B",
+          "type": "Link",
+          "title": "Introduction to Xamarin Forms Design",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/design-for-developers-introduction-xamarin-forms",
+          "description": "<p>Xamarin Forms allows us a great deal of control over UI design. Get acquainted with page types, layout and graphic controls.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/design-for-developers-introduction-xamarin-forms\"><strong>Design for Developers—An Introduction to Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Xamarin Forms allows us a great deal of control over UI design. Get acquainted with page types, layout and graphic controls.\r\n\r\n[**Design for Developers—An Introduction to Xamarin Forms**](https://www.telerik.com/blogs/design-for-developers-introduction-xamarin-forms) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "TV8XJdU",
+              "title": "**Design for Developers—An Introduction to Xamarin Forms**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/design-for-developers-introduction-xamarin-forms"
+            },
+            {
+              "identifier": "JkJnqXD",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "QsVLHBb",
+          "type": "Link",
+          "title": "Styling the Android bottom tabs animation behavior and font",
+          "url_domain": "thewissen.io",
+          "url": "https://www.thewissen.io/styling-the-android-bottom-tabs-animation-behavior-and-font",
+          "description": "<p>Steven looks at some lessons learnt trying to tame the Android tabs behavior in a Xamarin.Forms project.</p>\n\n<p><a href=\"https://www.thewissen.io/styling-the-android-bottom-tabs-animation-behavior-and-font\"><strong>Styling the Android bottom tabs animation behavior and font</strong></a> by <a href=\"https://twitter.com/devnl\">Steven Thewissen</a></p>",
+          "description_markdown": "Steven looks at some lessons learnt trying to tame the Android tabs behavior in a Xamarin.Forms project.\r\n\r\n[**Styling the Android bottom tabs animation behavior and font**](https://www.thewissen.io/styling-the-android-bottom-tabs-animation-behavior-and-font) by [Steven Thewissen](https://twitter.com/devnl)",
+          "embedded_links": [
+            {
+              "identifier": "vK0aoqK",
+              "title": "**Styling the Android bottom tabs animation behavior and font**",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/styling-the-android-bottom-tabs-animation-behavior-and-font"
+            },
+            {
+              "identifier": "DfUrEKU",
+              "title": "Steven Thewissen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/devnl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "r5ZX0rP",
+          "type": "Link",
+          "title": "XAML Naming Conventions",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/xaml-naming-conventions-in-xamarin-forms/",
+          "description": "<p>As developers we know that naming things is hard. In this post, Charlin covers naming and consistency guidelines for your XAML.</p>\n\n<p><a href=\"https://xamgirl.com/xaml-naming-conventions-in-xamarin-forms/\"><strong>XAML Naming Conventions in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "As developers we know that naming things is hard. In this post, Charlin covers naming and consistency guidelines for your XAML.\r\n\r\n[**XAML Naming Conventions in Xamarin Forms**](https://xamgirl.com/xaml-naming-conventions-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003)",
+          "embedded_links": [
+            {
+              "identifier": "YUCijNb",
+              "title": "**XAML Naming Conventions in Xamarin Forms**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/xaml-naming-conventions-in-xamarin-forms/"
+            },
+            {
+              "identifier": "w2dFE2l",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "x1kM82d",
+          "type": "Link",
+          "title": "Animated Entry in Xamarin.Forms",
+          "url_domain": "letscreateseries.com",
+          "url": "https://letscreateseries.com/animated-entry-in-xamarin-forms/",
+          "description": "<p>This blog post discusses creating an animated Entry control that reacts to focus event changes. When the entry is focused, it animates its priority. Once it loses focus, it is reset.</p>\n\n<p><a href=\"https://letscreateseries.com/animated-entry-in-xamarin-forms/\"><strong>Animated Entry in Xamarin.Forms</strong></a> by <a href=\"https://letscreateseries.com/about/\">Patrick T</a></p>",
+          "description_markdown": "This blog post discusses creating an animated Entry control that reacts to focus event changes. When the entry is focused, it animates its priority. Once it loses focus, it is reset.\r\n\r\n[**Animated Entry in Xamarin.Forms**](https://letscreateseries.com/animated-entry-in-xamarin-forms/) by [Patrick T](https://letscreateseries.com/about/)",
+          "embedded_links": [
+            {
+              "identifier": "WVKhINA",
+              "title": "**Animated Entry in Xamarin.Forms**",
+              "url_domain": "letscreateseries.com",
+              "url": "https://letscreateseries.com/animated-entry-in-xamarin-forms/"
+            },
+            {
+              "identifier": "2kDSm25",
+              "title": "Patrick T",
+              "url_domain": "letscreateseries.com",
+              "url": "https://letscreateseries.com/about/"
+            }
+          ]
+        },
+        {
+          "identifier": "FZP5T86",
+          "type": "Link",
+          "title": "Using The Touch Effect in Xamarin Community Toolkit",
+          "url_domain": "medium.com",
+          "url": "https://andrei-misiukevich.medium.com/touch-effect-xamarin-forms-xamarin-community-toolkit-91fb6691f99e",
+          "description": "<p>In this post Andrei shows you how you can use the TouchEffect in Xamarin Community Toolkit!</p>\n\n<p><a href=\"https://andrei-misiukevich.medium.com/touch-effect-xamarin-forms-xamarin-community-toolkit-91fb6691f99e\"><strong>Touch Effect | Xamarin.Forms | Xamarin Community Toolkit</strong></a> by <a href=\"https://twitter.com/andrik_just4fun\">Andrei Misiukevich</a></p>",
+          "description_markdown": "In this post Andrei shows you how you can use the TouchEffect in Xamarin Community Toolkit!\r\n\r\n[**Touch Effect | Xamarin.Forms | Xamarin Community Toolkit**](https://andrei-misiukevich.medium.com/touch-effect-xamarin-forms-xamarin-community-toolkit-91fb6691f99e) by [Andrei Misiukevich](https://twitter.com/andrik_just4fun)",
+          "embedded_links": [
+            {
+              "identifier": "Vz2ekXy",
+              "title": "**Touch Effect | Xamarin.Forms | Xamarin Community Toolkit**",
+              "url_domain": "medium.com",
+              "url": "https://andrei-misiukevich.medium.com/touch-effect-xamarin-forms-xamarin-community-toolkit-91fb6691f99e"
+            },
+            {
+              "identifier": "Ct234ev",
+              "title": "Andrei Misiukevich",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andrik_just4fun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "nuget",
+      "name": "NUGET OF THE WEEK",
+      "items": [
+        {
+          "identifier": "1ZmEbuE",
+          "type": "Link",
+          "title": "Plugin.ValidationRules 1.2 is here!",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/plugin-validationrules-1-2/",
+          "description": "<p>Luis updates the ValidationRules plugin Nuget with new features like ValueChagned, ValidateCommand and ValueFormatter.</p>\n\n<p><a href=\"https://luismts.com/plugin-validationrules-1-2/\"><strong>Plugin.ValidationRules 1.2 is here!</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Luis updates the ValidationRules plugin Nuget with new features like ValueChagned, ValidateCommand and ValueFormatter.\r\n\r\n[**Plugin.ValidationRules 1.2 is here!**](https://luismts.com/plugin-validationrules-1-2/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "KYMhVpL",
+              "title": "**Plugin.ValidationRules 1.2 is here!**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/plugin-validationrules-1-2/"
+            },
+            {
+              "identifier": "vJxcg61",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "BEO5WGI",
+          "type": "Link",
+          "title": "Introduction to the Xamarin.CommunityToolkit",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Amjs5UllMBs",
+          "description": "<p>The Xamarin.CommunityToolkit complements Xamarin.Forms 5 perfectly with all kinds of commonly found behaviors, converters and effects, but also houses complete new controls like CameraView and TabView. While waiting for .NET MAUI, this will be your new best friend.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Amjs5UllMBs\"><strong>Xamarin.CommunityToolkit: Introduction to Your Next Must-Have Package</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "The Xamarin.CommunityToolkit complements Xamarin.Forms 5 perfectly with all kinds of commonly found behaviors, converters and effects, but also houses complete new controls like CameraView and TabView. While waiting for .NET MAUI, this will be your new best friend.\r\n\r\n[**Xamarin.CommunityToolkit: Introduction to Your Next Must-Have Package**](https://www.youtube.com/watch?v=Amjs5UllMBs) by [Gerald Versluis](https://twitter.com/jfversluis)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "s0clbSr",
+              "title": "**Xamarin.CommunityToolkit: Introduction to Your Next Must-Have Package**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Amjs5UllMBs"
+            },
+            {
+              "identifier": "UVO1Oh2",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "SOwUbWX",
+          "type": "Link",
+          "title": "Customizable Tabs",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=8EOKrUtnjrU",
+          "description": "<p>With the TabView in the Xamarin Community Toolkit you gain a fully customizable tab bar for your Xamarin.Forms app. Swipe to change tabs, background colors, badges, different styling for selected state, top or bottom placement and much more! All you can do without any custom renderers and on any platform.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=8EOKrUtnjrU\"><strong>Customizable Tabs with TabView for Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "With the TabView in the Xamarin Community Toolkit you gain a fully customizable tab bar for your Xamarin.Forms app. Swipe to change tabs, background colors, badges, different styling for selected state, top or bottom placement and much more! All you can do without any custom renderers and on any platform.\r\n\r\n[**Customizable Tabs with TabView for Xamarin.Forms**](https://www.youtube.com/watch?v=8EOKrUtnjrU) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "fghK1ea",
+              "title": "**Customizable Tabs with TabView for Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=8EOKrUtnjrU"
+            },
+            {
+              "identifier": "DkiBXCv",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "DfugGsa",
+          "type": "Link",
+          "title": "Clearing Selection of CollectionView",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=rBekt23-YH0",
+          "description": "<p>CollectionView supports single and multiple item selection modes. Sometimes after selecting items, the user may want to clear all selections and start afresh.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=rBekt23-YH0\"><strong>Clearing Selection of CollectionView in Xamarin.Forms</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/davidortinau/\">David Ortinau</a></p>",
+          "description_markdown": "CollectionView supports single and multiple item selection modes. Sometimes after selecting items, the user may want to clear all selections and start afresh. \r\n\r\n[**Clearing Selection of CollectionView in Xamarin.Forms**](https://www.youtube.com/watch?v=rBekt23-YH0) by [David Ortinau](https://devblogs.microsoft.com/xamarin/author/davidortinau/)",
+          "embedded_links": [
+            {
+              "identifier": "VVaIZvW",
+              "title": "**Clearing Selection of CollectionView in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=rBekt23-YH0"
+            },
+            {
+              "identifier": "P4ExQKN",
+              "title": "David Ortinau",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/davidortinau/"
+            }
+          ]
+        },
+        {
+          "identifier": "KaG0AF6",
+          "type": "Link",
+          "title": "Awesome Scroll Effects in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=K7SqT2_PuuU",
+          "description": "<p>Everyone likes a good parallax scroll effect, right? That's a good start. You can also use behaviors, converters, and data triggers to add other animation effects and transitions to your UI. Xamanimation is a library that leverages all the built-in APIs of Xamarin.Forms to make complex animations with ease.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=K7SqT2_PuuU\"><strong>Awesome Scroll Effects in Xamarin.Forms</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/davidortinau/\">David Ortinau</a></p>",
+          "description_markdown": "Everyone likes a good parallax scroll effect, right? That's a good start. You can also use behaviors, converters, and data triggers to add other animation effects and transitions to your UI. Xamanimation is a library that leverages all the built-in APIs of Xamarin.Forms to make complex animations with ease.\r\n\r\n[**Awesome Scroll Effects in Xamarin.Forms**](https://www.youtube.com/watch?v=K7SqT2_PuuU) by [David Ortinau](https://devblogs.microsoft.com/xamarin/author/davidortinau/)",
+          "embedded_links": [
+            {
+              "identifier": "oHQuExi",
+              "title": "**Awesome Scroll Effects in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=K7SqT2_PuuU"
+            },
+            {
+              "identifier": "Nd5ozh0",
+              "title": "David Ortinau",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/davidortinau/"
+            }
+          ]
+        },
+        {
+          "identifier": "qJeV4tt",
+          "type": "Link",
+          "title": "Merge Conflict 236: Supporting Your Customers",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/236",
+          "description": "<p>Customer support is hard to do right, and app support is even harder. How do you get your users to contact you with proper information before they give you that 1 star review. We discuss our journey into improving our support system in our mobile apps.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/236\"><strong>236: Supporting Your Customers</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Customer support is hard to do right, and app support is even harder. How do you get your users to contact you with proper information before they give you that 1 star review. We discuss our journey into improving our support system in our mobile apps.\r\n\r\n[**236: Supporting Your Customers**](https://www.mergeconflict.fm/236) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "1yTEThh",
+              "title": "**236: Supporting Your Customers**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/236"
+            },
+            {
+              "identifier": "Jsa7kPB",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "wPKtgpj",
+          "type": "Link",
+          "title": "Xamarin: The Community behind the Framework",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=ZrpLof2WgeU",
+          "description": "<p>Community member Andres Pineda joins the panel to talk about Xamarin and its outstanding community of passionate developers.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=ZrpLof2WgeU\"><strong>The .NET Docs Show - Xamarin: The Community behind the Framework</strong></a> by <a href=\"https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw\">dotNET</a></p>",
+          "description_markdown": "Community member Andres Pineda joins the panel to talk about Xamarin and its outstanding community of passionate developers.\r\n\r\n[**The .NET Docs Show - Xamarin: The Community behind the Framework**](https://www.youtube.com/watch?v=ZrpLof2WgeU) by [dotNET](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw)",
+          "embedded_links": [
+            {
+              "identifier": "WM0CGN0",
+              "title": "**The .NET Docs Show - Xamarin: The Community behind the Framework**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=ZrpLof2WgeU"
+            },
+            {
+              "identifier": "o6DBbA",
+              "title": "dotNET",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw"
+            }
+          ]
+        },
+        {
+          "identifier": "F1GXvkH",
+          "type": "Link",
+          "title": "Null Pointers 35: Multimedia on Mobile",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/35/",
+          "description": "<p>Multimedia is all around us! We can’t think of a single app that does not have some form of multimedia: images, sounds or even videos. We don’t even notice anymore! But how hard is it to use it in your own app? Find out all about it in this episode!</p>\n\n<p><a href=\"https://nullpointers.io/35/\"><strong>35: Multimedia on Mobile</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "Multimedia is all around us! We can’t think of a single app that does not have some form of multimedia: images, sounds or even videos. We don’t even notice anymore! But how hard is it to use it in your own app? Find out all about it in this episode!\r\n\r\n[**35: Multimedia on Mobile**](https://nullpointers.io/35/) by [Null Pointers](https://twitter.com/nullpointersio)",
+          "embedded_links": [
+            {
+              "identifier": "5hDEFLk",
+              "title": "**35: Multimedia on Mobile**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/35/"
+            },
+            {
+              "identifier": "SltQHEa",
+              "title": "Null Pointers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

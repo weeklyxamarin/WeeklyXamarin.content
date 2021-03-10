@@ -2105,6 +2105,16 @@
       ]
     },
     {
+      "Name": "Patrick T",
+      "Id": "https://letscreateseries.com/about/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://letscreateseries.com/about/"
+        }
+      ]
+    },
+    {
       "Name": "Paul Anderson",
       "Id": "https://www.syncfusion.com/blogs/author/paulandersonsyncfusion-com",
       "Aliases": [

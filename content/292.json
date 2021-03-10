@@ -1,0 +1,128 @@
+{
+  "Id": "292",
+  "Name": "Issue 292",
+  "UpdatedTimeStamp": "2021-01-16T01:27:24Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Welcome back to another Weekly Xamarin. As always lots of great articles to keep you up to date with the happenings in the Xamarin Community. Have a great weekend, and stay safe. ❤ Kym",
+  "PublishDate": "2021-01-16T01:27:22Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Introduction to Xamarin Forms Design",
+      "Url": "https://www.telerik.com/blogs/design-for-developers-introduction-xamarin-forms",
+      "Description": "Xamarin Forms allows us a great deal of control over UI design. Get acquainted with page types, layout and graphic controls.",
+      "EditionId": "292",
+      "Author": "Leomaris Reyes",
+      "Id": "292-1",
+      "Category": "GETTING STARTED"
+    },
+    {
+      "Title": "Styling the Android bottom tabs animation behavior and font",
+      "Url": "https://www.thewissen.io/styling-the-android-bottom-tabs-animation-behavior-and-font",
+      "Description": "Steven looks at some lessons learnt trying to tame the Android tabs behavior in a Xamarin.Forms project.",
+      "EditionId": "292",
+      "Author": "Steven Thewissen",
+      "Id": "292-2",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "XAML Naming Conventions",
+      "Url": "https://xamgirl.com/xaml-naming-conventions-in-xamarin-forms/",
+      "Description": "As developers we know that naming things is hard. In this post, Charlin covers naming and consistency guidelines for your XAML.",
+      "EditionId": "292",
+      "Author": "Charlin Agramonte",
+      "Id": "292-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Animated Entry in Xamarin.Forms",
+      "Url": "https://letscreateseries.com/animated-entry-in-xamarin-forms/",
+      "Description": "This blog post discusses creating an animated Entry control that reacts to focus event changes. When the entry is focused, it animates its priority. Once it loses focus, it is reset.",
+      "EditionId": "292",
+      "Author": "Patrick T",
+      "Id": "292-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Using The Touch Effect in Xamarin Community Toolkit",
+      "Url": "https://andrei-misiukevich.medium.com/touch-effect-xamarin-forms-xamarin-community-toolkit-91fb6691f99e",
+      "Description": "In this post Andrei shows you how you can use the TouchEffect in Xamarin Community Toolkit!",
+      "EditionId": "292",
+      "Author": "Andrei Misiukevich",
+      "Id": "292-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Plugin.ValidationRules 1.2 is here!",
+      "Url": "https://luismts.com/plugin-validationrules-1-2/",
+      "Description": "Luis updates the ValidationRules plugin Nuget with new features like ValueChagned, ValidateCommand and ValueFormatter.",
+      "EditionId": "292",
+      "Author": "Luis Matos",
+      "Id": "292-6",
+      "Category": "NUGET OF THE WEEK"
+    },
+    {
+      "Title": "Introduction to the Xamarin.CommunityToolkit",
+      "Url": "https://www.youtube.com/watch?v=Amjs5UllMBs",
+      "Description": "The Xamarin.CommunityToolkit complements Xamarin.Forms 5 perfectly with all kinds of commonly found behaviors, converters and effects, but also houses complete new controls like CameraView and TabView. While waiting for .NET MAUI, this will be your new best friend.",
+      "EditionId": "292",
+      "Author": "Gerald Versluis",
+      "Id": "292-7",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Customizable Tabs",
+      "Url": "https://www.youtube.com/watch?v=8EOKrUtnjrU",
+      "Description": "With the TabView in the Xamarin Community Toolkit you gain a fully customizable tab bar for your Xamarin.Forms app. Swipe to change tabs, background colors, badges, different styling for selected state, top or bottom placement and much more! All you can do without any custom renderers and on any platform.",
+      "EditionId": "292",
+      "Author": "Gerald Versluis",
+      "Id": "292-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Clearing Selection of CollectionView",
+      "Url": "https://www.youtube.com/watch?v=rBekt23-YH0",
+      "Description": "CollectionView supports single and multiple item selection modes. Sometimes after selecting items, the user may want to clear all selections and start afresh.",
+      "EditionId": "292",
+      "Author": "David Ortinau",
+      "Id": "292-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Awesome Scroll Effects in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=K7SqT2_PuuU",
+      "Description": "Everyone likes a good parallax scroll effect, right? That's a good start. You can also use behaviors, converters, and data triggers to add other animation effects and transitions to your UI. Xamanimation is a library that leverages all the built-in APIs of Xamarin.Forms to make complex animations with ease.",
+      "EditionId": "292",
+      "Author": "David Ortinau",
+      "Id": "292-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 236: Supporting Your Customers",
+      "Url": "https://www.mergeconflict.fm/236",
+      "Description": "Customer support is hard to do right, and app support is even harder. How do you get your users to contact you with proper information before they give you that 1 star review. We discuss our journey into improving our support system in our mobile apps.",
+      "EditionId": "292",
+      "Author": "Merge Conflict",
+      "Id": "292-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin: The Community behind the Framework",
+      "Url": "https://www.youtube.com/watch?v=ZrpLof2WgeU",
+      "Description": "Community member Andres Pineda joins the panel to talk about Xamarin and its outstanding community of passionate developers.",
+      "EditionId": "292",
+      "Author": "dotNet Youtube Channel",
+      "Id": "292-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 35: Multimedia on Mobile",
+      "Url": "https://nullpointers.io/35/",
+      "Description": "Multimedia is all around us! We can’t think of a single app that does not have some form of multimedia: images, sounds or even videos. We don’t even notice anymore! But how hard is it to use it in your own app? Find out all about it in this episode!",
+      "EditionId": "292",
+      "Author": "Null Pointers",
+      "Id": "292-13",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
