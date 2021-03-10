@@ -1,0 +1,320 @@
+{
+  "number": 293,
+  "title": "Issue 293",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/293",
+  "publication_status": "published",
+  "published_at": "2021-01-23T15:17:14+00:00",
+  "updated_at": "2021-01-23T15:17:16+00:00",
+  "categories": [
+    {
+      "code": "lucecarter",
+      "name": "LUCE CARTER",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hey folks,</p>\n\n<p>Happy Xamarin Weekly!</p>\n\n<p>Lots of great content this week, with lots of great videos to watch. It even includes a podcast episode featuring yours truly!</p>\n\n<p>Whatever you are up to this weekend, I hope you all stay safe and have a great time!</p>\n\n<p>Luce 🧡</p>",
+          "description_markdown": "Hey folks,\r\n\r\nHappy Xamarin Weekly!\r\n\r\nLots of great content this week, with lots of great videos to watch. It even includes a podcast episode featuring yours truly!\r\n\r\nWhatever you are up to this weekend, I hope you all stay safe and have a great time!\r\n\r\nLuce 🧡",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "53P3f1v",
+          "type": "Link",
+          "title": "Using Dynamic Data in Xamarin Forms (Part 1)",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2021/01/20/using-dynamic-data-in-xamarin-forms-part-1/",
+          "description": "<p>DynamicData is a portable class library that brings Rx Extensions to collections of data. Rendy has recently started to play with it and really liked it so started what will no doubt be a fantastic blog series sharing all about it and how to use it!</p>\n\n<p><a href=\"https://www.xamboy.com/2021/01/20/using-dynamic-data-in-xamarin-forms-part-1/\"><strong>Using Dynamic Data in Xamarin Forms (Part 1)</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "DynamicData is a portable class library that brings Rx Extensions to collections of data. Rendy has recently started to play with it and really liked it so started what will no doubt be a fantastic blog series sharing all about it and how to use it!\r\n\r\n[**Using Dynamic Data in Xamarin Forms (Part 1)**](https://www.xamboy.com/2021/01/20/using-dynamic-data-in-xamarin-forms-part-1/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "WPYhgn2",
+              "title": "**Using Dynamic Data in Xamarin Forms (Part 1)**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2021/01/20/using-dynamic-data-in-xamarin-forms-part-1/"
+            },
+            {
+              "identifier": "2NJE92y",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        },
+        {
+          "identifier": "FiXWUgu",
+          "type": "Link",
+          "title": "Providing a feedback mechanism for your apps",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/how-to-add-support-email-xamarin-apps/",
+          "description": "<p>James discusses how to create a way for users to provide feedback via email in your mobile applications.</p>\n\n<p><a href=\"https://montemagno.com/how-to-add-support-email-xamarin-apps/\"><strong>How-to Integrate Helpful Support Emails in Mobile Apps with Insightful Data &amp; Logs</strong></a> by <a href=\"\">James Montemagno</a></p>",
+          "description_markdown": "James discusses how to create a way for users to provide feedback via email in your mobile applications.\r\n\r\n[**How-to Integrate Helpful Support Emails in Mobile Apps with Insightful Data & Logs**](https://montemagno.com/how-to-add-support-email-xamarin-apps/) by [James Montemagno]()",
+          "embedded_links": [
+            {
+              "identifier": "uIscPri",
+              "title": "**How-to Integrate Helpful Support Emails in Mobile Apps with Insightful Data & Logs**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/how-to-add-support-email-xamarin-apps/"
+            }
+          ]
+        },
+        {
+          "identifier": "B1wmkAw",
+          "type": "Link",
+          "title": "Knowing the File Picker",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/knowing-the-file-picker-in-xamarin-forms/",
+          "description": "<p>Providing users the ability to pick files is a pretty common requirement for applications.  With Xamarin.Essentials it's easy.</p>\n\n<p><a href=\"https://askxammy.com/knowing-the-file-picker-in-xamarin-forms/\"><strong>Knowing the File Picker in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Providing users the ability to pick files is a pretty common requirement for applications.  With Xamarin.Essentials it's easy.\r\n\r\n[**Knowing the File Picker in Xamarin Forms**](https://askxammy.com/knowing-the-file-picker-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "QPPGazy",
+              "title": "**Knowing the File Picker in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/knowing-the-file-picker-in-xamarin-forms/"
+            },
+            {
+              "identifier": "2W1GU4h",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "pxwYn9y",
+          "type": "Link",
+          "title": "NullPointers 36: Messaging Apps",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/36/",
+          "description": "<p>Messaging apps are all around. Look on your phone and you might have more of them than you’d initially think. With the recent Whatsapp privacy discussion we thought it’d be good to dive into this topic a bit further. So join us for the ride!</p>\n\n<p><a href=\"https://nullpointers.io/36/\"><strong>NullPointers 36: Messaging Apps</strong></a> by <a href=\"https://nullpointers.io\">Null Pointers</a></p>",
+          "description_markdown": "Messaging apps are all around. Look on your phone and you might have more of them than you’d initially think. With the recent Whatsapp privacy discussion we thought it’d be good to dive into this topic a bit further. So join us for the ride!\r\n\r\n[**NullPointers 36: Messaging Apps**](https://nullpointers.io/36/) by [Null Pointers](https://nullpointers.io)",
+          "embedded_links": [
+            {
+              "identifier": "l4AOV1r",
+              "title": "**NullPointers 36: Messaging Apps**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/36/"
+            },
+            {
+              "identifier": "2bUYjJr",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io"
+            }
+          ]
+        },
+        {
+          "identifier": "R8IAwvn",
+          "type": "Link",
+          "title": "The .NET Core Podcast 68 - Xamarin Catch Up With Luce Carter",
+          "url_domain": "dotnetcore.show",
+          "url": "https://dotnetcore.show/episode-68-xamarin-catch-up-with-luce-carter/",
+          "description": "<p>\"Look Mum, I'm famous!\" I had the pleasure back in August, of being a guest on the .NET Core Show talking all things Xamarin. The episode was released this week and in it we got to have a great time talking Xamarin on fridges, my Xamarin shrine in my kitchen, MAUI, .NET 6 and more!</p>\n\n<p><a href=\"https://dotnetcore.show/episode-68-xamarin-catch-up-with-luce-carter/0%20by%20[The%20.NET%20Core%20Podcast](https://dotnetcore.show\"><strong>The .NET Core Podcast 68 - Xamarin Catch Up With Luce Carter</strong></a></p>",
+          "description_markdown": "\"Look Mum, I'm famous!\" I had the pleasure back in August, of being a guest on the .NET Core Show talking all things Xamarin. The episode was released this week and in it we got to have a great time talking Xamarin on fridges, my Xamarin shrine in my kitchen, MAUI, .NET 6 and more!\r\n\r\n[**The .NET Core Podcast 68 - Xamarin Catch Up With Luce Carter**](https://dotnetcore.show/episode-68-xamarin-catch-up-with-luce-carter/0 by [The .NET Core Podcast](https://dotnetcore.show)",
+          "embedded_links": [
+            {
+              "identifier": "3AO0AcV",
+              "title": "The .NET Core Podcast",
+              "url_domain": "dotnetcore.show",
+              "url": "https://dotnetcore.show"
+            }
+          ]
+        },
+        {
+          "identifier": "IOW1rxw",
+          "type": "Link",
+          "title": "Merge Conflict: 237: Bot Awesome",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/237",
+          "description": "<p>CES 2021 has come and gone and we break down our favorite announcements around robots!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/237\"><strong>Merge Conflict: 237: Bot Awesome</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "CES 2021 has come and gone and we break down our favorite announcements around robots!\r\n\r\n[**Merge Conflict: 237: Bot Awesome**](https://www.mergeconflict.fm/237) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "yHMVSR8",
+              "title": "**Merge Conflict: 237: Bot Awesome**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/237"
+            },
+            {
+              "identifier": "zyb3hjy",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        },
+        {
+          "identifier": "JlVFig",
+          "type": "Link",
+          "title": "Save and Show PDF Files with This Library in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=FqetV1Lh-9c",
+          "description": "<p>Ever wanted to save and show PDF files in your apps? The Xamarin.Forms.Save.Open.PDF library allows you to achieve this in your Xamarin.Forms app and in this video, Gerald shows you how!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=FqetV1Lh-9c\"><strong>Save and Show PDF Files with This Library in Xamarin.Forms</strong></a> by <a href=\"https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw\">Gerald Versluis</a></p>",
+          "description_markdown": "Ever wanted to save and show PDF files in your apps? The Xamarin.Forms.Save.Open.PDF library allows you to achieve this in your Xamarin.Forms app and in this video, Gerald shows you how!\r\n\r\n[**Save and Show PDF Files with This Library in Xamarin.Forms**](https://www.youtube.com/watch?v=FqetV1Lh-9c) by [Gerald Versluis](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw)",
+          "embedded_links": [
+            {
+              "identifier": "rG6od15",
+              "title": "**Save and Show PDF Files with This Library in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=FqetV1Lh-9c"
+            },
+            {
+              "identifier": "p9w4S3P",
+              "title": "Gerald Versluis",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw"
+            }
+          ]
+        },
+        {
+          "identifier": "1B5HpOn",
+          "type": "Link",
+          "title": "Better MVVM with MVVM Helpers (or Xamarin Community Toolkit)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=y8ZqEOLDeo8",
+          "description": "<p>Let's take our MVVM to the next level with some great helper libraries that can be used in any application including Xamarin, Xamarin.Forms, WPF, UWP, and more! With MVVM Helpers you are able to easily get access to property change notifications, base viewmodels, helpers utilities, and optimizations around observable collections.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=y8ZqEOLDeo8\"><strong>Better MVVM with MVVM Helpers (or Xamarin Community Toolkit)</strong></a> by <a href=\"https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A\">James Montemagno</a></p>",
+          "description_markdown": "Let's take our MVVM to the next level with some great helper libraries that can be used in any application including Xamarin, Xamarin.Forms, WPF, UWP, and more! With MVVM Helpers you are able to easily get access to property change notifications, base viewmodels, helpers utilities, and optimizations around observable collections.\r\n\r\n[**Better MVVM with MVVM Helpers (or Xamarin Community Toolkit)**](https://www.youtube.com/watch?v=y8ZqEOLDeo8) by [James Montemagno](https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A)",
+          "embedded_links": [
+            {
+              "identifier": "IX6A1Zi",
+              "title": "**Better MVVM with MVVM Helpers (or Xamarin Community Toolkit)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=y8ZqEOLDeo8"
+            },
+            {
+              "identifier": "u2l8PYJ",
+              "title": "James Montemagno",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A"
+            }
+          ]
+        },
+        {
+          "identifier": "YfNDPZE",
+          "type": "Link",
+          "title": "LongPress, Animations and More with TouchEffects in Xamarin.CommunityToolkit - YouTube",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=BcFlZMhPmVk",
+          "description": "<p>With the TouchEffects in Xamarin Community Toolkit it has never been easier to add a LongPress to any visual element. Or how about some animations? Just add a couple of properties and BOOM! There it is.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=BcFlZMhPmVk\"><strong>LongPress, Animations and More with TouchEffects in Xamarin.CommunityToolkit</strong></a> by <a href=\"https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw\">Gerald Versluis</a></p>",
+          "description_markdown": "With the TouchEffects in Xamarin Community Toolkit it has never been easier to add a LongPress to any visual element. Or how about some animations? Just add a couple of properties and BOOM! There it is.\r\n\r\n[**LongPress, Animations and More with TouchEffects in Xamarin.CommunityToolkit**](https://www.youtube.com/watch?v=BcFlZMhPmVk) by [Gerald Versluis](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw)\r\n\r\n",
+          "embedded_links": [
+            {
+              "identifier": "CEThlIF",
+              "title": "**LongPress, Animations and More with TouchEffects in Xamarin.CommunityToolkit**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=BcFlZMhPmVk"
+            },
+            {
+              "identifier": "tFWo3U9",
+              "title": "Gerald Versluis",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw"
+            }
+          ]
+        },
+        {
+          "identifier": "aa4ZgZW",
+          "type": "Link",
+          "title": "Cross Platform Images in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Bc1v8aArUIg",
+          "description": "<p>Cross-platform images in Xamarin.Forms has been historically complicated. You need to provide all the different resolution sizes for the platforms your app supports. But it's getting easier and in this short video, David shows you the way!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Bc1v8aArUIg\"><strong>Cross Platform Images in Xamarin.Forms</strong></a> by <a href=\"https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ\">David Ortinau</a></p>",
+          "description_markdown": "Cross-platform images in Xamarin.Forms has been historically complicated. You need to provide all the different resolution sizes for the platforms your app supports. But it's getting easier and in this short video, David shows you the way!\r\n\r\n[**Cross Platform Images in Xamarin.Forms**](https://www.youtube.com/watch?v=Bc1v8aArUIg) by [David Ortinau](https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ)",
+          "embedded_links": [
+            {
+              "identifier": "5MLMx7l",
+              "title": "**Cross Platform Images in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Bc1v8aArUIg"
+            },
+            {
+              "identifier": "5eI4cjQ",
+              "title": "David Ortinau",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ"
+            }
+          ]
+        },
+        {
+          "identifier": "u7zyDaN",
+          "type": "Link",
+          "title": "Tinting Icon and Image Colors in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=hAKIjIXLuLg",
+          "description": "<p>Sometimes you need to change the color of an icon, but you don't want to go through the ceremony of rebuilding the FontImageSource. Who does?! The Xamarin Community Toolkit recently added a very convenient tint effect just for this purpose.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=hAKIjIXLuLg\"><strong>Tinting Icon and Image Colors in Xamarin.Forms</strong></a> by <a href=\"https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ\">David Ortinau</a></p>",
+          "description_markdown": "Sometimes you need to change the color of an icon, but you don't want to go through the ceremony of rebuilding the FontImageSource. Who does?! The Xamarin Community Toolkit recently added a very convenient tint effect just for this purpose.\r\n\r\n[**Tinting Icon and Image Colors in Xamarin.Forms**](https://www.youtube.com/watch?v=hAKIjIXLuLg) by [David Ortinau](https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ)",
+          "embedded_links": [
+            {
+              "identifier": "dzLOQUF",
+              "title": "**Tinting Icon and Image Colors in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=hAKIjIXLuLg"
+            },
+            {
+              "identifier": "mi8Tjso",
+              "title": "David Ortinau",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ"
+            }
+          ]
+        },
+        {
+          "identifier": "20hjIYU",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 86: Medusa",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/86",
+          "description": "<p>This is one of my favourite types of Xamarin Podcast episode, hearing about amazing and cool apps made using Xamarin!\nTune in to find out how Medusa used Xamarin and Azure to create an app to help the mobile healthcare clinician in the field to capture patient care info!\n<a href=\"https://www.xamarinpodcast.com/86\"><strong>The Xamarin Podcast Episode 86: Medusa</strong></a></p>",
+          "description_markdown": "This is one of my favourite types of Xamarin Podcast episode, hearing about amazing and cool apps made using Xamarin!\r\nTune in to find out how Medusa used Xamarin and Azure to create an app to help the mobile healthcare clinician in the field to capture patient care info!\r\n[**The Xamarin Podcast Episode 86: Medusa**](https://www.xamarinpodcast.com/86)",
+          "embedded_links": [
+            {
+              "identifier": "XHIMdkQ",
+              "title": "**The Xamarin Podcast Episode 86: Medusa**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/86"
+            }
+          ]
+        },
+        {
+          "identifier": "jbkHzQO",
+          "type": "Link",
+          "title": "Create an Onboarding Image Carousel in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=uu2xGUOWoX8",
+          "description": "<p>A really nice use of CarouselView, to create a full-screen onboarding experience complete with indicators.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=uu2xGUOWoX8\"><strong>Create an Onboarding Image Carousel in Xamarin.Forms</strong></a> by <a href=\"https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ\">David Ortinau</a></p>",
+          "description_markdown": "A really nice use of CarouselView, to create a full-screen onboarding experience complete with indicators.\r\n\r\n[**Create an Onboarding Image Carousel in Xamarin.Forms**](https://www.youtube.com/watch?v=uu2xGUOWoX8) by [David Ortinau](https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ)",
+          "embedded_links": [
+            {
+              "identifier": "tC5fz4G",
+              "title": "**Create an Onboarding Image Carousel in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=uu2xGUOWoX8"
+            },
+            {
+              "identifier": "WXademZ",
+              "title": "David Ortinau",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

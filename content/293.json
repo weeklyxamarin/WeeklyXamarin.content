@@ -1,0 +1,125 @@
+{
+  "Id": "293",
+  "Name": "Issue 293",
+  "UpdatedTimeStamp": "2021-01-23T15:17:16Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hey folks, Happy Xamarin Weekly! Lots of great content this week, with lots of great videos to watch. It even includes a podcast episode featuring yours truly! Whatever you are up to this weekend, I hope you all stay safe and have a great time! Luce 🧡",
+  "PublishDate": "2021-01-23T15:17:14Z",
+  "Curators": "Luce Carter",
+  "Articles": [
+    {
+      "Title": "Using Dynamic Data in Xamarin Forms (Part 1)",
+      "Url": "https://www.xamboy.com/2021/01/20/using-dynamic-data-in-xamarin-forms-part-1/",
+      "Description": "DynamicData is a portable class library that brings Rx Extensions to collections of data. Rendy has recently started to play with it and really liked it so started what will no doubt be a fantastic blog series sharing all about it and how to use it!",
+      "EditionId": "293",
+      "Author": "Rendy Del Rosario",
+      "Id": "293-1",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Providing a feedback mechanism for your apps",
+      "Url": "https://montemagno.com/how-to-add-support-email-xamarin-apps/",
+      "Description": "James discusses how to create a way for users to provide feedback via email in your mobile applications.",
+      "EditionId": "293",
+      "Id": "293-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Knowing the File Picker",
+      "Url": "https://askxammy.com/knowing-the-file-picker-in-xamarin-forms/",
+      "Description": "Providing users the ability to pick files is a pretty common requirement for applications.  With Xamarin.Essentials it's easy.",
+      "EditionId": "293",
+      "Author": "Leomaris Reyes",
+      "Id": "293-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "NullPointers 36: Messaging Apps",
+      "Url": "https://nullpointers.io/36/",
+      "Description": "Messaging apps are all around. Look on your phone and you might have more of them than you’d initially think. With the recent Whatsapp privacy discussion we thought it’d be good to dive into this topic a bit further. So join us for the ride!",
+      "EditionId": "293",
+      "Author": "Null Pointers",
+      "Id": "293-4",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The .NET Core Podcast 68 - Xamarin Catch Up With Luce Carter",
+      "Url": "https://dotnetcore.show/episode-68-xamarin-catch-up-with-luce-carter/",
+      "Description": "\"Look Mum, I'm famous!\" I had the pleasure back in August, of being a guest on the .NET Core Show talking all things Xamarin. The episode was released this week and in it we got to have a great time talking Xamarin on fridges, my Xamarin shrine in my kitchen, MAUI, .NET 6 and more!",
+      "EditionId": "293",
+      "Id": "293-5",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 237: Bot Awesome",
+      "Url": "https://www.mergeconflict.fm/237",
+      "Description": "CES 2021 has come and gone and we break down our favorite announcements around robots!",
+      "EditionId": "293",
+      "Author": "Merge Conflict",
+      "Id": "293-6",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Save and Show PDF Files with This Library in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=FqetV1Lh-9c",
+      "Description": "Ever wanted to save and show PDF files in your apps? The Xamarin.Forms.Save.Open.PDF library allows you to achieve this in your Xamarin.Forms app and in this video, Gerald shows you how!",
+      "EditionId": "293",
+      "Author": "Gerald Versluis",
+      "Id": "293-7",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Better MVVM with MVVM Helpers (or Xamarin Community Toolkit)",
+      "Url": "https://www.youtube.com/watch?v=y8ZqEOLDeo8",
+      "Description": "Let's take our MVVM to the next level with some great helper libraries that can be used in any application including Xamarin, Xamarin.Forms, WPF, UWP, and more! With MVVM Helpers you are able to easily get access to property change notifications, base viewmodels, helpers utilities, and optimizations around observable collections.",
+      "EditionId": "293",
+      "Author": "James Montemagno",
+      "Id": "293-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "LongPress, Animations and More with TouchEffects in Xamarin.CommunityToolkit - YouTube",
+      "Url": "https://www.youtube.com/watch?v=BcFlZMhPmVk",
+      "Description": "With the TouchEffects in Xamarin Community Toolkit it has never been easier to add a LongPress to any visual element. Or how about some animations? Just add a couple of properties and BOOM! There it is.",
+      "EditionId": "293",
+      "Author": "Gerald Versluis",
+      "Id": "293-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Cross Platform Images in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=Bc1v8aArUIg",
+      "Description": "Cross-platform images in Xamarin.Forms has been historically complicated. You need to provide all the different resolution sizes for the platforms your app supports. But it's getting easier and in this short video, David shows you the way!",
+      "EditionId": "293",
+      "Author": "David Ortinau",
+      "Id": "293-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Tinting Icon and Image Colors in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=hAKIjIXLuLg",
+      "Description": "Sometimes you need to change the color of an icon, but you don't want to go through the ceremony of rebuilding the FontImageSource. Who does?! The Xamarin Community Toolkit recently added a very convenient tint effect just for this purpose.",
+      "EditionId": "293",
+      "Author": "David Ortinau",
+      "Id": "293-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Podcast Episode 86: Medusa",
+      "Url": "https://www.xamarinpodcast.com/86",
+      "Description": "This is one of my favourite types of Xamarin Podcast episode, hearing about amazing and cool apps made using Xamarin!Tune in to find out how Medusa used Xamarin and Azure to create an app to help the mobile healthcare clinician in the field to capture patient care info![**The Xamarin Podcast Episode 86: Medusa**](https://www.xamarinpodcast.com/86)",
+      "EditionId": "293",
+      "Id": "293-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Create an Onboarding Image Carousel in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=uu2xGUOWoX8",
+      "Description": "A really nice use of CarouselView, to create a full-screen onboarding experience complete with indicators.",
+      "EditionId": "293",
+      "Author": "David Ortinau",
+      "Id": "293-13",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
