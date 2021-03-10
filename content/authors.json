@@ -1124,6 +1124,16 @@
       ]
     },
     {
+      "Name": "Jacob Egner",
+      "Id": "https://twitter.com/jacobegner",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/jacobegner"
+        }
+      ]
+    },
+    {
       "Name": "Jacob Kirsch",
       "Id": "https://devblogs.microsoft.com/xamarin/author/jacobkirsch/",
       "Aliases": [

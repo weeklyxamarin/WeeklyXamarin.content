@@ -1,0 +1,451 @@
+{
+  "number": 291,
+  "title": "Issue 291",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/291",
+  "publication_status": "published",
+  "published_at": "2021-01-10T03:33:50+00:00",
+  "updated_at": "2021-01-10T03:33:55+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy 2021 everyone!</p>\n\n<p>We hope that everyone has had a bit of a break over the New Year and we are back for 2021.  It's going to be an exciting year, with Xamarin.Forms 5.0 being released and the road to Maui.</p>\n\n<p>All the best, and thanks for joining us again for another year.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy 2021 everyone!\r\n\r\nWe hope that everyone has had a bit of a break over the New Year and we are back for 2021.  It's going to be an exciting year, with Xamarin.Forms 5.0 being released and the road to Maui.\r\n\r\nAll the best, and thanks for joining us again for another year.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "02a6318f-93da-46ab-877e-044d8e6c1ce9.png",
+          "image_extra_large_filename": "original_ratio_extra_large_02a6318f-93da-46ab-877e-044d8e6c1ce9.png",
+          "image_medium_filename": "original_ratio_medium_02a6318f-93da-46ab-877e-044d8e6c1ce9.png"
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "7X0PlCc",
+          "type": "Link",
+          "title": "Xamarin.Forms 5.0 is Here!",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-5-0-is-here/",
+          "description": "<p>Say hello to the stable release of Xamarin.Forms, version 5.0. This major release delivers hundreds of quality improvements and brings to stable release new features including App Themes, Brushes, CarouselView, RadioButton, Shapes and Paths, and SwipeView.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-forms-5-0-is-here/\"><strong>Xamarin.Forms 5.0 is Here!</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": "Say hello to the stable release of Xamarin.Forms, version 5.0. This major release delivers hundreds of quality improvements and brings to stable release new features including App Themes, Brushes, CarouselView, RadioButton, Shapes and Paths, and SwipeView.\r\n\r\n[**Xamarin.Forms 5.0 is Here!**](https://devblogs.microsoft.com/xamarin/xamarin-forms-5-0-is-here/) by [David Ortinau](https://twitter.com/davidortinau)",
+          "embedded_links": [
+            {
+              "identifier": "Y0cJPyv",
+              "title": "**Xamarin.Forms 5.0 is Here!**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-5-0-is-here/"
+            },
+            {
+              "identifier": "H4jvWIp",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "businessandmarketing",
+      "name": "BUSINESS & MARKETING",
+      "items": [
+        {
+          "identifier": "32yvtg6",
+          "type": "Link",
+          "title": "Asking for app reviews with 1 line of code!",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/asking-for-app-reviews-really-works/",
+          "description": "<p>James shows us how to request App Reviews using Xamarin.Essentials with just a single line of code.</p>\n\n<p><a href=\"Asking%20for%20app%20reviews%20really%20works!%20It%20just%20takes%201%20line%20of%20code!\"><strong>Asking for app reviews really works! It just takes 1 line of code!</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James shows us how to request App Reviews using Xamarin.Essentials with just a single line of code.\r\n\r\n[**Asking for app reviews really works! It just takes 1 line of code!**](Asking for app reviews really works! It just takes 1 line of code!) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "LFr59nV",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "JKJwlvi",
+          "type": "Link",
+          "title": "Xamarin Pipeline Demo",
+          "url_domain": "github.com",
+          "url": "https://github.com/jmegner/XamarinPipelineDemo",
+          "description": "<p>Demo and explanation on how to do several common tasks for Xamarin.Forms Android in an Azure DevOps pipeline on a Microsoft-hosted agent. Tasks include: build-based version, APK signing, publishing artifacts, unit tests, and UI tests.</p>\n\n<p><a href=\"https://github.com/jmegner/XamarinPipelineDemo\"><strong>Xamarin Pipeline Demo</strong></a> by <a href=\"https://twitter.com/jacobegner\">Jacob Egner</a></p>",
+          "description_markdown": "Demo and explanation on how to do several common tasks for Xamarin.Forms Android in an Azure DevOps pipeline on a Microsoft-hosted agent. Tasks include: build-based version, APK signing, publishing artifacts, unit tests, and UI tests.\r\n\r\n[**Xamarin Pipeline Demo**](https://github.com/jmegner/XamarinPipelineDemo) by [Jacob Egner](https://twitter.com/jacobegner)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "od3Dc8",
+              "title": "**Xamarin Pipeline Demo**",
+              "url_domain": "github.com",
+              "url": "https://github.com/jmegner/XamarinPipelineDemo"
+            },
+            {
+              "identifier": "dQ3feSG",
+              "title": "Jacob Egner",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jacobegner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "dXGdgYg",
+          "type": "Link",
+          "title": "How to Debug on a Real Android Device",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/how-to-debug-on-real-android-device-using-xamarin-visual-studio",
+          "description": "<p>Debugging allows us to see our app's flow and to find and fix errors. Let’s see how to do this with Xamarin on an Android device.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/how-to-debug-on-real-android-device-using-xamarin-visual-studio\"><strong>How Do I Debug on a Real Android Device Using Xamarin for Visual Studio?</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Debugging allows us to see our app's flow and to find and fix errors. Let’s see how to do this with Xamarin on an Android device.\r\n\r\n[**How Do I Debug on a Real Android Device Using Xamarin for Visual Studio?**](https://www.telerik.com/blogs/how-to-debug-on-real-android-device-using-xamarin-visual-studio) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "TuqGeTw",
+              "title": "**How Do I Debug on a Real Android Device Using Xamarin for Visual Studio?**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/how-to-debug-on-real-android-device-using-xamarin-visual-studio"
+            },
+            {
+              "identifier": "eI3Kek9",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "GZPWyNu",
+          "type": "Link",
+          "title": "Enabling the Fancy iOS Picture In Picture Video Player on Xamarin",
+          "url_domain": "medium.com",
+          "url": "https://prototypemakers.medium.com/enabling-the-fancy-ios-picture-in-picture-video-player-on-xamarin-ec0cf29dc3ed",
+          "description": "<p>Picture In Picture (PIP) was introduced years ago in iOS 9, but it was only available for iPads. It was brought to iPhones recently in iOS 14, so Sameer implement it in his app.</p>\n\n<p><a href=\"https://prototypemakers.medium.com/enabling-the-fancy-ios-picture-in-picture-video-player-on-xamarin-ec0cf29dc3ed\"><strong>Enabling the Fancy iOS Picture In Picture Video Player on Xamarin</strong></a> by <a href=\"https://prototypemakers.medium.com\">Saamer Mansoor</a></p>",
+          "description_markdown": "Picture In Picture (PIP) was introduced years ago in iOS 9, but it was only available for iPads. It was brought to iPhones recently in iOS 14, so Sameer implement it in his app.\r\n\r\n[**Enabling the Fancy iOS Picture In Picture Video Player on Xamarin**](https://prototypemakers.medium.com/enabling-the-fancy-ios-picture-in-picture-video-player-on-xamarin-ec0cf29dc3ed) by [Saamer Mansoor](https://prototypemakers.medium.com)",
+          "embedded_links": [
+            {
+              "identifier": "Z7jePD7",
+              "title": "**Enabling the Fancy iOS Picture In Picture Video Player on Xamarin**",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com/enabling-the-fancy-ios-picture-in-picture-video-player-on-xamarin-ec0cf29dc3ed"
+            },
+            {
+              "identifier": "S3iib4X",
+              "title": "Saamer Mansoor",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com"
+            }
+          ]
+        },
+        {
+          "identifier": "VTePxYr",
+          "type": "Link",
+          "title": "Embedding a JavaScript Interpreter Into Xamarin Apps With Jint",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/embedding-a-javascript-interpreter-into-xamarin-apps-with-jint",
+          "description": "<p>By integrating Jint, we can add JavaScript support into our Xamarin.Forms apps. With an embedded JavaScript interpreter, we can write parts of our apps logic in JavaScript and through data and implement a \"lite\" form of code push.</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/embedding-a-javascript-interpreter-into-xamarin-apps-with-jint\"><strong>Embedding a JavaScript Interpreter Into Xamarin Apps With Jint</strong></a> by <a href=\"https://twitter.com/matthewrdev\">Matthew Robbins</a></p>",
+          "description_markdown": "By integrating Jint, we can add JavaScript support into our Xamarin.Forms apps. With an embedded JavaScript interpreter, we can write parts of our apps logic in JavaScript and through data and implement a \"lite\" form of code push.\r\n\r\n[**Embedding a JavaScript Interpreter Into Xamarin Apps With Jint**](https://www.mfractor.com/blogs/news/embedding-a-javascript-interpreter-into-xamarin-apps-with-jint) by [Matthew Robbins](https://twitter.com/matthewrdev)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ohksnlX",
+              "title": "**Embedding a JavaScript Interpreter Into Xamarin Apps With Jint**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/embedding-a-javascript-interpreter-into-xamarin-apps-with-jint"
+            },
+            {
+              "identifier": "3X2MeH6",
+              "title": "Matthew Robbins",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/matthewrdev"
+            }
+          ]
+        },
+        {
+          "identifier": "GmWAduH",
+          "type": "Link",
+          "title": "Xamarin Essentials: Features, Advantages and Benefits",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/xamarin-essentials-features-advantages-benefits",
+          "description": "<p>Xamarin Essentials adds all kinds of useful APIs in a single NuGet package. Let's learn the basics of Xamarin essentials as we take a look!</p>\n\n<p><a href=\"https://www.telerik.com/blogs/xamarin-essentials-features-advantages-benefits\"><strong>Xamarin Essentials: Features, Advantages and Benefits</strong></a> by <a href=\"https://www.telerik.com/blogs/author/leomaris-reyes\">Leomaris Reyes</a></p>",
+          "description_markdown": "Xamarin Essentials adds all kinds of useful APIs in a single NuGet package. Let's learn the basics of Xamarin essentials as we take a look!\r\n\r\n[**Xamarin Essentials: Features, Advantages and Benefits**](https://www.telerik.com/blogs/xamarin-essentials-features-advantages-benefits) by [Leomaris Reyes](https://www.telerik.com/blogs/author/leomaris-reyes)",
+          "embedded_links": [
+            {
+              "identifier": "KoXe5td",
+              "title": "**Xamarin Essentials: Features, Advantages and Benefits**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/xamarin-essentials-features-advantages-benefits"
+            },
+            {
+              "identifier": "hCPSjAX",
+              "title": "Leomaris Reyes",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/leomaris-reyes"
+            }
+          ]
+        },
+        {
+          "identifier": "fnPaOQN",
+          "type": "Link",
+          "title": "Christmas Shopping UI in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-christmas-shopping-ui-in-xamarin-forms/",
+          "description": "<p>Here is another great Xamarin.Forms UI Challenge by Leomaris with a cool Christmas themed layout.</p>\n\n<p><a href=\"https://askxammy.com/replicating-christmas-shopping-ui-in-xamarin-forms/\"><strong>Replicating Christmas Shopping UI in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Here is another great Xamarin.Forms UI Challenge by Leomaris with a cool Christmas themed layout.\r\n\r\n[**Replicating Christmas Shopping UI in Xamarin Forms**](https://askxammy.com/replicating-christmas-shopping-ui-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "XilvNeT",
+              "title": "**Replicating Christmas Shopping UI in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-christmas-shopping-ui-in-xamarin-forms/"
+            },
+            {
+              "identifier": "XlGCMUT",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "NI4BlhG",
+          "type": "Link",
+          "title": "Popups using Rg.Plugins.Popup",
+          "url_domain": "wordpress.com",
+          "url": "https://acaliaro.wordpress.com/2020/12/07/create-a-popup-using-rg-plugins-popup-and-get-a-return-value/",
+          "description": "<p>Allesandro talks about how to use Rg.Plugins.Popup to create customizable popups for Xamarin.Forms, including awaiting results.</p>\n\n<p><a href=\"https://acaliaro.wordpress.com/2020/12/07/create-a-popup-using-rg-plugins-popup-and-get-a-return-value/\"><strong>Create a popup using Rg.Plugins.Popup and get a return value in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/acaliaro\">Alessandro Caliaro</a></p>",
+          "description_markdown": "Allesandro talks about how to use Rg.Plugins.Popup to create customizable popups for Xamarin.Forms, including awaiting results.\r\n\r\n[**Create a popup using Rg.Plugins.Popup and get a return value in Xamarin Forms**](https://acaliaro.wordpress.com/2020/12/07/create-a-popup-using-rg-plugins-popup-and-get-a-return-value/) by [Alessandro Caliaro](https://twitter.com/acaliaro)",
+          "embedded_links": [
+            {
+              "identifier": "sVaufzl",
+              "title": "**Create a popup using Rg.Plugins.Popup and get a return value in Xamarin Forms**",
+              "url_domain": "wordpress.com",
+              "url": "https://acaliaro.wordpress.com/2020/12/07/create-a-popup-using-rg-plugins-popup-and-get-a-return-value/"
+            },
+            {
+              "identifier": "mS7Ls88",
+              "title": "Alessandro Caliaro",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/acaliaro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "tKDnopP",
+          "type": "Link",
+          "title": "Xamarin.Forms 5 LAUNCH PARTY!!!!!!",
+          "url_domain": "youtube.com",
+          "url": "http://www.youtube.com/watch?v=-J4iQ1hHDQw",
+          "description": "<p>Join David Ortinau,  Maddy Leger, and some of the Xamarin.Forms engineering team while we celebrate launching Xamarin.Forms 5.0, our favorite release yet!!!</p>\n\n<p><a href=\"http://www.youtube.com/watch?v=-J4iQ1hHDQw\"><strong>Xamarin Community Standup - Xamarin.Forms 5 LAUNCH PARTY!!!!!!</strong></a> by <a href=\"https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg\">Xamarin Developers</a></p>",
+          "description_markdown": "Join David Ortinau,  Maddy Leger, and some of the Xamarin.Forms engineering team while we celebrate launching Xamarin.Forms 5.0, our favorite release yet!!!\r\n\r\n[**Xamarin Community Standup - Xamarin.Forms 5 LAUNCH PARTY!!!!!!**](http://www.youtube.com/watch?v=-J4iQ1hHDQw) by [Xamarin Developers](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "nPCu0EQ",
+              "title": "**Xamarin Community Standup - Xamarin.Forms 5 LAUNCH PARTY!!!!!!**",
+              "url_domain": "youtube.com",
+              "url": "http://www.youtube.com/watch?v=-J4iQ1hHDQw"
+            },
+            {
+              "identifier": "mCTfrLc",
+              "title": "Xamarin Developers",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg"
+            }
+          ]
+        },
+        {
+          "identifier": "hMV37Rc",
+          "type": "Link",
+          "title": "Xamarin.Forms 5 with David Ortinau",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/85",
+          "description": "<p>Xamarin.Forms 5.0 has just been released.</p>\n\n<p>And it's all Xamarin.Forms 5 all the time in this special podcast!</p>\n\n<p>Principal Program Manager David Ortinau join James and Matt to lead them through all the new exciting bits in Xamarin.Forms 5.0.</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/85\"><strong>Xamarin.Forms 5 with David Ortinau</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "Xamarin.Forms 5.0 has just been released.\r\n\r\nAnd it's all Xamarin.Forms 5 all the time in this special podcast!\r\n\r\nPrincipal Program Manager David Ortinau join James and Matt to lead them through all the new exciting bits in Xamarin.Forms 5.0.\r\n\r\n[**Xamarin.Forms 5 with David Ortinau**](https://www.xamarinpodcast.com/85) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)",
+          "embedded_links": [
+            {
+              "identifier": "dgvKkZa",
+              "title": "**Xamarin.Forms 5 with David Ortinau**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/85"
+            },
+            {
+              "identifier": "6BdnPLp",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        },
+        {
+          "identifier": "ySKulwk",
+          "type": "Link",
+          "title": "60 Second Tutorials",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/playlist?list=PLrkKvY7K4dLWNQQlJAlf6CgVt5hDtU4Xb",
+          "description": "<p>David Ortinau has a fantastic collection of quick-hit Xamarin.Forms tutorials over on his YouTube channel.</p>\n\n<p><a href=\"https://www.youtube.com/playlist?list=PLrkKvY7K4dLWNQQlJAlf6CgVt5hDtU4Xb\"><strong>60s Tutorials</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": "David Ortinau has a fantastic collection of quick-hit Xamarin.Forms tutorials over on his YouTube channel.\r\n\r\n[**60s Tutorials**](https://www.youtube.com/playlist?list=PLrkKvY7K4dLWNQQlJAlf6CgVt5hDtU4Xb) by [David Ortinau](https://twitter.com/davidortinau)",
+          "embedded_links": [
+            {
+              "identifier": "tKFdrjc",
+              "title": "**60s Tutorials**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/playlist?list=PLrkKvY7K4dLWNQQlJAlf6CgVt5hDtU4Xb"
+            },
+            {
+              "identifier": "qOc9Z0",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        },
+        {
+          "identifier": "K8R8KvB",
+          "type": "Link",
+          "title": "Create a macOS App From Your Xamarin.iOS App",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=IqeRPm197C4",
+          "description": "<p>You already have an iOS app? How about adding a macOS app for free, without any effort. In this video Gerald will show you how to do that!</p>\n\n<p>By installing just this one plugin the Mac Catalyst variant of your app is built automatically.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=IqeRPm197C4\"><strong>Create a macOS App From Your Xamarin.iOS App by Just Doing This 🤯</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "You already have an iOS app? How about adding a macOS app for free, without any effort. In this video Gerald will show you how to do that!\r\n\r\nBy installing just this one plugin the Mac Catalyst variant of your app is built automatically.\r\n\r\n[**Create a macOS App From Your Xamarin.iOS App by Just Doing This 🤯**](https://www.youtube.com/watch?v=IqeRPm197C4) by [Gerald Versluis](https://twitter.com/jfversluis)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "IrzXxOK",
+              "title": "**Create a macOS App From Your Xamarin.iOS App by Just Doing This 🤯**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=IqeRPm197C4"
+            },
+            {
+              "identifier": "7dv2TAO",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "hKNunWr",
+          "type": "Link",
+          "title": "Xamarin.Forms XAML 101 ",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=GLfR2uosoSw",
+          "description": "<p>James is back with another Xamarin.Forms 101 video! This week he is looking at using XAML to build user interfaces.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=GLfR2uosoSw\"><strong>Xamarin.Forms XAML 101 + Hello World!</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James is back with another Xamarin.Forms 101 video! This week he is looking at using XAML to build user interfaces.\r\n\r\n[**Xamarin.Forms XAML 101 + Hello World!**](https://www.youtube.com/watch?v=GLfR2uosoSw) by [James Montemagno](https://twitter.com/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "5Na7aqA",
+              "title": "**Xamarin.Forms XAML 101 + Hello World!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=GLfR2uosoSw"
+            },
+            {
+              "identifier": "maGQcOz",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "2D5OHXt",
+          "type": "Link",
+          "title": "Secure Your Xamarin App with Fingerprint or Face Recognition",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=k-eg3gcSMSU",
+          "description": "<p>The Fingerprint plugin allows you to secure your app or parts of your app with biometric security, so think Touch ID, Face ID and the Android, Mac and UWP fingerprint scanners.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=k-eg3gcSMSU\"><strong>Secure Your Xamarin App with Fingerprint or Face Recognition</strong></a> by <a href=\"https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw\">Gerald Versluis</a></p>",
+          "description_markdown": "The Fingerprint plugin allows you to secure your app or parts of your app with biometric security, so think Touch ID, Face ID and the Android, Mac and UWP fingerprint scanners.\r\n\r\n[**Secure Your Xamarin App with Fingerprint or Face Recognition**](https://www.youtube.com/watch?v=k-eg3gcSMSU) by [Gerald Versluis](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "b8nCfAd",
+              "title": "**Secure Your Xamarin App with Fingerprint or Face Recognition**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=k-eg3gcSMSU"
+            },
+            {
+              "identifier": "ddavZua",
+              "title": "Gerald Versluis",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw"
+            }
+          ]
+        },
+        {
+          "identifier": "tmnfRdm",
+          "type": "Link",
+          "title": "MVVM 101",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Pso1MeX_HvI",
+          "description": "<p>James has another 101 video , this time on architecture with MVVM, data binding, commanding, and more.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Pso1MeX_HvI\"><strong>MVVM 101 - Model-View-ViewModel Architecture for Xamarin.Forms, WPF, UWP, &amp; More</strong></a> by <a href=\"https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A\">James Montemagno</a></p>",
+          "description_markdown": "James has another 101 video , this time on architecture with MVVM, data binding, commanding, and more. \r\n\r\n[**MVVM 101 - Model-View-ViewModel Architecture for Xamarin.Forms, WPF, UWP, & More**](https://www.youtube.com/watch?v=Pso1MeX_HvI) by [James Montemagno](https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "66PKSMN",
+              "title": "**MVVM 101 - Model-View-ViewModel Architecture for Xamarin.Forms, WPF, UWP, & More**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Pso1MeX_HvI"
+            },
+            {
+              "identifier": "oNAhkdU",
+              "title": "James Montemagno",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A"
+            }
+          ]
+        },
+        {
+          "identifier": "bX7Txrs",
+          "type": "Link",
+          "title": "Merge Conflict 235: Holiday Hack Success!",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/235",
+          "description": "<p>We did it! We finished (mostly) our holiday hacks, so tune in to figure out what we did!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/235\"><strong>Merge Conflict 235: Holiday Hack Success!</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "We did it! We finished (mostly) our holiday hacks, so tune in to figure out what we did!\r\n\r\n[**Merge Conflict 235: Holiday Hack Success!**](https://www.mergeconflict.fm/235) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "VtzttM3",
+              "title": "**Merge Conflict 235: Holiday Hack Success!**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/235"
+            },
+            {
+              "identifier": "JLGNxSG",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

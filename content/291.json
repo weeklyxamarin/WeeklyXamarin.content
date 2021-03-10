@@ -1,0 +1,163 @@
+{
+  "Id": "291",
+  "Name": "Issue 291",
+  "UpdatedTimeStamp": "2021-01-10T03:33:55Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Happy 2021 everyone! We hope that everyone has had a bit of a break over the New Year and we are back for 2021.  It's going to be an exciting year, with Xamarin.Forms 5.0 being released and the road to Maui. All the best, and thanks for joining us again for another year. ❤ Kym",
+  "PublishDate": "2021-01-10T03:33:50Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Xamarin.Forms 5.0 is Here!",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-forms-5-0-is-here/",
+      "Description": "Say hello to the stable release of Xamarin.Forms, version 5.0. This major release delivers hundreds of quality improvements and brings to stable release new features including App Themes, Brushes, CarouselView, RadioButton, Shapes and Paths, and SwipeView.",
+      "EditionId": "291",
+      "Author": "David Ortinau",
+      "Id": "291-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Asking for app reviews with 1 line of code!",
+      "Url": "https://montemagno.com/asking-for-app-reviews-really-works/",
+      "Description": "James shows us how to request App Reviews using Xamarin.Essentials with just a single line of code.",
+      "EditionId": "291",
+      "Id": "291-2",
+      "Category": "BUSINESS & MARKETING"
+    },
+    {
+      "Title": "Xamarin Pipeline Demo",
+      "Url": "https://github.com/jmegner/XamarinPipelineDemo",
+      "Description": "Demo and explanation on how to do several common tasks for Xamarin.Forms Android in an Azure DevOps pipeline on a Microsoft-hosted agent. Tasks include: build-based version, APK signing, publishing artifacts, unit tests, and UI tests.",
+      "EditionId": "291",
+      "Author": "Jacob Egner",
+      "Id": "291-3",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "How to Debug on a Real Android Device",
+      "Url": "https://www.telerik.com/blogs/how-to-debug-on-real-android-device-using-xamarin-visual-studio",
+      "Description": "Debugging allows us to see our app's flow and to find and fix errors. Let’s see how to do this with Xamarin on an Android device.",
+      "EditionId": "291",
+      "Author": "Leomaris Reyes",
+      "Id": "291-4",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Enabling the Fancy iOS Picture In Picture Video Player on Xamarin",
+      "Url": "https://prototypemakers.medium.com/enabling-the-fancy-ios-picture-in-picture-video-player-on-xamarin-ec0cf29dc3ed",
+      "Description": "Picture In Picture (PIP) was introduced years ago in iOS 9, but it was only available for iPads. It was brought to iPhones recently in iOS 14, so Sameer implement it in his app.",
+      "EditionId": "291",
+      "Author": "Saamer Mansoor",
+      "Id": "291-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Embedding a JavaScript Interpreter Into Xamarin Apps With Jint",
+      "Url": "https://www.mfractor.com/blogs/news/embedding-a-javascript-interpreter-into-xamarin-apps-with-jint",
+      "Description": "By integrating Jint, we can add JavaScript support into our Xamarin.Forms apps. With an embedded JavaScript interpreter, we can write parts of our apps logic in JavaScript and through data and implement a \"lite\" form of code push.",
+      "EditionId": "291",
+      "Author": "Matthew Robbins",
+      "Id": "291-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin Essentials: Features, Advantages and Benefits",
+      "Url": "https://www.telerik.com/blogs/xamarin-essentials-features-advantages-benefits",
+      "Description": "Xamarin Essentials adds all kinds of useful APIs in a single NuGet package. Let's learn the basics of Xamarin essentials as we take a look!",
+      "EditionId": "291",
+      "Author": "Leomaris Reyes",
+      "Id": "291-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Christmas Shopping UI in Xamarin Forms",
+      "Url": "https://askxammy.com/replicating-christmas-shopping-ui-in-xamarin-forms/",
+      "Description": "Here is another great Xamarin.Forms UI Challenge by Leomaris with a cool Christmas themed layout.",
+      "EditionId": "291",
+      "Author": "Leomaris Reyes",
+      "Id": "291-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Popups using Rg.Plugins.Popup",
+      "Url": "https://acaliaro.wordpress.com/2020/12/07/create-a-popup-using-rg-plugins-popup-and-get-a-return-value/",
+      "Description": "Allesandro talks about how to use Rg.Plugins.Popup to create customizable popups for Xamarin.Forms, including awaiting results.",
+      "EditionId": "291",
+      "Author": "Alessandro Caliaro",
+      "Id": "291-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms 5 LAUNCH PARTY!!!!!!",
+      "Url": "http://www.youtube.com/watch?v=-J4iQ1hHDQw",
+      "Description": "Join David Ortinau,  Maddy Leger, and some of the Xamarin.Forms engineering team while we celebrate launching Xamarin.Forms 5.0, our favorite release yet!!!",
+      "EditionId": "291",
+      "Author": "Xamarin Developers",
+      "Id": "291-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms 5 with David Ortinau",
+      "Url": "https://www.xamarinpodcast.com/85",
+      "Description": "Xamarin.Forms 5.0 has just been released. And it's all Xamarin.Forms 5 all the time in this special podcast! Principal Program Manager David Ortinau join James and Matt to lead them through all the new exciting bits in Xamarin.Forms 5.0.",
+      "EditionId": "291",
+      "Author": "The Xamarin Podcast",
+      "Id": "291-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "60 Second Tutorials",
+      "Url": "https://www.youtube.com/playlist?list=PLrkKvY7K4dLWNQQlJAlf6CgVt5hDtU4Xb",
+      "Description": "David Ortinau has a fantastic collection of quick-hit Xamarin.Forms tutorials over on his YouTube channel.",
+      "EditionId": "291",
+      "Author": "David Ortinau",
+      "Id": "291-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Create a macOS App From Your Xamarin.iOS App",
+      "Url": "https://www.youtube.com/watch?v=IqeRPm197C4",
+      "Description": "You already have an iOS app? How about adding a macOS app for free, without any effort. In this video Gerald will show you how to do that! By installing just this one plugin the Mac Catalyst variant of your app is built automatically.",
+      "EditionId": "291",
+      "Author": "Gerald Versluis",
+      "Id": "291-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms XAML 101 ",
+      "Url": "https://www.youtube.com/watch?v=GLfR2uosoSw",
+      "Description": "James is back with another Xamarin.Forms 101 video! This week he is looking at using XAML to build user interfaces.",
+      "EditionId": "291",
+      "Author": "James Montemagno",
+      "Id": "291-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Secure Your Xamarin App with Fingerprint or Face Recognition",
+      "Url": "https://www.youtube.com/watch?v=k-eg3gcSMSU",
+      "Description": "The Fingerprint plugin allows you to secure your app or parts of your app with biometric security, so think Touch ID, Face ID and the Android, Mac and UWP fingerprint scanners.",
+      "EditionId": "291",
+      "Author": "Gerald Versluis",
+      "Id": "291-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "MVVM 101",
+      "Url": "https://www.youtube.com/watch?v=Pso1MeX_HvI",
+      "Description": "James has another 101 video , this time on architecture with MVVM, data binding, commanding, and more.",
+      "EditionId": "291",
+      "Author": "James Montemagno",
+      "Id": "291-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 235: Holiday Hack Success!",
+      "Url": "https://www.mergeconflict.fm/235",
+      "Description": "We did it! We finished (mostly) our holiday hacks, so tune in to figure out what we did!",
+      "EditionId": "291",
+      "Author": "Merge Conflict",
+      "Id": "291-17",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
