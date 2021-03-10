@@ -1,0 +1,109 @@
+{
+  "Id": "283",
+  "Name": "Issue 283",
+  "UpdatedTimeStamp": "2020-10-30T22:37:59Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Happy Friday!   A bit of a quiet week in the Xamarin blogosphere this week. But still some great articles to keep you busy for the weekend.  ❤ Kym",
+  "PublishDate": "2020-10-30T22:37:54Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Mobile user flows",
+      "Url": "https://uxarchive.com/",
+      "Description": "A collection of mobile app user workflows - this could make a great reference for you if you are looking for inspiration for your application.",
+      "EditionId": "283",
+      "Author": "Waldo",
+      "Id": "283-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Replicating Event App UI in Xamarin Forms",
+      "Url": "https://askxammy.com/replicating-event-app-ui-in-xamarin-forms/",
+      "Description": "Another fine UI Challenge from Leomaris, this time a great looking Event App UI.",
+      "EditionId": "283",
+      "Author": "Leomaris Reyes",
+      "Id": "283-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Sharpnado badge of honor",
+      "Url": "https://www.sharpnado.com/sharpnado-tabs-2-0/",
+      "Description": "The fantastic Sharpnado library now has badges. Who doesn't love badges, right?",
+      "EditionId": "283",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "283-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Options for showing and hiding views",
+      "Url": "https://xamgirl.com/stop-doing-isvisibletrue-false-to-show-hide-views-in-runtime-in-xamarin-forms/",
+      "Description": "Charlin discusses techniques for showing and hiding content at runtime that don't involve just hiding the content.",
+      "EditionId": "283",
+      "Author": "Charlin Agramonte",
+      "Id": "283-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Generate QR Codes With C#",
+      "Url": "https://khalidabuhakmeh.com/generate-qr-codes-csharp",
+      "Description": "Quick Response (QR) codes are all around us, helping us quickly retrieve information on our mobile devices. QR codes are high-density barcodes that encode all kinds of information: numbers, alphanumeric, byte/binary, and even script languages like Kanji.",
+      "EditionId": "283",
+      "Id": "283-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "FFImageLoading with a Proxy",
+      "Url": "https://acaliaro.wordpress.com/2020/10/27/how-to-configure-ffimageloading-to-visualize-images-from-url-when-a-proxy-is-configured/",
+      "Description": "This is a quick tip from Alessandro for getting FFImageLoading working with a proxy.",
+      "EditionId": "283",
+      "Author": "Alessandro Caliaro",
+      "Id": "283-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Getting Started with Text-To-Speech in Xamarin Forms",
+      "Url": "https://www.telerik.com/blogs/getting-started-with-text-to-speech-in-xamarin-forms",
+      "Description": "Let’s learn how to work with the built-in text-to-speech engines in Xamarin Forms. Every one of us has different learning styles. Some of us learn better by reading, but others will have better comprehension by listening.",
+      "EditionId": "283",
+      "Author": "Leomaris Reyes",
+      "Id": "283-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "How to Add Custom App Actions In Xamarin.Forms app",
+      "Url": "https://almirvuk.com/add-custom-actions-to-your-app-with-xamarin-essentials/",
+      "Description": "How to add custom app-actions to your Xamarin.Forms app using Xamarin.Essentials. This blog post will show you how!",
+      "EditionId": "283",
+      "Author": "Almir Vuk",
+      "Id": "283-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Keep the Screen On With DeviceDisplayInfo in Xamarin.Essentials",
+      "Url": "https://www.youtube.com/watch?v=nJicHL163vQ",
+      "Description": "Gerald has a new video discussing DeviceDisplayInfo. The Device Display Information API in Xamarin.Essentials gives you all kinds of information about the device display. You can see the width, the height, the density, but not only that, you can also prevent the screen from going to sleep.  Also make sure you check out his other videos on his YouTube channel as well, a treasure-trove of goodness for Xamarin developers.",
+      "EditionId": "283",
+      "Author": "Gerald Versluis",
+      "Id": "283-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 24: Testing your apps",
+      "Url": "https://nullpointers.io/24/",
+      "Description": "In this episode, we are discussing what approaches you can take to test your hard coded work. From TDD to BDD, we discuss a few of the common Acronym Driven Development approaches and what benefits you want to expect when writing automated code. Tune in and leave us a comment on Twitter.",
+      "EditionId": "283",
+      "Author": "Null Pointers",
+      "Id": "283-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 225: Frank Got Catalyst for Xamarin.iOS Working!",
+      "Url": "https://www.mergeconflict.fm/225",
+      "Description": "You heard it! Frank Got Catalyst for Xamarin.iOS Working!",
+      "EditionId": "283",
+      "Author": "Merge Conflict",
+      "Id": "283-11",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

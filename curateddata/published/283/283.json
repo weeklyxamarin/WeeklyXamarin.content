@@ -1,0 +1,334 @@
+{
+  "number": 283,
+  "title": "Issue 283",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/283",
+  "publication_status": "published",
+  "published_at": "2020-10-30T22:37:54+00:00",
+  "updated_at": "2020-10-30T22:37:59+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday!</p>\n\n<p>A bit of a quiet week in the Xamarin blogosphere this week. But still some great articles to keep you busy for the weekend.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Friday!  \r\n\r\nA bit of a quiet week in the Xamarin blogosphere this week. But still some great articles to keep you busy for the weekend. \r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "tKDszI7",
+          "type": "Link",
+          "title": "",
+          "url_domain": "platform.uno",
+          "url": "https://platform.uno?utm_source=newsletter-xam-weekly-Oct30&utm_medium=email&utm_campaign=uno-awareness-xam-weekly",
+          "description": "",
+          "description_markdown": "",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "a226ca29-952c-4fa1-b847-597998736c30.png",
+          "image_extra_large_filename": "original_ratio_extra_large_a226ca29-952c-4fa1-b847-597998736c30.png",
+          "image_medium_filename": "original_ratio_medium_a226ca29-952c-4fa1-b847-597998736c30.png"
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "sPBXX5y",
+          "type": "Link",
+          "title": "Mobile user flows",
+          "url_domain": "uxarchive.com",
+          "url": "https://uxarchive.com/",
+          "description": "<p>A collection of mobile app user workflows - this could make a great reference for you if you are looking for inspiration for your application.</p>\n\n<p><a href=\"https://uxarchive.com/\"><strong>The world's largest library of mobile user flows</strong></a> by <a href=\"https://www.waldo.io/\">Waldo</a></p>",
+          "description_markdown": "A collection of mobile app user workflows - this could make a great reference for you if you are looking for inspiration for your application. \r\n\r\n[**The world's largest library of mobile user flows**](https://uxarchive.com/) by [Waldo](https://www.waldo.io/)",
+          "embedded_links": [
+            {
+              "identifier": "nEQhC5l",
+              "title": "**The world's largest library of mobile user flows**",
+              "url_domain": "uxarchive.com",
+              "url": "https://uxarchive.com/"
+            },
+            {
+              "identifier": "fVxlc7X",
+              "title": "Waldo",
+              "url_domain": "waldo.io",
+              "url": "https://www.waldo.io/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "3Buf3b1",
+          "type": "Link",
+          "title": "Replicating Event App UI in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-event-app-ui-in-xamarin-forms/",
+          "description": "<p>Another fine UI Challenge from Leomaris, this time a great looking Event App UI.</p>\n\n<p><a href=\"https://askxammy.com/replicating-event-app-ui-in-xamarin-forms/\"><strong>Replicating Event App UI in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Another fine UI Challenge from Leomaris, this time a great looking Event App UI.\r\n\r\n[**Replicating Event App UI in Xamarin Forms**](https://askxammy.com/replicating-event-app-ui-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "GF9E5E5",
+              "title": "**Replicating Event App UI in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-event-app-ui-in-xamarin-forms/"
+            },
+            {
+              "identifier": "3KSYtEi",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "nQwGtOx",
+          "type": "Link",
+          "title": "Sharpnado badge of honor",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/sharpnado-tabs-2-0/",
+          "description": "<p>The fantastic Sharpnado library now has badges. Who doesn't love badges, right?</p>\n\n<p><a href=\"https://www.sharpnado.com/sharpnado-tabs-2-0/\"><strong>Sharpnado.Tabs 2.0: Xamarin.Forms tabs receive a Badge of honor</strong></a> by <a href=\"https://twitter.com/Piskariov\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "The fantastic Sharpnado library now has badges. Who doesn't love badges, right?\r\n\r\n[**Sharpnado.Tabs 2.0: Xamarin.Forms tabs receive a Badge of honor**](https://www.sharpnado.com/sharpnado-tabs-2-0/) by [Jean-Marie Alfonsi](https://twitter.com/Piskariov)",
+          "embedded_links": [
+            {
+              "identifier": "IRvSclD",
+              "title": "**Sharpnado.Tabs 2.0: Xamarin.Forms tabs receive a Badge of honor**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/sharpnado-tabs-2-0/"
+            },
+            {
+              "identifier": "f1vHLZY",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Piskariov"
+            }
+          ]
+        },
+        {
+          "identifier": "br8geLw",
+          "type": "Link",
+          "title": "Options for showing and hiding views",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/stop-doing-isvisibletrue-false-to-show-hide-views-in-runtime-in-xamarin-forms/",
+          "description": "<p>Charlin discusses techniques for showing and hiding content at runtime that don't involve just hiding the content.</p>\n\n<p><a href=\"https://xamgirl.com/stop-doing-isvisibletrue-false-to-show-hide-views-in-runtime-in-xamarin-forms/\"><strong>Stop doing IsVisible=“true/false” to Show/Hide Views in RunTime in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "Charlin discusses techniques for showing and hiding content at runtime that don't involve just hiding the content.\r\n\r\n[**Stop doing IsVisible=“true/false” to Show/Hide Views in RunTime in Xamarin Forms**](https://xamgirl.com/stop-doing-isvisibletrue-false-to-show-hide-views-in-runtime-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003)",
+          "embedded_links": [
+            {
+              "identifier": "lbLd7Nx",
+              "title": "**Stop doing IsVisible=“true/false” to Show/Hide Views in RunTime in Xamarin Forms**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/stop-doing-isvisibletrue-false-to-show-hide-views-in-runtime-in-xamarin-forms/"
+            },
+            {
+              "identifier": "n8NeEQ7",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "D873y9t",
+          "type": "Link",
+          "title": "Generate QR Codes With C#",
+          "url_domain": "khalidabuhakmeh.com",
+          "url": "https://khalidabuhakmeh.com/generate-qr-codes-csharp",
+          "description": "<p>Quick Response (QR) codes are all around us, helping us quickly retrieve information on our mobile devices. QR codes are high-density barcodes that encode all kinds of information: numbers, alphanumeric, byte/binary, and even script languages like Kanji.</p>\n\n<p><a href=\"https://khalidabuhakmeh.com/generate-qr-codes-csharp\"><strong>Generate QR Codes With C#</strong></a> by <a href=\"\">Khalid Abuhakmeh</a></p>",
+          "description_markdown": "Quick Response (QR) codes are all around us, helping us quickly retrieve information on our mobile devices. QR codes are high-density barcodes that encode all kinds of information: numbers, alphanumeric, byte/binary, and even script languages like Kanji.\r\n\r\n[**Generate QR Codes With C#**](https://khalidabuhakmeh.com/generate-qr-codes-csharp) by [Khalid Abuhakmeh]()",
+          "embedded_links": [
+            {
+              "identifier": "5jXKgzl",
+              "title": "**Generate QR Codes With C#**",
+              "url_domain": "khalidabuhakmeh.com",
+              "url": "https://khalidabuhakmeh.com/generate-qr-codes-csharp"
+            }
+          ]
+        },
+        {
+          "identifier": "9BstrWE",
+          "type": "Link",
+          "title": "FFImageLoading with a Proxy",
+          "url_domain": "wordpress.com",
+          "url": "https://acaliaro.wordpress.com/2020/10/27/how-to-configure-ffimageloading-to-visualize-images-from-url-when-a-proxy-is-configured/",
+          "description": "<p>This is a quick tip from Alessandro for getting FFImageLoading working with a proxy.</p>\n\n<p><a href=\"https://acaliaro.wordpress.com/2020/10/27/how-to-configure-ffimageloading-to-visualize-images-from-url-when-a-proxy-is-configured/\"><strong>How to configure FFImageLoading to visualize images from URL when a PROXY is configured.</strong></a> by <a href=\"https://twitter.com/acaliaro\">Alessandro Caliaro</a></p>",
+          "description_markdown": "This is a quick tip from Alessandro for getting FFImageLoading working with a proxy.\r\n\r\n[**How to configure FFImageLoading to visualize images from URL when a PROXY is configured.**](https://acaliaro.wordpress.com/2020/10/27/how-to-configure-ffimageloading-to-visualize-images-from-url-when-a-proxy-is-configured/) by [Alessandro Caliaro](https://twitter.com/acaliaro)",
+          "embedded_links": [
+            {
+              "identifier": "UQZeWQ9",
+              "title": "**How to configure FFImageLoading to visualize images from URL when a PROXY is configured.**",
+              "url_domain": "wordpress.com",
+              "url": "https://acaliaro.wordpress.com/2020/10/27/how-to-configure-ffimageloading-to-visualize-images-from-url-when-a-proxy-is-configured/"
+            },
+            {
+              "identifier": "pizpdLp",
+              "title": "Alessandro Caliaro",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/acaliaro"
+            }
+          ]
+        },
+        {
+          "identifier": "kvl7z3R",
+          "type": "Link",
+          "title": "Getting Started with Text-To-Speech in Xamarin Forms",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/getting-started-with-text-to-speech-in-xamarin-forms",
+          "description": "<p>Let’s learn how to work with the built-in text-to-speech engines in Xamarin Forms. Every one of us has different learning styles. Some of us learn better by reading, but others will have better comprehension by listening.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/getting-started-with-text-to-speech-in-xamarin-forms\"><strong>Getting Started with Text-To-Speech in Xamarin Forms</strong></a> by <a href=\"https://www.telerik.com/blogs/author/leomaris-reyes\">Leomaris Reyes</a></p>",
+          "description_markdown": "Let’s learn how to work with the built-in text-to-speech engines in Xamarin Forms. Every one of us has different learning styles. Some of us learn better by reading, but others will have better comprehension by listening.\r\n\r\n[**Getting Started with Text-To-Speech in Xamarin Forms**](https://www.telerik.com/blogs/getting-started-with-text-to-speech-in-xamarin-forms) by [Leomaris Reyes](https://www.telerik.com/blogs/author/leomaris-reyes)",
+          "embedded_links": [
+            {
+              "identifier": "vFfOVIg",
+              "title": "**Getting Started with Text-To-Speech in Xamarin Forms**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/getting-started-with-text-to-speech-in-xamarin-forms"
+            },
+            {
+              "identifier": "3mkaUd7",
+              "title": "Leomaris Reyes",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/leomaris-reyes"
+            }
+          ]
+        },
+        {
+          "identifier": "YE83axS",
+          "type": "Link",
+          "title": "How to Add Custom App Actions In Xamarin.Forms app",
+          "url_domain": "almirvuk.com",
+          "url": "https://almirvuk.com/add-custom-actions-to-your-app-with-xamarin-essentials/",
+          "description": "<p>How to add custom app-actions to your Xamarin.Forms app using Xamarin.Essentials. This blog post will show you how!</p>\n\n<p><a href=\"https://almirvuk.com/add-custom-actions-to-your-app-with-xamarin-essentials/\"><strong>How to Add Custom App Actions In Xamarin.Forms app</strong></a> by <a href=\"https://twitter.com/almirvuk\">Almir Vuk</a></p>",
+          "description_markdown": "How to add custom app-actions to your Xamarin.Forms app using Xamarin.Essentials. This blog post will show you how!\r\n\r\n[**How to Add Custom App Actions In Xamarin.Forms app**](https://almirvuk.com/add-custom-actions-to-your-app-with-xamarin-essentials/) by [Almir Vuk](https://twitter.com/almirvuk)",
+          "embedded_links": [
+            {
+              "identifier": "bmKb0aR",
+              "title": "Almir Vuk",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/almirvuk"
+            },
+            {
+              "identifier": "g4m2jhd",
+              "title": "**How to Add Custom App Actions In Xamarin.Forms app**",
+              "url_domain": "almirvuk.com",
+              "url": "https://almirvuk.com/add-custom-actions-to-your-app-with-xamarin-essentials/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "cgoOQD7",
+          "type": "Link",
+          "title": "Keep the Screen On With DeviceDisplayInfo in Xamarin.Essentials",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=nJicHL163vQ",
+          "description": "<p>Gerald has a new video discussing DeviceDisplayInfo. The Device Display Information API in Xamarin.Essentials gives you all kinds of information about the device display. You can see the width, the height, the density, but not only that, you can also prevent the screen from going to sleep.</p>\n\n<p>Also make sure you check out his other videos on his YouTube channel as well, a treasure-trove of goodness for Xamarin developers.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=nJicHL163vQ\"><strong>Keep the Screen On With DeviceDisplayInfo in Xamarin.Essentials</strong></a> by <a href=\"https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw\">Gerald Versluis</a></p>",
+          "description_markdown": "Gerald has a new video discussing DeviceDisplayInfo. The Device Display Information API in Xamarin.Essentials gives you all kinds of information about the device display. You can see the width, the height, the density, but not only that, you can also prevent the screen from going to sleep. \r\n\r\nAlso make sure you check out his other videos on his YouTube channel as well, a treasure-trove of goodness for Xamarin developers.\r\n\r\n[**Keep the Screen On With DeviceDisplayInfo in Xamarin.Essentials**](https://www.youtube.com/watch?v=nJicHL163vQ) by [Gerald Versluis](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw)",
+          "embedded_links": [
+            {
+              "identifier": "PHK5iUy",
+              "title": "**Keep the Screen On With DeviceDisplayInfo in Xamarin.Essentials**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=nJicHL163vQ"
+            },
+            {
+              "identifier": "lqsZFup",
+              "title": "Gerald Versluis",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw"
+            }
+          ]
+        },
+        {
+          "identifier": "SgR2ObH",
+          "type": "Link",
+          "title": "Null Pointers 24: Testing your apps",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/24/",
+          "description": "<p>In this episode, we are discussing what approaches you can take to test your hard coded work. From TDD to BDD, we discuss a few of the common Acronym Driven Development approaches and what benefits you want to expect when writing automated code. Tune in and leave us a comment on Twitter.</p>\n\n<p><a href=\"https://nullpointers.io/24/\"><strong>24: Testing your apps</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "In this episode, we are discussing what approaches you can take to test your hard coded work. From TDD to BDD, we discuss a few of the common Acronym Driven Development approaches and what benefits you want to expect when writing automated code. Tune in and leave us a comment on Twitter.\r\n\r\n[**24: Testing your apps**](https://nullpointers.io/24/) by [Null Pointers](https://twitter.com/nullpointersio)",
+          "embedded_links": [
+            {
+              "identifier": "A1U00NV",
+              "title": "**24: Testing your apps**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/24/"
+            },
+            {
+              "identifier": "GyPw2YJ",
+              "title": "Null Pointers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        },
+        {
+          "identifier": "NOz65Cl",
+          "type": "Link",
+          "title": "Merge Conflict 225: Frank Got Catalyst for Xamarin.iOS Working!",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/225",
+          "description": "<p>You heard it! Frank Got Catalyst for Xamarin.iOS Working!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/225\"><strong>225: Frank Got Catalyst for Xamarin.iOS Working!</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "You heard it! Frank Got Catalyst for Xamarin.iOS Working!\r\n\r\n[**225: Frank Got Catalyst for Xamarin.iOS Working!**](https://www.mergeconflict.fm/225) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "QfqXHzZ",
+              "title": "**225: Frank Got Catalyst for Xamarin.iOS Working!**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/225"
+            },
+            {
+              "identifier": "khBL1qQ",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>If you are looking for some .NET / Xamarin conference goodness this weekend check out: <a href=\"https://dotnetdevsummit.com/apac/\">.NET Dev Summit 2020</a></p>",
+          "description_markdown": "If you are looking for some .NET / Xamarin conference goodness this weekend check out: [.NET Dev Summit 2020](https://dotnetdevsummit.com/apac/)",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "nJpccOc",
+              "title": ".NET Dev Summit 2020",
+              "url_domain": "dotnetdevsummit.com",
+              "url": "https://dotnetdevsummit.com/apac/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

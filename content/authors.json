@@ -692,7 +692,6 @@
           "Type": "blog",
           "Name": "https://prin53.medium.com/"
         }
-
       ]
     },
     {
@@ -1852,7 +1851,6 @@
           "Type": "blog",
           "Name": "https://nicksnettravels.builttoroam.com/author/nick/"
         }
-        
       ],
       "Website": "https://builttoroam.com"
     },
@@ -2548,6 +2546,16 @@
       "GitHubHandle": "vulcanlee",
       "Id": "https://twitter.com/vulcanlee",
       "Website": "https://mylabtw.blogspot.com/"
+    },
+    {
+      "Name": "Waldo",
+      "Id": "https://www.waldo.io/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.waldo.io/"
+        }
+      ]
     },
     {
       "Name": "Whitney Schmidt",
