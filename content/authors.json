@@ -497,6 +497,16 @@
       ]
     },
     {
+      "Name": "Chris Coyier",
+      "Id": "https://github.com/chriscoyier",
+      "Aliases": [
+        {
+          "Type": "github",
+          "Name": "https://github.com/chriscoyier"
+        }
+      ]
+    },
+    {
       "Name": "Chris Downie",
       "Id": "https://www.bignerdranch.com/blog/category/authors/chris-downie/",
       "Aliases": [
@@ -2119,6 +2129,16 @@
       ]
     },
     {
+      "Name": "Rafael Veronezi",
+      "Id": "https://github.com/ravero",
+      "Aliases": [
+        {
+          "Type": "github",
+          "Name": "https://github.com/ravero"
+        }
+      ]
+    },
+    {
       "Name": "Ram Shandilya",
       "Id": "https://twitter.com/ramshandilya",
       "Aliases": [
@@ -2829,12 +2849,32 @@
       ]
     },
     {
+      "Name": "Yogeshwaran Mohan",
+      "Id": "https://www.syncfusion.com/blogs/author/yogeshwaran-mohansyncfusion-com",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.syncfusion.com/blogs/author/yogeshwaran-mohansyncfusion-com"
+        }
+      ]
+    },
+    {
       "Name": "Yuyan Duan",
       "Id": "https://uxdesign.cc/@yuyan.duan",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "https://uxdesign.cc/@yuyan.duan"
+        }
+      ]
+    },
+    {
+      "Name": "Zachary Shakked",
+      "Id": "https://blog.zach.so/people/12421462-zachary-shakked",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://blog.zach.so/people/12421462-zachary-shakked"
         }
       ]
     }

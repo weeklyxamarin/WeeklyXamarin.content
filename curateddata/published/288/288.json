@@ -1,0 +1,426 @@
+{
+  "number": 288,
+  "title": "Issue 288",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/288",
+  "publication_status": "published",
+  "published_at": "2020-12-05T01:18:29+00:00",
+  "updated_at": "2020-12-05T01:18:32+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Howdy!</p>\n\n<p>This week we have a wide range of articles, from design, coding fonts, Maui, marketing and of course Xamarin.Forms - so much for you to enjoy over the weekend. As always, the Xamarin community is doing an amazing job.</p>\n\n<p>♥</p>\n\n<p>Kym</p>",
+          "description_markdown": "Howdy!\r\n\r\nThis week we have a wide range of articles, from design, coding fonts, Maui, marketing and of course Xamarin.Forms - so much for you to enjoy over the weekend. As always, the Xamarin community is doing an amazing job.\r\n\r\n♥\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "gettingstarted",
+      "name": "GETTING STARTED",
+      "items": [
+        {
+          "identifier": "gF79kdo",
+          "type": "Link",
+          "title": "Build Your First for iOS & Android App with Xamarin and Visual Studio",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/build-your-first-for-ios-android-app-with-xamarin-and-visual-studio/",
+          "description": "<p>This is a fantastic first post in a getting started series James is working on. It has both video and written content to suit your learning style and it is packed full of information, code samples and explanations!</p>\n\n<p><a href=\"https://montemagno.com/build-your-first-for-ios-android-app-with-xamarin-and-visual-studio/\"><strong>Build Your First for iOS &amp; Android App with Xamarin and Visual Studio</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This is a fantastic first post in a getting started series James is working on. It has both video and written content to suit your learning style and it is packed full of information, code samples and explanations!\r\n\r\n[**Build Your First for iOS & Android App with Xamarin and Visual Studio**](https://montemagno.com/build-your-first-for-ios-android-app-with-xamarin-and-visual-studio/) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "GXNnAzp",
+              "title": "**Build Your First for iOS & Android App with Xamarin and Visual Studio**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/build-your-first-for-ios-android-app-with-xamarin-and-visual-studio/"
+            },
+            {
+              "identifier": "OwQk0sR",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "fMhslv3",
+          "type": "Link",
+          "title": "What's the correlation between .NET 5, WinUI and MAUI (Xamarin.Forms)",
+          "url_domain": "builttoroam.com",
+          "url": "https://nicksnettravels.builttoroam.com/net5-crossplatform/?utm_source=rss&utm_medium=rss&utm_campaign=net5-crossplatform",
+          "description": "<p>With the move to a one .NET ecosystem, the recent release of .NET 5 and the announcement of MAUI with a regularly changing release schedule, it can be hard to get your head around all these changes, what is happening and when. Nick has done a great job of breaking it all down and helping you decide what to target with your projects.</p>\n\n<p><a href=\"https://nicksnettravels.builttoroam.com/net5-crossplatform/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=net5-crossplatform\"><strong>What's the correlation between .NET 5, WinUI and MAUI (Xamarin.Forms)</strong></a> by <a href=\"https://twitter.com/thenickrandolph\">Nick Randolph</a></p>",
+          "description_markdown": "With the move to a one .NET ecosystem, the recent release of .NET 5 and the announcement of MAUI with a regularly changing release schedule, it can be hard to get your head around all these changes, what is happening and when. Nick has done a great job of breaking it all down and helping you decide what to target with your projects.\r\n\r\n[**What's the correlation between .NET 5, WinUI and MAUI (Xamarin.Forms)**](https://nicksnettravels.builttoroam.com/net5-crossplatform/?utm_source=rss&utm_medium=rss&utm_campaign=net5-crossplatform) by [Nick Randolph](https://twitter.com/thenickrandolph)",
+          "embedded_links": [
+            {
+              "identifier": "uKNIrfB",
+              "title": "**What's the correlation between .NET 5, WinUI and MAUI (Xamarin.Forms)**",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/net5-crossplatform/?utm_source=rss&utm_medium=rss&utm_campaign=net5-crossplatform"
+            },
+            {
+              "identifier": "gvv4tBQ",
+              "title": "Nick Randolph",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/thenickrandolph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "spNwcNx",
+          "type": "Link",
+          "title": "10 Key Mobile Usability Issues",
+          "url_domain": "uxplanet.org",
+          "url": "https://uxplanet.org/10-key-mobile-usability-issues-7029b8efe119",
+          "description": "<p>10 critical usability issues and practical recommendations to pay attention to when working on your mobile design.</p>\n\n<p><a href=\"https://uxplanet.org/10-key-mobile-usability-issues-7029b8efe119\"><strong>10 Key Mobile Usability Issues</strong></a> by <a href=\"https://medium.com/@101\">Nick Babich</a></p>",
+          "description_markdown": "10 critical usability issues and practical recommendations to pay attention to when working on your mobile design.\r\n\r\n[**10 Key Mobile Usability Issues**](https://uxplanet.org/10-key-mobile-usability-issues-7029b8efe119) by [Nick Babich](https://medium.com/@101)",
+          "embedded_links": [
+            {
+              "identifier": "V9J3I7Q",
+              "title": "**10 Key Mobile Usability Issues**",
+              "url_domain": "uxplanet.org",
+              "url": "https://uxplanet.org/10-key-mobile-usability-issues-7029b8efe119"
+            },
+            {
+              "identifier": "PL6NkTF",
+              "title": "Nick Babich",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "businessandmarketing",
+      "name": "BUSINESS & MARKETING",
+      "items": [
+        {
+          "identifier": "K0qDkS5",
+          "type": "Link",
+          "title": "App Pricing Strategies and Tools",
+          "url_domain": "zach.so",
+          "url": "https://blog.zach.so/p/a-comprehensive-guide-to-app-pricing",
+          "description": "<p>Figuring out how to price an app is one of the most difficult challenges of building a successful app business.</p>\n\n<p><a href=\"https://blog.zach.so/p/a-comprehensive-guide-to-app-pricing\"><strong>A Comprehensive Guide to App Pricing Strategies and Tools</strong></a> by <a href=\"https://blog.zach.so/people/12421462-zachary-shakked\">Zachary Shakked</a></p>",
+          "description_markdown": "Figuring out how to price an app is one of the most difficult challenges of building a successful app business. \r\n\r\n[**A Comprehensive Guide to App Pricing Strategies and Tools**](https://blog.zach.so/p/a-comprehensive-guide-to-app-pricing) by [Zachary Shakked](https://blog.zach.so/people/12421462-zachary-shakked)",
+          "embedded_links": [
+            {
+              "identifier": "6KxlFv6",
+              "title": "**A Comprehensive Guide to App Pricing Strategies and Tools**",
+              "url_domain": "zach.so",
+              "url": "https://blog.zach.so/p/a-comprehensive-guide-to-app-pricing"
+            },
+            {
+              "identifier": "N4natIj",
+              "title": "Zachary Shakked",
+              "url_domain": "zach.so",
+              "url": "https://blog.zach.so/people/12421462-zachary-shakked"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "pU5PMDY",
+          "type": "Link",
+          "title": "Coding Fonts Repository",
+          "url_domain": "css-tricks.com",
+          "url": "https://coding-fonts.css-tricks.com/",
+          "description": "<p>Who doesn't love playing around with themes and coding fonts in their favourite IDE. Well this site, has some great fonts (some free, some paid) that might just inspire you.</p>\n\n<p><a href=\"https://coding-fonts.css-tricks.com/\"><strong>Coding Fonts</strong></a> by <a href=\"https://github.com/chriscoyier\">Chris Coyier</a></p>",
+          "description_markdown": "Who doesn't love playing around with themes and coding fonts in their favourite IDE. Well this site, has some great fonts (some free, some paid) that might just inspire you.\r\n\r\n[**Coding Fonts**](https://coding-fonts.css-tricks.com/) by [Chris Coyier](https://github.com/chriscoyier)",
+          "embedded_links": [
+            {
+              "identifier": "fVgkuaQ",
+              "title": "**Coding Fonts**",
+              "url_domain": "css-tricks.com",
+              "url": "https://coding-fonts.css-tricks.com/"
+            },
+            {
+              "identifier": "Wdvv0RG",
+              "title": "Chris Coyier",
+              "url_domain": "github.com",
+              "url": "https://github.com/chriscoyier"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "FfBM3IU",
+          "type": "Link",
+          "title": "Creating a Xamarin Android binding library - Writing the binding",
+          "url_domain": "johnthiriet.com",
+          "url": "https://johnthiriet.com/xamarin-android-binding-library-writing/",
+          "description": "<p>This is another blog post in a series from John Thiriet on writing an Android bindling libray. Having tried to do this in the past and faced issues, it is a really helpful guide to writing the binding and some concepts to understand.</p>\n\n<p><a href=\"https://johnthiriet.com/xamarin-android-binding-library-writing/\"><strong>Creating a Xamarin Android binding library - Writing the binding</strong></a> by <a href=\"https://twitter.com/JohnThiriet\">John Thiriet</a></p>",
+          "description_markdown": "This is another blog post in a series from John Thiriet on writing an Android bindling libray. Having tried to do this in the past and faced issues, it is a really helpful guide to writing the binding and some concepts to understand.\r\n\r\n[**Creating a Xamarin Android binding library - Writing the binding**](https://johnthiriet.com/xamarin-android-binding-library-writing/) by [John Thiriet](https://twitter.com/JohnThiriet)",
+          "embedded_links": [
+            {
+              "identifier": "iRPai40",
+              "title": "**Creating a Xamarin Android binding library - Writing the binding**",
+              "url_domain": "johnthiriet.com",
+              "url": "https://johnthiriet.com/xamarin-android-binding-library-writing/"
+            },
+            {
+              "identifier": "4m5bKfY",
+              "title": "John Thiriet",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/JohnThiriet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "GsL9rbC",
+          "type": "Link",
+          "title": "Don't Put Android in Your Namespace in Xamarin Projects",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/dont-put-android-in-your-namespace-in-xamarin-apps/",
+          "description": "<p>One of the most common mistakes when creating a new project for Android is to put \"Android\" in the name. You want to because your app is going to run on Android, but it causes a series of pain immediately with namespace conflicts.</p>\n\n<p><a href=\"https://montemagno.com/dont-put-android-in-your-namespace-in-xamarin-apps/\"><strong>Don't Put Android in Your Namespace in Xamarin Projects</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "One of the most common mistakes when creating a new project for Android is to put \"Android\" in the name. You want to because your app is going to run on Android, but it causes a series of pain immediately with namespace conflicts.\r\n\r\n[**Don't Put Android in Your Namespace in Xamarin Projects**](https://montemagno.com/dont-put-android-in-your-namespace-in-xamarin-apps/) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "HeoKE56",
+              "title": "**Don't Put Android in Your Namespace in Xamarin Projects**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/dont-put-android-in-your-namespace-in-xamarin-apps/"
+            },
+            {
+              "identifier": "jPhxsVq",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "uN2VpSG",
+          "type": "Link",
+          "title": "Scrolling Marquee, we missed you.",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/create-xamarin-marquee-control.aspx",
+          "description": "<p>Relive the glory days of 90s web development with a scrolling Marquee in your Xamarin.Forms application.  Seriously though, it can be useful for things like alert information, notifications, and offers.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/create-xamarin-marquee-control.aspx\"><strong>5 Simple Steps to Create a Marquee Control in Your Xamarin.Forms Apps</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/yogeshwaran-mohansyncfusion-com\">Yogeshwaran Mohan</a></p>",
+          "description_markdown": "Relive the glory days of 90s web development with a scrolling Marquee in your Xamarin.Forms application.  Seriously though, it can be useful for things like alert information, notifications, and offers.\r\n\r\n[**5 Simple Steps to Create a Marquee Control in Your Xamarin.Forms Apps**](https://www.syncfusion.com/blogs/post/create-xamarin-marquee-control.aspx) by [Yogeshwaran Mohan](https://www.syncfusion.com/blogs/author/yogeshwaran-mohansyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "dJerSzV",
+              "title": "**5 Simple Steps to Create a Marquee Control in Your Xamarin.Forms Apps**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/create-xamarin-marquee-control.aspx"
+            },
+            {
+              "identifier": "D892ORJ",
+              "title": "Yogeshwaran Mohan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/yogeshwaran-mohansyncfusion-com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "net",
+      "name": ".NET",
+      "items": [
+        {
+          "identifier": "wUiVOId",
+          "type": "Link",
+          "title": ".NET 5.0 and C# 9.0 for Xamarin Developers",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/net-5-0-and-c-9-0-for-xamarin-developers",
+          "description": "<p>As the first phase on the unified view that Microsoft unveiled last year, we finally have a single platform for our entire application stack. But what does this means for Xamarin developers?</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/net-5-0-and-c-9-0-for-xamarin-developers\"><strong>.NET 5.0 and C# 9.0 for Xamarin Developers</strong></a> by <a href=\"https://github.com/ravero\">Rafael Veronezi</a></p>",
+          "description_markdown": "As the first phase on the unified view that Microsoft unveiled last year, we finally have a single platform for our entire application stack. But what does this means for Xamarin developers?\r\n\r\n[**.NET 5.0 and C# 9.0 for Xamarin Developers**](https://www.mfractor.com/blogs/news/net-5-0-and-c-9-0-for-xamarin-developers) by [Rafael Veronezi](https://github.com/ravero)",
+          "embedded_links": [
+            {
+              "identifier": "qCiBb9i",
+              "title": "**.NET 5.0 and C# 9.0 for Xamarin Developers**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/net-5-0-and-c-9-0-for-xamarin-developers"
+            },
+            {
+              "identifier": "PzLGDzt",
+              "title": "Rafael Veronezi",
+              "url_domain": "github.com",
+              "url": "https://github.com/ravero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "KIQxuEg",
+          "type": "Link",
+          "title": "Style Control States with Visual State Manager in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=GjHV7McgPq4",
+          "description": "<p>With the Visual State Manager in Xamarin.Forms you can very easily style your controls depending on the state they are in. In this video we will learn what the Visual State Manager is, how to use it and more importantly; how to implement it.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=GjHV7McgPq4\"><strong>Style Control States with Visual State Manager in Xamarin.Forms</strong></a> by <a href=\"https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw\">Gerald Versluis</a></p>",
+          "description_markdown": "With the Visual State Manager in Xamarin.Forms you can very easily style your controls depending on the state they are in. In this video we will learn what the Visual State Manager is, how to use it and more importantly; how to implement it. \r\n\r\n[**Style Control States with Visual State Manager in Xamarin.Forms**](https://www.youtube.com/watch?v=GjHV7McgPq4) by [Gerald Versluis](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw)",
+          "embedded_links": [
+            {
+              "identifier": "NbJ5XgW",
+              "title": "**Style Control States with Visual State Manager in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=GjHV7McgPq4"
+            },
+            {
+              "identifier": "8GeM3mP",
+              "title": "Gerald Versluis",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw"
+            }
+          ]
+        },
+        {
+          "identifier": "djRu2HK",
+          "type": "Link",
+          "title": "December’s Community Standup – .NET MAUI Update",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/decembers-community-standup-dotnet-maui-update/",
+          "description": "<p>As we start to say goodbye to 2020, we start to welcome .NET MAUI into our development lives! Join Maddy, David Ortinau, and Jon Dick from the Xamarin &amp; .NET MAUI team for updates on .NET MAUI, the next generation of Xamarin.Forms to build cross-platform mobile and desktop apps.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/decembers-community-standup-dotnet-maui-update/\"><strong>December’s Community Standup – .NET MAUI Update</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/maddy-leger/\">Maddy Leger</a></p>",
+          "description_markdown": "As we start to say goodbye to 2020, we start to welcome .NET MAUI into our development lives! Join Maddy, David Ortinau, and Jon Dick from the Xamarin & .NET MAUI team for updates on .NET MAUI, the next generation of Xamarin.Forms to build cross-platform mobile and desktop apps.\r\n\r\n[**December’s Community Standup – .NET MAUI Update**](https://devblogs.microsoft.com/xamarin/decembers-community-standup-dotnet-maui-update/) by [Maddy Leger](https://devblogs.microsoft.com/xamarin/author/maddy-leger/)",
+          "embedded_links": [
+            {
+              "identifier": "BnNvVrR",
+              "title": "**December’s Community Standup – .NET MAUI Update**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/decembers-community-standup-dotnet-maui-update/"
+            },
+            {
+              "identifier": "HM3ix6n",
+              "title": "Maddy Leger",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/maddy-leger/"
+            }
+          ]
+        },
+        {
+          "identifier": "8fujETh",
+          "type": "Link",
+          "title": "DevTalk 51: Being a mobile developer. With Hussain Abbasi",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-51-hussain-abbasi/",
+          "description": "<p>On this episode of DevTalk, Kerry speaks to Hussain Abbasi about being a mobile developer and about working with all different types of mobile development technologies.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-51-hussain-abbasi/\"><strong>DevTalk 51: Being a mobile developer. With Hussain Abbasi</strong></a> by <a href=\"https://kerry.lothrop.de\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk, Kerry speaks to Hussain Abbasi about being a mobile developer and about working with all different types of mobile development technologies.\r\n\r\n[**DevTalk 51: Being a mobile developer. With Hussain Abbasi**](https://kerry.lothrop.de/devtalk-51-hussain-abbasi/) by [Kerry Lothrop](https://kerry.lothrop.de)",
+          "embedded_links": [
+            {
+              "identifier": "qlnAMWx",
+              "title": "**DevTalk 51: Being a mobile developer. With Hussain Abbasi**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-51-hussain-abbasi/"
+            },
+            {
+              "identifier": "CzNxtkM",
+              "title": "Kerry Lothrop",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de"
+            }
+          ]
+        },
+        {
+          "identifier": "j3QBgvy",
+          "type": "Link",
+          "title": "Null Pointers 29: Custom Controls",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/29/",
+          "description": "<p>Who doesn't love amazing looking apps with cool controls? Why might you want create your own and not just use the ones out of the box? Listen in to this week's Null Pointers and find out!!</p>\n\n<p><a href=\"https://nullpointers.io/29/\"><strong>Null Pointers 29: Custom Controls</strong></a> by <a href=\"https://nullpointers.io\">Null Pointers</a></p>",
+          "description_markdown": "Who doesn't love amazing looking apps with cool controls? Why might you want create your own and not just use the ones out of the box? Listen in to this week's Null Pointers and find out!!\r\n\r\n[**Null Pointers 29: Custom Controls**](https://nullpointers.io/29/) by [Null Pointers](https://nullpointers.io)",
+          "embedded_links": [
+            {
+              "identifier": "H6upZhn",
+              "title": "**Null Pointers 29: Custom Controls**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/29/"
+            },
+            {
+              "identifier": "RdxlZTe",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io"
+            }
+          ]
+        },
+        {
+          "identifier": "J463htk",
+          "type": "Link",
+          "title": "Merge Conflict: 230: QA Testing M1 iOS Apps + 21% Raise for Frank!",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/230",
+          "description": "<p>It is time for lightning topics!!! We are here to break down 6 topics quick! We look at testing iOS apps on the M1 chip, Apple's new raise for all app developers, using C# 9 in Xamarin apps, top level programs, visual basic, and The Queen's Gambit!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/230\"><strong>Merge Conflict: 230: QA Testing M1 iOS Apps + 21% Raise for Frank!</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "It is time for lightning topics!!! We are here to break down 6 topics quick! We look at testing iOS apps on the M1 chip, Apple's new raise for all app developers, using C# 9 in Xamarin apps, top level programs, visual basic, and The Queen's Gambit!\r\n\r\n[**Merge Conflict: 230: QA Testing M1 iOS Apps + 21% Raise for Frank!**](https://www.mergeconflict.fm/230) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "HsTHhoq",
+              "title": "**Merge Conflict: 230: QA Testing M1 iOS Apps + 21% Raise for Frank!**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/230"
+            },
+            {
+              "identifier": "wnsGyQj",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "sAO3xC8",
+          "type": "Link",
+          "title": "Managing & Updating Xamarin NuGet Packages Efficiently",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=nDfO74TXQUg",
+          "description": "<p>Another great video from James in his more in-depth video series on getting started with Xamarin. This week, he walks you through NuGet. What is it, how to update, how to check versions and even how to take a more in-depth look at dependencies etc. As he would say, tune in!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=nDfO74TXQUg\"><strong>Managing &amp; Updating Xamarin NuGet Packages Efficiently</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Another great video from James in his more in-depth video series on getting started with Xamarin. This week, he walks you through NuGet. What is it, how to update, how to check versions and even how to take a more in-depth look at dependencies etc. As he would say, tune in!\r\n\r\n[**Managing & Updating Xamarin NuGet Packages Efficiently**](https://www.youtube.com/watch?v=nDfO74TXQUg) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "JTGOyZU",
+              "title": "**Managing & Updating Xamarin NuGet Packages Efficiently**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=nDfO74TXQUg"
+            },
+            {
+              "identifier": "MSG9Dvl",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

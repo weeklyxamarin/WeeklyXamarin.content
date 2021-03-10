@@ -1,0 +1,146 @@
+{
+  "Id": "288",
+  "Name": "Issue 288",
+  "UpdatedTimeStamp": "2020-12-05T01:18:32Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Howdy! This week we have a wide range of articles, from design, coding fonts, Maui, marketing and of course Xamarin.Forms - so much for you to enjoy over the weekend. As always, the Xamarin community is doing an amazing job. ♥ Kym",
+  "PublishDate": "2020-12-05T01:18:29Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Build Your First for iOS & Android App with Xamarin and Visual Studio",
+      "Url": "https://montemagno.com/build-your-first-for-ios-android-app-with-xamarin-and-visual-studio/",
+      "Description": "This is a fantastic first post in a getting started series James is working on. It has both video and written content to suit your learning style and it is packed full of information, code samples and explanations!",
+      "EditionId": "288",
+      "Author": "James Montemagno",
+      "Id": "288-1",
+      "Category": "GETTING STARTED"
+    },
+    {
+      "Title": "What's the correlation between .NET 5, WinUI and MAUI (Xamarin.Forms)",
+      "Url": "https://nicksnettravels.builttoroam.com/net5-crossplatform/?utm_source=rss&utm_medium=rss&utm_campaign=net5-crossplatform",
+      "Description": "With the move to a one .NET ecosystem, the recent release of .NET 5 and the announcement of MAUI with a regularly changing release schedule, it can be hard to get your head around all these changes, what is happening and when. Nick has done a great job of breaking it all down and helping you decide what to target with your projects.",
+      "EditionId": "288",
+      "Author": "Nick Randolph",
+      "Id": "288-2",
+      "Category": "CODE"
+    },
+    {
+      "Title": "10 Key Mobile Usability Issues",
+      "Url": "https://uxplanet.org/10-key-mobile-usability-issues-7029b8efe119",
+      "Description": "10 critical usability issues and practical recommendations to pay attention to when working on your mobile design.",
+      "EditionId": "288",
+      "Author": "Nick Babich",
+      "Id": "288-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "App Pricing Strategies and Tools",
+      "Url": "https://blog.zach.so/p/a-comprehensive-guide-to-app-pricing",
+      "Description": "Figuring out how to price an app is one of the most difficult challenges of building a successful app business.",
+      "EditionId": "288",
+      "Author": "Zachary Shakked",
+      "Id": "288-4",
+      "Category": "BUSINESS & MARKETING"
+    },
+    {
+      "Title": "Coding Fonts Repository",
+      "Url": "https://coding-fonts.css-tricks.com/",
+      "Description": "Who doesn't love playing around with themes and coding fonts in their favourite IDE. Well this site, has some great fonts (some free, some paid) that might just inspire you.",
+      "EditionId": "288",
+      "Author": "Chris Coyier",
+      "Id": "288-5",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Creating a Xamarin Android binding library - Writing the binding",
+      "Url": "https://johnthiriet.com/xamarin-android-binding-library-writing/",
+      "Description": "This is another blog post in a series from John Thiriet on writing an Android bindling libray. Having tried to do this in the past and faced issues, it is a really helpful guide to writing the binding and some concepts to understand.",
+      "EditionId": "288",
+      "Author": "John Thiriet",
+      "Id": "288-6",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Don't Put Android in Your Namespace in Xamarin Projects",
+      "Url": "https://montemagno.com/dont-put-android-in-your-namespace-in-xamarin-apps/",
+      "Description": "One of the most common mistakes when creating a new project for Android is to put \"Android\" in the name. You want to because your app is going to run on Android, but it causes a series of pain immediately with namespace conflicts.",
+      "EditionId": "288",
+      "Author": "James Montemagno",
+      "Id": "288-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Scrolling Marquee, we missed you.",
+      "Url": "https://www.syncfusion.com/blogs/post/create-xamarin-marquee-control.aspx",
+      "Description": "Relive the glory days of 90s web development with a scrolling Marquee in your Xamarin.Forms application.  Seriously though, it can be useful for things like alert information, notifications, and offers.",
+      "EditionId": "288",
+      "Author": "Yogeshwaran Mohan",
+      "Id": "288-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": ".NET 5.0 and C# 9.0 for Xamarin Developers",
+      "Url": "https://www.mfractor.com/blogs/news/net-5-0-and-c-9-0-for-xamarin-developers",
+      "Description": "As the first phase on the unified view that Microsoft unveiled last year, we finally have a single platform for our entire application stack. But what does this means for Xamarin developers?",
+      "EditionId": "288",
+      "Author": "Rafael Veronezi",
+      "Id": "288-9",
+      "Category": ".NET"
+    },
+    {
+      "Title": "Style Control States with Visual State Manager in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=GjHV7McgPq4",
+      "Description": "With the Visual State Manager in Xamarin.Forms you can very easily style your controls depending on the state they are in. In this video we will learn what the Visual State Manager is, how to use it and more importantly; how to implement it.",
+      "EditionId": "288",
+      "Author": "Gerald Versluis",
+      "Id": "288-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "December’s Community Standup – .NET MAUI Update",
+      "Url": "https://devblogs.microsoft.com/xamarin/decembers-community-standup-dotnet-maui-update/",
+      "Description": "As we start to say goodbye to 2020, we start to welcome .NET MAUI into our development lives! Join Maddy, David Ortinau, and Jon Dick from the Xamarin & .NET MAUI team for updates on .NET MAUI, the next generation of Xamarin.Forms to build cross-platform mobile and desktop apps.",
+      "EditionId": "288",
+      "Author": "Maddy Leger",
+      "Id": "288-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 51: Being a mobile developer. With Hussain Abbasi",
+      "Url": "https://kerry.lothrop.de/devtalk-51-hussain-abbasi/",
+      "Description": "On this episode of DevTalk, Kerry speaks to Hussain Abbasi about being a mobile developer and about working with all different types of mobile development technologies.",
+      "EditionId": "288",
+      "Author": "Kerry Lothrop",
+      "Id": "288-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 29: Custom Controls",
+      "Url": "https://nullpointers.io/29/",
+      "Description": "Who doesn't love amazing looking apps with cool controls? Why might you want create your own and not just use the ones out of the box? Listen in to this week's Null Pointers and find out!!",
+      "EditionId": "288",
+      "Author": "Null Pointers",
+      "Id": "288-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 230: QA Testing M1 iOS Apps + 21% Raise for Frank!",
+      "Url": "https://www.mergeconflict.fm/230",
+      "Description": "It is time for lightning topics!!! We are here to break down 6 topics quick! We look at testing iOS apps on the M1 chip, Apple's new raise for all app developers, using C# 9 in Xamarin apps, top level programs, visual basic, and The Queen's Gambit!",
+      "EditionId": "288",
+      "Author": "Merge Conflict",
+      "Id": "288-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Managing & Updating Xamarin NuGet Packages Efficiently",
+      "Url": "https://www.youtube.com/watch?v=nDfO74TXQUg",
+      "Description": "Another great video from James in his more in-depth video series on getting started with Xamarin. This week, he walks you through NuGet. What is it, how to update, how to check versions and even how to take a more in-depth look at dependencies etc. As he would say, tune in!",
+      "EditionId": "288",
+      "Author": "James Montemagno",
+      "Id": "288-15",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
