@@ -1,0 +1,146 @@
+{
+  "Id": "284",
+  "Name": "Issue 284",
+  "UpdatedTimeStamp": "2020-11-06T13:19:36Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Happy Friday, With all the stress happening in the US with elections, you are probably looking forward to relaxing with some friendly Xamarin news. Have a great weekend everyone! ❤ Kym",
+  "PublishDate": "2020-11-06T13:19:35Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Virtual Events in November",
+      "Url": "https://devblogs.microsoft.com/xamarin/november-net-conf-2020-virtual-events/",
+      "Description": "Find out about all the great community events happening around the world in November.",
+      "EditionId": "284",
+      "Author": "Jayme Singleton",
+      "Id": "284-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "The Ultimate Guide To Mobile In-App Purchases Optimization",
+      "Url": "https://instabug.com/blog/mobile-in-app-purchases/",
+      "Description": "Mobile app monetization is one of the most important factors to consider when developing a mobile app. After all, every developer’s end-goal is to generate revenue out of their app, not only to cover its costs but to make a profit as well.",
+      "EditionId": "284",
+      "Author": "Hady ElHady",
+      "Id": "284-2",
+      "Category": "BUSINESS & MARKETING"
+    },
+    {
+      "Title": "New WiFi API in Android 11",
+      "Url": "https://blog.ostebaronen.dk/2020/11/android-11-wifi.html",
+      "Description": "Android 11 allows you to use Intents to add Wifi information to a device. Check out how in this post.",
+      "EditionId": "284",
+      "Author": "Tomasz Cielecki",
+      "Id": "284-3",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Xamarin Android binding libraries",
+      "Url": "https://johnthiriet.com/xamarin-android-binding-library-preparation/",
+      "Description": "Creating a Xamarin Android binding library is not an easy task. John Thiriet, by his own admissions, has done quite a lot of those on private and public SDKs. This series explores how he does it.",
+      "EditionId": "284",
+      "Author": "John Thiriet",
+      "Id": "284-4",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Body tracking with ARKit",
+      "Url": "https://www.xamarinarkit.com/lesson/body-tracking/",
+      "Description": "In this example we will look at how ARKit can detect a body in the scene and track its major joints as it moves around. We will also see how we can superimpose nodes onto the locations of those detected joints in 3D space.",
+      "EditionId": "284",
+      "Author": "Lee Englestone",
+      "Id": "284-5",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Best Xamarin Forms App Examples on the Market",
+      "Url": "https://www.telerik.com/blogs/best-xamarin-forms-app-examples",
+      "Description": "Let's look at some showcase app examples that use Xamarin.Forms. It always helps me to imagine possibilities when I see what other great examples.",
+      "EditionId": "284",
+      "Author": "Leomaris Reyes",
+      "Id": "284-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Busy Overlay in Xamarin.Forms",
+      "Url": "https://www.damirscorner.com/blog/posts/20201106-BusyOverlayInXamarinForms.html",
+      "Description": "During long-running blocking operations such as login, the application UI should be disabled and the user should get visual feedback that some processing is in progress. Although there is an ActivityIndicator in Xamarin.Forms, there's no easy built-in way to create an overlay.",
+      "EditionId": "284",
+      "Author": "Damir Arh",
+      "Id": "284-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin Forms Upper and Lower Case ",
+      "Url": "https://xamaringuyshow.com/2020/11/05/xamarin-forms-upper-and-lower-case/",
+      "Description": "Quick tip for controlling the case of Labels using the TextTransform property.",
+      "EditionId": "284",
+      "Author": "Samir G.C",
+      "Id": "284-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "App Settings vs User Preferences vs Secrets.",
+      "Url": "http://talkwithangel.com/xamarin-forms-app-settings-vs-user-preferences-vs-secrets/",
+      "Description": "There are a multitude of ways to store configuration data in your Apps.  What are the options? How are they different? How do you use them in Xamarin.Forms? So many questions, maybe this blog post will help you out.",
+      "EditionId": "284",
+      "Author": "Angel Garcia",
+      "Id": "284-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": ".NET Conf - mark your calendars!",
+      "Url": "https://devblogs.microsoft.com/dotnet/net-5-0-launches-at-net-conf-november-10-12/",
+      "Description": "Save the date for .NET Conf, live streaming to a device near you November 10-12 on www.dotnetconf.net. .NET Conf is a free, three-day, virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020.",
+      "EditionId": "284",
+      "Author": "Beth Massi",
+      "Id": "284-10",
+      "Category": ".NET"
+    },
+    {
+      "Title": "Protecting Sensitive Data in the Background in Xamarin.Forms",
+      "Url": "https://www.syncfusion.com/blogs/post/protecting-sensitive-data-in-the-background-in-xamarin-forms.aspx",
+      "Description": "This blog post covers how to stop your application having a windows snapshot when moving between apps. An important aspect for secure applications.",
+      "EditionId": "284",
+      "Author": "Vicente Guzman",
+      "Id": "284-11",
+      "Category": "SECURITY"
+    },
+    {
+      "Title": "Xamarin Community Standup - Blazor + Xamarin",
+      "Url": "https://www.youtube.com/watch?v=Y0bEAy6yxMQ",
+      "Description": "Join the Xamarin Team as they discuss the latest and greatest for Xamarin. This week we sit down with Eilon Lipton to discuss the latest in the Mobile Blazor Bindings.",
+      "EditionId": "284",
+      "Author": "dotNet Youtube Channel",
+      "Id": "284-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 25: Xamarin.Forms 5",
+      "Url": "https://nullpointers.io/25/",
+      "Description": "Xamarin.Forms 5 is announced to be the last major version of Forms in its current form. From here on out, it will evolve into the .NET framework and continue to bring us joy that way. But, what is actually in the Forms 5 package? What can we look forward to? Find out in this episode!",
+      "EditionId": "284",
+      "Author": "Null Pointers",
+      "Id": "284-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 226: Universal Custom Data Link Schemes",
+      "Url": "https://www.mergeconflict.fm/226",
+      "Description": "We are tweaking and tuning our apps past the beta summer with small fun quirks from Apple and Google.",
+      "EditionId": "284",
+      "Author": "Merge Conflict",
+      "Id": "284-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 49: Becoming and being a Microsoft MVP. With Glenn Versweyveld",
+      "Url": "https://kerry.lothrop.de/devtalk-49-glenn-versweyveld/",
+      "Description": "On this episode of DevTalk Kerry speaks to Glenn Versweyveld about becoming and being a Microsoft MVP.",
+      "EditionId": "284",
+      "Author": "Kerry Lothrop",
+      "Id": "284-15",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

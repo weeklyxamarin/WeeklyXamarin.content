@@ -240,6 +240,16 @@
       "Website": "https://www.andrewhoefling.com/"
     },
     {
+      "Name": "Angel Garcia",
+      "Id": "https://twitter.com/_angelgarcia13",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/_angelgarcia13"
+        }
+      ]
+    },
+    {
       "Name": "Anıl taşkıran",
       "Id": "https://medium.com/@aniltaskiran",
       "Aliases": [
@@ -332,6 +342,16 @@
       "GitHubHandle": "basdecort",
       "Id": "https://twitter.com/basdecort",
       "Website": "https://www.basdecort.com"
+    },
+    {
+      "Name": "Beth Massi",
+      "Id": "https://twitter.com/bethmassi",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/bethmassi"
+        }
+      ]
     },
     {
       "Name": "Bill Leach",
@@ -574,6 +594,16 @@
       "Website": "https://doumer.me/"
     },
     {
+      "Name": "Damir Arh",
+      "Id": "https://twitter.com/damirarh/",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/damirarh/"
+        }
+      ]
+    },
+    {
       "Name": "Dan Rigby",
       "TwitterHandle": "DanRigby",
       "GitHubHandle": "DanRigby",
@@ -734,6 +764,16 @@
         {
           "Type": "blog",
           "Name": "https://devblogs.microsoft.com/visualstudio/author/dominicn/"
+        }
+      ]
+    },
+    {
+      "Name": "dotNet Youtube Channel",
+      "Id": "https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw"
         }
       ]
     },
@@ -940,6 +980,16 @@
         {
           "Type": "blog",
           "Name": "https://gunnarpeipman.com/bio/"
+        }
+      ]
+    },
+    {
+      "Name": "Hady ElHady",
+      "Id": "https://twitter.com/hadyelhady93",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/hadyelhady93"
         }
       ]
     },
@@ -1372,6 +1422,16 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/laylacodesit"
+        }
+      ]
+    },
+    {
+      "Name": "Lee Englestone",
+      "Id": "https://twitter.com/leeenglestone",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/leeenglestone"
         }
       ]
     },

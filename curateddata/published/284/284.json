@@ -1,0 +1,441 @@
+{
+  "number": 284,
+  "title": "Issue 284",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/284",
+  "publication_status": "published",
+  "published_at": "2020-11-06T13:19:35+00:00",
+  "updated_at": "2020-11-06T13:19:36+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday,</p>\n\n<p>With all the stress happening in the US with elections, you are probably looking forward to relaxing with some friendly Xamarin news.</p>\n\n<p>Have a great weekend everyone!</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Friday,\r\n\r\nWith all the stress happening in the US with elections, you are probably looking forward to relaxing with some friendly Xamarin news.\r\n\r\nHave a great weekend everyone!\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "TeR2cw5",
+          "type": "Link",
+          "title": "",
+          "url_domain": "platform.uno",
+          "url": "https://platform.uno?utm_source=newsletter-xam-weekly-Nov6&utm_medium=email&utm_campaign=uno-awareness-xam-weekly",
+          "description": "",
+          "description_markdown": "",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "cc9fe061-f517-437f-9311-7d915177d3ca.png",
+          "image_extra_large_filename": "original_ratio_extra_large_cc9fe061-f517-437f-9311-7d915177d3ca.png",
+          "image_medium_filename": "original_ratio_medium_cc9fe061-f517-437f-9311-7d915177d3ca.png"
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "HMkdsAC",
+          "type": "Link",
+          "title": "Virtual Events in November",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/november-net-conf-2020-virtual-events/",
+          "description": "<p>Find out about all the great community events happening around the world in November.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/november-net-conf-2020-virtual-events/\"><strong>.NET Conf 2020 and Virtual Events in November</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/jaymesingleton/\">Jayme Singleton</a></p>",
+          "description_markdown": "Find out about all the great community events happening around the world in November.\r\n\r\n[**.NET Conf 2020 and Virtual Events in November**](https://devblogs.microsoft.com/xamarin/november-net-conf-2020-virtual-events/) by [Jayme Singleton](https://devblogs.microsoft.com/xamarin/author/jaymesingleton/)",
+          "embedded_links": [
+            {
+              "identifier": "CvojkQ9",
+              "title": "**.NET Conf 2020 and Virtual Events in November**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/november-net-conf-2020-virtual-events/"
+            },
+            {
+              "identifier": "y43xw6R",
+              "title": "Jayme Singleton",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/jaymesingleton/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "businessandmarketing",
+      "name": "BUSINESS & MARKETING",
+      "items": [
+        {
+          "identifier": "V6tH0ke",
+          "type": "Link",
+          "title": "The Ultimate Guide To Mobile In-App Purchases Optimization",
+          "url_domain": "instabug.com",
+          "url": "https://instabug.com/blog/mobile-in-app-purchases/",
+          "description": "<p>Mobile app monetization is one of the most important factors to consider when developing a mobile app. After all, every developer’s end-goal is to generate revenue out of their app, not only to cover its costs but to make a profit as well.</p>\n\n<p><a href=\"https://instabug.com/blog/mobile-in-app-purchases/\"><strong>The Ultimate Guide To Mobile In-App Purchases Optimization</strong></a> by <a href=\"https://twitter.com/HadyElHady93\">Hady ElHady</a></p>",
+          "description_markdown": "Mobile app monetization is one of the most important factors to consider when developing a mobile app. After all, every developer’s end-goal is to generate revenue out of their app, not only to cover its costs but to make a profit as well.\r\n\r\n[**The Ultimate Guide To Mobile In-App Purchases Optimization**](https://instabug.com/blog/mobile-in-app-purchases/) by [Hady ElHady](https://twitter.com/HadyElHady93)",
+          "embedded_links": [
+            {
+              "identifier": "tmWjbNG",
+              "title": "**The Ultimate Guide To Mobile In-App Purchases Optimization**",
+              "url_domain": "instabug.com",
+              "url": "https://instabug.com/blog/mobile-in-app-purchases/"
+            },
+            {
+              "identifier": "pOvnsrV",
+              "title": "Hady ElHady",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/HadyElHady93"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "h3w37w9",
+          "type": "Link",
+          "title": "New WiFi API in Android 11",
+          "url_domain": "ostebaronen.dk",
+          "url": "https://blog.ostebaronen.dk/2020/11/android-11-wifi.html",
+          "description": "<p>Android 11 allows you to use Intents to add Wifi information to a device. Check out how in this post.</p>\n\n<p><a href=\"https://blog.ostebaronen.dk/2020/11/android-11-wifi.html\"><strong>New WiFi API in Android 11</strong></a> by <a href=\"https://twitter.com/cheesebaron\">Tomasz Cielecki</a></p>",
+          "description_markdown": "Android 11 allows you to use Intents to add Wifi information to a device. Check out how in this post.\r\n\r\n\r\n[**New WiFi API in Android 11**](https://blog.ostebaronen.dk/2020/11/android-11-wifi.html) by [Tomasz Cielecki](https://twitter.com/cheesebaron)",
+          "embedded_links": [
+            {
+              "identifier": "jjiAIw1",
+              "title": "**New WiFi API in Android 11**",
+              "url_domain": "ostebaronen.dk",
+              "url": "https://blog.ostebaronen.dk/2020/11/android-11-wifi.html"
+            },
+            {
+              "identifier": "uHjixnX",
+              "title": "Tomasz Cielecki",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/cheesebaron"
+            }
+          ]
+        },
+        {
+          "identifier": "TaQ1X8s",
+          "type": "Link",
+          "title": "Xamarin Android binding libraries",
+          "url_domain": "johnthiriet.com",
+          "url": "https://johnthiriet.com/xamarin-android-binding-library-preparation/",
+          "description": "<p>Creating a Xamarin Android binding library is not an easy task. John Thiriet, by his own admissions, has done quite a lot of those on private and public SDKs. This series explores how he does it.</p>\n\n<p><a href=\"https://johnthiriet.com/xamarin-android-binding-library-preparation/\"><strong>Creating a Xamarin Android binding library - Preparation</strong></a> by <a href=\"https://twitter.com/johnthiriet\">John Thiriet</a></p>",
+          "description_markdown": "Creating a Xamarin Android binding library is not an easy task. John Thiriet, by his own admissions, has done quite a lot of those on private and public SDKs. This series explores how he does it.\r\n\r\n[**Creating a Xamarin Android binding library - Preparation**](https://johnthiriet.com/xamarin-android-binding-library-preparation/) by [John Thiriet](https://twitter.com/johnthiriet)",
+          "embedded_links": [
+            {
+              "identifier": "AMKjsGT",
+              "title": "**Creating a Xamarin Android binding library - Preparation**",
+              "url_domain": "johnthiriet.com",
+              "url": "https://johnthiriet.com/xamarin-android-binding-library-preparation/"
+            },
+            {
+              "identifier": "rZDXoyC",
+              "title": "John Thiriet",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/johnthiriet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "hfIWJW6",
+          "type": "Link",
+          "title": "Body tracking with ARKit",
+          "url_domain": "xamarinarkit.com",
+          "url": "https://www.xamarinarkit.com/lesson/body-tracking/",
+          "description": "<p>In this example we will look at how ARKit can detect a body in the scene and track its major joints as it moves around. We will also see how we can superimpose nodes onto the locations of those detected joints in 3D space.</p>\n\n<p><a href=\"https://www.xamarinarkit.com/lesson/body-tracking/\"><strong>Body tracking</strong></a> by <a href=\"https://twitter.com/leeenglestone\">Lee Englestone</a></p>",
+          "description_markdown": "In this example we will look at how ARKit can detect a body in the scene and track its major joints as it moves around. We will also see how we can superimpose nodes onto the locations of those detected joints in 3D space.\r\n\r\n[**Body tracking**](https://www.xamarinarkit.com/lesson/body-tracking/) by [Lee Englestone](https://twitter.com/leeenglestone)",
+          "embedded_links": [
+            {
+              "identifier": "jxBy6RP",
+              "title": "**Body tracking**",
+              "url_domain": "xamarinarkit.com",
+              "url": "https://www.xamarinarkit.com/lesson/body-tracking/"
+            },
+            {
+              "identifier": "itNwHSj",
+              "title": "Lee Englestone",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leeenglestone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "8G0iZh4",
+          "type": "Link",
+          "title": "Best Xamarin Forms App Examples on the Market",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/best-xamarin-forms-app-examples",
+          "description": "<p>Let's look at some showcase app examples that use Xamarin.Forms. It always helps me to imagine possibilities when I see what other great examples.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/best-xamarin-forms-app-examples\"><strong>Best Xamarin Forms App Examples on the Market</strong></a> by <a href=\"https://www.telerik.com/blogs/author/leomaris-reyes\">Leomaris Reyes</a></p>",
+          "description_markdown": "Let's look at some showcase app examples that use Xamarin.Forms. It always helps me to imagine possibilities when I see what other great examples.\r\n\r\n[**Best Xamarin Forms App Examples on the Market**](https://www.telerik.com/blogs/best-xamarin-forms-app-examples) by [Leomaris Reyes](https://www.telerik.com/blogs/author/leomaris-reyes)",
+          "embedded_links": [
+            {
+              "identifier": "tMdkI0X",
+              "title": "**Best Xamarin Forms App Examples on the Market**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/best-xamarin-forms-app-examples"
+            },
+            {
+              "identifier": "taGsgMd",
+              "title": "Leomaris Reyes",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/leomaris-reyes"
+            }
+          ]
+        },
+        {
+          "identifier": "JbEAeDs",
+          "type": "Link",
+          "title": "Busy Overlay in Xamarin.Forms",
+          "url_domain": "damirscorner.com",
+          "url": "https://www.damirscorner.com/blog/posts/20201106-BusyOverlayInXamarinForms.html",
+          "description": "<p>During long-running blocking operations such as login, the application UI should be disabled and the user should get visual feedback that some processing is in progress. Although there is an ActivityIndicator in Xamarin.Forms, there's no easy built-in way to create an overlay.</p>\n\n<p><a href=\"https://www.damirscorner.com/blog/posts/20201106-BusyOverlayInXamarinForms.html\"><strong>Busy Overlay in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/DamirArh/\">Damir Arh</a></p>",
+          "description_markdown": "During long-running blocking operations such as login, the application UI should be disabled and the user should get visual feedback that some processing is in progress. Although there is an ActivityIndicator in Xamarin.Forms, there's no easy built-in way to create an overlay.\r\n\r\n[**Busy Overlay in Xamarin.Forms**](https://www.damirscorner.com/blog/posts/20201106-BusyOverlayInXamarinForms.html) by [Damir Arh](https://twitter.com/DamirArh/)",
+          "embedded_links": [
+            {
+              "identifier": "axpBt11",
+              "title": "Damir Arh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DamirArh/"
+            },
+            {
+              "identifier": "JtVR5eP",
+              "title": "**Busy Overlay in Xamarin.Forms**",
+              "url_domain": "damirscorner.com",
+              "url": "https://www.damirscorner.com/blog/posts/20201106-BusyOverlayInXamarinForms.html"
+            }
+          ]
+        },
+        {
+          "identifier": "TlT5Orn",
+          "type": "Link",
+          "title": "Xamarin Forms Upper and Lower Case ",
+          "url_domain": "xamaringuyshow.com",
+          "url": "https://xamaringuyshow.com/2020/11/05/xamarin-forms-upper-and-lower-case/",
+          "description": "<p>Quick tip for controlling the case of Labels using the TextTransform property.</p>\n\n<p><a href=\"https://xamaringuyshow.com/2020/11/05/xamarin-forms-upper-and-lower-case/\"><strong>Xamarin Forms Upper and Lower Case – Welcome to Xamarin Guy Show Blog</strong></a> by <a href=\"https://twitter.com/xamaringuy\">Samir G.C</a></p>",
+          "description_markdown": "Quick tip for controlling the case of Labels using the TextTransform property.\r\n\r\n[**Xamarin Forms Upper and Lower Case – Welcome to Xamarin Guy Show Blog**](https://xamaringuyshow.com/2020/11/05/xamarin-forms-upper-and-lower-case/) by [Samir G.C](https://twitter.com/xamaringuy)",
+          "embedded_links": [
+            {
+              "identifier": "7FsfQkO",
+              "title": "**Xamarin Forms Upper and Lower Case – Welcome to Xamarin Guy Show Blog**",
+              "url_domain": "xamaringuyshow.com",
+              "url": "https://xamaringuyshow.com/2020/11/05/xamarin-forms-upper-and-lower-case/"
+            },
+            {
+              "identifier": "3vfLtgV",
+              "title": "Samir G.C",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/xamaringuy"
+            }
+          ]
+        },
+        {
+          "identifier": "7StUmAq",
+          "type": "Link",
+          "title": "App Settings vs User Preferences vs Secrets.",
+          "url_domain": "talkwithangel.com",
+          "url": "http://talkwithangel.com/xamarin-forms-app-settings-vs-user-preferences-vs-secrets/",
+          "description": "<p>There are a multitude of ways to store configuration data in your Apps.  What are the options? How are they different? How do you use them in Xamarin.Forms? So many questions, maybe this blog post will help you out.</p>\n\n<p><a href=\"http://talkwithangel.com/xamarin-forms-app-settings-vs-user-preferences-vs-secrets/\"><strong>Xamarin Forms: App Settings vs User Preferences vs Secrets.</strong></a> by <a href=\"https://twitter.com/_AngelGarcia13\">Angel Garcia</a></p>",
+          "description_markdown": "There are a multitude of ways to store configuration data in your Apps.  What are the options? How are they different? How do you use them in Xamarin.Forms? So many questions, maybe this blog post will help you out.\r\n\r\n[**Xamarin Forms: App Settings vs User Preferences vs Secrets.**](http://talkwithangel.com/xamarin-forms-app-settings-vs-user-preferences-vs-secrets/) by [Angel Garcia](https://twitter.com/_AngelGarcia13)",
+          "embedded_links": [
+            {
+              "identifier": "co3QPD3",
+              "title": "**Xamarin Forms: App Settings vs User Preferences vs Secrets.**",
+              "url_domain": "talkwithangel.com",
+              "url": "http://talkwithangel.com/xamarin-forms-app-settings-vs-user-preferences-vs-secrets/"
+            },
+            {
+              "identifier": "XjUlgeQ",
+              "title": "Angel Garcia",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/_AngelGarcia13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "net",
+      "name": ".NET",
+      "items": [
+        {
+          "identifier": "dqmEf38",
+          "type": "Link",
+          "title": ".NET Conf - mark your calendars!",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/net-5-0-launches-at-net-conf-november-10-12/",
+          "description": "<p>Save the date for .NET Conf, live streaming to a device near you November 10-12 on www.dotnetconf.net. .NET Conf is a free, three-day, virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/net-5-0-launches-at-net-conf-november-10-12/\"><strong>.NET Blog</strong></a> by <a href=\"https://twitter.com/bethmassi\">Beth Massi</a></p>",
+          "description_markdown": "Save the date for .NET Conf, live streaming to a device near you November 10-12 on www.dotnetconf.net. .NET Conf is a free, three-day, virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020.\r\n\r\n[**.NET Blog**](https://devblogs.microsoft.com/dotnet/net-5-0-launches-at-net-conf-november-10-12/) by [Beth Massi](https://twitter.com/bethmassi)",
+          "embedded_links": [
+            {
+              "identifier": "CBVfRMW",
+              "title": "**.NET Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/net-5-0-launches-at-net-conf-november-10-12/"
+            },
+            {
+              "identifier": "BluCE4p",
+              "title": "Beth Massi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bethmassi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "security",
+      "name": "SECURITY",
+      "items": [
+        {
+          "identifier": "hn7eOPR",
+          "type": "Link",
+          "title": "Protecting Sensitive Data in the Background in Xamarin.Forms",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/protecting-sensitive-data-in-the-background-in-xamarin-forms.aspx",
+          "description": "<p>This blog post covers how to stop your application having a windows snapshot when moving between apps. An important aspect for secure applications.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/protecting-sensitive-data-in-the-background-in-xamarin-forms.aspx\"><strong>Protecting Sensitive Data in the Background in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/LucioMSP\">Vicente Guzman</a></p>",
+          "description_markdown": "This blog post covers how to stop your application having a windows snapshot when moving between apps. An important aspect for secure applications.\r\n\r\n[**Protecting Sensitive Data in the Background in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/protecting-sensitive-data-in-the-background-in-xamarin-forms.aspx) by [Vicente Guzman](https://twitter.com/LucioMSP)",
+          "embedded_links": [
+            {
+              "identifier": "ZYr3Yre",
+              "title": "**Protecting Sensitive Data in the Background in Xamarin.Forms**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/protecting-sensitive-data-in-the-background-in-xamarin-forms.aspx"
+            },
+            {
+              "identifier": "tSYlNmr",
+              "title": "Vicente Guzman",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/LucioMSP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "7XAL7Oj",
+          "type": "Link",
+          "title": "Xamarin Community Standup - Blazor + Xamarin",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Y0bEAy6yxMQ",
+          "description": "<p>Join the Xamarin Team as they discuss the latest and greatest for Xamarin. This week we sit down with Eilon Lipton to discuss the latest in the Mobile Blazor Bindings.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Y0bEAy6yxMQ\"><strong>Xamarin Community Standup - Blazor + Xamarin == WHOA! with Eilon Lipton</strong></a> by <a href=\"https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw\">dotNet Youtube Channel</a></p>",
+          "description_markdown": "Join the Xamarin Team as they discuss the latest and greatest for Xamarin. This week we sit down with Eilon Lipton to discuss the latest in the Mobile Blazor Bindings.\r\n\r\n[**Xamarin Community Standup - Blazor + Xamarin == WHOA! with Eilon Lipton**](https://www.youtube.com/watch?v=Y0bEAy6yxMQ) by [dotNet Youtube Channel](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw)",
+          "embedded_links": [
+            {
+              "identifier": "sjKlvOe",
+              "title": "**Xamarin Community Standup - Blazor + Xamarin == WHOA! with Eilon Lipton**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Y0bEAy6yxMQ"
+            },
+            {
+              "identifier": "rf4Pgk7",
+              "title": "dotNet Youtube Channel",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw"
+            }
+          ]
+        },
+        {
+          "identifier": "ulxq3fi",
+          "type": "Link",
+          "title": "Null Pointers 25: Xamarin.Forms 5",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/25/",
+          "description": "<p>Xamarin.Forms 5 is announced to be the last major version of Forms in its current form. From here on out, it will evolve into the .NET framework and continue to bring us joy that way. But, what is actually in the Forms 5 package? What can we look forward to? Find out in this episode!</p>\n\n<p><a href=\"https://nullpointers.io/25/\"><strong>25: Xamarin.Forms 5</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "Xamarin.Forms 5 is announced to be the last major version of Forms in its current form. From here on out, it will evolve into the .NET framework and continue to bring us joy that way. But, what is actually in the Forms 5 package? What can we look forward to? Find out in this episode!\r\n\r\n[**25: Xamarin.Forms 5**](https://nullpointers.io/25/) by [Null Pointers](https://twitter.com/nullpointersio)",
+          "embedded_links": [
+            {
+              "identifier": "nWNiaAp",
+              "title": "**25: Xamarin.Forms 5**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/25/"
+            },
+            {
+              "identifier": "fKg4ER4",
+              "title": "Null Pointers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        },
+        {
+          "identifier": "dO60Ri0",
+          "type": "Link",
+          "title": "Merge Conflict 226: Universal Custom Data Link Schemes",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/226",
+          "description": "<p>We are tweaking and tuning our apps past the beta summer with small fun quirks from Apple and Google.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/226\"><strong>226: Universal Custom Data Link Schemes</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "We are tweaking and tuning our apps past the beta summer with small fun quirks from Apple and Google.\r\n\r\n[**226: Universal Custom Data Link Schemes**](https://www.mergeconflict.fm/226) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "hWFZJuL",
+              "title": "**226: Universal Custom Data Link Schemes**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/226"
+            },
+            {
+              "identifier": "FE9QNw0",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "aaNYzoL",
+          "type": "Link",
+          "title": "DevTalk 49: Becoming and being a Microsoft MVP. With Glenn Versweyveld",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-49-glenn-versweyveld/",
+          "description": "<p>On this episode of DevTalk Kerry speaks to Glenn Versweyveld about becoming and being a Microsoft MVP.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-49-glenn-versweyveld/\"><strong>49: Becoming and being a Microsoft MVP. With Glenn Versweyveld</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk Kerry speaks to Glenn Versweyveld about becoming and being a Microsoft MVP.\r\n\r\n[**49: Becoming and being a Microsoft MVP. With Glenn Versweyveld**](https://kerry.lothrop.de/devtalk-49-glenn-versweyveld/) by [Kerry Lothrop](https://twitter.com/kwlothrop)",
+          "embedded_links": [
+            {
+              "identifier": "38qarpC",
+              "title": "**49: Becoming and being a Microsoft MVP. With Glenn Versweyveld**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-49-glenn-versweyveld/"
+            },
+            {
+              "identifier": "cxwFSLq",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
