@@ -734,6 +734,16 @@
       ]
     },
     {
+      "Name": "David Sielaff",
+      "Id": "https://criticalhittech.com/author/dsielaff/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://criticalhittech.com/author/dsielaff/"
+        }
+      ]
+    },
+    {
       "Name": "Davide Mauri",
       "Id": "https://devblogs.microsoft.com/xamarin/author/damaurimicrosoft-com/",
       "Aliases": [
@@ -802,6 +812,16 @@
         }
       ],
       "Website": "https://xamlabs.com/"
+    },
+    {
+      "Name": "Dobrinka Yordanova",
+      "Id": "https://www.telerik.com/blogs/author/dobrinka-yordanova",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.telerik.com/blogs/author/dobrinka-yordanova"
+        }
+      ]
     },
     {
       "Name": "Dominic Nahous",

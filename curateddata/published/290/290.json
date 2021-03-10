@@ -1,0 +1,431 @@
+{
+  "number": 290,
+  "title": "Issue 290",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/290",
+  "publication_status": "published",
+  "published_at": "2020-12-19T08:13:00+00:00",
+  "updated_at": "2020-12-19T08:13:02+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Apologies for being a bit late with the newsletter this week but I'm sure you understand time crunches heading into the holiday season.</p>\n\n<p>This year has been very challenging for me and no doubt for lots of us around the world. As we head towards the holiday season I hope we can all take a moment to reflect on some of the positive parts of the year.  And celebrate the upcoming new year.  But mostly I want to take a moment to say a big thankyou for joining us in the Weekly Xamarin newsletter.</p>\n\n<p>And as always thankyou to all the amazing Xamarin Community authors who are putting out content for the love of it.</p>\n\n<p>Have a happy holiday season.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Apologies for being a bit late with the newsletter this week but I'm sure you understand time crunches heading into the holiday season.\r\n\r\nThis year has been very challenging for me and no doubt for lots of us around the world. As we head towards the holiday season I hope we can all take a moment to reflect on some of the positive parts of the year.  And celebrate the upcoming new year.  But mostly I want to take a moment to say a big thankyou for joining us in the Weekly Xamarin newsletter.\r\n\r\nAnd as always thankyou to all the amazing Xamarin Community authors who are putting out content for the love of it.\r\n\r\nHave a happy holiday season.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "QjOb5Ip",
+          "type": "Link",
+          "title": "10 Mobile UX Trends for 2021",
+          "url_domain": "uxplanet.org",
+          "url": "https://uxplanet.org/10-mobile-ux-trends-for-2021-bead97dce9e4",
+          "description": "<p>When 2020 is almost over (fortunately), it’s a perfect moment to explore what we will have in 2021. Here is a list of 10 mobile UX design trends that will shape 2021.</p>\n\n<p><a href=\"https://uxplanet.org/10-mobile-ux-trends-for-2021-bead97dce9e4\"><strong>10 Mobile UX Trends for 2021</strong></a> by <a href=\"https://medium.com/@101\">Nick Babich</a></p>",
+          "description_markdown": "When 2020 is almost over (fortunately), it’s a perfect moment to explore what we will have in 2021. Here is a list of 10 mobile UX design trends that will shape 2021. \r\n\r\n[**10 Mobile UX Trends for 2021**](https://uxplanet.org/10-mobile-ux-trends-for-2021-bead97dce9e4) by [Nick Babich](https://medium.com/@101)",
+          "embedded_links": [
+            {
+              "identifier": "DZlCt2t",
+              "title": "**10 Mobile UX Trends for 2021**",
+              "url_domain": "uxplanet.org",
+              "url": "https://uxplanet.org/10-mobile-ux-trends-for-2021-bead97dce9e4"
+            },
+            {
+              "identifier": "faYnNmj",
+              "title": "Nick Babich",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "BwZv9n2",
+          "type": "Link",
+          "title": "Manage your demands dynamically with Azure DevOps",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/azure/devops/2020/12/10/dynamic-demands-azure-devops-en.html",
+          "description": "<p>While developing your projects and using Azure DevOps for your pipelines, you probably noticed that testing the compatibility of your project with latest version of tools and softwares could be tricky.</p>\n\n<p><a href=\"https://damienaicheh.github.io/azure/devops/2020/12/10/dynamic-demands-azure-devops-en.html\"><strong>Manage your demands dynamically with Azure DevOps</strong></a> by <a href=\"\">Damien Aicheh</a></p>",
+          "description_markdown": "While developing your projects and using Azure DevOps for your pipelines, you probably noticed that testing the compatibility of your project with latest version of tools and softwares could be tricky.\r\n\r\n[**Manage your demands dynamically with Azure DevOps**](https://damienaicheh.github.io/azure/devops/2020/12/10/dynamic-demands-azure-devops-en.html) by [Damien Aicheh]()",
+          "embedded_links": [
+            {
+              "identifier": "1ZsyP4m",
+              "title": "**Manage your demands dynamically with Azure DevOps**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/azure/devops/2020/12/10/dynamic-demands-azure-devops-en.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "Zszxf6H",
+          "type": "Link",
+          "title": "AndroidX with Telerik UI for Xamarin",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/androidx-telerik-ui-for-xamarin",
+          "description": "<p>What is AndroidX? Based on the Android documentation: “AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. AndroidX packages fully replace the Support Library by providing feature parity and new libraries.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/androidx-telerik-ui-for-xamarin\"><strong>AndroidX with Telerik UI for Xamarin</strong></a> by <a href=\"https://www.telerik.com/blogs/author/dobrinka-yordanova\">Dobrinka Yordanova</a></p>",
+          "description_markdown": "What is AndroidX? Based on the Android documentation: “AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. AndroidX packages fully replace the Support Library by providing feature parity and new libraries.\r\n\r\n[**AndroidX with Telerik UI for Xamarin**](https://www.telerik.com/blogs/androidx-telerik-ui-for-xamarin) by [Dobrinka Yordanova](https://www.telerik.com/blogs/author/dobrinka-yordanova)",
+          "embedded_links": [
+            {
+              "identifier": "qM9tcn9",
+              "title": "**AndroidX with Telerik UI for Xamarin**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/androidx-telerik-ui-for-xamarin"
+            },
+            {
+              "identifier": "o0ER9IQ",
+              "title": "Dobrinka Yordanova",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/dobrinka-yordanova"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "qFsdYfm",
+          "type": "Link",
+          "title": "Things to consider before implementing a UI in Xamarin Forms",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/points-to-consider-before-implementing-ui-xamarin-forms",
+          "description": "<p>What steps should we take before we begin coding to ensure a clean UI, delivered on time? Leomaris shares a handful of important tips when building UI in Xamarin Forms.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/points-to-consider-before-implementing-ui-xamarin-forms\"><strong>Some Points to Consider Before Implementing a UI in Xamarin Forms</strong></a> by <a href=\"https://www.telerik.com/blogs/author/leomaris-reyes\">Leomaris Reyes</a></p>",
+          "description_markdown": "What steps should we take before we begin coding to ensure a clean UI, delivered on time? Leomaris shares a handful of important tips when building UI in Xamarin Forms.\r\n\r\n[**Some Points to Consider Before Implementing a UI in Xamarin Forms**](https://www.telerik.com/blogs/points-to-consider-before-implementing-ui-xamarin-forms) by [Leomaris Reyes](https://www.telerik.com/blogs/author/leomaris-reyes)",
+          "embedded_links": [
+            {
+              "identifier": "36nBiHJ",
+              "title": "**Some Points to Consider Before Implementing a UI in Xamarin Forms**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/points-to-consider-before-implementing-ui-xamarin-forms"
+            },
+            {
+              "identifier": "ppobVaY",
+              "title": "Leomaris Reyes",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/leomaris-reyes"
+            }
+          ]
+        },
+        {
+          "identifier": "gsKP9uk",
+          "type": "Link",
+          "title": "Understanding Multi-Binding in Xamarin Forms",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/understanding-multi-binding-in-xamarin-forms/",
+          "description": "<p>Multi-binding is a great feature that was introduced in Xamarin Forms 4.7 that allows the binding of multiple sources to a single target property. It gives us a lot of flexibility as now we don’t need to create multiple UI elements for each bindable property, which improves performance and makes our code cleaner.</p>\n\n<p><a href=\"https://xamgirl.com/understanding-multi-binding-in-xamarin-forms/\"><strong>Understanding Multi-Binding in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "Multi-binding is a great feature that was introduced in Xamarin Forms 4.7 that allows the binding of multiple sources to a single target property. It gives us a lot of flexibility as now we don’t need to create multiple UI elements for each bindable property, which improves performance and makes our code cleaner.\r\n\r\n[**Understanding Multi-Binding in Xamarin Forms**](https://xamgirl.com/understanding-multi-binding-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003)",
+          "embedded_links": [
+            {
+              "identifier": "jrGZcq3",
+              "title": "**Understanding Multi-Binding in Xamarin Forms**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/understanding-multi-binding-in-xamarin-forms/"
+            },
+            {
+              "identifier": "xXz9W54",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "U2eAcJV",
+          "type": "Link",
+          "title": "DataTemplateSelectors in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=UMPVXd57h_Q&list=PLfbOp004UaYUgjhTHjtSixo-iMdz6PhIv&index=1",
+          "description": "<p>Gerald continues his videos about DataTemplates, looking at the DataTemplateSelector. With the DataTemplateSelector you can apply different templates based on logic that you implement yourself!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=UMPVXd57h_Q&amp;list=PLfbOp004UaYUgjhTHjtSixo-iMdz6PhIv&amp;index=1\"><strong>Different Templates for Items with DataTemplateSelectors in Xamarin.Forms</strong></a> by <a href=\"https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw\">Gerald Versluis</a></p>",
+          "description_markdown": "Gerald continues his videos about DataTemplates, looking at the DataTemplateSelector. With the DataTemplateSelector you can apply different templates based on logic that you implement yourself! \r\n\r\n[**Different Templates for Items with DataTemplateSelectors in Xamarin.Forms**](https://www.youtube.com/watch?v=UMPVXd57h_Q&list=PLfbOp004UaYUgjhTHjtSixo-iMdz6PhIv&index=1) by [Gerald Versluis](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw)",
+          "embedded_links": [
+            {
+              "identifier": "JH3iMQT",
+              "title": "**Different Templates for Items with DataTemplateSelectors in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=UMPVXd57h_Q&list=PLfbOp004UaYUgjhTHjtSixo-iMdz6PhIv&index=1"
+            },
+            {
+              "identifier": "OKEdWI7",
+              "title": "Gerald Versluis",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw"
+            }
+          ]
+        },
+        {
+          "identifier": "WlxFNAa",
+          "type": "Link",
+          "title": "Three ways to Fix broken Icon Font in Xamarin App",
+          "url_domain": "medium.com",
+          "url": "https://benetskyybogdan.medium.com/three-ways-to-fix-broken-icon-font-in-xamarin-app-9194779d20ed",
+          "description": "<p>Time to time, when you run your app in Android, iOS or even in UWP in one of the platform or all at the same time you can get unexpected undefined icons or binding Path visible instead of the icon itself. When it can happen? — Here is all pretty simple 🤓.</p>\n\n<p><a href=\"https://benetskyybogdan.medium.com/three-ways-to-fix-broken-icon-font-in-xamarin-app-9194779d20ed\"><strong>Three ways to Fix broken Icon Font in Xamarin App</strong></a> by <a href=\"https://benetskyybogdan.medium.com\">Bohdan Benetskyi</a></p>",
+          "description_markdown": "Time to time, when you run your app in Android, iOS or even in UWP in one of the platform or all at the same time you can get unexpected undefined icons or binding Path visible instead of the icon itself. When it can happen? — Here is all pretty simple 🤓.\r\n\r\n[**Three ways to Fix broken Icon Font in Xamarin App**](https://benetskyybogdan.medium.com/three-ways-to-fix-broken-icon-font-in-xamarin-app-9194779d20ed) by [Bohdan Benetskyi](https://benetskyybogdan.medium.com)",
+          "embedded_links": [
+            {
+              "identifier": "SkF8b2F",
+              "title": "**Three ways to Fix broken Icon Font in Xamarin App**",
+              "url_domain": "medium.com",
+              "url": "https://benetskyybogdan.medium.com/three-ways-to-fix-broken-icon-font-in-xamarin-app-9194779d20ed"
+            },
+            {
+              "identifier": "VER5KZh",
+              "title": "Bohdan Benetskyi",
+              "url_domain": "medium.com",
+              "url": "https://benetskyybogdan.medium.com"
+            }
+          ]
+        },
+        {
+          "identifier": "oVypIqF",
+          "type": "Link",
+          "title": "Implementing dark mode in your Xamarin.Forms app",
+          "url_domain": "thewissen.io",
+          "url": "https://www.thewissen.io/going-dark-easily-implementing-dark-mode-in-your-xamarin-forms-app/",
+          "description": "<p>Dark mode; it’s all the rage in apps these days. Its main goal seems to be saving our eyes from burning out when reading things in a dark environment, but is that true?</p>\n\n<p><a href=\"https://www.thewissen.io/going-dark-easily-implementing-dark-mode-in-your-xamarin-forms-app/\"><strong>Going dark; easily implementing dark mode in your Xamarin.Forms app</strong></a> by <a href=\"https://www.thewissen.io/author/steven/\">Steven</a></p>",
+          "description_markdown": "Dark mode; it’s all the rage in apps these days. Its main goal seems to be saving our eyes from burning out when reading things in a dark environment, but is that true?\r\n\r\n[**Going dark; easily implementing dark mode in your Xamarin.Forms app**](https://www.thewissen.io/going-dark-easily-implementing-dark-mode-in-your-xamarin-forms-app/) by [Steven](https://www.thewissen.io/author/steven/)",
+          "embedded_links": [
+            {
+              "identifier": "bLfDo3H",
+              "title": "**Going dark; easily implementing dark mode in your Xamarin.Forms app**",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/going-dark-easily-implementing-dark-mode-in-your-xamarin-forms-app/"
+            },
+            {
+              "identifier": "DmaIS7I",
+              "title": "Steven",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/author/steven/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "fsharp",
+      "name": "FSHARP",
+      "items": [
+        {
+          "identifier": "5bOrzzQ",
+          "type": "Link",
+          "title": "Working with SignalR and Fabulous",
+          "url_domain": "mallibone.com",
+          "url": "https://mallibone.com/post/fabulous-signalr",
+          "description": "<p>Mark shows how you can use SignalR with Fabulous to implement a chat application.</p>\n\n<p><a href=\"https://mallibone.com/post/fabulous-signalr\"><strong>Working with SignalR and Fabulous</strong></a> by <a href=\"https://twitter.com/mallibone\">Mark Allibone</a></p>",
+          "description_markdown": "Mark shows how you can use SignalR with Fabulous to implement a chat application. \r\n\r\n[**Working with SignalR and Fabulous**](https://mallibone.com/post/fabulous-signalr) by [Mark Allibone](https://twitter.com/mallibone)",
+          "embedded_links": [
+            {
+              "identifier": "clqscgO",
+              "title": "**Working with SignalR and Fabulous**",
+              "url_domain": "mallibone.com",
+              "url": "https://mallibone.com/post/fabulous-signalr"
+            },
+            {
+              "identifier": "kKK2d2k",
+              "title": "Mark Allibone",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mallibone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "YFXeXTI",
+          "type": "Link",
+          "title": "DevTalk 52: Customer Advisory Team With Sweekriti Satpathy",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-52-sweekriti-satpathy/",
+          "description": "<p>On episode 52 of DevTalk I speak to Sweeky Satpathy about working on the Mobile Customer Advisory Team at Microsoft.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-52-sweekriti-satpathy/\"><strong>52: Working on the Mobile Customer Advisory Team at Microsoft. With Sweekriti Satpathy</strong></a> by <a href=\"https://kerry.lothrop.de/en/author/lothrop/\">kerry</a></p>",
+          "description_markdown": "On episode 52 of DevTalk I speak to Sweeky Satpathy about working on the Mobile Customer Advisory Team at Microsoft.\r\n\r\n[**52: Working on the Mobile Customer Advisory Team at Microsoft. With Sweekriti Satpathy**](https://kerry.lothrop.de/devtalk-52-sweekriti-satpathy/) by [kerry](https://kerry.lothrop.de/en/author/lothrop/)",
+          "embedded_links": [
+            {
+              "identifier": "7OOXKyP",
+              "title": "**52: Working on the Mobile Customer Advisory Team at Microsoft. With Sweekriti Satpathy**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-52-sweekriti-satpathy/"
+            },
+            {
+              "identifier": "WSEjcpy",
+              "title": "kerry",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/en/author/lothrop/"
+            }
+          ]
+        },
+        {
+          "identifier": "SCaDjrT",
+          "type": "Link",
+          "title": "Merge Conflict 232: AirPods Max, Apple Fitness+, and AR/VR Indoor Cycling",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/232",
+          "description": "<p>December surprise from Apple with some brand-new products and services dropping just in time for the holidays. Frank and James take a quick dip into Apple's new headphones, before heading into the world of home fitness and possibilities for app developers.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/232\"><strong>232: AirPods Max, Apple Fitness+, and AR/VR Indoor Cycling</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "December surprise from Apple with some brand-new products and services dropping just in time for the holidays. Frank and James take a quick dip into Apple's new headphones, before heading into the world of home fitness and possibilities for app developers.\r\n\r\n[**232: AirPods Max, Apple Fitness+, and AR/VR Indoor Cycling**](https://www.mergeconflict.fm/232) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "iPR7hJt",
+              "title": "**232: AirPods Max, Apple Fitness+, and AR/VR Indoor Cycling**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/232"
+            },
+            {
+              "identifier": "17mZcw",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "bCVHJ3G",
+          "type": "Link",
+          "title": "Xamarin Podcast American Airlines",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/84",
+          "description": "<p>In this podcast Matt interviews Kiran Gandla and Chandra Poshala from American Airlines about the app that helps keep the airline running. Xamarin and Azure play a big part and our very own MCAT team helped pave the way too!</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/84\"><strong>American Airlines</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "In this podcast Matt interviews Kiran Gandla and Chandra Poshala from American Airlines about the app that helps keep the airline running. Xamarin and Azure play a big part and our very own MCAT team helped pave the way too!\r\n\r\n[**American Airlines**](https://www.xamarinpodcast.com/84) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)",
+          "embedded_links": [
+            {
+              "identifier": "sLXiBQA",
+              "title": "**American Airlines**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/84"
+            },
+            {
+              "identifier": "GPN8pYZ",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        },
+        {
+          "identifier": "cMsvICP",
+          "type": "Link",
+          "title": "Improved XAML Data Binding Diagnostics",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Improved-XAML-Binding-Diagnostics--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by Dmitry Lyalin, Senior Program Manager - XAML Tooling, who is here to talk about some brand new features available for XAML developers in Visual Studio 2019.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Improved-XAML-Binding-Diagnostics--The-Xamarin-Show\"><strong>Improved XAML Data Binding Diagnostics | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/Niners/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This week, James is joined by Dmitry Lyalin, Senior Program Manager - XAML Tooling, who is here to talk about some brand new features available for XAML developers in Visual Studio 2019.\r\n\r\n[**Improved XAML Data Binding Diagnostics | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Improved-XAML-Binding-Diagnostics--The-Xamarin-Show) by [James Montemagno](https://channel9.msdn.com/Niners/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "Df7qRiZ",
+              "title": "**Improved XAML Data Binding Diagnostics | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Improved-XAML-Binding-Diagnostics--The-Xamarin-Show"
+            },
+            {
+              "identifier": "Z0fOSRN",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Niners/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "y03T4PI",
+          "type": "Link",
+          "title": "Preparing a Xamarin.Forms Shell App for Development",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=cRvb9TCvB6c&feature=youtu.be",
+          "description": "<p>In this next video in our Xamarin 101 series we are going to scrub the Shell template to get it into a blank app state so we can start proper development. I walk through everything you need to do so you are ready for productivity.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=cRvb9TCvB6c&amp;feature=youtu.be\"><strong>Preparing a Xamarin.Forms Shell App for Development</strong></a> by <a href=\"https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A\">James Montemagno</a></p>",
+          "description_markdown": "In this next video in our Xamarin 101 series we are going to scrub the Shell template to get it into a blank app state so we can start proper development. I walk through everything you need to do so you are ready for productivity.\r\n\r\n[**Preparing a Xamarin.Forms Shell App for Development**](https://www.youtube.com/watch?v=cRvb9TCvB6c&feature=youtu.be) by [James Montemagno](https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A)",
+          "embedded_links": [
+            {
+              "identifier": "FfQTGWN",
+              "title": "**Preparing a Xamarin.Forms Shell App for Development**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=cRvb9TCvB6c&feature=youtu.be"
+            },
+            {
+              "identifier": "4wCMkbU",
+              "title": "James Montemagno",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A"
+            }
+          ]
+        },
+        {
+          "identifier": "NxljmnP",
+          "type": "Link",
+          "title": "Null Pointers 31: Responsive Mobile Design",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/31/",
+          "description": "<p>It’s great that all the technologies in the world now let us write once and run anywhere. But how does that work for designs? In this episode, we are talking about responsive mobile design.</p>\n\n<p><a href=\"https://nullpointers.io/31/\"><strong>31: Responsive Mobile Design</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "It’s great that all the technologies in the world now let us write once and run anywhere. But how does that work for designs? In this episode, we are talking about responsive mobile design.\r\n\r\n[**31: Responsive Mobile Design**](https://nullpointers.io/31/) by [Null Pointers](https://twitter.com/nullpointersio)",
+          "embedded_links": [
+            {
+              "identifier": "IW8viqj",
+              "title": "**31: Responsive Mobile Design**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/31/"
+            },
+            {
+              "identifier": "Diy8v6p",
+              "title": "Null Pointers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "Ngivdex",
+          "type": "Link",
+          "title": "XamRight 2.30 Release for Visual Studio",
+          "url_domain": "criticalhittech.com",
+          "url": "https://criticalhittech.com/2020/12/17/xamright-2-30-release-for-visual-studio/",
+          "description": "<p>There is a new release of XamRight. This release continues to improve its powerful XAML static analysis capabilities, and introduces features to streamline your XAML development.</p>\n\n<p><a href=\"https://criticalhittech.com/2020/12/17/xamright-2-30-release-for-visual-studio/\"><strong>XamRight 2.30 Release for Visual Studio</strong></a> by <a href=\"https://criticalhittech.com/author/dsielaff/\">David Sielaff</a></p>",
+          "description_markdown": "There is a new release of XamRight. This release continues to improve its powerful XAML static analysis capabilities, and introduces features to streamline your XAML development.\r\n\r\n[**XamRight 2.30 Release for Visual Studio**](https://criticalhittech.com/2020/12/17/xamright-2-30-release-for-visual-studio/) by [David Sielaff](https://criticalhittech.com/author/dsielaff/)",
+          "embedded_links": [
+            {
+              "identifier": "oZaduZ2",
+              "title": "**XamRight 2.30 Release for Visual Studio**",
+              "url_domain": "criticalhittech.com",
+              "url": "https://criticalhittech.com/2020/12/17/xamright-2-30-release-for-visual-studio/"
+            },
+            {
+              "identifier": "46kIDN8",
+              "title": "David Sielaff",
+              "url_domain": "criticalhittech.com",
+              "url": "https://criticalhittech.com/author/dsielaff/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

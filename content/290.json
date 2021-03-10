@@ -1,0 +1,154 @@
+{
+  "Id": "290",
+  "Name": "Issue 290",
+  "UpdatedTimeStamp": "2020-12-19T08:13:02Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Apologies for being a bit late with the newsletter this week but I'm sure you understand time crunches heading into the holiday season. This year has been very challenging for me and no doubt for lots of us around the world. As we head towards the holiday season I hope we can all take a moment to reflect on some of the positive parts of the year.  And celebrate the upcoming new year.  But mostly I want to take a moment to say a big thankyou for joining us in the Weekly Xamarin newsletter. And as always thankyou to all the amazing Xamarin Community authors who are putting out content for the love of it. Have a happy holiday season. ❤ Kym",
+  "PublishDate": "2020-12-19T08:13:00Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "10 Mobile UX Trends for 2021",
+      "Url": "https://uxplanet.org/10-mobile-ux-trends-for-2021-bead97dce9e4",
+      "Description": "When 2020 is almost over (fortunately), it’s a perfect moment to explore what we will have in 2021. Here is a list of 10 mobile UX design trends that will shape 2021.",
+      "EditionId": "290",
+      "Author": "Nick Babich",
+      "Id": "290-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Manage your demands dynamically with Azure DevOps",
+      "Url": "https://damienaicheh.github.io/azure/devops/2020/12/10/dynamic-demands-azure-devops-en.html",
+      "Description": "While developing your projects and using Azure DevOps for your pipelines, you probably noticed that testing the compatibility of your project with latest version of tools and softwares could be tricky.",
+      "EditionId": "290",
+      "Id": "290-2",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "AndroidX with Telerik UI for Xamarin",
+      "Url": "https://www.telerik.com/blogs/androidx-telerik-ui-for-xamarin",
+      "Description": "What is AndroidX? Based on the Android documentation: “AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. AndroidX packages fully replace the Support Library by providing feature parity and new libraries.",
+      "EditionId": "290",
+      "Author": "Dobrinka Yordanova",
+      "Id": "290-3",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Things to consider before implementing a UI in Xamarin Forms",
+      "Url": "https://www.telerik.com/blogs/points-to-consider-before-implementing-ui-xamarin-forms",
+      "Description": "What steps should we take before we begin coding to ensure a clean UI, delivered on time? Leomaris shares a handful of important tips when building UI in Xamarin Forms.",
+      "EditionId": "290",
+      "Author": "Leomaris Reyes",
+      "Id": "290-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Understanding Multi-Binding in Xamarin Forms",
+      "Url": "https://xamgirl.com/understanding-multi-binding-in-xamarin-forms/",
+      "Description": "Multi-binding is a great feature that was introduced in Xamarin Forms 4.7 that allows the binding of multiple sources to a single target property. It gives us a lot of flexibility as now we don’t need to create multiple UI elements for each bindable property, which improves performance and makes our code cleaner.",
+      "EditionId": "290",
+      "Author": "Charlin Agramonte",
+      "Id": "290-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "DataTemplateSelectors in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=UMPVXd57h_Q&list=PLfbOp004UaYUgjhTHjtSixo-iMdz6PhIv&index=1",
+      "Description": "Gerald continues his videos about DataTemplates, looking at the DataTemplateSelector. With the DataTemplateSelector you can apply different templates based on logic that you implement yourself!",
+      "EditionId": "290",
+      "Author": "Gerald Versluis",
+      "Id": "290-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Three ways to Fix broken Icon Font in Xamarin App",
+      "Url": "https://benetskyybogdan.medium.com/three-ways-to-fix-broken-icon-font-in-xamarin-app-9194779d20ed",
+      "Description": "Time to time, when you run your app in Android, iOS or even in UWP in one of the platform or all at the same time you can get unexpected undefined icons or binding Path visible instead of the icon itself. When it can happen? — Here is all pretty simple 🤓.",
+      "EditionId": "290",
+      "Author": "Bohdan Benetskyi",
+      "Id": "290-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Implementing dark mode in your Xamarin.Forms app",
+      "Url": "https://www.thewissen.io/going-dark-easily-implementing-dark-mode-in-your-xamarin-forms-app/",
+      "Description": "Dark mode; it’s all the rage in apps these days. Its main goal seems to be saving our eyes from burning out when reading things in a dark environment, but is that true?",
+      "EditionId": "290",
+      "Author": "Steven Thewissen",
+      "Id": "290-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Working with SignalR and Fabulous",
+      "Url": "https://mallibone.com/post/fabulous-signalr",
+      "Description": "Mark shows how you can use SignalR with Fabulous to implement a chat application.",
+      "EditionId": "290",
+      "Author": "Mark Allibone",
+      "Id": "290-9",
+      "Category": "FSHARP"
+    },
+    {
+      "Title": "DevTalk 52: Customer Advisory Team With Sweekriti Satpathy",
+      "Url": "https://kerry.lothrop.de/devtalk-52-sweekriti-satpathy/",
+      "Description": "On episode 52 of DevTalk I speak to Sweeky Satpathy about working on the Mobile Customer Advisory Team at Microsoft.",
+      "EditionId": "290",
+      "Author": "Kerry Lothrop",
+      "Id": "290-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 232: AirPods Max, Apple Fitness+, and AR/VR Indoor Cycling",
+      "Url": "https://www.mergeconflict.fm/232",
+      "Description": "December surprise from Apple with some brand-new products and services dropping just in time for the holidays. Frank and James take a quick dip into Apple's new headphones, before heading into the world of home fitness and possibilities for app developers.",
+      "EditionId": "290",
+      "Author": "Merge Conflict",
+      "Id": "290-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Podcast American Airlines",
+      "Url": "https://www.xamarinpodcast.com/84",
+      "Description": "In this podcast Matt interviews Kiran Gandla and Chandra Poshala from American Airlines about the app that helps keep the airline running. Xamarin and Azure play a big part and our very own MCAT team helped pave the way too!",
+      "EditionId": "290",
+      "Author": "The Xamarin Podcast",
+      "Id": "290-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Improved XAML Data Binding Diagnostics",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Improved-XAML-Binding-Diagnostics--The-Xamarin-Show",
+      "Description": "This week, James is joined by Dmitry Lyalin, Senior Program Manager - XAML Tooling, who is here to talk about some brand new features available for XAML developers in Visual Studio 2019.",
+      "EditionId": "290",
+      "Author": "James Montemagno",
+      "Id": "290-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Preparing a Xamarin.Forms Shell App for Development",
+      "Url": "https://www.youtube.com/watch?v=cRvb9TCvB6c&feature=youtu.be",
+      "Description": "In this next video in our Xamarin 101 series we are going to scrub the Shell template to get it into a blank app state so we can start proper development. I walk through everything you need to do so you are ready for productivity.",
+      "EditionId": "290",
+      "Author": "James Montemagno",
+      "Id": "290-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 31: Responsive Mobile Design",
+      "Url": "https://nullpointers.io/31/",
+      "Description": "It’s great that all the technologies in the world now let us write once and run anywhere. But how does that work for designs? In this episode, we are talking about responsive mobile design.",
+      "EditionId": "290",
+      "Author": "Null Pointers",
+      "Id": "290-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "XamRight 2.30 Release for Visual Studio",
+      "Url": "https://criticalhittech.com/2020/12/17/xamright-2-30-release-for-visual-studio/",
+      "Description": "There is a new release of XamRight. This release continues to improve its powerful XAML static analysis capabilities, and introduces features to streamline your XAML development.",
+      "EditionId": "290",
+      "Author": "David Sielaff",
+      "Id": "290-16",
+      "Category": "RELEASES"
+    }
+  ]
+}
