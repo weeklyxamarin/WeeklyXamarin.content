@@ -1,0 +1,234 @@
+{
+  "Id": "285",
+  "Name": "Issue 285",
+  "UpdatedTimeStamp": "2020-11-13T13:11:28Z",
+  "Summary": "Welcome .NET 5 and .NET Conf 2020",
+  "Introduction": "G'day everyone. We've got a bumper edition of WeeklyXamarin this week.  If you've been hiding under a rock over the last week, you may have missed some of the great announcements form .NET Conf and the .NET 5 release. But fear not, we have all the news and lots of other amazing community content.   Also, a massive thanks to you for subscribing to the newsletter. What a time to be a .NET developer! Enjoy the weekend, and enjoy the newsletter.   ❤ Kym",
+  "PublishDate": "2020-11-13T13:11:24Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Recapping Xamarin Highlights from .NET Conf 2020",
+      "Url": "https://devblogs.microsoft.com/xamarin/dotnetconf-2020-xamarin-recap/",
+      "Description": "Maddy summarizes all the great things for Xamarin developers in .NET Conf.",
+      "EditionId": "285",
+      "Author": "Maddy Leger",
+      "Id": "285-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Announcing .NET 5.0",
+      "Url": "https://devblogs.microsoft.com/dotnet/announcing-net-5-0/",
+      "Description": "We’re excited to release .NET 5.0 today and for you to start using it. It’s a major release — including C# 9 and F# 5 — with a broad set of new features and compelling improvements.",
+      "EditionId": "285",
+      "Author": "Richard Lander",
+      "Id": "285-2",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "A beginner’s guide to typography",
+      "Url": "https://medium.com/design-bootcamp/a-beginners-guide-to-web-and-mobile-typography-f68ebba857db",
+      "Description": "Some good rules of thumb for better typography in your apps.",
+      "EditionId": "285",
+      "Author": "Vichita Baheti",
+      "Id": "285-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "5 Things to A/B Test to Make Your Mobile Apps Better",
+      "Url": "https://www.telerik.com/blogs/5-things-a-b-test-make-mobile-apps-better",
+      "Description": "A/B testing is long and arduous—and necessary—especially for mobile apps. Your app store listings, promotional landing pages, even external ads are all ripe opportunities to get more users and make more money in the process.",
+      "EditionId": "285",
+      "Author": "Suzanne Scacca",
+      "Id": "285-4",
+      "Category": "TESTING"
+    },
+    {
+      "Title": "How to extend your Azure DevOps YAML templates",
+      "Url": "https://damienaicheh.github.io/azure/devops/2020/11/12/extend-azure-devops-yaml-pipelines-en.html",
+      "Description": "It is not easy to create generic Azure Pipelines YAML templates and maximize its usability accross your projects. In this tutorial, we are going to demonstrate how to create flexible templates that can fit as many of your projects as possible.",
+      "EditionId": "285",
+      "Id": "285-5",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Using Immutable Objects with SQLite-Net",
+      "Url": "https://codetraveler.io/2020/11/11/using-immutable-objects-with-sqlite-net/",
+      "Description": "SQLite-NET has become the most popular database, especially amongst Xamarin developers, but it hasn't supported Immutable Objects, until now!",
+      "EditionId": "285",
+      "Author": "Brandon Minnick",
+      "Id": "285-6",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Hot Reload Revamp Leads Xamarin Updates in Visual Studio 2019 v16.8",
+      "Url": "https://visualstudiomagazine.com/articles/2020/11/12/xamarin-updates.aspx",
+      "Description": "A revamp of \"hot reload\" functionality headlines a bevy of improvements to Xamarin that were highlighted by Microsoft this week as it launched Visual Studio 2019 v16.8 and .NET 5 during the .NET Conf 2020 online developer event.",
+      "EditionId": "285",
+      "Id": "285-7",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Mac Catalyst Support for Xamarin.iOS",
+      "Url": "https://praeclarum.org/2020/11/10/catalyst.html",
+      "Description": "Frank has written a tool that will convert your Xamarin.iOS app (including Xamarin.Forms and MAUI) to a Mac app using Mac Catalyst. This makes creating a macOS app and selling it on the App Store easier than ever.",
+      "EditionId": "285",
+      "Author": "Frank Krueger",
+      "Id": "285-8",
+      "Category": "IOS"
+    },
+    {
+      "Title": "App privacy details on the App Store",
+      "Url": "https://developer.apple.com/app-store/app-privacy-details/",
+      "Description": "You’ll need to provide information about your app’s privacy practices, including the practices of third-party partners whose code you integrate into your app, in App Store Connect. This information will be required to submit new apps and app updates to the App Store starting December 8, 2020.",
+      "EditionId": "285",
+      "Author": "Apple Developer",
+      "Id": "285-9",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Bringing Sketch 360 to Microsoft Surface Duo",
+      "Url": "https://devblogs.microsoft.com/surface-duo/sketch-360/",
+      "Description": "Creating a cool app with Xamarin.Forms and SkiaSharp for the two screened Surface Duo",
+      "EditionId": "285",
+      "Author": "Michael Scherotter",
+      "Id": "285-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Phone Dialer and Sending Emails & SMS in Xamarin Forms",
+      "Url": "https://www.telerik.com/blogs/phone-dialer-sending-emails-sms-xamarin-forms",
+      "Description": "Using Phone Dialer or sending emails or SMS in Xamarin Forms might be easier than you thought: They’re included in Xamarin Essentials!",
+      "EditionId": "285",
+      "Author": "Leomaris Reyes",
+      "Id": "285-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Fluent Validation",
+      "Url": "https://bertuzzi.medium.com/o-x-do-xamarin-forms-fluent-validation-a3b4ac59d389",
+      "Description": "Thiago shows how you can use Fluent Validation with your Xamarin.Forms applications **Note: Page is in Portuguese**",
+      "EditionId": "285",
+      "Author": "Thiago Bertuzzi",
+      "Id": "285-12",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms 5: Dual Screens, Dark Modes, Designing with Shapes, and More",
+      "Url": "https://www.codemag.com/article/2010082",
+      "Description": "Beginning in early 2020, the Xamarin team started collaborating with the Surface and Windows developer teams to think about a new dual screen device that we were about to launch at Microsoft, and which you have no doubt heard about by now, the Surface Duo.",
+      "EditionId": "285",
+      "Author": "David Ortinau",
+      "Id": "285-13",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms - Custom TitleView",
+      "Url": "https://xamarinmonkeys.blogspot.com/2020/11/xamarinforms-custom-titleview.html",
+      "Description": "In this blog post, you will learn how to create a custom TitleView in Xamarin.Forms.",
+      "EditionId": "285",
+      "Author": "Delpin Susai Raj",
+      "Id": "285-14",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin Community Toolkit Hacktoberfest 2020 Recap",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit-hacktoberfest-2020-recap/",
+      "Description": "It has been hard to miss, for the past month Hacktoberfest was upon us again. As announced in our previous blogpost, the Xamarin Community Toolkit participated as well, here is a little summary of how we did. If you have missed what the Xamarin Community Toolkit is, let me bring you up to speed.",
+      "EditionId": "285",
+      "Author": "Gerald Versluis",
+      "Id": "285-15",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Social Auth with ASP.net core and Xamarin Essentials",
+      "Url": "https://doumer.me/jwt-social-auth-with-asp-net-core-and-xamarin-essentials/",
+      "Description": "Damien continues his series on social Auth with Xamarin Forms and ASP.net core.",
+      "EditionId": "285",
+      "Author": "Damien Doumer",
+      "Id": "285-16",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Using SVG Icons in a TabbedPage",
+      "Url": "https://www.davidbritch.com/2020/11/display-svgs-as-tabbedpage-tab-icons-in.html",
+      "Description": "David Britch shows how to get TabbedPages to display SVG-based tab icons.  A lIttle bit of vector drawable and Renderer magic and you're off to the races.",
+      "EditionId": "285",
+      "Author": "David Britch",
+      "Id": "285-17",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Five Things You Should Know About .NET 5",
+      "Url": "https://auth0.com/blog/dotnet-5-whats-new/",
+      "Description": ".NET 5, the successor of .NET Core 3.1 and .NET Framework 4.8, aims to provide .NET developers with a new cross-platform development experience. It puts order to the .NET universe fragmentation that has been arising over the years and brings new amazing features.",
+      "EditionId": "285",
+      "Author": "Andrea Chiarelli",
+      "Id": "285-18",
+      "Category": ".NET"
+    },
+    {
+      "Title": "Null Pointers 26: Monitoring and Logging",
+      "Url": "https://nullpointers.io/26/",
+      "Description": "Getting insights into how your application is doing once it’s out in the wild is essential if you want to act on problems quickly. That’s where logging and monitoring comes into play! Tune in to this weeks episode to learn more.",
+      "EditionId": "285",
+      "Author": "Null Pointers",
+      "Id": "285-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Uploading Files From a Xamarin.Forms App to ASP.NET Web API",
+      "Url": "https://www.youtube.com/watch?v=KPDGtLeNClQ",
+      "Description": "A full video on how to implement picking files and uploading them from a Xamarin.Forms application. In this sample we will see how to implement an ASP.NET Web API to receive a file and from there how to actually upload the file through our own Xamarin application.",
+      "EditionId": "285",
+      "Author": "Gerald Versluis",
+      "Id": "285-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms 5: Beautiful and Fast Apps with Less Code",
+      "Url": "https://www.youtube.com/watch?v=M7UVz82dE90",
+      "Description": "Xamarin.Forms 5 is jam-packed with new features to make it easier than ever to develop fast, beautiful, cross-platform apps. Come see what new features are in Xamarin.Forms 5, and learn more about how our Xamarin Community Toolkit is getting more features than ever into your hands!",
+      "EditionId": "285",
+      "Author": "dotNet Youtube Channel",
+      "Id": "285-21",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 227: Databases!",
+      "Url": "https://www.mergeconflict.fm/227",
+      "Description": "Let's talk about databases! SQLite, No-SQL, LiteDB, CoreData, and so much more! All the options!",
+      "EditionId": "285",
+      "Author": "Merge Conflict",
+      "Id": "285-22",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "November is for .NET 5",
+      "Url": "https://www.xamarinpodcast.com/81",
+      "Description": "This month James and Matt talk about the new Apple silicone, XBox ... and of course some Xamarin and Azure too! .NET 5 is out! And with that there are some great Xamarin enhancements in the latest version of Visual Studio.",
+      "EditionId": "285",
+      "Author": "The Xamarin Podcast",
+      "Id": "285-23",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Visual Studio 2019 v16.8 and v16.9 Preview 1 Release Today",
+      "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2019-v16-8/",
+      "Description": "Today the Visual Studio team is proud to announce the release of Visual Studio 2019 v16.8 and v16.9 Preview 1. These releases have several notable features from the teams improving Git Productivity, C++, IntelliCode, .NET, XAML, and Web Tools.",
+      "EditionId": "285",
+      "Author": "Jacqueline Widdis",
+      "Id": "285-24",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "Visual Studio 2019 for Mac version 8.8 is now available",
+      "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-8-is-now-available/",
+      "Description": "Visual Studio 2019 for Mac version 8.8 is available today! With several improvements for Xamarin developers, including Xamarin.Forms 5.0 Preview support.",
+      "EditionId": "285",
+      "Author": "Jon Galloway",
+      "Id": "285-25",
+      "Category": "RELEASES"
+    }
+  ]
+}

@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "285",
+      "Name": "Issue 285",
+      "UpdatedTimeStamp": "2020-11-13T13:11:28Z",
+      "Summary": "Welcome .NET 5 and .NET Conf 2020",
+      "PublishDate": "2020-11-13T13:11:24Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "284",
       "Name": "Issue 284",
       "UpdatedTimeStamp": "2020-11-06T13:19:36Z",

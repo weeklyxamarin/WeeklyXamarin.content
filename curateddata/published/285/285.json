@@ -1,0 +1,695 @@
+{
+  "number": 285,
+  "title": "Issue 285",
+  "summary": "Welcome .NET 5 and .NET Conf 2020",
+  "url": "http://weeklyxamarin.com/issues/285",
+  "publication_status": "published",
+  "published_at": "2020-11-13T13:11:24+00:00",
+  "updated_at": "2020-11-13T13:11:28+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone.</p>\n\n<p>We've got a bumper edition of WeeklyXamarin this week.</p>\n\n<p>If you've been hiding under a rock over the last week, you may have missed some of the great announcements form .NET Conf and the .NET 5 release. But fear not, we have all the news and lots of other amazing community content.</p>\n\n<p>Also, a massive thanks to you for subscribing to the newsletter. What a time to be a .NET developer!</p>\n\n<p>Enjoy the weekend, and enjoy the newsletter.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone.\r\n\r\nWe've got a bumper edition of WeeklyXamarin this week. \r\n\r\nIf you've been hiding under a rock over the last week, you may have missed some of the great announcements form .NET Conf and the .NET 5 release. But fear not, we have all the news and lots of other amazing community content.  \r\n\r\nAlso, a massive thanks to you for subscribing to the newsletter. What a time to be a .NET developer!\r\n\r\nEnjoy the weekend, and enjoy the newsletter.  \r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "C8HDKyQ",
+          "type": "Link",
+          "title": "",
+          "url_domain": "platform.uno",
+          "url": "https://platform.uno?utm_source=newsletter-xam-weekly-Nov13&utm_medium=email&utm_campaign=uno-awareness-xam-weekly",
+          "description": "",
+          "description_markdown": "",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "6f78f670-385b-4c56-a5de-75510237b357.png",
+          "image_extra_large_filename": "original_ratio_extra_large_6f78f670-385b-4c56-a5de-75510237b357.png",
+          "image_medium_filename": "original_ratio_medium_6f78f670-385b-4c56-a5de-75510237b357.png"
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "gAJwLIX",
+          "type": "Link",
+          "title": "Recapping Xamarin Highlights from .NET Conf 2020",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/dotnetconf-2020-xamarin-recap/",
+          "description": "<p>Maddy summarizes all the great things for Xamarin developers in .NET Conf.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/dotnetconf-2020-xamarin-recap/\"><strong>Recapping Xamarin Highlights from .NET Conf 2020</strong></a> by <a href=\"https://twitter.com/maddyleger1\">Maddy Leger</a></p>",
+          "description_markdown": "Maddy summarizes all the great things for Xamarin developers in .NET Conf.\r\n\r\n[**Recapping Xamarin Highlights from .NET Conf 2020**](https://devblogs.microsoft.com/xamarin/dotnetconf-2020-xamarin-recap/) by [Maddy Leger](https://twitter.com/maddyleger1)",
+          "embedded_links": [
+            {
+              "identifier": "37gpu2X",
+              "title": "**Recapping Xamarin Highlights from .NET Conf 2020**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/dotnetconf-2020-xamarin-recap/"
+            },
+            {
+              "identifier": "8U6OhQ4",
+              "title": "Maddy Leger",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/maddyleger1"
+            }
+          ]
+        },
+        {
+          "identifier": "h80ctAq",
+          "type": "Link",
+          "title": "Announcing .NET 5.0",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/announcing-net-5-0/",
+          "description": "<p>We’re excited to release .NET 5.0 today and for you to start using it. It’s a major release — including C# 9 and F# 5 — with a broad set of new features and compelling improvements.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/announcing-net-5-0/\"><strong>Announcing .NET 5.0</strong></a> by <a href=\"https://devblogs.microsoft.com/dotnet/author/richlander-ca/\">Richard Lander</a></p>",
+          "description_markdown": "We’re excited to release .NET 5.0 today and for you to start using it. It’s a major release — including C# 9 and F# 5 — with a broad set of new features and compelling improvements.\r\n\r\n[**Announcing .NET 5.0**](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/) by [Richard Lander](https://devblogs.microsoft.com/dotnet/author/richlander-ca/)",
+          "embedded_links": [
+            {
+              "identifier": "piRtXDs",
+              "title": "Richard Lander",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/author/richlander-ca/"
+            },
+            {
+              "identifier": "EErEum4",
+              "title": "**Announcing .NET 5.0**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/announcing-net-5-0/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "aurTXFA",
+          "type": "Link",
+          "title": "A beginner’s guide to typography",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/design-bootcamp/a-beginners-guide-to-web-and-mobile-typography-f68ebba857db",
+          "description": "<p>Some good rules of thumb for better typography in your apps.</p>\n\n<p><a href=\"https://medium.com/design-bootcamp/a-beginners-guide-to-web-and-mobile-typography-f68ebba857db\"><strong>A beginner’s guide to web and mobile typography</strong></a> by <a href=\"https://medium.com/@vichita.baheti\">Vichita Baheti</a></p>",
+          "description_markdown": "Some good rules of thumb for better typography in your apps.\r\n\r\n[**A beginner’s guide to web and mobile typography**](https://medium.com/design-bootcamp/a-beginners-guide-to-web-and-mobile-typography-f68ebba857db) by [Vichita Baheti](https://medium.com/@vichita.baheti)",
+          "embedded_links": [
+            {
+              "identifier": "5ZgeLnC",
+              "title": "**A beginner’s guide to web and mobile typography**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/design-bootcamp/a-beginners-guide-to-web-and-mobile-typography-f68ebba857db"
+            },
+            {
+              "identifier": "lMaT4EB",
+              "title": "Vichita Baheti",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@vichita.baheti"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "testing",
+      "name": "TESTING",
+      "items": [
+        {
+          "identifier": "n7bptz4",
+          "type": "Link",
+          "title": "5 Things to A/B Test to Make Your Mobile Apps Better",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/5-things-a-b-test-make-mobile-apps-better",
+          "description": "<p>A/B testing is long and arduous—and necessary—especially for mobile apps. Your app store listings, promotional landing pages, even external ads are all ripe opportunities to get more users and make more money in the process.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/5-things-a-b-test-make-mobile-apps-better\"><strong>5 Things to A/B Test to Make Your Mobile Apps Better</strong></a> by <a href=\"https://www.telerik.com/blogs/author/suzanne-scacca\">Suzanne Scacca</a></p>",
+          "description_markdown": "A/B testing is long and arduous—and necessary—especially for mobile apps. Your app store listings, promotional landing pages, even external ads are all ripe opportunities to get more users and make more money in the process.\r\n\r\n[**5 Things to A/B Test to Make Your Mobile Apps Better**](https://www.telerik.com/blogs/5-things-a-b-test-make-mobile-apps-better) by [Suzanne Scacca](https://www.telerik.com/blogs/author/suzanne-scacca)",
+          "embedded_links": [
+            {
+              "identifier": "StH8eIy",
+              "title": "**5 Things to A/B Test to Make Your Mobile Apps Better**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/5-things-a-b-test-make-mobile-apps-better"
+            },
+            {
+              "identifier": "qpjJSiG",
+              "title": "Suzanne Scacca",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/suzanne-scacca"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "7M7DRf",
+          "type": "Link",
+          "title": "How to extend your Azure DevOps YAML templates",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/azure/devops/2020/11/12/extend-azure-devops-yaml-pipelines-en.html",
+          "description": "<p>It is not easy to create generic Azure Pipelines YAML templates and maximize its usability accross your projects. In this tutorial, we are going to demonstrate how to create flexible templates that can fit as many of your projects as possible.</p>\n\n<p><a href=\"https://damienaicheh.github.io/azure/devops/2020/11/12/extend-azure-devops-yaml-pipelines-en.html\"><strong>How to extend your Azure DevOps YAML templates</strong></a> by <a href=\"\">Damien Aicheh</a></p>",
+          "description_markdown": "It is not easy to create generic Azure Pipelines YAML templates and maximize its usability accross your projects. In this tutorial, we are going to demonstrate how to create flexible templates that can fit as many of your projects as possible.\r\n\r\n[**How to extend your Azure DevOps YAML templates**](https://damienaicheh.github.io/azure/devops/2020/11/12/extend-azure-devops-yaml-pipelines-en.html) by [Damien Aicheh]()",
+          "embedded_links": [
+            {
+              "identifier": "RyGwldA",
+              "title": "**How to extend your Azure DevOps YAML templates**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/azure/devops/2020/11/12/extend-azure-devops-yaml-pipelines-en.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "8lQ17TI",
+          "type": "Link",
+          "title": "Using Immutable Objects with SQLite-Net",
+          "url_domain": "codetraveler.io",
+          "url": "https://codetraveler.io/2020/11/11/using-immutable-objects-with-sqlite-net/",
+          "description": "<p>SQLite-NET has become the most popular database, especially amongst Xamarin developers, but it hasn't supported Immutable Objects, until now!</p>\n\n<p><a href=\"https://codetraveler.io/2020/11/11/using-immutable-objects-with-sqlite-net/\"><strong>Using Immutable Objects with SQLite-Net</strong></a> by <a href=\"https://codetraveler.io/author/brandon/\">Brandon Minnick</a></p>",
+          "description_markdown": "SQLite-NET has become the most popular database, especially amongst Xamarin developers, but it hasn't supported Immutable Objects, until now! \r\n\r\n[**Using Immutable Objects with SQLite-Net**](https://codetraveler.io/2020/11/11/using-immutable-objects-with-sqlite-net/) by [Brandon Minnick](https://codetraveler.io/author/brandon/)",
+          "embedded_links": [
+            {
+              "identifier": "goBmnu8",
+              "title": "**Using Immutable Objects with SQLite-Net**",
+              "url_domain": "codetraveler.io",
+              "url": "https://codetraveler.io/2020/11/11/using-immutable-objects-with-sqlite-net/"
+            },
+            {
+              "identifier": "rA6q3FA",
+              "title": "Brandon Minnick",
+              "url_domain": "codetraveler.io",
+              "url": "https://codetraveler.io/author/brandon/"
+            }
+          ]
+        },
+        {
+          "identifier": "mr3Eeeq",
+          "type": "Link",
+          "title": "Hot Reload Revamp Leads Xamarin Updates in Visual Studio 2019 v16.8",
+          "url_domain": "visualstudiomagazine.com",
+          "url": "https://visualstudiomagazine.com/articles/2020/11/12/xamarin-updates.aspx",
+          "description": "<p>A revamp of \"hot reload\" functionality headlines a bevy of improvements to Xamarin that were highlighted by Microsoft this week as it launched Visual Studio 2019 v16.8 and .NET 5 during the .NET Conf 2020 online developer event.</p>\n\n<p><a href=\"https://visualstudiomagazine.com/articles/2020/11/12/xamarin-updates.aspx\"><strong>Hot Reload Revamp Leads Xamarin Updates in Visual Studio 2019 v16.8</strong></a> by <a href=\"\">David Ramel</a></p>",
+          "description_markdown": "A revamp of \"hot reload\" functionality headlines a bevy of improvements to Xamarin that were highlighted by Microsoft this week as it launched Visual Studio 2019 v16.8 and .NET 5 during the .NET Conf 2020 online developer event.\r\n\r\n[**Hot Reload Revamp Leads Xamarin Updates in Visual Studio 2019 v16.8**](https://visualstudiomagazine.com/articles/2020/11/12/xamarin-updates.aspx) by [David Ramel]()",
+          "embedded_links": [
+            {
+              "identifier": "zIHbb5z",
+              "title": "**Hot Reload Revamp Leads Xamarin Updates in Visual Studio 2019 v16.8**",
+              "url_domain": "visualstudiomagazine.com",
+              "url": "https://visualstudiomagazine.com/articles/2020/11/12/xamarin-updates.aspx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "2oqW5Wo",
+          "type": "Link",
+          "title": "Mac Catalyst Support for Xamarin.iOS",
+          "url_domain": "praeclarum.org",
+          "url": "https://praeclarum.org/2020/11/10/catalyst.html",
+          "description": "<p>Frank has written a tool that will convert your Xamarin.iOS app (including Xamarin.Forms and MAUI) to a Mac app using Mac Catalyst. This makes creating a macOS app and selling it on the App Store easier than ever.</p>\n\n<p><a href=\"https://praeclarum.org/2020/11/10/catalyst.html\"><strong>Mac Catalyst Support for Xamarin.iOS</strong></a> by <a href=\"https://twitter.com/praeclarum\">Frank Krueger</a></p>",
+          "description_markdown": "Frank has written a tool that will convert your Xamarin.iOS app (including Xamarin.Forms and MAUI) to a Mac app using Mac Catalyst. This makes creating a macOS app and selling it on the App Store easier than ever.\r\n\r\n[**Mac Catalyst Support for Xamarin.iOS**](https://praeclarum.org/2020/11/10/catalyst.html) by [Frank Krueger](https://twitter.com/praeclarum)",
+          "embedded_links": [
+            {
+              "identifier": "7XRN5ER",
+              "title": "**Mac Catalyst Support for Xamarin.iOS**",
+              "url_domain": "praeclarum.org",
+              "url": "https://praeclarum.org/2020/11/10/catalyst.html"
+            },
+            {
+              "identifier": "r6FAkZZ",
+              "title": "Frank Krueger",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/praeclarum"
+            }
+          ]
+        },
+        {
+          "identifier": "HuY887N",
+          "type": "Link",
+          "title": "App privacy details on the App Store",
+          "url_domain": "apple.com",
+          "url": "https://developer.apple.com/app-store/app-privacy-details/",
+          "description": "<p>You’ll need to provide information about your app’s privacy practices, including the practices of third-party partners whose code you integrate into your app, in App Store Connect. This information will be required to submit new apps and app updates to the App Store starting December 8, 2020.</p>\n\n<p><a href=\"https://developer.apple.com/app-store/app-privacy-details/\"><strong>App privacy details on the App Store</strong></a> by <a href=\"https://developer.apple.com/\">Apple Developer</a></p>",
+          "description_markdown": "You’ll need to provide information about your app’s privacy practices, including the practices of third-party partners whose code you integrate into your app, in App Store Connect. This information will be required to submit new apps and app updates to the App Store starting December 8, 2020.\r\n\r\n[**App privacy details on the App Store**](https://developer.apple.com/app-store/app-privacy-details/) by [Apple Developer](https://developer.apple.com/)",
+          "embedded_links": [
+            {
+              "identifier": "Wl98Fp0",
+              "title": "**App privacy details on the App Store**",
+              "url_domain": "apple.com",
+              "url": "https://developer.apple.com/app-store/app-privacy-details/"
+            },
+            {
+              "identifier": "bMdpmGZ",
+              "title": "Apple Developer",
+              "url_domain": "apple.com",
+              "url": "https://developer.apple.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "gjtIsoW",
+          "type": "Link",
+          "title": "Bringing Sketch 360 to Microsoft Surface Duo",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/surface-duo/sketch-360/",
+          "description": "<p>Creating a cool app with Xamarin.Forms and SkiaSharp for the two screened Surface Duo</p>\n\n<p><a href=\"https://devblogs.microsoft.com/surface-duo/sketch-360/\"><strong>Bringing Sketch 360 to Microsoft Surface Duo</strong></a> by <a href=\"https://kuula.co/profile/mscherotter\">Michael Scherotter</a></p>",
+          "description_markdown": "Creating a cool app with Xamarin.Forms and SkiaSharp for the two screened Surface Duo\r\n\r\n[**Bringing Sketch 360 to Microsoft Surface Duo**](https://devblogs.microsoft.com/surface-duo/sketch-360/) by [Michael Scherotter](https://kuula.co/profile/mscherotter)",
+          "embedded_links": [
+            {
+              "identifier": "VLiqTbm",
+              "title": "**Bringing Sketch 360 to Microsoft Surface Duo**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/surface-duo/sketch-360/"
+            },
+            {
+              "identifier": "jNldb9d",
+              "title": "Michael Scherotter",
+              "url_domain": "kuula.co",
+              "url": "https://kuula.co/profile/mscherotter"
+            }
+          ]
+        },
+        {
+          "identifier": "s2MQk4x",
+          "type": "Link",
+          "title": "Phone Dialer and Sending Emails & SMS in Xamarin Forms",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/phone-dialer-sending-emails-sms-xamarin-forms",
+          "description": "<p>Using Phone Dialer or sending emails or SMS in Xamarin Forms might be easier than you thought: They’re included in Xamarin Essentials!</p>\n\n<p><a href=\"https://www.telerik.com/blogs/phone-dialer-sending-emails-sms-xamarin-forms\"><strong>Phone Dialer and Sending Emails &amp; SMS in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Using Phone Dialer or sending emails or SMS in Xamarin Forms might be easier than you thought: They’re included in Xamarin Essentials! \r\n\r\n[**Phone Dialer and Sending Emails & SMS in Xamarin Forms**](https://www.telerik.com/blogs/phone-dialer-sending-emails-sms-xamarin-forms) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "3OgfFYj",
+              "title": "**Phone Dialer and Sending Emails & SMS in Xamarin Forms**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/phone-dialer-sending-emails-sms-xamarin-forms"
+            },
+            {
+              "identifier": "tuWNwnw",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "6dl3ouO",
+          "type": "Link",
+          "title": "Fluent Validation",
+          "url_domain": "medium.com",
+          "url": "https://bertuzzi.medium.com/o-x-do-xamarin-forms-fluent-validation-a3b4ac59d389",
+          "description": "<p>Thiago shows how you can use Fluent Validation with your Xamarin.Forms applications</p>\n\n<p><strong>Note: Page is in Portuguese</strong></p>\n\n<p><a href=\"https://bertuzzi.medium.com/o-x-do-xamarin-forms-fluent-validation-a3b4ac59d389\"><strong>O X do Xamarin Forms</strong></a> by <a href=\"https://bertuzzi.medium.com\">Thiago Bertuzzi</a></p>",
+          "description_markdown": "Thiago shows how you can use Fluent Validation with your Xamarin.Forms applications\r\n\r\n**Note: Page is in Portuguese**\r\n\r\n[**O X do Xamarin Forms**](https://bertuzzi.medium.com/o-x-do-xamarin-forms-fluent-validation-a3b4ac59d389) by [Thiago Bertuzzi](https://bertuzzi.medium.com)",
+          "embedded_links": [
+            {
+              "identifier": "wyFZjei",
+              "title": "**O X do Xamarin Forms**",
+              "url_domain": "medium.com",
+              "url": "https://bertuzzi.medium.com/o-x-do-xamarin-forms-fluent-validation-a3b4ac59d389"
+            },
+            {
+              "identifier": "k0EKnAx",
+              "title": "Thiago Bertuzzi",
+              "url_domain": "medium.com",
+              "url": "https://bertuzzi.medium.com"
+            }
+          ]
+        },
+        {
+          "identifier": "MteRSIm",
+          "type": "Link",
+          "title": "Xamarin.Forms 5: Dual Screens, Dark Modes, Designing with Shapes, and More",
+          "url_domain": "codemag.com",
+          "url": "https://www.codemag.com/article/2010082",
+          "description": "<p>Beginning in early 2020, the Xamarin team started collaborating with the Surface and Windows developer teams to think about a new dual screen device that we were about to launch at Microsoft, and which you have no doubt heard about by now, the Surface Duo.</p>\n\n<p><a href=\"https://www.codemag.com/article/2010082\"><strong>Xamarin.Forms 5: Dual Screens, Dark Modes, Designing with Shapes, and More</strong></a> by <a href=\"https://www.codemag.com/People/Bio/David.Ortinau\">David Ortinau</a></p>",
+          "description_markdown": "Beginning in early 2020, the Xamarin team started collaborating with the Surface and Windows developer teams to think about a new dual screen device that we were about to launch at Microsoft, and which you have no doubt heard about by now, the Surface Duo.\r\n\r\n[**Xamarin.Forms 5: Dual Screens, Dark Modes, Designing with Shapes, and More**](https://www.codemag.com/article/2010082) by [David Ortinau](https://www.codemag.com/People/Bio/David.Ortinau)",
+          "embedded_links": [
+            {
+              "identifier": "m1OBCn6",
+              "title": "**Xamarin.Forms 5: Dual Screens, Dark Modes, Designing with Shapes, and More**",
+              "url_domain": "codemag.com",
+              "url": "https://www.codemag.com/article/2010082"
+            },
+            {
+              "identifier": "lEquANc",
+              "title": "David Ortinau",
+              "url_domain": "codemag.com",
+              "url": "https://www.codemag.com/People/Bio/David.Ortinau"
+            }
+          ]
+        },
+        {
+          "identifier": "xzg6CXE",
+          "type": "Link",
+          "title": "Xamarin.Forms - Custom TitleView",
+          "url_domain": "blogspot.com",
+          "url": "https://xamarinmonkeys.blogspot.com/2020/11/xamarinforms-custom-titleview.html",
+          "description": "<p>In this blog post, you will learn how to create a custom TitleView in Xamarin.Forms.</p>\n\n<p><a href=\"https://xamarinmonkeys.blogspot.com/2020/11/xamarinforms-custom-titleview.html\"><strong>Xamarin.Forms - Custom TitleView</strong></a> by <a href=\"https://www.blogger.com/profile/12290645674821205145\">Delpin Susai Raj</a></p>",
+          "description_markdown": "In this blog post, you will learn how to create a custom TitleView in Xamarin.Forms. \r\n\r\n[**Xamarin.Forms - Custom TitleView**](https://xamarinmonkeys.blogspot.com/2020/11/xamarinforms-custom-titleview.html) by [Delpin Susai Raj](https://www.blogger.com/profile/12290645674821205145)",
+          "embedded_links": [
+            {
+              "identifier": "raNu9PB",
+              "title": "**Xamarin.Forms - Custom TitleView**",
+              "url_domain": "blogspot.com",
+              "url": "https://xamarinmonkeys.blogspot.com/2020/11/xamarinforms-custom-titleview.html"
+            },
+            {
+              "identifier": "U82dGb",
+              "title": "Delpin Susai Raj",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/12290645674821205145"
+            }
+          ]
+        },
+        {
+          "identifier": "VZbkjC7",
+          "type": "Link",
+          "title": "Xamarin Community Toolkit Hacktoberfest 2020 Recap",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit-hacktoberfest-2020-recap/",
+          "description": "<p>It has been hard to miss, for the past month Hacktoberfest was upon us again. As announced in our previous blogpost, the Xamarin Community Toolkit participated as well, here is a little summary of how we did. If you have missed what the Xamarin Community Toolkit is, let me bring you up to speed.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit-hacktoberfest-2020-recap/\"><strong>Xamarin Community Toolkit Hacktoberfest 2020 Recap</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/geraldversluis/\">Gerald Versluis</a></p>",
+          "description_markdown": "It has been hard to miss, for the past month Hacktoberfest was upon us again. As announced in our previous blogpost, the Xamarin Community Toolkit participated as well, here is a little summary of how we did. If you have missed what the Xamarin Community Toolkit is, let me bring you up to speed.\r\n\r\n[**Xamarin Community Toolkit Hacktoberfest 2020 Recap**](https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit-hacktoberfest-2020-recap/) by [Gerald Versluis](https://devblogs.microsoft.com/xamarin/author/geraldversluis/)",
+          "embedded_links": [
+            {
+              "identifier": "2OZXsf8",
+              "title": "**Xamarin Community Toolkit Hacktoberfest 2020 Recap**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit-hacktoberfest-2020-recap/"
+            },
+            {
+              "identifier": "yu4SbaC",
+              "title": "Gerald Versluis",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/geraldversluis/"
+            }
+          ]
+        },
+        {
+          "identifier": "xEwQRwL",
+          "type": "Link",
+          "title": "Social Auth with ASP.net core and Xamarin Essentials",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/jwt-social-auth-with-asp-net-core-and-xamarin-essentials/",
+          "description": "<p>Damien continues his series on social Auth with Xamarin Forms and ASP.net core.</p>\n\n<p><a href=\"https://doumer.me/jwt-social-auth-with-asp-net-core-and-xamarin-essentials/\"><strong>JWT Social auth with ASP.net core and Xamarin Essentials</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "Damien continues his series on social Auth with Xamarin Forms and ASP.net core. \r\n\r\n[**JWT Social auth with ASP.net core and Xamarin Essentials**](https://doumer.me/jwt-social-auth-with-asp-net-core-and-xamarin-essentials/) by [Damien Doumer](https://twitter.com/damien_doumer)",
+          "embedded_links": [
+            {
+              "identifier": "3xdmQKn",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            },
+            {
+              "identifier": "HBpILtY",
+              "title": "**JWT Social auth with ASP.net core and Xamarin Essentials**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/jwt-social-auth-with-asp-net-core-and-xamarin-essentials/"
+            }
+          ]
+        },
+        {
+          "identifier": "ShqVanK",
+          "type": "Link",
+          "title": "Using SVG Icons in a TabbedPage",
+          "url_domain": "davidbritch.com",
+          "url": "https://www.davidbritch.com/2020/11/display-svgs-as-tabbedpage-tab-icons-in.html",
+          "description": "<p>David Britch shows how to get TabbedPages to display SVG-based tab icons.  A lIttle bit of vector drawable and Renderer magic and you're off to the races.</p>\n\n<p><a href=\"https://www.davidbritch.com/2020/11/display-svgs-as-tabbedpage-tab-icons-in.html\"><strong>Display SVGs as TabbedPage tab icons in Xamarin.Forms</strong></a> by <a href=\"https://www.blogger.com/profile/08228714867310322959\">David Britch</a></p>",
+          "description_markdown": "David Britch shows how to get TabbedPages to display SVG-based tab icons.  A lIttle bit of vector drawable and Renderer magic and you're off to the races.\r\n\r\n[**Display SVGs as TabbedPage tab icons in Xamarin.Forms**](https://www.davidbritch.com/2020/11/display-svgs-as-tabbedpage-tab-icons-in.html) by [David Britch](https://www.blogger.com/profile/08228714867310322959)",
+          "embedded_links": [
+            {
+              "identifier": "sTlpgQX",
+              "title": "**Display SVGs as TabbedPage tab icons in Xamarin.Forms**",
+              "url_domain": "davidbritch.com",
+              "url": "https://www.davidbritch.com/2020/11/display-svgs-as-tabbedpage-tab-icons-in.html"
+            },
+            {
+              "identifier": "WidYirg",
+              "title": "David Britch",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/08228714867310322959"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "net",
+      "name": ".NET",
+      "items": [
+        {
+          "identifier": "4llXQMB",
+          "type": "Link",
+          "title": "Five Things You Should Know About .NET 5",
+          "url_domain": "auth0.com",
+          "url": "https://auth0.com/blog/dotnet-5-whats-new/",
+          "description": "<p>.NET 5, the successor of .NET Core 3.1 and .NET Framework 4.8, aims to provide .NET developers with a new cross-platform development experience. It puts order to the .NET universe fragmentation that has been arising over the years and brings new amazing features.</p>\n\n<p><a href=\"https://auth0.com/blog/dotnet-5-whats-new/\"><strong>Five Things You Should Know About .NET 5</strong></a> by <a href=\"https://twitter.com/andychiare\">Andrea Chiarelli</a></p>",
+          "description_markdown": ".NET 5, the successor of .NET Core 3.1 and .NET Framework 4.8, aims to provide .NET developers with a new cross-platform development experience. It puts order to the .NET universe fragmentation that has been arising over the years and brings new amazing features.\r\n\r\n[**Five Things You Should Know About .NET 5**](https://auth0.com/blog/dotnet-5-whats-new/) by [Andrea Chiarelli](https://twitter.com/andychiare)",
+          "embedded_links": [
+            {
+              "identifier": "msRO6aP",
+              "title": "**Five Things You Should Know About .NET 5**",
+              "url_domain": "auth0.com",
+              "url": "https://auth0.com/blog/dotnet-5-whats-new/"
+            },
+            {
+              "identifier": "g7GIkeI",
+              "title": "Andrea Chiarelli",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andychiare"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "PO6MPZ2",
+          "type": "Link",
+          "title": "Null Pointers 26: Monitoring and Logging",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/26/",
+          "description": "<p>Getting insights into how your application is doing once it’s out in the wild is essential if you want to act on problems quickly. That’s where logging and monitoring comes into play! Tune in to this weeks episode to learn more.</p>\n\n<p><a href=\"https://nullpointers.io/26/\"><strong>26: Monitoring and Logging</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "Getting insights into how your application is doing once it’s out in the wild is essential if you want to act on problems quickly. That’s where logging and monitoring comes into play! Tune in to this weeks episode to learn more. \r\n\r\n[**26: Monitoring and Logging**](https://nullpointers.io/26/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "npIgaqt",
+              "title": "**26: Monitoring and Logging**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/26/"
+            },
+            {
+              "identifier": "u2uEeHP",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "h58KOTe",
+          "type": "Link",
+          "title": "Uploading Files From a Xamarin.Forms App to ASP.NET Web API",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=KPDGtLeNClQ",
+          "description": "<p>A full video on how to implement picking files and uploading them from a Xamarin.Forms application. In this sample we will see how to implement an ASP.NET Web API to receive a file and from there how to actually upload the file through our own Xamarin application.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=KPDGtLeNClQ\"><strong>Uploading Files From a Xamarin.Forms App to ASP.NET Web API</strong></a> by <a href=\"https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw\">Gerald Versluis</a></p>",
+          "description_markdown": "A full video on how to implement picking files and uploading them from a Xamarin.Forms application. In this sample we will see how to implement an ASP.NET Web API to receive a file and from there how to actually upload the file through our own Xamarin application. \r\n\r\n[**Uploading Files From a Xamarin.Forms App to ASP.NET Web API**](https://www.youtube.com/watch?v=KPDGtLeNClQ) by [Gerald Versluis](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw)",
+          "embedded_links": [
+            {
+              "identifier": "8e8Sxbx",
+              "title": "**Uploading Files From a Xamarin.Forms App to ASP.NET Web API**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=KPDGtLeNClQ"
+            },
+            {
+              "identifier": "humzSba",
+              "title": "Gerald Versluis",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw"
+            }
+          ]
+        },
+        {
+          "identifier": "iMQiq0G",
+          "type": "Link",
+          "title": "Xamarin.Forms 5: Beautiful and Fast Apps with Less Code",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=M7UVz82dE90",
+          "description": "<p>Xamarin.Forms 5 is jam-packed with new features to make it easier than ever to develop fast, beautiful, cross-platform apps. Come see what new features are in Xamarin.Forms 5, and learn more about how our Xamarin Community Toolkit is getting more features than ever into your hands!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=M7UVz82dE90\"><strong>Xamarin.Forms 5: Beautiful and Fast Apps with Less Code</strong></a> by <a href=\"https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw\">dotNET</a></p>",
+          "description_markdown": "Xamarin.Forms 5 is jam-packed with new features to make it easier than ever to develop fast, beautiful, cross-platform apps. Come see what new features are in Xamarin.Forms 5, and learn more about how our Xamarin Community Toolkit is getting more features than ever into your hands!\r\n\r\n[**Xamarin.Forms 5: Beautiful and Fast Apps with Less Code**](https://www.youtube.com/watch?v=M7UVz82dE90) by [dotNET](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw)",
+          "embedded_links": [
+            {
+              "identifier": "1ZEoTS9",
+              "title": "**Xamarin.Forms 5: Beautiful and Fast Apps with Less Code**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=M7UVz82dE90"
+            },
+            {
+              "identifier": "nJxohIu",
+              "title": "dotNET",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw"
+            }
+          ]
+        },
+        {
+          "identifier": "7teJ7Vf",
+          "type": "Link",
+          "title": "Merge Conflict 227: Databases!",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/227",
+          "description": "<p>Let's talk about databases! SQLite, No-SQL, LiteDB, CoreData, and so much more! All the options!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/227\"><strong>227: Databases!</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Let's talk about databases! SQLite, No-SQL, LiteDB, CoreData, and so much more! All the options!\r\n\r\n[**227: Databases!**](https://www.mergeconflict.fm/227) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "z43h0mH",
+              "title": "**227: Databases!**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/227"
+            },
+            {
+              "identifier": "kI18rN0",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "ULEituu",
+          "type": "Link",
+          "title": "November is for .NET 5",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/81",
+          "description": "<p>This month James and Matt talk about the new Apple silicone, XBox ... and of course some Xamarin and Azure too! .NET 5 is out! And with that there are some great Xamarin enhancements in the latest version of Visual Studio.</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/81\"><strong>November is for .NET 5</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "This month James and Matt talk about the new Apple silicone, XBox ... and of course some Xamarin and Azure too! .NET 5 is out! And with that there are some great Xamarin enhancements in the latest version of Visual Studio.\r\n\r\n[**November is for .NET 5**](https://www.xamarinpodcast.com/81) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)",
+          "embedded_links": [
+            {
+              "identifier": "8cKjX8n",
+              "title": "**November is for .NET 5**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/81"
+            },
+            {
+              "identifier": "32kF0He",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "fWq2dOW",
+          "type": "Link",
+          "title": "Visual Studio 2019 v16.8 and v16.9 Preview 1 Release Today",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2019-v16-8/",
+          "description": "<p>Today the Visual Studio team is proud to announce the release of Visual Studio 2019 v16.8 and v16.9 Preview 1. These releases have several notable features from the teams improving Git Productivity, C++, IntelliCode, .NET, XAML, and Web Tools.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/visualstudio/visual-studio-2019-v16-8/\"><strong>Visual Studio 2019 v16.8 and v16.9 Preview 1 Release Today</strong></a> by <a href=\"https://devblogs.microsoft.com/visualstudio/author/jawiddismicrosoft-com/\">Jacqueline Widdis</a></p>",
+          "description_markdown": "Today the Visual Studio team is proud to announce the release of Visual Studio 2019 v16.8 and v16.9 Preview 1. These releases have several notable features from the teams improving Git Productivity, C++, IntelliCode, .NET, XAML, and Web Tools.\r\n\r\n[**Visual Studio 2019 v16.8 and v16.9 Preview 1 Release Today**](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-v16-8/) by [Jacqueline Widdis](https://devblogs.microsoft.com/visualstudio/author/jawiddismicrosoft-com/)",
+          "embedded_links": [
+            {
+              "identifier": "a4ouIZT",
+              "title": "Jacqueline Widdis",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/author/jawiddismicrosoft-com/"
+            },
+            {
+              "identifier": "GrD4d9G",
+              "title": "**Visual Studio 2019 v16.8 and v16.9 Preview 1 Release Today**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2019-v16-8/"
+            }
+          ]
+        },
+        {
+          "identifier": "lmmGjTQ",
+          "type": "Link",
+          "title": "Visual Studio 2019 for Mac version 8.8 is now available",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-8-is-now-available/",
+          "description": "<p>Visual Studio 2019 for Mac version 8.8 is available today! With several improvements for Xamarin developers, including Xamarin.Forms 5.0 Preview support.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-8-is-now-available/\"><strong>Visual Studio 2019 for Mac version 8.8 is now available</strong></a> by <a href=\"https://devblogs.microsoft.com/visualstudio/author/jongalloway/\">Jon Galloway</a></p>",
+          "description_markdown": "Visual Studio 2019 for Mac version 8.8 is available today! With several improvements for Xamarin developers, including Xamarin.Forms 5.0 Preview support.\r\n\r\n[**Visual Studio 2019 for Mac version 8.8 is now available**](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-8-is-now-available/) by [Jon Galloway](https://devblogs.microsoft.com/visualstudio/author/jongalloway/)",
+          "embedded_links": [
+            {
+              "identifier": "TXowEZ5",
+              "title": "**Visual Studio 2019 for Mac version 8.8 is now available**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-8-is-now-available/"
+            },
+            {
+              "identifier": "ZuU0TEu",
+              "title": "Jon Galloway",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/author/jongalloway/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "type": "Text",
+          "title": "MonkeyFest USA",
+          "description": "<p>Don't forget that MonkeyFest USA is coming soon. Make sure you register for some great sessions.</p>\n\n<p>Registration is FREE!  <a href=\"https://monkeyfest.dev\">https://monkeyfest.dev</a></p>",
+          "description_markdown": "Don't forget that MonkeyFest USA is coming soon. Make sure you register for some great sessions.\r\n \r\nRegistration is FREE!  [https://monkeyfest.dev](https://monkeyfest.dev)",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "1YZUrCh",
+              "title": "https://monkeyfest.dev",
+              "url_domain": "monkeyfest.dev",
+              "url": "https://monkeyfest.dev"
+            }
+          ],
+          "image_original_filename": "ed188d0c-f7f4-4c2f-88ef-832af9c00589.png",
+          "image_extra_large_filename": "original_ratio_extra_large_ed188d0c-f7f4-4c2f-88ef-832af9c00589.png",
+          "image_medium_filename": "original_ratio_medium_ed188d0c-f7f4-4c2f-88ef-832af9c00589.png"
+        }
+      ]
+    }
+  ]
+}

@@ -194,6 +194,16 @@
       "Website": "https://www.xmonkeys360.com/"
     },
     {
+      "Name": "Andrea Chiarelli",
+      "Id": "https://twitter.com/andychiare",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/andychiare"
+        }
+      ]
+    },
+    {
       "Name": "Andreas Nesheim",
       "TwitterHandle": "AndreasNesheim",
       "GitHubHandle": "andreas-nesheim",
@@ -1058,6 +1068,16 @@
       ]
     },
     {
+      "Name": "Jacqueline Widdis",
+      "Id": "https://devblogs.microsoft.com/visualstudio/author/jawiddismicrosoft-com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/visualstudio/author/jawiddismicrosoft-com/"
+        }
+      ]
+    },
+    {
       "Name": "Jake Kirsch",
       "Id": "https://twitter.com/thisiskirsch",
       "Aliases": [
@@ -1278,6 +1298,16 @@
         {
           "Type": "blog",
           "Name": "https://medium.com/@designjon"
+        }
+      ]
+    },
+    {
+      "Name": "Jon Galloway",
+      "Id": "https://devblogs.microsoft.com/visualstudio/author/jongalloway/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/visualstudio/author/jongalloway/"
         }
       ]
     },
@@ -1810,6 +1840,16 @@
       "Website": "https://michaelridland.com"
     },
     {
+      "Name": "Michael Scherotter",
+      "Id": "https://kuula.co/profile/mscherotter",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://kuula.co/profile/mscherotter"
+        }
+      ]
+    },
+    {
       "Name": "Mike Grant",
       "TwitterHandle": "mike_grant_",
       "GitHubHandle": "mike-grant",
@@ -2099,6 +2139,16 @@
         {
           "Type": "blog",
           "Name": "https://www.reactiveui.net/blog/author/rich-bryant"
+        }
+      ]
+    },
+    {
+      "Name": "Richard Lander",
+      "Id": "https://devblogs.microsoft.com/dotnet/author/richlander-ca/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/dotnet/author/richlander-ca/"
         }
       ]
     },
@@ -2565,6 +2615,16 @@
         }
       ],
       "Website": "https://vicenteguzman.mx/"
+    },
+    {
+      "Name": "Vichita Baheti",
+      "Id": "https://medium.com/@vichita.baheti",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@vichita.baheti"
+        }
+      ]
     },
     {
       "Name": "Vidit Bhargava",
