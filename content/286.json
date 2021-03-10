@@ -1,0 +1,108 @@
+{
+  "Id": "286",
+  "Name": "Issue 286",
+  "UpdatedTimeStamp": "2020-11-21T13:53:51Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hey everyone, Happy weekend!  A great range of topics in this week's issue. Thanks as always to everyone who contributed! MonkeyFest USA is this weekend and our very own superstar Kym is giving a talk on making beautiful apps, going from the ground up showing how simple it can be! Have a great week,Luce 🧡",
+  "PublishDate": "2020-11-21T13:53:48Z",
+  "Curators": "Luce Carter",
+  "Articles": [
+    {
+      "Title": "Enabling C# 9 in Xamarin & .NET Standard Projects",
+      "Url": "https://montemagno.com/enabling-c-9-in-xamarin-net-standard-projects/",
+      "Description": "Whoa! .NET 5 is out and C# 9 is out! This means you are ready to use records, new pattern matching, and more! But wait a second... your apps haven't been upgraded to .NET 5 yet or are a project type that doesn't support .NET  5 so you don't have access to the new C# 9 features :( Or do you!?!?!?!",
+      "EditionId": "286",
+      "Author": "James Montemagno",
+      "Id": "286-1",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Improving the touch targets in your apps using Xamarin.Forms",
+      "Url": "https://www.thewissen.io/improving-the-touch-targets-in-your-apps-using-xamarin-forms/?utm_source=rss&utm_medium=rss&utm_campaign=improving-the-touch-targets-in-your-apps-using-xamarin-forms",
+      "Description": "We can interact with our phones in different ways, but the most commonly used one is through touch. But what makes for good touch targets and how can we improve upon what we get out of the box in Xamarin.Forms? Let’s take a look!",
+      "EditionId": "286",
+      "Author": "Steven Thewissen",
+      "Id": "286-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Intro to Xamarin Essentials",
+      "Url": "https://www.telerik.com/blogs/intro-xamarin-essentials",
+      "Description": "I think a lot of us have heard of Xamarin.Essentials, the cross-platform library for accessing native features in your Xamarin.Forms apps, but did you know it often gets new features? This post looks at some of the huge list of features and how to get started.",
+      "EditionId": "286",
+      "Author": "Nigel Ferrissey",
+      "Id": "286-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms - File Browser",
+      "Url": "https://xamarinmonkeys.blogspot.com/2020/11/xamarinforms-file-browser.html",
+      "Description": "Browsing and selecting files is quite a common use case in apps. But did you know there is a Nuget package that makes it much easier to implement in your Xamarin.Forms apps? This post talks you through how to do it including specifying what file types you want to support, useful!",
+      "EditionId": "286",
+      "Author": "Delpin Susai Raj",
+      "Id": "286-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Fabulous: Going Beyond Hello World | Xamarin Blog",
+      "Url": "https://devblogs.microsoft.com/xamarin/fabulous-going-beyond-hello-world/",
+      "Description": "One for us lovers of/curious about F# and the amazing Fabulous library for Xamarin.Forms. This is the next post in a guest series on the blog by Timothé Larivière (maintainer for Fabulous) and is excellent for building upon the basics! [ **https://devblogs.microsoft.com/xamarin/fabulous-going-beyond-hello-world/**](Fabulous: Going Beyond Hello World) by [Timothé Larivière](https://devblogs.microsoft.com/xamarin/author/timothelariviere/)",
+      "EditionId": "286",
+      "Id": "286-5",
+      "Category": "FSHARP"
+    },
+    {
+      "Title": "Merge Conflict: 228: .NET Conf 2020 & Apple M1 Event Recap",
+      "Url": "https://www.mergeconflict.fm/228",
+      "Description": "This last week was crazy! .NET Conf 2020, .NET 5, Visual Studio 16.8, XAML Hot Reload 2.0, Xbox Series S/X launch, Apple M1 Events, and so much more!",
+      "EditionId": "286",
+      "Author": "Merge Conflict",
+      "Id": "286-6",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 27: Staying up to date",
+      "Url": "https://nullpointers.io/27/",
+      "Description": "Staying up to date in our ever changing techworld is no small feat. It may even feel a bit overwhelming at times. In this episode we discuss how we like to stay informed while trying to miss out on purpose. How we do it? Well you will have to tune in to this weeks episode.",
+      "EditionId": "286",
+      "Author": "Null Pointers",
+      "Id": "286-7",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 50: Getting your work to 120%. With James Montemagno",
+      "Url": "https://kerry.lothrop.de/devtalk-50-james-montemagno/",
+      "Description": "On episode 50 of DevTalk, Kerry speaks to James Montemagno about productivity and motivation.James is well known for seeming to get a lot done every day, or crushing it as he calls it, so this is definitely worth a listen!!",
+      "EditionId": "286",
+      "Author": "Kerry Lothrop",
+      "Id": "286-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Podcast Episode 82: iRel8",
+      "Url": "https://www.xamarinpodcast.com/82",
+      "Description": "iRel8 is an amazing app built with Xamarin that helps people during the toughest moments in life. iRel8 facilitates mental wellness using Xamarin - find out the heartfelt story behind this app in this episode of the Xamarin podcast. [**The Xamarin Podcast Episode 82: iRel8**](https://www.xamarinpodcast.com/82)",
+      "EditionId": "286",
+      "Id": "286-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Sharpnado.HorizontalListView 1.8: reveal animations",
+      "Url": "https://www.sharpnado.com/sharpnado-horizontallistview-1-8/",
+      "Description": "A new version of the great HorizontalListView from Sharpnado is out and it includes a couple of breaking changes and new features, this post covers all you need to know!!",
+      "EditionId": "286",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "286-10",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "MFractor 4.4 - Introducing The App Icon Importer",
+      "Url": "https://www.mfractor.com/blogs/news/introducing-the-app-icon-importer",
+      "Description": "This is huge!! MFractor 4.4 adds support for Visual Studio Mac 8.8, fixes some bugs in IntelliSense and adds our latest and greatest feature, the App Icon Importer wizard.",
+      "EditionId": "286",
+      "Author": "Matthew Robbins",
+      "Id": "286-11",
+      "Category": "RELEASES"
+    }
+  ]
+}
