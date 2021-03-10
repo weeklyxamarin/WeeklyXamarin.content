@@ -1,0 +1,350 @@
+{
+  "number": 289,
+  "title": "Issue 289",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/289",
+  "publication_status": "published",
+  "published_at": "2020-12-11T21:04:15+00:00",
+  "updated_at": "2020-12-11T21:04:19+00:00",
+  "categories": [
+    {
+      "code": "lucecarter",
+      "name": "LUCE CARTER",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hey everyone,</p>\n\n<p>Happy Weekend!</p>\n\n<p>Another high quality as always issue this week! Hopefully you are all looking forward to relaxing at the end of the year. Thanks as ever to all our contributors this week from blogs to podcasts to videos. It's always great to see such variety of content!</p>\n\n<p>Have a great weekend whatever you have planned.</p>\n\n<p>Luce 🧡</p>",
+          "description_markdown": "Hey everyone,\r\n\r\nHappy Weekend!\r\n\r\nAnother high quality as always issue this week! Hopefully you are all looking forward to relaxing at the end of the year. Thanks as ever to all our contributors this week from blogs to podcasts to videos. It's always great to see such variety of content!\r\n\r\nHave a great weekend whatever you have planned.\r\n\r\nLuce 🧡\r\n",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "MKNQwgm",
+          "type": "Link",
+          "title": "Microsoft Updates Azure Mobile Apps, Ponders Future ",
+          "url_domain": "visualstudiomagazine.com",
+          "url": "https://visualstudiomagazine.com/articles/2020/12/04/azure-mobile-apps.aspx",
+          "description": "<p>Microsoft recently released a new version of Azure Mobile Apps, which allows developers, including those on Xamarin, to have cloud-based back-ends for data storage, online/offline synch, authentication and more. It also now supports Xamarin.Essentials for authentication, winner!</p>\n\n<p>The team have released a survey to help direct and potentially save the future of this service so its well worth taking a few minutes if you use it with your apps!</p>\n\n<p><a href=\"https://visualstudiomagazine.com/articles/2020/12/04/azure-mobile-apps.aspx\"><strong>Microsoft Updates Azure Mobile Apps, Ponders Future </strong></a></p>",
+          "description_markdown": "Microsoft recently released a new version of Azure Mobile Apps, which allows developers, including those on Xamarin, to have cloud-based back-ends for data storage, online/offline synch, authentication and more. It also now supports Xamarin.Essentials for authentication, winner!\r\n\r\nThe team have released a survey to help direct and potentially save the future of this service so its well worth taking a few minutes if you use it with your apps!\r\n\r\n[**Microsoft Updates Azure Mobile Apps, Ponders Future **](https://visualstudiomagazine.com/articles/2020/12/04/azure-mobile-apps.aspx)",
+          "embedded_links": [
+            {
+              "identifier": "I9Usnau",
+              "title": "**Microsoft Updates Azure Mobile Apps, Ponders Future **",
+              "url_domain": "visualstudiomagazine.com",
+              "url": "https://visualstudiomagazine.com/articles/2020/12/04/azure-mobile-apps.aspx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "pmvLxMA",
+          "type": "Link",
+          "title": "10 Places To Search for Design Inspiration",
+          "url_domain": "uxplanet.org",
+          "url": "https://uxplanet.org/10-places-to-search-for-design-inspiration-75a9be9e47be",
+          "description": "<p>We love pretty UI's in our mobile apps and so finding design inspiration can really help us in making beautiful apps. This list of 10 places you can find some is really useful and includes some classics like Behance and Dribble.</p>\n\n<p><a href=\"https://uxplanet.org/10-places-to-search-for-design-inspiration-75a9be9e47be\"><strong>10 Places To Search for Design Inspiration</strong></a> by <a href=\"https://medium.com/@icmbern\">Inês Bernardino</a></p>",
+          "description_markdown": "We love pretty UI's in our mobile apps and so finding design inspiration can really help us in making beautiful apps. This list of 10 places you can find some is really useful and includes some classics like Behance and Dribble.\r\n\r\n[**10 Places To Search for Design Inspiration**](https://uxplanet.org/10-places-to-search-for-design-inspiration-75a9be9e47be) by [Inês Bernardino](https://medium.com/@icmbern)",
+          "embedded_links": [
+            {
+              "identifier": "QlmZlqE",
+              "title": "**10 Places To Search for Design Inspiration**",
+              "url_domain": "uxplanet.org",
+              "url": "https://uxplanet.org/10-places-to-search-for-design-inspiration-75a9be9e47be"
+            },
+            {
+              "identifier": "Rh1TThG",
+              "title": "Inês Bernardino",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@icmbern"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "gMlXOB0",
+          "type": "Link",
+          "title": "Users can customize iOS App Icons after downloading their Xamarin app",
+          "url_domain": "medium.com",
+          "url": "https://prototypemakers.medium.com/userscustomizeiosappiconsxamarin-9d08b671e4e8",
+          "description": "<p>Ever seen an iOS app where it lets you customise the app icon after install? Well you can make that happen in Xamarin too!</p>\n\n<p><a href=\"https://prototypemakers.medium.com/userscustomizeiosappiconsxamarin-9d08b671e4e8\"><strong>Users can customize iOS App Icons after downloading their Xamarin app</strong></a> by <a href=\"https://www.linkedin.com/in/saamer/\">Saamer Mansoor</a></p>",
+          "description_markdown": "Ever seen an iOS app where it lets you customise the app icon after install? Well you can make that happen in Xamarin too!\r\n\r\n[**Users can customize iOS App Icons after downloading their Xamarin app**](https://prototypemakers.medium.com/userscustomizeiosappiconsxamarin-9d08b671e4e8) by [Saamer Mansoor](https://www.linkedin.com/in/saamer/)",
+          "embedded_links": [
+            {
+              "identifier": "qJughWh",
+              "title": "**Users can customize iOS App Icons after downloading their Xamarin app**",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com/userscustomizeiosappiconsxamarin-9d08b671e4e8"
+            },
+            {
+              "identifier": "3phqao6",
+              "title": "Saamer Mansoor",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/saamer/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "Bn4dpJw",
+          "type": "Link",
+          "title": "Animate A Mic Drop With Xamarin.Forms",
+          "url_domain": "khalidabuhakmeh.com",
+          "url": "https://khalidabuhakmeh.com/animate-a-mic-drop-with-xamarin-dot-forms",
+          "description": "<p>Sometimes we watch amazing talks or read amazing blogs and just think to ourselves 'oooo mic drop!'..so isn't is great to be able to add a super sweet animation into your app that shows just that?!</p>\n\n<p><a href=\"https://khalidabuhakmeh.com/animate-a-mic-drop-with-xamarin-dot-forms\"><strong>Animate A Mic Drop With Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/buhakmeh\">Khalid Abuhakmeh</a></p>",
+          "description_markdown": "Sometimes we watch amazing talks or read amazing blogs and just think to ourselves 'oooo mic drop!'..so isn't is great to be able to add a super sweet animation into your app that shows just that?!\r\n\r\n[**Animate A Mic Drop With Xamarin.Forms**](https://khalidabuhakmeh.com/animate-a-mic-drop-with-xamarin-dot-forms) by [Khalid Abuhakmeh](https://twitter.com/buhakmeh)",
+          "embedded_links": [
+            {
+              "identifier": "FKqssQ4",
+              "title": "**Animate A Mic Drop With Xamarin.Forms**",
+              "url_domain": "khalidabuhakmeh.com",
+              "url": "https://khalidabuhakmeh.com/animate-a-mic-drop-with-xamarin-dot-forms"
+            },
+            {
+              "identifier": "BrUri5d",
+              "title": "Khalid Abuhakmeh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/buhakmeh"
+            }
+          ]
+        },
+        {
+          "identifier": "OvbvDh2",
+          "type": "Link",
+          "title": "Replicating Bill Details UI in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-bill-details-ui-in-xamarin-forms/",
+          "description": "<p>Another great entry in the recreating Dribble UI trend, from Leomaris Reyes. This week, it's a Bill Details UI.  This kind of UI is common for many scenarios so its great to learn how to make it look great too!</p>\n\n<p><a href=\"https://askxammy.com/replicating-bill-details-ui-in-xamarin-forms/\"><strong>Replicating Bill Details UI in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Another great entry in the recreating Dribble UI trend, from Leomaris Reyes. This week, it's a Bill Details UI.  This kind of UI is common for many scenarios so its great to learn how to make it look great too!\r\n\r\n[**Replicating Bill Details UI in Xamarin Forms**](https://askxammy.com/replicating-bill-details-ui-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "XpvhMZq",
+              "title": "**Replicating Bill Details UI in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-bill-details-ui-in-xamarin-forms/"
+            },
+            {
+              "identifier": "oLQxC1Z",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "OysJmjB",
+          "type": "Link",
+          "title": "Meet the RadPopUp Control for Xamarin Forms",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/meet-radpopup-control-xamarin-forms",
+          "description": "<p>Sometimes we have to present certain important information on our application in order to be able to alert the user in a fast, precise, concise way of demanding all their attention, with a goal of a quick reaction and effective understanding of the information.</p>\n\n<p>This information can be presented if the user performs a specific action. Let’s look at an sample scenario!</p>\n\n<p><a href=\"https://www.telerik.com/blogs/meet-radpopup-control-xamarin-forms\"><strong>Meet the RadPopUp Control for Xamarin Forms</strong></a> by <a href=\"https://www.telerik.com/blogs/author/leomaris-reyes\">Leomaris Reyes</a></p>",
+          "description_markdown": "Sometimes we have to present certain important information on our application in order to be able to alert the user in a fast, precise, concise way of demanding all their attention, with a goal of a quick reaction and effective understanding of the information.\r\n\r\nThis information can be presented if the user performs a specific action. Let’s look at an sample scenario!\r\n\r\n[**Meet the RadPopUp Control for Xamarin Forms**](https://www.telerik.com/blogs/meet-radpopup-control-xamarin-forms) by [Leomaris Reyes](https://www.telerik.com/blogs/author/leomaris-reyes)",
+          "embedded_links": [
+            {
+              "identifier": "9cmOEPx",
+              "title": "**Meet the RadPopUp Control for Xamarin Forms**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/meet-radpopup-control-xamarin-forms"
+            },
+            {
+              "identifier": "d6QbpdC",
+              "title": "Leomaris Reyes",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/leomaris-reyes"
+            }
+          ]
+        },
+        {
+          "identifier": "GEELrs",
+          "type": "Link",
+          "title": "Xamarin.Forms.DynamicSize – Xamarin Blog by officialdoniald",
+          "url_domain": "officialdoniald.com",
+          "url": "https://officialdoniald.com/2020/12/11/xamarin-forms-dynamicsize/",
+          "description": "<p>A really exciting package that takes care of resizing your UI depending on the device. So if you are using specific sizes for your components such as pixels, it will dynamically adapt without you having to worry. Wonderful!</p>\n\n<p><a href=\"https://officialdoniald.com/2020/12/11/xamarin-forms-dynamicsize/\"><strong>Xamarin.Forms.DynamicSize – Xamarin Blog by officialdoniald</strong></a> by <a href=\"https://twitter.com/officialdoniald\">Lénárt Bence</a></p>",
+          "description_markdown": "A really exciting package that takes care of resizing your UI depending on the device. So if you are using specific sizes for your components such as pixels, it will dynamically adapt without you having to worry. Wonderful!\r\n\r\n[**Xamarin.Forms.DynamicSize – Xamarin Blog by officialdoniald**](https://officialdoniald.com/2020/12/11/xamarin-forms-dynamicsize/) by [Lénárt Bence](https://twitter.com/officialdoniald)",
+          "embedded_links": [
+            {
+              "identifier": "mjHKwlx",
+              "title": "**Xamarin.Forms.DynamicSize – Xamarin Blog by officialdoniald**",
+              "url_domain": "officialdoniald.com",
+              "url": "https://officialdoniald.com/2020/12/11/xamarin-forms-dynamicsize/"
+            },
+            {
+              "identifier": "mZaqRKx",
+              "title": "Bence960206",
+              "url_domain": "officialdoniald.com",
+              "url": "https://twitter.com/officialdoniald"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "nuget",
+      "name": "NUGET OF THE WEEK",
+      "items": [
+        {
+          "identifier": "yOx5SQr",
+          "type": "Link",
+          "title": "5 Must Install NuGets for New Xamarin Projects",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/essentials-nugets-for-new-xamarin-projects/",
+          "description": "<p>Not 1 but 5!! Xamarin comes with some amazing features out of the box in it's own NuGet packages, but also with the included Xamarin.Essentials package for Forms projects, allowing you to access loads of native features from your shared code. But there are some amazing packages on top of that which can be great extras, I certainly install a few of these from James' list everytime I hit File -> New!</p>\n\n<p><a href=\"https://montemagno.com/essentials-nugets-for-new-xamarin-projects/\"><strong>5 Must Install NuGets for New Xamarin Projects</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Not 1 but 5!! Xamarin comes with some amazing features out of the box in it's own NuGet packages, but also with the included Xamarin.Essentials package for Forms projects, allowing you to access loads of native features from your shared code. But there are some amazing packages on top of that which can be great extras, I certainly install a few of these from James' list everytime I hit File -> New!\r\n\r\n[**5 Must Install NuGets for New Xamarin Projects**](https://montemagno.com/essentials-nugets-for-new-xamarin-projects/) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "EhsXVjg",
+              "title": "**5 Must Install NuGets for New Xamarin Projects**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/essentials-nugets-for-new-xamarin-projects/"
+            },
+            {
+              "identifier": "XKi92d0",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "NdNkoj0",
+          "type": "Link",
+          "title": "Null Pointers 30: Mobile Payment",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/30/",
+          "description": "<p>In this episode, we discuss mobile payment. Since COVID-19 has made contactless payment the preferred standard, so has mobile payment been used by more and more people.</p>\n\n<p><a href=\"https://nullpointers.io/30/\"><strong>Null Pointers 30: Mobile Payment</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "In this episode, we discuss mobile payment. Since COVID-19 has made contactless payment the preferred standard, so has mobile payment been used by more and more people.\r\n\r\n[**Null Pointers 30: Mobile Payment**](https://nullpointers.io/30/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "6QKrvW",
+              "title": "**Null Pointers 30: Mobile Payment**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/30/"
+            },
+            {
+              "identifier": "mvul5sA",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "KnXK1qR",
+          "type": "Link",
+          "title": "Zoom, Point, Outline, & Magnify The Screen During Presentations & Coding on Windows",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=1hMr1mYIFCA",
+          "description": "<p>Although not Xamarin specific, this video from James is super useful for anyone making presentations or doing demo's on Windows.  I know a lot of the community, including a lot of our wonderful contributors, are also public speakers so this video is definitely handy!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=1hMr1mYIFCA\"><strong>Zoom, Point, Outline, &amp; Magnify The Screen During Presentations &amp; Coding on Windows</strong></a> by <a href=\"https://twitter.com/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Although not Xamarin specific, this video from James is super useful for anyone making presentations or doing demo's on Windows.  I know a lot of the community, including a lot of our wonderful contributors, are also public speakers so this video is definitely handy!\r\n\r\n[**Zoom, Point, Outline, & Magnify The Screen During Presentations & Coding on Windows**](https://www.youtube.com/watch?v=1hMr1mYIFCA) by [James Montemagno](https://twitter.com/JamesMontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "2WP25o7",
+              "title": "**Zoom, Point, Outline, & Magnify The Screen During Presentations & Coding on Windows**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=1hMr1mYIFCA"
+            },
+            {
+              "identifier": "obXiVpz",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "rCqubmh",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 83: Wrapping up 2020 by looking ahead to 2021!",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/83",
+          "description": "<p>It's the end of the year and in December's podcast James and Matt wrap up 2020 by talking about a cool new app that lets you draw 360 degree sketches with the Surface Duo - made with Xamarin.Forms! Azure Mobile Apps v4.2 is official, there's a brand new Microsoft Q&amp;A site. And you don't want to miss a sneak preview of what's to come with .NET MAUI!</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/83\"><strong>https://www.xamarinpodcast.com/83</strong></a></p>",
+          "description_markdown": "It's the end of the year and in December's podcast James and Matt wrap up 2020 by talking about a cool new app that lets you draw 360 degree sketches with the Surface Duo - made with Xamarin.Forms! Azure Mobile Apps v4.2 is official, there's a brand new Microsoft Q&A site. And you don't want to miss a sneak preview of what's to come with .NET MAUI!\r\n\r\n[**https://www.xamarinpodcast.com/83**](https://www.xamarinpodcast.com/83)",
+          "embedded_links": [
+            {
+              "identifier": "eHQiibd",
+              "title": "**https://www.xamarinpodcast.com/83**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/83"
+            }
+          ]
+        },
+        {
+          "identifier": "GkYltbO",
+          "type": "Link",
+          "title": "Merge Conflict: 231: No M1 Talk We Promise... 🤞🤔🤫",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/231",
+          "description": "<p>No, for real, we are completely done with the M1. No M1 talk here at all!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/231\"><strong>Merge Conflict: 231: No M1 Talk We Promise...</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "No, for real, we are completely done with the M1. No M1 talk here at all!\r\n\r\n[**Merge Conflict: 231: No M1 Talk We Promise...**](https://www.mergeconflict.fm/231) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "dVZfvdd",
+              "title": "**Merge Conflict: 231: No M1 Talk We Promise...**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/231"
+            },
+            {
+              "identifier": "rVVqjyI",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        },
+        {
+          "identifier": "4oxa8ym",
+          "type": "Link",
+          "title": "Let Users Pick The Icon for Your iOS App with Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=CJSW6LnpwBc",
+          "description": "<p>With the AlternateIcons APIs in iOS you can let your users change the icon of your app after it is downloaded from the store 🤯. In this video we will learn how to enable this functionality in a Xamarin.Forms application by leveraging the DependencyService and implementing just a few lines of iOS specific code. Such exciting, much wow!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=CJSW6LnpwBc\"><strong>Let Users Pick The Icon for Your iOS App with Xamarin.Forms</strong></a> by <a href=\"https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw\">Gerald Versluis</a></p>",
+          "description_markdown": "With the AlternateIcons APIs in iOS you can let your users change the icon of your app after it is downloaded from the store 🤯. In this video we will learn how to enable this functionality in a Xamarin.Forms application by leveraging the DependencyService and implementing just a few lines of iOS specific code. Such exciting, much wow!\r\n\r\n[**Let Users Pick The Icon for Your iOS App with Xamarin.Forms**](https://www.youtube.com/watch?v=CJSW6LnpwBc) by [Gerald Versluis](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw)",
+          "embedded_links": [
+            {
+              "identifier": "Ni3E1kJ",
+              "title": "**Let Users Pick The Icon for Your iOS App with Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=CJSW6LnpwBc"
+            },
+            {
+              "identifier": "rQFqygy",
+              "title": "Gerald Versluis",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

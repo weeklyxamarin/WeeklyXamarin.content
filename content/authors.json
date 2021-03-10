@@ -1077,6 +1077,16 @@
       ]
     },
     {
+      "Name": "Inês Bernardino",
+      "Id": "https://medium.com/@icmbern",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@icmbern"
+        }
+      ]
+    },
+    {
       "Name": "Ione Souza Junior",
       "TwitterHandle": "ionixjunior",
       "GitHubHandle": "ionixjunior",

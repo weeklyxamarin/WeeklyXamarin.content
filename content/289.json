@@ -1,0 +1,126 @@
+{
+  "Id": "289",
+  "Name": "Issue 289",
+  "UpdatedTimeStamp": "2020-12-11T21:04:19Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hey everyone, Happy Weekend! Another high quality as always issue this week! Hopefully you are all looking forward to relaxing at the end of the year. Thanks as ever to all our contributors this week from blogs to podcasts to videos. It's always great to see such variety of content! Have a great weekend whatever you have planned. Luce 🧡",
+  "PublishDate": "2020-12-11T21:04:15Z",
+  "Curators": "Luce Carter",
+  "Articles": [
+    {
+      "Title": "Microsoft Updates Azure Mobile Apps, Ponders Future ",
+      "Url": "https://visualstudiomagazine.com/articles/2020/12/04/azure-mobile-apps.aspx",
+      "Description": "Microsoft recently released a new version of Azure Mobile Apps, which allows developers, including those on Xamarin, to have cloud-based back-ends for data storage, online/offline synch, authentication and more. It also now supports Xamarin.Essentials for authentication, winner! The team have released a survey to help direct and potentially save the future of this service so its well worth taking a few minutes if you use it with your apps! [**Microsoft Updates Azure Mobile Apps, Ponders Future **](https://visualstudiomagazine.com/articles/2020/12/04/azure-mobile-apps.aspx)",
+      "EditionId": "289",
+      "Id": "289-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "10 Places To Search for Design Inspiration",
+      "Url": "https://uxplanet.org/10-places-to-search-for-design-inspiration-75a9be9e47be",
+      "Description": "We love pretty UI's in our mobile apps and so finding design inspiration can really help us in making beautiful apps. This list of 10 places you can find some is really useful and includes some classics like Behance and Dribble.",
+      "EditionId": "289",
+      "Author": "Inês Bernardino",
+      "Id": "289-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Users can customize iOS App Icons after downloading their Xamarin app",
+      "Url": "https://prototypemakers.medium.com/userscustomizeiosappiconsxamarin-9d08b671e4e8",
+      "Description": "Ever seen an iOS app where it lets you customise the app icon after install? Well you can make that happen in Xamarin too!",
+      "EditionId": "289",
+      "Author": "Saamer Mansoor",
+      "Id": "289-3",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Animate A Mic Drop With Xamarin.Forms",
+      "Url": "https://khalidabuhakmeh.com/animate-a-mic-drop-with-xamarin-dot-forms",
+      "Description": "Sometimes we watch amazing talks or read amazing blogs and just think to ourselves 'oooo mic drop!'..so isn't is great to be able to add a super sweet animation into your app that shows just that?!",
+      "EditionId": "289",
+      "Author": "Khalid Abuhakmeh",
+      "Id": "289-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Replicating Bill Details UI in Xamarin Forms",
+      "Url": "https://askxammy.com/replicating-bill-details-ui-in-xamarin-forms/",
+      "Description": "Another great entry in the recreating Dribble UI trend, from Leomaris Reyes. This week, it's a Bill Details UI.  This kind of UI is common for many scenarios so its great to learn how to make it look great too!",
+      "EditionId": "289",
+      "Author": "Leomaris Reyes",
+      "Id": "289-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Meet the RadPopUp Control for Xamarin Forms",
+      "Url": "https://www.telerik.com/blogs/meet-radpopup-control-xamarin-forms",
+      "Description": "Sometimes we have to present certain important information on our application in order to be able to alert the user in a fast, precise, concise way of demanding all their attention, with a goal of a quick reaction and effective understanding of the information. This information can be presented if the user performs a specific action. Let’s look at an sample scenario!",
+      "EditionId": "289",
+      "Author": "Leomaris Reyes",
+      "Id": "289-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms.DynamicSize – Xamarin Blog by officialdoniald",
+      "Url": "https://officialdoniald.com/2020/12/11/xamarin-forms-dynamicsize/",
+      "Description": "A really exciting package that takes care of resizing your UI depending on the device. So if you are using specific sizes for your components such as pixels, it will dynamically adapt without you having to worry. Wonderful!",
+      "EditionId": "289",
+      "Author": "Lénárt Bence",
+      "Id": "289-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "5 Must Install NuGets for New Xamarin Projects",
+      "Url": "https://montemagno.com/essentials-nugets-for-new-xamarin-projects/",
+      "Description": "Not 1 but 5!! Xamarin comes with some amazing features out of the box in it's own NuGet packages, but also with the included Xamarin.Essentials package for Forms projects, allowing you to access loads of native features from your shared code. But there are some amazing packages on top of that which can be great extras, I certainly install a few of these from James' list everytime I hit File -> New!",
+      "EditionId": "289",
+      "Author": "James Montemagno",
+      "Id": "289-8",
+      "Category": "NUGET OF THE WEEK"
+    },
+    {
+      "Title": "Null Pointers 30: Mobile Payment",
+      "Url": "https://nullpointers.io/30/",
+      "Description": "In this episode, we discuss mobile payment. Since COVID-19 has made contactless payment the preferred standard, so has mobile payment been used by more and more people.",
+      "EditionId": "289",
+      "Author": "Null Pointers",
+      "Id": "289-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Zoom, Point, Outline, & Magnify The Screen During Presentations & Coding on Windows",
+      "Url": "https://www.youtube.com/watch?v=1hMr1mYIFCA",
+      "Description": "Although not Xamarin specific, this video from James is super useful for anyone making presentations or doing demo's on Windows.  I know a lot of the community, including a lot of our wonderful contributors, are also public speakers so this video is definitely handy!",
+      "EditionId": "289",
+      "Author": "James Montemagno",
+      "Id": "289-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Podcast Episode 83: Wrapping up 2020 by looking ahead to 2021!",
+      "Url": "https://www.xamarinpodcast.com/83",
+      "Description": "It's the end of the year and in December's podcast James and Matt wrap up 2020 by talking about a cool new app that lets you draw 360 degree sketches with the Surface Duo - made with Xamarin.Forms! Azure Mobile Apps v4.2 is official, there's a brand new Microsoft Q&A site. And you don't want to miss a sneak preview of what's to come with .NET MAUI! [**https://www.xamarinpodcast.com/83**](https://www.xamarinpodcast.com/83)",
+      "EditionId": "289",
+      "Id": "289-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 231: No M1 Talk We Promise... 🤞🤔🤫",
+      "Url": "https://www.mergeconflict.fm/231",
+      "Description": "No, for real, we are completely done with the M1. No M1 talk here at all!",
+      "EditionId": "289",
+      "Author": "Merge Conflict",
+      "Id": "289-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Let Users Pick The Icon for Your iOS App with Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=CJSW6LnpwBc",
+      "Description": "With the AlternateIcons APIs in iOS you can let your users change the icon of your app after it is downloaded from the store 🤯. In this video we will learn how to enable this functionality in a Xamarin.Forms application by leveraging the DependencyService and implementing just a few lines of iOS specific code. Such exciting, much wow!",
+      "EditionId": "289",
+      "Author": "Gerald Versluis",
+      "Id": "289-13",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
