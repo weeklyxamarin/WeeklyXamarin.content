@@ -38,6 +38,16 @@
       ]
     },
     {
+      "Name": "Adrian Hall",
+      "Id": "https://devblogs.microsoft.com/xamarin/author/adhal/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/xamarin/author/adhal/"
+        }
+      ]
+    },
+    {
       "Name": "Agnès Zitte",
       "Id": "https://devblogs.microsoft.com/surface-duo/author/agneszittenventivecom/",
       "Aliases": [
@@ -354,6 +364,16 @@
       "Website": "https://www.basdecort.com"
     },
     {
+      "Name": "Ben Weiss",
+      "Id": "https://twitter.com/keyboardsurfer",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/keyboardsurfer"
+        }
+      ]
+    },
+    {
       "Name": "Beth Massi",
       "Id": "https://twitter.com/bethmassi",
       "Aliases": [
@@ -378,6 +398,12 @@
       "TwitterHandle": "filipoff",
       "GitHubHandle": "filipoff2",
       "Id": "https://twitter.com/filipoff",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://boguslawblonski.medium.com/"
+        }
+      ],
       "Website": "https://medium.com/@boguslawblonski"
     },
     {
@@ -1823,6 +1849,16 @@
       "Website": "https://www.mfractor.com/"
     },
     {
+      "Name": "Michael Dimoudis",
+      "Id": "https://michaeldimoudis.medium.com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://michaeldimoudis.medium.com/"
+        }
+      ]
+    },
+    {
       "Name": "Michael Flarup",
       "Id": "https://twitter.com/flarup/",
       "Aliases": [
@@ -2073,6 +2109,16 @@
       "Website": "https://blog.pieeatingninjas.be/"
     },
     {
+      "Name": "Pratik Nadagouda",
+      "Id": "https://devblogs.microsoft.com/visualstudio/author/prnadagomicrosoft-com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/visualstudio/author/prnadagomicrosoft-com/"
+        }
+      ]
+    },
+    {
       "Name": "Ram Shandilya",
       "Id": "https://twitter.com/ramshandilya",
       "Aliases": [
@@ -2153,6 +2199,16 @@
       ]
     },
     {
+      "Name": "Rick van Dijk",
+      "Id": "https://twitter.com/rickavdijk",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/rickavdijk"
+        }
+      ]
+    },
+    {
       "Name": "Robin Schroeder",
       "TwitterHandle": "RTSchroeder",
       "GitHubHandle": "robintschroeder",
@@ -2215,6 +2271,10 @@
         {
           "Type": "blog",
           "Name": "https://medium.com/@prototypemakers"
+        },
+        {
+          "Type": "blog",
+          "Name": "https://prototypemakers.medium.com/"
         },
         {
           "Type": "blog",

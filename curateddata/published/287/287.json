@@ -1,0 +1,489 @@
+{
+  "number": 287,
+  "title": "Issue 287",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/287",
+  "publication_status": "published",
+  "published_at": "2020-11-27T13:05:23+00:00",
+  "updated_at": "2020-11-27T13:05:26+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday Everyone, and a happy turkey day to those in the US.</p>\n\n<p>So many great resources in this weeks edition, including adding Widgets to your Xamarin.Forms apps, and a bunch of great videos to watch.</p>\n\n<p>Have a great weekend</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Friday Everyone, and a happy turkey day to those in the US. \r\n\r\nSo many great resources in this weeks edition, including adding Widgets to your Xamarin.Forms apps, and a bunch of great videos to watch. \r\n\r\nHave a great weekend\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "businessandmarketing",
+      "name": "BUSINESS & MARKETING",
+      "items": [
+        {
+          "identifier": "UXELAjH",
+          "type": "Link",
+          "title": "Huawei Store",
+          "url_domain": "medium.com",
+          "url": "https://boguslawblonski.medium.com/china-war-with-google-moving-to-huawei-69f745ca67a1",
+          "description": "<p>Google services are not available on Huawei. What can you do if you need to support Huawei devices and the Huawei Store</p>\n\n<p><a href=\"https://boguslawblonski.medium.com/china-war-with-google-moving-to-huawei-69f745ca67a1\"><strong>China war with Google, moving to Huawei</strong></a> by <a href=\"https://boguslawblonski.medium.com\">Bogusław Błoński</a></p>",
+          "description_markdown": "Google services are not available on Huawei. What can you do if you need to support Huawei devices and the Huawei Store\r\n\r\n[**China war with Google, moving to Huawei**](https://boguslawblonski.medium.com/china-war-with-google-moving-to-huawei-69f745ca67a1) by [Bogusław Błoński](https://boguslawblonski.medium.com)",
+          "embedded_links": [
+            {
+              "identifier": "BlWLmFE",
+              "title": "**China war with Google, moving to Huawei**",
+              "url_domain": "medium.com",
+              "url": "https://boguslawblonski.medium.com/china-war-with-google-moving-to-huawei-69f745ca67a1"
+            },
+            {
+              "identifier": "40KlmCt",
+              "title": "Bogusław Błoński",
+              "url_domain": "medium.com",
+              "url": "https://boguslawblonski.medium.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "CybM5f8",
+          "type": "Link",
+          "title": "Become an Android App Bundle expert",
+          "url_domain": "googleblog.com",
+          "url": "https://android-developers.googleblog.com/2020/11/mad-skills-become-android-app-bundle.html",
+          "description": "<p>All the resources you need to understand Android App Bundles. Reminder: App bundles will be mandatory for new apps from August 2021.</p>\n\n<p><a href=\"https://android-developers.googleblog.com/2020/11/mad-skills-become-android-app-bundle.html\"><strong>MAD Skills — Become an Android App Bundle expert</strong></a> by <a href=\"https://twitter.com/keyboardsurfer\">Ben Weiss</a></p>",
+          "description_markdown": "All the resources you need to understand Android App Bundles. Reminder: App bundles will be mandatory for new apps from August 2021.\r\n\r\n[**MAD Skills — Become an Android App Bundle expert**](https://android-developers.googleblog.com/2020/11/mad-skills-become-android-app-bundle.html) by [Ben Weiss](https://twitter.com/keyboardsurfer)",
+          "embedded_links": [
+            {
+              "identifier": "XLs9TdW",
+              "title": "**MAD Skills — Become an Android App Bundle expert**",
+              "url_domain": "googleblog.com",
+              "url": "https://android-developers.googleblog.com/2020/11/mad-skills-become-android-app-bundle.html"
+            },
+            {
+              "identifier": "Tvxaa9H",
+              "title": "Ben Weiss",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/keyboardsurfer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "va11K3B",
+          "type": "Link",
+          "title": "Distance-based background location updates on iOS",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2020/11/26/background-distance-based-location-updates-on-ios/",
+          "description": "<p>How to get distance-based location updates by using iOS region monitoring.</p>\n\n<p><a href=\"https://www.xamboy.com/2020/11/26/background-distance-based-location-updates-on-ios/\"><strong>Distance-based background location updates on iOS</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "How to get distance-based location updates by using iOS region monitoring.\r\n\r\n[**Distance-based background location updates on iOS**](https://www.xamboy.com/2020/11/26/background-distance-based-location-updates-on-ios/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "qV5l2T2",
+              "title": "**Distance-based background location updates on iOS**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2020/11/26/background-distance-based-location-updates-on-ios/"
+            },
+            {
+              "identifier": "BBLGKcp",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "mac",
+      "name": "MAC",
+      "items": [
+        {
+          "identifier": "cemkkP0",
+          "type": "Link",
+          "title": "Can your app be installed on the Apple Silicon Macs",
+          "url_domain": "medium.com",
+          "url": "https://prototypemakers.medium.com/doyouriosappsinstallonthenewmacs-18e5248cb3b9",
+          "description": "<p>Apple announced that the new Mac computers with the ARM 64 processor will be able to install compatible iOS &amp; iPad apps. What does that mean, and how can you tell if your app is compatible?</p>\n\n<p><a href=\"https://prototypemakers.medium.com/doyouriosappsinstallonthenewmacs-18e5248cb3b9\"><strong>Trick to see if your iOS app can be installed on the Apple Silicon Macs</strong></a> by <a href=\"https://prototypemakers.medium.com\">The First Prototype</a></p>",
+          "description_markdown": "Apple announced that the new Mac computers with the ARM 64 processor will be able to install compatible iOS & iPad apps. What does that mean, and how can you tell if your app is compatible?\r\n\r\n[**Trick to see if your iOS app can be installed on the Apple Silicon Macs**](https://prototypemakers.medium.com/doyouriosappsinstallonthenewmacs-18e5248cb3b9) by [The First Prototype](https://prototypemakers.medium.com)",
+          "embedded_links": [
+            {
+              "identifier": "DVyRiTF",
+              "title": "**Trick to see if your iOS app can be installed on the Apple Silicon Macs**",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com/doyouriosappsinstallonthenewmacs-18e5248cb3b9"
+            },
+            {
+              "identifier": "YxKWsIc",
+              "title": "The First Prototype",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "L9MaSw6",
+          "type": "Link",
+          "title": "iOS 14 Widgets with Xamarin Forms",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@michaeldimoudis/ios-14-widgets-with-xamarin-forms-e186d24a0638",
+          "description": "<p>As you probably know, Apple’s latest iOS 14 and iPadOS 14 introduced the ability for developers to add widgets to their home screens. This is great news if your app can benefit from the addition of widgets.</p>\n\n<p><a href=\"https://medium.com/@michaeldimoudis/ios-14-widgets-with-xamarin-forms-e186d24a0638\"><strong>iOS 14 Widgets with Xamarin Forms</strong></a> by <a href=\"https://michaeldimoudis.medium.com\">Michael Dimoudis</a></p>",
+          "description_markdown": "As you probably know, Apple’s latest iOS 14 and iPadOS 14 introduced the ability for developers to add widgets to their home screens. This is great news if your app can benefit from the addition of widgets.\r\n\r\n[**iOS 14 Widgets with Xamarin Forms**](https://medium.com/@michaeldimoudis/ios-14-widgets-with-xamarin-forms-e186d24a0638) by [Michael Dimoudis](https://michaeldimoudis.medium.com)",
+          "embedded_links": [
+            {
+              "identifier": "4ZiZxRJ",
+              "title": "**iOS 14 Widgets with Xamarin Forms**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@michaeldimoudis/ios-14-widgets-with-xamarin-forms-e186d24a0638"
+            },
+            {
+              "identifier": "h8ahK9G",
+              "title": "Michael Dimoudis",
+              "url_domain": "medium.com",
+              "url": "https://michaeldimoudis.medium.com"
+            }
+          ]
+        },
+        {
+          "identifier": "6qy65jU",
+          "type": "Link",
+          "title": "Forcing single SwipeViews",
+          "url_domain": "baseflow.com",
+          "url": "https://baseflow.com/blogs/singleswipeview-collection-xamarin",
+          "description": "<p>Rick had a need to a collection of SwipeViews on a page, where it is only possible to have a single SwipeView swiped open. Here's how he achieved it.</p>\n\n<p><a href=\"https://baseflow.com/blogs/singleswipeview-collection-xamarin\"><strong>An innovation company</strong></a> by <a href=\"https://twitter.com/rickavdijk\">Rick van Dijk</a></p>",
+          "description_markdown": "Rick had a need to a collection of SwipeViews on a page, where it is only possible to have a single SwipeView swiped open. Here's how he achieved it.\r\n\r\n[**An innovation company**](https://baseflow.com/blogs/singleswipeview-collection-xamarin) by [Rick van Dijk](https://twitter.com/rickavdijk)",
+          "embedded_links": [
+            {
+              "identifier": "8UFxkgS",
+              "title": "**An innovation company**",
+              "url_domain": "baseflow.com",
+              "url": "https://baseflow.com/blogs/singleswipeview-collection-xamarin"
+            },
+            {
+              "identifier": "T524m4Y",
+              "title": "Rick van Dijk",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rickavdijk"
+            }
+          ]
+        },
+        {
+          "identifier": "ZIhS36H",
+          "type": "Link",
+          "title": "Exploring What's New in Xamarin Essentials 1.6",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/exploring-whats-new-xamarin-essentials-1-6",
+          "description": "<p>Take a look with me at some of the exciting features previewed for Xamarin Essentials 1.6, including integrated APIs and official macOS support!</p>\n\n<p><a href=\"https://www.telerik.com/blogs/exploring-whats-new-xamarin-essentials-1-6\"><strong>Exploring What's New in Xamarin Essentials 1.6</strong></a> by <a href=\"https://www.telerik.com/blogs/author/leomaris-reyes\">Leomaris Reyes</a></p>",
+          "description_markdown": "Take a look with me at some of the exciting features previewed for Xamarin Essentials 1.6, including integrated APIs and official macOS support!\r\n\r\n[**Exploring What's New in Xamarin Essentials 1.6**](https://www.telerik.com/blogs/exploring-whats-new-xamarin-essentials-1-6) by [Leomaris Reyes](https://www.telerik.com/blogs/author/leomaris-reyes)",
+          "embedded_links": [
+            {
+              "identifier": "TqDsb59",
+              "title": "**Exploring What's New in Xamarin Essentials 1.6**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/exploring-whats-new-xamarin-essentials-1-6"
+            },
+            {
+              "identifier": "KiUhFbc",
+              "title": "Leomaris Reyes",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/leomaris-reyes"
+            }
+          ]
+        },
+        {
+          "identifier": "qKG0GyQ",
+          "type": "Link",
+          "title": "Creating a Switch Control in Xamarin.Forms Using Shapes and Paths",
+          "url_domain": "somostechies.com",
+          "url": "https://somostechies.com/xf-switch-control/",
+          "description": "<p>In this post Jesus Angulo shows how to create a Switch control using Shapes and Paths in Xamarin.Forms.</p>\n\n<p><strong>Note: Post is in Spanish</strong></p>\n\n<p><a href=\"https://somostechies.com/xf-switch-control/\"><strong>Xamarin UI: Creando un control Switch en Xamarin.Forms usando Shapes y Paths</strong></a> by <a href=\"https://somostechies.com/author/jesus/\">Jesus Angulo</a></p>",
+          "description_markdown": "In this post Jesus Angulo shows how to create a Switch control using Shapes and Paths in Xamarin.Forms.\r\n\r\n**Note: Post is in Spanish**\r\n\r\n[**Xamarin UI: Creando un control Switch en Xamarin.Forms usando Shapes y Paths**](https://somostechies.com/xf-switch-control/) by [Jesus Angulo](https://somostechies.com/author/jesus/)",
+          "embedded_links": [
+            {
+              "identifier": "u9JMIIe",
+              "title": "**Xamarin UI: Creando un control Switch en Xamarin.Forms usando Shapes y Paths**",
+              "url_domain": "somostechies.com",
+              "url": "https://somostechies.com/xf-switch-control/"
+            },
+            {
+              "identifier": "iCSmmAi",
+              "title": "Jesus Angulo",
+              "url_domain": "somostechies.com",
+              "url": "https://somostechies.com/author/jesus/"
+            }
+          ]
+        },
+        {
+          "identifier": "UQ06dWZ",
+          "type": "Link",
+          "title": "Simplifying Bindable Properties with Type Converters in Xamarin Forms",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/simplifying-bindable-properties-with-type-converters-in-xamarin-forms/",
+          "description": "<p>A Type Converter allows you to convert values from a type to a different type, this is helpful when creating bindable properties in Xamarin Forms because it saves you a lot of time and validation code. In this article, Charlin shows you a few use cases where you can use it.</p>\n\n<p><a href=\"https://xamgirl.com/simplifying-bindable-properties-with-type-converters-in-xamarin-forms/\"><strong>Simplifying Bindable Properties with Type Converters in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "A Type Converter allows you to convert values from a type to a different type, this is helpful when creating bindable properties in Xamarin Forms because it saves you a lot of time and validation code. In this article, Charlin shows you a few use cases where you can use it.\r\n\r\n[**Simplifying Bindable Properties with Type Converters in Xamarin Forms**](https://xamgirl.com/simplifying-bindable-properties-with-type-converters-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003)",
+          "embedded_links": [
+            {
+              "identifier": "PeJNaxh",
+              "title": "**Simplifying Bindable Properties with Type Converters in Xamarin Forms**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/simplifying-bindable-properties-with-type-converters-in-xamarin-forms/"
+            },
+            {
+              "identifier": "UvBRvtZ",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "security",
+      "name": "SECURITY",
+      "items": [
+        {
+          "identifier": "xQs0nmq",
+          "type": "Link",
+          "title": "Reverse engineering published Xamarin Forms apps.",
+          "url_domain": "talkwithangel.com",
+          "url": "http://talkwithangel.com/dont-put-sensitive-data-in-the-client-side-reverse-engineering-published-xamarin-forms-apps/",
+          "description": "<p>You should always be aware that storing secrets in your client side is a dangerous thing. In this post Angel Garcia shows how easy it is to crack open an App.  Most importantly, he covers some guidelines you should follow to protect your secrets.</p>\n\n<p><a href=\"http://talkwithangel.com/dont-put-sensitive-data-in-the-client-side-reverse-engineering-published-xamarin-forms-apps/\"><strong>Don’t put sensitive data in the client side: Reverse engineering published Xamarin Forms apps.</strong></a> by <a href=\"http://talkwithangel.com/author/angelrenegarcia13/\">Angel Garcia</a></p>",
+          "description_markdown": "You should always be aware that storing secrets in your client side is a dangerous thing. In this post Angel Garcia shows how easy it is to crack open an App.  Most importantly, he covers some guidelines you should follow to protect your secrets.\r\n\r\n[**Don’t put sensitive data in the client side: Reverse engineering published Xamarin Forms apps.**](http://talkwithangel.com/dont-put-sensitive-data-in-the-client-side-reverse-engineering-published-xamarin-forms-apps/) by [Angel Garcia](http://talkwithangel.com/author/angelrenegarcia13/)",
+          "embedded_links": [
+            {
+              "identifier": "kjS0Z0Z",
+              "title": "**Don’t put sensitive data in the client side: Reverse engineering published Xamarin Forms apps.**",
+              "url_domain": "talkwithangel.com",
+              "url": "http://talkwithangel.com/dont-put-sensitive-data-in-the-client-side-reverse-engineering-published-xamarin-forms-apps/"
+            },
+            {
+              "identifier": "BdbN6ie",
+              "title": "Angel Garcia",
+              "url_domain": "talkwithangel.com",
+              "url": "http://talkwithangel.com/author/angelrenegarcia13/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "9OJlCDs",
+          "type": "Link",
+          "title": "Dear Gerald...",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=A2sXj9S5FXQ",
+          "description": "<p>Gerald answers some questions about Xamarin Forms, .NET MAUI, MVU, MVVM, Xamarin Community Toolkit and his t-shirt.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=A2sXj9S5FXQ\"><strong>You Comment, I Answer: Xamarin.Forms 5 and .NET MAUI</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Gerald answers some questions about Xamarin Forms, .NET MAUI, MVU, MVVM, Xamarin Community Toolkit and his t-shirt.\r\n\r\n[**You Comment, I Answer: Xamarin.Forms 5 and .NET MAUI**](https://www.youtube.com/watch?v=A2sXj9S5FXQ) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "eBowXtQ",
+              "title": "**You Comment, I Answer: Xamarin.Forms 5 and .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=A2sXj9S5FXQ"
+            },
+            {
+              "identifier": "5zlPUAm",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "1zM9r5p",
+          "type": "Link",
+          "title": "Smaller, Faster, Better Apps",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=7kVeC1_14Ag",
+          "description": "<p>James is continuing his series of building your very first Xamarin apps. In this video he talks about properly configuring and optimizing your Xamarin projects.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=7kVeC1_14Ag\"><strong>Configuring &amp; Optimizing Xamarin Projects - Smaller, Faster, Better Apps</strong></a> by <a href=\"https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A\">James Montemagno</a></p>",
+          "description_markdown": "James is continuing his series of building your very first Xamarin apps. In this video he talks about properly configuring and optimizing your Xamarin projects. \r\n\r\n[**Configuring & Optimizing Xamarin Projects - Smaller, Faster, Better Apps**](https://www.youtube.com/watch?v=7kVeC1_14Ag) by [James Montemagno](https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A)",
+          "embedded_links": [
+            {
+              "identifier": "iFqO075",
+              "title": "**Configuring & Optimizing Xamarin Projects - Smaller, Faster, Better Apps**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=7kVeC1_14Ag"
+            },
+            {
+              "identifier": "QYhgRxN",
+              "title": "James Montemagno",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A"
+            }
+          ]
+        },
+        {
+          "identifier": "zsZj8Tm",
+          "type": "Link",
+          "title": "Restaurant App in Xamarin Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=6gb_iRj_BYU",
+          "description": "<p>Making a beautiful Restaurant app in Xamarin Forms shouldn't be difficult and thanks to Xamarin.Forms Shapes class and CarouselView, this is made possible.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=6gb_iRj_BYU\"><strong>Beautiful Restaurant App in Xamarin Forms | Mobile App Development</strong></a> by <a href=\"https://www.youtube.com/channel/UCVwwehJC74qBhMhwFWJkwEQ\">DevCrux Technologies</a></p>",
+          "description_markdown": "Making a beautiful Restaurant app in Xamarin Forms shouldn't be difficult and thanks to Xamarin.Forms Shapes class and CarouselView, this is made possible.\r\n\r\n[**Beautiful Restaurant App in Xamarin Forms | Mobile App Development**](https://www.youtube.com/watch?v=6gb_iRj_BYU) by [DevCrux Technologies](https://www.youtube.com/channel/UCVwwehJC74qBhMhwFWJkwEQ)",
+          "embedded_links": [
+            {
+              "identifier": "9cKUOPY",
+              "title": "**Beautiful Restaurant App in Xamarin Forms | Mobile App Development**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=6gb_iRj_BYU"
+            },
+            {
+              "identifier": "PqaCJ5Q",
+              "title": "DevCrux Technologies",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCVwwehJC74qBhMhwFWJkwEQ"
+            }
+          ]
+        },
+        {
+          "identifier": "HUNEh7M",
+          "type": "Link",
+          "title": "Toronto Mobile Devs Meetup - Microsoft Identity for Mobile Devs",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=VHT0elBb-5o",
+          "description": "<p>If you ever had to deal with identity within your solutions then this is the session for you. Join Christos to find out how to implement authentication and authorization for your apps using the Microsoft Identity platform.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=VHT0elBb-5o\"><strong>TO Mobile Devs Meetup  - 2020-11-17 - Microsoft Identity for Mobile Devs</strong></a> by <a href=\"https://www.youtube.com/channel/UCASHUenPcHRI0Aabp2QAl6w\">Toronto Mobile Developers</a></p>",
+          "description_markdown": "If you ever had to deal with identity within your solutions then this is the session for you. Join Christos to find out how to implement authentication and authorization for your apps using the Microsoft Identity platform. \r\n\r\n[**TO Mobile Devs Meetup  - 2020-11-17 - Microsoft Identity for Mobile Devs**](https://www.youtube.com/watch?v=VHT0elBb-5o) by [Toronto Mobile Developers](https://www.youtube.com/channel/UCASHUenPcHRI0Aabp2QAl6w)",
+          "embedded_links": [
+            {
+              "identifier": "JubrQxA",
+              "title": "**TO Mobile Devs Meetup  - 2020-11-17 - Microsoft Identity for Mobile Devs**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=VHT0elBb-5o"
+            },
+            {
+              "identifier": "XTRo8xG",
+              "title": "Toronto Mobile Developers",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCASHUenPcHRI0Aabp2QAl6w"
+            }
+          ]
+        },
+        {
+          "identifier": "qLVm8Tv",
+          "type": "Link",
+          "title": "Retrieving and Deserializing JSON",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=rq3iok03q7E",
+          "description": "<p>Getting data from a remote server or REST API is a big part of any app. In this video we will learn how to get JSON data from an ASP.NET Core Web API and deserialize that.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=rq3iok03q7E\"><strong>Retrieving and Deserializing JSON in Your Xamarin.Forms App</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Getting data from a remote server or REST API is a big part of any app. In this video we will learn how to get JSON data from an ASP.NET Core Web API and deserialize that. \r\n\r\n[**Retrieving and Deserializing JSON in Your Xamarin.Forms App**](https://www.youtube.com/watch?v=rq3iok03q7E) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "7udRkAz",
+              "title": "**Retrieving and Deserializing JSON in Your Xamarin.Forms App**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=rq3iok03q7E"
+            },
+            {
+              "identifier": "CwwStc7",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "Qa8ejTb",
+          "type": "Link",
+          "title": "5 Things about Xamarin.Forms 5",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=O-VIsLDEplQ",
+          "description": "<p>Xamarin.Forms 5 is almost here and it has some surprising changes that you need to be aware of! In this video, we will see what are the 5 most notable changes and I will talk you through what that means to you.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=O-VIsLDEplQ\"><strong>5 Things You Need to Know About Xamarin.Forms 5, Right Now!</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Xamarin.Forms 5 is almost here and it has some surprising changes that you need to be aware of! In this video, we will see what are the 5 most notable changes and I will talk you through what that means to you.\r\n\r\n[**5 Things You Need to Know About Xamarin.Forms 5, Right Now!**](https://www.youtube.com/watch?v=O-VIsLDEplQ) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "nfx8JkH",
+              "title": "**5 Things You Need to Know About Xamarin.Forms 5, Right Now!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=O-VIsLDEplQ"
+            },
+            {
+              "identifier": "DRRO5Qj",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "Q6172KT",
+          "type": "Link",
+          "title": "Announcing the Release of the Git Experience in Visual Studio",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/visualstudio/announcing-the-release-of-the-git-experience-in-visual-studio/",
+          "description": "<p>If you have upgraded Visual Studio you might have noticed that GitHub accounts are now integrated into Visual Studio 2019 with a fully integrated GitHub account experience.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/visualstudio/announcing-the-release-of-the-git-experience-in-visual-studio/\"><strong>Announcing the Release of the Git Experience in Visual Studio</strong></a> by <a href=\"https://devblogs.microsoft.com/visualstudio/author/prnadagomicrosoft-com/\">Pratik Nadagouda</a></p>",
+          "description_markdown": "If you have upgraded Visual Studio you might have noticed that GitHub accounts are now integrated into Visual Studio 2019 with a fully integrated GitHub account experience. \r\n\r\n[**Announcing the Release of the Git Experience in Visual Studio**](https://devblogs.microsoft.com/visualstudio/announcing-the-release-of-the-git-experience-in-visual-studio/) by [Pratik Nadagouda](https://devblogs.microsoft.com/visualstudio/author/prnadagomicrosoft-com/)",
+          "embedded_links": [
+            {
+              "identifier": "mNmsW5b",
+              "title": "**Announcing the Release of the Git Experience in Visual Studio**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/announcing-the-release-of-the-git-experience-in-visual-studio/"
+            },
+            {
+              "identifier": "KAMJL9b",
+              "title": "Pratik Nadagouda",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/author/prnadagomicrosoft-com/"
+            }
+          ]
+        },
+        {
+          "identifier": "EZN6M5L",
+          "type": "Link",
+          "title": "Announcing Azure Mobile Apps v4.2.0 for .NET",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/azure-mobile-apps-updates/",
+          "description": "<p>The Azure Mobile Apps client libraries enabled you to provide online and offline sync of cloud SQL data to your apps. The recent release of v4.2.0 updated all core platforms.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/azure-mobile-apps-updates/\"><strong>Announcing Azure Mobile Apps v4.2.0 for .NET</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/adhal/\">Adrian Hall</a></p>",
+          "description_markdown": "The Azure Mobile Apps client libraries enabled you to provide online and offline sync of cloud SQL data to your apps. The recent release of v4.2.0 updated all core platforms.\r\n\r\n[**Announcing Azure Mobile Apps v4.2.0 for .NET**](https://devblogs.microsoft.com/xamarin/azure-mobile-apps-updates/) by [Adrian Hall](https://devblogs.microsoft.com/xamarin/author/adhal/)",
+          "embedded_links": [
+            {
+              "identifier": "RsVrt8c",
+              "title": "**Announcing Azure Mobile Apps v4.2.0 for .NET**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/azure-mobile-apps-updates/"
+            },
+            {
+              "identifier": "gPNlhfF",
+              "title": "Adrian Hall",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/adhal/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

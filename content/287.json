@@ -1,0 +1,173 @@
+{
+  "Id": "287",
+  "Name": "Issue 287",
+  "UpdatedTimeStamp": "2020-11-27T13:05:26Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Happy Friday Everyone, and a happy turkey day to those in the US.  So many great resources in this weeks edition, including adding Widgets to your Xamarin.Forms apps, and a bunch of great videos to watch.  Have a great weekend ❤ Kym",
+  "PublishDate": "2020-11-27T13:05:23Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Huawei Store",
+      "Url": "https://boguslawblonski.medium.com/china-war-with-google-moving-to-huawei-69f745ca67a1",
+      "Description": "Google services are not available on Huawei. What can you do if you need to support Huawei devices and the Huawei Store",
+      "EditionId": "287",
+      "Author": "Boguslaw Blonski",
+      "Id": "287-1",
+      "Category": "BUSINESS & MARKETING"
+    },
+    {
+      "Title": "Become an Android App Bundle expert",
+      "Url": "https://android-developers.googleblog.com/2020/11/mad-skills-become-android-app-bundle.html",
+      "Description": "All the resources you need to understand Android App Bundles. Reminder: App bundles will be mandatory for new apps from August 2021.",
+      "EditionId": "287",
+      "Author": "Ben Weiss",
+      "Id": "287-2",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Distance-based background location updates on iOS",
+      "Url": "https://www.xamboy.com/2020/11/26/background-distance-based-location-updates-on-ios/",
+      "Description": "How to get distance-based location updates by using iOS region monitoring.",
+      "EditionId": "287",
+      "Author": "Rendy Del Rosario",
+      "Id": "287-3",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Can your app be installed on the Apple Silicon Macs",
+      "Url": "https://prototypemakers.medium.com/doyouriosappsinstallonthenewmacs-18e5248cb3b9",
+      "Description": "Apple announced that the new Mac computers with the ARM 64 processor will be able to install compatible iOS & iPad apps. What does that mean, and how can you tell if your app is compatible?",
+      "EditionId": "287",
+      "Author": "Saamer Mansoor",
+      "Id": "287-4",
+      "Category": "MAC"
+    },
+    {
+      "Title": "iOS 14 Widgets with Xamarin Forms",
+      "Url": "https://medium.com/@michaeldimoudis/ios-14-widgets-with-xamarin-forms-e186d24a0638",
+      "Description": "As you probably know, Apple’s latest iOS 14 and iPadOS 14 introduced the ability for developers to add widgets to their home screens. This is great news if your app can benefit from the addition of widgets.",
+      "EditionId": "287",
+      "Author": "Michael Dimoudis",
+      "Id": "287-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Forcing single SwipeViews",
+      "Url": "https://baseflow.com/blogs/singleswipeview-collection-xamarin",
+      "Description": "Rick had a need to a collection of SwipeViews on a page, where it is only possible to have a single SwipeView swiped open. Here's how he achieved it.",
+      "EditionId": "287",
+      "Author": "Rick van Dijk",
+      "Id": "287-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Exploring What's New in Xamarin Essentials 1.6",
+      "Url": "https://www.telerik.com/blogs/exploring-whats-new-xamarin-essentials-1-6",
+      "Description": "Take a look with me at some of the exciting features previewed for Xamarin Essentials 1.6, including integrated APIs and official macOS support!",
+      "EditionId": "287",
+      "Author": "Leomaris Reyes",
+      "Id": "287-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Creating a Switch Control in Xamarin.Forms Using Shapes and Paths",
+      "Url": "https://somostechies.com/xf-switch-control/",
+      "Description": "In this post Jesus Angulo shows how to create a Switch control using Shapes and Paths in Xamarin.Forms. **Note: Post is in Spanish**",
+      "EditionId": "287",
+      "Author": "Jesus Angulo",
+      "Id": "287-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Simplifying Bindable Properties with Type Converters in Xamarin Forms",
+      "Url": "https://xamgirl.com/simplifying-bindable-properties-with-type-converters-in-xamarin-forms/",
+      "Description": "A Type Converter allows you to convert values from a type to a different type, this is helpful when creating bindable properties in Xamarin Forms because it saves you a lot of time and validation code. In this article, Charlin shows you a few use cases where you can use it.",
+      "EditionId": "287",
+      "Author": "Charlin Agramonte",
+      "Id": "287-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Reverse engineering published Xamarin Forms apps.",
+      "Url": "http://talkwithangel.com/dont-put-sensitive-data-in-the-client-side-reverse-engineering-published-xamarin-forms-apps/",
+      "Description": "You should always be aware that storing secrets in your client side is a dangerous thing. In this post Angel Garcia shows how easy it is to crack open an App.  Most importantly, he covers some guidelines you should follow to protect your secrets.",
+      "EditionId": "287",
+      "Author": "Angel Garcia",
+      "Id": "287-10",
+      "Category": "SECURITY"
+    },
+    {
+      "Title": "Dear Gerald...",
+      "Url": "https://www.youtube.com/watch?v=A2sXj9S5FXQ",
+      "Description": "Gerald answers some questions about Xamarin Forms, .NET MAUI, MVU, MVVM, Xamarin Community Toolkit and his t-shirt.",
+      "EditionId": "287",
+      "Author": "Gerald Versluis",
+      "Id": "287-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Smaller, Faster, Better Apps",
+      "Url": "https://www.youtube.com/watch?v=7kVeC1_14Ag",
+      "Description": "James is continuing his series of building your very first Xamarin apps. In this video he talks about properly configuring and optimizing your Xamarin projects.",
+      "EditionId": "287",
+      "Author": "James Montemagno",
+      "Id": "287-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Restaurant App in Xamarin Forms",
+      "Url": "https://www.youtube.com/watch?v=6gb_iRj_BYU",
+      "Description": "Making a beautiful Restaurant app in Xamarin Forms shouldn't be difficult and thanks to Xamarin.Forms Shapes class and CarouselView, this is made possible.",
+      "EditionId": "287",
+      "Author": "DevCrux Technologies",
+      "Id": "287-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Toronto Mobile Devs Meetup - Microsoft Identity for Mobile Devs",
+      "Url": "https://www.youtube.com/watch?v=VHT0elBb-5o",
+      "Description": "If you ever had to deal with identity within your solutions then this is the session for you. Join Christos to find out how to implement authentication and authorization for your apps using the Microsoft Identity platform.",
+      "EditionId": "287",
+      "Author": "Toronto Mobile Developers",
+      "Id": "287-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Retrieving and Deserializing JSON",
+      "Url": "https://www.youtube.com/watch?v=rq3iok03q7E",
+      "Description": "Getting data from a remote server or REST API is a big part of any app. In this video we will learn how to get JSON data from an ASP.NET Core Web API and deserialize that.",
+      "EditionId": "287",
+      "Author": "Gerald Versluis",
+      "Id": "287-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "5 Things about Xamarin.Forms 5",
+      "Url": "https://www.youtube.com/watch?v=O-VIsLDEplQ",
+      "Description": "Xamarin.Forms 5 is almost here and it has some surprising changes that you need to be aware of! In this video, we will see what are the 5 most notable changes and I will talk you through what that means to you.",
+      "EditionId": "287",
+      "Author": "Gerald Versluis",
+      "Id": "287-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Announcing the Release of the Git Experience in Visual Studio",
+      "Url": "https://devblogs.microsoft.com/visualstudio/announcing-the-release-of-the-git-experience-in-visual-studio/",
+      "Description": "If you have upgraded Visual Studio you might have noticed that GitHub accounts are now integrated into Visual Studio 2019 with a fully integrated GitHub account experience.",
+      "EditionId": "287",
+      "Author": "Pratik Nadagouda",
+      "Id": "287-17",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "Announcing Azure Mobile Apps v4.2.0 for .NET",
+      "Url": "https://devblogs.microsoft.com/xamarin/azure-mobile-apps-updates/",
+      "Description": "The Azure Mobile Apps client libraries enabled you to provide online and offline sync of cloud SQL data to your apps. The recent release of v4.2.0 updated all core platforms.",
+      "EditionId": "287",
+      "Author": "Adrian Hall",
+      "Id": "287-18",
+      "Category": "RELEASES"
+    }
+  ]
+}

@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "287",
+      "Name": "Issue 287",
+      "UpdatedTimeStamp": "2020-11-27T13:05:26Z",
+      "Summary": "No Edition Summary",
+      "PublishDate": "2020-11-27T13:05:23Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "286",
       "Name": "Issue 286",
       "UpdatedTimeStamp": "2020-11-21T13:53:51Z",
