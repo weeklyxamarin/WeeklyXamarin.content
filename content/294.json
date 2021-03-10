@@ -1,0 +1,173 @@
+{
+  "Id": "294",
+  "Name": "Issue 294",
+  "UpdatedTimeStamp": "2021-01-31T23:26:54Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Howdy Everyone, So much great content in this edition of WeeklyXamarin.  Sorry for the late publish, but it takes time to parse all this great information.  Hope you have had a great weekend and welcome to February. ❤ Kym",
+  "PublishDate": "2021-01-31T23:26:50Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": ".NET FrontEnd Day",
+      "Url": "https://www.dotnet-frontend.com/recordings",
+      "Description": "Check out the recordings from .NET Frontend Day - A full day online, with focus on building frontend applications using .NET!",
+      "EditionId": "294",
+      "Author": "Dotnet FrontEnd",
+      "Id": "294-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Xamarin Community Toolkit",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit/",
+      "Description": "The Xamarin Community Toolkit complements Xamarin.Forms 5 perfectly with all kinds of commonly found behaviors, converters, effects, MVVM utilities, and awesome new controls including the CameraView, AvatarView, and TabView.",
+      "EditionId": "294",
+      "Author": "Gerald Versluis",
+      "Id": "294-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "iOS14 UIDatePicker",
+      "Url": "https://www.thewissen.io/handling-the-new-uidatepicker-in-xamarin-forms",
+      "Description": "Steven looks at the different UIDatePicker options in iOS14 and how you can use custom renderers to allow selecting your preferred type of UIDatePicker.",
+      "EditionId": "294",
+      "Author": "Steven Thewissen",
+      "Id": "294-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Custom Radio Buttons",
+      "Url": "https://devblogs.microsoft.com/xamarin/beautiful-custom-radiobutton-with-xamarin-forms-5/",
+      "Description": "The RadioButton control is a lovely addition to Xamarin.Forms. Even though it looks great, there are probably going to be times when you will want to customise it.",
+      "EditionId": "294",
+      "Author": "James Montemagno",
+      "Id": "294-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "MvvmCross & Separate Tablet UI",
+      "Url": "https://benetskyybogdan.medium.com/mvvmcross-separate-tablet-ui-3cda628181f3",
+      "Description": "How to make separate View’s for Tablet, Phones, Desktops and other device families with MvvmCross",
+      "EditionId": "294",
+      "Author": "Bohdan Benetskyi",
+      "Id": "294-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Don’t use CollectionView inside a ScrollView",
+      "Url": "https://luismts.com/dont-use-collectionview-inside-scrollview/",
+      "Description": "A timely reminder from Luis about why you shouldn't be putting your CollectionView inside a ScrollView.",
+      "EditionId": "294",
+      "Author": "Luis Matos",
+      "Id": "294-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Filtering and sorting with Dynamic Data in Xamarin Forms (Part 2)",
+      "Url": "https://www.xamboy.com/2021/01/25/filtering-and-sorting-with-dynamic-data-in-xamarin-forms-part-2/",
+      "Description": "How to filter and sort your data when using the SearchBar in Xamarin.Forms",
+      "EditionId": "294",
+      "Author": "Rendy Del Rosario",
+      "Id": "294-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Replicating Talent Casting UI in Xamarin.Forms",
+      "Url": "https://www.syncfusion.com/blogs/post/replicating-talent-casting-ui-in-xamarin-forms.aspx",
+      "Description": "A nice UI design implemented in Xamarin.Forms.",
+      "EditionId": "294",
+      "Author": "Leomaris Reyes",
+      "Id": "294-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Fancy Frame",
+      "Url": "https://serengetitech.com/en/blog/tech/welcome-fancyframe",
+      "Description": "Fancy Frame is a reimplementation of PancakeView done using Skiasharp which runs on all Xamarin.Forms platforms.  So if you need fancy frames on Tizen, this is for you.",
+      "EditionId": "294",
+      "Author": "Yuriy Holembyovskyy",
+      "Id": "294-9",
+      "Category": "NUGET OF THE WEEK"
+    },
+    {
+      "Title": "Xamarin.Essentials App Actions",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/App-Actions-XamarinEssentials-API-of-the-Week",
+      "Description": "Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Essential API of the week we take a look at App Actions, that allows you to add shortcuts to your app icons to launch your users into specific parts of your app.",
+      "EditionId": "294",
+      "Author": "The Xamarin Show",
+      "Id": "294-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 238: Island Tracker - The Final Chapter",
+      "Url": "https://www.mergeconflict.fm/238",
+      "Description": "We have come to the epic conclusion of James's app Island Tracker, his Animal Crossing app for tracking turnip prices with friends. He is ready to roll out his freemium version of the app while upgrading all of his existing customers and updating the backend.",
+      "EditionId": "294",
+      "Author": "Merge Conflict",
+      "Id": "294-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Introducing the Xamarin Community Toolkit",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Introducing-the-Xamarin-Community-Toolkit",
+      "Description": "The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, Effects and even controls for mobile development with Xamarin.Forms. In this episode, Gerald has Javier on from the Xamarin.Forms team to give us an overview of what you can expect from the Xamarin Community Toolkit. He shows us samples from the sample app, how to implement a thing or two and even how to start contributing yourself!",
+      "EditionId": "294",
+      "Author": "The Xamarin Show",
+      "Id": "294-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Live App Store Optimization Q&A",
+      "Url": "https://appfigures.com/resources/app-teardowns/live-aso-questions-and-answers",
+      "Description": "App Store Optimization Q&A Session with AppFigures ASO expert, answering a variety if questions from the audience, ranging from the simple basics to advanced topics.",
+      "EditionId": "294",
+      "Author": "Ariel Michaeli",
+      "Id": "294-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "TestFlight - How to Upload and Distribute Your App",
+      "Url": "https://www.youtube.com/watch?v=DLvdZtTAJrE",
+      "Description": "This video walks through uploading your app for beta testing on Test Flight. We walk thought creating an App ID, registering with the App Store, archiving and uploading your build and distributing the app to your beta testers via email and a public link.",
+      "EditionId": "294",
+      "Author": "Sean Allen",
+      "Id": "294-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Take Partial Screenshots of Your Xamarin.Forms App",
+      "Url": "https://www.youtube.com/watch?v=O9D3NSYh1t0",
+      "Description": "Gerald shows how to make screenshots of just a part of your screen. He found a library that can take a VisualElement and make an image out of that.",
+      "EditionId": "294",
+      "Author": "Gerald Versluis",
+      "Id": "294-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 37: Bots",
+      "Url": "https://nullpointers.io/37/",
+      "Description": "The idea of being able to have a conversation with our computing devices is nothing new. Going down memory lane to early IRC days all the way back to the present using AI to try and pass the Turing Test. In this episode we discuss our experiences, opinions and give our best Bot beep impression.",
+      "EditionId": "294",
+      "Author": "Null Pointers",
+      "Id": "294-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Drawing Polygons in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=sstUnHUb9DE",
+      "Description": "It's probably not often you need to draw a polygon, but when you do it's nice to know Xamarin.Forms 5 has primitive shapes at your fingertips. If you know the size of your visual need, that's great. But what do you do when you don't know the dimensions of the screen that your app is running on? This video shows you how to easily handle both cases.",
+      "EditionId": "294",
+      "Author": "David Ortinau",
+      "Id": "294-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Input Validation in Xamarin.Forms with Xamarin.CommunityToolkit",
+      "Url": "https://www.youtube.com/watch?v=rRn2k3l0P8k",
+      "Description": "Validating input is an important task! With the Xamarin Community Toolkit this has never been easier to implement. If you're using XAML, you don't even need to write code! You can validate anything with a regular expression, or use the built-in URL, email or required string validator.",
+      "EditionId": "294",
+      "Author": "Gerald Versluis",
+      "Id": "294-18",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

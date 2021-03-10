@@ -834,6 +834,16 @@
       ]
     },
     {
+      "Name": "Dotnet FrontEnd",
+      "Id": "https://twitter.com/dotnet_frontend",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/dotnet_frontend"
+        }
+      ]
+    },
+    {
       "Name": "dotNet Youtube Channel",
       "Id": "https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw",
       "Aliases": [
@@ -2410,6 +2420,16 @@
       ]
     },
     {
+      "Name": "Sean Allen",
+      "Id": "https://twitter.com/seanallen_dev",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/seanallen_dev"
+        }
+      ]
+    },
+    {
       "Name": "Sebastian Jensen",
       "TwitterHandle": "tsjdevapps",
       "GitHubHandle": "tsjdev-apps",
@@ -2905,6 +2925,16 @@
         {
           "Type": "blog",
           "Name": "https://www.syncfusion.com/blogs/author/yogeshwaran-mohansyncfusion-com"
+        }
+      ]
+    },
+    {
+      "Name": "Yuriy Holembyovskyy",
+      "Id": "https://trailheadtechnology.com/author/yuriy/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://trailheadtechnology.com/author/yuriy/"
         }
       ]
     },

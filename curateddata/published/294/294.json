@@ -1,0 +1,484 @@
+{
+  "number": 294,
+  "title": "Issue 294",
+  "summary": null,
+  "url": "http://weeklyxamarin.com/issues/294",
+  "publication_status": "published",
+  "published_at": "2021-01-31T23:26:50+00:00",
+  "updated_at": "2021-01-31T23:26:54+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Howdy Everyone,</p>\n\n<p>So much great content in this edition of WeeklyXamarin.  Sorry for the late publish, but it takes time to parse all this great information.  Hope you have had a great weekend and welcome to February.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Howdy Everyone,\r\n\r\nSo much great content in this edition of WeeklyXamarin.  Sorry for the late publish, but it takes time to parse all this great information.  Hope you have had a great weekend and welcome to February.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "k2CGtRV",
+          "type": "Link",
+          "title": ".NET FrontEnd Day",
+          "url_domain": "dotnet-frontend.com",
+          "url": "https://www.dotnet-frontend.com/recordings",
+          "description": "<p>Check out the recordings from .NET Frontend Day - A full day online, with focus on building frontend applications using .NET!</p>\n\n<p><a href=\"https://www.dotnet-frontend.com/recordings\"><strong>https://www.dotnet-frontend.com/recordings</strong></a> by <a href=\"https://twitter.com/dotnet_frontend\">Dotnet FrontEnd</a></p>",
+          "description_markdown": "Check out the recordings from .NET Frontend Day - A full day online, with focus on building frontend applications using .NET!\r\n\r\n[**https://www.dotnet-frontend.com/recordings**](https://www.dotnet-frontend.com/recordings) by [Dotnet FrontEnd](https://twitter.com/dotnet_frontend)",
+          "embedded_links": [
+            {
+              "identifier": "ULWwq4x",
+              "title": "**https://www.dotnet-frontend.com/recordings**",
+              "url_domain": "dotnet-frontend.com",
+              "url": "https://www.dotnet-frontend.com/recordings"
+            },
+            {
+              "identifier": "EuPbU3W",
+              "title": "Dotnet FrontEnd",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/dotnet_frontend"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "ZXTq73W",
+          "type": "Link",
+          "title": "Xamarin Community Toolkit",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit/",
+          "description": "<p>The Xamarin Community Toolkit complements Xamarin.Forms 5 perfectly with all kinds of commonly found behaviors, converters, effects, MVVM utilities, and awesome new controls including the CameraView, AvatarView, and TabView.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit/\"><strong>Xamarin Community Toolkit: A Must-Have Xamarin Library</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "The Xamarin Community Toolkit complements Xamarin.Forms 5 perfectly with all kinds of commonly found behaviors, converters, effects, MVVM utilities, and awesome new controls including the CameraView, AvatarView, and TabView.\r\n\r\n[**Xamarin Community Toolkit: A Must-Have Xamarin Library**](https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit/) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "OqZqA1L",
+              "title": "**Xamarin Community Toolkit: A Must-Have Xamarin Library**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit/"
+            },
+            {
+              "identifier": "tDClpZz",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "d4TmXUe",
+          "type": "Link",
+          "title": "iOS14 UIDatePicker",
+          "url_domain": "thewissen.io",
+          "url": "https://www.thewissen.io/handling-the-new-uidatepicker-in-xamarin-forms",
+          "description": "<p>Steven looks at the different UIDatePicker options in iOS14 and how you can use custom renderers to allow selecting your preferred type of UIDatePicker.</p>\n\n<p><a href=\"https://www.thewissen.io/handling-the-new-uidatepicker-in-xamarin-forms\"><strong>Handling the new UIDatePicker in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/devnl\">Steven Thewissen</a></p>",
+          "description_markdown": "Steven looks at the different UIDatePicker options in iOS14 and how you can use custom renderers to allow selecting your preferred type of UIDatePicker.\r\n\r\n[**Handling the new UIDatePicker in Xamarin.Forms**](https://www.thewissen.io/handling-the-new-uidatepicker-in-xamarin-forms) by [Steven Thewissen](https://twitter.com/devnl)",
+          "embedded_links": [
+            {
+              "identifier": "6u9MAfV",
+              "title": "**Handling the new UIDatePicker in Xamarin.Forms**",
+              "url_domain": "thewissen.io",
+              "url": "https://www.thewissen.io/handling-the-new-uidatepicker-in-xamarin-forms"
+            },
+            {
+              "identifier": "euzxJa0",
+              "title": "Steven Thewissen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/devnl"
+            }
+          ]
+        },
+        {
+          "identifier": "u3IqDj",
+          "type": "Link",
+          "title": "Custom Radio Buttons",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/beautiful-custom-radiobutton-with-xamarin-forms-5/",
+          "description": "<p>The RadioButton control is a lovely addition to Xamarin.Forms. Even though it looks great, there are probably going to be times when you will want to customise it.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/beautiful-custom-radiobutton-with-xamarin-forms-5/\"><strong>Beautiful Custom RadioButton with Xamarin.Forms 5</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "The RadioButton control is a lovely addition to Xamarin.Forms. Even though it looks great, there are probably going to be times when you will want to customise it.\r\n\r\n[**Beautiful Custom RadioButton with Xamarin.Forms 5**](https://devblogs.microsoft.com/xamarin/beautiful-custom-radiobutton-with-xamarin-forms-5/) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "8qGvl0B",
+              "title": "**Beautiful Custom RadioButton with Xamarin.Forms 5**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/beautiful-custom-radiobutton-with-xamarin-forms-5/"
+            },
+            {
+              "identifier": "gxxW6rb",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "6vZzzJo",
+          "type": "Link",
+          "title": "MvvmCross & Separate Tablet UI",
+          "url_domain": "medium.com",
+          "url": "https://benetskyybogdan.medium.com/mvvmcross-separate-tablet-ui-3cda628181f3",
+          "description": "<p>How to make separate View’s for Tablet, Phones, Desktops and other device families with MvvmCross</p>\n\n<p><a href=\"https://benetskyybogdan.medium.com/mvvmcross-separate-tablet-ui-3cda628181f3\"><strong>MvvmCross &amp; Separate Tablet UI</strong></a> by <a href=\"https://twitter.com/bbenetskyy\">Bohdan Benetskyi</a></p>",
+          "description_markdown": "How to make separate View’s for Tablet, Phones, Desktops and other device families with MvvmCross\r\n\r\n[**MvvmCross & Separate Tablet UI**](https://benetskyybogdan.medium.com/mvvmcross-separate-tablet-ui-3cda628181f3) by [Bohdan Benetskyi](https://twitter.com/bbenetskyy)",
+          "embedded_links": [
+            {
+              "identifier": "ZnXekdy",
+              "title": "**MvvmCross & Separate Tablet UI**",
+              "url_domain": "medium.com",
+              "url": "https://benetskyybogdan.medium.com/mvvmcross-separate-tablet-ui-3cda628181f3"
+            },
+            {
+              "identifier": "xMd0MmW",
+              "title": "Bohdan Benetskyi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bbenetskyy"
+            }
+          ]
+        },
+        {
+          "identifier": "aBrfe1Q",
+          "type": "Link",
+          "title": "Don’t use CollectionView inside a ScrollView",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/dont-use-collectionview-inside-scrollview/",
+          "description": "<p>A timely reminder from Luis about why you shouldn't be putting your CollectionView inside a ScrollView.</p>\n\n<p><a href=\"https://luismts.com/dont-use-collectionview-inside-scrollview/\"><strong>Don’t use CollectionView inside a ScrollView</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "A timely reminder from Luis about why you shouldn't be putting your CollectionView inside a ScrollView.\r\n\r\n[**Don’t use CollectionView inside a ScrollView**](https://luismts.com/dont-use-collectionview-inside-scrollview/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "AOyuFdP",
+              "title": "**Don’t use CollectionView inside a ScrollView**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/dont-use-collectionview-inside-scrollview/"
+            },
+            {
+              "identifier": "EBS7v1b",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "OqXWaZz",
+          "type": "Link",
+          "title": "Filtering and sorting with Dynamic Data in Xamarin Forms (Part 2)",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2021/01/25/filtering-and-sorting-with-dynamic-data-in-xamarin-forms-part-2/",
+          "description": "<p>How to filter and sort your data when using the SearchBar in Xamarin.Forms</p>\n\n<p><a href=\"https://www.xamboy.com/2021/01/25/filtering-and-sorting-with-dynamic-data-in-xamarin-forms-part-2/\"><strong>Filtering and sorting with Dynamic Data in Xamarin Forms (Part 2)</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "How to filter and sort your data when using the SearchBar in Xamarin.Forms\r\n\r\n[**Filtering and sorting with Dynamic Data in Xamarin Forms (Part 2)**](https://www.xamboy.com/2021/01/25/filtering-and-sorting-with-dynamic-data-in-xamarin-forms-part-2/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "BTWoCRf",
+              "title": "**Filtering and sorting with Dynamic Data in Xamarin Forms (Part 2)**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2021/01/25/filtering-and-sorting-with-dynamic-data-in-xamarin-forms-part-2/"
+            },
+            {
+              "identifier": "mWpEU2n",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        },
+        {
+          "identifier": "OnTuh1d",
+          "type": "Link",
+          "title": "Replicating Talent Casting UI in Xamarin.Forms",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/replicating-talent-casting-ui-in-xamarin-forms.aspx",
+          "description": "<p>A nice UI design implemented in Xamarin.Forms.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/replicating-talent-casting-ui-in-xamarin-forms.aspx\"><strong>Replicating Talent Casting UI in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "A nice UI design implemented in Xamarin.Forms.\r\n\r\n[**Replicating Talent Casting UI in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/replicating-talent-casting-ui-in-xamarin-forms.aspx) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "1sPpOpz",
+              "title": "**Replicating Talent Casting UI in Xamarin.Forms**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/replicating-talent-casting-ui-in-xamarin-forms.aspx"
+            },
+            {
+              "identifier": "HYwnzAM",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "nuget",
+      "name": "NUGET OF THE WEEK",
+      "items": [
+        {
+          "identifier": "KD2k5eK",
+          "type": "Link",
+          "title": "Fancy Frame",
+          "url_domain": "serengetitech.com",
+          "url": "https://serengetitech.com/en/blog/tech/welcome-fancyframe",
+          "description": "<p>Fancy Frame is a reimplementation of PancakeView done using Skiasharp which runs on all Xamarin.Forms platforms.  So if you need fancy frames on Tizen, this is for you.</p>\n\n<p><a href=\"https://serengetitech.com/en/blog/tech/welcome-fancyframe\"><strong>Welcome to Fancy Frame</strong></a> by <a href=\"https://trailheadtechnology.com/author/yuriy/\">Yuriy Holembyovskyy</a></p>",
+          "description_markdown": "Fancy Frame is a reimplementation of PancakeView done using Skiasharp which runs on all Xamarin.Forms platforms.  So if you need fancy frames on Tizen, this is for you.\r\n\r\n[**Welcome to Fancy Frame**](https://serengetitech.com/en/blog/tech/welcome-fancyframe) by [Yuriy Holembyovskyy](https://trailheadtechnology.com/author/yuriy/)",
+          "embedded_links": [
+            {
+              "identifier": "GqIEh0K",
+              "title": "**Welcome to Fancy Frame**",
+              "url_domain": "serengetitech.com",
+              "url": "https://serengetitech.com/en/blog/tech/welcome-fancyframe"
+            },
+            {
+              "identifier": "HvGk9mv",
+              "title": "Yuriy Holembyovskyy",
+              "url_domain": "trailheadtechnology.com",
+              "url": "https://trailheadtechnology.com/author/yuriy/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "yEc0IXM",
+          "type": "Link",
+          "title": "Xamarin.Essentials App Actions",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/App-Actions-XamarinEssentials-API-of-the-Week",
+          "description": "<p>Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Essential API of the week we take a look at App Actions, that allows you to add shortcuts to your app icons to launch your users into specific parts of your app.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/App-Actions-XamarinEssentials-API-of-the-Week\"><strong>App Actions (Xamarin.Essentials API of the Week)</strong></a> by <a href=\"https://channel9.msdn.com/Shows/XamarinShow\">The Xamarin Show</a></p>",
+          "description_markdown": "Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Essential API of the week we take a look at App Actions, that allows you to add shortcuts to your app icons to launch your users into specific parts of your app.\r\n\r\n[**App Actions (Xamarin.Essentials API of the Week)**](https://channel9.msdn.com/Shows/XamarinShow/App-Actions-XamarinEssentials-API-of-the-Week) by [The Xamarin Show](https://channel9.msdn.com/Shows/XamarinShow)",
+          "embedded_links": [
+            {
+              "identifier": "DTHMynG",
+              "title": "**App Actions (Xamarin.Essentials API of the Week)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/App-Actions-XamarinEssentials-API-of-the-Week"
+            },
+            {
+              "identifier": "gLqjpFm",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow"
+            }
+          ]
+        },
+        {
+          "identifier": "b5dqzN5",
+          "type": "Link",
+          "title": "Merge Conflict: 238: Island Tracker - The Final Chapter",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/238",
+          "description": "<p>We have come to the epic conclusion of James's app Island Tracker, his Animal Crossing app for tracking turnip prices with friends. He is ready to roll out his freemium version of the app while upgrading all of his existing customers and updating the backend.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/238\"><strong>Merge Conflict: 238: Island Tracker - The Final Chapter</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "We have come to the epic conclusion of James's app Island Tracker, his Animal Crossing app for tracking turnip prices with friends. He is ready to roll out his freemium version of the app while upgrading all of his existing customers and updating the backend.\r\n\r\n[**Merge Conflict: 238: Island Tracker - The Final Chapter**](https://www.mergeconflict.fm/238) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "IM0YCj8",
+              "title": "**Merge Conflict: 238: Island Tracker - The Final Chapter**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/238"
+            },
+            {
+              "identifier": "CQqDssL",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        },
+        {
+          "identifier": "BcuAHTN",
+          "type": "Link",
+          "title": "Introducing the Xamarin Community Toolkit",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Introducing-the-Xamarin-Community-Toolkit",
+          "description": "<p>The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, Effects and even controls for mobile development with Xamarin.Forms.</p>\n\n<p>In this episode, Gerald has Javier on from the Xamarin.Forms team to give us an overview of what you can expect from the Xamarin Community Toolkit. He shows us samples from the sample app, how to implement a thing or two and even how to start contributing yourself!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Introducing-the-Xamarin-Community-Toolkit\"><strong>Introducing the Xamarin Community Toolkit</strong></a> by <a href=\"https://channel9.msdn.com/Shows/XamarinShow\">The Xamarin Show</a></p>",
+          "description_markdown": "The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, Effects and even controls for mobile development with Xamarin.Forms.\r\n\r\nIn this episode, Gerald has Javier on from the Xamarin.Forms team to give us an overview of what you can expect from the Xamarin Community Toolkit. He shows us samples from the sample app, how to implement a thing or two and even how to start contributing yourself!\r\n\r\n[**Introducing the Xamarin Community Toolkit**](https://channel9.msdn.com/Shows/XamarinShow/Introducing-the-Xamarin-Community-Toolkit) by [The Xamarin Show](https://channel9.msdn.com/Shows/XamarinShow)",
+          "embedded_links": [
+            {
+              "identifier": "TRormBm",
+              "title": "**Introducing the Xamarin Community Toolkit**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Introducing-the-Xamarin-Community-Toolkit"
+            },
+            {
+              "identifier": "KTknhln",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow"
+            }
+          ]
+        },
+        {
+          "identifier": "D0U6JO",
+          "type": "Link",
+          "title": "Live App Store Optimization Q&A",
+          "url_domain": "appfigures.com",
+          "url": "https://appfigures.com/resources/app-teardowns/live-aso-questions-and-answers",
+          "description": "<p>App Store Optimization Q&amp;A Session with AppFigures ASO expert, answering a variety if questions from the audience, ranging from the simple basics to advanced topics.</p>\n\n<p><a href=\"https://appfigures.com/resources/app-teardowns/live-aso-questions-and-answers\"><strong>Live App Store Optimization Q&amp;A</strong></a> by <a href=\"https://twitter.com/arielmichaeli\">Ariel Michaeli</a></p>",
+          "description_markdown": "App Store Optimization Q&A Session with AppFigures ASO expert, answering a variety if questions from the audience, ranging from the simple basics to advanced topics.\r\n\r\n[**Live App Store Optimization Q&A**](https://appfigures.com/resources/app-teardowns/live-aso-questions-and-answers) by [Ariel Michaeli](https://twitter.com/arielmichaeli)",
+          "embedded_links": [
+            {
+              "identifier": "qeWcIFS",
+              "title": "**Live App Store Optimization Q&A**",
+              "url_domain": "appfigures.com",
+              "url": "https://appfigures.com/resources/app-teardowns/live-aso-questions-and-answers"
+            },
+            {
+              "identifier": "iNcBjH3",
+              "title": "Ariel Michaeli",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/arielmichaeli"
+            }
+          ]
+        },
+        {
+          "identifier": "XcPLSiW",
+          "type": "Link",
+          "title": "TestFlight - How to Upload and Distribute Your App",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=DLvdZtTAJrE",
+          "description": "<p>This video walks through uploading your app for beta testing on Test Flight. We walk thought creating an App ID, registering with the App Store, archiving and uploading your build and distributing the app to your beta testers via email and a public link.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=DLvdZtTAJrE\"><strong>TestFlight - How to Upload and Distribute Your App | App Store 2021</strong></a> by <a href=\"https://twitter.com/seanallen_dev\">Sean Allen</a></p>",
+          "description_markdown": "This video walks through uploading your app for beta testing on Test Flight. We walk thought creating an App ID, registering with the App Store, archiving and uploading your build and distributing the app to your beta testers via email and a public link. \r\n\r\n[**TestFlight - How to Upload and Distribute Your App | App Store 2021**](https://www.youtube.com/watch?v=DLvdZtTAJrE) by [Sean Allen](https://twitter.com/seanallen_dev)",
+          "embedded_links": [
+            {
+              "identifier": "6GNhQCY",
+              "title": "**TestFlight - How to Upload and Distribute Your App | App Store 2021**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=DLvdZtTAJrE"
+            },
+            {
+              "identifier": "IoAcVGV",
+              "title": "Sean Allen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/seanallen_dev"
+            }
+          ]
+        },
+        {
+          "identifier": "veSJWIe",
+          "type": "Link",
+          "title": "Take Partial Screenshots of Your Xamarin.Forms App",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=O9D3NSYh1t0",
+          "description": "<p>Gerald shows how to make screenshots of just a part of your screen. He found a library that can take a VisualElement and make an image out of that.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=O9D3NSYh1t0\"><strong>Take Partial Screenshots of Your Xamarin.Forms App</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Gerald shows how to make screenshots of just a part of your screen. He found a library that can take a VisualElement and make an image out of that.\r\n\r\n[**Take Partial Screenshots of Your Xamarin.Forms App**](https://www.youtube.com/watch?v=O9D3NSYh1t0) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "jDcI3KC",
+              "title": "**Take Partial Screenshots of Your Xamarin.Forms App**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=O9D3NSYh1t0"
+            },
+            {
+              "identifier": "mp1NSb1",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "QhjbbgJ",
+          "type": "Link",
+          "title": "Null Pointers 37: Bots",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/37/",
+          "description": "<p>The idea of being able to have a conversation with our computing devices is nothing new. Going down memory lane to early IRC days all the way back to the present using AI to try and pass the Turing Test. In this episode we discuss our experiences, opinions and give our best Bot beep impression.</p>\n\n<p><a href=\"https://nullpointers.io/37/\"><strong>Null Pointers 37: Bots</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "The idea of being able to have a conversation with our computing devices is nothing new. Going down memory lane to early IRC days all the way back to the present using AI to try and pass the Turing Test. In this episode we discuss our experiences, opinions and give our best Bot beep impression.\r\n\r\n[**Null Pointers 37: Bots**](https://nullpointers.io/37/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "rEa2bUC",
+              "title": "**Null Pointers 37: Bots**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/37/"
+            },
+            {
+              "identifier": "tfdIldJ",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "g0rj6Bo",
+          "type": "Link",
+          "title": "Drawing Polygons in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=sstUnHUb9DE",
+          "description": "<p>It's probably not often you need to draw a polygon, but when you do it's nice to know Xamarin.Forms 5 has primitive shapes at your fingertips. If you know the size of your visual need, that's great. But what do you do when you don't know the dimensions of the screen that your app is running on? This video shows you how to easily handle both cases.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=sstUnHUb9DE\"><strong>That One Time You Need to A Polygon in Xamarin.Forms</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/davidortinau/\">David Ortinau</a></p>",
+          "description_markdown": "It's probably not often you need to draw a polygon, but when you do it's nice to know Xamarin.Forms 5 has primitive shapes at your fingertips. If you know the size of your visual need, that's great. But what do you do when you don't know the dimensions of the screen that your app is running on? This video shows you how to easily handle both cases.\r\n\r\n[**That One Time You Need to A Polygon in Xamarin.Forms**](https://www.youtube.com/watch?v=sstUnHUb9DE) by [David Ortinau](https://devblogs.microsoft.com/xamarin/author/davidortinau/)",
+          "embedded_links": [
+            {
+              "identifier": "UVOGZqo",
+              "title": "**That One Time You Need to A Polygon in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=sstUnHUb9DE"
+            },
+            {
+              "identifier": "Kskp4mO",
+              "title": "David Ortinau",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/davidortinau/"
+            }
+          ]
+        },
+        {
+          "identifier": "GMLO8yA",
+          "type": "Link",
+          "title": "Input Validation in Xamarin.Forms with Xamarin.CommunityToolkit",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=rRn2k3l0P8k",
+          "description": "<p>Validating input is an important task! With the Xamarin Community Toolkit this has never been easier to implement. If you're using XAML, you don't even need to write code! You can validate anything with a regular expression, or use the built-in URL, email or required string validator.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=rRn2k3l0P8k\"><strong>Input Validation in Xamarin.Forms with Xamarin.CommunityToolkit</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Validating input is an important task! With the Xamarin Community Toolkit this has never been easier to implement. If you're using XAML, you don't even need to write code! You can validate anything with a regular expression, or use the built-in URL, email or required string validator.\r\n\r\n[**Input Validation in Xamarin.Forms with Xamarin.CommunityToolkit**](https://www.youtube.com/watch?v=rRn2k3l0P8k) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "WJ6iu2D",
+              "title": "**Input Validation in Xamarin.Forms with Xamarin.CommunityToolkit**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=rRn2k3l0P8k"
+            },
+            {
+              "identifier": "ouamTqc",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "type": "Text",
+          "title": "Monkey of the Week!",
+          "description": "<p>Xamarin Monkey visits Sagrada Família</p>",
+          "description_markdown": "Xamarin Monkey visits Sagrada Família",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "42c6add8-7551-4c03-9fa6-a4766dfd144e.jpg",
+          "image_extra_large_filename": "original_ratio_extra_large_42c6add8-7551-4c03-9fa6-a4766dfd144e.jpg",
+          "image_medium_filename": "original_ratio_medium_42c6add8-7551-4c03-9fa6-a4766dfd144e.jpg"
+        }
+      ]
+    }
+  ]
+}
