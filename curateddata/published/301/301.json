@@ -1,0 +1,378 @@
+{
+  "number": 301,
+  "title": "Issue 301",
+  "summary": null,
+  "url": "https://weeklyxamarin.com/issues/301",
+  "publication_status": "published",
+  "published_at": "2021-03-21T23:25:18+00:00",
+  "updated_at": "2021-03-21T23:25:20+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>It's still technically the weekend in other parts of the world, so hope you are enjoying it.</p>\n\n<p>This edition has some interesting links for those of you looking at Maui. As always thanks to the wonderful Xamarin community for their content.  Speaking of which, if you see some content you think should be in WeeklyXamarin, let us know by using our submission form - <a href=\"https://bit.ly/WeeklyXamarinSubmit\">https://bit.ly/WeeklyXamarinSubmit</a></p>\n\n<p>Have a great week!</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "It's still technically the weekend in other parts of the world, so hope you are enjoying it.\r\n\r\nThis edition has some interesting links for those of you looking at Maui. As always thanks to the wonderful Xamarin community for their content.  Speaking of which, if you see some content you think should be in WeeklyXamarin, let us know by using our submission form - [https://bit.ly/WeeklyXamarinSubmit](https://bit.ly/WeeklyXamarinSubmit)\r\n\r\nHave a great week!\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "cPydZWP",
+              "title": "https://bit.ly/WeeklyXamarinSubmit",
+              "url_domain": "bit.ly",
+              "url": "https://bit.ly/WeeklyXamarinSubmit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "EOPFPPy",
+          "type": "Link",
+          "title": "Xamarin Best Practices",
+          "url_domain": "jesseliberty.com",
+          "url": "http://jesseliberty.com/2021/03/17/xamarin-best-practices",
+          "description": "<p>Jesse posted a blog post on C# best practices recently.  In this post he covers his Xamarin best practices.</p>\n\n<p><a href=\"http://jesseliberty.com/2021/03/17/xamarin-best-practices\"><strong>Xamarin Best Practices</strong></a> by <a href=\"https://twitter.com/jesseliberty\">Jesse Liberty</a></p>",
+          "description_markdown": "Jesse posted a blog post on C# best practices recently.  In this post he covers his Xamarin best practices.\r\n\r\n[**Xamarin Best Practices**](http://jesseliberty.com/2021/03/17/xamarin-best-practices) by [Jesse Liberty](https://twitter.com/jesseliberty)",
+          "embedded_links": [
+            {
+              "identifier": "KGS013S",
+              "title": "**Xamarin Best Practices**",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/2021/03/17/xamarin-best-practices"
+            },
+            {
+              "identifier": "aPxun9p",
+              "title": "Jesse Liberty",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jesseliberty"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "vSnq025",
+          "type": "Link",
+          "title": "Adventures in ARKit",
+          "url_domain": "davidbritch.com",
+          "url": "https://www.davidbritch.com/2021/03/adventures-in-arkit-rotating-earth.html",
+          "description": "<p>David Britch continues his exploration of ARKit. Make sure to heck out his articles and follow along.</p>\n\n<p><a href=\"https://www.davidbritch.com/2021/03/adventures-in-arkit-rotating-earth.html\"><strong>Adventures in ARKit - rotating earth</strong></a> by <a href=\"https://www.blogger.com/profile/08228714867310322959\">David Britch</a></p>",
+          "description_markdown": "David Britch continues his exploration of ARKit. Make sure to heck out his articles and follow along. \r\n\r\n[**Adventures in ARKit - rotating earth**](https://www.davidbritch.com/2021/03/adventures-in-arkit-rotating-earth.html) by [David Britch](https://www.blogger.com/profile/08228714867310322959)",
+          "embedded_links": [
+            {
+              "identifier": "lQLcUsN",
+              "title": "**Adventures in ARKit - rotating earth**",
+              "url_domain": "davidbritch.com",
+              "url": "https://www.davidbritch.com/2021/03/adventures-in-arkit-rotating-earth.html"
+            },
+            {
+              "identifier": "AKmrfXY",
+              "title": "David Britch",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/08228714867310322959"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "3guIYh3",
+          "type": "Link",
+          "title": "Accessing device contacts",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/gettings-contacts-with-xamarin-essentials/",
+          "description": "<p>Sometimes we have to integrate some functionalities into our Apps that require obtaining information from contacts, previously, to achieve this we had to take more development time, but now we have very good news!!! Xamarin Essentials included it for us!💚 We can implement this simply and easily! In this post, we will be learning how to do it! 😎</p>\n\n<p><a href=\"https://askxammy.com/gettings-contacts-with-xamarin-essentials/\"><strong>Gettings Contacts with Xamarin Essentials</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Sometimes we have to integrate some functionalities into our Apps that require obtaining information from contacts, previously, to achieve this we had to take more development time, but now we have very good news!!! Xamarin Essentials included it for us!💚 We can implement this simply and easily! In this post, we will be learning how to do it! 😎\r\n\r\n[**Gettings Contacts with Xamarin Essentials**](https://askxammy.com/gettings-contacts-with-xamarin-essentials/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "TaanJ4A",
+              "title": "**Gettings Contacts with Xamarin Essentials**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/gettings-contacts-with-xamarin-essentials/"
+            },
+            {
+              "identifier": "VwjHGrT",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "sBJFQQR",
+          "type": "Link",
+          "title": "Great Looking Settings Screens for Xamarin.Forms",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/great-looking-settings-screens-for-xamarin-forms/",
+          "description": "<p>Checkout some quick tips to theme the built in controls in Xamarin.Forms to make your settings screen look absolutely fantastic.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/great-looking-settings-screens-for-xamarin-forms/\"><strong>Great Looking Settings Screens for Xamarin.Forms | Xamarin Blog</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Checkout some quick tips to theme the built in controls in Xamarin.Forms to make your settings screen look absolutely fantastic.\r\n\r\n[**Great Looking Settings Screens for Xamarin.Forms | Xamarin Blog**](https://devblogs.microsoft.com/xamarin/great-looking-settings-screens-for-xamarin-forms/) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "rKqGlpq",
+              "title": "**Great Looking Settings Screens for Xamarin.Forms | Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/great-looking-settings-screens-for-xamarin-forms/"
+            },
+            {
+              "identifier": "tHSmKWS",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "gAWe4Eh",
+          "type": "Link",
+          "title": "Xamarin.Forms UI/UX Challenges - Micuna Food - Part2",
+          "url_domain": "github.io",
+          "url": "https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part2/",
+          "description": "<p>Daniel Montetelli continues his UI challenge, this time focusing on incorporating goodness from the Xamarin Community Toolkit\".</p>\n\n<p><a href=\"https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part2/\"><strong>Xamarin.Forms UI/UX Challenges - Micuna Food - Part2</strong></a> by <a href=\"https://twitter.com/DanielMonetelli\">Daniel Angel Monettelli L.</a></p>",
+          "description_markdown": "Daniel Montetelli continues his UI challenge, this time focusing on incorporating goodness from the Xamarin Community Toolkit\".\r\n\r\n[**Xamarin.Forms UI/UX Challenges - Micuna Food - Part2**](https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part2/) by [Daniel Angel Monettelli L.](https://twitter.com/DanielMonetelli)",
+          "embedded_links": [
+            {
+              "identifier": "CNxwfBX",
+              "title": "**Xamarin.Forms UI/UX Challenges - Micuna Food - Part2**",
+              "url_domain": "github.io",
+              "url": "https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part2/"
+            },
+            {
+              "identifier": "yNnXcGa",
+              "title": "Daniel Angel Monettelli L.",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DanielMonetelli"
+            }
+          ]
+        },
+        {
+          "identifier": "THrVTmi",
+          "type": "Link",
+          "title": "Getting Started with Local Notifications Xamarin Forms",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/getting-started-with-local-notifications-xamarin-forms",
+          "description": "<p>Get acquainted with local notifications, the alerts sent by applications installed on our mobile device without needing a back-end server to push them.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/getting-started-with-local-notifications-xamarin-forms\"><strong>Getting Started with Local Notifications Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Get acquainted with local notifications, the alerts sent by applications installed on our mobile device without needing a back-end server to push them.\r\n\r\n[**Getting Started with Local Notifications Xamarin Forms**](https://www.telerik.com/blogs/getting-started-with-local-notifications-xamarin-forms) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "DPUJU4X",
+              "title": "**Getting Started with Local Notifications Xamarin Forms**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/getting-started-with-local-notifications-xamarin-forms"
+            },
+            {
+              "identifier": "6je6NDu",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "4lJafEc",
+          "type": "Link",
+          "title": "Sneak Peek at 2021 Volume 1: Xamarin.Forms",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/sneak-peek-2021-volume-1-xamarin-forms.aspx",
+          "description": "<p>Syncfusion is about to release a new version of it's Xamarin.Forms controls. This blog post gives you a quick overview of the new features that are planned.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/sneak-peek-2021-volume-1-xamarin-forms.aspx\"><strong>Sneak Peek at 2021 Volume 1: Xamarin.Forms | Syncfusion Blogs</strong></a> by <a href=\"https://twitter.com/Syncfusion\">Syncfusion</a></p>",
+          "description_markdown": "Syncfusion is about to release a new version of it's Xamarin.Forms controls. This blog post gives you a quick overview of the new features that are planned.\r\n\r\n[**Sneak Peek at 2021 Volume 1: Xamarin.Forms | Syncfusion Blogs**](https://www.syncfusion.com/blogs/post/sneak-peek-2021-volume-1-xamarin-forms.aspx) by [Syncfusion](https://twitter.com/Syncfusion)",
+          "embedded_links": [
+            {
+              "identifier": "zgDgGRq",
+              "title": "**Sneak Peek at 2021 Volume 1: Xamarin.Forms | Syncfusion Blogs**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/sneak-peek-2021-volume-1-xamarin-forms.aspx"
+            },
+            {
+              "identifier": "BNj6xiI",
+              "title": "Syncfusion",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Syncfusion"
+            }
+          ]
+        },
+        {
+          "identifier": "f856fwR",
+          "type": "Link",
+          "title": "I updated a Xamarin Forms project to Maui",
+          "url_domain": "truegeek.com",
+          "url": "https://truegeek.com/2021/03/16/i-updated-forms-to-maui/",
+          "description": "<p>Now that <em>very</em> early Maui bits are out, Brad is living on the bleeding edge by creating a Xamarin.Forms project and convert it to Maui.</p>\n\n<p><a href=\"https://truegeek.com/2021/03/16/i-updated-forms-to-maui/\"><strong>I updated a Xamarin Forms project to Maui</strong></a> by <a href=\"https://github.com/TrueGeek\">Brad Dean</a></p>",
+          "description_markdown": "Now that *very* early Maui bits are out, Brad is living on the bleeding edge by creating a Xamarin.Forms project and convert it to Maui.\r\n\r\n[**I updated a Xamarin Forms project to Maui**](https://truegeek.com/2021/03/16/i-updated-forms-to-maui/) by [Brad Dean](https://github.com/TrueGeek)",
+          "embedded_links": [
+            {
+              "identifier": "gHw4LFf",
+              "title": "**I updated a Xamarin Forms project to Maui**",
+              "url_domain": "truegeek.com",
+              "url": "https://truegeek.com/2021/03/16/i-updated-forms-to-maui/"
+            },
+            {
+              "identifier": "glTjJHs",
+              "title": "Brad Dean",
+              "url_domain": "github.com",
+              "url": "https://github.com/TrueGeek"
+            }
+          ]
+        },
+        {
+          "identifier": "LE2ZxvJ",
+          "type": "Link",
+          "title": "Extending Xamarin.Forms.Nuke for images that fail to load",
+          "url_domain": "msicc.net",
+          "url": "https://msicc.net/extending-xamarin-forms-nuke-to-load-a-placeholder-for-images-that-fail-to-load/",
+          "description": "<p>I wasn't aware of the Xamarin.Forms.Nuke library for better image handling on Xamarin.Forms iOS. This post discusses how to extend it to implement placeholder images when loading fails.</p>\n\n<p><a href=\"https://msicc.net/extending-xamarin-forms-nuke-to-load-a-placeholder-for-images-that-fail-to-load/\"><strong>Extending Xamarin.Forms.Nuke on iOS to load a placeholder for images that fail to load | MSicc's Blog</strong></a> by <a href=\"https://twitter.com/msicc\">Marco Siccardi</a></p>",
+          "description_markdown": "I wasn't aware of the Xamarin.Forms.Nuke library for better image handling on Xamarin.Forms iOS. This post discusses how to extend it to implement placeholder images when loading fails.\r\n\r\n[**Extending Xamarin.Forms.Nuke on iOS to load a placeholder for images that fail to load | MSicc's Blog**](https://msicc.net/extending-xamarin-forms-nuke-to-load-a-placeholder-for-images-that-fail-to-load/) by [Marco Siccardi](https://twitter.com/msicc)",
+          "embedded_links": [
+            {
+              "identifier": "2dypPk7",
+              "title": "**Extending Xamarin.Forms.Nuke on iOS to load a placeholder for images that fail to load | MSicc's Blog**",
+              "url_domain": "msicc.net",
+              "url": "https://msicc.net/extending-xamarin-forms-nuke-to-load-a-placeholder-for-images-that-fail-to-load/"
+            },
+            {
+              "identifier": "yERkEij",
+              "title": "Marco Siccardi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/msicc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "emkNTde",
+          "type": "Link",
+          "title": "Pull-To-Refresh Everything with RefreshView in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=wYoOhc24WMk",
+          "description": "<p>Implement Pull-To-Refresh with any kind of layout with RefreshView that is available for you in Xamarin.Forms. In this video we will learn how to implement and customize this controls and how to refresh data in your application.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=wYoOhc24WMk\"><strong>Pull-To-Refresh Everything with RefreshView in Xamarin.Forms</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Implement Pull-To-Refresh with any kind of layout with RefreshView that is available for you in Xamarin.Forms. In this video we will learn how to implement and customize this controls and how to refresh data in your application.\r\n\r\n[**Pull-To-Refresh Everything with RefreshView in Xamarin.Forms**](https://www.youtube.com/watch?v=wYoOhc24WMk) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "b4GFHhY",
+              "title": "**Pull-To-Refresh Everything with RefreshView in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=wYoOhc24WMk"
+            },
+            {
+              "identifier": "pnnnVkS",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "rbXFPTT",
+          "type": "Link",
+          "title": "HTTP Web Requests with Data Caching | Xamarin 101",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=a37qBMt0V9w",
+          "description": "<p>The time has come to create and consume our ASP.NET Core Web API from our mobile application. In this Xamarin 101 video we take a look at calling CRUD operations from our Xamarin mobile app to our Web API backend. I step through what REST and HTTP is, how it works, how to call it, and how to cache data easily in your mobile apps.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=a37qBMt0V9w\"><strong>HTTP Web Requests with Data Caching | Xamarin 101</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "The time has come to create and consume our ASP.NET Core Web API from our mobile application. In this Xamarin 101 video we take a look at calling CRUD operations from our Xamarin mobile app to our Web API backend. I step through what REST and HTTP is, how it works, how to call it, and how to cache data easily in your mobile apps.\r\n\r\n[**HTTP Web Requests with Data Caching | Xamarin 101**](https://www.youtube.com/watch?v=a37qBMt0V9w) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "zrSpQs4",
+              "title": "**HTTP Web Requests with Data Caching | Xamarin 101**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=a37qBMt0V9w"
+            },
+            {
+              "identifier": "AcoKs3o",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "PedaUEZ",
+          "type": "Link",
+          "title": "Learn What's New in Xamarin.Forms 5 with Microsoft MVP Alessandro Del Sole",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/whats-new-in-xamarin-forms-5.aspx",
+          "description": "<p>This blog provides show notes from the SyncFusion \"Learn What's New in Xamarin.Forms 5.\" Webinar with Microsoft MVP Alessandro Del Sole.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/whats-new-in-xamarin-forms-5.aspx\"><strong>Learn What's New in Xamarin.Forms 5 with Microsoft MVP Alessandro Del Sole [Webinar Show Notes] | Syncfusion Blogs</strong></a> by <a href=\"https://twitter.com/Syncfusion\">Syncfusion</a></p>",
+          "description_markdown": "This blog provides show notes from the SyncFusion \"Learn What's New in Xamarin.Forms 5.\" Webinar with Microsoft MVP Alessandro Del Sole. \r\n\r\n[**Learn What's New in Xamarin.Forms 5 with Microsoft MVP Alessandro Del Sole [Webinar Show Notes] | Syncfusion Blogs**](https://www.syncfusion.com/blogs/post/whats-new-in-xamarin-forms-5.aspx) by [Syncfusion](https://twitter.com/Syncfusion)",
+          "embedded_links": [
+            {
+              "identifier": "aMczX4f",
+              "title": "Webinar Show Notes] | Syncfusion Blogs**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/whats-new-in-xamarin-forms-5.aspx"
+            },
+            {
+              "identifier": "9V8UPB9",
+              "title": "Syncfusion",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Syncfusion"
+            }
+          ]
+        },
+        {
+          "identifier": "ub2jwru",
+          "type": "Link",
+          "title": "Xamarin Community Toolkit - Forget Time Zones with DateTimeOffsetConverter",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Forget-Time-Zones-with-DateTimeOffsetConverter",
+          "description": "<p>In this episode we will learn everything about the DateTimeOffsetConverter that is included in the Xamarin Community Toolkit. Mark Allibone knows from first-hand experience that sometimes, in a backend, dates are stored as an offset. To not be bother with all kinds of time zone hassles, he wrote the DateTimeOffsetConverter. And now, Mark has contributed that converter to the Xamarin Community Toolkit so everyone can benefit!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Forget-Time-Zones-with-DateTimeOffsetConverter\"><strong>Xamarin Community Toolkit - Forget Time Zones with DateTimeOffsetConverter</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "In this episode we will learn everything about the DateTimeOffsetConverter that is included in the Xamarin Community Toolkit. Mark Allibone knows from first-hand experience that sometimes, in a backend, dates are stored as an offset. To not be bother with all kinds of time zone hassles, he wrote the DateTimeOffsetConverter. And now, Mark has contributed that converter to the Xamarin Community Toolkit so everyone can benefit!\r\n\r\n\r\n[**Xamarin Community Toolkit - Forget Time Zones with DateTimeOffsetConverter**](https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Forget-Time-Zones-with-DateTimeOffsetConverter) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "xdRkUOa",
+              "title": "**Xamarin Community Toolkit - Forget Time Zones with DateTimeOffsetConverter**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Forget-Time-Zones-with-DateTimeOffsetConverter"
+            },
+            {
+              "identifier": "YTtBaZP",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "6u73Vw7",
+          "type": "Link",
+          "title": "Merge Conflict: 245: Doubling Down on Cross-Platform Development",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/245",
+          "description": "<p>.NET MAUI may be on the way, but Xamarin.Forms 5 is here today! We discuss the journey and what is next.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/245\"><strong>Merge Conflict: 245: Doubling Down on Cross-Platform Development</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": ".NET MAUI may be on the way, but Xamarin.Forms 5 is here today! We discuss the journey and what is next.\r\n\r\n[**Merge Conflict: 245: Doubling Down on Cross-Platform Development**](https://www.mergeconflict.fm/245) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "w8koGt8",
+              "title": "**Merge Conflict: 245: Doubling Down on Cross-Platform Development**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/245"
+            },
+            {
+              "identifier": "sWjjB1S",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

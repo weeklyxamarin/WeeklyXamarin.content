@@ -1,0 +1,137 @@
+{
+  "Id": "301",
+  "Name": "Issue 301",
+  "UpdatedTimeStamp": "2021-03-21T23:25:20Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "It's still technically the weekend in other parts of the world, so hope you are enjoying it. This edition has some interesting links for those of you looking at Maui. As always thanks to the wonderful Xamarin community for their content.  Speaking of which, if you see some content you think should be in WeeklyXamarin, let us know by using our submission form - [https://bit.ly/WeeklyXamarinSubmit](https://bit.ly/WeeklyXamarinSubmit) Have a great week! ❤ Kym",
+  "PublishDate": "2021-03-21T23:25:18Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Xamarin Best Practices",
+      "Url": "http://jesseliberty.com/2021/03/17/xamarin-best-practices",
+      "Description": "Jesse posted a blog post on C# best practices recently.  In this post he covers his Xamarin best practices.",
+      "EditionId": "301",
+      "Author": "Jesse Liberty",
+      "Id": "301-1",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Adventures in ARKit",
+      "Url": "https://www.davidbritch.com/2021/03/adventures-in-arkit-rotating-earth.html",
+      "Description": "David Britch continues his exploration of ARKit. Make sure to heck out his articles and follow along.",
+      "EditionId": "301",
+      "Author": "David Britch",
+      "Id": "301-2",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Accessing device contacts",
+      "Url": "https://askxammy.com/gettings-contacts-with-xamarin-essentials/",
+      "Description": "Sometimes we have to integrate some functionalities into our Apps that require obtaining information from contacts, previously, to achieve this we had to take more development time, but now we have very good news!!! Xamarin Essentials included it for us!💚 We can implement this simply and easily! In this post, we will be learning how to do it! 😎",
+      "EditionId": "301",
+      "Author": "Leomaris Reyes",
+      "Id": "301-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Great Looking Settings Screens for Xamarin.Forms",
+      "Url": "https://devblogs.microsoft.com/xamarin/great-looking-settings-screens-for-xamarin-forms/",
+      "Description": "Checkout some quick tips to theme the built in controls in Xamarin.Forms to make your settings screen look absolutely fantastic.",
+      "EditionId": "301",
+      "Author": "James Montemagno",
+      "Id": "301-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms UI/UX Challenges - Micuna Food - Part2",
+      "Url": "https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part2/",
+      "Description": "Daniel Montetelli continues his UI challenge, this time focusing on incorporating goodness from the Xamarin Community Toolkit\".",
+      "EditionId": "301",
+      "Author": "Daniel Monetelli",
+      "Id": "301-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Getting Started with Local Notifications Xamarin Forms",
+      "Url": "https://www.telerik.com/blogs/getting-started-with-local-notifications-xamarin-forms",
+      "Description": "Get acquainted with local notifications, the alerts sent by applications installed on our mobile device without needing a back-end server to push them.",
+      "EditionId": "301",
+      "Author": "Leomaris Reyes",
+      "Id": "301-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Sneak Peek at 2021 Volume 1: Xamarin.Forms",
+      "Url": "https://www.syncfusion.com/blogs/post/sneak-peek-2021-volume-1-xamarin-forms.aspx",
+      "Description": "Syncfusion is about to release a new version of it's Xamarin.Forms controls. This blog post gives you a quick overview of the new features that are planned.",
+      "EditionId": "301",
+      "Author": "Syncfusion",
+      "Id": "301-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "I updated a Xamarin Forms project to Maui",
+      "Url": "https://truegeek.com/2021/03/16/i-updated-forms-to-maui/",
+      "Description": "Now that *very* early Maui bits are out, Brad is living on the bleeding edge by creating a Xamarin.Forms project and convert it to Maui.",
+      "EditionId": "301",
+      "Author": "Brad Dean",
+      "Id": "301-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Extending Xamarin.Forms.Nuke for images that fail to load",
+      "Url": "https://msicc.net/extending-xamarin-forms-nuke-to-load-a-placeholder-for-images-that-fail-to-load/",
+      "Description": "I wasn't aware of the Xamarin.Forms.Nuke library for better image handling on Xamarin.Forms iOS. This post discusses how to extend it to implement placeholder images when loading fails.",
+      "EditionId": "301",
+      "Author": "Marco Siccardi",
+      "Id": "301-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Pull-To-Refresh Everything with RefreshView in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=wYoOhc24WMk",
+      "Description": "Implement Pull-To-Refresh with any kind of layout with RefreshView that is available for you in Xamarin.Forms. In this video we will learn how to implement and customize this controls and how to refresh data in your application.",
+      "EditionId": "301",
+      "Author": "Gerald Versluis",
+      "Id": "301-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "HTTP Web Requests with Data Caching | Xamarin 101",
+      "Url": "https://www.youtube.com/watch?v=a37qBMt0V9w",
+      "Description": "The time has come to create and consume our ASP.NET Core Web API from our mobile application. In this Xamarin 101 video we take a look at calling CRUD operations from our Xamarin mobile app to our Web API backend. I step through what REST and HTTP is, how it works, how to call it, and how to cache data easily in your mobile apps.",
+      "EditionId": "301",
+      "Author": "James Montemagno",
+      "Id": "301-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Learn What's New in Xamarin.Forms 5 with Microsoft MVP Alessandro Del Sole",
+      "Url": "https://www.syncfusion.com/blogs/post/whats-new-in-xamarin-forms-5.aspx",
+      "Description": "This blog provides show notes from the SyncFusion \"Learn What's New in Xamarin.Forms 5.\" Webinar with Microsoft MVP Alessandro Del Sole.",
+      "EditionId": "301",
+      "Author": "Syncfusion",
+      "Id": "301-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Community Toolkit - Forget Time Zones with DateTimeOffsetConverter",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Forget-Time-Zones-with-DateTimeOffsetConverter",
+      "Description": "In this episode we will learn everything about the DateTimeOffsetConverter that is included in the Xamarin Community Toolkit. Mark Allibone knows from first-hand experience that sometimes, in a backend, dates are stored as an offset. To not be bother with all kinds of time zone hassles, he wrote the DateTimeOffsetConverter. And now, Mark has contributed that converter to the Xamarin Community Toolkit so everyone can benefit!",
+      "EditionId": "301",
+      "Author": "The Xamarin Show",
+      "Id": "301-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 245: Doubling Down on Cross-Platform Development",
+      "Url": "https://www.mergeconflict.fm/245",
+      "Description": ".NET MAUI may be on the way, but Xamarin.Forms 5 is here today! We discuss the journey and what is next.",
+      "EditionId": "301",
+      "Author": "Merge Conflict",
+      "Id": "301-14",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
