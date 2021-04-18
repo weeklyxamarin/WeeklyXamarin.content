@@ -1280,12 +1280,17 @@
       "Name": "Jesse Liberty",
       "TwitterHandle": "jesseliberty",
       "GitHubHandle": "JesseLiberty",
-      "Id": "http://jesseliberty.com/author/jl/",
+      "Id": "https://twitter.com/JesseLiberty",
       "Aliases": [
         {
           "Type": "blog",
           "Name": "http://jesseliberty.com/author/jl/"
+        },
+        {
+          "Type": "blog",
+          "Name": "http://jesseliberty.com"
         }
+
       ],
       "Website": "http://jesseliberty.me"
     },
@@ -2241,7 +2246,12 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/rdelrosario"
+        },
+        {
+          "Type": "blog",
+          "Name": "https://www.xamboy.com/"
         }
+
       ],
       "Website": "https://xamboy.com/"
     },
@@ -2613,7 +2623,13 @@
       "TwitterHandle": "XamarinPodcast",
       "GitHubHandle": "",
       "Id": "https://twitter.com/XamarinPodcast",
-      "Website": "http://www.xamarinpodcast.com"
+      "Website": "https://www.xamarinpodcast.com",
+      "Aliases":[
+        {
+          "Type": "blog",
+          "Name": "http://www.xamarinpodcast.com"
+        }
+      ]
     },
     {
       "Name": "The Xamarin Show",
