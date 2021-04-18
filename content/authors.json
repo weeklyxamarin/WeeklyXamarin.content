@@ -388,6 +388,16 @@
       "Website": "https://www.basdecort.com"
     },
     {
+      "Name": "Baymard Institute",
+      "Id": "https://baymard.com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://baymard.com/"
+        }
+      ]
+    },
+    {
       "Name": "Ben Weiss",
       "Id": "https://twitter.com/keyboardsurfer",
       "Aliases": [
@@ -841,6 +851,16 @@
         {
           "Type": "blog",
           "Name": "https://developerweeklypodcast.com/"
+        }
+      ]
+    },
+    {
+      "Name": "DevExpress",
+      "Id": "https://www.devexpress.com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.devexpress.com/"
         }
       ]
     },
@@ -2287,6 +2307,16 @@
       ]
     },
     {
+      "Name": "Rahul Shah",
+      "Id": "https://twitter.com/rahulushah",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/rahulushah"
+        }
+      ]
+    },
+    {
       "Name": "Ram Shandilya",
       "Id": "https://twitter.com/ramshandilya",
       "Aliases": [
@@ -2565,6 +2595,16 @@
       ]
     },
     {
+      "Name": "Setting up debugging in VS Code",
+      "Id": "https://vijay1729.wordpress.com/2021/04/04/net-maui-project-debug-with-vs-code/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://vijay1729.wordpress.com/2021/04/04/net-maui-project-debug-with-vs-code/"
+        }
+      ]
+    },
+    {
       "Name": "Shane Neuville",
       "Id": "https://twitter.com/pureween",
       "Aliases": [
@@ -2683,6 +2723,16 @@
       ]
     },
     {
+      "Name": "Summitech",
+      "Id": "https://github.com/summitech",
+      "Aliases": [
+        {
+          "Type": "github",
+          "Name": "https://github.com/summitech"
+        }
+      ]
+    },
+    {
       "Name": "Suthahar Jegatheesan",
       "TwitterHandle": "jssuthahar",
       "GitHubHandle": "jssuthahar",
@@ -2730,6 +2780,16 @@
         {
           "Type": "blog",
           "Name": "https://www.telerik.com/"
+        }
+      ]
+    },
+    {
+      "Name": "The .NET Show with Carl Franklin",
+      "Id": "https://www.thedotnetshow.com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.thedotnetshow.com/"
         }
       ]
     },
@@ -2947,6 +3007,21 @@
           "Name": "https://medium.com/@viditb"
         }
       ]
+    },
+    {
+      "Name": "Vijay Anand",
+      "Id": "https://vijay1729.wordpress.com/2021/04/03/about-me/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://vijay1729.wordpress.com/2021/04/03/about-me/"
+        },
+        {
+          "Type": "blog",
+          "Name": "https://vijay1729.wordpress.com"
+        }
+      ],
+      "Website": "https://vijay1729.wordpress.com"
     },
     {
       "Name": "Vijayakumar Yoganandan",

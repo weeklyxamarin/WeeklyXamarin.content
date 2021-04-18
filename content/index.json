@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "303",
+      "Name": "Issue 303",
+      "UpdatedTimeStamp": "2021-04-10T13:17:46Z",
+      "Summary": "MAUI goodness and oh so many videos and podcasts.",
+      "PublishDate": "2021-04-10T13:17:45Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "302",
       "Name": "Issue 302",
       "UpdatedTimeStamp": "2021-04-01T05:48:00Z",

@@ -1,0 +1,656 @@
+{
+  "number": 303,
+  "title": "Issue 303",
+  "summary": "MAUI goodness and oh so many videos and podcasts.",
+  "url": "https://weeklyxamarin.com/issues/303",
+  "publication_status": "published",
+  "published_at": "2021-04-10T14:17:45+01:00",
+  "updated_at": "2021-04-10T14:17:46+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy weekend everyone, you made it!</p>\n\n<p>There has been quite a bit of MAUI goodness going on with the release of Preview 3, so quite a bit in this weeks edition... And oh so many videos and podcasts.</p>\n\n<p>Thanks to Vijay and Vadim for submitting some additional articles this week.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy weekend everyone, you made it!\r\n\r\nThere has been quite a bit of MAUI goodness going on with the release of Preview 3, so quite a bit in this weeks edition... And oh so many videos and podcasts.\r\n\r\nThanks to Vijay and Vadim for submitting some additional articles this week.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "gettingstarted",
+      "name": "GETTING STARTED",
+      "items": [
+        {
+          "identifier": "QeYtdPB",
+          "type": "Link",
+          "title": "Getting started with CollectionView in Xamarin.Forms",
+          "url_domain": "logrocket.com",
+          "url": "https://blog.logrocket.com/getting-started-with-collectionview-in-xamarin-forms/",
+          "description": "<p>Leomaris gives an introduction to the CollectionView in Xamarin.Forms.  All the essential properties events and commands are covered.</p>\n\n<p><a href=\"https://blog.logrocket.com/getting-started-with-collectionview-in-xamarin-forms/\"><strong>Getting started with CollectionView in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris gives an introduction to the CollectionView in Xamarin.Forms.  All the essential properties events and commands are covered.\r\n\r\n[**Getting started with CollectionView in Xamarin.Forms**](https://blog.logrocket.com/getting-started-with-collectionview-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "vKk4sNg",
+              "title": "**Getting started with CollectionView in Xamarin.Forms**",
+              "url_domain": "logrocket.com",
+              "url": "https://blog.logrocket.com/getting-started-with-collectionview-in-xamarin-forms/"
+            },
+            {
+              "identifier": "H8OV9ZG",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "Hf1mou",
+          "type": "Link",
+          "title": "Paywall Screens",
+          "url_domain": "paywallscreens.com",
+          "url": "https://www.paywallscreens.com/",
+          "description": "<p>Everything you need to design top-notch mobile paywall screens. View examples of other apps and use a Figma template to quickly design your own.</p>\n\n<p><a href=\"https://www.paywallscreens.com/\"><strong>Paywall Screens</strong></a> by <a href=\"https://twitter.com/rahulushah\">Rahul Shah</a></p>",
+          "description_markdown": "Everything you need to design top-notch mobile paywall screens. View examples of other apps and use a Figma template to quickly design your own.\r\n\r\n[**Paywall Screens**](https://www.paywallscreens.com/) by [Rahul Shah](https://twitter.com/rahulushah)",
+          "embedded_links": [
+            {
+              "identifier": "9l27qs1",
+              "title": "**Paywall Screens**",
+              "url_domain": "paywallscreens.com",
+              "url": "https://www.paywallscreens.com/"
+            },
+            {
+              "identifier": "KTISjpK",
+              "title": "Rahul Shah",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rahulushah"
+            }
+          ]
+        },
+        {
+          "identifier": "gT7Gdmr",
+          "type": "Link",
+          "title": "The Current State of Mobile UX (18 Common Pitfalls)",
+          "url_domain": "baymard.com",
+          "url": "https://baymard.com/blog/2021-current-state-mobile-ecommerce",
+          "description": "<p>This article analyzes the current state of mobile UX, and outline 18 common design pitfalls and strategic oversights applicable to most mobile e-commerce sites.</p>\n\n<p><a href=\"https://baymard.com/blog/2021-current-state-mobile-ecommerce\"><strong>The Current State of Mobile UX (18 Common Pitfalls)</strong></a> by <a href=\"https://baymard.com/\">Baymard Institute</a></p>",
+          "description_markdown": "This article analyzes the current state of mobile UX, and outline 18 common design pitfalls and strategic oversights applicable to most mobile e-commerce sites.\r\n\r\n[**The Current State of Mobile UX (18 Common Pitfalls)**](https://baymard.com/blog/2021-current-state-mobile-ecommerce) by [Baymard Institute](https://baymard.com/)",
+          "embedded_links": [
+            {
+              "identifier": "gaF7tw3",
+              "title": "**The Current State of Mobile UX (18 Common Pitfalls)**",
+              "url_domain": "baymard.com",
+              "url": "https://baymard.com/blog/2021-current-state-mobile-ecommerce"
+            },
+            {
+              "identifier": "xiN5VEz",
+              "title": "Baymard Institute",
+              "url_domain": "baymard.com",
+              "url": "https://baymard.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "opensource",
+      "name": "OPEN SOURCE",
+      "items": [
+        {
+          "identifier": "s8HIBOo",
+          "type": "Link",
+          "title": "EBind - Binding Framework",
+          "url_domain": "github.com",
+          "url": "https://github.com/SIDOVSKY/EBind",
+          "description": "<p>I haven't delved into this too much but looks like a interesting Binding framework - or as the project says: .NET Data Binding we deserve: concise, fast, feature-rich.</p>\n\n<p><a href=\"https://github.com/SIDOVSKY/EBind\"><strong>SIDOVSKY/EBind</strong></a> by <a href=\"https://twitter.com/sidovsky_\">Vadim Sedov</a></p>",
+          "description_markdown": "I haven't delved into this too much but looks like a interesting Binding framework - or as the project says: .NET Data Binding we deserve: concise, fast, feature-rich.\r\n\r\n[**SIDOVSKY/EBind**](https://github.com/SIDOVSKY/EBind) by [Vadim Sedov](https://twitter.com/sidovsky_)",
+          "embedded_links": [
+            {
+              "identifier": "bUauSLq",
+              "title": "**SIDOVSKY/EBind**",
+              "url_domain": "github.com",
+              "url": "https://github.com/SIDOVSKY/EBind"
+            },
+            {
+              "identifier": "TpcAb0r",
+              "title": "Vadim Sedov",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/sidovsky_"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "jNe3uxD",
+          "type": "Link",
+          "title": "Free Xamarin UI Controls for Android & iOS",
+          "url_domain": "devexpress.com",
+          "url": "https://www.devexpress.com/xamarin/free-offer/",
+          "description": "<p>Registered DevExpress.com users are entitled to a free copy of DevExpress Xamarin.Forms Controls v20.2. A control suite for Xamarin.Forms ships with several user interface components. Includes a Data Grid, Scheduler, Charts, Tab View and Navigation Drawer.</p>\n\n<p><a href=\"https://www.devexpress.com/xamarin/free-offer/\"><strong>Free Xamarin UI Controls for Android &amp; iOS - C# | DevExpress</strong></a> by <a href=\"https://www.devexpress.com/\">DevExpress</a></p>",
+          "description_markdown": "Registered DevExpress.com users are entitled to a free copy of DevExpress Xamarin.Forms Controls v20.2. A control suite for Xamarin.Forms ships with several user interface components. Includes a Data Grid, Scheduler, Charts, Tab View and Navigation Drawer.\r\n\r\n[**Free Xamarin UI Controls for Android & iOS - C# | DevExpress**](https://www.devexpress.com/xamarin/free-offer/) by [DevExpress](https://www.devexpress.com/)",
+          "embedded_links": [
+            {
+              "identifier": "JA7cWQt",
+              "title": "**Free Xamarin UI Controls for Android & iOS - C# | DevExpress**",
+              "url_domain": "devexpress.com",
+              "url": "https://www.devexpress.com/xamarin/free-offer/"
+            },
+            {
+              "identifier": "BUZmyOG",
+              "title": "DevExpress",
+              "url_domain": "devexpress.com",
+              "url": "https://www.devexpress.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "kqhBYp8",
+          "type": "Link",
+          "title": "GitExplorer",
+          "url_domain": "gitexplorer.com",
+          "url": "https://gitexplorer.com/",
+          "description": "<p>Not specifically Xamarin, but super useful if you are not great with git command line - GitExplorer: Find the right git commands you need without digging through the web</p>\n\n<p><a href=\"https://gitexplorer.com/\"><strong>GitExplorer</strong></a> by <a href=\"https://github.com/summitech\">Summitech</a></p>",
+          "description_markdown": "Not specifically Xamarin, but super useful if you are not great with git command line - GitExplorer: Find the right git commands you need without digging through the web\r\n\r\n[**GitExplorer**](https://gitexplorer.com/) by [Summitech](https://github.com/summitech)",
+          "embedded_links": [
+            {
+              "identifier": "dnQ1GEx",
+              "title": "**GitExplorer**",
+              "url_domain": "gitexplorer.com",
+              "url": "https://gitexplorer.com/"
+            },
+            {
+              "identifier": "p6432dt",
+              "title": "Summitech",
+              "url_domain": "github.com",
+              "url": "https://github.com/summitech"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "s0GNaB1",
+          "type": "Link",
+          "title": "RunSafe Tasks / Commands wrapper in Xamarin",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/runsafe-tasks-commands-wrapper/",
+          "description": "<p>When we work with Task most of the time we do common implementations of scenarios where we use repetitive code. For example use IsBusy, try-catch, Logging, etc.  The idea is to make a wrapper that allows us to store all this logic for us to reuse.</p>\n\n<p><a href=\"https://luismts.com/runsafe-tasks-commands-wrapper/\"><strong>RunSafe Tasks / Commands wrapper in Xamarin</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "When we work with Task most of the time we do common implementations of scenarios where we use repetitive code. For example use IsBusy, try-catch, Logging, etc.  The idea is to make a wrapper that allows us to store all this logic for us to reuse.\r\n\r\n[**RunSafe Tasks / Commands wrapper in Xamarin**](https://luismts.com/runsafe-tasks-commands-wrapper/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "g18rBhK",
+              "title": "**RunSafe Tasks / Commands wrapper in Xamarin**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/runsafe-tasks-commands-wrapper/"
+            },
+            {
+              "identifier": "yck8XMp",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "7qqjSe4",
+          "type": "Link",
+          "title": "Xamarin.Forms Country Picker with Rg.Plugins.Popup",
+          "url_domain": "medium.com",
+          "url": "https://benetskyybogdan.medium.com/xamarin-forms-country-picker-with-rg-plugins-popup-fec1a045f7c",
+          "description": "<p>Beautiful Country Picker for any Xamarin.Forms application with Rg.Plugins.Popup NuGet and online SVG Flags</p>\n\n<p><a href=\"https://benetskyybogdan.medium.com/xamarin-forms-country-picker-with-rg-plugins-popup-fec1a045f7c\"><strong>Xamarin.Forms Country Picker with Rg.Plugins.Popup | by Bohdan Benetskyi</strong></a> by <a href=\"https://twitter.com/bbenetskyy\">Bohdan Benetskyi</a></p>",
+          "description_markdown": "Beautiful Country Picker for any Xamarin.Forms application with Rg.Plugins.Popup NuGet and online SVG Flags\r\n\r\n[**Xamarin.Forms Country Picker with Rg.Plugins.Popup | by Bohdan Benetskyi**](https://benetskyybogdan.medium.com/xamarin-forms-country-picker-with-rg-plugins-popup-fec1a045f7c) by [Bohdan Benetskyi](https://twitter.com/bbenetskyy)",
+          "embedded_links": [
+            {
+              "identifier": "6YjUGId",
+              "title": "**Xamarin.Forms Country Picker with Rg.Plugins.Popup | by Bohdan Benetskyi**",
+              "url_domain": "medium.com",
+              "url": "https://benetskyybogdan.medium.com/xamarin-forms-country-picker-with-rg-plugins-popup-fec1a045f7c"
+            },
+            {
+              "identifier": "YxamRJt",
+              "title": "Bohdan Benetskyi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bbenetskyy"
+            }
+          ]
+        },
+        {
+          "identifier": "PrEzRdt",
+          "type": "Link",
+          "title": "Updating Braintree to the Latest Version in Xamarin Forms",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2021/04/01/updating-braintree-to-the-latest-version-in-xamarin-forms/",
+          "description": "<p>Some time ago Rendy wrote a series of articles on how to integrate Braintree Payment in Xamarin Forms, since then a few things have changed..</p>\n\n<p><a href=\"https://www.xamboy.com/2021/04/01/updating-braintree-to-the-latest-version-in-xamarin-forms/\"><strong>Updating Braintree to the Latest Version in Xamarin Forms - Rendy's Website</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "Some time ago Rendy wrote a series of articles on how to integrate Braintree Payment in Xamarin Forms, since then a few things have changed..\r\n\r\n[**Updating Braintree to the Latest Version in Xamarin Forms - Rendy's Website**](https://www.xamboy.com/2021/04/01/updating-braintree-to-the-latest-version-in-xamarin-forms/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "cnpRB7S",
+              "title": "**Updating Braintree to the Latest Version in Xamarin Forms - Rendy's Website**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2021/04/01/updating-braintree-to-the-latest-version-in-xamarin-forms/"
+            },
+            {
+              "identifier": "SvKf5YI",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        },
+        {
+          "identifier": "zrktdrd",
+          "type": "Link",
+          "title": "Workaround to force Xamarin.Forms WebView to use a dark mode CSS for local content on Android",
+          "url_domain": "msicc.net",
+          "url": "https://msicc.net/workaround-to-force-xamarin-forms-webview-to-use-a-dark-mode-css-for-local-content-on-android/",
+          "description": "<p>As the 'prefer-color-scheme'-CSS query does not work on Android with a Xamarin.Forms WebView, I needed find a workaround to support dark mode for local HTML content. In this post, I'll show you a Xamarin.Forms only workaround.</p>\n\n<p><a href=\"https://msicc.net/workaround-to-force-xamarin-forms-webview-to-use-a-dark-mode-css-for-local-content-on-android/\"><strong>Workaround to force Xamarin.Forms WebView to use a dark mode CSS for local content on Android</strong></a> by <a href=\"https://twitter.com/msicc\">Marco Siccardi</a></p>",
+          "description_markdown": "As the 'prefer-color-scheme'-CSS query does not work on Android with a Xamarin.Forms WebView, I needed find a workaround to support dark mode for local HTML content. In this post, I'll show you a Xamarin.Forms only workaround.\r\n\r\n[**Workaround to force Xamarin.Forms WebView to use a dark mode CSS for local content on Android**](https://msicc.net/workaround-to-force-xamarin-forms-webview-to-use-a-dark-mode-css-for-local-content-on-android/) by [Marco Siccardi](https://twitter.com/msicc)",
+          "embedded_links": [
+            {
+              "identifier": "MiZ6quo",
+              "title": "**Workaround to force Xamarin.Forms WebView to use a dark mode CSS for local content on Android**",
+              "url_domain": "msicc.net",
+              "url": "https://msicc.net/workaround-to-force-xamarin-forms-webview-to-use-a-dark-mode-css-for-local-content-on-android/"
+            },
+            {
+              "identifier": "9QDgdce",
+              "title": "Marco Siccardi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/msicc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "IYu39Ng",
+          "type": "Link",
+          "title": ".NET MAUI Check tool",
+          "url_domain": "github.com",
+          "url": "https://github.com/Redth/dotnet-maui-check",
+          "description": "<p>Are you ready for MAUI? Redth has a tool that'll help you check if you have all the bits you need.</p>\n\n<p><a href=\"https://github.com/Redth/dotnet-maui-check\"><strong>Redth/dotnet-maui-check</strong></a> by <a href=\"https://twitter.com/redth\">Jon Dick</a></p>",
+          "description_markdown": "Are you ready for MAUI? Redth has a tool that'll help you check if you have all the bits you need.\r\n\r\n[**Redth/dotnet-maui-check**](https://github.com/Redth/dotnet-maui-check) by [Jon Dick](https://twitter.com/redth)",
+          "embedded_links": [
+            {
+              "identifier": "lzEzhhV",
+              "title": "**Redth/dotnet-maui-check**",
+              "url_domain": "github.com",
+              "url": "https://github.com/Redth/dotnet-maui-check"
+            },
+            {
+              "identifier": "NZPq8y0",
+              "title": "Jon Dick",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/redth"
+            }
+          ]
+        },
+        {
+          "identifier": "5xwomPz",
+          "type": "Link",
+          "title": ".NET MAUI – Project Template",
+          "url_domain": "wordpress.com",
+          "url": "https://vijay1729.wordpress.com/2021/04/03/net-maui-project-template/",
+          "description": "<p>Vijay is exploring the world of MAUI.  In this article he creates an app using Visual Studio Code.  He follows this up with another article <a href=\"https://vijay1729.wordpress.com/2021/04/04/net-maui-project-debug-with-vs-code/\">Setting up debugging in VS Code</a>.</p>\n\n<p><a href=\"https://vijay1729.wordpress.com/2021/04/03/net-maui-project-template/\"><strong>.NET MAUI – Project Template</strong></a> by <a href=\"https://vijay1729.wordpress.com/2021/04/03/about-me/\">Vijay Anand</a></p>",
+          "description_markdown": "Vijay is exploring the world of MAUI.  In this article he creates an app using Visual Studio Code.  He follows this up with another article [Setting up debugging in VS Code](https://vijay1729.wordpress.com/2021/04/04/net-maui-project-debug-with-vs-code/).\r\n\r\n[**.NET MAUI – Project Template**](https://vijay1729.wordpress.com/2021/04/03/net-maui-project-template/) by [Vijay Anand](https://vijay1729.wordpress.com/2021/04/03/about-me/)",
+          "embedded_links": [
+            {
+              "identifier": "UL92Mfp",
+              "title": "Setting up debugging in VS Code",
+              "url_domain": "wordpress.com",
+              "url": "https://vijay1729.wordpress.com/2021/04/04/net-maui-project-debug-with-vs-code/"
+            },
+            {
+              "identifier": "k6s24I9",
+              "title": "Vijay Anand",
+              "url_domain": "wordpress.com",
+              "url": "https://vijay1729.wordpress.com/2021/04/03/about-me/"
+            },
+            {
+              "identifier": "S7vKVpJ",
+              "title": "**.NET MAUI – Project Template**",
+              "url_domain": "wordpress.com",
+              "url": "https://vijay1729.wordpress.com/2021/04/03/net-maui-project-template/"
+            }
+          ]
+        },
+        {
+          "identifier": "YD08nju",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #3",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-3",
+          "description": "<p>Sam wraps up the weekly Maui news, including the cool Maui Check tool by Jon Dick.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-3\"><strong>Sands of Maui - Issue 3</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam wraps up the weekly Maui news, including the cool Maui Check tool by Jon Dick.\r\n\r\n[**Sands of Maui - Issue 3**](https://www.telerik.com/blogs/sands-of-maui-issue-3) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)",
+          "embedded_links": [
+            {
+              "identifier": "UmPOJqk",
+              "title": "**Sands of Maui - Issue 3**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-3"
+            },
+            {
+              "identifier": "3usYkoD",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "jJNjsrP",
+          "type": "Link",
+          "title": "Jon Galloway on Visual Studio Mac",
+          "url_domain": "jesseliberty.com",
+          "url": "http://jesseliberty.com/2021/04/02/jon-galloway-on-visual-studio-mac/",
+          "description": "<p>Jon joins Jesse to talk about Visual Studio Mac and Maui!</p>\n\n<p><a href=\"http://jesseliberty.com/2021/04/02/jon-galloway-on-visual-studio-mac/\"><strong>Jon Galloway on Visual Studio Mac</strong></a> by <a href=\"https://twitter.com/JesseLiberty\">Jesse Liberty</a></p>",
+          "description_markdown": "Jon joins Jesse to talk about Visual Studio Mac and Maui!\r\n\r\n[**Jon Galloway on Visual Studio Mac**](http://jesseliberty.com/2021/04/02/jon-galloway-on-visual-studio-mac/) by [Jesse Liberty](https://twitter.com/JesseLiberty)",
+          "embedded_links": [
+            {
+              "identifier": "XFoNFxA",
+              "title": "**Jon Galloway on Visual Studio Mac**",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/2021/04/02/jon-galloway-on-visual-studio-mac/"
+            },
+            {
+              "identifier": "7qI58Y4",
+              "title": "Jesse Liberty",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/JesseLiberty"
+            }
+          ]
+        },
+        {
+          "identifier": "JEnEmpE",
+          "type": "Link",
+          "title": "Merge Conflict: 248: Satisfying Business Requirements",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/248",
+          "description": "<p>Yes, this is the most boring title ever, but this podcast episode isn't!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/248\"><strong>Merge Conflict: 248: Satisfying Business Requirements</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Yes, this is the most boring title ever, but this podcast episode isn't!\r\n\r\n[**Merge Conflict: 248: Satisfying Business Requirements**](https://www.mergeconflict.fm/248) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "R1NNUnI",
+              "title": "**Merge Conflict: 248: Satisfying Business Requirements**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/248"
+            },
+            {
+              "identifier": "2P3cG65",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "TdSFaKU",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 90: .NET MAUI Q&A",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/90",
+          "description": "<p>David Ortinau sites down with us to answer a TON of listener questions on .NET MAUI. Plus we got some cloud news &amp; of course the Pick of the Pod!!</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/90\"><strong>The Xamarin Podcast Episode 90: .NET MAUI Q&amp;A</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "David Ortinau sites down with us to answer a TON of listener questions on .NET MAUI. Plus we got some cloud news & of course the Pick of the Pod!!\r\n\r\n[**The Xamarin Podcast Episode 90: .NET MAUI Q&A**](https://www.xamarinpodcast.com/90) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)",
+          "embedded_links": [
+            {
+              "identifier": "fJYlUNX",
+              "title": "**The Xamarin Podcast Episode 90: .NET MAUI Q&A**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/90"
+            },
+            {
+              "identifier": "x8fgrWF",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        },
+        {
+          "identifier": "VHY3Oku",
+          "type": "Link",
+          "title": "Xamarin.Forms Shell Navigation 101",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=8iYpLMKE_ws",
+          "description": "<p>It is time to finally take a look at navigation with Xamarin.Forms Shell! This new type of navigation enables URL based navigation similar to how you would navigate in the browser. This means you setup routes, pass parameters to set data, and even navigate back all by passing a string. In this video I show you all the good parts for what you need to know.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=8iYpLMKE_ws\"><strong>Xamarin.Forms Shell Navigation 101</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "It is time to finally take a look at navigation with Xamarin.Forms Shell! This new type of navigation enables URL based navigation similar to how you would navigate in the browser. This means you setup routes, pass parameters to set data, and even navigate back all by passing a string. In this video I show you all the good parts for what you need to know.\r\n\r\n[**Xamarin.Forms Shell Navigation 101**](https://www.youtube.com/watch?v=8iYpLMKE_ws) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "4rWQJF8",
+              "title": "**Xamarin.Forms Shell Navigation 101**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=8iYpLMKE_ws"
+            },
+            {
+              "identifier": "Zl3Wd6b",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "h5DRrr1",
+          "type": "Link",
+          "title": "Shadows Everywhere in Your Xamarin.Forms App",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=enCimiMmm3Q",
+          "description": "<p>Shadows can really enrich your UI design. In the Xamarin Community Toolkit there is now the ShadowEffect. With this attached property you can apply shadows, with some customizations, to any element on your screen. In this video we will learn how.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=enCimiMmm3Q\"><strong>Shadows Everywhere in Your Xamarin.Forms App</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Shadows can really enrich your UI design. In the Xamarin Community Toolkit there is now the ShadowEffect. With this attached property you can apply shadows, with some customizations, to any element on your screen. In this video we will learn how.\r\n\r\n[**Shadows Everywhere in Your Xamarin.Forms App**](https://www.youtube.com/watch?v=enCimiMmm3Q) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "DnfG9XF",
+              "title": "**Shadows Everywhere in Your Xamarin.Forms App**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=enCimiMmm3Q"
+            },
+            {
+              "identifier": "IbfrUQQ",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "sxr4snP",
+          "type": "Link",
+          "title": "DevTalk Podcast 60: Avalonia. With Mike James",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-60-mike-james/",
+          "description": "<p>On this episode of DevTalk Kerry speaks to Mike James about Avalonia.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-60-mike-james/\"><strong>60: Avalonia. With Mike James</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk Kerry speaks to Mike James about Avalonia.\r\n\r\n[**60: Avalonia. With Mike James**](https://kerry.lothrop.de/devtalk-60-mike-james/) by [Kerry Lothrop](https://twitter.com/kwlothrop)",
+          "embedded_links": [
+            {
+              "identifier": "alXXGMZ",
+              "title": "**60: Avalonia. With Mike James**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-60-mike-james/"
+            },
+            {
+              "identifier": "TnO3TmI",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        },
+        {
+          "identifier": "o9BsXGM",
+          "type": "Link",
+          "title": "The Xamarin Show: XAML Hot Reload Updates",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/XAML-Hot-Reload-Updates--Xamarin-Show",
+          "description": "<p>This week, James is joined by Dmitry Lyalin and Tim Miller who show off the latest and greatest in XAML Hot Reload technology with the new \"changes only\" mode that saves the state of your running application! Check it out!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/XAML-Hot-Reload-Updates--Xamarin-Show\"><strong>XAML Hot Reload Updates | Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "This week, James is joined by Dmitry Lyalin and Tim Miller who show off the latest and greatest in XAML Hot Reload technology with the new \"changes only\" mode that saves the state of your running application! Check it out!\r\n\r\n[**XAML Hot Reload Updates | Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/XAML-Hot-Reload-Updates--Xamarin-Show) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "ADaCZyQ",
+              "title": "**XAML Hot Reload Updates | Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/XAML-Hot-Reload-Updates--Xamarin-Show"
+            },
+            {
+              "identifier": "reU5Krg",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "onZay2H",
+          "type": "Link",
+          "title": "The Xamarin Show - App Localization (Xamarin Community Toolkit)",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/App-Localization-Xamarin-Community",
+          "description": "<p>To make inclusive apps, localization might be a good idea. To help you with that, we have got a couple of things in the Xamarin Community Toolkit that you can use. In this episode I have Maksym on the show who will tell us about the LocalizationManager and shows us how to quickly and easily localize you Xamarin.Forms app</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/App-Localization-Xamarin-Community\"><strong>App Localization (Xamarin Community Toolkit)</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "To make inclusive apps, localization might be a good idea. To help you with that, we have got a couple of things in the Xamarin Community Toolkit that you can use. In this episode I have Maksym on the show who will tell us about the LocalizationManager and shows us how to quickly and easily localize you Xamarin.Forms app\r\n\r\n[**App Localization (Xamarin Community Toolkit)**](https://channel9.msdn.com/Shows/XamarinShow/App-Localization-Xamarin-Community) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "1CZXgnm",
+              "title": "**App Localization (Xamarin Community Toolkit)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/App-Localization-Xamarin-Community"
+            },
+            {
+              "identifier": "ZZO8ItV",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "F7w8cAA",
+          "type": "Link",
+          "title": "Xamarin vs MAUI: The .NET Show with Carl Franklin ep 1",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=EGR-7ft34sM",
+          "description": "<p>Carl talks with James Montemagno from the Xamarin team about the future of Xamarin.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=EGR-7ft34sM\"><strong>Xamarin vs MAUI: The .NET Show with Carl Franklin ep 1</strong></a> by <a href=\"https://www.thedotnetshow.com\">The .NET Show with Carl Franklin</a></p>",
+          "description_markdown": "Carl talks with James Montemagno from the Xamarin team about the future of Xamarin.\r\n\r\n[**Xamarin vs MAUI: The .NET Show with Carl Franklin ep 1**](https://www.youtube.com/watch?v=EGR-7ft34sM) by [The .NET Show with Carl Franklin](https://www.thedotnetshow.com)",
+          "embedded_links": [
+            {
+              "identifier": "OM95wBC",
+              "title": "**Xamarin vs MAUI: The .NET Show with Carl Franklin ep 1**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=EGR-7ft34sM"
+            },
+            {
+              "identifier": "ObIVara",
+              "title": "The .NET Show with Carl Franklin",
+              "url_domain": "thedotnetshow.com",
+              "url": "https://www.thedotnetshow.com"
+            }
+          ]
+        },
+        {
+          "identifier": "osp3kC6",
+          "type": "Link",
+          "title": "Android Emulator Tips & Tricks",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=5OoRP3qJsSA",
+          "description": "<p>Everyone loves the Android emulator right? Regardless if you are a pro Android dev or just getting started I am here to break down all the tips and tricks needed to make the best use of the emulator.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=5OoRP3qJsSA\"><strong>Android Emulator Tips &amp; Tricks | Always on Top, Hyper-V Support, Geolocation, &amp; More</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Everyone loves the Android emulator right? Regardless if you are a pro Android dev or just getting started I am here to break down all the tips and tricks needed to make the best use of the emulator.\r\n\r\n[**Android Emulator Tips & Tricks | Always on Top, Hyper-V Support, Geolocation, & More**](https://www.youtube.com/watch?v=5OoRP3qJsSA) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Qu0aTzG",
+              "title": "**Android Emulator Tips & Tricks | Always on Top, Hyper-V Support, Geolocation, & More**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=5OoRP3qJsSA"
+            },
+            {
+              "identifier": "Ny8Mad6",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "DOE1sfE",
+          "type": "Link",
+          "title": "Null Pointers 47: Object Relational Mappers (ORMs)",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/47/",
+          "description": "<p>Tune in while we talk all about object relational mappers. OK, mostly Entity Framework because of the .NET developers we are. But also we touch on Dapper, document databases, our migration nightmares and even Steven and Gerald's mothers. Now if that doesn't convince you to listen I don't know what will!</p>\n\n<p><a href=\"https://nullpointers.io/47/\"><strong>47: Object Relational Mappers (ORMs)</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "Tune in while we talk all about object relational mappers. OK, mostly Entity Framework because of the .NET developers we are. But also we touch on Dapper, document databases, our migration nightmares and even Steven and Gerald's mothers. Now if that doesn't convince you to listen I don't know what will!\r\n\r\n[**47: Object Relational Mappers (ORMs)**](https://nullpointers.io/47/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "uLZZjjx",
+              "title": "**47: Object Relational Mappers (ORMs)**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/47/"
+            },
+            {
+              "identifier": "AdFBZdH",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "763rafc",
+          "type": "Link",
+          "title": "Announcing .NET Multi-platform App UI Preview 3",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/",
+          "description": "<p>Announcing .NET Multi-platform App UI updates in .NET 6 Preview 3, which includes the latest progress for mobile and desktop development.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/\"><strong>Announcing .NET Multi-platform App UI Preview 3 | .NET Blog</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/davidortinau/\">David Ortinau</a></p>",
+          "description_markdown": "Announcing .NET Multi-platform App UI updates in .NET 6 Preview 3, which includes the latest progress for mobile and desktop development.\r\n\r\n[**Announcing .NET Multi-platform App UI Preview 3 | .NET Blog**](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/) by [David Ortinau](https://devblogs.microsoft.com/xamarin/author/davidortinau/)",
+          "embedded_links": [
+            {
+              "identifier": "w0PCBo9",
+              "title": "**Announcing .NET Multi-platform App UI Preview 3 | .NET Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/"
+            },
+            {
+              "identifier": "9jPlqoN",
+              "title": "David Ortinau",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/davidortinau/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

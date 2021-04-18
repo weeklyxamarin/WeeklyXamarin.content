@@ -1,0 +1,236 @@
+{
+  "Id": "303",
+  "Name": "Issue 303",
+  "UpdatedTimeStamp": "2021-04-10T13:17:46Z",
+  "Summary": "MAUI goodness and oh so many videos and podcasts.",
+  "Introduction": "Happy weekend everyone, you made it! There has been quite a bit of MAUI goodness going on with the release of Preview 3, so quite a bit in this weeks edition... And oh so many videos and podcasts. Thanks to Vijay and Vadim for submitting some additional articles this week. ❤ Kym",
+  "PublishDate": "2021-04-10T13:17:45Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Getting started with CollectionView in Xamarin.Forms",
+      "Url": "https://blog.logrocket.com/getting-started-with-collectionview-in-xamarin-forms/",
+      "Description": "Leomaris gives an introduction to the CollectionView in Xamarin.Forms.  All the essential properties events and commands are covered.",
+      "EditionId": "303",
+      "Author": "Leomaris Reyes",
+      "Id": "303-1",
+      "Category": "GETTING STARTED"
+    },
+    {
+      "Title": "Paywall Screens",
+      "Url": "https://www.paywallscreens.com/",
+      "Description": "Everything you need to design top-notch mobile paywall screens. View examples of other apps and use a Figma template to quickly design your own.",
+      "EditionId": "303",
+      "Author": "Rahul Shah",
+      "Id": "303-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "The Current State of Mobile UX (18 Common Pitfalls)",
+      "Url": "https://baymard.com/blog/2021-current-state-mobile-ecommerce",
+      "Description": "This article analyzes the current state of mobile UX, and outline 18 common design pitfalls and strategic oversights applicable to most mobile e-commerce sites.",
+      "EditionId": "303",
+      "Author": "Baymard Institute",
+      "Id": "303-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "EBind - Binding Framework",
+      "Url": "https://github.com/SIDOVSKY/EBind",
+      "Description": "I haven't delved into this too much but looks like a interesting Binding framework - or as the project says: .NET Data Binding we deserve: concise, fast, feature-rich.",
+      "EditionId": "303",
+      "Author": "Vadim Sedov",
+      "Id": "303-4",
+      "Category": "OPEN SOURCE"
+    },
+    {
+      "Title": "Free Xamarin UI Controls for Android & iOS",
+      "Url": "https://www.devexpress.com/xamarin/free-offer/",
+      "Description": "Registered DevExpress.com users are entitled to a free copy of DevExpress Xamarin.Forms Controls v20.2. A control suite for Xamarin.Forms ships with several user interface components. Includes a Data Grid, Scheduler, Charts, Tab View and Navigation Drawer.",
+      "EditionId": "303",
+      "Author": "DevExpress",
+      "Id": "303-5",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "GitExplorer",
+      "Url": "https://gitexplorer.com/",
+      "Description": "Not specifically Xamarin, but super useful if you are not great with git command line - GitExplorer: Find the right git commands you need without digging through the web",
+      "EditionId": "303",
+      "Author": "Summitech",
+      "Id": "303-6",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "RunSafe Tasks / Commands wrapper in Xamarin",
+      "Url": "https://luismts.com/runsafe-tasks-commands-wrapper/",
+      "Description": "When we work with Task most of the time we do common implementations of scenarios where we use repetitive code. For example use IsBusy, try-catch, Logging, etc.  The idea is to make a wrapper that allows us to store all this logic for us to reuse.",
+      "EditionId": "303",
+      "Author": "Luis Matos",
+      "Id": "303-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms Country Picker with Rg.Plugins.Popup",
+      "Url": "https://benetskyybogdan.medium.com/xamarin-forms-country-picker-with-rg-plugins-popup-fec1a045f7c",
+      "Description": "Beautiful Country Picker for any Xamarin.Forms application with Rg.Plugins.Popup NuGet and online SVG Flags",
+      "EditionId": "303",
+      "Author": "Bohdan Benetskyi",
+      "Id": "303-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Updating Braintree to the Latest Version in Xamarin Forms",
+      "Url": "https://www.xamboy.com/2021/04/01/updating-braintree-to-the-latest-version-in-xamarin-forms/",
+      "Description": "Some time ago Rendy wrote a series of articles on how to integrate Braintree Payment in Xamarin Forms, since then a few things have changed..",
+      "EditionId": "303",
+      "Author": "Rendy Del Rosario",
+      "Id": "303-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Workaround to force Xamarin.Forms WebView to use a dark mode CSS for local content on Android",
+      "Url": "https://msicc.net/workaround-to-force-xamarin-forms-webview-to-use-a-dark-mode-css-for-local-content-on-android/",
+      "Description": "As the 'prefer-color-scheme'-CSS query does not work on Android with a Xamarin.Forms WebView, I needed find a workaround to support dark mode for local HTML content. In this post, I'll show you a Xamarin.Forms only workaround.",
+      "EditionId": "303",
+      "Author": "Marco Siccardi",
+      "Id": "303-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": ".NET MAUI Check tool",
+      "Url": "https://github.com/Redth/dotnet-maui-check",
+      "Description": "Are you ready for MAUI? Redth has a tool that'll help you check if you have all the bits you need.",
+      "EditionId": "303",
+      "Author": "Jon Dick",
+      "Id": "303-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI – Project Template",
+      "Url": "https://vijay1729.wordpress.com/2021/04/03/net-maui-project-template/",
+      "Description": "Vijay is exploring the world of MAUI.  In this article he creates an app using Visual Studio Code.  He follows this up with another article [Setting up debugging in VS Code](https://vijay1729.wordpress.com/2021/04/04/net-maui-project-debug-with-vs-code/).",
+      "EditionId": "303",
+      "Author": "Vijay Anand",
+      "Id": "303-12",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #3",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-3",
+      "Description": "Sam wraps up the weekly Maui news, including the cool Maui Check tool by Jon Dick.",
+      "EditionId": "303",
+      "Author": "Sam Basu",
+      "Id": "303-13",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Jon Galloway on Visual Studio Mac",
+      "Url": "http://jesseliberty.com/2021/04/02/jon-galloway-on-visual-studio-mac/",
+      "Description": "Jon joins Jesse to talk about Visual Studio Mac and Maui!",
+      "EditionId": "303",
+      "Author": "Jesse Liberty",
+      "Id": "303-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 248: Satisfying Business Requirements",
+      "Url": "https://www.mergeconflict.fm/248",
+      "Description": "Yes, this is the most boring title ever, but this podcast episode isn't!",
+      "EditionId": "303",
+      "Author": "Merge Conflict",
+      "Id": "303-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Podcast Episode 90: .NET MAUI Q&A",
+      "Url": "https://www.xamarinpodcast.com/90",
+      "Description": "David Ortinau sites down with us to answer a TON of listener questions on .NET MAUI. Plus we got some cloud news & of course the Pick of the Pod!!",
+      "EditionId": "303",
+      "Author": "The Xamarin Podcast",
+      "Id": "303-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms Shell Navigation 101",
+      "Url": "https://www.youtube.com/watch?v=8iYpLMKE_ws",
+      "Description": "It is time to finally take a look at navigation with Xamarin.Forms Shell! This new type of navigation enables URL based navigation similar to how you would navigate in the browser. This means you setup routes, pass parameters to set data, and even navigate back all by passing a string. In this video I show you all the good parts for what you need to know.",
+      "EditionId": "303",
+      "Author": "James Montemagno",
+      "Id": "303-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Shadows Everywhere in Your Xamarin.Forms App",
+      "Url": "https://www.youtube.com/watch?v=enCimiMmm3Q",
+      "Description": "Shadows can really enrich your UI design. In the Xamarin Community Toolkit there is now the ShadowEffect. With this attached property you can apply shadows, with some customizations, to any element on your screen. In this video we will learn how.",
+      "EditionId": "303",
+      "Author": "Gerald Versluis",
+      "Id": "303-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk Podcast 60: Avalonia. With Mike James",
+      "Url": "https://kerry.lothrop.de/devtalk-60-mike-james/",
+      "Description": "On this episode of DevTalk Kerry speaks to Mike James about Avalonia.",
+      "EditionId": "303",
+      "Author": "Kerry Lothrop",
+      "Id": "303-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Show: XAML Hot Reload Updates",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/XAML-Hot-Reload-Updates--Xamarin-Show",
+      "Description": "This week, James is joined by Dmitry Lyalin and Tim Miller who show off the latest and greatest in XAML Hot Reload technology with the new \"changes only\" mode that saves the state of your running application! Check it out!",
+      "EditionId": "303",
+      "Author": "The Xamarin Show",
+      "Id": "303-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Show - App Localization (Xamarin Community Toolkit)",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/App-Localization-Xamarin-Community",
+      "Description": "To make inclusive apps, localization might be a good idea. To help you with that, we have got a couple of things in the Xamarin Community Toolkit that you can use. In this episode I have Maksym on the show who will tell us about the LocalizationManager and shows us how to quickly and easily localize you Xamarin.Forms app",
+      "EditionId": "303",
+      "Author": "The Xamarin Show",
+      "Id": "303-21",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin vs MAUI: The .NET Show with Carl Franklin ep 1",
+      "Url": "https://www.youtube.com/watch?v=EGR-7ft34sM",
+      "Description": "Carl talks with James Montemagno from the Xamarin team about the future of Xamarin.",
+      "EditionId": "303",
+      "Author": "The .NET Show with Carl Franklin",
+      "Id": "303-22",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Android Emulator Tips & Tricks",
+      "Url": "https://www.youtube.com/watch?v=5OoRP3qJsSA",
+      "Description": "Everyone loves the Android emulator right? Regardless if you are a pro Android dev or just getting started I am here to break down all the tips and tricks needed to make the best use of the emulator.",
+      "EditionId": "303",
+      "Author": "James Montemagno",
+      "Id": "303-23",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 47: Object Relational Mappers (ORMs)",
+      "Url": "https://nullpointers.io/47/",
+      "Description": "Tune in while we talk all about object relational mappers. OK, mostly Entity Framework because of the .NET developers we are. But also we touch on Dapper, document databases, our migration nightmares and even Steven and Gerald's mothers. Now if that doesn't convince you to listen I don't know what will!",
+      "EditionId": "303",
+      "Author": "Null Pointers",
+      "Id": "303-24",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Announcing .NET Multi-platform App UI Preview 3",
+      "Url": "https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/",
+      "Description": "Announcing .NET Multi-platform App UI updates in .NET 6 Preview 3, which includes the latest progress for mobile and desktop development.",
+      "EditionId": "303",
+      "Author": "David Ortinau",
+      "Id": "303-25",
+      "Category": "RELEASES"
+    }
+  ]
+}
