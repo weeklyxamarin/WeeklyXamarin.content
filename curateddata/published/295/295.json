@@ -1,0 +1,438 @@
+{
+  "number": 295,
+  "title": "Issue 295",
+  "summary": "",
+  "url": "https://weeklyxamarin.com/issues/295",
+  "publication_status": "published",
+  "published_at": "2021-02-06T02:47:04+00:00",
+  "updated_at": "2021-02-06T02:47:09+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday!</p>\n\n<p>Another great week of content and a big thanks to Luce for curating most of these articles. If you want to know more about the Xamarin Community Toolkit there are some great links this week, as well as a review of the new Apple Macbook Pro just in case you have too much money.</p>\n\n<p>Hope you have a lovely weekend,</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Friday!\r\n\r\nAnother great week of content and a big thanks to Luce for curating most of these articles. If you want to know more about the Xamarin Community Toolkit there are some great links this week, as well as a review of the new Apple Macbook Pro just in case you have too much money.\r\n\r\nHope you have a lovely weekend,\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "XSnUyNi",
+          "type": "Link",
+          "title": "The New .NET Multi-platform App UI",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/the-new-net-multi-platform-app-ui-maui/",
+          "description": "<p>.NET MAUI coming in .NET 6 is still a big talking point, we are forever wanting updates on what is happening and when so I too was excited to read this post this week!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/the-new-net-multi-platform-app-ui-maui/\"><strong>The New .NET Multi-platform App UI</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/davidortinau/\">David Ortinau</a></p>",
+          "description_markdown": ".NET MAUI coming in .NET 6 is still a big talking point, we are forever wanting updates on what is happening and when so I too was excited to read this post this week!\r\n\r\n[**The New .NET Multi-platform App UI**](https://devblogs.microsoft.com/xamarin/the-new-net-multi-platform-app-ui-maui/) by [David Ortinau](https://devblogs.microsoft.com/xamarin/author/davidortinau/)",
+          "embedded_links": [
+            {
+              "identifier": "U5p0UyE",
+              "title": "**The New .NET Multi-platform App UI**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/the-new-net-multi-platform-app-ui-maui/"
+            },
+            {
+              "identifier": "QpQYJAT",
+              "title": "David Ortinau",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/davidortinau/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "g2Ol8Rn",
+          "type": "Link",
+          "title": "Review of Apple Macbook Pro M1",
+          "url_domain": "danielhindrikes.se",
+          "url": "https://danielhindrikes.se/index.php/2021/02/01/review-of-apple-macbook-pro-m1/",
+          "description": "<p>I know a lot of developers who have their eyes on the new Apple Macbook M1 devices. Daniel gives his review of the machine as a Xamarin development machine. Should you buy one? I don't know. Should you buy me one? Absolutely.</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2021/02/01/review-of-apple-macbook-pro-m1/\"><strong>Review of Apple Macbook Pro M1</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "I know a lot of developers who have their eyes on the new Apple Macbook M1 devices. Daniel gives his review of the machine as a Xamarin development machine. Should you buy one? I don't know. Should you buy me one? Absolutely.\r\n\r\n[**Review of Apple Macbook Pro M1**](https://danielhindrikes.se/index.php/2021/02/01/review-of-apple-macbook-pro-m1/) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "NjxCXM0",
+              "title": "**Review of Apple Macbook Pro M1**",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/2021/02/01/review-of-apple-macbook-pro-m1/"
+            },
+            {
+              "identifier": "30bl0Iy",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "ZXDdqb8",
+          "type": "Link",
+          "title": "Xamarin.Forms UI/UX Challenges - Micuna Food - Part1",
+          "url_domain": "github.io",
+          "url": "https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part1/",
+          "description": "<p>Who doesn't love a good UI challenge? I always enjoy seeing how beautiful UI apps can be recreated in Xamarin.Forms. This first in a series post from Daniel is excellent, with it doing a good job of breaking down how a layout and UI structure is identified from the parts of an existing design.</p>\n\n<p><a href=\"https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part1/\"><strong>Xamarin.Forms UI/UX Challenges - Micuna Food - Part1</strong></a> by <a href=\"https://twitter.com/DanielMonetelli\">Daniel Monttelli</a></p>",
+          "description_markdown": "Who doesn't love a good UI challenge? I always enjoy seeing how beautiful UI apps can be recreated in Xamarin.Forms. This first in a series post from Daniel is excellent, with it doing a good job of breaking down how a layout and UI structure is identified from the parts of an existing design.\r\n\r\n[**Xamarin.Forms UI/UX Challenges - Micuna Food - Part1**](https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part1/) by [Daniel Monttelli](https://twitter.com/DanielMonetelli)",
+          "embedded_links": [
+            {
+              "identifier": "tbElWUf",
+              "title": "**Xamarin.Forms UI/UX Challenges - Micuna Food - Part1**",
+              "url_domain": "github.io",
+              "url": "https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part1/"
+            },
+            {
+              "identifier": "dMLVMwj",
+              "title": "Daniel Monttelli",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DanielMonetelli"
+            }
+          ]
+        },
+        {
+          "identifier": "GIOwb1",
+          "type": "Link",
+          "title": "Xamarin Community Toolkit and Windows",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/xamarin/xamarin-communitytoolkit/build-xamarin-communitytoolkit-sample-app-windows/",
+          "description": "<p>If you want to try out the Xamarin.CommunityToolkit sample app on Windows you might find some hurdles building and running it. Here Gerald shares some things you might encounter and how to fix them.</p>\n\n<p><a href=\"https://blog.verslu.is/xamarin/xamarin-communitytoolkit/build-xamarin-communitytoolkit-sample-app-windows/\"><strong>Xamarin.CommunityToolkit Sample App Building on Windows</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "If you want to try out the Xamarin.CommunityToolkit sample app on Windows you might find some hurdles building and running it. Here Gerald shares some things you might encounter and how to fix them.\r\n\r\n[**Xamarin.CommunityToolkit Sample App Building on Windows**](https://blog.verslu.is/xamarin/xamarin-communitytoolkit/build-xamarin-communitytoolkit-sample-app-windows/) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "L4GYkSj",
+              "title": "**Xamarin.CommunityToolkit Sample App Building on Windows**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/xamarin/xamarin-communitytoolkit/build-xamarin-communitytoolkit-sample-app-windows/"
+            },
+            {
+              "identifier": "3ms8nB8",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "qcDVhO8",
+          "type": "Link",
+          "title": "Using styles on custom UserControls",
+          "url_domain": "banditoth.hu",
+          "url": "https://www.banditoth.hu/2021/02/05/xamarin-forms-using-styles-on-custom-usercontrols/",
+          "description": "<p>Quick tip on how to use styles when you create your own custom UserControls.</p>\n\n<p><a href=\"https://www.banditoth.hu/2021/02/05/xamarin-forms-using-styles-on-custom-usercontrols/\"><strong>Xamarin.Forms : Using styles on custom UserControls</strong></a> by <a href=\"https://www.banditoth.hu/\">Tóth András</a></p>",
+          "description_markdown": "Quick tip on how to use styles when you create your own custom UserControls.\r\n\r\n[**Xamarin.Forms : Using styles on custom UserControls**](https://www.banditoth.hu/2021/02/05/xamarin-forms-using-styles-on-custom-usercontrols/) by [Tóth András](https://www.banditoth.hu/)",
+          "embedded_links": [
+            {
+              "identifier": "CDywAfq",
+              "title": "**Xamarin.Forms : Using styles on custom UserControls**",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/2021/02/05/xamarin-forms-using-styles-on-custom-usercontrols/"
+            },
+            {
+              "identifier": "RKt1IFX",
+              "title": "Tóth András",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "uiH3Chw",
+          "type": "Link",
+          "title": "Templated Controls are Awesome | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Templated-Controls-are-Awesome--The-Xamarin-Show",
+          "description": "<p>This week, James is joined again by Javier Suárez, Developer on Xamarin.Forms, who explains what control templates are, why they are awesome, and how you can create amazing things with them. You don't want to miss this one!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Templated-Controls-are-Awesome--The-Xamarin-Show\"><strong>Templated Controls are Awesome</strong></a> by <a href=\"https://channel9.msdn.com/Shows/XamarinShow/\">The Xamarin Show</a></p>",
+          "description_markdown": "This week, James is joined again by Javier Suárez, Developer on Xamarin.Forms, who explains what control templates are, why they are awesome, and how you can create amazing things with them. You don't want to miss this one!\r\n\r\n[**Templated Controls are Awesome**](https://channel9.msdn.com/Shows/XamarinShow/Templated-Controls-are-Awesome--The-Xamarin-Show) by [The Xamarin Show](https://channel9.msdn.com/Shows/XamarinShow/)",
+          "embedded_links": [
+            {
+              "identifier": "kABSNxW",
+              "title": "**Templated Controls are Awesome**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Templated-Controls-are-Awesome--The-Xamarin-Show"
+            },
+            {
+              "identifier": "sf2YELU",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/"
+            }
+          ]
+        },
+        {
+          "identifier": "FuFvTZ2",
+          "type": "Link",
+          "title": "Xamarin Community Standup - Community Toolkit updates with Gerald Versluis!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=cNw7ZxZKxeU",
+          "description": "<p>It's the time again, Xamarin Community Standup week! This week, they were joined by Gerald Versluis, one of our favourite people in the community!\nLots of awesome updates, blogs and of course, talk of the snazzy Xamarin Community Toolkit!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=cNw7ZxZKxeU\"><strong>Xamarin Community Standup - Community Toolkit updates with Gerald Versluis!</strong></a> by <a href=\"https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg\">Xamarin Developers</a></p>",
+          "description_markdown": "It's the time again, Xamarin Community Standup week! This week, they were joined by Gerald Versluis, one of our favourite people in the community!\r\nLots of awesome updates, blogs and of course, talk of the snazzy Xamarin Community Toolkit!\r\n\r\n[**Xamarin Community Standup - Community Toolkit updates with Gerald Versluis!**](https://www.youtube.com/watch?v=cNw7ZxZKxeU) by [Xamarin Developers](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)",
+          "embedded_links": [
+            {
+              "identifier": "NCFxMMf",
+              "title": "**Xamarin Community Standup - Community Toolkit updates with Gerald Versluis!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=cNw7ZxZKxeU"
+            },
+            {
+              "identifier": "dpcLpHS",
+              "title": "Xamarin Developers",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg"
+            }
+          ]
+        },
+        {
+          "identifier": "aAIa1kC",
+          "type": "Link",
+          "title": "Xamarin Community Toolkit: TabView",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-TabView",
+          "description": "<p>In this episode of the Xamarin Show we're talking about the much anticipated TabView. The TabView is now included inside of the Xamarin Community Toolkit and I have Javier on, who has worked on this, to show us what it's all about.</p>\n\n<p>Swiping between tabs, customizing the looks, styling it any way you want, all that and much more can be done with the flexible TabView. Make sure to tune in!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-TabView\"><strong>Xamarin Community Toolkit: TabView</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "In this episode of the Xamarin Show we're talking about the much anticipated TabView. The TabView is now included inside of the Xamarin Community Toolkit and I have Javier on, who has worked on this, to show us what it's all about.\r\n \r\nSwiping between tabs, customizing the looks, styling it any way you want, all that and much more can be done with the flexible TabView. Make sure to tune in!\r\n\r\n[**Xamarin Community Toolkit: TabView**](https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-TabView) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "lmkQeiF",
+              "title": "**Xamarin Community Toolkit: TabView**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-TabView"
+            },
+            {
+              "identifier": "ZTvJxUH",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "yrd5eVQ",
+          "type": "Link",
+          "title": "Live Stream: Building a Peloton Clone with Xamarin.Forms Part 4 - TabView",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=WPT8LZCE4Pw",
+          "description": "<p>James continues his live streams, working on the Peloton app clone with Xamarin.Forms. This week's recording has him adding TabView from the Community Toolkit to streamline top tabs.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=WPT8LZCE4Pw\"><strong>Live Stream: Building a Peloton Clone with Xamarin.Forms Part 4 - TabView</strong></a> by <a href=\"https://twitch.tv/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James continues his live streams, working on the Peloton app clone with Xamarin.Forms. This week's recording has him adding TabView from the Community Toolkit to streamline top tabs.\r\n\r\n[**Live Stream: Building a Peloton Clone with Xamarin.Forms Part 4 - TabView**](https://www.youtube.com/watch?v=WPT8LZCE4Pw) by [James Montemagno](https://twitch.tv/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "FbjbTCK",
+              "title": "**Live Stream: Building a Peloton Clone with Xamarin.Forms Part 4 - TabView**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=WPT8LZCE4Pw"
+            },
+            {
+              "identifier": "pXLOKGq",
+              "title": "James Montemagno",
+              "url_domain": "twitch.tv",
+              "url": "https://twitch.tv/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "SbFZRI5",
+          "type": "Link",
+          "title": "Overcoming Common Upgrade Issues - Xamarin.Forms 3.0 to 5.0",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=zy4iJqEsCSo",
+          "description": "<p>Ever gone to update an old app to more recent packages, including Xamarin.Forms and found issues? I sure have! In this video, David shows some of the steps to upgrade including how to solve some of the errors that come up! :)</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=zy4iJqEsCSo0\"><strong>Overcoming Common Upgrade Issues - Xamarin.Forms 3.0 to 5.0</strong></a> by <a href=\"https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ\">David Ortinau</a></p>",
+          "description_markdown": "Ever gone to update an old app to more recent packages, including Xamarin.Forms and found issues? I sure have! In this video, David shows some of the steps to upgrade including how to solve some of the errors that come up! :)\r\n\r\n[**Overcoming Common Upgrade Issues - Xamarin.Forms 3.0 to 5.0**](https://www.youtube.com/watch?v=zy4iJqEsCSo0) by [David Ortinau](https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ)",
+          "embedded_links": [
+            {
+              "identifier": "VqYyLSU",
+              "title": "**Overcoming Common Upgrade Issues - Xamarin.Forms 3.0 to 5.0**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=zy4iJqEsCSo"
+            },
+            {
+              "identifier": "un3eciS",
+              "title": "David Ortinau",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ"
+            }
+          ]
+        },
+        {
+          "identifier": "zEOCN2p",
+          "type": "Link",
+          "title": "Merge Conflict: 239: Planning an App Release",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/239",
+          "description": "<p>It is now Franks' turn to get his next app into the app store. We look back at what went into its creation, his choices for monetization, and thoughts on what needs to happen leading up to the main release.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/239\"><strong>Merge Conflict: 239: Planning an App Release</strong></a> by <a href=\"https://mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "It is now Franks' turn to get his next app into the app store. We look back at what went into its creation, his choices for monetization, and thoughts on what needs to happen leading up to the main release.\r\n\r\n[**Merge Conflict: 239: Planning an App Release**](https://www.mergeconflict.fm/239) by [Merge Conflict](https://mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "mozd6Xu",
+              "title": "**Merge Conflict: 239: Planning an App Release**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/239"
+            },
+            {
+              "identifier": "bjWOSnk",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://mergeconflict.fm"
+            }
+          ]
+        },
+        {
+          "identifier": "4m5VnI7",
+          "type": "Link",
+          "title": "Add a Loading with StateViews from the Xamarin Community Toolkit",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Ou7IZ7yZgKc",
+          "description": "<p>We use lists of data a lot in our apps, so one scenario that crops up a lot is how to show that data is being fetched from the web to populate the list. By default, it just looks blank which can confuse users. In this video, David shows you how you can use Xamarin Community Toolkit's StateViews, you can have a helpful loading screen to inform users, neat!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Ou7IZ7yZgKc\"><strong>Add a Loading with StateViews from the Xamarin Community Toolkit</strong></a> by <a href=\"https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ\">David Ortinau</a></p>",
+          "description_markdown": "We use lists of data a lot in our apps, so one scenario that crops up a lot is how to show that data is being fetched from the web to populate the list. By default, it just looks blank which can confuse users. In this video, David shows you how you can use Xamarin Community Toolkit's StateViews, you can have a helpful loading screen to inform users, neat!\r\n\r\n[**Add a Loading with StateViews from the Xamarin Community Toolkit**](https://www.youtube.com/watch?v=Ou7IZ7yZgKc) by [David Ortinau](https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ)",
+          "embedded_links": [
+            {
+              "identifier": "zvEBWSn",
+              "title": "**Add a Loading with StateViews from the Xamarin Community Toolkit**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Ou7IZ7yZgKc"
+            },
+            {
+              "identifier": "BbyuXMS",
+              "title": "David Ortinau",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCmzgpq6cgYCTWU7wePsg8lQ"
+            }
+          ]
+        },
+        {
+          "identifier": "2Loxzym",
+          "type": "Link",
+          "title": "Using MessagingCenter in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=JyiL6W-fvEs",
+          "description": "<p>Good architecture of your code is important and one example of this is loose coupling. Did you know that Xamarin comes with a messaging centre out of the box to help support this loose coupling between classes? Gerald teaches us all about it in this video.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=JyiL6W-fvEs\"><strong>Using MessagingCenter in Xamarin.Forms</strong></a> by <a href=\"https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw\">Gerald Versluis</a></p>",
+          "description_markdown": "Good architecture of your code is important and one example of this is loose coupling. Did you know that Xamarin comes with a messaging centre out of the box to help support this loose coupling between classes? Gerald teaches us all about it in this video.\r\n\r\n[**Using MessagingCenter in Xamarin.Forms**](https://www.youtube.com/watch?v=JyiL6W-fvEs) by [Gerald Versluis](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw)",
+          "embedded_links": [
+            {
+              "identifier": "xg5pbJ7",
+              "title": "**Using MessagingCenter in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=JyiL6W-fvEs"
+            },
+            {
+              "identifier": "NqtOqyZ",
+              "title": "Gerald Versluis",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw"
+            }
+          ]
+        },
+        {
+          "identifier": "JG3NYhq",
+          "type": "Link",
+          "title": "Null Points 38: Resiliency In Mobile Apps",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/38/",
+          "description": "<p>Nobody likes a crashing app! In this week's Null Pointers, the group discuss things you might want to think about to help improve the resiliency of your apps!</p>\n\n<p><a href=\"https://nullpointers.io/38/\"><strong>Null Points 38: Resiliency In Mobile Apps</strong></a> by <a href=\"https://nullpointers.io\">Null Pointers</a></p>",
+          "description_markdown": "Nobody likes a crashing app! In this week's Null Pointers, the group discuss things you might want to think about to help improve the resiliency of your apps!\r\n\r\n[**Null Points 38: Resiliency In Mobile Apps**](https://nullpointers.io/38/) by [Null Pointers](https://nullpointers.io)",
+          "embedded_links": [
+            {
+              "identifier": "I5WrvAx",
+              "title": "**Null Points 38: Resiliency In Mobile Apps**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/38/"
+            },
+            {
+              "identifier": "JPWFFl3",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io"
+            }
+          ]
+        },
+        {
+          "identifier": "BoGFtmL",
+          "type": "Link",
+          "title": "Everything you need to know about ListView",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=VzFqQv8YJNM",
+          "description": "<p>James goes deep on the ListView including displaying lists of data, grouped data, header, footers, context actions, and even pull-to-refresh.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=VzFqQv8YJNM\"><strong>Xamarin.Forms ListView - Everything you need to know</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James goes deep on the ListView including displaying lists of data, grouped data, header, footers, context actions, and even pull-to-refresh.\r\n\r\n[**Xamarin.Forms ListView - Everything you need to know**](https://www.youtube.com/watch?v=VzFqQv8YJNM) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "xoc0ZfL",
+              "title": "**Xamarin.Forms ListView - Everything you need to know**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=VzFqQv8YJNM"
+            },
+            {
+              "identifier": "xrCXUtr",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "zAjIJ9X",
+          "type": "Link",
+          "title": "Input Validation Scenarios with Xamarin.CommunityToolkit",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=ZDUWWeAg8PI",
+          "description": "<p>In this video we will see how to check the validity of a MultiValidationBehavior and EmailValidationBehavior by the press of a button and show the right error messages and how to do it the more MVVM way with data-binding.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=ZDUWWeAg8PI\"><strong>Real-World Input Validation Scenarios with Xamarin.CommunityToolkit</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "In this video we will see how to check the validity of a MultiValidationBehavior and EmailValidationBehavior by the press of a button and show the right error messages and how to do it the more MVVM way with data-binding.\r\n\r\n[**Real-World Input Validation Scenarios with Xamarin.CommunityToolkit**](https://www.youtube.com/watch?v=ZDUWWeAg8PI) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "6xeYlLi",
+              "title": "**Real-World Input Validation Scenarios with Xamarin.CommunityToolkit**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=ZDUWWeAg8PI"
+            },
+            {
+              "identifier": "PwN9gPB",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "type": "Text",
+          "title": "Monkey of the Week!",
+          "description": "<p>Xamarin Monkeys playing Galaxy Invader 1000</p>",
+          "description_markdown": "Xamarin Monkeys playing Galaxy Invader 1000",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "62acc671-060b-4bfc-aaba-0c464057107a.jpg",
+          "image_extra_large_filename": "original_ratio_extra_large_62acc671-060b-4bfc-aaba-0c464057107a.jpg",
+          "image_medium_filename": "original_ratio_medium_62acc671-060b-4bfc-aaba-0c464057107a.jpg"
+        }
+      ]
+    }
+  ]
+}

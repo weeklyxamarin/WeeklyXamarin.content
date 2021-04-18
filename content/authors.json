@@ -2723,6 +2723,16 @@
       ]
     },
     {
+      "Name": "Tóth András",
+      "Id": "https://www.banditoth.hu/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.banditoth.hu/"
+        }
+      ]
+    },
+    {
       "Name": "Trailhead Technology",
       "TwitterHandle": "@TrailheadTec",
       "GitHubHandle": "trailheadtechnology",
