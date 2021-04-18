@@ -1984,6 +1984,16 @@
       ]
     },
     {
+      "Name": "Mohammed Ismail Sameer Mohamed Saleem",
+      "Id": "https://www.syncfusion.com/blogs/author/mohammedismailsameer-mohamedsaleemsyncfusion-com",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.syncfusion.com/blogs/author/mohammedismailsameer-mohamedsaleemsyncfusion-com"
+        }
+      ]
+    },
+    {
       "Name": "Mohana Das",
       "Id": "https://uxdesign.cc/@mohanadas.dsi",
       "Aliases": [
@@ -2530,6 +2540,16 @@
       "GitHubHandle": "marcusts",
       "Id": "https://github.com/marcusts",
       "Website": "https://www.marcusts.com"
+    },
+    {
+      "Name": "Steve Smith",
+      "Id": "https://twitter.com/ardalis",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/ardalis"
+        }
+      ]
     },
     {
       "Name": "Steven Thewissen",

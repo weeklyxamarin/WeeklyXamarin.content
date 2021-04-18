@@ -1,0 +1,164 @@
+{
+  "Id": "297",
+  "Name": "Issue 297",
+  "UpdatedTimeStamp": "2021-02-21T11:58:32Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Sorry for the late newsletter, but technically speaking it's still the weekend.   The big news for the week is .NET 6 Preview 1 with some new approaches to developing Xamarin (Maui) applications.  I need to spend some time digging into this a little more, as I'm sure a lot of you are keen to do. Once you're done reading all the fantastic blog posts from this weeks newsletter, that is exactly what you should be doing. Take care everyone, ❤Kym",
+  "PublishDate": "2021-02-21T11:58:30Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Announcing .NET 6 Preview 1 | .NET Blog",
+      "Url": "https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/",
+      "Description": ".NET 6 Preview 1 is now available and is the start of the next major .NET release, focused on .NET unification and supporting new platforms.",
+      "EditionId": "297",
+      "Author": "Richard Lander",
+      "Id": "297-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "What is the difference between a DTO and a POCO (or POJO)",
+      "Url": "https://ardalis.com/dto-or-poco/",
+      "Description": "Two terms that come up frequently when discussing software development in .NET and C# are DTO and POCO. Some developers use these terms interchangeably. So, what is the difference between a DTO and a POCO?",
+      "EditionId": "297",
+      "Author": "Steve Smith",
+      "Id": "297-2",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Building an Android app with .NET 6",
+      "Url": "https://nicksnettravels.builttoroam.com/android-net-6",
+      "Description": "Microsoft has made preview 1 of .NET 6 available. Nick looks at how to build an Android App using the new shiny bits.",
+      "EditionId": "297",
+      "Author": "Nick Randolph",
+      "Id": "297-3",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Bypass SSL Certificate validation on Android",
+      "Url": "https://www.banditoth.hu/2021/02/18/xamarin-forms-bypass-ssl-certificate-validation-on-android",
+      "Description": "Bypassing SSL Certificate validation in production releases are not recommended. It can make your application vulnerable by hackers and reverse engineers, and your users will be unprotected from the bad guys. But sometimes it can be helpful to just ignore the certification errors in a development environment.",
+      "EditionId": "297",
+      "Author": "Tóth András",
+      "Id": "297-4",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "A little tip about ImageResourceExtension",
+      "Url": "https://luismts.com/imageresourceextension/",
+      "Description": "Optimize the ImageResourceExtension to make it easier to use embedded resources or images in our XAML.",
+      "EditionId": "297",
+      "Author": "Luis Matos",
+      "Id": "297-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "10 Tips for Xamarin.Forms",
+      "Url": "https://www.syncfusion.com/blogs/post/10-tips-to-avoid-common-mistakes-in-xamarin-forms-app-development.aspx",
+      "Description": "A (slightly opinionated) collection of 10 common mistakes and tips for Xamarin.Forms.",
+      "EditionId": "297",
+      "Author": "Mohammed Ismail Sameer Mohamed Saleem",
+      "Id": "297-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Fingerprint Authentication in your App",
+      "Url": "https://xamarinmonkeys.blogspot.com/2021/02/xamarinforms-fingerprint-authentication.html",
+      "Description": "Fingers are extremely useful. You can use them to type. You can use them to poke your phone screen. You can also use them to do authentication in your Xamarin App.",
+      "EditionId": "297",
+      "Author": "Delpin Susai Raj",
+      "Id": "297-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Applying Simple Navigation in Xamarin Forms",
+      "Url": "https://www.telerik.com/blogs/applying-simple-navigation-xamarin-forms",
+      "Description": "How do you switch pages in Xamarin.Forms? Xamarin.Forms gives us some simple but powerful tools to control navigation in our apps.",
+      "EditionId": "297",
+      "Author": "Leomaris Reyes",
+      "Id": "297-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Creating a scalable Style Library",
+      "Url": "https://luismts.com/style-library-xamarin-forms/",
+      "Description": "An couple of interesting approaches for tackling the challenge of having application styles shared between multiple projects.",
+      "EditionId": "297",
+      "Author": "Luis Matos",
+      "Id": "297-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms BackgroundColor, TextColor, and Dark Mode",
+      "Url": "https://criticalhittech.com/2021/02/18/xamarin-forms-backgroundcolor-textcolor-and-dark-mode/",
+      "Description": "A look into some of the more interesting challenges of how Light / Dark mode works in iOS and how Xamarin.Forms may not do exactly what you want.",
+      "EditionId": "297",
+      "Author": "David Sielaff",
+      "Id": "297-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Pop-up validation in Xamarin with MvvmCross",
+      "Url": "https://prin53.medium.com/pop-up-validation-in-xamarin-with-mvvmcross-b035f0193ba4",
+      "Description": "This article covers how you can create input validation on your custom dialogs when using MvvmCross.",
+      "EditionId": "297",
+      "Author": "Denys Fiediaiev",
+      "Id": "297-11",
+      "Category": "MVVMCROSS"
+    },
+    {
+      "Title": "MultiConverter and VariableMultiValueConverter",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-MultiConverter--VariableMultiValueConverter",
+      "Description": "This episode is a bit of a mind-boggler. We will learn about the MultiConverter, which allows you to chain multiple ValueConverters together. But we're not stopping there! We will also see the VariableMultiValueConverter allows converting values when used in Xamarin.Forms MultiBindings.",
+      "EditionId": "297",
+      "Author": "The Xamarin Show",
+      "Id": "297-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms ListView vs. CollectionView - Which to use and why!",
+      "Url": "https://www.youtube.com/watch?v=_lVM9gpFSbw",
+      "Description": "A break down of all the key differences between the Xamarin.Forms ListView and the brand new CollectionView. Which one should you use and why? Which features are exclusive to each control and which can be combined with new awesome things built directly into Xamarin.Forms.",
+      "EditionId": "297",
+      "Author": "James Montemagno",
+      "Id": "297-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Add Badges to Everything with Xamarin Community Toolkit BadgeView",
+      "Url": "https://www.youtube.com/watch?v=f2fC_m7CjIk",
+      "Description": "In this video we will see how to use BadgeView. When wrapping any control in BadgeView you enable that control to show badges! You can customize color, font, border, nearly everything and have it show up whenever you want.",
+      "EditionId": "297",
+      "Author": "Gerald Versluis",
+      "Id": "297-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 241: Goodbye DTK, Hello Mac App Development",
+      "Url": "https://www.mergeconflict.fm/241",
+      "Description": "Apple finally lets us return our DTK units with a nice surprise and both Frank and James double down on bringing their apps to macOS!",
+      "EditionId": "297",
+      "Author": "Merge Conflict",
+      "Id": "297-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Infinite Scroll with Xamarin.Forms CollectionView",
+      "Url": "https://www.youtube.com/watch?v=sZq8K_64bc0",
+      "Description": "The Xamarin Forms CollectionView makes it infinitely easier to implement err.. Infinite loading! In this video we will see how we implement infinite loading by using 1 property; RemainingItemsThreshold and 1 event; RemainingItemsThresholdReached. This sample targets using CollectionView from code-behind but also gives you information on how to do it with MVVM.",
+      "EditionId": "297",
+      "Author": "Gerald Versluis",
+      "Id": "297-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 40: Clean Code",
+      "Url": "https://nullpointers.io/40/",
+      "Description": "Writing code can be fun, especially when you start a new project. But then time passes and all of a sudden adding or changing existing features gets hard. Things begin to break unexpectedly, and stuff starts to feel messy. But it does not have to be that way. A well-structured app and a few guidelines are here to help us all. If we follow the SOLID principle and all the other Clean Code acronyms, everything will be just fine right? Well, tune in and find out our opinions and experiences all around writing Clean Code.",
+      "EditionId": "297",
+      "Author": "Null Pointers",
+      "Id": "297-17",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

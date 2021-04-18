@@ -1,0 +1,473 @@
+{
+  "number": 297,
+  "title": "Issue 297",
+  "summary": null,
+  "url": "https://weeklyxamarin.com/issues/297",
+  "publication_status": "published",
+  "published_at": "2021-02-21T11:58:30+00:00",
+  "updated_at": "2021-02-21T11:58:32+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Sorry for the late newsletter, but technically speaking it's still the weekend.</p>\n\n<p>The big news for the week is .NET 6 Preview 1 with some new approaches to developing Xamarin (Maui) applications.  I need to spend some time digging into this a little more, as I'm sure a lot of you are keen to do.</p>\n\n<p>Once you're done reading all the fantastic blog posts from this weeks newsletter, that is exactly what you should be doing.</p>\n\n<p>Take care everyone,</p>\n\n<p>❤\nKym</p>",
+          "description_markdown": "Sorry for the late newsletter, but technically speaking it's still the weekend.  \r\n\r\nThe big news for the week is .NET 6 Preview 1 with some new approaches to developing Xamarin (Maui) applications.  I need to spend some time digging into this a little more, as I'm sure a lot of you are keen to do.\r\n\r\nOnce you're done reading all the fantastic blog posts from this weeks newsletter, that is exactly what you should be doing.\r\n\r\nTake care everyone,\r\n\r\n❤\r\nKym\r\n",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "Tturesn",
+          "type": "Link",
+          "title": "Announcing .NET 6 Preview 1 | .NET Blog",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/",
+          "description": "<p>.NET 6 Preview 1 is now available and is the start of the next major .NET release, focused on .NET unification and supporting new platforms.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/\"><strong>Announcing .NET 6 Preview 1 | .NET Blog</strong></a> by <a href=\"https://devblogs.microsoft.com/dotnet/author/rlandermicrosoft-com/\">Richard Lander</a></p>",
+          "description_markdown": ".NET 6 Preview 1 is now available and is the start of the next major .NET release, focused on .NET unification and supporting new platforms.\r\n\r\n[**Announcing .NET 6 Preview 1 | .NET Blog**](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/) by [Richard Lander](https://devblogs.microsoft.com/dotnet/author/rlandermicrosoft-com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "oCfraUL",
+              "title": "**Announcing .NET 6 Preview 1 | .NET Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/"
+            },
+            {
+              "identifier": "54p1LOb",
+              "title": "Richard Lander",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/author/rlandermicrosoft-com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "3TDJGSQ",
+          "type": "Link",
+          "title": "What is the difference between a DTO and a POCO (or POJO)",
+          "url_domain": "ardalis.com",
+          "url": "https://ardalis.com/dto-or-poco/",
+          "description": "<p>Two terms that come up frequently when discussing software development in .NET and C# are DTO and POCO. Some developers use these terms interchangeably. So, what is the difference between a DTO and a POCO?</p>\n\n<p><a href=\"https://ardalis.com/dto-or-poco/\"><strong>What is the difference between a DTO and a POCO (or POJO)</strong></a> by <a href=\"https://twitter.com/ardalis\">Steve Smith</a></p>",
+          "description_markdown": "Two terms that come up frequently when discussing software development in .NET and C# are DTO and POCO. Some developers use these terms interchangeably. So, what is the difference between a DTO and a POCO? \r\n\r\n[**What is the difference between a DTO and a POCO (or POJO)**](https://ardalis.com/dto-or-poco/) by [Steve Smith](https://twitter.com/ardalis)",
+          "embedded_links": [
+            {
+              "identifier": "8l4ZPdO",
+              "title": "**What is the difference between a DTO and a POCO (or POJO)**",
+              "url_domain": "ardalis.com",
+              "url": "https://ardalis.com/dto-or-poco/"
+            },
+            {
+              "identifier": "fBqtieo",
+              "title": "Steve Smith",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/ardalis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "bUBRUEV",
+          "type": "Link",
+          "title": "Building an Android app with .NET 6",
+          "url_domain": "builttoroam.com",
+          "url": "https://nicksnettravels.builttoroam.com/android-net-6",
+          "description": "<p>Microsoft has made preview 1 of .NET 6 available. Nick looks at how to build an Android App using the new shiny bits.</p>\n\n<p><a href=\"https://nicksnettravels.builttoroam.com/android-net-6\"><strong>Building an Android app with .NET 6 - Nick's .NET Travels</strong></a> by <a href=\"https://twitter.com/thenickrandolph\">Nick Randolph</a></p>",
+          "description_markdown": "Microsoft has made preview 1 of .NET 6 available. Nick looks at how to build an Android App using the new shiny bits.\r\n\r\n[**Building an Android app with .NET 6 - Nick's .NET Travels**](https://nicksnettravels.builttoroam.com/android-net-6) by [Nick Randolph](https://twitter.com/thenickrandolph)",
+          "embedded_links": [
+            {
+              "identifier": "31PRvzV",
+              "title": "**Building an Android app with .NET 6 - Nick's .NET Travels**",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/android-net-6"
+            },
+            {
+              "identifier": "NKy12ep",
+              "title": "Nick Randolph",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/thenickrandolph"
+            }
+          ]
+        },
+        {
+          "identifier": "ba1WEze",
+          "type": "Link",
+          "title": "Bypass SSL Certificate validation on Android",
+          "url_domain": "banditoth.hu",
+          "url": "https://www.banditoth.hu/2021/02/18/xamarin-forms-bypass-ssl-certificate-validation-on-android",
+          "description": "<p>Bypassing SSL Certificate validation in production releases are not recommended. It can make your application vulnerable by hackers and reverse engineers, and your users will be unprotected from the bad guys. But sometimes it can be helpful to just ignore the certification errors in a development environment.</p>\n\n<p><a href=\"https://www.banditoth.hu/2021/02/18/xamarin-forms-bypass-ssl-certificate-validation-on-android\"><strong>Xamarin.Forms: Bypass SSL Certificate validation on Android</strong></a> by <a href=\"https://www.linkedin.com/in/banditoth\">Tóth András</a></p>",
+          "description_markdown": "Bypassing SSL Certificate validation in production releases are not recommended. It can make your application vulnerable by hackers and reverse engineers, and your users will be unprotected from the bad guys. But sometimes it can be helpful to just ignore the certification errors in a development environment.\r\n\r\n\r\n\r\n[**Xamarin.Forms: Bypass SSL Certificate validation on Android**](https://www.banditoth.hu/2021/02/18/xamarin-forms-bypass-ssl-certificate-validation-on-android) by [Tóth András](https://www.linkedin.com/in/banditoth)",
+          "embedded_links": [
+            {
+              "identifier": "DgUFCrU",
+              "title": "**Xamarin.Forms: Bypass SSL Certificate validation on Android**",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/2021/02/18/xamarin-forms-bypass-ssl-certificate-validation-on-android"
+            },
+            {
+              "identifier": "fXJjUr6",
+              "title": "Tóth András",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/banditoth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "njSyTho",
+          "type": "Link",
+          "title": "A little tip about ImageResourceExtension",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/imageresourceextension/",
+          "description": "<p>Optimize the ImageResourceExtension to make it easier to use embedded resources or images in our XAML.</p>\n\n<p><a href=\"https://luismts.com/imageresourceextension/\"><strong>Little Tips: What you should do with ImageResourceExtension</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Optimize the ImageResourceExtension to make it easier to use embedded resources or images in our XAML.\r\n\r\n[**Little Tips: What you should do with ImageResourceExtension**](https://luismts.com/imageresourceextension/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "KzsQBgI",
+              "title": "**Little Tips: What you should do with ImageResourceExtension**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/imageresourceextension/"
+            },
+            {
+              "identifier": "7E7XCtd",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "bKq87vf",
+          "type": "Link",
+          "title": "10 Tips for Xamarin.Forms",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/10-tips-to-avoid-common-mistakes-in-xamarin-forms-app-development.aspx",
+          "description": "<p>A (slightly opinionated) collection of 10 common mistakes and tips for Xamarin.Forms.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/10-tips-to-avoid-common-mistakes-in-xamarin-forms-app-development.aspx\"><strong>10 Tips to Avoid Common Mistakes in Xamarin.Forms App Development | Syncfusion Blogs</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/mohammedismailsameer-mohamedsaleemsyncfusion-com\">Mohammed Ismail Sameer Mohamed Saleem</a></p>",
+          "description_markdown": "A (slightly opinionated) collection of 10 common mistakes and tips for Xamarin.Forms.\r\n\r\n[**10 Tips to Avoid Common Mistakes in Xamarin.Forms App Development | Syncfusion Blogs**](https://www.syncfusion.com/blogs/post/10-tips-to-avoid-common-mistakes-in-xamarin-forms-app-development.aspx) by [Mohammed Ismail Sameer Mohamed Saleem](https://www.syncfusion.com/blogs/author/mohammedismailsameer-mohamedsaleemsyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "45xNSHt",
+              "title": "**10 Tips to Avoid Common Mistakes in Xamarin.Forms App Development | Syncfusion Blogs**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/10-tips-to-avoid-common-mistakes-in-xamarin-forms-app-development.aspx"
+            },
+            {
+              "identifier": "joHoRYE",
+              "title": "Mohammed Ismail Sameer Mohamed Saleem",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/mohammedismailsameer-mohamedsaleemsyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "ZvmP4zf",
+          "type": "Link",
+          "title": "Fingerprint Authentication in your App",
+          "url_domain": "blogspot.com",
+          "url": "https://xamarinmonkeys.blogspot.com/2021/02/xamarinforms-fingerprint-authentication.html",
+          "description": "<p>Fingers are extremely useful. You can use them to type. You can use them to poke your phone screen. You can also use them to do authentication in your Xamarin App.</p>\n\n<p><a href=\"https://xamarinmonkeys.blogspot.com/2021/02/xamarinforms-fingerprint-authentication.html\"><strong>Xamarin.Forms - Fingerprint Authentication in your App</strong></a> by <a href=\"https://www.blogger.com/profile/12290645674821205145\">Delpin Susai Raj</a></p>",
+          "description_markdown": "Fingers are extremely useful. You can use them to type. You can use them to poke your phone screen. You can also use them to do authentication in your Xamarin App.\r\n\r\n[**Xamarin.Forms - Fingerprint Authentication in your App**](https://xamarinmonkeys.blogspot.com/2021/02/xamarinforms-fingerprint-authentication.html) by [Delpin Susai Raj](https://www.blogger.com/profile/12290645674821205145)",
+          "embedded_links": [
+            {
+              "identifier": "7CesYB9",
+              "title": "**Xamarin.Forms - Fingerprint Authentication in your App**",
+              "url_domain": "blogspot.com",
+              "url": "https://xamarinmonkeys.blogspot.com/2021/02/xamarinforms-fingerprint-authentication.html"
+            },
+            {
+              "identifier": "Ayfok6s",
+              "title": "Delpin Susai Raj",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/12290645674821205145"
+            }
+          ]
+        },
+        {
+          "identifier": "qqHhHC6",
+          "type": "Link",
+          "title": "Applying Simple Navigation in Xamarin Forms",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/applying-simple-navigation-xamarin-forms",
+          "description": "<p>How do you switch pages in Xamarin.Forms? Xamarin.Forms gives us some simple but powerful tools to control navigation in our apps.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/applying-simple-navigation-xamarin-forms\"><strong>Applying Simple Navigation in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "How do you switch pages in Xamarin.Forms? Xamarin.Forms gives us some simple but powerful tools to control navigation in our apps.\r\n\r\n[**Applying Simple Navigation in Xamarin Forms**](https://www.telerik.com/blogs/applying-simple-navigation-xamarin-forms) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "QISUgoy",
+              "title": "**Applying Simple Navigation in Xamarin Forms**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/applying-simple-navigation-xamarin-forms"
+            },
+            {
+              "identifier": "yyhxiOK",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "r4Gvoc1",
+          "type": "Link",
+          "title": "Creating a scalable Style Library",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/style-library-xamarin-forms/",
+          "description": "<p>An couple of interesting approaches for tackling the challenge of having application styles shared between multiple projects.</p>\n\n<p><a href=\"https://luismts.com/style-library-xamarin-forms/\"><strong>Creating a scalable Style Library in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "An couple of interesting approaches for tackling the challenge of having application styles shared between multiple projects.\r\n\r\n[**Creating a scalable Style Library in Xamarin Forms**](https://luismts.com/style-library-xamarin-forms/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "H5biIcG",
+              "title": "**Creating a scalable Style Library in Xamarin Forms**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/style-library-xamarin-forms/"
+            },
+            {
+              "identifier": "Q5fsZHs",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "kNo3m0",
+          "type": "Link",
+          "title": "Xamarin.Forms BackgroundColor, TextColor, and Dark Mode",
+          "url_domain": "criticalhittech.com",
+          "url": "https://criticalhittech.com/2021/02/18/xamarin-forms-backgroundcolor-textcolor-and-dark-mode/",
+          "description": "<p>A look into some of the more interesting challenges of how Light / Dark mode works in iOS and how Xamarin.Forms may not do exactly what you want.</p>\n\n<p><a href=\"https://criticalhittech.com/2021/02/18/xamarin-forms-backgroundcolor-textcolor-and-dark-mode/\"><strong>Xamarin.Forms BackgroundColor, TextColor, and Dark Mode</strong></a> by <a href=\"https://criticalhittech.com/\">David Sielaff</a></p>",
+          "description_markdown": "A look into some of the more interesting challenges of how Light / Dark mode works in iOS and how Xamarin.Forms may not do exactly what you want.\r\n\r\n[**Xamarin.Forms BackgroundColor, TextColor, and Dark Mode**](https://criticalhittech.com/2021/02/18/xamarin-forms-backgroundcolor-textcolor-and-dark-mode/) by [David Sielaff](https://criticalhittech.com/)",
+          "embedded_links": [
+            {
+              "identifier": "fszBGUw",
+              "title": "**Xamarin.Forms BackgroundColor, TextColor, and Dark Mode**",
+              "url_domain": "criticalhittech.com",
+              "url": "https://criticalhittech.com/2021/02/18/xamarin-forms-backgroundcolor-textcolor-and-dark-mode/"
+            },
+            {
+              "identifier": "VEpPO4",
+              "title": "David Sielaff",
+              "url_domain": "criticalhittech.com",
+              "url": "https://criticalhittech.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "mvvmcross",
+      "name": "MVVMCROSS",
+      "items": [
+        {
+          "identifier": "uTuHnQI",
+          "type": "Link",
+          "title": "Pop-up validation in Xamarin with MvvmCross",
+          "url_domain": "medium.com",
+          "url": "https://prin53.medium.com/pop-up-validation-in-xamarin-with-mvvmcross-b035f0193ba4",
+          "description": "<p>This article covers how you can create input validation on your custom dialogs when using MvvmCross.</p>\n\n<p><a href=\"https://prin53.medium.com/pop-up-validation-in-xamarin-with-mvvmcross-b035f0193ba4\"><strong>Pop-up validation in Xamarin with MvvmCross</strong></a> by <a href=\"https://medium.com/@prin53\">Denys Fiediaiev</a></p>",
+          "description_markdown": "This article covers how you can create input validation on your custom dialogs when using MvvmCross.\r\n\r\n[**Pop-up validation in Xamarin with MvvmCross**](https://prin53.medium.com/pop-up-validation-in-xamarin-with-mvvmcross-b035f0193ba4) by [Denys Fiediaiev](https://medium.com/@prin53)",
+          "embedded_links": [
+            {
+              "identifier": "gTe84po",
+              "title": "**Pop-up validation in Xamarin with MvvmCross**",
+              "url_domain": "medium.com",
+              "url": "https://prin53.medium.com/pop-up-validation-in-xamarin-with-mvvmcross-b035f0193ba4"
+            },
+            {
+              "identifier": "ptr1nCz",
+              "title": "Denys Fiediaiev",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prin53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "L4LhmyV",
+          "type": "Link",
+          "title": "MultiConverter and VariableMultiValueConverter",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-MultiConverter--VariableMultiValueConverter",
+          "description": "<p>This episode is a bit of a mind-boggler. We will learn about the MultiConverter, which allows you to chain multiple ValueConverters together. But we're not stopping there! We will also see the VariableMultiValueConverter allows converting values when used in Xamarin.Forms MultiBindings.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-MultiConverter--VariableMultiValueConverter\"><strong>Xamarin Community Toolkit - MultiConverter &amp; VariableMultiValueConverter</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "This episode is a bit of a mind-boggler. We will learn about the MultiConverter, which allows you to chain multiple ValueConverters together. But we're not stopping there! We will also see the VariableMultiValueConverter allows converting values when used in Xamarin.Forms MultiBindings.\r\n\r\n[**Xamarin Community Toolkit - MultiConverter &amp; VariableMultiValueConverter**](https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-MultiConverter--VariableMultiValueConverter) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "ldY3kM4",
+              "title": "**Xamarin Community Toolkit - MultiConverter &amp; VariableMultiValueConverter**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-MultiConverter--VariableMultiValueConverter"
+            },
+            {
+              "identifier": "s1n5xbn",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "HX5xjR8",
+          "type": "Link",
+          "title": "Xamarin.Forms ListView vs. CollectionView - Which to use and why!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=_lVM9gpFSbw",
+          "description": "<p>A break down of all the key differences between the Xamarin.Forms ListView and the brand new CollectionView. Which one should you use and why? Which features are exclusive to each control and which can be combined with new awesome things built directly into Xamarin.Forms.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=_lVM9gpFSbw\"><strong>Xamarin.Forms ListView vs. CollectionView - Which to use and why!</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "A break down of all the key differences between the Xamarin.Forms ListView and the brand new CollectionView. Which one should you use and why? Which features are exclusive to each control and which can be combined with new awesome things built directly into Xamarin.Forms.\r\n\r\n[**Xamarin.Forms ListView vs. CollectionView - Which to use and why!**](https://www.youtube.com/watch?v=_lVM9gpFSbw) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "2QqFiTA",
+              "title": "**Xamarin.Forms ListView vs. CollectionView - Which to use and why!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=_lVM9gpFSbw"
+            },
+            {
+              "identifier": "zrCkq6r",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "2nYDHGj",
+          "type": "Link",
+          "title": "Add Badges to Everything with Xamarin Community Toolkit BadgeView",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=f2fC_m7CjIk",
+          "description": "<p>In this video we will see how to use BadgeView. When wrapping any control in BadgeView you enable that control to show badges! You can customize color, font, border, nearly everything and have it show up whenever you want.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=f2fC_m7CjIk\"><strong>Add Badges to Everything with Xamarin Community Toolkit BadgeView</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "In this video we will see how to use BadgeView. When wrapping any control in BadgeView you enable that control to show badges! You can customize color, font, border, nearly everything and have it show up whenever you want.\r\n\r\n[**Add Badges to Everything with Xamarin Community Toolkit BadgeView**](https://www.youtube.com/watch?v=f2fC_m7CjIk) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "rSPe4Bp",
+              "title": "**Add Badges to Everything with Xamarin Community Toolkit BadgeView**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=f2fC_m7CjIk"
+            },
+            {
+              "identifier": "hTp1j2y",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "iOjEMXe",
+          "type": "Link",
+          "title": "Merge Conflict: 241: Goodbye DTK, Hello Mac App Development",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/241",
+          "description": "<p>Apple finally lets us return our DTK units with a nice surprise and both Frank and James double down on bringing their apps to macOS!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/241\"><strong>Merge Conflict: 241: Goodbye DTK, Hello Mac App Development</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Apple finally lets us return our DTK units with a nice surprise and both Frank and James double down on bringing their apps to macOS!\r\n\r\n[**Merge Conflict: 241: Goodbye DTK, Hello Mac App Development**](https://www.mergeconflict.fm/241) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "6meVfhy",
+              "title": "**Merge Conflict: 241: Goodbye DTK, Hello Mac App Development**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/241"
+            },
+            {
+              "identifier": "EdGtPP6",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "NK4pTYC",
+          "type": "Link",
+          "title": "Infinite Scroll with Xamarin.Forms CollectionView",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=sZq8K_64bc0",
+          "description": "<p>The Xamarin Forms CollectionView makes it infinitely easier to implement err.. Infinite loading! In this video we will see how we implement infinite loading by using 1 property; RemainingItemsThreshold and 1 event; RemainingItemsThresholdReached.</p>\n\n<p>This sample targets using CollectionView from code-behind but also gives you information on how to do it with MVVM.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=sZq8K_64bc0\"><strong>Infinite Scroll with Xamarin.Forms CollectionView</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "The Xamarin Forms CollectionView makes it infinitely easier to implement err.. Infinite loading! In this video we will see how we implement infinite loading by using 1 property; RemainingItemsThreshold and 1 event; RemainingItemsThresholdReached.\r\n\r\nThis sample targets using CollectionView from code-behind but also gives you information on how to do it with MVVM.\r\n\r\n[**Infinite Scroll with Xamarin.Forms CollectionView**](https://www.youtube.com/watch?v=sZq8K_64bc0) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "ydJ1Pb1",
+              "title": "**Infinite Scroll with Xamarin.Forms CollectionView**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=sZq8K_64bc0"
+            },
+            {
+              "identifier": "MkEsHIX",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "f571csX",
+          "type": "Link",
+          "title": "Null Pointers 40: Clean Code",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/40/",
+          "description": "<p>Writing code can be fun, especially when you start a new project. But then time passes and all of a sudden adding or changing existing features gets hard. Things begin to break unexpectedly, and stuff starts to feel messy. But it does not have to be that way. A well-structured app and a few guidelines are here to help us all. If we follow the SOLID principle and all the other Clean Code acronyms, everything will be just fine right? Well, tune in and find out our opinions and experiences all around writing Clean Code.</p>\n\n<p><a href=\"https://nullpointers.io/40/\"><strong>40: Clean Code</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "Writing code can be fun, especially when you start a new project. But then time passes and all of a sudden adding or changing existing features gets hard. Things begin to break unexpectedly, and stuff starts to feel messy. But it does not have to be that way. A well-structured app and a few guidelines are here to help us all. If we follow the SOLID principle and all the other Clean Code acronyms, everything will be just fine right? Well, tune in and find out our opinions and experiences all around writing Clean Code.\r\n\r\n[**40: Clean Code**](https://nullpointers.io/40/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "OSKoFWv",
+              "title": "**40: Clean Code**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/40/"
+            },
+            {
+              "identifier": "JeHfzTq",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "type": "Text",
+          "title": "Monkey of the Week",
+          "description": "<p>Australian Xamarin Monkeys eat Tim-Tams</p>",
+          "description_markdown": "Australian Xamarin Monkeys eat Tim-Tams",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "e9c44d88-66a8-43bb-a655-55b501271865.JPG",
+          "image_extra_large_filename": "original_ratio_extra_large_e9c44d88-66a8-43bb-a655-55b501271865.JPG",
+          "image_medium_filename": "original_ratio_medium_e9c44d88-66a8-43bb-a655-55b501271865.JPG"
+        }
+      ]
+    }
+  ]
+}
