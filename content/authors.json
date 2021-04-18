@@ -2014,6 +2014,16 @@
       ]
     },
     {
+      "Name": "Michal Zolnieruk",
+      "Id": "https://twitter.com/michalzolnieruk",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/michalzolnieruk"
+        }
+      ]
+    },
+    {
       "Name": "Mike Grant",
       "TwitterHandle": "mike_grant_",
       "GitHubHandle": "mike-grant",
@@ -2309,6 +2319,16 @@
       "GitHubHandle": "ReactiveUI",
       "Id": "https://twitter.com/ReactiveXUI",
       "Website": "https://reactiveui.net/"
+    },
+    {
+      "Name": "Reena Thaveethu",
+      "Id": "https://www.linkedin.com/in/lazareena-thaveethu/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.linkedin.com/in/lazareena-thaveethu/"
+        }
+      ]
     },
     {
       "Name": "Rendy Del Rosario",
@@ -2878,6 +2898,16 @@
       "Website": "https://xamarinweb.com/"
     },
     {
+      "Name": "Vadim Sedov",
+      "Id": "https://twitter.com/sidovsky_",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/sidovsky_"
+        }
+      ]
+    },
+    {
       "Name": "Vicente Guzman",
       "TwitterHandle": "luciomsp",
       "GitHubHandle": "VicenteGuzman",
@@ -2939,6 +2969,16 @@
         {
           "Type": "blog",
           "Name": "https://devblogs.microsoft.com/xamarin/author/devvincenth-net/"
+        }
+      ]
+    },
+    {
+      "Name": "Vladislav Antonyuk",
+      "Id": "https://github.com/vladislavantonyuk",
+      "Aliases": [
+        {
+          "Type": "github",
+          "Name": "https://github.com/vladislavantonyuk"
         }
       ]
     },

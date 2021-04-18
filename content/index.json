@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "302",
+      "Name": "Issue 302",
+      "UpdatedTimeStamp": "2021-04-01T05:48:00Z",
+      "Summary": "Easter special bumper issue. Now with moar MAUI",
+      "PublishDate": "2021-04-01T05:47:55Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "301",
       "Name": "Issue 301",
       "UpdatedTimeStamp": "2021-03-21T23:25:20Z",

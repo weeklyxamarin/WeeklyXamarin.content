@@ -1,0 +1,944 @@
+{
+  "number": 302,
+  "title": "Issue 302",
+  "summary": "Easter special bumper issue. Now with moar MAUI",
+  "url": "https://weeklyxamarin.com/issues/302",
+  "publication_status": "published",
+  "published_at": "2021-04-01T06:47:55+01:00",
+  "updated_at": "2021-04-01T06:48:00+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "Happy Easter!",
+          "description": "<p>Hi everyone.</p>\n\n<p>This is a bumper Easter edition of Weekly Xamarin. For those keen observers out there you may have noticed we missed an edition last week (sorry about that) - but that just means you have even more great content for the long weekend. ;-)</p>\n\n<p>I want to send thanks to people who submitted articles: Michał Żołnieruk, Vladislav Antonyuk, Vadim Sedov and Matt Goldman.  As a reminder, if you have some articles you think should be in the newsletter - let us know by submitting it here: <a href=\"https://bit.ly/WeeklyXamarinSubmit\">https://bit.ly/WeeklyXamarinSubmit</a></p>\n\n<p>Happy Easter and see you next week (really).</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Hi everyone.\r\n\r\nThis is a bumper Easter edition of Weekly Xamarin. For those keen observers out there you may have noticed we missed an edition last week (sorry about that) - but that just means you have even more great content for the long weekend. ;-)\r\n\r\nI want to send thanks to people who submitted articles: Michał Żołnieruk, Vladislav Antonyuk, Vadim Sedov and Matt Goldman.  As a reminder, if you have some articles you think should be in the newsletter - let us know by submitting it here: [https://bit.ly/WeeklyXamarinSubmit](https://bit.ly/WeeklyXamarinSubmit)\r\n\r\nHappy Easter and see you next week (really).\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "ro9BCmI",
+              "title": "https://bit.ly/WeeklyXamarinSubmit",
+              "url_domain": "bit.ly",
+              "url": "https://bit.ly/WeeklyXamarinSubmit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "L8Uhsvb",
+          "type": "Link",
+          "title": "Automagic Tenant Config for Mobile Apps",
+          "url_domain": "goforgoldman.com",
+          "url": "https://goforgoldman.com/2021/02/04/automagic-mobile-config.html",
+          "description": "<p>Your mobile app may need to connect to a different back end or tenant for each organisation that’s using your app. In this blog post (and video) Matt discusses some different approaches as well as their advantages and disadvantages.</p>\n\n<p><a href=\"https://goforgoldman.com/2021/02/04/automagic-mobile-config.html\"><strong>Automagic Tenant Config for Mobile Apps</strong></a> by <a href=\"\">Matt Goldman</a></p>",
+          "description_markdown": "Your mobile app may need to connect to a different back end or tenant for each organisation that’s using your app. In this blog post (and video) Matt discusses some different approaches as well as their advantages and disadvantages.\r\n\r\n[**Automagic Tenant Config for Mobile Apps**](https://goforgoldman.com/2021/02/04/automagic-mobile-config.html) by [Matt Goldman]()\r\n\r\n\r\n",
+          "embedded_links": [
+            {
+              "identifier": "tjPM1WL",
+              "title": "**Automagic Tenant Config for Mobile Apps**",
+              "url_domain": "goforgoldman.com",
+              "url": "https://goforgoldman.com/2021/02/04/automagic-mobile-config.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "IrLMOEy",
+          "type": "Link",
+          "title": "CI/CD for Xamarin Android with Google Play and Azure DevOps",
+          "url_domain": "banditoth.hu",
+          "url": "https://www.banditoth.hu/2021/03/25/complete-ci-cd-tutorial-for-xamarin-android-with-google-play-publish-in-azure-devops-part-1/",
+          "description": "<p>This tutorial will drive you through setting up a great CI/CD pipeline for Xamarin Android in a fully hosted Azure DevOps environment.</p>\n\n<p><a href=\"https://www.banditoth.hu/2021/03/25/complete-ci-cd-tutorial-for-xamarin-android-with-google-play-publish-in-azure-devops-part-1/\"><strong>Complete CI/CD tutorial for Xamarin Android with Google Play publish in Azure DevOps | Part 1. </strong></a> by <a href=\"https://www.linkedin.com/in/banditoth\">András Tóth</a></p>",
+          "description_markdown": "This tutorial will drive you through setting up a great CI/CD pipeline for Xamarin Android in a fully hosted Azure DevOps environment. \r\n\r\n[**Complete CI/CD tutorial for Xamarin Android with Google Play publish in Azure DevOps | Part 1. **](https://www.banditoth.hu/2021/03/25/complete-ci-cd-tutorial-for-xamarin-android-with-google-play-publish-in-azure-devops-part-1/) by [András Tóth](https://www.linkedin.com/in/banditoth)",
+          "embedded_links": [
+            {
+              "identifier": "ttbdBmZ",
+              "title": "**Complete CI/CD tutorial for Xamarin Android with Google Play publish in Azure DevOps | Part 1. **",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/2021/03/25/complete-ci-cd-tutorial-for-xamarin-android-with-google-play-publish-in-azure-devops-part-1/"
+            },
+            {
+              "identifier": "hD5fYhd",
+              "title": "András Tóth",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/banditoth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "MGHqhJu",
+          "type": "Link",
+          "title": "SVG icon management tool",
+          "url_domain": "svgx.app",
+          "url": "https://svgx.app/",
+          "description": "<p>SVGX is the desktop SVG asset manager designers and developers wished they had.</p>\n\n<p><a href=\"https://svgx.app/\"><strong>SVGx</strong></a></p>",
+          "description_markdown": "SVGX is the desktop SVG asset manager designers and developers wished they had.\r\n\r\n[**SVGx**](https://svgx.app/)",
+          "embedded_links": [
+            {
+              "identifier": "9hlb8fS",
+              "title": "**SVGx**",
+              "url_domain": "svgx.app",
+              "url": "https://svgx.app/"
+            }
+          ]
+        },
+        {
+          "identifier": "nodsc6z",
+          "type": "Link",
+          "title": "Setting Up an M1 Mac for Xamarin Development",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/setting-up-an-m1-mac-for-xamarin-development/",
+          "description": "<p>Looking to get an M1 Mac or just got one for Xamarin development? Here is what you need to know to get iOS running and Android emulators working.</p>\n\n<p><a href=\"https://montemagno.com/setting-up-an-m1-mac-for-xamarin-development/\"><strong>Setting Up an M1 Mac for Xamarin Development</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Looking to get an M1 Mac or just got one for Xamarin development? Here is what you need to know to get iOS running and Android emulators working.\r\n\r\n[**Setting Up an M1 Mac for Xamarin Development**](https://montemagno.com/setting-up-an-m1-mac-for-xamarin-development/) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "R0fCfYj",
+              "title": "**Setting Up an M1 Mac for Xamarin Development**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/setting-up-an-m1-mac-for-xamarin-development/"
+            },
+            {
+              "identifier": "B1L6pOv",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "BH6x7VT",
+          "type": "Link",
+          "title": "Code Generation from XAML in Visual Studio is Mind-blowing Awesome",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/code-generation-from-xaml-in-visual-studio/",
+          "description": "<p>If you are a Xamarin.Forms, WPF, or UWP developer you need to checkout this amazing new feature to generate properties, commands, and more!</p>\n\n<p><a href=\"https://montemagno.com/code-generation-from-xaml-in-visual-studio/\"><strong>Code Generation from XAML in Visual Studio is Mind-blowing Awesome</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "If you are a Xamarin.Forms, WPF, or UWP developer you need to checkout this amazing new feature to generate properties, commands, and more!\r\n\r\n[**Code Generation from XAML in Visual Studio is Mind-blowing Awesome**](https://montemagno.com/code-generation-from-xaml-in-visual-studio/) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "5QpUYqk",
+              "title": "**Code Generation from XAML in Visual Studio is Mind-blowing Awesome**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/code-generation-from-xaml-in-visual-studio/"
+            },
+            {
+              "identifier": "BlvL9wB",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "JFo0Xwi",
+          "type": "Link",
+          "title": "PDFView-Android Xamarin Binding",
+          "url_domain": "github.com",
+          "url": "https://github.com/SIDOVSKY/pdfview-android-xamarin-binding",
+          "description": "<p>Do you need an efficient PDF viewer embedded in your native Android app? Look no further.</p>\n\n<p><a href=\"https://github.com/SIDOVSKY/pdfview-android-xamarin-binding\"><strong>PDFView-Android Xamarin Binding</strong></a> by <a href=\"https://twitter.com/sidovsky_\">Vadim Sedov</a></p>",
+          "description_markdown": "Do you need an efficient PDF viewer embedded in your native Android app? Look no further.\r\n\r\n[**PDFView-Android Xamarin Binding**](https://github.com/SIDOVSKY/pdfview-android-xamarin-binding) by [Vadim Sedov](https://twitter.com/sidovsky_)",
+          "embedded_links": [
+            {
+              "identifier": "cIccF1N",
+              "title": "**PDFView-Android Xamarin Binding**",
+              "url_domain": "github.com",
+              "url": "https://github.com/SIDOVSKY/pdfview-android-xamarin-binding"
+            },
+            {
+              "identifier": "LWUpZiQ",
+              "title": "Vadim Sedov",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/sidovsky_"
+            }
+          ]
+        },
+        {
+          "identifier": "8TYkH70",
+          "type": "Link",
+          "title": "Hyperion for Xamarin.Android",
+          "url_domain": "github.com",
+          "url": "https://github.com/SIDOVSKY/Hyperion-Xamarin.Android",
+          "description": "<p>Hyperion is a hidden plugin drawer that can easily be integrated into any app. The drawer sits discreetly 🙊 under the app so that it is there when you need it and out of the way when you don't. Hyperion plugins are designed to make inspection of your app quick and simple.</p>\n\n<p><a href=\"https://github.com/SIDOVSKY/Hyperion-Xamarin.Android\"><strong>Hyperion-Xamarin.Android</strong></a> by <a href=\"https://twitter.com/sidovsky_\">Vadim Sedov</a></p>",
+          "description_markdown": "Hyperion is a hidden plugin drawer that can easily be integrated into any app. The drawer sits discreetly 🙊 under the app so that it is there when you need it and out of the way when you don't. Hyperion plugins are designed to make inspection of your app quick and simple.\r\n\r\n[**Hyperion-Xamarin.Android**](https://github.com/SIDOVSKY/Hyperion-Xamarin.Android) by [Vadim Sedov](https://twitter.com/sidovsky_)",
+          "embedded_links": [
+            {
+              "identifier": "WjAXI2D",
+              "title": "**Hyperion-Xamarin.Android**",
+              "url_domain": "github.com",
+              "url": "https://github.com/SIDOVSKY/Hyperion-Xamarin.Android"
+            },
+            {
+              "identifier": "Aj1zKD1",
+              "title": "Vadim Sedov",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/sidovsky_"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "PwpFsCp",
+          "type": "Link",
+          "title": "UIImageView animation in Xamarin.iOS",
+          "url_domain": "medium.com",
+          "url": "https://miszu.medium.com/pausing-uiimageview-animation-in-xamarin-ios-a4143aff640b?source=friends_link&sk=aab5680f626314bc940c793ad11c42c7",
+          "description": "<p>Animating frames with UIImageView is handy, but what if you want to pause the animation? Here's how to do it easily.</p>\n\n<p><a href=\"https://miszu.medium.com/pausing-uiimageview-animation-in-xamarin-ios-a4143aff640b?source=friends_link&amp;sk=aab5680f626314bc940c793ad11c42c7\"><strong>Pausing UIImageView animation in Xamarin.iOS</strong></a> by <a href=\"https://twitter.com/michalzolnieruk\">Michal Zolnieruk</a></p>",
+          "description_markdown": "Animating frames with UIImageView is handy, but what if you want to pause the animation? Here's how to do it easily.\r\n\r\n[**Pausing UIImageView animation in Xamarin.iOS**](https://miszu.medium.com/pausing-uiimageview-animation-in-xamarin-ios-a4143aff640b?source=friends_link&sk=aab5680f626314bc940c793ad11c42c7) by [Michal Zolnieruk](https://twitter.com/michalzolnieruk)",
+          "embedded_links": [
+            {
+              "identifier": "WhGoZLm",
+              "title": "**Pausing UIImageView animation in Xamarin.iOS**",
+              "url_domain": "medium.com",
+              "url": "https://miszu.medium.com/pausing-uiimageview-animation-in-xamarin-ios-a4143aff640b?source=friends_link&sk=aab5680f626314bc940c793ad11c42c7"
+            },
+            {
+              "identifier": "hcbeYEX",
+              "title": "Michal Zolnieruk",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/michalzolnieruk"
+            }
+          ]
+        },
+        {
+          "identifier": "28RzpZ5",
+          "type": "Link",
+          "title": "Adventures in ARKit - display a 3D model",
+          "url_domain": "davidbritch.com",
+          "url": "https://www.davidbritch.com/2021/03/adventures-in-arkit-display-3d-model.html",
+          "description": "<p>David continues his series on getting started with ARKit. In this blog post he once again covers displaying a 3D model in a scene which can be manipulated through touch gestures but this time accomplished via different techniques.</p>\n\n<p><a href=\"https://www.davidbritch.com/2021/03/adventures-in-arkit-display-3d-model.html\"><strong>Adventures in ARKit - display a 3D model</strong></a> by <a href=\"https://www.blogger.com/profile/08228714867310322959\">David Britch</a></p>",
+          "description_markdown": "David continues his series on getting started with ARKit. In this blog post he once again covers displaying a 3D model in a scene which can be manipulated through touch gestures but this time accomplished via different techniques.\r\n\r\n[**Adventures in ARKit - display a 3D model**](https://www.davidbritch.com/2021/03/adventures-in-arkit-display-3d-model.html) by [David Britch](https://www.blogger.com/profile/08228714867310322959)",
+          "embedded_links": [
+            {
+              "identifier": "sQq7Y7m",
+              "title": "**Adventures in ARKit - display a 3D model**",
+              "url_domain": "davidbritch.com",
+              "url": "https://www.davidbritch.com/2021/03/adventures-in-arkit-display-3d-model.html"
+            },
+            {
+              "identifier": "sRIQUbg",
+              "title": "David Britch",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/08228714867310322959"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "FnP0Yz6",
+          "type": "Link",
+          "title": "Setting up your Xamarin.Forms application as a sharing target",
+          "url_domain": "criticalhittech.com",
+          "url": "https://criticalhittech.com/2021/03/25/setting-up-your-xamarin-forms-application-as-a-sharing-target/",
+          "description": "<p>A step by step example for setting up an Android and iOS application as a target for sharing url links.</p>\n\n<p><a href=\"https://criticalhittech.com/2021/03/25/setting-up-your-xamarin-forms-application-as-a-sharing-target/\"><strong>Setting up your Xamarin.Forms application as a sharing target</strong></a> by <a href=\"https://www.linkedin.com/in/lazareena-thaveethu/\">Reena Thaveethu</a></p>",
+          "description_markdown": "A step by step example for setting up an Android and iOS application as a target for sharing url links.\r\n\r\n[**Setting up your Xamarin.Forms application as a sharing target**](https://criticalhittech.com/2021/03/25/setting-up-your-xamarin-forms-application-as-a-sharing-target/) by [Reena Thaveethu](https://www.linkedin.com/in/lazareena-thaveethu/)",
+          "embedded_links": [
+            {
+              "identifier": "Yrlt9kc",
+              "title": "**Setting up your Xamarin.Forms application as a sharing target**",
+              "url_domain": "criticalhittech.com",
+              "url": "https://criticalhittech.com/2021/03/25/setting-up-your-xamarin-forms-application-as-a-sharing-target/"
+            },
+            {
+              "identifier": "zEDPcBQ",
+              "title": "Reena Thaveethu",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/lazareena-thaveethu/"
+            }
+          ]
+        },
+        {
+          "identifier": "b9Zk3Rz",
+          "type": "Link",
+          "title": "Animating Page Transitions in Xamarin Forms",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/animating-page-transitions-in-xamarin-forms/",
+          "description": "<p>Sometimes you want to have a nice transition between pages in your application that go beyond what Xamarin.Forms provides out of the box.\n In this blog post Charlin introduces that amazing library called Xamarin.Plugin.SharedTransitions which allows you to take your page transitions to the next level.</p>\n\n<p><a href=\"https://xamgirl.com/animating-page-transitions-in-xamarin-forms/\"><strong>Animating Page Transitions in Xamarin Forms - XamGirl</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "Sometimes you want to have a nice transition between pages in your application that go beyond what Xamarin.Forms provides out of the box. \r\n In this blog post Charlin introduces that amazing library called Xamarin.Plugin.SharedTransitions which allows you to take your page transitions to the next level.\r\n\r\n[**Animating Page Transitions in Xamarin Forms - XamGirl**](https://xamgirl.com/animating-page-transitions-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003)",
+          "embedded_links": [
+            {
+              "identifier": "xfL6S78",
+              "title": "**Animating Page Transitions in Xamarin Forms - XamGirl**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/animating-page-transitions-in-xamarin-forms/"
+            },
+            {
+              "identifier": "ORyArxH",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "9A3AH4H",
+          "type": "Link",
+          "title": "Reopening application best practices",
+          "url_domain": "banditoth.hu",
+          "url": "https://www.banditoth.hu/2021/03/22/xamarin-forms-reopening-application-best-pratices/",
+          "description": "<p>If you have experienced that reopening your application from the phone’s app drawer or launcher fails because it crashes your application, or displays the first set main page again instead of displaying the latest one, keep reading this article.</p>\n\n<p><a href=\"https://www.banditoth.hu/2021/03/22/xamarin-forms-reopening-application-best-pratices/\"><strong>Xamarin.Forms: Reopening application best practices </strong></a> by <a href=\"https://www.linkedin.com/in/banditoth\">András Tóth</a></p>",
+          "description_markdown": "If you have experienced that reopening your application from the phone’s app drawer or launcher fails because it crashes your application, or displays the first set main page again instead of displaying the latest one, keep reading this article.\r\n\r\n[**Xamarin.Forms: Reopening application best practices **](https://www.banditoth.hu/2021/03/22/xamarin-forms-reopening-application-best-pratices/) by [András Tóth](https://www.linkedin.com/in/banditoth)",
+          "embedded_links": [
+            {
+              "identifier": "s2I1Cco",
+              "title": "**Xamarin.Forms: Reopening application best practices **",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/2021/03/22/xamarin-forms-reopening-application-best-pratices/"
+            },
+            {
+              "identifier": "FFSn1IH",
+              "title": "András Tóth",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/banditoth"
+            }
+          ]
+        },
+        {
+          "identifier": "OrcqpTT",
+          "type": "Link",
+          "title": "Replicating Banking Exploration UI",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/replicating-banking-exploration-ui-in-xamarin.aspx",
+          "description": "<p>This blog post discusses replicating a banking exploration UI in Xamarin.Forms.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/replicating-banking-exploration-ui-in-xamarin.aspx\"><strong>Replicating Banking Exploration UI in Xamarin | Syncfusion Blogs</strong></a> by <a href=\"https://twitter.com/Syncfusion\">Syncfusion</a></p>",
+          "description_markdown": "This blog post discusses replicating a banking exploration UI in Xamarin.Forms. \r\n\r\n[**Replicating Banking Exploration UI in Xamarin | Syncfusion Blogs**](https://www.syncfusion.com/blogs/post/replicating-banking-exploration-ui-in-xamarin.aspx) by [Syncfusion](https://twitter.com/Syncfusion)",
+          "embedded_links": [
+            {
+              "identifier": "3Lf0EMv",
+              "title": "**Replicating Banking Exploration UI in Xamarin | Syncfusion Blogs**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/replicating-banking-exploration-ui-in-xamarin.aspx"
+            },
+            {
+              "identifier": "hUoulUA",
+              "title": "Syncfusion",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Syncfusion"
+            }
+          ]
+        },
+        {
+          "identifier": "33V6zEX",
+          "type": "Link",
+          "title": "Shiny all the things - writing testable code",
+          "url_domain": "dansiegel.net",
+          "url": "https://dansiegel.net/post/2021/03/12/shiny-all-the-things-writing-testable-code",
+          "description": "<p>Shiny all the things as they say. If you aren't using Shiny for your Xamarin.Forms or Uno Platform apps, the question is why? We see a lot of people excited about UI libraries these days. While UI is always an important ingredient of any successful app, no app is complete without a resilient and testable architecture. This is one of the reasons why I use Shiny in all of my apps today. But what is Shiny, and why should you be using it?</p>\n\n<p><a href=\"https://dansiegel.net/post/2021/03/12/shiny-all-the-things-writing-testable-code\"><strong>Shiny all the things - writing testable code</strong></a> by <a href=\"https://twitter.com/danjsiegel\">Dan Siegel</a></p>",
+          "description_markdown": "Shiny all the things as they say. If you aren't using Shiny for your Xamarin.Forms or Uno Platform apps, the question is why? We see a lot of people excited about UI libraries these days. While UI is always an important ingredient of any successful app, no app is complete without a resilient and testable architecture. This is one of the reasons why I use Shiny in all of my apps today. But what is Shiny, and why should you be using it?\r\n\r\n[**Shiny all the things - writing testable code**](https://dansiegel.net/post/2021/03/12/shiny-all-the-things-writing-testable-code) by [Dan Siegel](https://twitter.com/danjsiegel)",
+          "embedded_links": [
+            {
+              "identifier": "gD85mMC",
+              "title": "**Shiny all the things - writing testable code**",
+              "url_domain": "dansiegel.net",
+              "url": "https://dansiegel.net/post/2021/03/12/shiny-all-the-things-writing-testable-code"
+            },
+            {
+              "identifier": "k8JNDdX",
+              "title": "Dan Siegel",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/danjsiegel"
+            }
+          ]
+        },
+        {
+          "identifier": "vL8lzHT",
+          "type": "Link",
+          "title": "Creating Kanban Board using Xamarin Forms 5",
+          "url_domain": "azurewebsites.net",
+          "url": "https://vladislavantonyuk.azurewebsites.net/articles/Creating-Kanban-Board-using-Xamarin-Forms-5",
+          "description": "<p>Vladislav created a Kanban board using Xamarin.Forms. That's a pretty cool project to tackle in a week.</p>\n\n<p><a href=\"https://vladislavantonyuk.azurewebsites.net/articles/Creating-Kanban-Board-using-Xamarin-Forms-5\"><strong>Creating Kanban Board using Xamarin Forms 5</strong></a> by <a href=\"https://github.com/VladislavAntonyuk\">Vladislav Antonyuk</a></p>",
+          "description_markdown": "Vladislav created a Kanban board using Xamarin.Forms. That's a pretty cool project to tackle in a week.\r\n\r\n[**Creating Kanban Board using Xamarin Forms 5**](https://vladislavantonyuk.azurewebsites.net/articles/Creating-Kanban-Board-using-Xamarin-Forms-5) by [Vladislav Antonyuk](https://github.com/VladislavAntonyuk)",
+          "embedded_links": [
+            {
+              "identifier": "vakiewx",
+              "title": "**Creating Kanban Board using Xamarin Forms 5**",
+              "url_domain": "azurewebsites.net",
+              "url": "https://vladislavantonyuk.azurewebsites.net/articles/Creating-Kanban-Board-using-Xamarin-Forms-5"
+            },
+            {
+              "identifier": "e78bvD9",
+              "title": "Vladislav Antonyuk",
+              "url_domain": "github.com",
+              "url": "https://github.com/VladislavAntonyuk"
+            }
+          ]
+        },
+        {
+          "identifier": "o232kWT",
+          "type": "Link",
+          "title": "Global errors handling in Xamarin Forms",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/global-error-handling-xamarin-forms/",
+          "description": "<p>Many times we may encounter unhandled exceptions that are very difficult to detect and log, and you must do so in order to handle errors in your application.</p>\n\n<p><a href=\"https://luismts.com/global-error-handling-xamarin-forms/\"><strong>Global errors handling in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Many times we may encounter unhandled exceptions that are very difficult to detect and log, and you must do so in order to handle errors in your application.\r\n\r\n[**Global errors handling in Xamarin Forms**](https://luismts.com/global-error-handling-xamarin-forms/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "DOadgiX",
+              "title": "**Global errors handling in Xamarin Forms**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/global-error-handling-xamarin-forms/"
+            },
+            {
+              "identifier": "zCEZsTo",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "mGYd7SC",
+          "type": "Link",
+          "title": "How to show SnackBar and Toast using Xamarin Community Toolkit",
+          "url_domain": "azurewebsites.net",
+          "url": "https://vladislavantonyuk.azurewebsites.net/articles/How-to-show-SnackBar-and-Toast-using-Xamarin-Community-Toolkit",
+          "description": "<p>Toasts and SnackBars are not only delicious, but they also provide a great way to keep the user informed of actions and state within your app. For this, the Xamarin Community Toolkit has you covered.</p>\n\n<p><a href=\"https://vladislavantonyuk.azurewebsites.net/articles/How-to-show-SnackBar-and-Toast-using-Xamarin-Community-Toolkit\"><strong>How to show SnackBar and Toast using Xamarin Community Toolkit</strong></a> by <a href=\"https://github.com/VladislavAntonyuk\">Vladislav Antonyuk</a></p>",
+          "description_markdown": "Toasts and SnackBars are not only delicious, but they also provide a great way to keep the user informed of actions and state within your app. For this, the Xamarin Community Toolkit has you covered.\r\n\r\n[**How to show SnackBar and Toast using Xamarin Community Toolkit**](https://vladislavantonyuk.azurewebsites.net/articles/How-to-show-SnackBar-and-Toast-using-Xamarin-Community-Toolkit) by [Vladislav Antonyuk](https://github.com/VladislavAntonyuk)",
+          "embedded_links": [
+            {
+              "identifier": "gwddI0",
+              "title": "**How to show SnackBar and Toast using Xamarin Community Toolkit**",
+              "url_domain": "azurewebsites.net",
+              "url": "https://vladislavantonyuk.azurewebsites.net/articles/How-to-show-SnackBar-and-Toast-using-Xamarin-Community-Toolkit"
+            },
+            {
+              "identifier": "O6MqEir",
+              "title": "Vladislav Antonyuk",
+              "url_domain": "github.com",
+              "url": "https://github.com/VladislavAntonyuk"
+            }
+          ]
+        },
+        {
+          "identifier": "9DPcH8h",
+          "type": "Link",
+          "title": "Xamarin Forms - Set entry clear icon color on iOS",
+          "url_domain": "weblogs.us",
+          "url": "http://depblog.weblogs.us/2021/03/28/xamarin-forms-set-entry-clear-icon-color-on-ios/",
+          "description": "<p>Here is a small piece of code that you can use as a Xamarin Forms effect to hook into your entry. It allows changing the color of the clear icon that is available inside the native entry control of iOS.</p>\n\n<p><a href=\"http://depblog.weblogs.us/2021/03/28/xamarin-forms-set-entry-clear-icon-color-on-ios/\"><strong>Xamarin Forms - Set entry clear icon color on iOS</strong></a> by <a href=\"https://twitter.com/Depechie\">Glenn Versweyveld</a></p>",
+          "description_markdown": "Here is a small piece of code that you can use as a Xamarin Forms effect to hook into your entry. It allows changing the color of the clear icon that is available inside the native entry control of iOS.\r\n\r\n[**Xamarin Forms - Set entry clear icon color on iOS**](http://depblog.weblogs.us/2021/03/28/xamarin-forms-set-entry-clear-icon-color-on-ios/) by [Glenn Versweyveld](https://twitter.com/Depechie)",
+          "embedded_links": [
+            {
+              "identifier": "PiEVMPK",
+              "title": "**Xamarin Forms - Set entry clear icon color on iOS**",
+              "url_domain": "weblogs.us",
+              "url": "http://depblog.weblogs.us/2021/03/28/xamarin-forms-set-entry-clear-icon-color-on-ios/"
+            },
+            {
+              "identifier": "L7MVcRJ",
+              "title": "Glenn Versweyveld",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Depechie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "Jmk1aW9",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #1",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-1",
+          "description": "<p>Welcome to the Sands of Maui-a newsletter style issues dedicated to bringing together latest .NET MAUI content relevant to developers.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-1\"><strong>Sands of MAUI: Issue #1</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Welcome to the Sands of Maui-a newsletter style issues dedicated to bringing together latest .NET MAUI content relevant to developers.\r\n\r\n[**Sands of MAUI: Issue #1**](https://www.telerik.com/blogs/sands-of-maui-issue-1) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "iI6PdeF",
+              "title": "**Sands of MAUI: Issue #1**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-1"
+            },
+            {
+              "identifier": "nid23it",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "iR268qK",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #2",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-2",
+          "description": "<p>Welcome to the Sands of Maui-newsletter style issues dedicated to bringing together latest .NET MAUI content relevant to developers.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-2\"><strong>Sands of MAUI: Issue #2</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Welcome to the Sands of Maui-newsletter style issues dedicated to bringing together latest .NET MAUI content relevant to developers.\r\n\r\n[**Sands of MAUI: Issue #2**](https://www.telerik.com/blogs/sands-of-maui-issue-2) by [Sam Basu](https://twitter.com/samidip)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "FgEDERg",
+              "title": "**Sands of MAUI: Issue #2**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-2"
+            },
+            {
+              "identifier": "GqnaWvT",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "aQUX2dT",
+          "type": "Link",
+          "title": "The first project with .NET MAUI",
+          "url_domain": "azurewebsites.net",
+          "url": "https://vladislavantonyuk.azurewebsites.net/articles/The-first-project-with-.NET-MAUI",
+          "description": "<p>Walking step by step converting a Xamarin.Forms app to Maui along with working through some solutions to common issues.</p>\n\n<p><a href=\"https://vladislavantonyuk.azurewebsites.net/articles/The-first-project-with-.NET-MAUI\"><strong>The first project with .NET MAUI</strong></a> by <a href=\"https://github.com/VladislavAntonyuk\">Vladislav Antonyuk</a></p>",
+          "description_markdown": "Walking step by step converting a Xamarin.Forms app to Maui along with working through some solutions to common issues.\r\n\r\n[**The first project with .NET MAUI**](https://vladislavantonyuk.azurewebsites.net/articles/The-first-project-with-.NET-MAUI) by [Vladislav Antonyuk](https://github.com/VladislavAntonyuk)",
+          "embedded_links": [
+            {
+              "identifier": "LF45FMI",
+              "title": "**The first project with .NET MAUI**",
+              "url_domain": "azurewebsites.net",
+              "url": "https://vladislavantonyuk.azurewebsites.net/articles/The-first-project-with-.NET-MAUI"
+            },
+            {
+              "identifier": "z7i1nCO",
+              "title": "Vladislav Antonyuk",
+              "url_domain": "github.com",
+              "url": "https://github.com/VladislavAntonyuk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "mvvmcross",
+      "name": "MVVMCROSS",
+      "items": [
+        {
+          "identifier": "rnSLzV1",
+          "type": "Link",
+          "title": "Cleaning up MVVMCross ViewModels with Fody",
+          "url_domain": "medium.com",
+          "url": "https://prin53.medium.com/cleaning-up-mvvmcross-viewmodels-fody-b644efa86f82",
+          "description": "<p>Refactor ViewModels by applying the one magic library to your project ??</p>\n\n<p><a href=\"https://prin53.medium.com/cleaning-up-mvvmcross-viewmodels-fody-b644efa86f82\"><strong>Cleaning up MVVMCross ViewModels with Fody</strong></a> by <a href=\"https://medium.com/@prin53\">Denys Fiediaiev</a></p>",
+          "description_markdown": "Refactor ViewModels by applying the one magic library to your project ??\r\n\r\n[**Cleaning up MVVMCross ViewModels with Fody**](https://prin53.medium.com/cleaning-up-mvvmcross-viewmodels-fody-b644efa86f82) by [Denys Fiediaiev](https://medium.com/@prin53)",
+          "embedded_links": [
+            {
+              "identifier": "WiqzBHk",
+              "title": "**Cleaning up MVVMCross ViewModels with Fody**",
+              "url_domain": "medium.com",
+              "url": "https://prin53.medium.com/cleaning-up-mvvmcross-viewmodels-fody-b644efa86f82"
+            },
+            {
+              "identifier": "42dT5rL",
+              "title": "Denys Fiediaiev",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prin53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "nuget",
+      "name": "NUGET OF THE WEEK",
+      "items": [
+        {
+          "identifier": "WDgnjwO",
+          "type": "Link",
+          "title": "DebounceMonitoring",
+          "url_domain": "github.com",
+          "url": "https://github.com/SIDOVSKY/DebounceMonitoring",
+          "description": "<p>Add debounce logic for any method in a single line.</p>\n\n<p><a href=\"https://github.com/SIDOVSKY/DebounceMonitoring\"><strong>SIDOVSKY/DebounceMonitoring</strong></a> by <a href=\"https://twitter.com/sidovsky_\">Vadim Sedov</a></p>",
+          "description_markdown": "Add debounce logic for any method in a single line.\r\n\r\n[**SIDOVSKY/DebounceMonitoring**](https://github.com/SIDOVSKY/DebounceMonitoring) by [Vadim Sedov](https://twitter.com/sidovsky_)",
+          "embedded_links": [
+            {
+              "identifier": "c8mxEh5",
+              "title": "**SIDOVSKY/DebounceMonitoring**",
+              "url_domain": "github.com",
+              "url": "https://github.com/SIDOVSKY/DebounceMonitoring"
+            },
+            {
+              "identifier": "DvL3QtG",
+              "title": "Vadim Sedov",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/sidovsky_"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "stLYAFW",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 89: Polaris",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/89",
+          "description": "<p>The Xamarin Podcasts discusses an amazing app developed by Polaris that pairs with snowmobiles, motorcycles, off-road, and other powersports vehicles. Vroom vroom.</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/89\"><strong>The Xamarin Podcast Episode 89: Polaris</strong></a> by <a href=\"\">Xamarin Podcast</a></p>",
+          "description_markdown": "The Xamarin Podcasts discusses an amazing app developed by Polaris that pairs with snowmobiles, motorcycles, off-road, and other powersports vehicles. Vroom vroom.\r\n\r\n[**The Xamarin Podcast Episode 89: Polaris**](https://www.xamarinpodcast.com/89) by [Xamarin Podcast]()",
+          "embedded_links": [
+            {
+              "identifier": "aQi1mQ7",
+              "title": "**The Xamarin Podcast Episode 89: Polaris**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/89"
+            }
+          ]
+        },
+        {
+          "identifier": "BgTRLWy",
+          "type": "Link",
+          "title": "Code Generation from XAML in Visual Studio 2019! ",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=YX04sxwLMBE",
+          "description": "<p>Visual Studio 2019 version 16.9 introduced one of the most amazing features ever... Auto code generation directly from your XAML! Turn your Bindings and Commands directly into source code in your code behind or view model!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=YX04sxwLMBE\"><strong>Code Generation from XAML in Visual Studio 2019! (WPF, UWP, &amp; Xamarin.Forms)</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Visual Studio 2019 version 16.9 introduced one of the most amazing features ever... Auto code generation directly from your XAML! Turn your Bindings and Commands directly into source code in your code behind or view model!\r\n\r\n[**Code Generation from XAML in Visual Studio 2019! (WPF, UWP, & Xamarin.Forms)**](https://www.youtube.com/watch?v=YX04sxwLMBE) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "Q9BOWQS",
+              "title": "**Code Generation from XAML in Visual Studio 2019! (WPF, UWP, & Xamarin.Forms)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=YX04sxwLMBE"
+            },
+            {
+              "identifier": "HxtGRGE",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "Oy5xg2p",
+          "type": "Link",
+          "title": "Apple MacBook M1 for .NET and Xamarin Developers: First Look",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=ddopWp7mFVk",
+          "description": "<p>Gerald treated himself to a new MacBook Pro M1 (lucky Gerald). In this video he answers the question \"can I use it for my .NET and Xamarin development work?\"</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=ddopWp7mFVk\"><strong>Apple MacBook M1 for .NET and Xamarin Developers: First Look</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Gerald treated himself to a new MacBook Pro M1 (lucky Gerald). In this video he answers the question \"can I use it for my .NET and Xamarin development work?\"\r\n\r\n[**Apple MacBook M1 for .NET and Xamarin Developers: First Look**](https://www.youtube.com/watch?v=ddopWp7mFVk) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "Z7rBHzz",
+              "title": "**Apple MacBook M1 for .NET and Xamarin Developers: First Look**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=ddopWp7mFVk"
+            },
+            {
+              "identifier": "tJYmV7r",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "64diK90",
+          "type": "Link",
+          "title": "Amazing Data Visualization with CarouselView in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=y0X15M_Acdc",
+          "description": "<p>We all know the CarouselView. Just look at your home screen on your device; swiping left and right for your icons, one big carousel. In this video we will learn about the CarouselView in Xamarin.Forms. How to implement it with data binding, item templates and explore the numerous APIs.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=y0X15M_Acdc\"><strong>Amazing Data Visualization with CarouselView in Xamarin.Forms</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "We all know the CarouselView. Just look at your home screen on your device; swiping left and right for your icons, one big carousel. In this video we will learn about the CarouselView in Xamarin.Forms. How to implement it with data binding, item templates and explore the numerous APIs.\r\n\r\n[**Amazing Data Visualization with CarouselView in Xamarin.Forms**](https://www.youtube.com/watch?v=y0X15M_Acdc) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "LGGkB0u",
+              "title": "**Amazing Data Visualization with CarouselView in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=y0X15M_Acdc"
+            },
+            {
+              "identifier": "GaIE9yY",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "fDKIVNI",
+          "type": "Link",
+          "title": "IndicatorView for your CarouselView in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=MRTAvkhFoWw",
+          "description": "<p>Gerald has a look at the IndicatorView. With this control you can make clear to your users where they are in the CarouselView and if they can still swipe left or right. We will see how to do a basic implementation setting IndicatorColor, IndicatorSize and hooking it up to the CarouselView.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=MRTAvkhFoWw\"><strong>IndicatorView for your CarouselView in Xamarin.Forms</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Gerald has a look at the IndicatorView. With this control you can make clear to your users where they are in the CarouselView and if they can still swipe left or right. We will see how to do a basic implementation setting IndicatorColor, IndicatorSize and hooking it up to the CarouselView.\r\n\r\n[**IndicatorView for your CarouselView in Xamarin.Forms**](https://www.youtube.com/watch?v=MRTAvkhFoWw) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "2l8UZ40",
+              "title": "**IndicatorView for your CarouselView in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=MRTAvkhFoWw"
+            },
+            {
+              "identifier": "ogp35gk",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "b7oyQ1n",
+          "type": "Link",
+          "title": "Xamarin Community Toolkit - Forget Time Zones with DateTimeOffsetConverter",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Forget-Time-Zones-with-DateTimeOffsetConverter",
+          "description": "<p>In this episode we will learn everything about the DateTimeOffsetConverter that is included in the Xamarin Community Toolkit. Mark Allibone knows from first-hand experience that sometimes, in a backend, dates are stored as an offset. To not be bother with all kinds of time zone hassles, he wrote the DateTimeOffsetConverter. And now, Mark has contributed that converter to the Xamarin Community Toolkit so everyone can benefit!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Forget-Time-Zones-with-DateTimeOffsetConverter\"><strong>Xamarin Community Toolkit - Forget Time Zones with DateTimeOffsetConverter</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "In this episode we will learn everything about the DateTimeOffsetConverter that is included in the Xamarin Community Toolkit. Mark Allibone knows from first-hand experience that sometimes, in a backend, dates are stored as an offset. To not be bother with all kinds of time zone hassles, he wrote the DateTimeOffsetConverter. And now, Mark has contributed that converter to the Xamarin Community Toolkit so everyone can benefit!\r\n\r\n\r\n[**Xamarin Community Toolkit - Forget Time Zones with DateTimeOffsetConverter**](https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Forget-Time-Zones-with-DateTimeOffsetConverter) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "MrEg7UH",
+              "title": "**Xamarin Community Toolkit - Forget Time Zones with DateTimeOffsetConverter**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Forget-Time-Zones-with-DateTimeOffsetConverter"
+            },
+            {
+              "identifier": "48wkqUq",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "8FScivn",
+          "type": "Link",
+          "title": "Xamarin Community Toolkit - Platform Perfect Popups - Part 1",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Platform-Perfect-Popups-Part-1",
+          "description": "<p>Popups can be annoying, but not the Xamarin Community Toolkit ones! In this video we will learn from Andrew, master of popups, how to use the newly implemented popups in your Xamarin.Forms app. In par</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Platform-Perfect-Popups-Part-1\"><strong>Xamarin Community Toolkit - Platform Perfect Popups - Part 1</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "Popups can be annoying, but not the Xamarin Community Toolkit ones! In this video we will learn from Andrew, master of popups, how to use the newly implemented popups in your Xamarin.Forms app. In par\r\n\r\n[**Xamarin Community Toolkit - Platform Perfect Popups - Part 1**](https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Platform-Perfect-Popups-Part-1) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "eZN5nXi",
+              "title": "**Xamarin Community Toolkit - Platform Perfect Popups - Part 1**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Platform-Perfect-Popups-Part-1"
+            },
+            {
+              "identifier": "gcGSoM8",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "ADyHzUE",
+          "type": "Link",
+          "title": "Xamarin Community Toolkit - Platform Perfect Popups - Part 2",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Platform-Perfect-Popups-Part-2",
+          "description": "<p>Popups can be annoying, but not the Xamarin Community Toolkit ones! In this video we will learn from Andrew, master of popups, how to use the newly implemented popups in your Xamarin.Forms app.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Platform-Perfect-Popups-Part-2\"><strong>Xamarin Community Toolkit - Platform Perfect Popups - Part 2</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "Popups can be annoying, but not the Xamarin Community Toolkit ones! In this video we will learn from Andrew, master of popups, how to use the newly implemented popups in your Xamarin.Forms app. \r\n\r\n[**Xamarin Community Toolkit - Platform Perfect Popups - Part 2**](https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Platform-Perfect-Popups-Part-2) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "QPdgrvV",
+              "title": "**Xamarin Community Toolkit - Platform Perfect Popups - Part 2**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Platform-Perfect-Popups-Part-2"
+            },
+            {
+              "identifier": "fVSeJSq",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "Pfez7OR",
+          "type": "Link",
+          "title": "Building Our First Microservice | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Building-Our-First-Microservice--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by Nish Anil who is here to walk us through building our very first Microservice for our mobile apps with .NET, ASP.NET Core, Docker, Kubernetes, and more! He shows how to switch from development to production without changing a line of code with the power of Microservices!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Building-Our-First-Microservice--The-Xamarin-Show\"><strong>Building Our First Microservice | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "This week, James is joined by Nish Anil who is here to walk us through building our very first Microservice for our mobile apps with .NET, ASP.NET Core, Docker, Kubernetes, and more! He shows how to switch from development to production without changing a line of code with the power of Microservices!\r\n\r\n[**Building Our First Microservice | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Building-Our-First-Microservice--The-Xamarin-Show) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "7tnvgs",
+              "title": "**Building Our First Microservice | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Building-Our-First-Microservice--The-Xamarin-Show"
+            },
+            {
+              "identifier": "ay1uNC1",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "GTnRIvE",
+          "type": "Link",
+          "title": "Share Files (Xamarin.Essentials API of the Week)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=XrybvmgTwI4",
+          "description": "<p>Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Essential API of the week we take a look at an update to the Share API that allows now allows users to share files to other applications.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=XrybvmgTwI4\"><strong>Share Files (Xamarin.Essentials API of the Week)</strong></a> by <a href=\"https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg\">Xamarin Developers</a></p>",
+          "description_markdown": "Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Essential API of the week we take a look at an update to the Share API that allows now allows users to share files to other applications.\r\n\r\n[**Share Files (Xamarin.Essentials API of the Week)**](https://www.youtube.com/watch?v=XrybvmgTwI4) by [Xamarin Developers](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "twmTDfC",
+              "title": "**Share Files (Xamarin.Essentials API of the Week)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=XrybvmgTwI4"
+            },
+            {
+              "identifier": "iQnxYyM",
+              "title": "Xamarin Developers",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg"
+            }
+          ]
+        },
+        {
+          "identifier": "HxDyJTD",
+          "type": "Link",
+          "title": "Null Pointers 45: Privacy In Apps",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/45/",
+          "description": "<p>Apps process data. A lot of data. But how do apps ensure that that data isn't shared with people that you don't want to share it with? That's what we're diving into today.</p>\n\n<p><a href=\"https://nullpointers.io/45/\"><strong>45: Privacy In Apps</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "Apps process data. A lot of data. But how do apps ensure that that data isn't shared with people that you don't want to share it with? That's what we're diving into today.\r\n\r\n[**45: Privacy In Apps**](https://nullpointers.io/45/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "RjBoWDS",
+              "title": "**45: Privacy In Apps**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/45/"
+            },
+            {
+              "identifier": "9MSHCsQ",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "47S99B2",
+          "type": "Link",
+          "title": "Null Pointers 46: Becoming a generalist or a specialist",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/46/",
+          "description": "<p>In this weeks pod Mark, Steven and Gerald discuss becoming a Generalist or a Specialist. What pays more? What are the pros and cons? Oh and of course Ts are discussed. So tune in and enjoy this special episode in a general sense.</p>\n\n<p><a href=\"https://nullpointers.io/46/\"><strong>46: Becoming a generalist or a specialist</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "In this weeks pod Mark, Steven and Gerald discuss becoming a Generalist or a Specialist. What pays more? What are the pros and cons? Oh and of course Ts are discussed. So tune in and enjoy this special episode in a general sense.\r\n\r\n[**46: Becoming a generalist or a specialist**](https://nullpointers.io/46/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "GRkJVZm",
+              "title": "**46: Becoming a generalist or a specialist**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/46/"
+            },
+            {
+              "identifier": "TmqEv3b",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "caBwt14",
+          "type": "Link",
+          "title": "Merge Conflict 246: Breaking out of the Desktop App Sandbox",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/246",
+          "description": "<p>Putting apps into the app store is amazing, but the frameworks limit your ability as an app developer to do certain things on the desktop. We discuss how to keep long running processing going and breaking out of that sandbox with some great APIs.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/246\"><strong>Merge Conflict: 246: Breaking out of the Desktop App Sandbox</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Putting apps into the app store is amazing, but the frameworks limit your ability as an app developer to do certain things on the desktop. We discuss how to keep long running processing going and breaking out of that sandbox with some great APIs.\r\n\r\n[**Merge Conflict: 246: Breaking out of the Desktop App Sandbox**](https://www.mergeconflict.fm/246) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "OuElHYd",
+              "title": "**Merge Conflict: 246: Breaking out of the Desktop App Sandbox**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/246"
+            },
+            {
+              "identifier": "ZwtkQx",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "NzhNnr4",
+          "type": "Link",
+          "title": "Merge Conflict: 247: Generating UI with GPT-3",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/247",
+          "description": "<p>Frank goes hands on with GPT-3 for the first time and basically puts himself out of a job as he has it create his entire app for him. We discuss.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/247\"><strong>Merge Conflict: 247: Generating UI with GPT-3</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Frank goes hands on with GPT-3 for the first time and basically puts himself out of a job as he has it create his entire app for him. We discuss.\r\n\r\n[**Merge Conflict: 247: Generating UI with GPT-3**](https://www.mergeconflict.fm/247) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "SlO8EtF",
+              "title": "**Merge Conflict: 247: Generating UI with GPT-3**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/247"
+            },
+            {
+              "identifier": "ZfryCk8",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Easter Monkeys</p>",
+          "description_markdown": "Easter Monkeys",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "d5c29735-5c10-403b-92ab-e4180104a619.JPG",
+          "image_extra_large_filename": "original_ratio_extra_large_d5c29735-5c10-403b-92ab-e4180104a619.JPG",
+          "image_medium_filename": "original_ratio_medium_d5c29735-5c10-403b-92ab-e4180104a619.JPG"
+        }
+      ]
+    }
+  ]
+}

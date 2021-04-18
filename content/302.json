@@ -1,0 +1,341 @@
+{
+  "Id": "302",
+  "Name": "Issue 302",
+  "UpdatedTimeStamp": "2021-04-01T05:48:00Z",
+  "Summary": "Easter special bumper issue. Now with moar MAUI",
+  "Introduction": "Hi everyone. This is a bumper Easter edition of Weekly Xamarin. For those keen observers out there you may have noticed we missed an edition last week (sorry about that) - but that just means you have even more great content for the long weekend. ;-) I want to send thanks to people who submitted articles: Michał Żołnieruk, Vladislav Antonyuk, Vadim Sedov and Matt Goldman.  As a reminder, if you have some articles you think should be in the newsletter - let us know by submitting it here: [https://bit.ly/WeeklyXamarinSubmit](https://bit.ly/WeeklyXamarinSubmit) Happy Easter and see you next week (really). ❤ Kym",
+  "PublishDate": "2021-04-01T05:47:55Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Automagic Tenant Config for Mobile Apps",
+      "Url": "https://goforgoldman.com/2021/02/04/automagic-mobile-config.html",
+      "Description": "Your mobile app may need to connect to a different back end or tenant for each organisation that’s using your app. In this blog post (and video) Matt discusses some different approaches as well as their advantages and disadvantages.",
+      "EditionId": "302",
+      "Id": "302-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "CI/CD for Xamarin Android with Google Play and Azure DevOps",
+      "Url": "https://www.banditoth.hu/2021/03/25/complete-ci-cd-tutorial-for-xamarin-android-with-google-play-publish-in-azure-devops-part-1/",
+      "Description": "This tutorial will drive you through setting up a great CI/CD pipeline for Xamarin Android in a fully hosted Azure DevOps environment.",
+      "EditionId": "302",
+      "Author": "Tóth András",
+      "Id": "302-2",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "SVG icon management tool",
+      "Url": "https://svgx.app/",
+      "Description": "SVGX is the desktop SVG asset manager designers and developers wished they had. [**SVGx**](https://svgx.app/)",
+      "EditionId": "302",
+      "Id": "302-3",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Setting Up an M1 Mac for Xamarin Development",
+      "Url": "https://montemagno.com/setting-up-an-m1-mac-for-xamarin-development/",
+      "Description": "Looking to get an M1 Mac or just got one for Xamarin development? Here is what you need to know to get iOS running and Android emulators working.",
+      "EditionId": "302",
+      "Author": "James Montemagno",
+      "Id": "302-4",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Code Generation from XAML in Visual Studio is Mind-blowing Awesome",
+      "Url": "https://montemagno.com/code-generation-from-xaml-in-visual-studio/",
+      "Description": "If you are a Xamarin.Forms, WPF, or UWP developer you need to checkout this amazing new feature to generate properties, commands, and more!",
+      "EditionId": "302",
+      "Author": "James Montemagno",
+      "Id": "302-5",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "PDFView-Android Xamarin Binding",
+      "Url": "https://github.com/SIDOVSKY/pdfview-android-xamarin-binding",
+      "Description": "Do you need an efficient PDF viewer embedded in your native Android app? Look no further.",
+      "EditionId": "302",
+      "Author": "Vadim Sedov",
+      "Id": "302-6",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Hyperion for Xamarin.Android",
+      "Url": "https://github.com/SIDOVSKY/Hyperion-Xamarin.Android",
+      "Description": "Hyperion is a hidden plugin drawer that can easily be integrated into any app. The drawer sits discreetly 🙊 under the app so that it is there when you need it and out of the way when you don't. Hyperion plugins are designed to make inspection of your app quick and simple.",
+      "EditionId": "302",
+      "Author": "Vadim Sedov",
+      "Id": "302-7",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "UIImageView animation in Xamarin.iOS",
+      "Url": "https://miszu.medium.com/pausing-uiimageview-animation-in-xamarin-ios-a4143aff640b?source=friends_link&sk=aab5680f626314bc940c793ad11c42c7",
+      "Description": "Animating frames with UIImageView is handy, but what if you want to pause the animation? Here's how to do it easily.",
+      "EditionId": "302",
+      "Author": "Michal Zolnieruk",
+      "Id": "302-8",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Adventures in ARKit - display a 3D model",
+      "Url": "https://www.davidbritch.com/2021/03/adventures-in-arkit-display-3d-model.html",
+      "Description": "David continues his series on getting started with ARKit. In this blog post he once again covers displaying a 3D model in a scene which can be manipulated through touch gestures but this time accomplished via different techniques.",
+      "EditionId": "302",
+      "Author": "David Britch",
+      "Id": "302-9",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Setting up your Xamarin.Forms application as a sharing target",
+      "Url": "https://criticalhittech.com/2021/03/25/setting-up-your-xamarin-forms-application-as-a-sharing-target/",
+      "Description": "A step by step example for setting up an Android and iOS application as a target for sharing url links.",
+      "EditionId": "302",
+      "Author": "Reena Thaveethu",
+      "Id": "302-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Animating Page Transitions in Xamarin Forms",
+      "Url": "https://xamgirl.com/animating-page-transitions-in-xamarin-forms/",
+      "Description": "Sometimes you want to have a nice transition between pages in your application that go beyond what Xamarin.Forms provides out of the box.  In this blog post Charlin introduces that amazing library called Xamarin.Plugin.SharedTransitions which allows you to take your page transitions to the next level.",
+      "EditionId": "302",
+      "Author": "Charlin Agramonte",
+      "Id": "302-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Reopening application best practices",
+      "Url": "https://www.banditoth.hu/2021/03/22/xamarin-forms-reopening-application-best-pratices/",
+      "Description": "If you have experienced that reopening your application from the phone’s app drawer or launcher fails because it crashes your application, or displays the first set main page again instead of displaying the latest one, keep reading this article.",
+      "EditionId": "302",
+      "Author": "Tóth András",
+      "Id": "302-12",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Replicating Banking Exploration UI",
+      "Url": "https://www.syncfusion.com/blogs/post/replicating-banking-exploration-ui-in-xamarin.aspx",
+      "Description": "This blog post discusses replicating a banking exploration UI in Xamarin.Forms.",
+      "EditionId": "302",
+      "Author": "Syncfusion",
+      "Id": "302-13",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Shiny all the things - writing testable code",
+      "Url": "https://dansiegel.net/post/2021/03/12/shiny-all-the-things-writing-testable-code",
+      "Description": "Shiny all the things as they say. If you aren't using Shiny for your Xamarin.Forms or Uno Platform apps, the question is why? We see a lot of people excited about UI libraries these days. While UI is always an important ingredient of any successful app, no app is complete without a resilient and testable architecture. This is one of the reasons why I use Shiny in all of my apps today. But what is Shiny, and why should you be using it?",
+      "EditionId": "302",
+      "Author": "Dan Siegel",
+      "Id": "302-14",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Creating Kanban Board using Xamarin Forms 5",
+      "Url": "https://vladislavantonyuk.azurewebsites.net/articles/Creating-Kanban-Board-using-Xamarin-Forms-5",
+      "Description": "Vladislav created a Kanban board using Xamarin.Forms. That's a pretty cool project to tackle in a week.",
+      "EditionId": "302",
+      "Author": "Vladislav Antonyuk",
+      "Id": "302-15",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Global errors handling in Xamarin Forms",
+      "Url": "https://luismts.com/global-error-handling-xamarin-forms/",
+      "Description": "Many times we may encounter unhandled exceptions that are very difficult to detect and log, and you must do so in order to handle errors in your application.",
+      "EditionId": "302",
+      "Author": "Luis Matos",
+      "Id": "302-16",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "How to show SnackBar and Toast using Xamarin Community Toolkit",
+      "Url": "https://vladislavantonyuk.azurewebsites.net/articles/How-to-show-SnackBar-and-Toast-using-Xamarin-Community-Toolkit",
+      "Description": "Toasts and SnackBars are not only delicious, but they also provide a great way to keep the user informed of actions and state within your app. For this, the Xamarin Community Toolkit has you covered.",
+      "EditionId": "302",
+      "Author": "Vladislav Antonyuk",
+      "Id": "302-17",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin Forms - Set entry clear icon color on iOS",
+      "Url": "http://depblog.weblogs.us/2021/03/28/xamarin-forms-set-entry-clear-icon-color-on-ios/",
+      "Description": "Here is a small piece of code that you can use as a Xamarin Forms effect to hook into your entry. It allows changing the color of the clear icon that is available inside the native entry control of iOS.",
+      "EditionId": "302",
+      "Author": "Glenn Versweyveld",
+      "Id": "302-18",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #1",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-1",
+      "Description": "Welcome to the Sands of Maui-a newsletter style issues dedicated to bringing together latest .NET MAUI content relevant to developers.",
+      "EditionId": "302",
+      "Author": "Sam Basu",
+      "Id": "302-19",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #2",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-2",
+      "Description": "Welcome to the Sands of Maui-newsletter style issues dedicated to bringing together latest .NET MAUI content relevant to developers.",
+      "EditionId": "302",
+      "Author": "Sam Basu",
+      "Id": "302-20",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "The first project with .NET MAUI",
+      "Url": "https://vladislavantonyuk.azurewebsites.net/articles/The-first-project-with-.NET-MAUI",
+      "Description": "Walking step by step converting a Xamarin.Forms app to Maui along with working through some solutions to common issues.",
+      "EditionId": "302",
+      "Author": "Vladislav Antonyuk",
+      "Id": "302-21",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Cleaning up MVVMCross ViewModels with Fody",
+      "Url": "https://prin53.medium.com/cleaning-up-mvvmcross-viewmodels-fody-b644efa86f82",
+      "Description": "Refactor ViewModels by applying the one magic library to your project ??",
+      "EditionId": "302",
+      "Author": "Denys Fiediaiev",
+      "Id": "302-22",
+      "Category": "MVVMCROSS"
+    },
+    {
+      "Title": "DebounceMonitoring",
+      "Url": "https://github.com/SIDOVSKY/DebounceMonitoring",
+      "Description": "Add debounce logic for any method in a single line.",
+      "EditionId": "302",
+      "Author": "Vadim Sedov",
+      "Id": "302-23",
+      "Category": "NUGET OF THE WEEK"
+    },
+    {
+      "Title": "The Xamarin Podcast Episode 89: Polaris",
+      "Url": "https://www.xamarinpodcast.com/89",
+      "Description": "The Xamarin Podcasts discusses an amazing app developed by Polaris that pairs with snowmobiles, motorcycles, off-road, and other powersports vehicles. Vroom vroom.",
+      "EditionId": "302",
+      "Id": "302-24",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Code Generation from XAML in Visual Studio 2019! ",
+      "Url": "https://www.youtube.com/watch?v=YX04sxwLMBE",
+      "Description": "Visual Studio 2019 version 16.9 introduced one of the most amazing features ever... Auto code generation directly from your XAML! Turn your Bindings and Commands directly into source code in your code behind or view model!",
+      "EditionId": "302",
+      "Author": "James Montemagno",
+      "Id": "302-25",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Apple MacBook M1 for .NET and Xamarin Developers: First Look",
+      "Url": "https://www.youtube.com/watch?v=ddopWp7mFVk",
+      "Description": "Gerald treated himself to a new MacBook Pro M1 (lucky Gerald). In this video he answers the question \"can I use it for my .NET and Xamarin development work?\"",
+      "EditionId": "302",
+      "Author": "Gerald Versluis",
+      "Id": "302-26",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Amazing Data Visualization with CarouselView in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=y0X15M_Acdc",
+      "Description": "We all know the CarouselView. Just look at your home screen on your device; swiping left and right for your icons, one big carousel. In this video we will learn about the CarouselView in Xamarin.Forms. How to implement it with data binding, item templates and explore the numerous APIs.",
+      "EditionId": "302",
+      "Author": "Gerald Versluis",
+      "Id": "302-27",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "IndicatorView for your CarouselView in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=MRTAvkhFoWw",
+      "Description": "Gerald has a look at the IndicatorView. With this control you can make clear to your users where they are in the CarouselView and if they can still swipe left or right. We will see how to do a basic implementation setting IndicatorColor, IndicatorSize and hooking it up to the CarouselView.",
+      "EditionId": "302",
+      "Author": "Gerald Versluis",
+      "Id": "302-28",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Community Toolkit - Forget Time Zones with DateTimeOffsetConverter",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Forget-Time-Zones-with-DateTimeOffsetConverter",
+      "Description": "In this episode we will learn everything about the DateTimeOffsetConverter that is included in the Xamarin Community Toolkit. Mark Allibone knows from first-hand experience that sometimes, in a backend, dates are stored as an offset. To not be bother with all kinds of time zone hassles, he wrote the DateTimeOffsetConverter. And now, Mark has contributed that converter to the Xamarin Community Toolkit so everyone can benefit!",
+      "EditionId": "302",
+      "Author": "The Xamarin Show",
+      "Id": "302-29",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Community Toolkit - Platform Perfect Popups - Part 1",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Platform-Perfect-Popups-Part-1",
+      "Description": "Popups can be annoying, but not the Xamarin Community Toolkit ones! In this video we will learn from Andrew, master of popups, how to use the newly implemented popups in your Xamarin.Forms app. In par",
+      "EditionId": "302",
+      "Author": "The Xamarin Show",
+      "Id": "302-30",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Community Toolkit - Platform Perfect Popups - Part 2",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-Platform-Perfect-Popups-Part-2",
+      "Description": "Popups can be annoying, but not the Xamarin Community Toolkit ones! In this video we will learn from Andrew, master of popups, how to use the newly implemented popups in your Xamarin.Forms app.",
+      "EditionId": "302",
+      "Author": "The Xamarin Show",
+      "Id": "302-31",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Building Our First Microservice | The Xamarin Show",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Building-Our-First-Microservice--The-Xamarin-Show",
+      "Description": "This week, James is joined by Nish Anil who is here to walk us through building our very first Microservice for our mobile apps with .NET, ASP.NET Core, Docker, Kubernetes, and more! He shows how to switch from development to production without changing a line of code with the power of Microservices!",
+      "EditionId": "302",
+      "Author": "The Xamarin Show",
+      "Id": "302-32",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Share Files (Xamarin.Essentials API of the Week)",
+      "Url": "https://www.youtube.com/watch?v=XrybvmgTwI4",
+      "Description": "Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Essential API of the week we take a look at an update to the Share API that allows now allows users to share files to other applications.",
+      "EditionId": "302",
+      "Author": "Xamarin Developers",
+      "Id": "302-33",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 45: Privacy In Apps",
+      "Url": "https://nullpointers.io/45/",
+      "Description": "Apps process data. A lot of data. But how do apps ensure that that data isn't shared with people that you don't want to share it with? That's what we're diving into today.",
+      "EditionId": "302",
+      "Author": "Null Pointers",
+      "Id": "302-34",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 46: Becoming a generalist or a specialist",
+      "Url": "https://nullpointers.io/46/",
+      "Description": "In this weeks pod Mark, Steven and Gerald discuss becoming a Generalist or a Specialist. What pays more? What are the pros and cons? Oh and of course Ts are discussed. So tune in and enjoy this special episode in a general sense.",
+      "EditionId": "302",
+      "Author": "Null Pointers",
+      "Id": "302-35",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict 246: Breaking out of the Desktop App Sandbox",
+      "Url": "https://www.mergeconflict.fm/246",
+      "Description": "Putting apps into the app store is amazing, but the frameworks limit your ability as an app developer to do certain things on the desktop. We discuss how to keep long running processing going and breaking out of that sandbox with some great APIs.",
+      "EditionId": "302",
+      "Author": "Merge Conflict",
+      "Id": "302-36",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 247: Generating UI with GPT-3",
+      "Url": "https://www.mergeconflict.fm/247",
+      "Description": "Frank goes hands on with GPT-3 for the first time and basically puts himself out of a job as he has it create his entire app for him. We discuss.",
+      "EditionId": "302",
+      "Author": "Merge Conflict",
+      "Id": "302-37",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
