@@ -1,0 +1,128 @@
+{
+  "Id": "300",
+  "Name": "Issue 300",
+  "UpdatedTimeStamp": "2021-03-15T11:24:56Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Would you believe we are at 300 issues already?! I joined way back at issue 152 which was the 20th April 2018. We have certainly come a long way since then! We have surpassed some big subscriber milestones, seen lots of amazing content created from new and seasoned content creators, watched as the type of content created has evolved. Certainly recently we have seen an increase in podcasts and videos. Although between us over the years, Geoff, Kym and myself have been the curators, really the newsletter is powered by all of you. From the people who read the website, read emails, create content to those people who retweet and tell people about it.  So I wanted to take this moment to say a big thank you!!! Hopefully this will continue for years to come as we evolve into .NET 6 and all the MAUI changes come. We haven't forgotten and Kym and I will be making plans to evolve alongside these changes so watch this space ;) 🧡",
+  "PublishDate": "2021-03-15T11:24:51Z",
+  "Curators": "Luce Carter",
+  "Articles": [
+    {
+      "Title": "Getting to Know the Simulator Better",
+      "Url": "https://www.andyibanez.com/posts/getting-to-know-the-simulator-better/",
+      "Description": "Learn about the features the Simulator offers to make your Apple App development better.",
+      "EditionId": "300",
+      "Author": "Andy Ibanez",
+      "Id": "300-1",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "How to send Firebase Push notification(FCM) in postman",
+      "Url": "https://xamarinmonkeys.blogspot.com/2021/03/xamarinforms-how-to-sent-firebase-push.html",
+      "Description": "Many developers are facing the problem of how to test the custom push notification without using the API.  If you are one of them then this blog will help you.",
+      "EditionId": "300",
+      "Author": "Delpin Susai Raj",
+      "Id": "300-2",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Adventures in ARKit - platform setup",
+      "Url": "https://www.davidbritch.com/2021/03/adventures-in-arkit-platform-setup.html",
+      "Description": "Lee Englestone has recently written a book about developing augmented reality apps using ARKit on Xamarin.iOS. His book appears to be the best source of information for learning ARKit on Xamarin.iOS, and he was a companion website that’s pretty damn good. In this blog post, David Britch starts his adventures in ARKit.",
+      "EditionId": "300",
+      "Author": "David Britch",
+      "Id": "300-3",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Xamarin Let’s Build - Biometric Support",
+      "Url": "https://mikegrant.org.uk/2021/03/08/xamarin-lets-build-biometrics.html",
+      "Description": "Biometrics is a commonly seen security feature on your phone. Whether it’s fingerprint or facial recognition, you’ll see it when you log in to your bank or using Google / Apple Pay. We’ll find out how to add biometric authentication to your Xamarin.Forms application.",
+      "EditionId": "300",
+      "Author": "Mike Grant",
+      "Id": "300-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Replicating Food Delivery UI in Xamarin Forms",
+      "Url": "https://askxammy.com/replicating-food-delivery-ui-in-xamarin-forms/",
+      "Description": "We love UI challenges, and this week Leomaris has done a great design for a Food delivery app.",
+      "EditionId": "300",
+      "Author": "Leomaris Reyes",
+      "Id": "300-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Process navigation data using IQueryAttributable in Xamarin.Forms Shell apps",
+      "Url": "https://www.davidbritch.com/2021/03/process-navigation-data-using.html",
+      "Description": "If you write Shell apps, you’ll know that the mechanism for passing data between pages is to pass it as query parameters using URI-based navigation. Then, in your receiving class (be it a page, or a view model), you decorate the class with a QueryPropertyAttribute for each query parameter. This works quite well, but it can be a pain having to add a QueryPropertyAttribute for each item of data that gets passed. In addition, because each QueryPropertyAttribute sets a property, you can end up with multiple pieces of plumbing code just to receive data. So what’s the solution? Enter the oddly named IQueryAttributable interface.",
+      "EditionId": "300",
+      "Author": "David Britch",
+      "Id": "300-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Bind MVVM Async Commands to Snackbar and Loading dialog",
+      "Url": "https://www.sharpnado.com/mvvm-async-commands-with-snackar/",
+      "Description": "Sharpnado keeps improving their frameworks.  So with the TaskLoaderCommand you knew you could bind any action to a UI component and have a great UI feedback. But thanks to the CompositeTaskLoaderNotifier you can now bind SEVERAL async Command states to ONE UI Component.",
+      "EditionId": "300",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "300-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "5 Advantages of .NET MAUI Over Xamarin",
+      "Url": "https://www.syncfusion.com/blogs/post/advantages-net-maui-over-xamarin.aspx",
+      "Description": "You may have this million-dollar question in you mind: why use .NET MAUI when we have Xamarin? .NET MAUI is the evolution of Xamarin.Forms. It is extended from mobile to desktop scenarios with UI controls rebuilt from the ground up for performance and extensibility. In this blog post, we will discuss the top five advantages of .NET MAUI over Xamarin.Forms:",
+      "EditionId": "300",
+      "Author": "Syncfusion",
+      "Id": "300-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Custom Sharpnado Tabs",
+      "Url": "https://truegeek.com/2021/03/11/custom-sharpnado-tabs/",
+      "Description": "A blog post about customizing Sharpnado Tabs.",
+      "EditionId": "300",
+      "Author": "Brad Dean",
+      "Id": "300-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Learn Xamarin Today or Wait for .NET MAUI?",
+      "Url": "https://www.youtube.com/watch?v=zvPPz6DABi8",
+      "Description": "This is a question that comes up a lot. With the changes to Xamarin with .NET 6 and Forms evolving into MAUI, many businesses and users want to know whether to wait. So guess what? James has the answers!!",
+      "EditionId": "300",
+      "Author": "James Montemagno",
+      "Id": "300-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Podcast Episode 88: .NET MAUI Special Update",
+      "Url": "https://www.xamarinpodcast.com/88",
+      "Description": "Matt and James are joined by David Ortinau for a special update on .NET MAUI. Plus a whole lot of other updates on new releases of Visual Studio for Mac and Windows, the latest news on the Xamarin Community Toolkit, and an amazing ASP.NET Core Web API series ... yes, we talk web in a Xamarin pod!",
+      "EditionId": "300",
+      "Author": "The Xamarin Podcast",
+      "Id": "300-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 244: Introduction to Microservices",
+      "Url": "https://www.mergeconflict.fm/244",
+      "Description": "We are ready to enter the world of Docker and Microservices.... but first what is a microservice? what is a container? an image? why is all of this important? We discuss.",
+      "EditionId": "300",
+      "Author": "Merge Conflict",
+      "Id": "300-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Using Xamarin.Forms SwipeView + CollectionView Bonus!",
+      "Url": "https://www.youtube.com/watch?v=NMc6PdBusfQ",
+      "Description": "Since touchscreens the swipe gesture is suddenly a thing! Luckily Xamarin.Forms now has the SwipeView. With SwipeView you can swipe basically any visual element on screen. There is lots of events and properties to customize the whole experience to your needs. In this video we will see how to use SwipeView and how to apply it to a CollectionView.",
+      "EditionId": "300",
+      "Author": "Gerald Versluis",
+      "Id": "300-13",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

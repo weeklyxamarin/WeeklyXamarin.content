@@ -1,0 +1,353 @@
+{
+  "number": 300,
+  "title": "Issue 300",
+  "summary": null,
+  "url": "https://weeklyxamarin.com/issues/300",
+  "publication_status": "published",
+  "published_at": "2021-03-15T11:24:51+00:00",
+  "updated_at": "2021-03-15T11:24:56+00:00",
+  "categories": [
+    {
+      "code": "lucecarter",
+      "name": "LUCE CARTER",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Would you believe we are at 300 issues already?!</p>\n\n<p>I joined way back at issue 152 which was the 20th April 2018. We have certainly come a long way since then!</p>\n\n<p>We have surpassed some big subscriber milestones, seen lots of amazing content created from new and seasoned content creators, watched as the type of content created has evolved. Certainly recently we have seen an increase in podcasts and videos.</p>\n\n<p>Although between us over the years, Geoff, Kym and myself have been the curators, really the newsletter is powered by all of you. From the people who read the website, read emails, create content to those people who retweet and tell people about it.</p>\n\n<p>So I wanted to take this moment to say a big thank you!!!</p>\n\n<p>Hopefully this will continue for years to come as we evolve into .NET 6 and all the MAUI changes come.</p>\n\n<p>We haven't forgotten and Kym and I will be making plans to evolve alongside these changes so watch this space ;)</p>\n\n<p>🧡</p>",
+          "description_markdown": "Would you believe we are at 300 issues already?!\r\n\r\nI joined way back at issue 152 which was the 20th April 2018. We have certainly come a long way since then!\r\n\r\nWe have surpassed some big subscriber milestones, seen lots of amazing content created from new and seasoned content creators, watched as the type of content created has evolved. Certainly recently we have seen an increase in podcasts and videos.\r\n\r\nAlthough between us over the years, Geoff, Kym and myself have been the curators, really the newsletter is powered by all of you. From the people who read the website, read emails, create content to those people who retweet and tell people about it. \r\n\r\nSo I wanted to take this moment to say a big thank you!!!\r\n\r\nHopefully this will continue for years to come as we evolve into .NET 6 and all the MAUI changes come.\r\n\r\nWe haven't forgotten and Kym and I will be making plans to evolve alongside these changes so watch this space ;)\r\n\r\n🧡",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "f0a6045e-c3c2-4415-bf5e-cb93b33b5d66.jpg",
+          "image_extra_large_filename": "original_ratio_extra_large_f0a6045e-c3c2-4415-bf5e-cb93b33b5d66.jpg",
+          "image_medium_filename": "original_ratio_medium_f0a6045e-c3c2-4415-bf5e-cb93b33b5d66.jpg"
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "3tdnCF2",
+          "type": "Link",
+          "title": "Getting to Know the Simulator Better",
+          "url_domain": "andyibanez.com",
+          "url": "https://www.andyibanez.com/posts/getting-to-know-the-simulator-better/",
+          "description": "<p>Learn about the features the Simulator offers to make your Apple App development better.</p>\n\n<p><a href=\"https://www.andyibanez.com/posts/getting-to-know-the-simulator-better/\"><strong>Getting to Know the Simulator Better</strong></a> by <a href=\"https://twitter.com/AndyIbanezK\">Andy Ibanez</a></p>",
+          "description_markdown": "Learn about the features the Simulator offers to make your Apple App development better.\r\n\r\n[**Getting to Know the Simulator Better**](https://www.andyibanez.com/posts/getting-to-know-the-simulator-better/) by [Andy Ibanez](https://twitter.com/AndyIbanezK)",
+          "embedded_links": [
+            {
+              "identifier": "ClYuknG",
+              "title": "**Getting to Know the Simulator Better**",
+              "url_domain": "andyibanez.com",
+              "url": "https://www.andyibanez.com/posts/getting-to-know-the-simulator-better/"
+            },
+            {
+              "identifier": "KZeQD95",
+              "title": "Andy Ibanez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/AndyIbanezK"
+            }
+          ]
+        },
+        {
+          "identifier": "sCzYMCx",
+          "type": "Link",
+          "title": "How to send Firebase Push notification(FCM) in postman",
+          "url_domain": "blogspot.com",
+          "url": "https://xamarinmonkeys.blogspot.com/2021/03/xamarinforms-how-to-sent-firebase-push.html",
+          "description": "<p>Many developers are facing the problem of how to test the custom push notification without using the API.  If you are one of them then this blog will help you.</p>\n\n<p><a href=\"https://xamarinmonkeys.blogspot.com/2021/03/xamarinforms-how-to-sent-firebase-push.html\"><strong>Xamarin.Forms - How to sent Firebase Push notification(FCM) in postman</strong></a> by <a href=\"https://www.blogger.com/profile/12290645674821205145\">Delpin Susai Raj</a></p>",
+          "description_markdown": "Many developers are facing the problem of how to test the custom push notification without using the API.  If you are one of them then this blog will help you.\r\n\r\n[**Xamarin.Forms - How to sent Firebase Push notification(FCM) in postman**](https://xamarinmonkeys.blogspot.com/2021/03/xamarinforms-how-to-sent-firebase-push.html) by [Delpin Susai Raj](https://www.blogger.com/profile/12290645674821205145)",
+          "embedded_links": [
+            {
+              "identifier": "ZIcIaN2",
+              "title": "**Xamarin.Forms - How to sent Firebase Push notification(FCM) in postman**",
+              "url_domain": "blogspot.com",
+              "url": "https://xamarinmonkeys.blogspot.com/2021/03/xamarinforms-how-to-sent-firebase-push.html"
+            },
+            {
+              "identifier": "ABW2CrT",
+              "title": "Delpin Susai Raj",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/12290645674821205145"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "7h7ZBgD",
+          "type": "Link",
+          "title": "Adventures in ARKit - platform setup",
+          "url_domain": "davidbritch.com",
+          "url": "https://www.davidbritch.com/2021/03/adventures-in-arkit-platform-setup.html",
+          "description": "<p>Lee Englestone has recently written a book about developing augmented reality apps using ARKit on Xamarin.iOS. His book appears to be the best source of information for learning ARKit on Xamarin.iOS, and he was a companion website that’s pretty damn good. In this blog post, David Britch starts his adventures in ARKit.</p>\n\n<p><a href=\"https://www.davidbritch.com/2021/03/adventures-in-arkit-platform-setup.html\"><strong>Adventures in ARKit - platform setup</strong></a> by <a href=\"https://www.blogger.com/profile/08228714867310322959\">David Britch</a></p>",
+          "description_markdown": "Lee Englestone has recently written a book about developing augmented reality apps using ARKit on Xamarin.iOS. His book appears to be the best source of information for learning ARKit on Xamarin.iOS, and he was a companion website that’s pretty damn good. In this blog post, David Britch starts his adventures in ARKit.\r\n\r\n[**Adventures in ARKit - platform setup**](https://www.davidbritch.com/2021/03/adventures-in-arkit-platform-setup.html) by [David Britch](https://www.blogger.com/profile/08228714867310322959)",
+          "embedded_links": [
+            {
+              "identifier": "6oqAHoi",
+              "title": "**Adventures in ARKit - platform setup**",
+              "url_domain": "davidbritch.com",
+              "url": "https://www.davidbritch.com/2021/03/adventures-in-arkit-platform-setup.html"
+            },
+            {
+              "identifier": "WhqFd6U",
+              "title": "David Britch",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/08228714867310322959"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "nNi57e8",
+          "type": "Link",
+          "title": "Xamarin Let’s Build - Biometric Support",
+          "url_domain": "mikegrant.org.uk",
+          "url": "https://mikegrant.org.uk/2021/03/08/xamarin-lets-build-biometrics.html",
+          "description": "<p>Biometrics is a commonly seen security feature on your phone. Whether it’s fingerprint or facial recognition, you’ll see it when you log in to your bank or using Google / Apple Pay. We’ll find out how to add biometric authentication to your Xamarin.Forms application.</p>\n\n<p><a href=\"https://mikegrant.org.uk/2021/03/08/xamarin-lets-build-biometrics.html\"><strong>Xamarin Let’s Build - Biometric Support</strong></a> by <a href=\"https://mikegrant.org.uk\">Mike Grant</a></p>",
+          "description_markdown": "Biometrics is a commonly seen security feature on your phone. Whether it’s fingerprint or facial recognition, you’ll see it when you log in to your bank or using Google / Apple Pay. We’ll find out how to add biometric authentication to your Xamarin.Forms application.\r\n\r\n[**Xamarin Let’s Build - Biometric Support**](https://mikegrant.org.uk/2021/03/08/xamarin-lets-build-biometrics.html) by [Mike Grant](https://mikegrant.org.uk)",
+          "embedded_links": [
+            {
+              "identifier": "DYdSpjl",
+              "title": "**Xamarin Let’s Build - Biometric Support**",
+              "url_domain": "mikegrant.org.uk",
+              "url": "https://mikegrant.org.uk/2021/03/08/xamarin-lets-build-biometrics.html"
+            },
+            {
+              "identifier": "gPwLgGM",
+              "title": "Mike Grant",
+              "url_domain": "mikegrant.org.uk",
+              "url": "https://mikegrant.org.uk"
+            }
+          ]
+        },
+        {
+          "identifier": "IssY4SX",
+          "type": "Link",
+          "title": "Replicating Food Delivery UI in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-food-delivery-ui-in-xamarin-forms/",
+          "description": "<p>We love UI challenges, and this week Leomaris has done a great design for a Food delivery app.</p>\n\n<p><a href=\"https://askxammy.com/replicating-food-delivery-ui-in-xamarin-forms/\"><strong>Replicating Food Delivery UI in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "We love UI challenges, and this week Leomaris has done a great design for a Food delivery app.\r\n\r\n[**Replicating Food Delivery UI in Xamarin Forms**](https://askxammy.com/replicating-food-delivery-ui-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "vPS92jV",
+              "title": "**Replicating Food Delivery UI in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-food-delivery-ui-in-xamarin-forms/"
+            },
+            {
+              "identifier": "hl19AIH",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "QbNe3Ru",
+          "type": "Link",
+          "title": "Process navigation data using IQueryAttributable in Xamarin.Forms Shell apps",
+          "url_domain": "davidbritch.com",
+          "url": "https://www.davidbritch.com/2021/03/process-navigation-data-using.html",
+          "description": "<p>If you write Shell apps, you’ll know that the mechanism for passing data between pages is to pass it as query parameters using URI-based navigation. Then, in your receiving class (be it a page, or a view model), you decorate the class with a QueryPropertyAttribute for each query parameter. This works quite well, but it can be a pain having to add a QueryPropertyAttribute for each item of data that gets passed. In addition, because each QueryPropertyAttribute sets a property, you can end up with multiple pieces of plumbing code just to receive data.</p>\n\n<p>So what’s the solution? Enter the oddly named IQueryAttributable interface.</p>\n\n<p><a href=\"https://www.davidbritch.com/2021/03/process-navigation-data-using.html\"><strong>Process navigation data using IQueryAttributable in Xamarin.Forms Shell apps</strong></a> by <a href=\"https://www.blogger.com/profile/08228714867310322959\">David Britch</a></p>",
+          "description_markdown": "If you write Shell apps, you’ll know that the mechanism for passing data between pages is to pass it as query parameters using URI-based navigation. Then, in your receiving class (be it a page, or a view model), you decorate the class with a QueryPropertyAttribute for each query parameter. This works quite well, but it can be a pain having to add a QueryPropertyAttribute for each item of data that gets passed. In addition, because each QueryPropertyAttribute sets a property, you can end up with multiple pieces of plumbing code just to receive data.\r\n\r\nSo what’s the solution? Enter the oddly named IQueryAttributable interface.\r\n\r\n[**Process navigation data using IQueryAttributable in Xamarin.Forms Shell apps**](https://www.davidbritch.com/2021/03/process-navigation-data-using.html) by [David Britch](https://www.blogger.com/profile/08228714867310322959)",
+          "embedded_links": [
+            {
+              "identifier": "h2dTNCK",
+              "title": "**Process navigation data using IQueryAttributable in Xamarin.Forms Shell apps**",
+              "url_domain": "davidbritch.com",
+              "url": "https://www.davidbritch.com/2021/03/process-navigation-data-using.html"
+            },
+            {
+              "identifier": "lZkacWz",
+              "title": "David Britch",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/08228714867310322959"
+            }
+          ]
+        },
+        {
+          "identifier": "uVLx3pe",
+          "type": "Link",
+          "title": "Bind MVVM Async Commands to Snackbar and Loading dialog",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/mvvm-async-commands-with-snackar/",
+          "description": "<p>Sharpnado keeps improving their frameworks.  So with the TaskLoaderCommand you knew you could bind any action to a UI component and have a great UI feedback. But thanks to the CompositeTaskLoaderNotifier you can now bind SEVERAL async Command states to ONE UI Component.</p>\n\n<p><a href=\"https://www.sharpnado.com/mvvm-async-commands-with-snackar/\"><strong>Bind MVVM Async Commands to Snackbar and Loading dialog</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "Sharpnado keeps improving their frameworks.  So with the TaskLoaderCommand you knew you could bind any action to a UI component and have a great UI feedback. But thanks to the CompositeTaskLoaderNotifier you can now bind SEVERAL async Command states to ONE UI Component.\r\n\r\n[**Bind MVVM Async Commands to Snackbar and Loading dialog**](https://www.sharpnado.com/mvvm-async-commands-with-snackar/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)",
+          "embedded_links": [
+            {
+              "identifier": "B8dqZXY",
+              "title": "**Bind MVVM Async Commands to Snackbar and Loading dialog**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/mvvm-async-commands-with-snackar/"
+            },
+            {
+              "identifier": "2nBXwy4",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        },
+        {
+          "identifier": "l7NHBbX",
+          "type": "Link",
+          "title": "5 Advantages of .NET MAUI Over Xamarin",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/advantages-net-maui-over-xamarin.aspx",
+          "description": "<p>You may have this million-dollar question in you mind: why use .NET MAUI when we have Xamarin?</p>\n\n<p>.NET MAUI is the evolution of Xamarin.Forms. It is extended from mobile to desktop scenarios with UI controls rebuilt from the ground up for performance and extensibility.</p>\n\n<p>In this blog post, we will discuss the top five advantages of .NET MAUI over Xamarin.Forms:</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/advantages-net-maui-over-xamarin.aspx\"><strong>5 Advantages of .NET MAUI Over Xamarin | Syncfusion Blogs</strong></a> by <a href=\"https://twitter.com/Syncfusion\">Syncfusion</a></p>",
+          "description_markdown": "You may have this million-dollar question in you mind: why use .NET MAUI when we have Xamarin?\r\n\r\n.NET MAUI is the evolution of Xamarin.Forms. It is extended from mobile to desktop scenarios with UI controls rebuilt from the ground up for performance and extensibility.\r\n\r\nIn this blog post, we will discuss the top five advantages of .NET MAUI over Xamarin.Forms:\r\n\r\n[**5 Advantages of .NET MAUI Over Xamarin | Syncfusion Blogs**](https://www.syncfusion.com/blogs/post/advantages-net-maui-over-xamarin.aspx) by [Syncfusion](https://twitter.com/Syncfusion)",
+          "embedded_links": [
+            {
+              "identifier": "ZHBq8b6",
+              "title": "**5 Advantages of .NET MAUI Over Xamarin | Syncfusion Blogs**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/advantages-net-maui-over-xamarin.aspx"
+            },
+            {
+              "identifier": "YT1tHao",
+              "title": "Syncfusion",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Syncfusion"
+            }
+          ]
+        },
+        {
+          "identifier": "R6jCfUE",
+          "type": "Link",
+          "title": "Custom Sharpnado Tabs",
+          "url_domain": "truegeek.com",
+          "url": "https://truegeek.com/2021/03/11/custom-sharpnado-tabs/",
+          "description": "<p>A blog post about customizing Sharpnado Tabs.</p>\n\n<p><a href=\"https://truegeek.com/2021/03/11/custom-sharpnado-tabs/\"><strong>Custom Sharpnado Tabs</strong></a> by <a href=\"https://github.com/TrueGeek\">Brad Dean</a></p>",
+          "description_markdown": "\r\nA blog post about customizing Sharpnado Tabs.\r\n\r\n\r\n[**Custom Sharpnado Tabs**](https://truegeek.com/2021/03/11/custom-sharpnado-tabs/) by [Brad Dean](https://github.com/TrueGeek)",
+          "embedded_links": [
+            {
+              "identifier": "q2DweN0",
+              "title": "**Custom Sharpnado Tabs**",
+              "url_domain": "truegeek.com",
+              "url": "https://truegeek.com/2021/03/11/custom-sharpnado-tabs/"
+            },
+            {
+              "identifier": "DbYy7oo",
+              "title": "Brad Dean",
+              "url_domain": "github.com",
+              "url": "https://github.com/TrueGeek"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "nxAdtXX",
+          "type": "Link",
+          "title": "Learn Xamarin Today or Wait for .NET MAUI?",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=zvPPz6DABi8",
+          "description": "<p>This is a question that comes up a lot. With the changes to Xamarin with .NET 6 and Forms evolving into MAUI, many businesses and users want to know whether to wait. So guess what? James has the answers!!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=zvPPz6DABi8\"><strong>Learn Xamarin Today or Wait for .NET MAUI?</strong></a> by <a href=\"https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A\">James Montemagno</a></p>",
+          "description_markdown": "This is a question that comes up a lot. With the changes to Xamarin with .NET 6 and Forms evolving into MAUI, many businesses and users want to know whether to wait. So guess what? James has the answers!!\r\n\r\n[**Learn Xamarin Today or Wait for .NET MAUI?**](https://www.youtube.com/watch?v=zvPPz6DABi8) by [James Montemagno](https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A)",
+          "embedded_links": [
+            {
+              "identifier": "2lSrWRw",
+              "title": "**Learn Xamarin Today or Wait for .NET MAUI?**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=zvPPz6DABi8"
+            },
+            {
+              "identifier": "feEf9aK",
+              "title": "James Montemagno",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A"
+            }
+          ]
+        },
+        {
+          "identifier": "J7gMdGB",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 88: .NET MAUI Special Update",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/88",
+          "description": "<p>Matt and James are joined by David Ortinau for a special update on .NET MAUI. Plus a whole lot of other updates on new releases of Visual Studio for Mac and Windows, the latest news on the Xamarin Community Toolkit, and an amazing ASP.NET Core Web API series ... yes, we talk web in a Xamarin pod!</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/88\"><strong>The Xamarin Podcast Episode 88: .NET MAUI Special Update</strong></a> by <a href=\"https://www.xamarinpodcast.com\">Xamarin Podcast</a></p>",
+          "description_markdown": "Matt and James are joined by David Ortinau for a special update on .NET MAUI. Plus a whole lot of other updates on new releases of Visual Studio for Mac and Windows, the latest news on the Xamarin Community Toolkit, and an amazing ASP.NET Core Web API series ... yes, we talk web in a Xamarin pod!\r\n\r\n[**The Xamarin Podcast Episode 88: .NET MAUI Special Update**](https://www.xamarinpodcast.com/88) by [Xamarin Podcast](https://www.xamarinpodcast.com)",
+          "embedded_links": [
+            {
+              "identifier": "c9FjVLc",
+              "title": "**The Xamarin Podcast Episode 88: .NET MAUI Special Update**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/88"
+            },
+            {
+              "identifier": "EcT5L1r",
+              "title": "Xamarin Podcast",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com"
+            }
+          ]
+        },
+        {
+          "identifier": "DLXFV4k",
+          "type": "Link",
+          "title": "Merge Conflict: 244: Introduction to Microservices",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/244",
+          "description": "<p>We are ready to enter the world of Docker and Microservices.... but first what is a microservice? what is a container? an image? why is all of this important? We discuss.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/244\"><strong>Merge Conflict: 244: Introduction to Microservices</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "We are ready to enter the world of Docker and Microservices.... but first what is a microservice? what is a container? an image? why is all of this important? We discuss.\r\n\r\n[**Merge Conflict: 244: Introduction to Microservices**](https://www.mergeconflict.fm/244) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "ALKnE8Y",
+              "title": "**Merge Conflict: 244: Introduction to Microservices**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/244"
+            },
+            {
+              "identifier": "tDx4Ods",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "f170ISF",
+          "type": "Link",
+          "title": "Using Xamarin.Forms SwipeView + CollectionView Bonus!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=NMc6PdBusfQ",
+          "description": "<p>Since touchscreens the swipe gesture is suddenly a thing! Luckily Xamarin.Forms now has the SwipeView. With SwipeView you can swipe basically any visual element on screen. There is lots of events and properties to customize the whole experience to your needs.</p>\n\n<p>In this video we will see how to use SwipeView and how to apply it to a CollectionView.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=NMc6PdBusfQ\"><strong>Using Xamarin.Forms SwipeView + CollectionView Bonus!</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Since touchscreens the swipe gesture is suddenly a thing! Luckily Xamarin.Forms now has the SwipeView. With SwipeView you can swipe basically any visual element on screen. There is lots of events and properties to customize the whole experience to your needs.\r\n\r\nIn this video we will see how to use SwipeView and how to apply it to a CollectionView.\r\n\r\n[**Using Xamarin.Forms SwipeView + CollectionView Bonus!**](https://www.youtube.com/watch?v=NMc6PdBusfQ) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "rMgvKff",
+              "title": "**Using Xamarin.Forms SwipeView + CollectionView Bonus!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=NMc6PdBusfQ"
+            },
+            {
+              "identifier": "PqKAM9d",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
