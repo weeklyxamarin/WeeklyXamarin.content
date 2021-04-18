@@ -1,0 +1,392 @@
+{
+  "number": 296,
+  "title": "Issue 296",
+  "summary": null,
+  "url": "https://weeklyxamarin.com/issues/296",
+  "publication_status": "published",
+  "published_at": "2021-02-13T11:26:48+00:00",
+  "updated_at": "2021-02-13T11:26:50+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Woot it's the weekend.</p>\n\n<p>Kick back and enjoy this weeks articles, including the amazing work of Frank Krueger and an ever increasing number of video entries.</p>\n\n<p>See you next week. Stay Safe.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Woot it's the weekend.\r\n\r\nKick back and enjoy this weeks articles, including the amazing work of Frank Krueger and an ever increasing number of video entries.\r\n\r\nSee you next week. Stay Safe.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "A9aoIM9",
+          "type": "Link",
+          "title": "The Technology of iCircuit 3D",
+          "url_domain": "praeclarum.org",
+          "url": "https://praeclarum.org/2021/02/08/tech-of-icircuit3d.html",
+          "description": "<p>Frank Krueger's apps are always a small work of art. He has just released iCircuit 3D which looks mazing, but it also has some great technology going on too - things like undo buffers and a crazy amount of SceneKit.</p>\n\n<p><a href=\"https://praeclarum.org/2021/02/08/tech-of-icircuit3d.html\"><strong>The Technology of iCircuit 3D</strong></a> by <a href=\"https://twitter.com/praeclarum\">Frank Krueger</a></p>",
+          "description_markdown": "Frank Krueger's apps are always a small work of art. He has just released iCircuit 3D which looks mazing, but it also has some great technology going on too - things like undo buffers and a crazy amount of SceneKit.\r\n\r\n[**The Technology of iCircuit 3D**](https://praeclarum.org/2021/02/08/tech-of-icircuit3d.html) by [Frank Krueger](https://twitter.com/praeclarum)",
+          "embedded_links": [
+            {
+              "identifier": "VXwa8GX",
+              "title": "**The Technology of iCircuit 3D**",
+              "url_domain": "praeclarum.org",
+              "url": "https://praeclarum.org/2021/02/08/tech-of-icircuit3d.html"
+            },
+            {
+              "identifier": "cLMjIB2",
+              "title": "Frank Krueger",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/praeclarum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "mac",
+      "name": "MAC",
+      "items": [
+        {
+          "identifier": "YRvLwhP",
+          "type": "Link",
+          "title": "Cross-Platform In-App Purchases for Xamarin.Mac Apps!",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/cross-platform-in-app-purchases-for-xamarin-mac-apps/",
+          "description": "<p>Looking to monetize your Xamarin.Mac apps with In-App Purchases? Look no further.</p>\n\n<p><a href=\"https://montemagno.com/cross-platform-in-app-purchases-for-xamarin-mac-apps/\"><strong>Cross-Platform In-App Purchases for Xamarin.Mac Apps!</strong></a> by <a href=\"\">James Montemagno</a></p>",
+          "description_markdown": "Looking to monetize your Xamarin.Mac apps with In-App Purchases? Look no further.\r\n\r\n[**Cross-Platform In-App Purchases for Xamarin.Mac Apps!**](https://montemagno.com/cross-platform-in-app-purchases-for-xamarin-mac-apps/) by [James Montemagno]()",
+          "embedded_links": [
+            {
+              "identifier": "Mif9c1b",
+              "title": "**Cross-Platform In-App Purchases for Xamarin.Mac Apps!**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/cross-platform-in-app-purchases-for-xamarin-mac-apps/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "RhyEvjl",
+          "type": "Link",
+          "title": "Sticky Header or Sticky Navigation Bar in Xamarin.Forms",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/stickyheader-xamarin-forms/",
+          "description": "<p>StickyHeader or StickyNavigation refers to having design elements that are permanently on users’ screens, even when the user scrolling down or up in a view. While this was mainly reserved for the navigation bar at the beginning, but we are seeing elements like floating buttons and other elements that have become popular as sticky elements used in mobile app design.</p>\n\n<p><a href=\"https://luismts.com/stickyheader-xamarin-forms/\"><strong>Sticky Header or Sticky Navigation Bar in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "StickyHeader or StickyNavigation refers to having design elements that are permanently on users’ screens, even when the user scrolling down or up in a view. While this was mainly reserved for the navigation bar at the beginning, but we are seeing elements like floating buttons and other elements that have become popular as sticky elements used in mobile app design.\r\n\r\n[**Sticky Header or Sticky Navigation Bar in Xamarin.Forms**](https://luismts.com/stickyheader-xamarin-forms/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "2AK2E1I",
+              "title": "**Sticky Header or Sticky Navigation Bar in Xamarin.Forms**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/stickyheader-xamarin-forms/"
+            },
+            {
+              "identifier": "86ixFHf",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "v8kPWw1",
+          "type": "Link",
+          "title": "Grouping with Dynamic Data in Xamarin Forms",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2021/02/10/grouping-with-dynamic-data-in-xamarin-forms-part-3/",
+          "description": "<p>Dynamic Data is a portable class library which brings the power of Reactive Extensions (Rx) to collections. In this post, Rendy delves into grouping data using Dynamic Data.</p>\n\n<p><a href=\"https://www.xamboy.com/2021/02/10/grouping-with-dynamic-data-in-xamarin-forms-part-3/\"><strong>Grouping with Dynamic Data in Xamarin Forms (Part 3)</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "Dynamic Data is a portable class library which brings the power of Reactive Extensions (Rx) to collections. In this post, Rendy delves into grouping data using Dynamic Data.\r\n\r\n[**Grouping with Dynamic Data in Xamarin Forms (Part 3)**](https://www.xamboy.com/2021/02/10/grouping-with-dynamic-data-in-xamarin-forms-part-3/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "PMa91s3",
+              "title": "**Grouping with Dynamic Data in Xamarin Forms (Part 3)**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2021/02/10/grouping-with-dynamic-data-in-xamarin-forms-part-3/"
+            },
+            {
+              "identifier": "zfKlnee",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        },
+        {
+          "identifier": "kUzN1Mr",
+          "type": "Link",
+          "title": "Custom Xamarin Controls with Blazor Mobile Bindings",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/custom-xamarin-controls-blazor-mobile-bindings",
+          "description": "<p>Blazor Mobile Bindings is exciting, but also encourages reusability. Sam Basu takes a look as how to wrap custom Xamarin.Forms UI as Blazor components.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/custom-xamarin-controls-blazor-mobile-bindings\"><strong>Custom Xamarin Controls with Blazor Mobile Bindings</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Blazor Mobile Bindings is exciting, but also encourages reusability. Sam Basu takes a look as how to wrap custom Xamarin.Forms UI as Blazor components.\r\n\r\n[**Custom Xamarin Controls with Blazor Mobile Bindings**](https://www.telerik.com/blogs/custom-xamarin-controls-blazor-mobile-bindings) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)",
+          "embedded_links": [
+            {
+              "identifier": "5ARdmwW",
+              "title": "**Custom Xamarin Controls with Blazor Mobile Bindings**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/custom-xamarin-controls-blazor-mobile-bindings"
+            },
+            {
+              "identifier": "DZB52mz",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "Oldtdy1",
+          "type": "Link",
+          "title": "Xamarin.Essentials File Picker",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/File-Picker-XamarinEssentials-API-of-the-Week",
+          "description": "<p>This week's Essential API of the week is all about the File Picker, that allows users to pick files from their device with or without custom filters and options.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/File-Picker-XamarinEssentials-API-of-the-Week\"><strong>File Picker (Xamarin.Essentials API of the Week)</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "This week's Essential API of the week is all about the File Picker, that allows users to pick files from their device with or without custom filters and options.\r\n\r\n[**File Picker (Xamarin.Essentials API of the Week)**](https://channel9.msdn.com/Shows/XamarinShow/File-Picker-XamarinEssentials-API-of-the-Week) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "PEjVnh7",
+              "title": "**File Picker (Xamarin.Essentials API of the Week)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/File-Picker-XamarinEssentials-API-of-the-Week"
+            },
+            {
+              "identifier": "oc1xzFw",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "URhvsbX",
+          "type": "Link",
+          "title": "Merge Conflict: 240: Stonks, Robots, and Cross-Platform IAP",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/240",
+          "description": "<p>Wow! What do we even talk about this episode?!?! Who knows, but it is super fun as we have lightning-fast lightning topics talking about what the heck is happening on the stock market, Frank's next robot, and listener questions!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/240\"><strong>Merge Conflict: 240: Stonks, Robots, and Cross-Platform IAP</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Wow! What do we even talk about this episode?!?! Who knows, but it is super fun as we have lightning-fast lightning topics talking about what the heck is happening on the stock market, Frank's next robot, and listener questions!\r\n\r\n[**Merge Conflict: 240: Stonks, Robots, and Cross-Platform IAP**](https://www.mergeconflict.fm/240) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "YKL7wGN",
+              "title": "**Merge Conflict: 240: Stonks, Robots, and Cross-Platform IAP**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/240"
+            },
+            {
+              "identifier": "zrQaKm4",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "kmy6K9X",
+          "type": "Link",
+          "title": "Monetizing Your Xamarin.Forms App with AdMob",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Bka0T3806qo",
+          "description": "<p>Monetizing your app can be a nice way to get something back for the effort and love that you've put into your Xamarin.Forms app. One way of doing it is by adding ads to your app. In this video I will show you how you can include Google AdMob ads in your Xamarin.Forms application without too much hassle.</p>\n\n<p>We will learn about a plugin that you can use for this, how to show banners, interstitial ads and even reward video advertisements!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Bka0T3806qo\"><strong>Get Filthy Rich by Monetizing Your Xamarin.Forms App with AdMob</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Monetizing your app can be a nice way to get something back for the effort and love that you've put into your Xamarin.Forms app. One way of doing it is by adding ads to your app. In this video I will show you how you can include Google AdMob ads in your Xamarin.Forms application without too much hassle.\r\n\r\nWe will learn about a plugin that you can use for this, how to show banners, interstitial ads and even reward video advertisements!\r\n\r\n[**Get Filthy Rich by Monetizing Your Xamarin.Forms App with AdMob**](https://www.youtube.com/watch?v=Bka0T3806qo) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "Kz4kRN",
+              "title": "**Get Filthy Rich by Monetizing Your Xamarin.Forms App with AdMob**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Bka0T3806qo"
+            },
+            {
+              "identifier": "pLOxL8Z",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "dJvihlu",
+          "type": "Link",
+          "title": "Xamarin Community Toolkit Extravaganza!",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/87",
+          "description": "<p>James and Matt talk all about the Community Toolkit, what's all inside of it, and the new video series that goes along with it too! And they also talk about customizing Radio Buttons to your exact UI needs. .NET MAUI ... .NET MAUI .. and more .NET MAUI - and they even sneak in some time to talk about some new great content for Xamarin developers on Microsoft Learn!</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/87\"><strong>Xamarin Community Toolkit Extravaganza!</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "James and Matt talk all about the Community Toolkit, what's all inside of it, and the new video series that goes along with it too! And they also talk about customizing Radio Buttons to your exact UI needs. .NET MAUI ... .NET MAUI .. and more .NET MAUI - and they even sneak in some time to talk about some new great content for Xamarin developers on Microsoft Learn!\r\n\r\n[**Xamarin Community Toolkit Extravaganza!**](https://www.xamarinpodcast.com/87) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)",
+          "embedded_links": [
+            {
+              "identifier": "oyKt6k0",
+              "title": "**Xamarin Community Toolkit Extravaganza!**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/87"
+            },
+            {
+              "identifier": "7JbJ4Z1",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        },
+        {
+          "identifier": "maxgvGX",
+          "type": "Link",
+          "title": "MVVM for the Xamarin.Forms ListView",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=71K4PVRLasI",
+          "description": "<p>Let's cleanup that ListView and get  rid of all of those vents for selection, taps, context actions, and more! We MVVMify the ListView to get ride of that code behind and use some really fun techniques like ancestor relative bindings, property changes events, and a lot more!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=71K4PVRLasI\"><strong>MVVM for the Xamarin.Forms ListView</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Let's cleanup that ListView and get  rid of all of those vents for selection, taps, context actions, and more! We MVVMify the ListView to get ride of that code behind and use some really fun techniques like ancestor relative bindings, property changes events, and a lot more!\r\n\r\n[**MVVM for the Xamarin.Forms ListView**](https://www.youtube.com/watch?v=71K4PVRLasI) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "yxXWfEe",
+              "title": "**MVVM for the Xamarin.Forms ListView**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=71K4PVRLasI"
+            },
+            {
+              "identifier": "5e0zL9e",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "qK8qiXw",
+          "type": "Link",
+          "title": "Shield in Xamarin.CommunityToolkit",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=-02fFAyhRoY",
+          "description": "<p>One of the controls in the Xamarin Community Toolkit is the Shield. With this control you can display a kind of status information badge much alike the ones you see on GitHub for example.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=02fFAyhRoY\"><strong>Awesome Status Displaying with Shield in Xamarin.CommunityToolkit</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "One of the controls in the Xamarin Community Toolkit is the Shield. With this control you can display a kind of status information badge much alike the ones you see on GitHub for example. \r\n\r\n[**Awesome Status Displaying with Shield in Xamarin.CommunityToolkit**](https://www.youtube.com/watch?v=02fFAyhRoY) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "kZFdpHU",
+              "title": "**Awesome Status Displaying with Shield in Xamarin.CommunityToolkit**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=-02fFAyhRoY"
+            },
+            {
+              "identifier": "JJM8vLM",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "MGVi73Q",
+          "type": "Link",
+          "title": "StateLayout in Xamarin Community Toolkit",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-StateLayout",
+          "description": "<p>Whether you're loading data, you need to show an empty state or maybe an error occurred. With StateLayout you can visualize this easily from within just one control.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-StateLayout\"><strong>Xamarin Community Toolkit: StateLayout</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "Whether you're loading data, you need to show an empty state or maybe an error occurred. With StateLayout you can visualize this easily from within just one control.\r\n\r\n[**Xamarin Community Toolkit: StateLayout**](https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-StateLayout) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "eyHN2mR",
+              "title": "**Xamarin Community Toolkit: StateLayout**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-StateLayout"
+            },
+            {
+              "identifier": "RbSUDdP",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "fZarcT7",
+          "type": "Link",
+          "title": "Null Pointers 39: Backgrounding in Apps",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/39/",
+          "description": "<p>Apps perform a lot of tasks for you, even ones you might not know about. Where do they do them you ask? Well, in the background of course! Today you will learn all about how to do that yourself!</p>\n\n<p><a href=\"https://nullpointers.io/39/\"><strong>39: Backgrounding in Apps</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "Apps perform a lot of tasks for you, even ones you might not know about. Where do they do them you ask? Well, in the background of course! Today you will learn all about how to do that yourself!\r\n\r\n[**39: Backgrounding in Apps**](https://nullpointers.io/39/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "Qqk3Nk8",
+              "title": "**39: Backgrounding in Apps**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/39/"
+            },
+            {
+              "identifier": "zngUn8D",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "2l362PM",
+          "type": "Link",
+          "title": "Sharpnado Tabs and HorizontalListView",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/xamarin-forms-vertical-tabs/",
+          "description": "<p>There are some nice additions to Sharpnado Tabs and HorizontalListView, including vertical tabs and drag drop animations.</p>\n\n<p><a href=\"https://www.sharpnado.com/xamarin-forms-vertical-tabs/\"><strong>Xamarin.Forms vertical Tabs and HorizontalListView drag and drop</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "There are some nice additions to Sharpnado Tabs and HorizontalListView, including vertical tabs and drag drop animations.\r\n\r\n[**Xamarin.Forms vertical Tabs and HorizontalListView drag and drop**](https://www.sharpnado.com/xamarin-forms-vertical-tabs/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)",
+          "embedded_links": [
+            {
+              "identifier": "uloArnn",
+              "title": "**Xamarin.Forms vertical Tabs and HorizontalListView drag and drop**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/xamarin-forms-vertical-tabs/"
+            },
+            {
+              "identifier": "ugIYz60",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Reading is good for you</p>",
+          "description_markdown": "Reading is good for you",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "2ecdf0af-e214-4b60-9779-7c569d487dcf.jpg",
+          "image_extra_large_filename": "original_ratio_extra_large_2ecdf0af-e214-4b60-9779-7c569d487dcf.jpg",
+          "image_medium_filename": "original_ratio_medium_2ecdf0af-e214-4b60-9779-7c569d487dcf.jpg"
+        }
+      ]
+    }
+  ]
+}
