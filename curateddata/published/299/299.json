@@ -1,0 +1,350 @@
+{
+  "number": 299,
+  "title": "Issue 299",
+  "summary": null,
+  "url": "https://weeklyxamarin.com/issues/299",
+  "publication_status": "published",
+  "published_at": "2021-03-07T13:09:44+00:00",
+  "updated_at": "2021-03-07T13:09:48+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Howdy,</p>\n\n<p>Hope you have had a great week. I've been recovering from helping with the Ignite 2021 event where we did some great streaming on Microsoft Learn Content, which is why I've been a bit under the pump recently. But things should settle down nicely from here.</p>\n\n<p>We have some great articles this week, including tapping into the SpaceX data, submitting your apps to the app store, and Wifi debugging on Android.</p>\n\n<p>Have a great week everyone, and see you back here next week for Issue 300!</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Howdy,\r\n\r\nHope you have had a great week. I've been recovering from helping with the Ignite 2021 event where we did some great streaming on Microsoft Learn Content, which is why I've been a bit under the pump recently. But things should settle down nicely from here.\r\n\r\nWe have some great articles this week, including tapping into the SpaceX data, submitting your apps to the app store, and Wifi debugging on Android.\r\n\r\nHave a great week everyone, and see you back here next week for Issue 300!\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "KRMwKm7",
+          "type": "Link",
+          "title": "C# Coding Standards",
+          "url_domain": "jesseliberty.com",
+          "url": "http://jesseliberty.com/2021/03/02/c-coding-standards-updated",
+          "description": "<p>Let's face it, most coding standards are arbitrary. The key to a successful project, however, is not which standards you follow, but that you are consistent. Jesse Liberty has his list of C# Standards which he has updated.</p>\n\n<p><a href=\"http://jesseliberty.com/2021/03/02/c-coding-standards-updated\"><strong>C# Coding Standards - Updated</strong></a> by <a href=\"https://twitter.com/jesseliberty\">Jesse Liberty</a></p>",
+          "description_markdown": "Let's face it, most coding standards are arbitrary. The key to a successful project, however, is not which standards you follow, but that you are consistent. Jesse Liberty has his list of C# Standards which he has updated.\r\n\r\n[**C# Coding Standards - Updated**](http://jesseliberty.com/2021/03/02/c-coding-standards-updated) by [Jesse Liberty](https://twitter.com/jesseliberty)",
+          "embedded_links": [
+            {
+              "identifier": "UEpfmHh",
+              "title": "**C# Coding Standards - Updated**",
+              "url_domain": "jesseliberty.com",
+              "url": "http://jesseliberty.com/2021/03/02/c-coding-standards-updated"
+            },
+            {
+              "identifier": "WkGeDA7",
+              "title": "Jesse Liberty",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jesseliberty"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "cwsrECj",
+          "type": "Link",
+          "title": "WiFi Build & Debug on Xamarin is officially here with Android 11",
+          "url_domain": "medium.com",
+          "url": "https://prototypemakers.medium.com/wireless-build-debug-with-android-on-xamarin-is-officially-here-8110593b39cf",
+          "description": "<p>Wireless build and debug for Android is a feature mobile developers have been waiting for years, especially since iOS enabled wireless debugging years ago. From Android 11, the process has been simplified and you can finally get rid of wired build and debugging!</p>\n\n<p><a href=\"https://prototypemakers.medium.com/wireless-build-debug-with-android-on-xamarin-is-officially-here-8110593b39cf\"><strong>WiFi Build &amp; Debug on Xamarin is officially here with Android 11 | by The First Prototype | Mar, 2021 | Medium</strong></a> by <a href=\"https://medium.com/@prototypemakers\">Saamer Mansoor</a></p>",
+          "description_markdown": "Wireless build and debug for Android is a feature mobile developers have been waiting for years, especially since iOS enabled wireless debugging years ago. From Android 11, the process has been simplified and you can finally get rid of wired build and debugging!\r\n\r\n[**WiFi Build & Debug on Xamarin is officially here with Android 11 | by The First Prototype | Mar, 2021 | Medium**](https://prototypemakers.medium.com/wireless-build-debug-with-android-on-xamarin-is-officially-here-8110593b39cf) by [Saamer Mansoor](https://medium.com/@prototypemakers)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "KmT08ku",
+              "title": "**WiFi Build & Debug on Xamarin is officially here with Android 11 | by The First Prototype | Mar, 2021 | Medium**",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com/wireless-build-debug-with-android-on-xamarin-is-officially-here-8110593b39cf"
+            },
+            {
+              "identifier": "aZPxETs",
+              "title": "Saamer Mansoor",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prototypemakers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "heMzREi",
+          "type": "Link",
+          "title": "Step-by-step Guide to submitting an App to the App Store in 2021",
+          "url_domain": "thedroidsonroids.com",
+          "url": "https://www.thedroidsonroids.com/blog/how-to-submit-app-to-the-app-store-guide-and-checklist",
+          "description": "<p>Preparing to publish your iOS app on the Apple's App Store? Follow this guide written by an iOS developer with 5 years of experience.</p>\n\n<p><a href=\"https://www.thedroidsonroids.com/blog/how-to-submit-app-to-the-app-store-guide-and-checklist\"><strong>How to Submit an App to the App Store in 2021 | Step-by-step Guide</strong></a> by <a href=\"https://twitter.com/WlodarczykDam\">Damian Włodarczyk</a></p>",
+          "description_markdown": "Preparing to publish your iOS app on the Apple's App Store? Follow this guide written by an iOS developer with 5 years of experience.\r\n\r\n[**How to Submit an App to the App Store in 2021 | Step-by-step Guide**](https://www.thedroidsonroids.com/blog/how-to-submit-app-to-the-app-store-guide-and-checklist) by [Damian Włodarczyk](https://twitter.com/WlodarczykDam)",
+          "embedded_links": [
+            {
+              "identifier": "1lGcXoM",
+              "title": "**How to Submit an App to the App Store in 2021 | Step-by-step Guide**",
+              "url_domain": "thedroidsonroids.com",
+              "url": "https://www.thedroidsonroids.com/blog/how-to-submit-app-to-the-app-store-guide-and-checklist"
+            },
+            {
+              "identifier": "BKHzf8A",
+              "title": "Damian Włodarczyk",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/WlodarczykDam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "8oZFbYj",
+          "type": "Link",
+          "title": "CollectionView Drag & Drop Item Reordering with Gesture Recognizers",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/collectionview-drag-and-drop/",
+          "description": "<p>Learn how to easily drag and drop items in a CollectionView with Xamarin.Forms 5.0 new gesture recognizers.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/collectionview-drag-and-drop/\"><strong>CollectionView Drag &amp; Drop Item Reordering with Gesture Recognizers</strong></a> by <a href=\"https://twitter.com/alexeystrakh\">Alexey Strakh</a></p>",
+          "description_markdown": "Learn how to easily drag and drop items in a CollectionView with Xamarin.Forms 5.0 new gesture recognizers.\r\n\r\n[**CollectionView Drag & Drop Item Reordering with Gesture Recognizers**](https://devblogs.microsoft.com/xamarin/collectionview-drag-and-drop/) by [Alexey Strakh](https://twitter.com/alexeystrakh)",
+          "embedded_links": [
+            {
+              "identifier": "NCwUSZx",
+              "title": "**CollectionView Drag & Drop Item Reordering with Gesture Recognizers**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/collectionview-drag-and-drop/"
+            },
+            {
+              "identifier": "hvU1mBj",
+              "title": "Alexey Strakh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/alexeystrakh"
+            }
+          ]
+        },
+        {
+          "identifier": "TxLk7Xo",
+          "type": "Link",
+          "title": "Push Notification with Shiny",
+          "url_domain": "medium.com",
+          "url": "https://felipedasilvabaltazar.medium.com/xamarin-push-notification-com-shiny-751636ce861b",
+          "description": "<p>How to set up Shiny to use the implementation of Push Notifications for both Firebase and AzureHubNotifications.</p>\n\n<p><a href=\"https://felipedasilvabaltazar.medium.com/xamarin-push-notification-com-shiny-751636ce861b\"><strong>Xamarin | Push Notification com Shiny</strong></a> by <a href=\"https://twitter.com/FelippeBaltazar\">Felipe Baltazar</a></p>",
+          "description_markdown": "How to set up Shiny to use the implementation of Push Notifications for both Firebase and AzureHubNotifications.\r\n\r\n[**Xamarin | Push Notification com Shiny**](https://felipedasilvabaltazar.medium.com/xamarin-push-notification-com-shiny-751636ce861b) by [Felipe Baltazar](https://twitter.com/FelippeBaltazar)",
+          "embedded_links": [
+            {
+              "identifier": "CJI96Ny",
+              "title": "**Xamarin | Push Notification com Shiny**",
+              "url_domain": "medium.com",
+              "url": "https://felipedasilvabaltazar.medium.com/xamarin-push-notification-com-shiny-751636ce861b"
+            },
+            {
+              "identifier": "wyuz3Tl",
+              "title": "Felipe Baltazar",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/FelippeBaltazar"
+            }
+          ]
+        },
+        {
+          "identifier": "6ra99co",
+          "type": "Link",
+          "title": "Explore the SpaceX GraphQL API by building a Xamarin Forms app",
+          "url_domain": "dev.to",
+          "url": "https://dev.to/mariusmuntean/explore-the-spacex-graphql-api-by-building-a-xamarin-forms-app-424",
+          "description": "<p>If you've ever wondered how to integrate that awesome GraphQL API from SpaceX in your app, this post is for you.</p>\n\n<p><a href=\"https://dev.to/mariusmuntean/explore-the-spacex-graphql-api-by-building-a-xamarin-forms-app-424\"><strong>Explore the SpaceX GraphQL API by building a Xamarin Forms app</strong></a> by <a href=\"https://github.com/mariusmuntean\">Marius Muntean</a></p>",
+          "description_markdown": "If you've ever wondered how to integrate that awesome GraphQL API from SpaceX in your app, this post is for you.\r\n\r\n[**Explore the SpaceX GraphQL API by building a Xamarin Forms app**](https://dev.to/mariusmuntean/explore-the-spacex-graphql-api-by-building-a-xamarin-forms-app-424) by [Marius Muntean](https://github.com/mariusmuntean)",
+          "embedded_links": [
+            {
+              "identifier": "vht1jmX",
+              "title": "**Explore the SpaceX GraphQL API by building a Xamarin Forms app**",
+              "url_domain": "dev.to",
+              "url": "https://dev.to/mariusmuntean/explore-the-spacex-graphql-api-by-building-a-xamarin-forms-app-424"
+            },
+            {
+              "identifier": "IoUrers",
+              "title": "Marius Muntean",
+              "url_domain": "github.com",
+              "url": "https://github.com/mariusmuntean"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "F2Gqikz",
+          "type": "Link",
+          "title": "Merge Conflict: 243: Lessons Learned - 3 Years of FuGet",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/243",
+          "description": "<p>It has been nearly 3 years since Frank launched FuGet.org the pro NuGet package browsing website. A lot has happened and he reflects on the last 3 years and talks about lessons he learned and what he would change.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/243\"><strong>Merge Conflict: 243: Lessons Learned - 3 Years of FuGet</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "It has been nearly 3 years since Frank launched FuGet.org the pro NuGet package browsing website. A lot has happened and he reflects on the last 3 years and talks about lessons he learned and what he would change.\r\n\r\n[**Merge Conflict: 243: Lessons Learned - 3 Years of FuGet**](https://www.mergeconflict.fm/243) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "Xoy1DF3",
+              "title": "**Merge Conflict: 243: Lessons Learned - 3 Years of FuGet**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/243"
+            },
+            {
+              "identifier": "XSYu1XB",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "vvIWJr",
+          "type": "Link",
+          "title": "Null Pointers 42: .NET 6 Preview 1",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/42/",
+          "description": "<p>The recently released .NET 6 Preview 1 comes with a lot of new bits and bobs. We will use this pod to go over them and see what’s useful for us and what isn’t. Also, hairdressers are a booming topic right now.</p>\n\n<p><a href=\"https://nullpointers.io/42/\"><strong>Null Pointers 42: .NET 6 Preview 1</strong></a> by <a href=\"https://nullpointers.io\">Null Pointers</a></p>",
+          "description_markdown": "The recently released .NET 6 Preview 1 comes with a lot of new bits and bobs. We will use this pod to go over them and see what’s useful for us and what isn’t. Also, hairdressers are a booming topic right now.\r\n\r\n[**Null Pointers 42: .NET 6 Preview 1**](https://nullpointers.io/42/) by [Null Pointers](https://nullpointers.io)",
+          "embedded_links": [
+            {
+              "identifier": "X65PUWd",
+              "title": "**Null Pointers 42: .NET 6 Preview 1**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/42/"
+            },
+            {
+              "identifier": "72DXSWB",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io"
+            }
+          ]
+        },
+        {
+          "identifier": "EHh3rbA",
+          "type": "Link",
+          "title": "Adding a Database to Xamarin Apps with SQLite-net",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=XFP8Np-uRWc",
+          "description": "<p>Every app needs to store data and it couldn't be easier than with SQLite-net for your mobile applications build with C#, .NET, and Xamarin! In today's video James takes a look at how to get started with storing data in a SQLite database and how to perform CRUD operations.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=XFP8Np-uRWc\"><strong>Adding a Database to Xamarin Apps with SQLite-net</strong></a> by <a href=\"https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A\">James Montemagno</a></p>",
+          "description_markdown": "Every app needs to store data and it couldn't be easier than with SQLite-net for your mobile applications build with C#, .NET, and Xamarin! In today's video James takes a look at how to get started with storing data in a SQLite database and how to perform CRUD operations.\r\n\r\n[**Adding a Database to Xamarin Apps with SQLite-net**](https://www.youtube.com/watch?v=XFP8Np-uRWc) by [James Montemagno](https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A)",
+          "embedded_links": [
+            {
+              "identifier": "hu3Qklt",
+              "title": "**Adding a Database to Xamarin Apps with SQLite-net**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=XFP8Np-uRWc"
+            },
+            {
+              "identifier": "hOsX7xV",
+              "title": "James Montemagno",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A"
+            }
+          ]
+        },
+        {
+          "identifier": "qTTM6jb",
+          "type": "Link",
+          "title": "Building a Peloton Clone with Xamarin.Forms Part 6: CollectionView - Workouts Page",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=kpw8N-Yusvo",
+          "description": "<p>Continuing on with more recordings from James' great live stream as he continues to work on the Xamarin clone of the Peloton app. In this stream, he looked at closing the workouts page using CollectionView!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=kpw8N-Yusvo\"><strong>Building a Peloton Clone with Xamarin.Forms Part 6: CollectionView - Workouts Page</strong></a> by <a href=\"https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A\">James Montemagno</a></p>",
+          "description_markdown": "Continuing on with more recordings from James' great live stream as he continues to work on the Xamarin clone of the Peloton app. In this stream, he looked at closing the workouts page using CollectionView!\r\n\r\n[**Building a Peloton Clone with Xamarin.Forms Part 6: CollectionView - Workouts Page**](https://www.youtube.com/watch?v=kpw8N-Yusvo) by [James Montemagno](https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A)",
+          "embedded_links": [
+            {
+              "identifier": "oRgBTkb",
+              "title": "**Building a Peloton Clone with Xamarin.Forms Part 6: CollectionView - Workouts Page**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=kpw8N-Yusvo"
+            },
+            {
+              "identifier": "QXDZa69",
+              "title": "James Montemagno",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A"
+            }
+          ]
+        },
+        {
+          "identifier": "KqAqFmq",
+          "type": "Link",
+          "title": "Contact Picker (Xamarin.Essentials API of the Week)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=LQa_zXuR1PI",
+          "description": "<p>Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Essential API of the week we take a look at Contact Picker, that allows your users to pick contacts from the devices contact app and get information about the contact.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=LQa_zXuR1PI\"><strong>Contact Picker (Xamarin.Essentials API of the Week)</strong></a></p>",
+          "description_markdown": "Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications. On this week's Essential API of the week we take a look at Contact Picker, that allows your users to pick contacts from the devices contact app and get information about the contact.\r\n\r\n[**Contact Picker (Xamarin.Essentials API of the Week)**](https://www.youtube.com/watch?v=LQa_zXuR1PI)",
+          "embedded_links": [
+            {
+              "identifier": "Ra7it0T",
+              "title": "**Contact Picker (Xamarin.Essentials API of the Week)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=LQa_zXuR1PI"
+            }
+          ]
+        },
+        {
+          "identifier": "7HUF9BF",
+          "type": "Link",
+          "title": "WeakEventManager To Stop Memory Leaks!",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-WeakEventManager-To-Stop-Memory-Leaks",
+          "description": "<p>In the same area as AsyncCommand and AsyncValueCommand, we also have the WeakEventManager and DelegateWeakEventManager in the Xamarin Community Toolkit. Don't worry about unsubscribing your events ever again and accidentally creating memory leaks.</p>\n\n<p>In this episode I am joined by Brandon Minnick, Senior Cloud Advocate at Microsoft who has implemented all of the above and loves to tell you everything about it.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-WeakEventManager-To-Stop-Memory-Leaks\"><strong>Xamarin Community Toolkit - WeakEventManager To Stop Memory Leaks!</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "In the same area as AsyncCommand and AsyncValueCommand, we also have the WeakEventManager and DelegateWeakEventManager in the Xamarin Community Toolkit. Don't worry about unsubscribing your events ever again and accidentally creating memory leaks.\r\n\r\nIn this episode I am joined by Brandon Minnick, Senior Cloud Advocate at Microsoft who has implemented all of the above and loves to tell you everything about it. \r\n\r\n[**Xamarin Community Toolkit - WeakEventManager To Stop Memory Leaks!**](https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-WeakEventManager-To-Stop-Memory-Leaks) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "kPVBKNS",
+              "title": "**Xamarin Community Toolkit - WeakEventManager To Stop Memory Leaks!**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Community-Toolkit-WeakEventManager-To-Stop-Memory-Leaks"
+            },
+            {
+              "identifier": "woYeqI1",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "7vB4AkW",
+          "type": "Link",
+          "title": "Mobile App Redesign For Developers Ep 20 - Prepping For v2.1 release of GitTrends",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=c5-M-FaIY7k",
+          "description": "<p>In this talk, you will help prepare the resources for the v2.1 release of GitTrends to the App Stores guided by our speakers Luis Pujols &amp; Brandon Minnick</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=c5-M-FaIY7k\"><strong>Mobile App Redesign For Developers Ep 20 - Prepping For v2.1 release of GitTrends</strong></a> by <a href=\"https://www.youtube.com/channel/UCy6mppDJXjYZtsiy2sETKvA\">dotnetdo</a></p>",
+          "description_markdown": "In this talk, you will help prepare the resources for the v2.1 release of GitTrends to the App Stores guided by our speakers Luis Pujols & Brandon Minnick\r\n\r\n[**Mobile App Redesign For Developers Ep 20 - Prepping For v2.1 release of GitTrends**](https://www.youtube.com/watch?v=c5-M-FaIY7k) by [dotnetdo](https://www.youtube.com/channel/UCy6mppDJXjYZtsiy2sETKvA)",
+          "embedded_links": [
+            {
+              "identifier": "BApRjTA",
+              "title": "**Mobile App Redesign For Developers Ep 20 - Prepping For v2.1 release of GitTrends**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=c5-M-FaIY7k"
+            },
+            {
+              "identifier": "uVsMlZy",
+              "title": "dotnetdo",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCy6mppDJXjYZtsiy2sETKvA"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

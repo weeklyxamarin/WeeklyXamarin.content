@@ -628,6 +628,16 @@
       "Website": "https://damian.fyi/"
     },
     {
+      "Name": "Damian Włodarczyk",
+      "Id": "https://twitter.com/wlodarczykdam",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/wlodarczykdam"
+        }
+      ]
+    },
+    {
       "Name": "Damien Aicheh",
       "TwitterHandle": "damienaicheh",
       "GitHubHandle": "damienaicheh",
@@ -934,6 +944,16 @@
       "GitHubHandle": "yuv4ik",
       "Id": "https://twitter.com/ezborovsky",
       "Website": "https://evgenyzborovsky.com/"
+    },
+    {
+      "Name": "Felipe Baltazar",
+      "Id": "https://twitter.com/felippebaltazar",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/felippebaltazar"
+        }
+      ]
     },
     {
       "Name": "Francois Raminosona",
