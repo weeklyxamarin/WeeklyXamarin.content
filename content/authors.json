@@ -1290,7 +1290,6 @@
           "Type": "blog",
           "Name": "http://jesseliberty.com"
         }
-
       ],
       "Website": "http://jesseliberty.me"
     },
@@ -2251,7 +2250,6 @@
           "Type": "blog",
           "Name": "https://www.xamboy.com/"
         }
-
       ],
       "Website": "https://xamboy.com/"
     },
@@ -2623,13 +2621,13 @@
       "TwitterHandle": "XamarinPodcast",
       "GitHubHandle": "",
       "Id": "https://twitter.com/XamarinPodcast",
-      "Website": "https://www.xamarinpodcast.com",
-      "Aliases":[
+      "Aliases": [
         {
           "Type": "blog",
           "Name": "http://www.xamarinpodcast.com"
         }
-      ]
+      ],
+      "Website": "https://www.xamarinpodcast.com"
     },
     {
       "Name": "The Xamarin Show",
