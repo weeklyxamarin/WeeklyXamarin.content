@@ -204,6 +204,20 @@
       "Website": "https://www.xmonkeys360.com/"
     },
     {
+      "Name": "András Tóth",
+      "Id": "https://www.linkedin.com/in/banditoth/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.linkedin.com/in/banditoth/"
+        },
+        {
+          "Type": "blog",
+          "Name": "https://www.banditoth.hu/"
+        }
+      ]
+    },
+    {
       "Name": "Andrea Chiarelli",
       "Id": "https://twitter.com/andychiare",
       "Aliases": [
@@ -1438,6 +1452,16 @@
       "Website": "https://www.julianocustodio.com"
     },
     {
+      "Name": "Kai Wilzer",
+      "Id": "https://de.linkedin.com/in/kaiwilzer",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://de.linkedin.com/in/kaiwilzer"
+        }
+      ]
+    },
+    {
       "Name": "Keith Harrison",
       "Id": "https://twitter.com/kharrison",
       "Aliases": [
@@ -2481,11 +2505,31 @@
       ]
     },
     {
+      "Name": "Shane Neuville",
+      "Id": "https://twitter.com/pureween",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/pureween"
+        }
+      ]
+    },
+    {
       "Name": "Sheharyar Shahid",
       "TwitterHandle": "sshary19",
       "GitHubHandle": "sshary019",
       "Id": "https://twitter.com/sshary19",
       "Website": "https://letsxamarin.com"
+    },
+    {
+      "Name": "Sheik Syed",
+      "Id": "https://www.syncfusion.com/blogs/author/sheiksyedmsyncfusion-com",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.syncfusion.com/blogs/author/sheiksyedmsyncfusion-com"
+        }
+      ]
     },
     {
       "Name": "Simon Bisson",
@@ -2744,11 +2788,11 @@
     },
     {
       "Name": "Tóth András",
-      "Id": "https://www.banditoth.hu/",
+      "Id": "https://www.linkedin.com/in/banditoth",
       "Aliases": [
         {
           "Type": "blog",
-          "Name": "https://www.banditoth.hu/"
+          "Name": "https://www.linkedin.com/in/banditoth"
         }
       ]
     },

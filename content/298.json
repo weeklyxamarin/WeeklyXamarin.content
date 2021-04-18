@@ -1,0 +1,164 @@
+{
+  "Id": "298",
+  "Name": "Issue 298",
+  "UpdatedTimeStamp": "2021-03-01T12:25:37Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Wow. These newsletters keep getting later and later. Sorry about that.  I'll be caught up when Ignite 2021 finishes. ;-) As always lots of great community content, but make sure you check out the video of David Ortinau and Maddy Leger talk about Maui and .NET 6. Have a great week everyone ♥ Kym",
+  "PublishDate": "2021-03-01T12:25:35Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Considerations for selecting fonts during iOS & Android development",
+      "Url": "https://prototypemakers.medium.com/selecting-fonts-ios-android-development-230664251328",
+      "Description": "Check the custom fonts used in your apps to avoid lawsuits",
+      "EditionId": "298",
+      "Author": "Saamer Mansoor",
+      "Id": "298-1",
+      "Category": "BUSINESS & MARKETING"
+    },
+    {
+      "Title": "Freeing up space for Xamarin Developers",
+      "Url": "https://dotnetco.de/clean-up-my-mac-and-free-space-for-xamarin-developers/",
+      "Description": "Sometimes we need to free up disk space, here you'll find lots of tips especially for Xamarin Developers.",
+      "EditionId": "298",
+      "Author": "Kai Wilzer",
+      "Id": "298-2",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Implementing Dark & Light Modes",
+      "Url": "https://trailheadtechnology.com/implementing-dark-light-modes-in-xamarin-forms-apps/",
+      "Description": "With modern mobile devices supporting both dark & light modes, users expect applications to respect those settings. Since Xamarin.Forms version 4.6.0.967, we can easily add support to our apps using the AppThemeBinding markup extension. In the blog, I will show you the most interesting parts needed to implement this functionality with a sample application.",
+      "EditionId": "298",
+      "Author": "Trailhead Technology",
+      "Id": "298-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Beautiful Tabs with Xamarin Community Toolkit TabView",
+      "Url": "https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit-tabview/",
+      "Description": "One of the hardest parts of apps to customize is the tab bar. With the TabView in the Xamarin Community Toolkit, we make this a breeze!",
+      "EditionId": "298",
+      "Author": "Gerald Versluis",
+      "Id": "298-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Prism Regions in Xamarin Forms",
+      "Url": "https://xamgirl.com/prism-regions-in-xamarin-forms/",
+      "Description": "In Prism 8.0, there is a feature called Regions, which gives us a lot of flexibility in handling different views on a page. Let Charlin explain.",
+      "EditionId": "298",
+      "Author": "Charlin Agramonte",
+      "Id": "298-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Bindable Property Snippet",
+      "Url": "https://www.banditoth.hu/2021/02/25/xamarin-forms-bindable-property-snippet-for-visual-studio/",
+      "Description": "Use bprop to generate commands in ViewModels with this snippet.",
+      "EditionId": "298",
+      "Author": "András Tóth",
+      "Id": "298-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Display your Location in OpenStreetMaps",
+      "Url": "https://www.syncfusion.com/blogs/post/how-to-display-current-gps-location-in-osm-maps-using-xamarin-essentials.aspx",
+      "Description": "The Syncfusion Maps control for Xamarin has built-in support for external imagery services like OpenStreetMap (OSM) and Bing Maps to visualize satellite, aerial, street, and other map imagery tiles without using shapefiles.",
+      "EditionId": "298",
+      "Author": "Sheik Syed",
+      "Id": "298-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin App Themes",
+      "Url": "https://mikegrant.org.uk/2021/02/22/xamarin-lets-build-app-theme.html",
+      "Description": "The theme of your app is what makes it stand out, fit in with your brand identity and create a lasting impression. With Xamarin.Forms it's simple to implement multiple themes and styles, and then use them throughout your application.",
+      "EditionId": "298",
+      "Author": "Mike Grant",
+      "Id": "298-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Push Notifications in Xamarin Forms",
+      "Url": "https://www.telerik.com/blogs/how-to-use-push-notifications-xamarin-forms",
+      "Description": "Let's learn how to implement push notifications using Xamarin Forms.",
+      "EditionId": "298",
+      "Author": "Leomaris Reyes",
+      "Id": "298-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms 5.0 on Microsoft Surface Duo",
+      "Url": "https://devblogs.microsoft.com/surface-duo/xamarin-forms-5-twopaneview",
+      "Description": "Craig and Shane talk about developing dual-screen apps for Surface Duo using Xamarin. There are some new features to talk about with the release of Xamarin.Forms 5.0.",
+      "EditionId": "298",
+      "Author": "Shane Neuville",
+      "Id": "298-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "The future of native app development in .NET 6",
+      "Url": "https://www.youtube.com/watch?v=mZRNjixZEMg&t=32330s",
+      "Description": "What is the future of Maui and .NET 6 for native apps, tune in to this segment at .NET Conf 2021 - Focus on Windows to find out more.",
+      "EditionId": "298",
+      "Author": "Maddy Leger",
+      "Id": "298-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Turn any Event into a Command",
+      "Url": "https://www.youtube.com/watch?v=7mpe_1okwxk",
+      "Description": "In the final chapter of fully MVVMifying the ListView we are going to take a look at turning events into commands using the Xamarin Community Toolkit! This is a great way to get rid of all of those nasty events or weird data bindings and just call a simple Command!",
+      "EditionId": "298",
+      "Author": "James Montemagno",
+      "Id": "298-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Scan Barcode from Image in Xamarin.Forms with Firebase ML Kit",
+      "Url": "https://www.youtube.com/watch?v=sAj9LiCAGlQ",
+      "Description": "The most obvious scenario is to scan a barcode through a camera, but what if you have an image that contains a barcode and you want to recognize that? In this video we will learn how to use Firebase ML Kit through the BarcodeScanner.XF library to do just that.",
+      "EditionId": "298",
+      "Author": "Gerald Versluis",
+      "Id": "298-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 242: Mac Backups, Store Promotion, & Multi-Window Apps with SceneDelegate",
+      "Url": "https://www.mergeconflict.fm/242",
+      "Description": "No topic is off limits this week as we talk about testing IAP on mac with mac backups, awesome store promotions coming Frank's way and how to build awesome multi-window apps for macOS and iOS and the new SceneDelegate.",
+      "EditionId": "298",
+      "Author": "Merge Conflict",
+      "Id": "298-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 41: Being Productive",
+      "Url": "https://nullpointers.io/41/",
+      "Description": "A question we get asked is: how do you have time to do all these things?! Spoiler alert: we have no clue! But we have opinions, tips, points (get it...?) and bad jokes, so we're going to talk about how to be productive and not get distract... Is that a unicorn?!",
+      "EditionId": "298",
+      "Author": "Null Pointers",
+      "Id": "298-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 57: MvvmCross with Tomasz Cielecki",
+      "Url": "https://kerry.lothrop.de/devtalk-57-tomasz-cielecki/",
+      "Description": "On this episode of DevTalk Kerry speaks to Tomasz Cielecki aka Cheesebaron about his work on the MvvmCross project and what's coming up in MvvmCross 8.",
+      "EditionId": "298",
+      "Author": "Kerry Lothrop",
+      "Id": "298-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Web APIs for Xamarin Developers",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Web-APIs-for-Xamarin-Developers--The-Xamarin-Show",
+      "Description": "This week, James is joined Brady Gaster who is here to talk to use all ASP.NET Core Web API and why it is absolutely awesome for mobile development with Xamarin. He walks us through some best practices, new features, and awesome libraries that we can use to create powerful backends for our apps.",
+      "EditionId": "298",
+      "Author": "The Xamarin Show",
+      "Id": "298-17",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

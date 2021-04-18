@@ -1,0 +1,467 @@
+{
+  "number": 298,
+  "title": "Issue 298",
+  "summary": null,
+  "url": "https://weeklyxamarin.com/issues/298",
+  "publication_status": "published",
+  "published_at": "2021-03-01T12:25:35+00:00",
+  "updated_at": "2021-03-01T12:25:37+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Wow. These newsletters keep getting later and later. Sorry about that.  I'll be caught up when Ignite 2021 finishes. ;-)</p>\n\n<p>As always lots of great community content, but make sure you check out the video of David Ortinau and Maddy Leger talk about Maui and .NET 6.</p>\n\n<p>Have a great week everyone</p>\n\n<p>♥</p>\n\n<p>Kym</p>",
+          "description_markdown": "Wow. These newsletters keep getting later and later. Sorry about that.  I'll be caught up when Ignite 2021 finishes. ;-)\r\n\r\nAs always lots of great community content, but make sure you check out the video of David Ortinau and Maddy Leger talk about Maui and .NET 6.\r\n\r\nHave a great week everyone\r\n\r\n♥\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "businessandmarketing",
+      "name": "BUSINESS & MARKETING",
+      "items": [
+        {
+          "identifier": "ebIxy0D",
+          "type": "Link",
+          "title": "Considerations for selecting fonts during iOS & Android development",
+          "url_domain": "medium.com",
+          "url": "https://prototypemakers.medium.com/selecting-fonts-ios-android-development-230664251328",
+          "description": "<p>Check the custom fonts used in your apps to avoid lawsuits</p>\n\n<p><a href=\"https://prototypemakers.medium.com/selecting-fonts-ios-android-development-230664251328\"><strong>Considerations for selecting fonts during iOS &amp; Android development</strong></a> by <a href=\"https://twitter.com/saamerm\">Saamer Mansoor</a></p>",
+          "description_markdown": "Check the custom fonts used in your apps to avoid lawsuits\r\n\r\n[**Considerations for selecting fonts during iOS & Android development**](https://prototypemakers.medium.com/selecting-fonts-ios-android-development-230664251328) by [Saamer Mansoor](https://twitter.com/saamerm)",
+          "embedded_links": [
+            {
+              "identifier": "D1w0VNt",
+              "title": "**Considerations for selecting fonts during iOS & Android development**",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com/selecting-fonts-ios-android-development-230664251328"
+            },
+            {
+              "identifier": "JHmuNjX",
+              "title": "Saamer Mansoor",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/saamerm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "76cIZsl",
+          "type": "Link",
+          "title": "Freeing up space for Xamarin Developers",
+          "url_domain": "dotnetco.de",
+          "url": "https://dotnetco.de/clean-up-my-mac-and-free-space-for-xamarin-developers/",
+          "description": "<p>Sometimes we need to free up disk space, here you'll find lots of tips especially for Xamarin Developers.</p>\n\n<p><a href=\"https://dotnetco.de/clean-up-my-mac-and-free-space-for-xamarin-developers/\"><strong>Clean up my mac and free space for Xamarin Developers - dotnetco.de</strong></a> by <a href=\"https://de.linkedin.com/in/kaiwilzer\">Kai Wilzer</a></p>",
+          "description_markdown": "Sometimes we need to free up disk space, here you'll find lots of tips especially for Xamarin Developers.\r\n\r\n[**Clean up my mac and free space for Xamarin Developers - dotnetco.de**](https://dotnetco.de/clean-up-my-mac-and-free-space-for-xamarin-developers/) by [Kai Wilzer](https://de.linkedin.com/in/kaiwilzer)",
+          "embedded_links": [
+            {
+              "identifier": "vcpnqmU",
+              "title": "**Clean up my mac and free space for Xamarin Developers - dotnetco.de**",
+              "url_domain": "dotnetco.de",
+              "url": "https://dotnetco.de/clean-up-my-mac-and-free-space-for-xamarin-developers/"
+            },
+            {
+              "identifier": "q4ZENUF",
+              "title": "Kai Wilzer",
+              "url_domain": "linkedin.com",
+              "url": "https://de.linkedin.com/in/kaiwilzer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "XmvK809",
+          "type": "Link",
+          "title": "Implementing Dark & Light Modes",
+          "url_domain": "trailheadtechnology.com",
+          "url": "https://trailheadtechnology.com/implementing-dark-light-modes-in-xamarin-forms-apps/",
+          "description": "<p>With modern mobile devices supporting both dark &amp; light modes, users expect applications to respect those settings. Since Xamarin.Forms version 4.6.0.967, we can easily add support to our apps using the AppThemeBinding markup extension. In the blog, I will show you the most interesting parts needed to implement this functionality with a sample application.</p>\n\n<p><a href=\"https://trailheadtechnology.com/implementing-dark-light-modes-in-xamarin-forms-apps/\"><strong>Implementing Dark &amp; Light Modes in Xamarin.Forms Apps</strong></a> by <a href=\"https://twitter.com/@TrailheadTec\">Trailhead Technology</a></p>",
+          "description_markdown": "With modern mobile devices supporting both dark & light modes, users expect applications to respect those settings. Since Xamarin.Forms version 4.6.0.967, we can easily add support to our apps using the AppThemeBinding markup extension. In the blog, I will show you the most interesting parts needed to implement this functionality with a sample application.\r\n\r\n[**Implementing Dark & Light Modes in Xamarin.Forms Apps**](https://trailheadtechnology.com/implementing-dark-light-modes-in-xamarin-forms-apps/) by [Trailhead Technology](https://twitter.com/@TrailheadTec)",
+          "embedded_links": [
+            {
+              "identifier": "7eounXJ",
+              "title": "**Implementing Dark & Light Modes in Xamarin.Forms Apps**",
+              "url_domain": "trailheadtechnology.com",
+              "url": "https://trailheadtechnology.com/implementing-dark-light-modes-in-xamarin-forms-apps/"
+            },
+            {
+              "identifier": "YJhbyQg",
+              "title": "Trailhead Technology",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/@TrailheadTec"
+            }
+          ]
+        },
+        {
+          "identifier": "snLr3mx",
+          "type": "Link",
+          "title": "Beautiful Tabs with Xamarin Community Toolkit TabView",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit-tabview/",
+          "description": "<p>One of the hardest parts of apps to customize is the tab bar. With the TabView in the Xamarin Community Toolkit, we make this a breeze!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit-tabview/\"><strong>Beautiful Tabs with Xamarin Community Toolkit TabView | Xamarin Blog</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "One of the hardest parts of apps to customize is the tab bar. With the TabView in the Xamarin Community Toolkit, we make this a breeze!\r\n\r\n[**Beautiful Tabs with Xamarin Community Toolkit TabView | Xamarin Blog**](https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit-tabview/) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "dc6TO4h",
+              "title": "**Beautiful Tabs with Xamarin Community Toolkit TabView | Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-community-toolkit-tabview/"
+            },
+            {
+              "identifier": "SGZLeEj",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "Lme9RMI",
+          "type": "Link",
+          "title": "Prism Regions in Xamarin Forms",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/prism-regions-in-xamarin-forms/",
+          "description": "<p>In Prism 8.0, there is a feature called Regions, which gives us a lot of flexibility in handling different views on a page. Let Charlin explain.</p>\n\n<p><a href=\"https://xamgirl.com/prism-regions-in-xamarin-forms/\"><strong>Prism Regions in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "In Prism 8.0, there is a feature called Regions, which gives us a lot of flexibility in handling different views on a page. Let Charlin explain.\r\n\r\n[**Prism Regions in Xamarin Forms**](https://xamgirl.com/prism-regions-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "OAhqGut",
+              "title": "**Prism Regions in Xamarin Forms**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/prism-regions-in-xamarin-forms/"
+            },
+            {
+              "identifier": "hrYUsHA",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "o2jx7EC",
+          "type": "Link",
+          "title": "Bindable Property Snippet",
+          "url_domain": "banditoth.hu",
+          "url": "https://www.banditoth.hu/2021/02/25/xamarin-forms-bindable-property-snippet-for-visual-studio/",
+          "description": "<p>Use bprop to generate commands in ViewModels with this snippet.</p>\n\n<p><a href=\"https://www.banditoth.hu/2021/02/25/xamarin-forms-bindable-property-snippet-for-visual-studio/\"><strong>Xamarin.Forms: Bindable Property snippet for Visual Studio</strong></a> by <a href=\"https://www.linkedin.com/in/banditoth/\">András Tóth</a></p>",
+          "description_markdown": "Use bprop to generate commands in ViewModels with this snippet.\r\n\r\n[**Xamarin.Forms: Bindable Property snippet for Visual Studio**](https://www.banditoth.hu/2021/02/25/xamarin-forms-bindable-property-snippet-for-visual-studio/) by [András Tóth](https://www.linkedin.com/in/banditoth/)",
+          "embedded_links": [
+            {
+              "identifier": "9zuDoJJ",
+              "title": "**Xamarin.Forms: Bindable Property snippet for Visual Studio**",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/2021/02/25/xamarin-forms-bindable-property-snippet-for-visual-studio/"
+            },
+            {
+              "identifier": "4E1OPcq",
+              "title": "András Tóth",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/banditoth/"
+            }
+          ]
+        },
+        {
+          "identifier": "PgV9He2",
+          "type": "Link",
+          "title": "Display your Location in OpenStreetMaps",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/how-to-display-current-gps-location-in-osm-maps-using-xamarin-essentials.aspx",
+          "description": "<p>The Syncfusion Maps control for Xamarin has built-in support for external imagery services like OpenStreetMap (OSM) and Bing Maps to visualize satellite, aerial, street, and other map imagery tiles without using shapefiles.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/how-to-display-current-gps-location-in-osm-maps-using-xamarin-essentials.aspx\"><strong>How to Display Current GPS Location in OSM Maps Using Xamarin.Essentials</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/sheiksyedmsyncfusion-com\">Sheik Syed</a></p>",
+          "description_markdown": "The Syncfusion Maps control for Xamarin has built-in support for external imagery services like OpenStreetMap (OSM) and Bing Maps to visualize satellite, aerial, street, and other map imagery tiles without using shapefiles. \r\n\r\n[**How to Display Current GPS Location in OSM Maps Using Xamarin.Essentials**](https://www.syncfusion.com/blogs/post/how-to-display-current-gps-location-in-osm-maps-using-xamarin-essentials.aspx) by [Sheik Syed](https://www.syncfusion.com/blogs/author/sheiksyedmsyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "J41vA7N",
+              "title": "**How to Display Current GPS Location in OSM Maps Using Xamarin.Essentials**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/how-to-display-current-gps-location-in-osm-maps-using-xamarin-essentials.aspx"
+            },
+            {
+              "identifier": "A1SWg0l",
+              "title": "Sheik Syed",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/sheiksyedmsyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "DbqLRzR",
+          "type": "Link",
+          "title": "Xamarin App Themes",
+          "url_domain": "mikegrant.org.uk",
+          "url": "https://mikegrant.org.uk/2021/02/22/xamarin-lets-build-app-theme.html",
+          "description": "<p>The theme of your app is what makes it stand out, fit in with your brand identity and create a lasting impression. With Xamarin.Forms it's simple to implement multiple themes and styles, and then use them throughout your application.</p>\n\n<p><a href=\"https://mikegrant.org.uk/2021/02/22/xamarin-lets-build-app-theme.html\"><strong>Xamarin Let's Build - App Themes</strong></a> by <a href=\"https://twitter.com/mike_grant_\">Mike Grant</a></p>",
+          "description_markdown": "The theme of your app is what makes it stand out, fit in with your brand identity and create a lasting impression. With Xamarin.Forms it's simple to implement multiple themes and styles, and then use them throughout your application.\r\n\r\n[**Xamarin Let's Build - App Themes**](https://mikegrant.org.uk/2021/02/22/xamarin-lets-build-app-theme.html) by [Mike Grant](https://twitter.com/mike_grant_)",
+          "embedded_links": [
+            {
+              "identifier": "fOCKzfD",
+              "title": "**Xamarin Let's Build - App Themes**",
+              "url_domain": "mikegrant.org.uk",
+              "url": "https://mikegrant.org.uk/2021/02/22/xamarin-lets-build-app-theme.html"
+            },
+            {
+              "identifier": "tEnvOVG",
+              "title": "Mike Grant",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mike_grant_"
+            }
+          ]
+        },
+        {
+          "identifier": "pNpNrHA",
+          "type": "Link",
+          "title": "Push Notifications in Xamarin Forms",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/how-to-use-push-notifications-xamarin-forms",
+          "description": "<p>Let's learn how to implement push notifications using Xamarin Forms.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/how-to-use-push-notifications-xamarin-forms\"><strong>How to Use Push Notifications in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Let's learn how to implement push notifications using Xamarin Forms.\r\n\r\n[**How to Use Push Notifications in Xamarin Forms**](https://www.telerik.com/blogs/how-to-use-push-notifications-xamarin-forms) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "YDwNccl",
+              "title": "**How to Use Push Notifications in Xamarin Forms**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/how-to-use-push-notifications-xamarin-forms"
+            },
+            {
+              "identifier": "SLR6WQ5",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "jQbkDRK",
+          "type": "Link",
+          "title": "Xamarin.Forms 5.0 on Microsoft Surface Duo",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/surface-duo/xamarin-forms-5-twopaneview",
+          "description": "<p>Craig and Shane talk about developing dual-screen apps for Surface Duo using Xamarin. There are some new features to talk about with the release of Xamarin.Forms 5.0.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/surface-duo/xamarin-forms-5-twopaneview\"><strong>Xamarin.Forms 5.0 on Microsoft Surface Duo</strong></a> by <a href=\"https://twitter.com/PureWeen\">Shane Neuville</a></p>",
+          "description_markdown": "Craig and Shane talk about developing dual-screen apps for Surface Duo using Xamarin. There are some new features to talk about with the release of Xamarin.Forms 5.0.\r\n\r\n[**Xamarin.Forms 5.0 on Microsoft Surface Duo**](https://devblogs.microsoft.com/surface-duo/xamarin-forms-5-twopaneview) by [Shane Neuville](https://twitter.com/PureWeen)",
+          "embedded_links": [
+            {
+              "identifier": "BZLUxJn",
+              "title": "**Xamarin.Forms 5.0 on Microsoft Surface Duo**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/surface-duo/xamarin-forms-5-twopaneview"
+            },
+            {
+              "identifier": "C2g9qlT",
+              "title": "Shane Neuville",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/PureWeen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "LipXH5n",
+          "type": "Link",
+          "title": "The future of native app development in .NET 6",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=mZRNjixZEMg&t=32330s",
+          "description": "<p>What is the future of Maui and .NET 6 for native apps, tune in to this segment at .NET Conf 2021 - Focus on Windows to find out more.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=mZRNjixZEMg&amp;t=32330s\"><strong>.NET Conf 2021 - Focus on Windows</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a> and <a href=\"https://twitter.com/maddyleger1\">Maddy Leger</a></p>",
+          "description_markdown": "What is the future of Maui and .NET 6 for native apps, tune in to this segment at .NET Conf 2021 - Focus on Windows to find out more.\r\n\r\n[**.NET Conf 2021 - Focus on Windows**](https://www.youtube.com/watch?v=mZRNjixZEMg&t=32330s) by [David Ortinau](https://twitter.com/davidortinau) and [Maddy Leger](https://twitter.com/maddyleger1)\r\n\r\n",
+          "embedded_links": [
+            {
+              "identifier": "M7D2C2u",
+              "title": "**.NET Conf 2021 - Focus on Windows**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=mZRNjixZEMg&t=32330s"
+            },
+            {
+              "identifier": "qgK3liZ",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            },
+            {
+              "identifier": "y2xtGRB",
+              "title": "Maddy Leger",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/maddyleger1"
+            }
+          ]
+        },
+        {
+          "identifier": "uIpY6vd",
+          "type": "Link",
+          "title": "Turn any Event into a Command",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=7mpe_1okwxk",
+          "description": "<p>In the final chapter of fully MVVMifying the ListView we are going to take a look at turning events into commands using the Xamarin Community Toolkit! This is a great way to get rid of all of those nasty events or weird data bindings and just call a simple Command!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=7mpe_1okwxk\"><strong>Turn any Event into a Command in Xamarin.Forms (MVVM All The Things)</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "In the final chapter of fully MVVMifying the ListView we are going to take a look at turning events into commands using the Xamarin Community Toolkit! This is a great way to get rid of all of those nasty events or weird data bindings and just call a simple Command!\r\n\r\n[**Turn any Event into a Command in Xamarin.Forms (MVVM All The Things)**](https://www.youtube.com/watch?v=7mpe_1okwxk) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "hos3na7",
+              "title": "**Turn any Event into a Command in Xamarin.Forms (MVVM All The Things)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=7mpe_1okwxk"
+            },
+            {
+              "identifier": "rf5wo8A",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "L91CBra",
+          "type": "Link",
+          "title": "Scan Barcode from Image in Xamarin.Forms with Firebase ML Kit",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=sAj9LiCAGlQ",
+          "description": "<p>The most obvious scenario is to scan a barcode through a camera, but what if you have an image that contains a barcode and you want to recognize that? In this video we will learn how to use Firebase ML Kit through the BarcodeScanner.XF library to do just that.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=sAj9LiCAGlQ\"><strong>Scan Barcode from Image in Xamarin.Forms with Firebase ML Kit</strong></a> by <a href=\"https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw\">Gerald Versluis</a></p>",
+          "description_markdown": "The most obvious scenario is to scan a barcode through a camera, but what if you have an image that contains a barcode and you want to recognize that? In this video we will learn how to use Firebase ML Kit through the BarcodeScanner.XF library to do just that.\r\n\r\n[**Scan Barcode from Image in Xamarin.Forms with Firebase ML Kit**](https://www.youtube.com/watch?v=sAj9LiCAGlQ) by [Gerald Versluis](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw)",
+          "embedded_links": [
+            {
+              "identifier": "JKI0d6J",
+              "title": "**Scan Barcode from Image in Xamarin.Forms with Firebase ML Kit**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=sAj9LiCAGlQ"
+            },
+            {
+              "identifier": "vDsuQiE",
+              "title": "Gerald Versluis",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw"
+            }
+          ]
+        },
+        {
+          "identifier": "HpSpmz1",
+          "type": "Link",
+          "title": "Merge Conflict: 242: Mac Backups, Store Promotion, & Multi-Window Apps with SceneDelegate",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/242",
+          "description": "<p>No topic is off limits this week as we talk about testing IAP on mac with mac backups, awesome store promotions coming Frank's way and how to build awesome multi-window apps for macOS and iOS and the new SceneDelegate.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/242\"><strong>Merge Conflict: 242: Mac Backups, Store Promotion, &amp; Multi-Window Apps with SceneDelegate</strong></a> by <a href=\"https://www.mergeconflict.fm\">Merge Conflict</a></p>",
+          "description_markdown": "No topic is off limits this week as we talk about testing IAP on mac with mac backups, awesome store promotions coming Frank's way and how to build awesome multi-window apps for macOS and iOS and the new SceneDelegate.\r\n\r\n[**Merge Conflict: 242: Mac Backups, Store Promotion, & Multi-Window Apps with SceneDelegate**](https://www.mergeconflict.fm/242) by [Merge Conflict](https://www.mergeconflict.fm)",
+          "embedded_links": [
+            {
+              "identifier": "sir4RbW",
+              "title": "**Merge Conflict: 242: Mac Backups, Store Promotion, & Multi-Window Apps with SceneDelegate**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/242"
+            },
+            {
+              "identifier": "VltdtKP",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm"
+            }
+          ]
+        },
+        {
+          "identifier": "xaXMbkq",
+          "type": "Link",
+          "title": "Null Pointers 41: Being Productive",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/41/",
+          "description": "<p>A question we get asked is: how do you have time to do all these things?! Spoiler alert: we have no clue! But we have opinions, tips, points (get it...?) and bad jokes, so we're going to talk about how to be productive and not get distract... Is that a unicorn?!</p>\n\n<p><a href=\"https://nullpointers.io/41/\"><strong>Null Pointers 41: Being Productive</strong></a> by <a href=\"https://nullpointers.io\">Null Pointers</a></p>",
+          "description_markdown": "A question we get asked is: how do you have time to do all these things?! Spoiler alert: we have no clue! But we have opinions, tips, points (get it...?) and bad jokes, so we're going to talk about how to be productive and not get distract... Is that a unicorn?!\r\n\r\n[**Null Pointers 41: Being Productive**](https://nullpointers.io/41/) by [Null Pointers](https://nullpointers.io)",
+          "embedded_links": [
+            {
+              "identifier": "BeRsXsw",
+              "title": "**Null Pointers 41: Being Productive**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/41/"
+            },
+            {
+              "identifier": "jQZeSEL",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io"
+            }
+          ]
+        },
+        {
+          "identifier": "zztwJkl",
+          "type": "Link",
+          "title": "DevTalk 57: MvvmCross with Tomasz Cielecki",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-57-tomasz-cielecki/",
+          "description": "<p>On this episode of DevTalk Kerry speaks to Tomasz Cielecki aka Cheesebaron about his work on the MvvmCross project and what's coming up in MvvmCross 8.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-57-tomasz-cielecki/\"><strong>57: MvvmCross. With Tomasz Cielecki</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk Kerry speaks to Tomasz Cielecki aka Cheesebaron about his work on the MvvmCross project and what's coming up in MvvmCross 8.\r\n\r\n[**57: MvvmCross. With Tomasz Cielecki**](https://kerry.lothrop.de/devtalk-57-tomasz-cielecki/) by [Kerry Lothrop](https://twitter.com/kwlothrop)",
+          "embedded_links": [
+            {
+              "identifier": "pl5IVsZ",
+              "title": "**57: MvvmCross. With Tomasz Cielecki**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-57-tomasz-cielecki/"
+            },
+            {
+              "identifier": "Xs1SyqF",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        },
+        {
+          "identifier": "LYE5u0S",
+          "type": "Link",
+          "title": "Web APIs for Xamarin Developers",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Web-APIs-for-Xamarin-Developers--The-Xamarin-Show",
+          "description": "<p>This week, James is joined Brady Gaster who is here to talk to use all ASP.NET Core Web API and why it is absolutely awesome for mobile development with Xamarin. He walks us through some best practices, new features, and awesome libraries that we can use to create powerful backends for our apps.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Web-APIs-for-Xamarin-Developers--The-Xamarin-Show\"><strong>Web APIs for Xamarin Developers | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "This week, James is joined Brady Gaster who is here to talk to use all ASP.NET Core Web API and why it is absolutely awesome for mobile development with Xamarin. He walks us through some best practices, new features, and awesome libraries that we can use to create powerful backends for our apps.\r\n\r\n[**Web APIs for Xamarin Developers | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Web-APIs-for-Xamarin-Developers--The-Xamarin-Show) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "Lr9Y6R2",
+              "title": "**Web APIs for Xamarin Developers | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Web-APIs-for-Xamarin-Developers--The-Xamarin-Show"
+            },
+            {
+              "identifier": "Jh6mK1C",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "type": "Text",
+          "title": "Xamarin Monkey in Space Suit",
+          "description": "<p>(photo by Craig Dunn)</p>",
+          "description_markdown": "(photo by Craig Dunn)",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "e9204f04-551b-45d3-9964-181e3cae4f34.png",
+          "image_extra_large_filename": "original_ratio_extra_large_e9204f04-551b-45d3-9964-181e3cae4f34.png",
+          "image_medium_filename": "original_ratio_medium_e9204f04-551b-45d3-9964-181e3cae4f34.png"
+        }
+      ]
+    }
+  ]
+}
