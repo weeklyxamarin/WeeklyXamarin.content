@@ -177,6 +177,16 @@
       "Website": "https://almirvuk.com/"
     },
     {
+      "Name": "Altevir Cardoso Neto",
+      "Id": "https://twitter.com/altevirneto",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/altevirneto"
+        }
+      ]
+    },
+    {
       "Name": "Alyson La",
       "Id": "https://github.blog/author/alysonla/",
       "Aliases": [
@@ -1566,6 +1576,16 @@
       ]
     },
     {
+      "Name": "Klaudia Bronowicka",
+      "Id": "https://twitter.com/k_bronowicka",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/k_bronowicka"
+        }
+      ]
+    },
+    {
       "Name": "Kodjo Laurent Egbakou",
       "TwitterHandle": "lioncoding",
       "GitHubHandle": "egbakou",
@@ -2297,6 +2317,16 @@
       ]
     },
     {
+      "Name": "Rachel Kang",
+      "Id": "https://github.com/rachelkang",
+      "Aliases": [
+        {
+          "Type": "github",
+          "Name": "https://github.com/rachelkang"
+        }
+      ]
+    },
+    {
       "Name": "Rafael Veronezi",
       "Id": "https://github.com/ravero",
       "Aliases": [
@@ -2313,6 +2343,16 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/rahulushah"
+        }
+      ]
+    },
+    {
+      "Name": "Rakeshkumar Desai",
+      "Id": "https://twitter.com/rakeshkumar_des",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/rakeshkumar_des"
         }
       ]
     },

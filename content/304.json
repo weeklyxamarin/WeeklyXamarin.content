@@ -1,0 +1,272 @@
+{
+  "Id": "304",
+  "Name": "Issue 304",
+  "UpdatedTimeStamp": "2021-04-25T13:15:23Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Sorry to have another late edition. My only excuse is that I've started blogging again. ;-) So this is a massive issue full of great content, hopefully enough to get you through the week ahead.",
+  "PublishDate": "2021-04-25T13:15:22Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Marvel Heroes Design",
+      "Url": "https://github.com/Altevir/xamarinforms-marvelheroes",
+      "Description": "For those of you into UI Design implementations, check out this nice Marvel Super Hero design in Xamarin.Forms",
+      "EditionId": "304",
+      "Author": "Altevir Cardoso Neto",
+      "Id": "304-1",
+      "Category": "CODE"
+    },
+    {
+      "Title": "The Journey to Accessible Apps ",
+      "Url": "https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps",
+      "Description": "It is always the right time to make your apps more inclusive. Get started on your journey to developing inclusive apps today.",
+      "EditionId": "304",
+      "Author": "Rachel Kang",
+      "Id": "304-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "5 Rules for Designing App Get More Referrals",
+      "Url": "https://www.telerik.com/blogs/5-rules-for-designing-app-get-more-referrals",
+      "Description": "In this post, we'll explore what you can do as a designer to get more users to first locate your referral program details and then share it with others.",
+      "EditionId": "304",
+      "Author": "Suzanne Scacca",
+      "Id": "304-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "How to Design a Great App Icon: What You Need to Know",
+      "Url": "https://www.shopify.ie/partners/blog/app-icon",
+      "Description": "Learn how to create the perfect app icon, from design considerations to the tools you need, to the building process.",
+      "EditionId": "304",
+      "Author": "Michael Flarup",
+      "Id": "304-4",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Xamarin Tools to use in 2021",
+      "Url": "https://kymphillpotts.com/xamarin-tools-2021.html",
+      "Description": "Choosing the right tools and resources can make all the difference in being a productive and effective developer. So, what are all the tools and libraries you should be using to build your Xamarin apps in 2021?",
+      "EditionId": "304",
+      "Author": "Kym Phillpotts",
+      "Id": "304-5",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Universal AppLinks on iOS",
+      "Url": "https://blog.ostebaronen.dk/2021/04/ios-applinks.html",
+      "Description": "I was lucky to be tasked to get Universal AppLinks working, for a cool feature in the TrackMan Golf App I work on at work. I thought this would be super easy to do. But, oh how naive and wrong I was.",
+      "EditionId": "304",
+      "Author": "Tomasz Cielecki",
+      "Id": "304-6",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Adventures in ARKit - image detection",
+      "Url": "https://www.davidbritch.com/2021/04/adventures-in-arkit-image-detection.html",
+      "Description": "David continues his exploration of ARKit, this time focusing on image detection.",
+      "EditionId": "304",
+      "Author": "David Britch",
+      "Id": "304-7",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Download Data Streams to a File in the Background with Xamarin iOS",
+      "Url": "https://doumer.me/download-data-streams-to-a-file-in-the-background-with-xamarin-ios/",
+      "Description": "How to Download Data Streams to a File in the Background with Xamarin iOS using, notify progress handle errors etc",
+      "EditionId": "304",
+      "Author": "Damien Doumer",
+      "Id": "304-8",
+      "Category": "IOS"
+    },
+    {
+      "Title": "How to fix: Visual Studio for Mac: No SDK found at specified location?",
+      "Url": "https://almirvuk.com/how-to-fix-visual-studio-for-mac-no-sdk-found-at-specified-location/",
+      "Description": "If you have seen the error on your Mac which says: \"No SDK found at specified location\" you might want to try these suggestions.",
+      "EditionId": "304",
+      "Author": "Almir Vuk",
+      "Id": "304-9",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Understanding iOS Image Assets",
+      "Url": "https://www.mfractor.com/blogs/news/understanding-ios-image-assets",
+      "Description": "When developing apps you'll come to the point where you'll need to deal with image assets. No matter how crudiest the UI could be, you'll probably need some icons or small image resources to compose your layouts. In this post we'll explore how image assets works on iOS.",
+      "EditionId": "304",
+      "Author": "Rafael Veronezi",
+      "Id": "304-10",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Calling methods in your View from your ViewModel using Action-Invokes",
+      "Url": "https://prototypemakers.medium.com/calling-methods-in-your-view-from-your-viewmodel-using-action-invokes-e18682d7d95c",
+      "Description": "Executing ViewModel methods from Xamarin Forms Pages is easy, but how can Page methods be called inside ViewModels?",
+      "EditionId": "304",
+      "Author": "Saamer Mansoor",
+      "Id": "304-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Replicating a Facebook Like UI in Xamarin",
+      "Url": "https://www.syncfusion.com/blogs/post/replicating-a-facebook-like-ui-in-xamarin.aspx",
+      "Description": "In this blog post, we'll be replicating a Facebook UI in Xamarin.Forms. The Facebook app contains some basic modules like a login page, timeline/wall page, profile page, and some other pages for modifying the settings and creating commercial pages.",
+      "EditionId": "304",
+      "Author": "Selva Ganapathy Kathiresan",
+      "Id": "304-12",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Are You Starting Xamarin Forms? Let's Create a Simple UI",
+      "Url": "https://www.telerik.com/blogs/are-you-starting-xamarin-forms-lets-create-simple-ui",
+      "Description": "Let's create a simple UI together, refining our XAML skills and practicing navigating Xamarin Forms.",
+      "EditionId": "304",
+      "Author": "Leomaris Reyes",
+      "Id": "304-13",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Selectable text with no context menu in Xamarin Forms",
+      "Url": "https://klaudiabronowicka.com/blog/selectable-text-with-no-context-menu-in-xamarin-forms/",
+      "Description": "Custom control to allow the user to select parts of the text without displaying the context menu (with options to copy, select all etc.).",
+      "EditionId": "304",
+      "Author": "Klaudia Bronowicka",
+      "Id": "304-14",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Getting Started With .NET Maui - First Impressions",
+      "Url": "https://www.c-sharpcorner.com/article/getting-started-with-net-maui-first-impressions/a",
+      "Description": "A simple walk through of getting your first Maui application built and running.",
+      "EditionId": "304",
+      "Author": "Rakeshkumar Desai",
+      "Id": "304-15",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Step-by-Step Guide To Building .NET Multi-platform App (MAUI)",
+      "Url": "https://www.msdevbuild.com/2021/04/Step-by-Step-Guide-To-Building-NET-Multi-platform-App-using-Visual-Studio-2019.html",
+      "Description": "In this article, Suthahar explains how to create your first hello world app using the MAUI application.",
+      "EditionId": "304",
+      "Author": "Suthahar Jegatheesan",
+      "Id": "304-16",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #5",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-5",
+      "Description": "Episode 5 of this excellent MAUI updates blog.  Welcome to the Sands of Maui-newsletter style issues dedicated to bringing together latest .NET MAUI content relevant to developers.",
+      "EditionId": "304",
+      "Author": "Sam Basu",
+      "Id": "304-17",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Implement Drag & Drop in Your Xamarin.Forms App",
+      "Url": "https://www.youtube.com/watch?v=xFXnkRmTKrI",
+      "Description": "Xamarin.Forms now has the DragGestureRecognizer and DropGestureRecognizer, enabling you to implement drag and drop in your apps! In this video we will see how to get started with adding drag and drop to your app and enriching the data that you're transporting.",
+      "EditionId": "304",
+      "Author": "Gerald Versluis",
+      "Id": "304-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Quick Tips: Font Icon Embedding",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Quick-Tips-Font-Icon-Embedding",
+      "Description": "This video will show you can use Font Awesome to create vector icons in your Xamarin.Forms app.",
+      "EditionId": "304",
+      "Author": "The Xamarin Show",
+      "Id": "304-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Podcast Episode 91: LivePerson",
+      "Url": "https://www.xamarinpodcast.com/91",
+      "Description": "It's another customer story - this time find out how LivePerson enables apps to talk with a live person in customer support scenarios.",
+      "EditionId": "304",
+      "Author": "The Xamarin Podcast",
+      "Id": "304-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 249: A Beautiful Disaster",
+      "Url": "https://www.mergeconflict.fm/249",
+      "Description": "WWDC 21 is officially happening and we sit down to speculate on what we think will be announced and reflect on some of our favorite tech devices we have been able to program on.",
+      "EditionId": "304",
+      "Author": "Merge Conflict",
+      "Id": "304-21",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 250: To The Moon",
+      "Url": "https://www.mergeconflict.fm/250",
+      "Description": "We celebrate our 250th episode by answering as many questions as we can from YOU, our listeners!",
+      "EditionId": "304",
+      "Author": "Merge Conflict",
+      "Id": "304-22",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms Shell Login Page Flow",
+      "Url": "https://www.youtube.com/watch?v=ylbgWHB_gMI",
+      "Description": "We are back to Xamarin.Forms navigation with Shell. This time taking your request directly to do a login flow with URL based navigation. We start off login in users and then popping them into the main app and allowing them to log out. With Xamarin.Forms Shell it can be easily accomplished.",
+      "EditionId": "304",
+      "Author": "James Montemagno",
+      "Id": "304-23",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "App In The Cloud - Live - .NET MAUI and Mobile Blazor Bindings",
+      "Url": "https://www.youtube.com/watch?v=UsCZj93MAPs",
+      "Description": "Daniel is looking on the Preview 3 of .NET MAUI and continuing to work on his app using Mobile BLazor Bindings.",
+      "EditionId": "304",
+      "Author": "Daniel Hindrikes",
+      "Id": "304-24",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Video in Your Xamarin.Forms App with MediaElement",
+      "Url": "https://www.youtube.com/watch?v=yJAKkz17WDo",
+      "Description": "Audio and video are big parts of apps nowadays. If you need to add those in your Xamarin.Forms app, you can do so with the MediaElement. MediaElement is a part of the Xamarin Community Toolkit and allows you to play media from remote URLs to embedded sources and anything in between.",
+      "EditionId": "304",
+      "Author": "Gerald Versluis",
+      "Id": "304-25",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "User Stopped Typing Behavior (Xamarin Community Toolkit)",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/User-Stopped-Typing-Behavior-Xamarin-Community-Toolkit",
+      "Description": "If you've ever needed to implement a search bar, you will know the hassle of implementing this functionality. You don't want to send every keystroke to your backend! So, once again, you take some Canc",
+      "EditionId": "304",
+      "Author": "The Xamarin Show",
+      "Id": "304-26",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 49: Authentication",
+      "Url": "https://nullpointers.io/49/",
+      "Description": "Authenticating a user is often more than meets the user's eye. In this episode, we discuss the challenges, options and our experiences with said topic. We dive into some OAuth, do our best to pronounce Auth0 and discover the passcode to Geralds top-secret studio vault.",
+      "EditionId": "304",
+      "Author": "Null Pointers",
+      "Id": "304-27",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Forms to Maui with Gerald Versluis",
+      "Url": "https://www.dotnetrocks.com/?show=1736",
+      "Description": ".NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.",
+      "EditionId": "304",
+      "Author": ".NET Rocks!",
+      "Id": "304-28",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Forms Shadow Animation",
+      "Url": "https://www.youtube.com/watch?v=5Q8XpRW7hDw",
+      "Description": "A nice short video on how to create animated shadows using Xamarin.Forms and Shapes.",
+      "EditionId": "304",
+      "Author": "Xamarin Guy",
+      "Id": "304-29",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

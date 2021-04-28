@@ -1,0 +1,736 @@
+{
+  "number": 304,
+  "title": "Issue 304",
+  "summary": "",
+  "url": "https://weeklyxamarin.com/issues/304",
+  "publication_status": "published",
+  "published_at": "2021-04-25T14:15:22+01:00",
+  "updated_at": "2021-04-25T14:15:23+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Sorry to have another late edition. My only excuse is that I've started blogging again. ;-)</p>\n\n<p>So this is a massive issue full of great content, hopefully enough to get you through the week ahead.</p>",
+          "description_markdown": "Sorry to have another late edition. My only excuse is that I've started blogging again. ;-)\r\n\r\nSo this is a massive issue full of great content, hopefully enough to get you through the week ahead.",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "Z7S3SZT",
+          "type": "Link",
+          "title": "Marvel Heroes Design",
+          "url_domain": "github.com",
+          "url": "https://github.com/Altevir/xamarinforms-marvelheroes",
+          "description": "<p>For those of you into UI Design implementations, check out this nice Marvel Super Hero design in Xamarin.Forms</p>\n\n<p><a href=\"https://github.com/Altevir/xamarinforms-marvelheroes\"><strong>Altevir/xamarinforms-marvelheroes</strong></a> by <a href=\"https://twitter.com/altevirneto\">Altevir Cardoso Neto</a></p>",
+          "description_markdown": "For those of you into UI Design implementations, check out this nice Marvel Super Hero design in Xamarin.Forms\r\n\r\n[**Altevir/xamarinforms-marvelheroes**](https://github.com/Altevir/xamarinforms-marvelheroes) by [Altevir Cardoso Neto](https://twitter.com/altevirneto)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "9FScbdJ",
+              "title": "**Altevir/xamarinforms-marvelheroes**",
+              "url_domain": "github.com",
+              "url": "https://github.com/Altevir/xamarinforms-marvelheroes"
+            },
+            {
+              "identifier": "WPqLIoV",
+              "title": "Altevir Cardoso Neto",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/altevirneto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "wYLXSDv",
+          "type": "Link",
+          "title": "The Journey to Accessible Apps ",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps",
+          "description": "<p>It is always the right time to make your apps more inclusive. Get started on your journey to developing inclusive apps today.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps\"><strong>The Journey to Accessible Apps | Xamarin Blog</strong></a> by <a href=\"https://github.com/rachelkang\">Rachel Kang</a></p>",
+          "description_markdown": "It is always the right time to make your apps more inclusive. Get started on your journey to developing inclusive apps today.\r\n\r\n[**The Journey to Accessible Apps | Xamarin Blog**](https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps) by [Rachel Kang](https://github.com/rachelkang)",
+          "embedded_links": [
+            {
+              "identifier": "6zdnaIv",
+              "title": "**The Journey to Accessible Apps | Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps"
+            },
+            {
+              "identifier": "X77jSWS",
+              "title": "Rachel Kang",
+              "url_domain": "github.com",
+              "url": "https://github.com/rachelkang"
+            }
+          ]
+        },
+        {
+          "identifier": "wlrX45R",
+          "type": "Link",
+          "title": "5 Rules for Designing App Get More Referrals",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/5-rules-for-designing-app-get-more-referrals",
+          "description": "<p>In this post, we'll explore what you can do as a designer to get more users to first locate your referral program details and then share it with others.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/5-rules-for-designing-app-get-more-referrals\"><strong>5 Rules for Designing App Get More Referrals</strong></a> by <a href=\"https://www.telerik.com/blogs/author/suzanne-scacca\">Suzanne Scacca</a></p>",
+          "description_markdown": "In this post, we'll explore what you can do as a designer to get more users to first locate your referral program details and then share it with others.\r\n\r\n[**5 Rules for Designing App Get More Referrals**](https://www.telerik.com/blogs/5-rules-for-designing-app-get-more-referrals) by [Suzanne Scacca](https://www.telerik.com/blogs/author/suzanne-scacca)",
+          "embedded_links": [
+            {
+              "identifier": "xpwTTxJ",
+              "title": "**5 Rules for Designing App Get More Referrals**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/5-rules-for-designing-app-get-more-referrals"
+            },
+            {
+              "identifier": "uT7U6zd",
+              "title": "Suzanne Scacca",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/suzanne-scacca"
+            }
+          ]
+        },
+        {
+          "identifier": "qxIcYDf",
+          "type": "Link",
+          "title": "How to Design a Great App Icon: What You Need to Know",
+          "url_domain": "shopify.ie",
+          "url": "https://www.shopify.ie/partners/blog/app-icon",
+          "description": "<p>Learn how to create the perfect app icon, from design considerations to the tools you need, to the building process.</p>\n\n<p><a href=\"https://www.shopify.ie/partners/blog/app-icon\"><strong>How to Design a Great App Icon: What You Need to Know</strong></a> by <a href=\"https://twitter.com/flarup\">Michael Flarup</a></p>",
+          "description_markdown": "Learn how to create the perfect app icon, from design considerations to the tools you need, to the building process.\r\n\r\n[**How to Design a Great App Icon: What You Need to Know**](https://www.shopify.ie/partners/blog/app-icon) by [Michael Flarup](https://twitter.com/flarup)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "x7bK4RW",
+              "title": "**How to Design a Great App Icon: What You Need to Know**",
+              "url_domain": "shopify.ie",
+              "url": "https://www.shopify.ie/partners/blog/app-icon"
+            },
+            {
+              "identifier": "OppfMX0",
+              "title": "Michael Flarup",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/flarup"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "ZvcJ206",
+          "type": "Link",
+          "title": "Xamarin Tools to use in 2021",
+          "url_domain": "kymphillpotts.com",
+          "url": "https://kymphillpotts.com/xamarin-tools-2021.html",
+          "description": "<p>Choosing the right tools and resources can make all the difference in being a productive and effective developer. So, what are all the tools and libraries you should be using to build your Xamarin apps in 2021?</p>\n\n<p><a href=\"https://kymphillpotts.com/xamarin-tools-2021.html\"><strong>Xamarin Tools 2021</strong></a> by <a href=\"https://kymphillpotts.com/author/kphillpotts\">Kym Phillpotts</a></p>",
+          "description_markdown": "Choosing the right tools and resources can make all the difference in being a productive and effective developer. So, what are all the tools and libraries you should be using to build your Xamarin apps in 2021?\r\n\r\n[**Xamarin Tools 2021**](https://kymphillpotts.com/xamarin-tools-2021.html) by [Kym Phillpotts](https://kymphillpotts.com/author/kphillpotts)",
+          "embedded_links": [
+            {
+              "identifier": "ua2jdJt",
+              "title": "**Xamarin Tools 2021**",
+              "url_domain": "kymphillpotts.com",
+              "url": "https://kymphillpotts.com/xamarin-tools-2021.html"
+            },
+            {
+              "identifier": "tW1TWUY",
+              "title": "Kym Phillpotts",
+              "url_domain": "kymphillpotts.com",
+              "url": "https://kymphillpotts.com/author/kphillpotts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "AO3NnRv",
+          "type": "Link",
+          "title": "Universal AppLinks on iOS",
+          "url_domain": "ostebaronen.dk",
+          "url": "https://blog.ostebaronen.dk/2021/04/ios-applinks.html",
+          "description": "<p>I was lucky to be tasked to get Universal AppLinks working, for a cool feature in the TrackMan Golf App I work on at work. I thought this would be super easy to do. But, oh how naive and wrong I was.</p>\n\n<p><a href=\"https://blog.ostebaronen.dk/2021/04/ios-applinks.html\"><strong>Universal AppLinks on iOS</strong></a> by <a href=\"https://twitter.com/cheesebaron\">Tomasz Cielecki</a></p>",
+          "description_markdown": "I was lucky to be tasked to get Universal AppLinks working, for a cool feature in the TrackMan Golf App I work on at work. I thought this would be super easy to do. But, oh how naive and wrong I was.\r\n\r\n[**Universal AppLinks on iOS**](https://blog.ostebaronen.dk/2021/04/ios-applinks.html) by [Tomasz Cielecki](https://twitter.com/cheesebaron)",
+          "embedded_links": [
+            {
+              "identifier": "iOKlfa",
+              "title": "**Universal AppLinks on iOS**",
+              "url_domain": "ostebaronen.dk",
+              "url": "https://blog.ostebaronen.dk/2021/04/ios-applinks.html"
+            },
+            {
+              "identifier": "Re1kgJH",
+              "title": "Tomasz Cielecki",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/cheesebaron"
+            }
+          ]
+        },
+        {
+          "identifier": "6rMPZUK",
+          "type": "Link",
+          "title": "Adventures in ARKit - image detection",
+          "url_domain": "davidbritch.com",
+          "url": "https://www.davidbritch.com/2021/04/adventures-in-arkit-image-detection.html",
+          "description": "<p>David continues his exploration of ARKit, this time focusing on image detection.</p>\n\n<p><a href=\"https://www.davidbritch.com/2021/04/adventures-in-arkit-image-detection.html\"><strong>Adventures in ARKit - image detection</strong></a> by <a href=\"https://www.blogger.com/profile/08228714867310322959\">David Britch</a></p>",
+          "description_markdown": "David continues his exploration of ARKit, this time focusing on image detection.\r\n\r\n[**Adventures in ARKit - image detection**](https://www.davidbritch.com/2021/04/adventures-in-arkit-image-detection.html) by [David Britch](https://www.blogger.com/profile/08228714867310322959)",
+          "embedded_links": [
+            {
+              "identifier": "EbFSta9",
+              "title": "**Adventures in ARKit - image detection**",
+              "url_domain": "davidbritch.com",
+              "url": "https://www.davidbritch.com/2021/04/adventures-in-arkit-image-detection.html"
+            },
+            {
+              "identifier": "lcZLALh",
+              "title": "David Britch",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/08228714867310322959"
+            }
+          ]
+        },
+        {
+          "identifier": "2cNZ1FV",
+          "type": "Link",
+          "title": "Download Data Streams to a File in the Background with Xamarin iOS",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/download-data-streams-to-a-file-in-the-background-with-xamarin-ios/",
+          "description": "<p>How to Download Data Streams to a File in the Background with Xamarin iOS using, notify progress handle errors etc</p>\n\n<p><a href=\"https://doumer.me/download-data-streams-to-a-file-in-the-background-with-xamarin-ios/\"><strong>Download Data Streams to a File in the Background with Xamarin iOS - Cool Coders</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "How to Download Data Streams to a File in the Background with Xamarin iOS using, notify progress handle errors etc\r\n\r\n[**Download Data Streams to a File in the Background with Xamarin iOS - Cool Coders**](https://doumer.me/download-data-streams-to-a-file-in-the-background-with-xamarin-ios/) by [Damien Doumer](https://twitter.com/damien_doumer)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Ursb9B1",
+              "title": "**Download Data Streams to a File in the Background with Xamarin iOS - Cool Coders**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/download-data-streams-to-a-file-in-the-background-with-xamarin-ios/"
+            },
+            {
+              "identifier": "qqngvqd",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        },
+        {
+          "identifier": "CF0aVNa",
+          "type": "Link",
+          "title": "How to fix: Visual Studio for Mac: No SDK found at specified location?",
+          "url_domain": "almirvuk.com",
+          "url": "https://almirvuk.com/how-to-fix-visual-studio-for-mac-no-sdk-found-at-specified-location/",
+          "description": "<p>If you have seen the error on your Mac which says: \"No SDK found at specified location\" you might want to try these suggestions.</p>\n\n<p><a href=\"https://almirvuk.com/how-to-fix-visual-studio-for-mac-no-sdk-found-at-specified-location/\"><strong>How to fix: Visual Studio for Mac: No SDK found at specified location?</strong></a> by <a href=\"https://twitter.com/almirvuk\">Almir Vuk</a></p>",
+          "description_markdown": "If you have seen the error on your Mac which says: \"No SDK found at specified location\" you might want to try these suggestions.\r\n\r\n[**How to fix: Visual Studio for Mac: No SDK found at specified location?**](https://almirvuk.com/how-to-fix-visual-studio-for-mac-no-sdk-found-at-specified-location/) by [Almir Vuk](https://twitter.com/almirvuk)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "UWuQUHm",
+              "title": "**How to fix: Visual Studio for Mac: No SDK found at specified location?**",
+              "url_domain": "almirvuk.com",
+              "url": "https://almirvuk.com/how-to-fix-visual-studio-for-mac-no-sdk-found-at-specified-location/"
+            },
+            {
+              "identifier": "zpDy0Ua",
+              "title": "Almir Vuk",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/almirvuk"
+            }
+          ]
+        },
+        {
+          "identifier": "PfGQvun",
+          "type": "Link",
+          "title": "Understanding iOS Image Assets",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/understanding-ios-image-assets",
+          "description": "<p>When developing apps you'll come to the point where you'll need to deal with image assets. No matter how crudiest the UI could be, you'll probably need some icons or small image resources to compose your layouts. In this post we'll explore how image assets works on iOS.</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/understanding-ios-image-assets\"><strong>Understanding iOS Image Assets</strong></a> by <a href=\"https://github.com/ravero\">Rafael Veronezi</a></p>",
+          "description_markdown": "When developing apps you'll come to the point where you'll need to deal with image assets. No matter how crudiest the UI could be, you'll probably need some icons or small image resources to compose your layouts. In this post we'll explore how image assets works on iOS.\r\n\r\n[**Understanding iOS Image Assets**](https://www.mfractor.com/blogs/news/understanding-ios-image-assets) by [Rafael Veronezi](https://github.com/ravero)",
+          "embedded_links": [
+            {
+              "identifier": "NgzoGaV",
+              "title": "**Understanding iOS Image Assets**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/understanding-ios-image-assets"
+            },
+            {
+              "identifier": "Dyugy3q",
+              "title": "Rafael Veronezi",
+              "url_domain": "github.com",
+              "url": "https://github.com/ravero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "khqWb6k",
+          "type": "Link",
+          "title": "Calling methods in your View from your ViewModel using Action-Invokes",
+          "url_domain": "medium.com",
+          "url": "https://prototypemakers.medium.com/calling-methods-in-your-view-from-your-viewmodel-using-action-invokes-e18682d7d95c",
+          "description": "<p>Executing ViewModel methods from Xamarin Forms Pages is easy, but how can Page methods be called inside ViewModels?</p>\n\n<p><a href=\"https://prototypemakers.medium.com/calling-methods-in-your-view-from-your-viewmodel-using-action-invokes-e18682d7d95c\"><strong>Calling methods in your View from your ViewModel using Action-Invokes | by The First Prototype | Apr, 2021 | Medium</strong></a> by <a href=\"https://medium.com/@prototypemakers\">Saamer Mansoor</a></p>",
+          "description_markdown": "Executing ViewModel methods from Xamarin Forms Pages is easy, but how can Page methods be called inside ViewModels?\r\n\r\n[**Calling methods in your View from your ViewModel using Action-Invokes | by The First Prototype | Apr, 2021 | Medium**](https://prototypemakers.medium.com/calling-methods-in-your-view-from-your-viewmodel-using-action-invokes-e18682d7d95c) by [Saamer Mansoor](https://medium.com/@prototypemakers)",
+          "embedded_links": [
+            {
+              "identifier": "GdpEUKc",
+              "title": "**Calling methods in your View from your ViewModel using Action-Invokes | by The First Prototype | Apr, 2021 | Medium**",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com/calling-methods-in-your-view-from-your-viewmodel-using-action-invokes-e18682d7d95c"
+            },
+            {
+              "identifier": "TOYA4rz",
+              "title": "Saamer Mansoor",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prototypemakers"
+            }
+          ]
+        },
+        {
+          "identifier": "nhcFibC",
+          "type": "Link",
+          "title": "Replicating a Facebook Like UI in Xamarin",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/replicating-a-facebook-like-ui-in-xamarin.aspx",
+          "description": "<p> In this blog post, we'll be replicating a Facebook UI in Xamarin.Forms. The Facebook app contains some basic modules like a login page, timeline/wall page, profile page, and some other pages for modifying the settings and creating commercial pages.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/replicating-a-facebook-like-ui-in-xamarin.aspx\"><strong>Replicating a Facebook Like UI in Xamarin | Syncfusion Blogs</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": " In this blog post, we'll be replicating a Facebook UI in Xamarin.Forms. The Facebook app contains some basic modules like a login page, timeline/wall page, profile page, and some other pages for modifying the settings and creating commercial pages. \r\n\r\n[**Replicating a Facebook Like UI in Xamarin | Syncfusion Blogs**](https://www.syncfusion.com/blogs/post/replicating-a-facebook-like-ui-in-xamarin.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)",
+          "embedded_links": [
+            {
+              "identifier": "jQOXG8P",
+              "title": "**Replicating a Facebook Like UI in Xamarin | Syncfusion Blogs**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/replicating-a-facebook-like-ui-in-xamarin.aspx"
+            },
+            {
+              "identifier": "LQ8fwg3",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        },
+        {
+          "identifier": "3U84pLH",
+          "type": "Link",
+          "title": "Are You Starting Xamarin Forms? Let's Create a Simple UI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/are-you-starting-xamarin-forms-lets-create-simple-ui",
+          "description": "<p>Let's create a simple UI together, refining our XAML skills and practicing navigating Xamarin Forms.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/are-you-starting-xamarin-forms-lets-create-simple-ui\"><strong>Are You Starting Xamarin Forms? Let's Create a Simple UI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Let's create a simple UI together, refining our XAML skills and practicing navigating Xamarin Forms.\r\n\r\n[**Are You Starting Xamarin Forms? Let's Create a Simple UI**](https://www.telerik.com/blogs/are-you-starting-xamarin-forms-lets-create-simple-ui) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "xVkrV0N",
+              "title": "**Are You Starting Xamarin Forms? Let's Create a Simple UI**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/are-you-starting-xamarin-forms-lets-create-simple-ui"
+            },
+            {
+              "identifier": "4saTfOq",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "QWWmW75",
+          "type": "Link",
+          "title": "Selectable text with no context menu in Xamarin Forms",
+          "url_domain": "klaudiabronowicka.com",
+          "url": "https://klaudiabronowicka.com/blog/selectable-text-with-no-context-menu-in-xamarin-forms/",
+          "description": "<p>Custom control to allow the user to select parts of the text without displaying the context menu (with options to copy, select all etc.).</p>\n\n<p><a href=\"https://klaudiabronowicka.com/blog/selectable-text-with-no-context-menu-in-xamarin-forms/\"><strong>Selectable text with no context menu in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/K_Bronowicka\">Klaudia Bronowicka</a></p>",
+          "description_markdown": "Custom control to allow the user to select parts of the text without displaying the context menu (with options to copy, select all etc.).\r\n\r\n[**Selectable text with no context menu in Xamarin Forms**](https://klaudiabronowicka.com/blog/selectable-text-with-no-context-menu-in-xamarin-forms/) by [Klaudia Bronowicka](https://twitter.com/K_Bronowicka)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "6Ji6Dn4",
+              "title": "**Selectable text with no context menu in Xamarin Forms**",
+              "url_domain": "klaudiabronowicka.com",
+              "url": "https://klaudiabronowicka.com/blog/selectable-text-with-no-context-menu-in-xamarin-forms/"
+            },
+            {
+              "identifier": "lRQ6V4t",
+              "title": "Klaudia Bronowicka",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/K_Bronowicka"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "9YhFWhI",
+          "type": "Link",
+          "title": "Getting Started With .NET Maui - First Impressions",
+          "url_domain": "c-sharpcorner.com",
+          "url": "https://www.c-sharpcorner.com/article/getting-started-with-net-maui-first-impressions/a",
+          "description": "<p>A simple walk through of getting your first Maui application built and running.</p>\n\n<p><a href=\"https://www.c-sharpcorner.com/article/getting-started-with-net-maui-first-impressions/a\"><strong>Getting Started With .NET Maui - First Impressions</strong></a> by <a href=\"https://twitter.com/rakeshkumar_des\">Rakeshkumar Desai</a></p>",
+          "description_markdown": "A simple walk through of getting your first Maui application built and running.\r\n\r\n[**Getting Started With .NET Maui - First Impressions**](https://www.c-sharpcorner.com/article/getting-started-with-net-maui-first-impressions/a) by [Rakeshkumar Desai](https://twitter.com/rakeshkumar_des)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "no2t73i",
+              "title": "**Getting Started With .NET Maui - First Impressions**",
+              "url_domain": "c-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/getting-started-with-net-maui-first-impressions/a"
+            },
+            {
+              "identifier": "kFHznCx",
+              "title": "Rakeshkumar Desai",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rakeshkumar_des"
+            }
+          ]
+        },
+        {
+          "identifier": "aAqnBnT",
+          "type": "Link",
+          "title": "Step-by-Step Guide To Building .NET Multi-platform App (MAUI)",
+          "url_domain": "msdevbuild.com",
+          "url": "https://www.msdevbuild.com/2021/04/Step-by-Step-Guide-To-Building-NET-Multi-platform-App-using-Visual-Studio-2019.html",
+          "description": "<p>In this article, Suthahar explains how to create your first hello world app using the MAUI application.</p>\n\n<p><a href=\"https://www.msdevbuild.com/2021/04/Step-by-Step-Guide-To-Building-NET-Multi-platform-App-using-Visual-Studio-2019.html\"><strong>Xamarin : Step-by-Step Guide To Building .NET Multi-platform App (MAUI) using Visual Studio 2019 Preview 16.10</strong></a> by <a href=\"https://twitter.com/jssuthahar\">Suthahar Jegatheesan</a></p>",
+          "description_markdown": "In this article, Suthahar explains how to create your first hello world app using the MAUI application.\r\n\r\n[**Xamarin : Step-by-Step Guide To Building .NET Multi-platform App (MAUI) using Visual Studio 2019 Preview 16.10**](https://www.msdevbuild.com/2021/04/Step-by-Step-Guide-To-Building-NET-Multi-platform-App-using-Visual-Studio-2019.html) by [Suthahar Jegatheesan](https://twitter.com/jssuthahar)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "epydiyS",
+              "title": "**Xamarin : Step-by-Step Guide To Building .NET Multi-platform App (MAUI) using Visual Studio 2019 Preview 16.10**",
+              "url_domain": "msdevbuild.com",
+              "url": "https://www.msdevbuild.com/2021/04/Step-by-Step-Guide-To-Building-NET-Multi-platform-App-using-Visual-Studio-2019.html"
+            },
+            {
+              "identifier": "rQJNCkJ",
+              "title": "Suthahar Jegatheesan",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jssuthahar"
+            }
+          ]
+        },
+        {
+          "identifier": "69zGSoc",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #5",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-5",
+          "description": "<p>Episode 5 of this excellent MAUI updates blog.  Welcome to the Sands of Maui-newsletter style issues dedicated to bringing together latest .NET MAUI content relevant to developers.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-5\"><strong>Sands of MAUI: Issue #5</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Episode 5 of this excellent MAUI updates blog.  Welcome to the Sands of Maui-newsletter style issues dedicated to bringing together latest .NET MAUI content relevant to developers.\r\n\r\n[**Sands of MAUI: Issue #5**](https://www.telerik.com/blogs/sands-of-maui-issue-5) by [Sam Basu](https://twitter.com/samidip)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "LuzEd3k",
+              "title": "**Sands of MAUI: Issue #5**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-5"
+            },
+            {
+              "identifier": "Y673l9O",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "HBbpsEA",
+          "type": "Link",
+          "title": "Implement Drag & Drop in Your Xamarin.Forms App",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=xFXnkRmTKrI",
+          "description": "<p>Xamarin.Forms now has the DragGestureRecognizer and DropGestureRecognizer, enabling you to implement drag and drop in your apps! In this video we will see how to get started with adding drag and drop to your app and enriching the data that you're transporting.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=xFXnkRmTKrI\"><strong>Implement Drag &amp; Drop in Your Xamarin.Forms App</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Xamarin.Forms now has the DragGestureRecognizer and DropGestureRecognizer, enabling you to implement drag and drop in your apps! In this video we will see how to get started with adding drag and drop to your app and enriching the data that you're transporting.\r\n\r\n[**Implement Drag & Drop in Your Xamarin.Forms App**](https://www.youtube.com/watch?v=xFXnkRmTKrI) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "255Tt0O",
+              "title": "**Implement Drag & Drop in Your Xamarin.Forms App**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=xFXnkRmTKrI"
+            },
+            {
+              "identifier": "CoGjbmh",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "w5PKG70",
+          "type": "Link",
+          "title": "Xamarin Quick Tips: Font Icon Embedding",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Quick-Tips-Font-Icon-Embedding",
+          "description": "<p>This video will show you can use Font Awesome to create vector icons in your Xamarin.Forms app.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Quick-Tips-Font-Icon-Embedding\"><strong>Xamarin Quick Tips: Font Icon Embedding</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "This video will show you can use Font Awesome to create vector icons in your Xamarin.Forms app. \r\n\r\n[**Xamarin Quick Tips: Font Icon Embedding**](https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Quick-Tips-Font-Icon-Embedding) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "vbQ9UxW",
+              "title": "**Xamarin Quick Tips: Font Icon Embedding**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Quick-Tips-Font-Icon-Embedding"
+            },
+            {
+              "identifier": "FcRTQz2",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "Dj3CfL",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 91: LivePerson",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/91",
+          "description": "<p>It's another customer story - this time find out how LivePerson enables apps to talk with a live person in customer support scenarios.</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/91\"><strong>The Xamarin Podcast Episode 91: LivePerson</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "It's another customer story - this time find out how LivePerson enables apps to talk with a live person in customer support scenarios.\r\n\r\n[**The Xamarin Podcast Episode 91: LivePerson**](https://www.xamarinpodcast.com/91) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)",
+          "embedded_links": [
+            {
+              "identifier": "rAU4FPJ",
+              "title": "**The Xamarin Podcast Episode 91: LivePerson**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/91"
+            },
+            {
+              "identifier": "M8Bi5OU",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        },
+        {
+          "identifier": "OGdZeyC",
+          "type": "Link",
+          "title": "Merge Conflict: 249: A Beautiful Disaster",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/249",
+          "description": "<p>WWDC 21 is officially happening and we sit down to speculate on what we think will be announced and reflect on some of our favorite tech devices we have been able to program on.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/249\"><strong>Merge Conflict: 249: A Beautiful Disaster</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "WWDC 21 is officially happening and we sit down to speculate on what we think will be announced and reflect on some of our favorite tech devices we have been able to program on.\r\n\r\n[**Merge Conflict: 249: A Beautiful Disaster**](https://www.mergeconflict.fm/249) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "ZLytpFo",
+              "title": "**Merge Conflict: 249: A Beautiful Disaster**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/249"
+            },
+            {
+              "identifier": "B73be8G",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "kqc50PG",
+          "type": "Link",
+          "title": "Merge Conflict: 250: To The Moon",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/250",
+          "description": "<p>We celebrate our 250th episode by answering as many questions as we can from YOU, our listeners!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/250\"><strong>Merge Conflict: 250: To The Moon</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "We celebrate our 250th episode by answering as many questions as we can from YOU, our listeners!\r\n\r\n[**Merge Conflict: 250: To The Moon**](https://www.mergeconflict.fm/250) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "QybU0ML",
+              "title": "**Merge Conflict: 250: To The Moon**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/250"
+            },
+            {
+              "identifier": "AKScjcA",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "nGMptba",
+          "type": "Link",
+          "title": "Xamarin.Forms Shell Login Page Flow",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=ylbgWHB_gMI",
+          "description": "<p>We are back to Xamarin.Forms navigation with Shell. This time taking your request directly to do a login flow with URL based navigation. We start off login in users and then popping them into the main app and allowing them to log out. With Xamarin.Forms Shell it can be easily accomplished.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=ylbgWHB_gMI\"><strong>Xamarin.Forms Shell Login Page Flow</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "We are back to Xamarin.Forms navigation with Shell. This time taking your request directly to do a login flow with URL based navigation. We start off login in users and then popping them into the main app and allowing them to log out. With Xamarin.Forms Shell it can be easily accomplished.\r\n\r\n[**Xamarin.Forms Shell Login Page Flow**](https://www.youtube.com/watch?v=ylbgWHB_gMI) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "uVjdS8K",
+              "title": "**Xamarin.Forms Shell Login Page Flow**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=ylbgWHB_gMI"
+            },
+            {
+              "identifier": "x8De54B",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "RJtJaem",
+          "type": "Link",
+          "title": "App In The Cloud - Live - .NET MAUI and Mobile Blazor Bindings",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=UsCZj93MAPs",
+          "description": "<p>Daniel is looking on the Preview 3 of .NET MAUI and continuing to work on his app using Mobile BLazor Bindings.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=UsCZj93MAPs\"><strong>App In The Cloud - Live - .NET MAUI and Mobile Blazor Bindings</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "Daniel is looking on the Preview 3 of .NET MAUI and continuing to work on his app using Mobile BLazor Bindings.\r\n\r\n[**App In The Cloud - Live - .NET MAUI and Mobile Blazor Bindings**](https://www.youtube.com/watch?v=UsCZj93MAPs) by [Daniel Hindrikes](https://twitter.com/hindrikes)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "mGNjj8x",
+              "title": "**App In The Cloud - Live - .NET MAUI and Mobile Blazor Bindings**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=UsCZj93MAPs"
+            },
+            {
+              "identifier": "JlopNu6",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        },
+        {
+          "identifier": "DI4f3ab",
+          "type": "Link",
+          "title": "Video in Your Xamarin.Forms App with MediaElement",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=yJAKkz17WDo",
+          "description": "<p>Audio and video are big parts of apps nowadays. If you need to add those in your Xamarin.Forms app, you can do so with the MediaElement. MediaElement is a part of the Xamarin Community Toolkit and allows you to play media from remote URLs to embedded sources and anything in between.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=yJAKkz17WDo\"><strong>Video in Your Xamarin.Forms App with MediaElement</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Audio and video are big parts of apps nowadays. If you need to add those in your Xamarin.Forms app, you can do so with the MediaElement. MediaElement is a part of the Xamarin Community Toolkit and allows you to play media from remote URLs to embedded sources and anything in between.\r\n\r\n[**Video in Your Xamarin.Forms App with MediaElement**](https://www.youtube.com/watch?v=yJAKkz17WDo) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "5pX2DGO",
+              "title": "**Video in Your Xamarin.Forms App with MediaElement**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=yJAKkz17WDo"
+            },
+            {
+              "identifier": "2S94qMU",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "DJMueLe",
+          "type": "Link",
+          "title": "User Stopped Typing Behavior (Xamarin Community Toolkit)",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/User-Stopped-Typing-Behavior-Xamarin-Community-Toolkit",
+          "description": "<p>If you've ever needed to implement a search bar, you will know the hassle of implementing this functionality. You don't want to send every keystroke to your backend! So, once again, you take some Canc</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/User-Stopped-Typing-Behavior-Xamarin-Community-Toolkit\"><strong>User Stopped Typing Behavior (Xamarin Community Toolkit)</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "If you've ever needed to implement a search bar, you will know the hassle of implementing this functionality. You don't want to send every keystroke to your backend! So, once again, you take some Canc\r\n\r\n[**User Stopped Typing Behavior (Xamarin Community Toolkit)**](https://channel9.msdn.com/Shows/XamarinShow/User-Stopped-Typing-Behavior-Xamarin-Community-Toolkit) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "2x11iDT",
+              "title": "**User Stopped Typing Behavior (Xamarin Community Toolkit)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/User-Stopped-Typing-Behavior-Xamarin-Community-Toolkit"
+            },
+            {
+              "identifier": "IvhVpeA",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "iheUB6c",
+          "type": "Link",
+          "title": "Null Pointers 49: Authentication",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/49/",
+          "description": "<p>Authenticating a user is often more than meets the user's eye. In this episode, we discuss the challenges, options and our experiences with said topic. We dive into some OAuth, do our best to pronounce Auth0 and discover the passcode to Geralds top-secret studio vault.</p>\n\n<p><a href=\"https://nullpointers.io/49/\"><strong>49: Authentication</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "Authenticating a user is often more than meets the user's eye. In this episode, we discuss the challenges, options and our experiences with said topic. We dive into some OAuth, do our best to pronounce Auth0 and discover the passcode to Geralds top-secret studio vault.\r\n\r\n[**49: Authentication**](https://nullpointers.io/49/) by [Null Pointers](https://nullpointers.io/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "W3MPK4p",
+              "title": "**49: Authentication**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/49/"
+            },
+            {
+              "identifier": "Ev5PJtV",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "Oy3cAy8",
+          "type": "Link",
+          "title": "Xamarin Forms to Maui with Gerald Versluis",
+          "url_domain": "dotnetrocks.com",
+          "url": "https://www.dotnetrocks.com/?show=1736",
+          "description": "<p>.NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.</p>\n\n<p><a href=\"https://www.dotnetrocks.com/?show=1736\"><strong>Xamarin Forms to Maui with Gerald Versluis</strong></a> by <a href=\"https://dotnetrocks.com/\">.NET Rocks!</a></p>",
+          "description_markdown": ".NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.\r\n\r\n[**Xamarin Forms to Maui with Gerald Versluis**](https://www.dotnetrocks.com/?show=1736) by [.NET Rocks!](https://dotnetrocks.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "MIa05J0",
+              "title": "**Xamarin Forms to Maui with Gerald Versluis**",
+              "url_domain": "dotnetrocks.com",
+              "url": "https://www.dotnetrocks.com/?show=1736"
+            },
+            {
+              "identifier": "2W3bCYx",
+              "title": ".NET Rocks!",
+              "url_domain": "dotnetrocks.com",
+              "url": "https://dotnetrocks.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "QHqasc9",
+          "type": "Link",
+          "title": "Xamarin Forms Shadow Animation",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=5Q8XpRW7hDw",
+          "description": "<p>A nice short video on how to create animated shadows using Xamarin.Forms and Shapes.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=5Q8XpRW7hDw\"><strong>Xamarin Forms Shadow Animation</strong></a> by <a href=\"https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ\">Xamarin Guy</a></p>",
+          "description_markdown": "A nice short video on how to create animated shadows using Xamarin.Forms and Shapes.\r\n\r\n[**Xamarin Forms Shadow Animation**](https://www.youtube.com/watch?v=5Q8XpRW7hDw) by [Xamarin Guy](https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ)",
+          "embedded_links": [
+            {
+              "identifier": "xSClUpj",
+              "title": "**Xamarin Forms Shadow Animation**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=5Q8XpRW7hDw"
+            },
+            {
+              "identifier": "F5c1e8Q",
+              "title": "Xamarin Guy",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

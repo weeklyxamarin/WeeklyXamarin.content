@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "304",
+      "Name": "Issue 304",
+      "UpdatedTimeStamp": "2021-04-25T13:15:23Z",
+      "Summary": "No Edition Summary",
+      "PublishDate": "2021-04-25T13:15:22Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "303",
       "Name": "Issue 303",
       "UpdatedTimeStamp": "2021-04-10T13:17:46Z",
@@ -578,5 +587,6 @@
       "Articles": []
     }
   ],
-  "FetchedDate": "0001-01-01T00:00:00"
+  "FetchedDate": "0001-01-01T00:00:00",
+  "IsStale": false
 }
