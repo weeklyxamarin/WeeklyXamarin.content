@@ -1,0 +1,880 @@
+{
+  "number": 306,
+  "title": "Issue 306",
+  "summary": "",
+  "url": "https://weeklyxamarin.com/issues/306",
+  "publication_status": "published",
+  "published_at": "2021-05-29T02:44:25+01:00",
+  "updated_at": "2021-05-29T02:44:28+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hey Everyone, sorry it's been a while.</p>\n\n<p>Since we caught up last, there has been so many great community posts, a little conference called //BUILD, and .NET MAUI releases.</p>\n\n<p>Wishing you and your family a fantastic weekend and please enjoy this edition.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Hey Everyone, sorry it's been a while.  \r\n\r\nSince we caught up last, there has been so many great community posts, a little conference called //BUILD, and .NET MAUI releases. \r\n\r\nWishing you and your family a fantastic weekend and please enjoy this edition.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "FPcv9Kn",
+          "type": "Link",
+          "title": "The Journey to Accessible Apps: Screen Readers",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps-screen-readers/",
+          "description": "<p>Assistive technologies are tools that often reduce technological barriers that individuals may otherwise experience. This post focuses on on-screen readers, which are used by individuals with visual impairments, to access information that is otherwise inaccessible to them. However, it is important to be aware of as many various assistive technologies as you can be, as app developers striving to build the most accessible apps.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps-screen-readers/\"><strong>The Journey to Accessible Apps: Screen Readers | Xamarin Blog</strong></a> by <a href=\"https://twitter.com/therachelkang\">Rachel Kang</a></p>",
+          "description_markdown": "Assistive technologies are tools that often reduce technological barriers that individuals may otherwise experience. This post focuses on on-screen readers, which are used by individuals with visual impairments, to access information that is otherwise inaccessible to them. However, it is important to be aware of as many various assistive technologies as you can be, as app developers striving to build the most accessible apps.\r\n\r\n[**The Journey to Accessible Apps: Screen Readers | Xamarin Blog**](https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps-screen-readers/) by [Rachel Kang](https://twitter.com/therachelkang)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "dq0kx6W",
+              "title": "**The Journey to Accessible Apps: Screen Readers | Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps-screen-readers/"
+            },
+            {
+              "identifier": "pIVPTt6",
+              "title": "Rachel Kang",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/therachelkang"
+            }
+          ]
+        },
+        {
+          "identifier": "kAXFl8G",
+          "type": "Link",
+          "title": "On Building a Fluid User Interface",
+          "url_domain": "instagram.com",
+          "url": "https://about.instagram.com/blog/engineering/on-building-a-fluid-user-interface",
+          "description": "<p>We all want our applications user experience to feel tactile and fluid. This post shares some insights into a few of the creative implementations that give the Threads app its unique feel.</p>\n\n<p><a href=\"https://about.instagram.com/blog/engineering/on-building-a-fluid-user-interface\"><strong>On Building a Fluid User Interface | Instagram Blog</strong></a> by <a href=\"https://twitter.com/rishmody\">Rishi Mody</a></p>",
+          "description_markdown": "We all want our applications user experience to feel tactile and fluid. This post shares some insights into a few of the creative implementations that give the Threads app its unique feel.\r\n\r\n[**On Building a Fluid User Interface | Instagram Blog**](https://about.instagram.com/blog/engineering/on-building-a-fluid-user-interface) by [Rishi Mody](https://twitter.com/rishmody)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "3QE0SNT",
+              "title": "**On Building a Fluid User Interface | Instagram Blog**",
+              "url_domain": "instagram.com",
+              "url": "https://about.instagram.com/blog/engineering/on-building-a-fluid-user-interface"
+            },
+            {
+              "identifier": "g0MAaUN",
+              "title": "Rishi Mody",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rishmody"
+            }
+          ]
+        },
+        {
+          "identifier": "o9IkM24",
+          "type": "Link",
+          "title": "Screen Sizes",
+          "url_domain": "screensizes.app",
+          "url": "https://www.screensizes.app",
+          "description": "<p>This is a great reference that provides a complete guide for Apple iOS displays</p>\n\n<p><a href=\"https://www.screensizes.app/\"><strong>Screen Sizes</strong></a> by <a href=\"http://www.screensizes.app\">Toast Studio\n</a></p>",
+          "description_markdown": "This is a great reference that provides a complete guide for Apple iOS displays\r\n\r\n[**Screen Sizes**](https://www.screensizes.app/) by [Toast Studio\r\n](http://www.screensizes.app)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "MXlbXhv",
+              "title": "**Screen Sizes**",
+              "url_domain": "screensizes.app",
+              "url": "https://www.screensizes.app/"
+            },
+            {
+              "identifier": "fl4pRxh",
+              "title": "Toast Studio\r\n",
+              "url_domain": "screensizes.app",
+              "url": "http://www.screensizes.app"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "tuyV4hJ",
+          "type": "Link",
+          "title": "The Write a .NET App on an iPad Challenge!",
+          "url_domain": "codemilltech.com",
+          "url": "https://codemilltech.com/develop-net-apps-from-an-ipad/",
+          "description": "<p>Can you write an entire .NET app using an iPad? Not only write.. but run, debug, and install additional Azure tooling too? Yup.</p>\n\n<p><a href=\"https://codemilltech.com/develop-net-apps-from-an-ipad/\"><strong>The Write a .NET App on an iPad Challenge!</strong></a> by <a href=\"https://codemilltech.com/author/matthew/\">Matthew Soucoup</a></p>",
+          "description_markdown": "Can you write an entire .NET app using an iPad? Not only write.. but run, debug, and install additional Azure tooling too? Yup.\r\n\r\n[**The Write a .NET App on an iPad Challenge!**](https://codemilltech.com/develop-net-apps-from-an-ipad/) by [Matthew Soucoup](https://codemilltech.com/author/matthew/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "S999Ppq",
+              "title": "**The Write a .NET App on an iPad Challenge!**",
+              "url_domain": "codemilltech.com",
+              "url": "https://codemilltech.com/develop-net-apps-from-an-ipad/"
+            },
+            {
+              "identifier": "VLFDAdZ",
+              "title": "Matthew Soucoup",
+              "url_domain": "codemilltech.com",
+              "url": "https://codemilltech.com/author/matthew/"
+            }
+          ]
+        },
+        {
+          "identifier": "hqO5OoW",
+          "type": "Link",
+          "title": "NuGetizer as an alternative to .NET SDK Pack",
+          "url_domain": "cazzulino.com",
+          "url": "https://www.cazzulino.com/nugetizer.html",
+          "description": "<p>There is a very long standing feature request for NuGet Pack to \"allow project reference DLLs to be added to the parent nupkg for pack target like IncludeReferencedProjects in nuget.exe\". This has been going on for years (5 almost as of 2021) and has had over 260 comments so far. Seems like quite the significant pain point for some customers. After participating a bit, and getting mentioned a few times with regards to NuGetizer, I thought a proper explanation of what it is and why it's not just a \"workaround\" for SDK Pack issues.</p>\n\n<p><a href=\"https://www.cazzulino.com/nugetizer.html\"><strong>NuGetizer as an alternative to .NET SDK Pack</strong></a> by <a href=\"https://twitter.com/kzu\">Daniel Cazzulino</a></p>",
+          "description_markdown": "There is a very long standing feature request for NuGet Pack to \"allow project reference DLLs to be added to the parent nupkg for pack target like IncludeReferencedProjects in nuget.exe\". This has been going on for years (5 almost as of 2021) and has had over 260 comments so far. Seems like quite the significant pain point for some customers. After participating a bit, and getting mentioned a few times with regards to NuGetizer, I thought a proper explanation of what it is and why it's not just a \"workaround\" for SDK Pack issues.\r\n\r\n[**NuGetizer as an alternative to .NET SDK Pack**](https://www.cazzulino.com/nugetizer.html) by [Daniel Cazzulino](https://twitter.com/kzu)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "nuIb4B9",
+              "title": "**NuGetizer as an alternative to .NET SDK Pack**",
+              "url_domain": "cazzulino.com",
+              "url": "https://www.cazzulino.com/nugetizer.html"
+            },
+            {
+              "identifier": "mn8cIDO",
+              "title": "Daniel Cazzulino",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kzu"
+            }
+          ]
+        },
+        {
+          "identifier": "7k29BOp",
+          "type": "Link",
+          "title": "Telerik UI for Xamarin R2 2021: New Badge, Shadow and More",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/telerik-ui-for-xamarin-r2-2021-new-badge-shadow-controls-pdfviewer-features-and-more",
+          "description": "<p>Telerik UI for Xamarin R2 2021 ships new Badge, Shadow and SwissQR Code controls.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/telerik-ui-for-xamarin-r2-2021-new-badge-shadow-controls-pdfviewer-features-and-more\"><strong>Telerik UI for Xamarin R2 2021: New Badge, Shadow and More</strong></a> by <a href=\"https://www.telerik.com/blogs/author/yana-kerpecheva\">Yana Kerpecheva</a></p>",
+          "description_markdown": "Telerik UI for Xamarin R2 2021 ships new Badge, Shadow and SwissQR Code controls.\r\n\r\n[**Telerik UI for Xamarin R2 2021: New Badge, Shadow and More**](https://www.telerik.com/blogs/telerik-ui-for-xamarin-r2-2021-new-badge-shadow-controls-pdfviewer-features-and-more) by [Yana Kerpecheva](https://www.telerik.com/blogs/author/yana-kerpecheva)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "NCOGTRR",
+              "title": "**Telerik UI for Xamarin R2 2021: New Badge, Shadow and More**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/telerik-ui-for-xamarin-r2-2021-new-badge-shadow-controls-pdfviewer-features-and-more"
+            },
+            {
+              "identifier": "Q5Wf3UO",
+              "title": "Yana Kerpecheva",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/yana-kerpecheva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "ZfSyhhU",
+          "type": "Link",
+          "title": "How to Create a Choropleth Map",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/create-a-choropleth-map-in-a-xamarin-application.aspx",
+          "description": "<p>A choropleth map is a specialized type of geographic map in which regions are highlighted by color based on the data of those areas. They are appropriate for visualizing regional patterns in data. The higher the value is,  the darker the color will be in that region. This blog post explains how to create a choropleth map easily using the Syncfusion Xamarin Maps control.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/create-a-choropleth-map-in-a-xamarin-application.aspx\"><strong>How to Create a Choropleth Map in a Xamarin Application</strong></a> by <a href=\"https://twitter.com/sheikabu\">Sheik Syed</a></p>",
+          "description_markdown": "A choropleth map is a specialized type of geographic map in which regions are highlighted by color based on the data of those areas. They are appropriate for visualizing regional patterns in data. The higher the value is,  the darker the color will be in that region. This blog post explains how to create a choropleth map easily using the Syncfusion Xamarin Maps control.\r\n\r\n[**How to Create a Choropleth Map in a Xamarin Application**](https://www.syncfusion.com/blogs/post/create-a-choropleth-map-in-a-xamarin-application.aspx) by [Sheik Syed](https://twitter.com/sheikabu)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "DiUMura",
+              "title": "**How to Create a Choropleth Map in a Xamarin Application**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/create-a-choropleth-map-in-a-xamarin-application.aspx"
+            },
+            {
+              "identifier": "bmHwQVK",
+              "title": "Sheik Syed",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/sheikabu"
+            }
+          ]
+        },
+        {
+          "identifier": "vja0gtn",
+          "type": "Link",
+          "title": "Easily Create a Meeting Room Calendar using Xamarin.Forms Scheduler",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/easily-create-a-meeting-room-calendar-using-xamarin-forms-scheduler.aspx",
+          "description": "<p>The Syncfusion scheduler control is super powerful. This blog post covers how to create a custom ui for showing meeting room calendars.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/easily-create-a-meeting-room-calendar-using-xamarin-forms-scheduler.aspx\"><strong>Easily Create a Meeting Room Calendar using Xamarin.Forms Scheduler</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/jeyasrimsyncfusion-com\">Jeyasri Murugan</a></p>",
+          "description_markdown": "The Syncfusion scheduler control is super powerful. This blog post covers how to create a custom ui for showing meeting room calendars.\r\n\r\n[**Easily Create a Meeting Room Calendar using Xamarin.Forms Scheduler**](https://www.syncfusion.com/blogs/post/easily-create-a-meeting-room-calendar-using-xamarin-forms-scheduler.aspx) by [Jeyasri Murugan](https://www.syncfusion.com/blogs/author/jeyasrimsyncfusion-com)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "cbPJbvB",
+              "title": "**Easily Create a Meeting Room Calendar using Xamarin.Forms Scheduler**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/easily-create-a-meeting-room-calendar-using-xamarin-forms-scheduler.aspx"
+            },
+            {
+              "identifier": "oIXpY6F",
+              "title": "Jeyasri Murugan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/jeyasrimsyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "XvyYE3V",
+          "type": "Link",
+          "title": "VLC Media Player in Xamarin Forms (Alternative AVPlayer AndMediaPlayer)",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/vlc-media-player-in-xamarinforms-alternative-avplayer-andmediaplayer/",
+          "description": "<p>Using VLC Media Player in Xamarin Forms; VLC is a powerful media player, that works better than the native AVPlayer and Android media player.</p>\n\n<p><a href=\"https://doumer.me/vlc-media-player-in-xamarinforms-alternative-avplayer-andmediaplayer/\"><strong>VLC Media Player in Xamarin Forms (Alternative AVPlayer AndMediaPlayer)</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "Using VLC Media Player in Xamarin Forms; VLC is a powerful media player, that works better than the native AVPlayer and Android media player.\r\n\r\n[**VLC Media Player in Xamarin Forms (Alternative AVPlayer AndMediaPlayer)**](https://doumer.me/vlc-media-player-in-xamarinforms-alternative-avplayer-andmediaplayer/) by [Damien Doumer](https://twitter.com/damien_doumer)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "dathSQw",
+              "title": "**VLC Media Player in Xamarin Forms (Alternative AVPlayer AndMediaPlayer)**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/vlc-media-player-in-xamarinforms-alternative-avplayer-andmediaplayer/"
+            },
+            {
+              "identifier": "EW6yHuR",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        },
+        {
+          "identifier": "B62GhJh",
+          "type": "Link",
+          "title": "Xamarin.Forms UI/UX Challenges - Micuna Food - Part3",
+          "url_domain": "github.io",
+          "url": "https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part3/",
+          "description": "<p>In this third part of the Challenge I will go beyond design, I will add functionality to the share icon making use of two of the most popular Xamarin.Forms libraries, which are Xamarin Community Toolkit and Xamarin.Essentials.</p>\n\n<p><a href=\"https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part3/\"><strong>Xamarin.Forms UI/UX Challenges - Micuna Food - Part3</strong></a> by <a href=\"https://twitter.com/DanielMonetelli\">Daniel Monetelli</a></p>",
+          "description_markdown": "In this third part of the Challenge I will go beyond design, I will add functionality to the share icon making use of two of the most popular Xamarin.Forms libraries, which are Xamarin Community Toolkit and Xamarin.Essentials.\r\n\r\n[**Xamarin.Forms UI/UX Challenges - Micuna Food - Part3**](https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part3/) by [Daniel Monetelli](https://twitter.com/DanielMonetelli)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "m6rq4co",
+              "title": "**Xamarin.Forms UI/UX Challenges - Micuna Food - Part3**",
+              "url_domain": "github.io",
+              "url": "https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part3/"
+            },
+            {
+              "identifier": "ZVmMb08",
+              "title": "Daniel Monetelli",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DanielMonetelli"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "Ew0TMK5",
+          "type": "Link",
+          "title": "Xaml MVVM, Comet MVU and Mobile Blazor Binding in #DotNetMaui",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/xaml-mvvm-comet-mvu-mobile-blazor-binding-dotnetmaui/",
+          "description": "<p>While it's true that .Net Maui (#DotNetMaui) xamarin forms evolution comes with a lot of new features, there are a few things that the community is quite interested in, and these are the design patterns.</p>\n\n<p><a href=\"https://luismts.com/xaml-mvvm-comet-mvu-mobile-blazor-binding-dotnetmaui/\"><strong>Xaml MVVM, Comet MVU and Mobile Blazor Binding in #DotNetMaui</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "While it's true that .Net Maui (#DotNetMaui) xamarin forms evolution comes with a lot of new features, there are a few things that the community is quite interested in, and these are the design patterns.\r\n\r\n[**Xaml MVVM, Comet MVU and Mobile Blazor Binding in #DotNetMaui**](https://luismts.com/xaml-mvvm-comet-mvu-mobile-blazor-binding-dotnetmaui/) by [Luis Matos](https://twitter.com/luismatosluna)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "AJh0km4",
+              "title": "**Xaml MVVM, Comet MVU and Mobile Blazor Binding in #DotNetMaui**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/xaml-mvvm-comet-mvu-mobile-blazor-binding-dotnetmaui/"
+            },
+            {
+              "identifier": "kmyVNiK",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "security",
+      "name": "SECURITY",
+      "items": [
+        {
+          "identifier": "DqDN2ip",
+          "type": "Link",
+          "title": "Setting up an Idenity Server for your Xamarin app",
+          "url_domain": "mallibone.com",
+          "url": "https://mallibone.com/post/xamarin-identity-server",
+          "description": "<p>Have you ever wondered how hard it would be to set up a minimal viable authentication server that uses industry standards and usable from your mobile Xamarin application? Well, I have, and I believe in having found a solution that can be a great starting point and will allow you to expand the answer should you ever need to do so.</p>\n\n<p><a href=\"https://mallibone.com/post/xamarin-identity-server\"><strong>Setting up an Idenity Server for your Xamarin app</strong></a> by <a href=\"https://twitter.com/mallibone\">Mark Allibone</a></p>",
+          "description_markdown": "Have you ever wondered how hard it would be to set up a minimal viable authentication server that uses industry standards and usable from your mobile Xamarin application? Well, I have, and I believe in having found a solution that can be a great starting point and will allow you to expand the answer should you ever need to do so.\r\n\r\n[**Setting up an Idenity Server for your Xamarin app**](https://mallibone.com/post/xamarin-identity-server) by [Mark Allibone](https://twitter.com/mallibone)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "jDhjvl0",
+              "title": "**Setting up an Idenity Server for your Xamarin app**",
+              "url_domain": "mallibone.com",
+              "url": "https://mallibone.com/post/xamarin-identity-server"
+            },
+            {
+              "identifier": "J8OM918",
+              "title": "Mark Allibone",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mallibone"
+            }
+          ]
+        },
+        {
+          "identifier": "RN1f75B",
+          "type": "Link",
+          "title": "Using OIDC client in Xamarin Forms to refresh your access token",
+          "url_domain": "mallibone.com",
+          "url": "https://mallibone.com/post/xamarin-oidc-refresh",
+          "description": "<p>So you decided to take use OpenIdentity Connect / OAuth for authenticating your users in your Xamarin app. The great thing is that your client application will never see or process the username and password, which reduces the possible attack vector. Instead, all your app ever receives is an access token that grants to access APIs that require authenticated users. But there is a minor caveat. The access token often is only valid for a short time. With IdentityServer, the default is 60 minutes. Which would, in theory, mean that your user has to authenticate - read enter username and password - every hour. That is seriously uncool, and there surely must be a better way. There is. The app can renew the access token with a refresh token on the user's behalf without any interaction required.</p>\n\n<p><a href=\"https://mallibone.com/post/xamarin-oidc-refresh\"><strong>Using OIDC client in Xamarin Forms to refresh your access token</strong></a> by <a href=\"https://twitter.com/mallibone\">Mark Allibone</a></p>",
+          "description_markdown": "So you decided to take use OpenIdentity Connect / OAuth for authenticating your users in your Xamarin app. The great thing is that your client application will never see or process the username and password, which reduces the possible attack vector. Instead, all your app ever receives is an access token that grants to access APIs that require authenticated users. But there is a minor caveat. The access token often is only valid for a short time. With IdentityServer, the default is 60 minutes. Which would, in theory, mean that your user has to authenticate - read enter username and password - every hour. That is seriously uncool, and there surely must be a better way. There is. The app can renew the access token with a refresh token on the user's behalf without any interaction required.\r\n\r\n[**Using OIDC client in Xamarin Forms to refresh your access token**](https://mallibone.com/post/xamarin-oidc-refresh) by [Mark Allibone](https://twitter.com/mallibone)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "VkyNYMx",
+              "title": "**Using OIDC client in Xamarin Forms to refresh your access token**",
+              "url_domain": "mallibone.com",
+              "url": "https://mallibone.com/post/xamarin-oidc-refresh"
+            },
+            {
+              "identifier": "H3AuSgn",
+              "title": "Mark Allibone",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mallibone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "nuget",
+      "name": "NUGET OF THE WEEK",
+      "items": [
+        {
+          "identifier": "jW56LhV",
+          "type": "Link",
+          "title": "MVVM Navigation, Converters, Multi-language all in one place ",
+          "url_domain": "banditoth.hu",
+          "url": "https://www.banditoth.hu/2021/05/10/xamarin-forms-mvvm-navigation-converters-multi-language-all-in-one-place/",
+          "description": "<p>A toolkit for Xamarin.Forms, inspired by hours of hours re implementation of the same navigation logic, converters, and the other tools needed to build a mobile app idea. The library includes MVVM Navigation through Bindable objects implementing INotifyPropertychanged, and XAML Converters, Multi-language tools.</p>\n\n<p><a href=\"https://www.banditoth.hu/2021/05/10/xamarin-forms-mvvm-navigation-converters-multi-language-all-in-one-place/\"><strong>Xamarin Forms: MVVM Navigation, Converters, Multi-language all in one place </strong></a> by <a href=\"https://www.linkedin.com/in/banditoth/\">András Tóth</a></p>",
+          "description_markdown": "A toolkit for Xamarin.Forms, inspired by hours of hours re implementation of the same navigation logic, converters, and the other tools needed to build a mobile app idea. The library includes MVVM Navigation through Bindable objects implementing INotifyPropertychanged, and XAML Converters, Multi-language tools.\r\n\r\n[**Xamarin Forms: MVVM Navigation, Converters, Multi-language all in one place **](https://www.banditoth.hu/2021/05/10/xamarin-forms-mvvm-navigation-converters-multi-language-all-in-one-place/) by [András Tóth](https://www.linkedin.com/in/banditoth/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "mlJBaS1",
+              "title": "**Xamarin Forms: MVVM Navigation, Converters, Multi-language all in one place **",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/2021/05/10/xamarin-forms-mvvm-navigation-converters-multi-language-all-in-one-place/"
+            },
+            {
+              "identifier": "bNc0HIm",
+              "title": "András Tóth",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/banditoth/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "onxsrnN",
+          "type": "Link",
+          "title": "Implement Push Notifications with Xamarin.Forms (Android) and FCM",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=7w2q2D6mR7g",
+          "description": "<p>In this video we will learn how to implement remote push notifications with Firebase Cloud Messaging (FCM). This first video of a series will implement it in your Xamarin.Forms Android app. We will see how to setup a Firebase project, get all the bits we need all the way down to actually receiving a push notification.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=7w2q2D6mR7g\"><strong>Implement Push Notifications with Xamarin.Forms (Android) and FCM</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "In this video we will learn how to implement remote push notifications with Firebase Cloud Messaging (FCM). This first video of a series will implement it in your Xamarin.Forms Android app. We will see how to setup a Firebase project, get all the bits we need all the way down to actually receiving a push notification.\r\n\r\n[**Implement Push Notifications with Xamarin.Forms (Android) and FCM**](https://www.youtube.com/watch?v=7w2q2D6mR7g) by [Gerald Versluis](https://twitter.com/jfversluis)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "RDTCsqT",
+              "title": "**Implement Push Notifications with Xamarin.Forms (Android) and FCM**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=7w2q2D6mR7g"
+            },
+            {
+              "identifier": "3EiW11l",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "P2ay6Dv",
+          "type": "Link",
+          "title": "Pass Data From and To Popups with Xamarin Community Toolkit",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=d2SEOj0o5j4",
+          "description": "<p>Under my video about the Xamarin Community Toolkit popups I got a lot of questions about passing data to or returning data from the popup. In this video we will see two examples: returning simple data from the popup and also how to pass in data and return a strongly typed complex object. After this you know all about implementing rich popups in your Xamarin.Forms app. Lots to cover in this one, let's goooo!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=d2SEOj0o5j4\"><strong>Pass Data From and To Popups with Xamarin Community Toolkit</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Under my video about the Xamarin Community Toolkit popups I got a lot of questions about passing data to or returning data from the popup. In this video we will see two examples: returning simple data from the popup and also how to pass in data and return a strongly typed complex object. After this you know all about implementing rich popups in your Xamarin.Forms app. Lots to cover in this one, let's goooo!\r\n\r\n[**Pass Data From and To Popups with Xamarin Community Toolkit**](https://www.youtube.com/watch?v=d2SEOj0o5j4) by [Gerald Versluis](https://twitter.com/jfversluis)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "p7SW1bs",
+              "title": "**Pass Data From and To Popups with Xamarin Community Toolkit**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=d2SEOj0o5j4"
+            },
+            {
+              "identifier": "duUgbsH",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "9sNrHOa",
+          "type": "Link",
+          "title": "Dynamic App Themes in Xamarin.Forms - Light, Dark, & Custom Modes",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=4w8TQ8njd3w",
+          "description": "<p>Now that we have started to style our application is it time to have themes for our users as well. Devices now adays at a minimum support a light and dark mode, but it is also great to offer custom theme for your users. Today, I will walk through how to set it all up with Xamarin.Forms built in support for theming with AppThemeBinding and DynamicResources.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=4w8TQ8njd3w\"><strong>Dynamic App Themes in Xamarin.Forms - Light, Dark, &amp; Custom Modes</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Now that we have started to style our application is it time to have themes for our users as well. Devices now adays at a minimum support a light and dark mode, but it is also great to offer custom theme for your users. Today, I will walk through how to set it all up with Xamarin.Forms built in support for theming with AppThemeBinding and DynamicResources.\r\n\r\n[**Dynamic App Themes in Xamarin.Forms - Light, Dark, & Custom Modes**](https://www.youtube.com/watch?v=4w8TQ8njd3w) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "rfm15sx",
+              "title": "**Dynamic App Themes in Xamarin.Forms - Light, Dark, & Custom Modes**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=4w8TQ8njd3w"
+            },
+            {
+              "identifier": "WrMhKuT",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "Jmw3gKB",
+          "type": "Link",
+          "title": "DevTalk 63: Shiny.NET. With Allan Ritchie",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-63-allan-ritchie/",
+          "description": "<p>On this episode of DevTalk Kerry speaks to Allan Ritchie about the Xamarin-focused library Shiny.NET.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-63-allan-ritchie/\"><strong>63: Shiny.NET. With Allan Ritchie</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk Kerry speaks to Allan Ritchie about the Xamarin-focused library Shiny.NET.\r\n\r\n[**63: Shiny.NET. With Allan Ritchie**](https://kerry.lothrop.de/devtalk-63-allan-ritchie/) by [Kerry Lothrop](https://twitter.com/kwlothrop)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ZH1UE4g",
+              "title": "**63: Shiny.NET. With Allan Ritchie**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-63-allan-ritchie/"
+            },
+            {
+              "identifier": "vZExBxV",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        },
+        {
+          "identifier": "JeiHXaa",
+          "type": "Link",
+          "title": "Show SnackBar and Toast Messages in Xamarin.Forms Apps",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=qil1XWqAStM",
+          "description": "<p>Showing a quick message to the user can be done with a toast message. Or, maybe let the user even undo a recent action with a SnackBar message. Both can now be implemented with the XamarinCommunityToolkit in your Xamarin.Forms application. In this video we will learn the difference between SnackBar and Toast and see how to implement these.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=qil1XWqAStM\"><strong>Show SnackBar and Toast Messages in Xamarin.Forms Apps</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Showing a quick message to the user can be done with a toast message. Or, maybe let the user even undo a recent action with a SnackBar message. Both can now be implemented with the XamarinCommunityToolkit in your Xamarin.Forms application. In this video we will learn the difference between SnackBar and Toast and see how to implement these.\r\n\r\n[**Show SnackBar and Toast Messages in Xamarin.Forms Apps**](https://www.youtube.com/watch?v=qil1XWqAStM) by [Gerald Versluis](https://twitter.com/jfversluis)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "qHRgWey",
+              "title": "**Show SnackBar and Toast Messages in Xamarin.Forms Apps**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=qil1XWqAStM"
+            },
+            {
+              "identifier": "3CgqDKJ",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "RKshc7G",
+          "type": "Link",
+          "title": "Merge Conflict: 254: AirTag Development",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/254",
+          "description": "<p>Apple AirTags are here, and Frank is ready to do some programming with them... but can he? What are Apple's mysterious APIs that should work with this wonderful device do?</p>\n\n<p><a href=\"https://www.mergeconflict.fm/254\"><strong>Merge Conflict: 254: AirTag Development</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Apple AirTags are here, and Frank is ready to do some programming with them... but can he? What are Apple's mysterious APIs that should work with this wonderful device do?\r\n\r\n[**Merge Conflict: 254: AirTag Development**](https://www.mergeconflict.fm/254) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "4sL9TCk",
+              "title": "**Merge Conflict: 254: AirTag Development**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/254"
+            },
+            {
+              "identifier": "hAjmHTw",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "bsbfivu",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 92: May 2021 - It's Almost Build Time!",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/92",
+          "description": "<p>This month James &amp; Matt welcome back David Ortinau from an update on .NET MAUI and all the other goodness that you expect.</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/92\"><strong>The Xamarin Podcast Episode 92: May 2021 - It's Almost Build Time!</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "This month James & Matt welcome back David Ortinau from an update on .NET MAUI and all the other goodness that you expect.\r\n\r\n[**The Xamarin Podcast Episode 92: May 2021 - It's Almost Build Time!**](https://www.xamarinpodcast.com/92) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "TXJIjWe",
+              "title": "**The Xamarin Podcast Episode 92: May 2021 - It's Almost Build Time!**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/92"
+            },
+            {
+              "identifier": "EcGFKcm",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        },
+        {
+          "identifier": "6UING84",
+          "type": "Link",
+          "title": "Custom Fonts & Font Icons/Images in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=jZARFd8Gno0",
+          "description": "<p>Goodbye static images and hello font icons! That is right, I am here to show you how to reduce your development time by using font icons inside of your Xamarin.Forms applications. I also walk through how to put in any custom font into your application with just a single line of code.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=jZARFd8Gno0\"><strong>Custom Fonts &amp; Font Icons/Images in Xamarin.Forms</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Goodbye static images and hello font icons! That is right, I am here to show you how to reduce your development time by using font icons inside of your Xamarin.Forms applications. I also walk through how to put in any custom font into your application with just a single line of code.\r\n\r\n[**Custom Fonts & Font Icons/Images in Xamarin.Forms**](https://www.youtube.com/watch?v=jZARFd8Gno0) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "vm0UOIj",
+              "title": "**Custom Fonts & Font Icons/Images in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=jZARFd8Gno0"
+            },
+            {
+              "identifier": "nEhK00V",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "GtL3jDn",
+          "type": "Link",
+          "title": "Local Push Notifications in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=-Nj_TRPlx-8",
+          "description": "<p>With local notifications you can draw users back to your application or notify them of something. You can schedule notifications in advance and even make them recurring! There are lots of options that you will see in this video.</p>\n\n<p>The Plugin.LocalNotification makes implementing local notifications a breeze. In this video we will learn how to set it up and how powerful they can be.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=-Nj_TRPlx-8\"><strong>Local Push Notifications in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/jfversluis/\">Gerald Versluis</a></p>",
+          "description_markdown": "With local notifications you can draw users back to your application or notify them of something. You can schedule notifications in advance and even make them recurring! There are lots of options that you will see in this video.\r\n\r\nThe Plugin.LocalNotification makes implementing local notifications a breeze. In this video we will learn how to set it up and how powerful they can be.\r\n\r\n[**Local Push Notifications in Xamarin.Forms**](https://www.youtube.com/watch?v=-Nj_TRPlx-8) by [Gerald Versluis](https://twitter.com/jfversluis/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "FgkCS9J",
+              "title": "**Local Push Notifications in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=-Nj_TRPlx-8"
+            },
+            {
+              "identifier": "bQRI6jC",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis/"
+            }
+          ]
+        },
+        {
+          "identifier": "rbQQCWh",
+          "type": "Link",
+          "title": "Merge Conflict: 253: Past, Present, & Future of Ooui",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/253",
+          "description": "<p>Frank discusses the Object Oriented UI Library, Ooui! He talks about where it came from and where it is going.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/253\"><strong>Merge Conflict: 253: Past, Present, &amp; Future of Ooui</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Frank discusses the Object Oriented UI Library, Ooui! He talks about where it came from and where it is going.\r\n\r\n[**Merge Conflict: 253: Past, Present, & Future of Ooui**](https://www.mergeconflict.fm/253) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "4ytWSJ6",
+              "title": "**Merge Conflict: 253: Past, Present, & Future of Ooui**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/253"
+            },
+            {
+              "identifier": "uSAO8Yt",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "STi0J4y",
+          "type": "Link",
+          "title": "Using VLC Media Player in Xamarin Forms Projects",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=LrHtotEyj_M",
+          "description": "<p>Today we will talk about playing media in our Xamarin Forms apps. The VLC media player is more powerful than native Players on iOS and Android and can be an awesome alternative to these native media players. In addition to that, it is easy to get started with, so let's dive in.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=LrHtotEyj_M\"><strong>Using VLC Media Player in Xamarin Forms Projects</strong></a> by <a href=\"https://www.youtube.com/channel/UCdIg2HyCYIa4u75NLnfpt7A\">Cool Coders</a></p>",
+          "description_markdown": "Today we will talk about playing media in our Xamarin Forms apps. The VLC media player is more powerful than native Players on iOS and Android and can be an awesome alternative to these native media players. In addition to that, it is easy to get started with, so let's dive in.\r\n\r\n[**Using VLC Media Player in Xamarin Forms Projects**](https://www.youtube.com/watch?v=LrHtotEyj_M) by [Cool Coders](https://www.youtube.com/channel/UCdIg2HyCYIa4u75NLnfpt7A)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "TO0iFFU",
+              "title": "**Using VLC Media Player in Xamarin Forms Projects**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=LrHtotEyj_M"
+            },
+            {
+              "identifier": "MrtEAkC",
+              "title": "Cool Coders",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCdIg2HyCYIa4u75NLnfpt7A"
+            }
+          ]
+        },
+        {
+          "identifier": "z9Icdyo",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 93: Blackbaud",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/93",
+          "description": "<p>Another customer success story! This time find out how Blackbaud started from no Xamarin experience to delivering a complexing mobile payment terminal to help nonprofits - even with bindings to hardware!</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/93\"><strong>The Xamarin Podcast Episode 93: Blackbaud</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "Another customer success story! This time find out how Blackbaud started from no Xamarin experience to delivering a complexing mobile payment terminal to help nonprofits - even with bindings to hardware!\r\n\r\n[**The Xamarin Podcast Episode 93: Blackbaud**](https://www.xamarinpodcast.com/93) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "HrLPtFa",
+              "title": "**The Xamarin Podcast Episode 93: Blackbaud**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/93"
+            },
+            {
+              "identifier": "GS61gKo",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        },
+        {
+          "identifier": "m6ignGk",
+          "type": "Link",
+          "title": "Improving Accessibility with Xamarin Community Toolkit",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Improving-Accessibility-with-Xamarin-Community-Toolkit",
+          "description": "<p>With the SemanticEffect and SemanticOrderView in the Xamarin Community Toolkit you now have all the tools to make your Xamarin.Forms app more accessible. In this episode I am joined by Shane Neuville</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Improving-Accessibility-with-Xamarin-Community-Toolkit\"><strong>Improving Accessibility with Xamarin Community Toolkit</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "With the SemanticEffect and SemanticOrderView in the Xamarin Community Toolkit you now have all the tools to make your Xamarin.Forms app more accessible. In this episode I am joined by Shane Neuville\r\n\r\n[**Improving Accessibility with Xamarin Community Toolkit**](https://channel9.msdn.com/Shows/XamarinShow/Improving-Accessibility-with-Xamarin-Community-Toolkit) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Zcv9e25",
+              "title": "**Improving Accessibility with Xamarin Community Toolkit**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Improving-Accessibility-with-Xamarin-Community-Toolkit"
+            },
+            {
+              "identifier": "YWNqgb",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "D05Ukq4",
+          "type": "Link",
+          "title": "EnumToIntConverter (Xamarin Community Toolkit)",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/EnumToIntConverter-Xamarin-Community-Toolkit",
+          "description": "<p>Data-binding can be a hassle whenever you have to use enum values. With the EnumToIntConverter that is now included in the Xamarin Community Toolkit it is easier than ever to work with enums. In this</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/EnumToIntConverter-Xamarin-Community-Toolkit\"><strong>EnumToIntConverter (Xamarin Community Toolkit)</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "Data-binding can be a hassle whenever you have to use enum values. With the EnumToIntConverter that is now included in the Xamarin Community Toolkit it is easier than ever to work with enums. In this\r\n\r\n[**EnumToIntConverter (Xamarin Community Toolkit)**](https://channel9.msdn.com/Shows/XamarinShow/EnumToIntConverter-Xamarin-Community-Toolkit) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "y35DveS",
+              "title": "**EnumToIntConverter (Xamarin Community Toolkit)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/EnumToIntConverter-Xamarin-Community-Toolkit"
+            },
+            {
+              "identifier": "dB4SQgX",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "317ENuh",
+          "type": "Link",
+          "title": "Magic Gradients | The Xamarin Show",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Magic-Gradients--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by Bohdan Benetskyi, mobile developer &amp; contributor to Magic Gradients, an awesome library built on SkiaSharp for awesome gradients in your Xamarin apps! Show Links: Mag</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Magic-Gradients--The-Xamarin-Show\"><strong>Magic Gradients | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "This week, James is joined by Bohdan Benetskyi, mobile developer &amp; contributor to Magic Gradients, an awesome library built on SkiaSharp for awesome gradients in your Xamarin apps! Show Links: Mag\r\n\r\n[**Magic Gradients | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Magic-Gradients--The-Xamarin-Show) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Hbv6s72",
+              "title": "**Magic Gradients | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Magic-Gradients--The-Xamarin-Show"
+            },
+            {
+              "identifier": "UlxmGjN",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "8OELj67",
+          "type": "Link",
+          "title": "Multimedia with MediaElement (Xamarin Community Toolkit)",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Multimedia-with-MediaElement-Xamarin-Community-Toolkit",
+          "description": "<p>Playing audio and video in your Xamarin.Forms app has never been easier. In this episode I have Peter Foot on who tells us about the MediaElement. With the MediaElement, now available in the Xamarin Community Toolkit, you can play both local and remote video and audio files.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Multimedia-with-MediaElement-Xamarin-Community-Toolkit\"><strong>Multimedia with MediaElement (Xamarin Community Toolkit)</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "Playing audio and video in your Xamarin.Forms app has never been easier. In this episode I have Peter Foot on who tells us about the MediaElement. With the MediaElement, now available in the Xamarin Community Toolkit, you can play both local and remote video and audio files.\r\n\r\n[**Multimedia with MediaElement (Xamarin Community Toolkit)**](https://channel9.msdn.com/Shows/XamarinShow/Multimedia-with-MediaElement-Xamarin-Community-Toolkit) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "L8ZWJC6",
+              "title": "**Multimedia with MediaElement (Xamarin Community Toolkit)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Multimedia-with-MediaElement-Xamarin-Community-Toolkit"
+            },
+            {
+              "identifier": "NQyzFVL",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "IOdOFky",
+          "type": "Link",
+          "title": "he future of modern application development with .NET",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=2Ky28Et3gy0",
+          "description": "<p>.NET 6 is the next version of .NET, a modern, open-source development platform for building apps for any OS with the best performance and productivity. .NET 6 completes the unification of the platform and adds new capabilities for building web, native and hybrid apps for Linux, Windows, Mac, iOS and Android with a single codebase. See how to write less code, target more devices and build cloud native apps faster. Learn how to move your .NET Framework apps forward with the .NET Upgrade Assistant.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=2Ky28Et3gy0\"><strong>The future of modern application development with .NET | BRK213</strong></a> by <a href=\"https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g\">Microsoft Developer</a></p>",
+          "description_markdown": ".NET 6 is the next version of .NET, a modern, open-source development platform for building apps for any OS with the best performance and productivity. .NET 6 completes the unification of the platform and adds new capabilities for building web, native and hybrid apps for Linux, Windows, Mac, iOS and Android with a single codebase. See how to write less code, target more devices and build cloud native apps faster. Learn how to move your .NET Framework apps forward with the .NET Upgrade Assistant.\r\n\r\n[**The future of modern application development with .NET | BRK213**](https://www.youtube.com/watch?v=2Ky28Et3gy0) by [Microsoft Developer](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "adnmOHA",
+              "title": "**The future of modern application development with .NET | BRK213**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=2Ky28Et3gy0"
+            },
+            {
+              "identifier": "fSTk82j",
+              "title": "Microsoft Developer",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g"
+            }
+          ]
+        },
+        {
+          "identifier": "I0FWG0r",
+          "type": "Link",
+          "title": "Azure DevOps Podcast: David Ortinau on Multi-Platform App Development Using .NET MAUI - Episode 142",
+          "url_domain": "clear-measure.com",
+          "url": "http://azuredevopspodcast.clear-measure.com/david-ortinau-on-multi-platform-app-development-using-net-maui-episode-142",
+          "description": "<p>In this episode, Jeffrey Palermo is speaking with David Ortinau. He takes listeners through the ins and outs of multi-platform app development using .NET MAUI.  He shares what developers can look forward to come the November release and provides a full rundown of what it looks like to use .NET MAUI from wrapping the local environment and building to testing to packaging and deploying. Don't miss out on learning about what makes .NET MAUI a powerful tool you should be on the lookout for!</p>\n\n<p><a href=\"http://azuredevopspodcast.clear-measure.com/david-ortinau-on-multi-platform-app-development-using-net-maui-episode-142\"><strong>Azure DevOps Podcast: David Ortinau on Multi-Platform App Development Using .NET MAUI - Episode 142</strong></a> by <a href=\"http://azuredevopspodcast.clear-measure.com/\">Azure DevOps Podcast</a></p>",
+          "description_markdown": "In this episode, Jeffrey Palermo is speaking with David Ortinau. He takes listeners through the ins and outs of multi-platform app development using .NET MAUI.  He shares what developers can look forward to come the November release and provides a full rundown of what it looks like to use .NET MAUI from wrapping the local environment and building to testing to packaging and deploying. Don't miss out on learning about what makes .NET MAUI a powerful tool you should be on the lookout for!\r\n\r\n[**Azure DevOps Podcast: David Ortinau on Multi-Platform App Development Using .NET MAUI - Episode 142**](http://azuredevopspodcast.clear-measure.com/david-ortinau-on-multi-platform-app-development-using-net-maui-episode-142) by [Azure DevOps Podcast](http://azuredevopspodcast.clear-measure.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "M8Gmn8I",
+              "title": "**Azure DevOps Podcast: David Ortinau on Multi-Platform App Development Using .NET MAUI - Episode 142**",
+              "url_domain": "clear-measure.com",
+              "url": "http://azuredevopspodcast.clear-measure.com/david-ortinau-on-multi-platform-app-development-using-net-maui-episode-142"
+            },
+            {
+              "identifier": "ErHbykQ",
+              "title": "Azure DevOps Podcast",
+              "url_domain": "clear-measure.com",
+              "url": "http://azuredevopspodcast.clear-measure.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "I1ksnam",
+          "type": "Link",
+          "title": ".NET MAUI Preview 4: Time For You To Get Started?",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=23PmntSTBIQ",
+          "description": "<p>At Microsoft Build 2021 .NET MAUI Preview 4 was launched. This version is already pretty complete and starts to reflect what the end result is going to look like. In this video I will show you the new .NET MAUI template in Visual Studio 2019 and walk you through the Weather 21 demo app.</p>\n\n<p>Be ready for a built-in cross-platform splash screen, shared resources, SVG support and much more!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=23PmntSTBIQ\"><strong>.NET MAUI Preview 4: Time For You To Get Started?</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "At Microsoft Build 2021 .NET MAUI Preview 4 was launched. This version is already pretty complete and starts to reflect what the end result is going to look like. In this video I will show you the new .NET MAUI template in Visual Studio 2019 and walk you through the Weather 21 demo app.\r\n\r\nBe ready for a built-in cross-platform splash screen, shared resources, SVG support and much more!\r\n\r\n[**.NET MAUI Preview 4: Time For You To Get Started?**](https://www.youtube.com/watch?v=23PmntSTBIQ) by [Gerald Versluis](https://twitter.com/jfversluis)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Gy5xbuu",
+              "title": "**.NET MAUI Preview 4: Time For You To Get Started?**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=23PmntSTBIQ"
+            },
+            {
+              "identifier": "mqt7lHC",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "MgSIsEM",
+          "type": "Link",
+          "title": "All new features in Plugin.ValidationRules 1.3 ",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/plugin-validationrules-1-3/",
+          "description": "<p>Luis recommends the Plugin.ValidationRules library and it has a version 1.3 release which includes a lot of new features to speed up our work.</p>\n\n<p><a href=\"https://luismts.com/plugin-validationrules-1-3/\"><strong>Plugin.ValidationRules 1.3 for Xamarin and Windows</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Luis recommends the Plugin.ValidationRules library and it has a version 1.3 release which includes a lot of new features to speed up our work.\r\n\r\n[**Plugin.ValidationRules 1.3 for Xamarin and Windows**](https://luismts.com/plugin-validationrules-1-3/) by [Luis Matos](https://twitter.com/luismatosluna)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "izKzet4",
+              "title": "**Plugin.ValidationRules 1.3 for Xamarin and Windows**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/plugin-validationrules-1-3/"
+            },
+            {
+              "identifier": "hXKAedw",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "Bt5PifE",
+          "type": "Link",
+          "title": "Announcing .NET MAUI Preview 4",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-4/",
+          "description": "<p>Today we are pleased to announce the availability of .NET Multi-platform App UI (.NET MAUI) Preview 4. Each preview introduces more controls and features to this multi-platform toolkit on our way to general availability this November at .NET Conf. .NET MAUI now has enough building blocks to build functional applications for all supported platforms,</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-4/\"><strong>Announcing .NET MAUI Preview 4 | .NET Blog</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/davidortinau/\">David Ortinau</a></p>",
+          "description_markdown": "Today we are pleased to announce the availability of .NET Multi-platform App UI (.NET MAUI) Preview 4. Each preview introduces more controls and features to this multi-platform toolkit on our way to general availability this November at .NET Conf. .NET MAUI now has enough building blocks to build functional applications for all supported platforms,\r\n\r\n[**Announcing .NET MAUI Preview 4 | .NET Blog**](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-4/) by [David Ortinau](https://devblogs.microsoft.com/xamarin/author/davidortinau/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "MP8gIAT",
+              "title": "**Announcing .NET MAUI Preview 4 | .NET Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-4/"
+            },
+            {
+              "identifier": "zPJYpvE",
+              "title": "David Ortinau",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/davidortinau/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

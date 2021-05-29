@@ -371,6 +371,16 @@
       ]
     },
     {
+      "Name": "Azure DevOps Podcast",
+      "Id": "http://azuredevopspodcast.clear-measure.com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "http://azuredevopspodcast.clear-measure.com/"
+        }
+      ]
+    },
+    {
       "Name": "Balaji Renganathan",
       "Id": "https://www.syncfusion.com/blogs/author/balajirsyncfusion-com",
       "Aliases": [
@@ -635,6 +645,16 @@
       ]
     },
     {
+      "Name": "Cool Coders",
+      "Id": "https://www.youtube.com/channel/ucdig2hycyia4u75nlnfpt7a",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.youtube.com/channel/ucdig2hycyia4u75nlnfpt7a"
+        }
+      ]
+    },
+    {
       "Name": "Craig Dunn",
       "Id": "https://devblogs.microsoft.com/surface-duo/author/craigdunn/",
       "Aliases": [
@@ -739,6 +759,16 @@
       "GitHubHandle": "danielcauser",
       "Id": "https://twitter.com/danielcauser",
       "Website": "https://causerexception.com/"
+    },
+    {
+      "Name": "Daniel Cazzulino",
+      "Id": "https://twitter.com/kzu",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/kzu"
+        }
+      ]
     },
     {
       "Name": "Daniel Gauthier",
@@ -1393,6 +1423,16 @@
       "GitHubHandle": "jesulink2514",
       "Id": "https://twitter.com/jesulink2514",
       "Website": "https://somostechies.com"
+    },
+    {
+      "Name": "Jeyasri Murugan",
+      "Id": "https://www.syncfusion.com/blogs/author/jeyasrimsyncfusion-com",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.syncfusion.com/blogs/author/jeyasrimsyncfusion-com"
+        }
+      ]
     },
     {
       "Name": "Jim Bennett",
@@ -2064,6 +2104,16 @@
       ]
     },
     {
+      "Name": "Microsoft Developer",
+      "Id": "https://www.youtube.com/channel/ucsmica-v34irf9kvth6xx-g",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.youtube.com/channel/ucsmica-v34irf9kvth6xx-g"
+        }
+      ]
+    },
+    {
       "Name": "Mike Grant",
       "TwitterHandle": "mike_grant_",
       "GitHubHandle": "mike-grant",
@@ -2461,6 +2511,16 @@
       ]
     },
     {
+      "Name": "Rishi Mody",
+      "Id": "https://twitter.com/rishmody",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/rishmody"
+        }
+      ]
+    },
+    {
       "Name": "Robin Schroeder",
       "TwitterHandle": "RTSchroeder",
       "GitHubHandle": "robintschroeder",
@@ -2558,6 +2618,16 @@
         {
           "Type": "blog",
           "Name": "https://xamaringuyshow.com/author/samirgc/"
+        }
+      ]
+    },
+    {
+      "Name": "Sanjay Ratnottar",
+      "Id": "https://twitter.com/sanjayratnottar",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/sanjayratnottar"
         }
       ]
     },
@@ -2915,6 +2985,16 @@
       "Website": "https://timothelariviere.com"
     },
     {
+      "Name": "Toast Studio\r\n",
+      "Id": "http://www.screensizes.app/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "http://www.screensizes.app/"
+        }
+      ]
+    },
+    {
       "Name": "Tom Soderling",
       "TwitterHandle": "tomsoderling",
       "GitHubHandle": "TomSoderling",
@@ -2996,6 +3076,16 @@
       "GitHubHandle": "umairhassan003",
       "Id": "https://twitter.com/umairhassan03",
       "Website": "https://xamarinweb.com/"
+    },
+    {
+      "Name": "UX Tools",
+      "Id": "https://uxtools.co/about/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://uxtools.co/about/"
+        }
+      ]
     },
     {
       "Name": "Vadim Sedov",
@@ -3111,6 +3201,16 @@
         {
           "Type": "blog",
           "Name": "https://www.waldo.io/"
+        }
+      ]
+    },
+    {
+      "Name": "Walter Aguilar",
+      "Id": "https://trailheadtechnology.com/author/walter-aguilar/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://trailheadtechnology.com/author/walter-aguilar/"
         }
       ]
     },

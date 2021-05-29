@@ -1,0 +1,326 @@
+{
+  "Id": "306",
+  "Name": "Issue 306",
+  "UpdatedTimeStamp": "2021-05-29T01:44:28Z",
+  "Summary": "No Edition Summary",
+  "Introduction": "Hey Everyone, sorry it's been a while.   Since we caught up last, there has been so many great community posts, a little conference called //BUILD, and .NET MAUI releases.  Wishing you and your family a fantastic weekend and please enjoy this edition. ❤ Kym",
+  "PublishDate": "2021-05-29T01:44:25Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "The Journey to Accessible Apps: Screen Readers",
+      "Url": "https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps-screen-readers/",
+      "Description": "Assistive technologies are tools that often reduce technological barriers that individuals may otherwise experience. This post focuses on on-screen readers, which are used by individuals with visual impairments, to access information that is otherwise inaccessible to them. However, it is important to be aware of as many various assistive technologies as you can be, as app developers striving to build the most accessible apps.",
+      "EditionId": "306",
+      "Author": "Rachel Kang",
+      "Id": "306-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "On Building a Fluid User Interface",
+      "Url": "https://about.instagram.com/blog/engineering/on-building-a-fluid-user-interface",
+      "Description": "We all want our applications user experience to feel tactile and fluid. This post shares some insights into a few of the creative implementations that give the Threads app its unique feel.",
+      "EditionId": "306",
+      "Author": "Rishi Mody",
+      "Id": "306-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Screen Sizes",
+      "Url": "https://www.screensizes.app/",
+      "Description": "This is a great reference that provides a complete guide for Apple iOS displays [**Screen Sizes**](https://www.screensizes.app/) by [Toast Studio](http://www.screensizes.app)",
+      "EditionId": "306",
+      "Author": "Toast Studio\r\n",
+      "Id": "306-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "The Write a .NET App on an iPad Challenge!",
+      "Url": "https://codemilltech.com/develop-net-apps-from-an-ipad/",
+      "Description": "Can you write an entire .NET app using an iPad? Not only write.. but run, debug, and install additional Azure tooling too? Yup.",
+      "EditionId": "306",
+      "Author": "Matthew Soucoup",
+      "Id": "306-4",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "NuGetizer as an alternative to .NET SDK Pack",
+      "Url": "https://www.cazzulino.com/nugetizer.html",
+      "Description": "There is a very long standing feature request for NuGet Pack to \"allow project reference DLLs to be added to the parent nupkg for pack target like IncludeReferencedProjects in nuget.exe\". This has been going on for years (5 almost as of 2021) and has had over 260 comments so far. Seems like quite the significant pain point for some customers. After participating a bit, and getting mentioned a few times with regards to NuGetizer, I thought a proper explanation of what it is and why it's not just a \"workaround\" for SDK Pack issues.",
+      "EditionId": "306",
+      "Author": "Daniel Cazzulino",
+      "Id": "306-5",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Telerik UI for Xamarin R2 2021: New Badge, Shadow and More",
+      "Url": "https://www.telerik.com/blogs/telerik-ui-for-xamarin-r2-2021-new-badge-shadow-controls-pdfviewer-features-and-more",
+      "Description": "Telerik UI for Xamarin R2 2021 ships new Badge, Shadow and SwissQR Code controls.",
+      "EditionId": "306",
+      "Author": "Yana Kerpecheva",
+      "Id": "306-6",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "How to Create a Choropleth Map",
+      "Url": "https://www.syncfusion.com/blogs/post/create-a-choropleth-map-in-a-xamarin-application.aspx",
+      "Description": "A choropleth map is a specialized type of geographic map in which regions are highlighted by color based on the data of those areas. They are appropriate for visualizing regional patterns in data. The higher the value is,  the darker the color will be in that region. This blog post explains how to create a choropleth map easily using the Syncfusion Xamarin Maps control.",
+      "EditionId": "306",
+      "Author": "Sheik Syed",
+      "Id": "306-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Easily Create a Meeting Room Calendar using Xamarin.Forms Scheduler",
+      "Url": "https://www.syncfusion.com/blogs/post/easily-create-a-meeting-room-calendar-using-xamarin-forms-scheduler.aspx",
+      "Description": "The Syncfusion scheduler control is super powerful. This blog post covers how to create a custom ui for showing meeting room calendars.",
+      "EditionId": "306",
+      "Author": "Jeyasri Murugan",
+      "Id": "306-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "VLC Media Player in Xamarin Forms (Alternative AVPlayer AndMediaPlayer)",
+      "Url": "https://doumer.me/vlc-media-player-in-xamarinforms-alternative-avplayer-andmediaplayer/",
+      "Description": "Using VLC Media Player in Xamarin Forms; VLC is a powerful media player, that works better than the native AVPlayer and Android media player.",
+      "EditionId": "306",
+      "Author": "Damien Doumer",
+      "Id": "306-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms UI/UX Challenges - Micuna Food - Part3",
+      "Url": "https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part3/",
+      "Description": "In this third part of the Challenge I will go beyond design, I will add functionality to the share icon making use of two of the most popular Xamarin.Forms libraries, which are Xamarin Community Toolkit and Xamarin.Essentials.",
+      "EditionId": "306",
+      "Author": "Daniel Monetelli",
+      "Id": "306-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xaml MVVM, Comet MVU and Mobile Blazor Binding in #DotNetMaui",
+      "Url": "https://luismts.com/xaml-mvvm-comet-mvu-mobile-blazor-binding-dotnetmaui/",
+      "Description": "While it's true that .Net Maui (#DotNetMaui) xamarin forms evolution comes with a lot of new features, there are a few things that the community is quite interested in, and these are the design patterns.",
+      "EditionId": "306",
+      "Author": "Luis Matos",
+      "Id": "306-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Setting up an Idenity Server for your Xamarin app",
+      "Url": "https://mallibone.com/post/xamarin-identity-server",
+      "Description": "Have you ever wondered how hard it would be to set up a minimal viable authentication server that uses industry standards and usable from your mobile Xamarin application? Well, I have, and I believe in having found a solution that can be a great starting point and will allow you to expand the answer should you ever need to do so.",
+      "EditionId": "306",
+      "Author": "Mark Allibone",
+      "Id": "306-12",
+      "Category": "SECURITY"
+    },
+    {
+      "Title": "Using OIDC client in Xamarin Forms to refresh your access token",
+      "Url": "https://mallibone.com/post/xamarin-oidc-refresh",
+      "Description": "So you decided to take use OpenIdentity Connect / OAuth for authenticating your users in your Xamarin app. The great thing is that your client application will never see or process the username and password, which reduces the possible attack vector. Instead, all your app ever receives is an access token that grants to access APIs that require authenticated users. But there is a minor caveat. The access token often is only valid for a short time. With IdentityServer, the default is 60 minutes. Which would, in theory, mean that your user has to authenticate - read enter username and password - every hour. That is seriously uncool, and there surely must be a better way. There is. The app can renew the access token with a refresh token on the user's behalf without any interaction required.",
+      "EditionId": "306",
+      "Author": "Mark Allibone",
+      "Id": "306-13",
+      "Category": "SECURITY"
+    },
+    {
+      "Title": "MVVM Navigation, Converters, Multi-language all in one place ",
+      "Url": "https://www.banditoth.hu/2021/05/10/xamarin-forms-mvvm-navigation-converters-multi-language-all-in-one-place/",
+      "Description": "A toolkit for Xamarin.Forms, inspired by hours of hours re implementation of the same navigation logic, converters, and the other tools needed to build a mobile app idea. The library includes MVVM Navigation through Bindable objects implementing INotifyPropertychanged, and XAML Converters, Multi-language tools.",
+      "EditionId": "306",
+      "Author": "András Tóth",
+      "Id": "306-14",
+      "Category": "NUGET OF THE WEEK"
+    },
+    {
+      "Title": "Implement Push Notifications with Xamarin.Forms (Android) and FCM",
+      "Url": "https://www.youtube.com/watch?v=7w2q2D6mR7g",
+      "Description": "In this video we will learn how to implement remote push notifications with Firebase Cloud Messaging (FCM). This first video of a series will implement it in your Xamarin.Forms Android app. We will see how to setup a Firebase project, get all the bits we need all the way down to actually receiving a push notification.",
+      "EditionId": "306",
+      "Author": "Gerald Versluis",
+      "Id": "306-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Pass Data From and To Popups with Xamarin Community Toolkit",
+      "Url": "https://www.youtube.com/watch?v=d2SEOj0o5j4",
+      "Description": "Under my video about the Xamarin Community Toolkit popups I got a lot of questions about passing data to or returning data from the popup. In this video we will see two examples: returning simple data from the popup and also how to pass in data and return a strongly typed complex object. After this you know all about implementing rich popups in your Xamarin.Forms app. Lots to cover in this one, let's goooo!",
+      "EditionId": "306",
+      "Author": "Gerald Versluis",
+      "Id": "306-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Dynamic App Themes in Xamarin.Forms - Light, Dark, & Custom Modes",
+      "Url": "https://www.youtube.com/watch?v=4w8TQ8njd3w",
+      "Description": "Now that we have started to style our application is it time to have themes for our users as well. Devices now adays at a minimum support a light and dark mode, but it is also great to offer custom theme for your users. Today, I will walk through how to set it all up with Xamarin.Forms built in support for theming with AppThemeBinding and DynamicResources.",
+      "EditionId": "306",
+      "Author": "James Montemagno",
+      "Id": "306-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 63: Shiny.NET. With Allan Ritchie",
+      "Url": "https://kerry.lothrop.de/devtalk-63-allan-ritchie/",
+      "Description": "On this episode of DevTalk Kerry speaks to Allan Ritchie about the Xamarin-focused library Shiny.NET.",
+      "EditionId": "306",
+      "Author": "Kerry Lothrop",
+      "Id": "306-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Show SnackBar and Toast Messages in Xamarin.Forms Apps",
+      "Url": "https://www.youtube.com/watch?v=qil1XWqAStM",
+      "Description": "Showing a quick message to the user can be done with a toast message. Or, maybe let the user even undo a recent action with a SnackBar message. Both can now be implemented with the XamarinCommunityToolkit in your Xamarin.Forms application. In this video we will learn the difference between SnackBar and Toast and see how to implement these.",
+      "EditionId": "306",
+      "Author": "Gerald Versluis",
+      "Id": "306-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 254: AirTag Development",
+      "Url": "https://www.mergeconflict.fm/254",
+      "Description": "Apple AirTags are here, and Frank is ready to do some programming with them... but can he? What are Apple's mysterious APIs that should work with this wonderful device do?",
+      "EditionId": "306",
+      "Author": "Merge Conflict",
+      "Id": "306-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Podcast Episode 92: May 2021 - It's Almost Build Time!",
+      "Url": "https://www.xamarinpodcast.com/92",
+      "Description": "This month James & Matt welcome back David Ortinau from an update on .NET MAUI and all the other goodness that you expect.",
+      "EditionId": "306",
+      "Author": "The Xamarin Podcast",
+      "Id": "306-21",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Custom Fonts & Font Icons/Images in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=jZARFd8Gno0",
+      "Description": "Goodbye static images and hello font icons! That is right, I am here to show you how to reduce your development time by using font icons inside of your Xamarin.Forms applications. I also walk through how to put in any custom font into your application with just a single line of code.",
+      "EditionId": "306",
+      "Author": "James Montemagno",
+      "Id": "306-22",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Local Push Notifications in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=-Nj_TRPlx-8",
+      "Description": "With local notifications you can draw users back to your application or notify them of something. You can schedule notifications in advance and even make them recurring! There are lots of options that you will see in this video. The Plugin.LocalNotification makes implementing local notifications a breeze. In this video we will learn how to set it up and how powerful they can be.",
+      "EditionId": "306",
+      "Author": "Gerald Versluis",
+      "Id": "306-23",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 253: Past, Present, & Future of Ooui",
+      "Url": "https://www.mergeconflict.fm/253",
+      "Description": "Frank discusses the Object Oriented UI Library, Ooui! He talks about where it came from and where it is going.",
+      "EditionId": "306",
+      "Author": "Merge Conflict",
+      "Id": "306-24",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Using VLC Media Player in Xamarin Forms Projects",
+      "Url": "https://www.youtube.com/watch?v=LrHtotEyj_M",
+      "Description": "Today we will talk about playing media in our Xamarin Forms apps. The VLC media player is more powerful than native Players on iOS and Android and can be an awesome alternative to these native media players. In addition to that, it is easy to get started with, so let's dive in.",
+      "EditionId": "306",
+      "Author": "Cool Coders",
+      "Id": "306-25",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Podcast Episode 93: Blackbaud",
+      "Url": "https://www.xamarinpodcast.com/93",
+      "Description": "Another customer success story! This time find out how Blackbaud started from no Xamarin experience to delivering a complexing mobile payment terminal to help nonprofits - even with bindings to hardware!",
+      "EditionId": "306",
+      "Author": "The Xamarin Podcast",
+      "Id": "306-26",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Improving Accessibility with Xamarin Community Toolkit",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Improving-Accessibility-with-Xamarin-Community-Toolkit",
+      "Description": "With the SemanticEffect and SemanticOrderView in the Xamarin Community Toolkit you now have all the tools to make your Xamarin.Forms app more accessible. In this episode I am joined by Shane Neuville",
+      "EditionId": "306",
+      "Author": "The Xamarin Show",
+      "Id": "306-27",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "EnumToIntConverter (Xamarin Community Toolkit)",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/EnumToIntConverter-Xamarin-Community-Toolkit",
+      "Description": "Data-binding can be a hassle whenever you have to use enum values. With the EnumToIntConverter that is now included in the Xamarin Community Toolkit it is easier than ever to work with enums. In this",
+      "EditionId": "306",
+      "Author": "The Xamarin Show",
+      "Id": "306-28",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Magic Gradients | The Xamarin Show",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Magic-Gradients--The-Xamarin-Show",
+      "Description": "This week, James is joined by Bohdan Benetskyi, mobile developer &amp; contributor to Magic Gradients, an awesome library built on SkiaSharp for awesome gradients in your Xamarin apps! Show Links: Mag",
+      "EditionId": "306",
+      "Author": "The Xamarin Show",
+      "Id": "306-29",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Multimedia with MediaElement (Xamarin Community Toolkit)",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Multimedia-with-MediaElement-Xamarin-Community-Toolkit",
+      "Description": "Playing audio and video in your Xamarin.Forms app has never been easier. In this episode I have Peter Foot on who tells us about the MediaElement. With the MediaElement, now available in the Xamarin Community Toolkit, you can play both local and remote video and audio files.",
+      "EditionId": "306",
+      "Author": "The Xamarin Show",
+      "Id": "306-30",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "he future of modern application development with .NET",
+      "Url": "https://www.youtube.com/watch?v=2Ky28Et3gy0",
+      "Description": ".NET 6 is the next version of .NET, a modern, open-source development platform for building apps for any OS with the best performance and productivity. .NET 6 completes the unification of the platform and adds new capabilities for building web, native and hybrid apps for Linux, Windows, Mac, iOS and Android with a single codebase. See how to write less code, target more devices and build cloud native apps faster. Learn how to move your .NET Framework apps forward with the .NET Upgrade Assistant.",
+      "EditionId": "306",
+      "Author": "Microsoft Developer",
+      "Id": "306-31",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Azure DevOps Podcast: David Ortinau on Multi-Platform App Development Using .NET MAUI - Episode 142",
+      "Url": "http://azuredevopspodcast.clear-measure.com/david-ortinau-on-multi-platform-app-development-using-net-maui-episode-142",
+      "Description": "In this episode, Jeffrey Palermo is speaking with David Ortinau. He takes listeners through the ins and outs of multi-platform app development using .NET MAUI.  He shares what developers can look forward to come the November release and provides a full rundown of what it looks like to use .NET MAUI from wrapping the local environment and building to testing to packaging and deploying. Don't miss out on learning about what makes .NET MAUI a powerful tool you should be on the lookout for!",
+      "EditionId": "306",
+      "Author": "Azure DevOps Podcast",
+      "Id": "306-32",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Preview 4: Time For You To Get Started?",
+      "Url": "https://www.youtube.com/watch?v=23PmntSTBIQ",
+      "Description": "At Microsoft Build 2021 .NET MAUI Preview 4 was launched. This version is already pretty complete and starts to reflect what the end result is going to look like. In this video I will show you the new .NET MAUI template in Visual Studio 2019 and walk you through the Weather 21 demo app. Be ready for a built-in cross-platform splash screen, shared resources, SVG support and much more!",
+      "EditionId": "306",
+      "Author": "Gerald Versluis",
+      "Id": "306-33",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "All new features in Plugin.ValidationRules 1.3 ",
+      "Url": "https://luismts.com/plugin-validationrules-1-3/",
+      "Description": "Luis recommends the Plugin.ValidationRules library and it has a version 1.3 release which includes a lot of new features to speed up our work.",
+      "EditionId": "306",
+      "Author": "Luis Matos",
+      "Id": "306-34",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "Announcing .NET MAUI Preview 4",
+      "Url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-4/",
+      "Description": "Today we are pleased to announce the availability of .NET Multi-platform App UI (.NET MAUI) Preview 4. Each preview introduces more controls and features to this multi-platform toolkit on our way to general availability this November at .NET Conf. .NET MAUI now has enough building blocks to build functional applications for all supported platforms,",
+      "EditionId": "306",
+      "Author": "David Ortinau",
+      "Id": "306-35",
+      "Category": "RELEASES"
+    }
+  ]
+}

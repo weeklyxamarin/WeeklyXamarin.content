@@ -1,0 +1,725 @@
+{
+  "number": 305,
+  "title": "Issue 305",
+  "summary": null,
+  "url": "https://weeklyxamarin.com/issues/305",
+  "publication_status": "published",
+  "published_at": "2021-05-07T15:46:27+01:00",
+  "updated_at": "2021-05-07T15:46:31+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Welcome back again to another late edition of Weekly Xamarin.  I'm still playing catchup, but so many great resources to get you through the weekend.</p>",
+          "description_markdown": "Welcome back again to another late edition of Weekly Xamarin.  I'm still playing catchup, but so many great resources to get you through the weekend. ",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "mxS5Vrw",
+          "type": "Link",
+          "title": "Design Tool Database",
+          "url_domain": "uxtools.co",
+          "url": "https://uxtools.co/tools/design",
+          "description": "<p>Compare the best UX design tools in the industry and make the best choice for your team.</p>\n\n<p><a href=\"https://uxtools.co/tools/design\"><strong>UX Tools | Design Tools Database</strong></a> by <a href=\"https://uxtools.co/about/\">UX Tools</a></p>",
+          "description_markdown": "Compare the best UX design tools in the industry and make the best choice for your team.\r\n\r\n[**UX Tools | Design Tools Database**](https://uxtools.co/tools/design) by [UX Tools](https://uxtools.co/about/)",
+          "embedded_links": [
+            {
+              "identifier": "tKtDGxm",
+              "title": "**UX Tools | Design Tools Database**",
+              "url_domain": "uxtools.co",
+              "url": "https://uxtools.co/tools/design"
+            },
+            {
+              "identifier": "AODRE5C",
+              "title": "UX Tools",
+              "url_domain": "uxtools.co",
+              "url": "https://uxtools.co/about/"
+            }
+          ]
+        },
+        {
+          "identifier": "cOQjCkc",
+          "type": "Link",
+          "title": "3 Ways to Improve the Mobile App Experience with Animation",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/3-ways-to-improve-mobile-app-experience-with-animation",
+          "description": "<p>When done right, animations add value to the user experience. Here are some tips on how to improve mobile app animations (and some things to stay away from).</p>\n\n<p><a href=\"https://www.telerik.com/blogs/3-ways-to-improve-mobile-app-experience-with-animation\"><strong>3 Ways to Improve the Mobile App Experience with Animation</strong></a> by <a href=\"https://twitter.com/sescacca\">Suzanne Scacca</a></p>",
+          "description_markdown": "When done right, animations add value to the user experience. Here are some tips on how to improve mobile app animations (and some things to stay away from).\r\n\r\n[**3 Ways to Improve the Mobile App Experience with Animation**](https://www.telerik.com/blogs/3-ways-to-improve-mobile-app-experience-with-animation) by [Suzanne Scacca](https://twitter.com/sescacca)",
+          "embedded_links": [
+            {
+              "identifier": "QcTVqBA",
+              "title": "**3 Ways to Improve the Mobile App Experience with Animation**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/3-ways-to-improve-mobile-app-experience-with-animation"
+            },
+            {
+              "identifier": "YaAgqY8",
+              "title": "Suzanne Scacca",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/sescacca"
+            }
+          ]
+        },
+        {
+          "identifier": "AxKpOzI",
+          "type": "Link",
+          "title": "Design Mistakes You're Making with Mobile Forms & How to Fix Them",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/design-mistakes-youre-making-with-your-mobile-forms-how-to-fix-them",
+          "description": "<p>Mobile visitors are still reluctant to take action. Redesign your mobile forms and remove the friction and frustration that keep your visitors from engaging.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/design-mistakes-youre-making-with-your-mobile-forms-how-to-fix-them\"><strong>Design Mistakes You're Making with Mobile Forms &amp; How to Fix</strong></a> by <a href=\"https://twitter.com/sescacca\">Suzanne Scacca</a></p>",
+          "description_markdown": "Mobile visitors are still reluctant to take action. Redesign your mobile forms and remove the friction and frustration that keep your visitors from engaging.\r\n\r\n[**Design Mistakes You're Making with Mobile Forms & How to Fix**](https://www.telerik.com/blogs/design-mistakes-youre-making-with-your-mobile-forms-how-to-fix-them) by [Suzanne Scacca](https://twitter.com/sescacca)",
+          "embedded_links": [
+            {
+              "identifier": "LXvheDw",
+              "title": "**Design Mistakes You're Making with Mobile Forms & How to Fix**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/design-mistakes-youre-making-with-your-mobile-forms-how-to-fix-them"
+            },
+            {
+              "identifier": "9qOu5Gg",
+              "title": "Suzanne Scacca",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/sescacca"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "businessandmarketing",
+      "name": "BUSINESS & MARKETING",
+      "items": [
+        {
+          "identifier": "tvnhfGo",
+          "type": "Link",
+          "title": "8 Questions to Answer Before Developing a Mobile App ",
+          "url_domain": "dzone.com",
+          "url": "https://dzone.com/articles/8-essential-questions-you-need-to-answer-before-de",
+          "description": "<p>Developing a mobile app is not a simple task - before beginning this process, you should have a clear vision of what you are trying to accomplish with your app.</p>\n\n<p><a href=\"https://dzone.com/articles/8-essential-questions-you-need-to-answer-before-de\"><strong>8 Questions to Answer Before Developing a Mobile App - DZone Web Dev</strong></a> by <a href=\"https://twitter.com/SanjayRatnottar\">Sanjay Ratnottar</a></p>",
+          "description_markdown": "Developing a mobile app is not a simple task - before beginning this process, you should have a clear vision of what you are trying to accomplish with your app.\r\n\r\n[**8 Questions to Answer Before Developing a Mobile App - DZone Web Dev**](https://dzone.com/articles/8-essential-questions-you-need-to-answer-before-de) by [Sanjay Ratnottar](https://twitter.com/SanjayRatnottar)",
+          "embedded_links": [
+            {
+              "identifier": "qr1qeX0",
+              "title": "**8 Questions to Answer Before Developing a Mobile App - DZone Web Dev**",
+              "url_domain": "dzone.com",
+              "url": "https://dzone.com/articles/8-essential-questions-you-need-to-answer-before-de"
+            },
+            {
+              "identifier": "ZFGhpO",
+              "title": "Sanjay Ratnottar",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/SanjayRatnottar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "testing",
+      "name": "TESTING",
+      "items": [
+        {
+          "identifier": "cvOMNNj",
+          "type": "Link",
+          "title": "Introduction to Security in Mobile Development",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/introduction-security-mobile-development/",
+          "description": "<p>Mobile app security doesn't start when a new mobile app is released. Rather, mobile app security must be part of mobile app development from the start of the project.</p>\n\n<p><a href=\"https://luismts.com/introduction-security-mobile-development/\"><strong>Introduction to Security in Mobile Development</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Mobile app security doesn't start when a new mobile app is released. Rather, mobile app security must be part of mobile app development from the start of the project.\r\n\r\n[**Introduction to Security in Mobile Development**](https://luismts.com/introduction-security-mobile-development/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "z12QGHn",
+              "title": "**Introduction to Security in Mobile Development**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/introduction-security-mobile-development/"
+            },
+            {
+              "identifier": "7fjdWlS",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "RvDc0bC",
+          "type": "Link",
+          "title": "Build Xamarin apps with VS Code to M1 Macs, iPhones & Android",
+          "url_domain": "devgenius.io",
+          "url": "https://blog.devgenius.io/build-xamarin-apps-with-vs-code-to-m1-macs-iphones-android-11bc158f3773",
+          "description": "<p>You don't need to open an IDE, start building apps in the terminal.</p>\n\n<p><a href=\"https://blog.devgenius.io/build-xamarin-apps-with-vs-code-to-m1-macs-iphones-android-11bc158f3773\"><strong>Build Xamarin apps with VS Code to M1 Macs, iPhones &amp; Android | by The First Prototype | May, 2021 | Dev Genius</strong></a> by <a href=\"https://medium.com/@prototypemakers\">Saamer Mansoor</a></p>",
+          "description_markdown": "You don't need to open an IDE, start building apps in the terminal.\r\n\r\n[**Build Xamarin apps with VS Code to M1 Macs, iPhones & Android | by The First Prototype | May, 2021 | Dev Genius**](https://blog.devgenius.io/build-xamarin-apps-with-vs-code-to-m1-macs-iphones-android-11bc158f3773) by [Saamer Mansoor](https://medium.com/@prototypemakers)",
+          "embedded_links": [
+            {
+              "identifier": "FfXaw0a",
+              "title": "**Build Xamarin apps with VS Code to M1 Macs, iPhones & Android | by The First Prototype | May, 2021 | Dev Genius**",
+              "url_domain": "devgenius.io",
+              "url": "https://blog.devgenius.io/build-xamarin-apps-with-vs-code-to-m1-macs-iphones-android-11bc158f3773"
+            },
+            {
+              "identifier": "beqjgDX",
+              "title": "Saamer Mansoor",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prototypemakers"
+            }
+          ]
+        },
+        {
+          "identifier": "pR437Wu",
+          "type": "Link",
+          "title": "What's New in the Essential UI Kit for Xamarin ",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/whats-new-essential-ui-kit-for-xamarin.aspx",
+          "description": "<p>When it comes to design and production, the Essential UI Kit for Xamarin saves a lot of time and money. In our latest update, they have crafted a new page and added many interactions and appearance changes to the existing pages. Now, there are 102 screens in your favorite Essential UI Kit for Xamarin.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/whats-new-essential-ui-kit-for-xamarin.aspx\"><strong>What's New in the Essential UI Kit for Xamarin | Syncfusion Blogs</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/meikandaisyncfusion-com\">Meikanda Nayanar</a></p>",
+          "description_markdown": "When it comes to design and production, the Essential UI Kit for Xamarin saves a lot of time and money. In our latest update, they have crafted a new page and added many interactions and appearance changes to the existing pages. Now, there are 102 screens in your favorite Essential UI Kit for Xamarin.\r\n\r\n[**What's New in the Essential UI Kit for Xamarin | Syncfusion Blogs**](https://www.syncfusion.com/blogs/post/whats-new-essential-ui-kit-for-xamarin.aspx) by [Meikanda Nayanar](https://www.syncfusion.com/blogs/author/meikandaisyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "aJj7jrZ",
+              "title": "**What's New in the Essential UI Kit for Xamarin | Syncfusion Blogs**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/whats-new-essential-ui-kit-for-xamarin.aspx"
+            },
+            {
+              "identifier": "IKL3kcW",
+              "title": "Meikanda Nayanar",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/meikandaisyncfusion-com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "ZErOoJV",
+          "type": "Link",
+          "title": "Let’s Talk About GPU Rendering Speed and Overdrawing in Android",
+          "url_domain": "trailheadtechnology.com",
+          "url": "https://trailheadtechnology.com/lets-talk-about-gpu-rendering-speed-and-overdrawing-in-android/",
+          "description": "<p>Most of the time, we software developers focus on optimizing our code. We want it to be fast, easy to understand, and easy to maintain. Many of those codes are related to data handling, API queries, record updates, etc. But how many times do we worry about optimizing the user interface?</p>\n\n<p><a href=\"https://trailheadtechnology.com/lets-talk-about-gpu-rendering-speed-and-overdrawing-in-android/\"><strong>Let’s Talk About GPU Rendering Speed and Overdrawing in Android</strong></a> by <a href=\"https://trailheadtechnology.com/author/walter-aguilar/\">Walter Aguilar</a></p>",
+          "description_markdown": "Most of the time, we software developers focus on optimizing our code. We want it to be fast, easy to understand, and easy to maintain. Many of those codes are related to data handling, API queries, record updates, etc. But how many times do we worry about optimizing the user interface?\r\n\r\n[**Let’s Talk About GPU Rendering Speed and Overdrawing in Android**](https://trailheadtechnology.com/lets-talk-about-gpu-rendering-speed-and-overdrawing-in-android/) by [Walter Aguilar](https://trailheadtechnology.com/author/walter-aguilar/)",
+          "embedded_links": [
+            {
+              "identifier": "DB7fyoD",
+              "title": "**Let’s Talk About GPU Rendering Speed and Overdrawing in Android**",
+              "url_domain": "trailheadtechnology.com",
+              "url": "https://trailheadtechnology.com/lets-talk-about-gpu-rendering-speed-and-overdrawing-in-android/"
+            },
+            {
+              "identifier": "RaBVepz",
+              "title": "Walter Aguilar",
+              "url_domain": "trailheadtechnology.com",
+              "url": "https://trailheadtechnology.com/author/walter-aguilar/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "wC8Wvqr",
+          "type": "Link",
+          "title": "Creating beautiful dual-screen Xamarin.Forms apps",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/surface-duo/dual-screen-xamarin-forms-animation",
+          "description": "<p>This post discusses changes to animated layouts in a Xamarin.Forms app to adapt them for Microsoft Surface Duo.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/surface-duo/dual-screen-xamarin-forms-animation\"><strong>Creating beautiful dual-screen Xamarin.Forms apps | Surface Duo Blog</strong></a> by <a href=\"https://devblogs.microsoft.com/surface-duo/author/craigdunn/\">Craig Dunn</a></p>",
+          "description_markdown": "This post discusses changes to animated layouts in a Xamarin.Forms app to adapt them for Microsoft Surface Duo.\r\n\r\n[**Creating beautiful dual-screen Xamarin.Forms apps | Surface Duo Blog**](https://devblogs.microsoft.com/surface-duo/dual-screen-xamarin-forms-animation) by [Craig Dunn](https://devblogs.microsoft.com/surface-duo/author/craigdunn/)",
+          "embedded_links": [
+            {
+              "identifier": "yyaQ7hG",
+              "title": "**Creating beautiful dual-screen Xamarin.Forms apps | Surface Duo Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/surface-duo/dual-screen-xamarin-forms-animation"
+            },
+            {
+              "identifier": "wkXQsPw",
+              "title": "Craig Dunn",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/surface-duo/author/craigdunn/"
+            }
+          ]
+        },
+        {
+          "identifier": "YCx3jMD",
+          "type": "Link",
+          "title": "Clearable Time Picker in Xamarin Forms",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/clearable-time-picker-in-xamarin-forms/",
+          "description": "<p>A time ago Charlin did an article on how to create a Clearable Date Picker, recently someone asked her to do the same but with a Time Picker. So why not? In this article, she shows you how to create a Time Picker that can be cleared and set to a null date. .</p>\n\n<p><a href=\"https://xamgirl.com/clearable-time-picker-in-xamarin-forms/\"><strong>Clearable Time Picker in Xamarin Forms - XamGirl</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "A time ago Charlin did an article on how to create a Clearable Date Picker, recently someone asked her to do the same but with a Time Picker. So why not? In this article, she shows you how to create a Time Picker that can be cleared and set to a null date. .\r\n\r\n[**Clearable Time Picker in Xamarin Forms - XamGirl**](https://xamgirl.com/clearable-time-picker-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003)",
+          "embedded_links": [
+            {
+              "identifier": "9T84SaB",
+              "title": "**Clearable Time Picker in Xamarin Forms - XamGirl**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/clearable-time-picker-in-xamarin-forms/"
+            },
+            {
+              "identifier": "VOfDAj9",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "bLenYJT",
+          "type": "Link",
+          "title": "Overview of the Best and Most Popular Xamarin.Forms Controls",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/overview-of-the-best-and-most-popular-xamarin-forms-controls.aspx",
+          "description": "<p>This blog contains an overview of the Syncfusion control offerings for Xamarin.Forms.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/overview-of-the-best-and-most-popular-xamarin-forms-controls.aspx\"><strong>Overview of the Best and Most Popular Xamarin.Forms Controls</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "This blog contains an overview of the Syncfusion control offerings for Xamarin.Forms.\r\n\r\n[**Overview of the Best and Most Popular Xamarin.Forms Controls**](https://www.syncfusion.com/blogs/post/overview-of-the-best-and-most-popular-xamarin-forms-controls.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)",
+          "embedded_links": [
+            {
+              "identifier": "pmBvADO",
+              "title": "**Overview of the Best and Most Popular Xamarin.Forms Controls**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/overview-of-the-best-and-most-popular-xamarin-forms-controls.aspx"
+            },
+            {
+              "identifier": "YS7yW4Y",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        },
+        {
+          "identifier": "KZ3QTbW",
+          "type": "Link",
+          "title": "How to pass data and navigate to another view in Prism",
+          "url_domain": "almirvuk.com",
+          "url": "https://almirvuk.com/stackoverflow-prism-xamarin-forms-navigation/",
+          "description": "<p>Almir is posting his answers he has been contributing to Stack Overflow, which is a great idea. This answers the question of How to pass data to another view in Prism</p>\n\n<p><a href=\"https://almirvuk.com/stackoverflow-prism-xamarin-forms-navigation/\"><strong>[StackOverflow] Xamarin.Forms and Prism - How to pass data and navigate to another view?</strong></a> by <a href=\"https://twitter.com/almirvuk\">Almir Vuk</a></p>",
+          "description_markdown": "Almir is posting his answers he has been contributing to Stack Overflow, which is a great idea. This answers the question of How to pass data to another view in Prism\r\n\r\n[**[StackOverflow] Xamarin.Forms and Prism - How to pass data and navigate to another view?**](https://almirvuk.com/stackoverflow-prism-xamarin-forms-navigation/) by [Almir Vuk](https://twitter.com/almirvuk)",
+          "embedded_links": [
+            {
+              "identifier": "WMVn85C",
+              "title": "StackOverflow] Xamarin.Forms and Prism - How to pass data and navigate to another view?**",
+              "url_domain": "almirvuk.com",
+              "url": "https://almirvuk.com/stackoverflow-prism-xamarin-forms-navigation/"
+            },
+            {
+              "identifier": "UHl45Ce",
+              "title": "Almir Vuk",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/almirvuk"
+            }
+          ]
+        },
+        {
+          "identifier": "dtzvRgm",
+          "type": "Link",
+          "title": "Authentication in Xamarin Forms using Open Identity Connect and OAuth",
+          "url_domain": "mallibone.com",
+          "url": "https://mallibone.com/post/xamarin-oidc",
+          "description": "<p>Authentication shouldn't be scary (but it is a bit).  As Mark says, it's best to follow a standard by using a proven library and not implement your own. In this post, Mark discusses using OpenID/OAuth2 for authentication in a mobile Xamarin Forms application.</p>\n\n<p><a href=\"https://mallibone.com/post/xamarin-oidc\"><strong>Authentication in Xamarin Forms using Open Identity Connect and OAuth</strong></a> by <a href=\"https://twitter.com/mallibone\">Mark Allibone</a></p>",
+          "description_markdown": "Authentication shouldn't be scary (but it is a bit).  As Mark says, it's best to follow a standard by using a proven library and not implement your own. In this post, Mark discusses using OpenID/OAuth2 for authentication in a mobile Xamarin Forms application.\r\n\r\n[**Authentication in Xamarin Forms using Open Identity Connect and OAuth**](https://mallibone.com/post/xamarin-oidc) by [Mark Allibone](https://twitter.com/mallibone)",
+          "embedded_links": [
+            {
+              "identifier": "W6vvxdc",
+              "title": "**Authentication in Xamarin Forms using Open Identity Connect and OAuth**",
+              "url_domain": "mallibone.com",
+              "url": "https://mallibone.com/post/xamarin-oidc"
+            },
+            {
+              "identifier": "ZLWZ7rq",
+              "title": "Mark Allibone",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mallibone"
+            }
+          ]
+        },
+        {
+          "identifier": "RUTvXEi",
+          "type": "Link",
+          "title": "Multi-Selection per row with Dynamic Data in Xamarin Forms (Part 4)",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2021/04/28/multi-selection-per-row-with-dynamic-data-in-xamarin-forms-part-4/",
+          "description": "<p>this post explores how to do multi-selection per row, reusing the concepts of grouping that we learned in the previous article.</p>\n\n<p><a href=\"https://www.xamboy.com/2021/04/28/multi-selection-per-row-with-dynamic-data-in-xamarin-forms-part-4/\"><strong>Multi-Selection per row with Dynamic Data in Xamarin Forms (Part 4) - Rendy's Website</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "this post explores how to do multi-selection per row, reusing the concepts of grouping that we learned in the previous article.\r\n\r\n[**Multi-Selection per row with Dynamic Data in Xamarin Forms (Part 4) - Rendy's Website**](https://www.xamboy.com/2021/04/28/multi-selection-per-row-with-dynamic-data-in-xamarin-forms-part-4/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "Eno2BmR",
+              "title": "**Multi-Selection per row with Dynamic Data in Xamarin Forms (Part 4) - Rendy's Website**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2021/04/28/multi-selection-per-row-with-dynamic-data-in-xamarin-forms-part-4/"
+            },
+            {
+              "identifier": "kM7u4fa",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        },
+        {
+          "identifier": "XVBzrJH",
+          "type": "Link",
+          "title": "Creating a clean Style Library for Xamarin.Forms",
+          "url_domain": "github.io",
+          "url": "https://danielmonettelli.github.io/posts/creating-a-clean-style-library-for-xamarin-forms/",
+          "description": "<p>Daniel has updated his awesome blog post that goes through everything you would ever want to know about Style Libraries for Xamarin.Forms</p>\n\n<p><a href=\"https://danielmonettelli.github.io/posts/creating-a-clean-style-library-for-xamarin-forms/\"><strong>Creating a clean Style Library for Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/DanielMonetelli\">Daniel Monetelli</a></p>",
+          "description_markdown": "Daniel has updated his awesome blog post that goes through everything you would ever want to know about Style Libraries for Xamarin.Forms\r\n\r\n[**Creating a clean Style Library for Xamarin.Forms**](https://danielmonettelli.github.io/posts/creating-a-clean-style-library-for-xamarin-forms/) by [Daniel Monetelli](https://twitter.com/DanielMonetelli)",
+          "embedded_links": [
+            {
+              "identifier": "EAb9V2H",
+              "title": "**Creating a clean Style Library for Xamarin.Forms**",
+              "url_domain": "github.io",
+              "url": "https://danielmonettelli.github.io/posts/creating-a-clean-style-library-for-xamarin-forms/"
+            },
+            {
+              "identifier": "Kd7uiIg",
+              "title": "Daniel Monetelli",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DanielMonetelli"
+            }
+          ]
+        },
+        {
+          "identifier": "HHNiINz",
+          "type": "Link",
+          "title": "Replicating Book Worm UI in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-book-worm-ui-in-xamarin-forms/",
+          "description": "<p>This is a post showing how to replicate a Book Worm UI App obtained from Dribble.</p>\n\n<p><a href=\"https://askxammy.com/replicating-book-worm-ui-in-xamarin-forms/\"><strong>Replicating Book Worm UI in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "This is a post showing how to replicate a Book Worm UI App obtained from Dribble. \r\n\r\n[**Replicating Book Worm UI in Xamarin Forms**](https://askxammy.com/replicating-book-worm-ui-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "z0lXuj4",
+              "title": "**Replicating Book Worm UI in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-book-worm-ui-in-xamarin-forms/"
+            },
+            {
+              "identifier": "Ui9KaPQ",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "ai1NSbK",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #7",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-7",
+          "description": "<p>Sam continues his Sands of MAUI updates bringing together latest .NET MAUI content relevant to developers.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-7\"><strong>Sands of MAUI: Issue #7</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam continues his Sands of MAUI updates bringing together latest .NET MAUI content relevant to developers.\r\n\r\n[**Sands of MAUI: Issue #7**](https://www.telerik.com/blogs/sands-of-maui-issue-7) by [Sam Basu](https://twitter.com/samidip)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "2XWsDkc",
+              "title": "**Sands of MAUI: Issue #7**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-7"
+            },
+            {
+              "identifier": "HYdsIoS",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "GKFQUjD",
+          "type": "Link",
+          "title": "Building Accessible Mobile Apps",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Building-Accessible-Mobile-Apps--The-Xamarin-Show",
+          "description": "<p>This week, James is joined by Rachel Kang, software engineer on the Xamarin.Forms and .NET MAUI team, who talks to us about the importance of building accessible apps. She shows off how you can start today testing your apps and adding features from Xamarin.Forms to make them even more accessible. Then she shows off some exciting work coming in .NET MAUI.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Building-Accessible-Mobile-Apps--The-Xamarin-Show\"><strong>Building Accessible Mobile Apps | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "This week, James is joined by Rachel Kang, software engineer on the Xamarin.Forms and .NET MAUI team, who talks to us about the importance of building accessible apps. She shows off how you can start today testing your apps and adding features from Xamarin.Forms to make them even more accessible. Then she shows off some exciting work coming in .NET MAUI.\r\n\r\n[**Building Accessible Mobile Apps | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Building-Accessible-Mobile-Apps--The-Xamarin-Show) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "yvwwQ8E",
+              "title": "**Building Accessible Mobile Apps | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Building-Accessible-Mobile-Apps--The-Xamarin-Show"
+            },
+            {
+              "identifier": "8RvbAeg",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "xJhmUHo",
+          "type": "Link",
+          "title": "Styling Xamarin.Forms Apps with Reusable Resources & Styles",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Se0yF5JXk70",
+          "description": "<p>Stop copy and pasting code and start creating re-usable styles with Xamarin.Forms. Reusable styles and resources can be anything! From colors, integers, booleans, and full-blown customizations of controls let you re-use and optimize your code. Re-use them on a single page or throughout your entire application. If they sound like CSS they are, but in XAML! I show you how.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Se0yF5JXk70\"><strong>Styling Xamarin.Forms Apps with Reusable Resources &amp; Styles</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Stop copy and pasting code and start creating re-usable styles with Xamarin.Forms. Reusable styles and resources can be anything! From colors, integers, booleans, and full-blown customizations of controls let you re-use and optimize your code. Re-use them on a single page or throughout your entire application. If they sound like CSS they are, but in XAML! I show you how.\r\n\r\n[**Styling Xamarin.Forms Apps with Reusable Resources & Styles**](https://www.youtube.com/watch?v=Se0yF5JXk70) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "dc0trR5",
+              "title": "**Styling Xamarin.Forms Apps with Reusable Resources & Styles**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Se0yF5JXk70"
+            },
+            {
+              "identifier": "JNiE25D",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "9Zbe6Zh",
+          "type": "Link",
+          "title": "Pick Multiple Images and Videos with This Xamarin.Forms Library",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=8JvgnlHVyrI",
+          "description": "<p>The MediaGallery plugin allows you to pick one or multiple media files from your gallery, something Essentials can't do by default. But why stop there? The plugin also allows you to save an image or video to that same gallery with just a single line of code!</p>\n\n<p>Everything you need to know about this plugin is right here, in this video.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=8JvgnlHVyrI\"><strong>Pick Multiple Images and Videos with This Xamarin.Forms Library</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "The MediaGallery plugin allows you to pick one or multiple media files from your gallery, something Essentials can't do by default. But why stop there? The plugin also allows you to save an image or video to that same gallery with just a single line of code!\r\n\r\nEverything you need to know about this plugin is right here, in this video.\r\n\r\n[**Pick Multiple Images and Videos with This Xamarin.Forms Library**](https://www.youtube.com/watch?v=8JvgnlHVyrI) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "6pBlXXN",
+              "title": "**Pick Multiple Images and Videos with This Xamarin.Forms Library**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=8JvgnlHVyrI"
+            },
+            {
+              "identifier": "JgIce0m",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "LQVpo9S",
+          "type": "Link",
+          "title": "Merge Conflict: 251: #AppleEvent - AirTags, M1 iMac, & Purple iPhone",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/251",
+          "description": "<p>No upgraded MacBook devices for us just yet, but the M1 is in full force on the new iMac and iPad Pro! We break down the entire apple event.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/251\"><strong>Merge Conflict: 251: #AppleEvent - AirTags, M1 iMac, &amp; Purple iPhone</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "No upgraded MacBook devices for us just yet, but the M1 is in full force on the new iMac and iPad Pro! We break down the entire apple event.\r\n\r\n[**Merge Conflict: 251: #AppleEvent - AirTags, M1 iMac, & Purple iPhone**](https://www.mergeconflict.fm/251) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "ArdRDNH",
+              "title": "**Merge Conflict: 251: #AppleEvent - AirTags, M1 iMac, & Purple iPhone**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/251"
+            },
+            {
+              "identifier": "xtxlcOw",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "R4kyVDH",
+          "type": "Link",
+          "title": "Perfect Popups for Xamarin.Forms with Xamarin Community Toolkit",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=DkQbTarAE18",
+          "description": "<p>Included in the Xamarin Community Toolkit is now the ability to show popups. A popup is basically just another type of page and you can show it through the normal navigation stack.</p>\n\n<p>In this video we will learn how to show out first popup and go about how to dismiss it.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=DkQbTarAE18\"><strong>Perfect Popups for Xamarin.Forms with Xamarin Community Toolkit</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Included in the Xamarin Community Toolkit is now the ability to show popups. A popup is basically just another type of page and you can show it through the normal navigation stack.\r\n\r\nIn this video we will learn how to show out first popup and go about how to dismiss it.\r\n\r\n[**Perfect Popups for Xamarin.Forms with Xamarin Community Toolkit**](https://www.youtube.com/watch?v=DkQbTarAE18) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "S7kQw4q",
+              "title": "**Perfect Popups for Xamarin.Forms with Xamarin Community Toolkit**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=DkQbTarAE18"
+            },
+            {
+              "identifier": "x58E5UX",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "KYFMDz8",
+          "type": "Link",
+          "title": "Play Audio & Video in Background with Xamarin.Forms on iOS",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=1XVjsUO-Ayw",
+          "description": "<p>In this video we will learn how to enable playing audio in the background on iOS. Even when your app is not one the foreground we can keep continue playing audio and with video even enable picture-in-picture.</p>\n\n<p>All of this shown in a Xamarin.Forms app together with MediaElement from the Xamarin Community Toolkit.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=1XVjsUO-Ayw\"><strong>Play Audio &amp; Video in Background with Xamarin.Forms on iOS</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "In this video we will learn how to enable playing audio in the background on iOS. Even when your app is not one the foreground we can keep continue playing audio and with video even enable picture-in-picture.\r\n\r\nAll of this shown in a Xamarin.Forms app together with MediaElement from the Xamarin Community Toolkit.\r\n\r\n[**Play Audio & Video in Background with Xamarin.Forms on iOS**](https://www.youtube.com/watch?v=1XVjsUO-Ayw) by [Gerald Versluis](https://twitter.com/jfversluis)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "K3d9aib",
+              "title": "**Play Audio & Video in Background with Xamarin.Forms on iOS**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=1XVjsUO-Ayw"
+            },
+            {
+              "identifier": "tKLLWOL",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "taY6JpM",
+          "type": "Link",
+          "title": "Lifecycle Events (Xamarin Community Toolkit)",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Lifecycle-Events-Xamarin-Community-Toolkit",
+          "description": "<p>Pedro is back for another episode! This time he will tell us all about the Lifecycle Effect that he implemented for the Xamarin Community Toolkit. With this effect you can hook into the Loaded and Unloaded event of any VisualElement and even pages.</p>\n\n<p>Tune in to this episode and learn all about it.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Lifecycle-Events-Xamarin-Community-Toolkit\"><strong>Lifecycle Events (Xamarin Community Toolkit)</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "Pedro is back for another episode! This time he will tell us all about the Lifecycle Effect that he implemented for the Xamarin Community Toolkit. With this effect you can hook into the Loaded and Unloaded event of any VisualElement and even pages.\r\n\r\nTune in to this episode and learn all about it.\r\n\r\n[**Lifecycle Events (Xamarin Community Toolkit)**](https://channel9.msdn.com/Shows/XamarinShow/Lifecycle-Events-Xamarin-Community-Toolkit) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "AqOXp0n",
+              "title": "**Lifecycle Events (Xamarin Community Toolkit)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Lifecycle-Events-Xamarin-Community-Toolkit"
+            },
+            {
+              "identifier": "cUDcHvM",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "5dPvKUP",
+          "type": "Link",
+          "title": "Xamarin Quick Tips: Setting Tab Icons with Style Triggers",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Quick-Tips-Setting-Tab-Icons-with-Style-Triggers",
+          "description": "<p>In this video Ben Buttigieg show you to you Style Triggers to modify Tab Icons based on their selections state.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Quick-Tips-Setting-Tab-Icons-with-Style-Triggers\"><strong>Xamarin Quick Tips: Setting Tab Icons with Style Triggers</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "In this video Ben Buttigieg show you to you Style Triggers to modify Tab Icons based on their selections state. \r\n\r\n[**Xamarin Quick Tips: Setting Tab Icons with Style Triggers**](https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Quick-Tips-Setting-Tab-Icons-with-Style-Triggers) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)",
+          "embedded_links": [
+            {
+              "identifier": "nmKgp33",
+              "title": "**Xamarin Quick Tips: Setting Tab Icons with Style Triggers**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Quick-Tips-Setting-Tab-Icons-with-Style-Triggers"
+            },
+            {
+              "identifier": "MqSpdyF",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "75jUoiJ",
+          "type": "Link",
+          "title": "Image Tinting (Xamarin Community Toolkit)",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Image-Tinting-Xamarin-Community-Toolkit",
+          "description": "<p>Getting all your image resources in the right color can be a big pain. Between iOS and Android alone you will have to add them in many different dimensions. John has made this a whole lot easier by implementing an Effect in the Xamarin Community Toolkit. This Effect allows you to tint an image with an attached property with just one line of code!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Image-Tinting-Xamarin-Community-Toolkit\"><strong>Image Tinting (Xamarin Community Toolkit)</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "Getting all your image resources in the right color can be a big pain. Between iOS and Android alone you will have to add them in many different dimensions. John has made this a whole lot easier by implementing an Effect in the Xamarin Community Toolkit. This Effect allows you to tint an image with an attached property with just one line of code!\r\n\r\n[**Image Tinting (Xamarin Community Toolkit)**](https://channel9.msdn.com/Shows/XamarinShow/Image-Tinting-Xamarin-Community-Toolkit) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "LpKjmOc",
+              "title": "**Image Tinting (Xamarin Community Toolkit)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Image-Tinting-Xamarin-Community-Toolkit"
+            },
+            {
+              "identifier": "AaI4fgq",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "6fkCWKt",
+          "type": "Link",
+          "title": "Xamarin Community Standup - .NET MAUI Single Project with Jake Kirsch",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=AQHZQ8p6FCA",
+          "description": "<p>Join Maddy Leger and special guest Jake Kirsch for an update on .NET MAUI's new single project architecture, and see how you can start using the preview today!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=AQHZQ8p6FCA\"><strong>Xamarin Community Standup - .NET MAUI Single Project with Jake Kirsch</strong></a> by <a href=\"https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw\">Xamarin Community Standup</a></p>",
+          "description_markdown": "Join Maddy Leger and special guest Jake Kirsch for an update on .NET MAUI's new single project architecture, and see how you can start using the preview today!\r\n\r\n[**Xamarin Community Standup - .NET MAUI Single Project with Jake Kirsch**](https://www.youtube.com/watch?v=AQHZQ8p6FCA) by [Xamarin Community Standup](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ZlKUH0V",
+              "title": "**Xamarin Community Standup - .NET MAUI Single Project with Jake Kirsch**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=AQHZQ8p6FCA"
+            },
+            {
+              "identifier": "DrEKNQS",
+              "title": "Xamarin Community Standup",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "KEKmbwW",
+          "type": "Link",
+          "title": "Shiny 2.0 For Xamarin - Shinier Than Ever",
+          "url_domain": "github.io",
+          "url": "https://aritchie.github.io/posts/shiny20",
+          "description": "<p>Shiny is a Xamarin Framework designed to make dealing with device &amp; background services easy by bringing things like dependency injection, logging, and lots of utilities to bring your workflows to the background in friendly, testable, way!</p>\n\n<p>Version 2.0 is out, which is very exciting because it contains a massive amount of improvements.</p>\n\n<p><a href=\"https://aritchie.github.io/posts/shiny20\"><strong>Shiny 2.0 For Xamarin - Shinier Than Ever</strong></a> by <a href=\"https://twitter.com/allanritchie911\">Allan Ritchie</a></p>",
+          "description_markdown": "Shiny is a Xamarin Framework designed to make dealing with device & background services easy by bringing things like dependency injection, logging, and lots of utilities to bring your workflows to the background in friendly, testable, way!\r\n\r\nVersion 2.0 is out, which is very exciting because it contains a massive amount of improvements.\r\n\r\n[**Shiny 2.0 For Xamarin - Shinier Than Ever**](https://aritchie.github.io/posts/shiny20) by [Allan Ritchie](https://twitter.com/allanritchie911)",
+          "embedded_links": [
+            {
+              "identifier": "tseKAul",
+              "title": "**Shiny 2.0 For Xamarin - Shinier Than Ever**",
+              "url_domain": "github.io",
+              "url": "https://aritchie.github.io/posts/shiny20"
+            },
+            {
+              "identifier": "BhTTg70",
+              "title": "Allan Ritchie",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/allanritchie911"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
