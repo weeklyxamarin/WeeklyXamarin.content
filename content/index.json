@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "307",
+      "Name": "Issue 307",
+      "UpdatedTimeStamp": "2021-06-06T12:48:07Z",
+      "Summary": "//Build Recaps and MAUI news",
+      "PublishDate": "2021-06-06T12:48:03Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "306",
       "Name": "Issue 306",
       "UpdatedTimeStamp": "2021-05-29T01:44:28Z",

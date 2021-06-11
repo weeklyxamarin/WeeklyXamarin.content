@@ -1,0 +1,327 @@
+{
+  "number": 307,
+  "title": "Issue 307",
+  "summary": "//Build Recaps and MAUI news",
+  "url": "https://weeklyxamarin.com/issues/307",
+  "publication_status": "published",
+  "published_at": "2021-06-06T13:48:03+01:00",
+  "updated_at": "2021-06-06T13:48:07+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hope you all had a relaxing weekend.</p>\n\n<p>This week we have a few great reviews of the //Build announcements with some MAUI goodness which are worth checking out. Also don't forget that this week Apple has WWDC so we should have that to talk about next edition.</p>\n\n<p>Stay safe and have a great week.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Hope you all had a relaxing weekend.\r\n\r\nThis week we have a few great reviews of the //Build announcements with some MAUI goodness which are worth checking out. Also don't forget that this week Apple has WWDC so we should have that to talk about next edition.\r\n\r\nStay safe and have a great week.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "oRow481",
+          "type": "Link",
+          "title": "Building beautiful apps with Xamarin.Forms",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/building-beautiful-apps-with-xamarin-forms/",
+          "description": "<p>James discusses how you can make great looking apps with Xamarin.Forms. He shares out some links and resources which you'll want to check out.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/building-beautiful-apps-with-xamarin-forms/\"><strong>Building beautiful apps with Xamarin.Forms | Xamarin Blog</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James discusses how you can make great looking apps with Xamarin.Forms. He shares out some links and resources which you'll want to check out.\r\n\r\n[**Building beautiful apps with Xamarin.Forms | Xamarin Blog**](https://devblogs.microsoft.com/xamarin/building-beautiful-apps-with-xamarin-forms/) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "AO6VBFY",
+              "title": "**Building beautiful apps with Xamarin.Forms | Xamarin Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/building-beautiful-apps-with-xamarin-forms/"
+            },
+            {
+              "identifier": "gA26lEA",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "oEfQzQE",
+          "type": "Link",
+          "title": "Xamarin Forms staggered view",
+          "url_domain": "depechie.com",
+          "url": "https://blog.depechie.com/posts/2021-05-26-xf-staggered-view/",
+          "description": "<p>If you look at any kind of portfolio website template or go search for photo related mobile app designs, the staggered view will for sure be featured multiple times! In this post, Glenn looks at implementing it in Xamarin.Forms with a bit of html magic.</p>\n\n<p><a href=\"https://blog.depechie.com/posts/2021-05-26-xf-staggered-view/\"><strong>Xamarin Forms staggered view - Masonry</strong></a> by <a href=\"https://twitter.com/depechie\">Glenn Versweyveld</a></p>",
+          "description_markdown": "If you look at any kind of portfolio website template or go search for photo related mobile app designs, the staggered view will for sure be featured multiple times! In this post, Glenn looks at implementing it in Xamarin.Forms with a bit of html magic.\r\n\r\n[**Xamarin Forms staggered view - Masonry**](https://blog.depechie.com/posts/2021-05-26-xf-staggered-view/) by [Glenn Versweyveld](https://twitter.com/depechie)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "fwmpKgh",
+              "title": "**Xamarin Forms staggered view - Masonry**",
+              "url_domain": "depechie.com",
+              "url": "https://blog.depechie.com/posts/2021-05-26-xf-staggered-view/"
+            },
+            {
+              "identifier": "ZLmB1DA",
+              "title": "Glenn Versweyveld",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/depechie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "8QpA85Z",
+          "type": "Link",
+          "title": "MSBuild Recap: .NET MAUI Preview 4",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/msbuild-dotnetmaui-preview-4/",
+          "description": "<p>The Microsoft Build conference (#MSBuild) brought us a lot of news related to .NET MAUI and in this article, I summarize everything. It is no secret to anyone that one of the most expected technologies is #DotNetMAUI, and it promises a lot.</p>\n\n<p><a href=\"https://luismts.com/msbuild-dotnetmaui-preview-4/\"><strong>#MSBuild Recap: .NET MAUI Preview 4</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "The Microsoft Build conference (#MSBuild) brought us a lot of news related to .NET MAUI and in this article, I summarize everything. It is no secret to anyone that one of the most expected technologies is #DotNetMAUI, and it promises a lot.\r\n\r\n[**#MSBuild Recap: .NET MAUI Preview 4**](https://luismts.com/msbuild-dotnetmaui-preview-4/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "2d1JwCf",
+              "title": "**#MSBuild Recap: .NET MAUI Preview 4**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/msbuild-dotnetmaui-preview-4/"
+            },
+            {
+              "identifier": "Kxpj0zX",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "6xTKuTG",
+          "type": "Link",
+          "title": ".NET MAUI Preview 4 Is Here",
+          "url_domain": "infoq.com",
+          "url": "https://www.infoq.com/news/2021/06/dotnet-maui-preview-4",
+          "description": "<p>NET Multi-platform App UI (.NET MAUI) Preview 4 is here and brings a lot of interesting stuff. Preview 4 adds a few more features that can be used to build functional apps for all the currently supported platforms; this version also brings the support for running Blazor on the desktop, and progress to support .NET MAUI even more in the Visual Studio IDE.</p>\n\n<p><a href=\"https://www.infoq.com/news/2021/06/dotnet-maui-preview-4\"><strong>.NET MAUI Preview 4 Is Here</strong></a> by <a href=\"https://twitter.com/almirvuk\">Almir Vuk</a></p>",
+          "description_markdown": "NET Multi-platform App UI (.NET MAUI) Preview 4 is here and brings a lot of interesting stuff. Preview 4 adds a few more features that can be used to build functional apps for all the currently supported platforms; this version also brings the support for running Blazor on the desktop, and progress to support .NET MAUI even more in the Visual Studio IDE.\r\n\r\n[**.NET MAUI Preview 4 Is Here**](https://www.infoq.com/news/2021/06/dotnet-maui-preview-4) by [Almir Vuk](https://twitter.com/almirvuk)",
+          "embedded_links": [
+            {
+              "identifier": "yYWr6IK",
+              "title": "**.NET MAUI Preview 4 Is Here**",
+              "url_domain": "infoq.com",
+              "url": "https://www.infoq.com/news/2021/06/dotnet-maui-preview-4"
+            },
+            {
+              "identifier": "IbYrNLL",
+              "title": "Almir Vuk",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/almirvuk"
+            }
+          ]
+        },
+        {
+          "identifier": "96oKtJr",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #10",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-10",
+          "description": "<p>Sam presents his weekly update on the things happening with MAUI. Lot's of //Build recaps in this edition.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-10\"><strong>Sands of MAUI: Issue #10</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam presents his weekly update on the things happening with MAUI. Lot's of //Build recaps in this edition.\r\n\r\n[**Sands of MAUI: Issue #10**](https://www.telerik.com/blogs/sands-of-maui-issue-10) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)",
+          "embedded_links": [
+            {
+              "identifier": "DSoybtd",
+              "title": "**Sands of MAUI: Issue #10**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-10"
+            },
+            {
+              "identifier": "Z1LTgjC",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "net",
+      "name": ".NET",
+      "items": [
+        {
+          "identifier": "Ouxy2W",
+          "type": "Link",
+          "title": "Conversation about .NET interop ",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/conversation-about-net-interop/",
+          "description": "<p>Conversation with .NET engineers about native, language, and operating system interop. Something near and dear to Xamarin developers hearts.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/conversation-about-net-interop/\"><strong>Conversation about .NET interop | .NET Blog</strong></a> by <a href=\"https://devblogs.microsoft.com/dotnet/author/richlander-ca/\">Richard Lander</a></p>",
+          "description_markdown": "Conversation with .NET engineers about native, language, and operating system interop. Something near and dear to Xamarin developers hearts.\r\n\r\n[**Conversation about .NET interop | .NET Blog**](https://devblogs.microsoft.com/dotnet/conversation-about-net-interop/) by [Richard Lander](https://devblogs.microsoft.com/dotnet/author/richlander-ca/)",
+          "embedded_links": [
+            {
+              "identifier": "qXjUIF2",
+              "title": "**Conversation about .NET interop | .NET Blog**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/conversation-about-net-interop/"
+            },
+            {
+              "identifier": "HkMNe4",
+              "title": "Richard Lander",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/author/richlander-ca/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "He3o47z",
+          "type": "Link",
+          "title": "Merge Conflict: 256: Microsoft Build 2021 Recap",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/256",
+          "description": "<p>This year's Microsoft Build was all about developer velocity! There was something for everyone from no code, low code, medium code, all the code, you name it, you had it! From .NET 6, to Power Platform, to all things Azure, we have you covered.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/256\"><strong>Merge Conflict: 256: Microsoft Build 2021 Recap</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "This year's Microsoft Build was all about developer velocity! There was something for everyone from no code, low code, medium code, all the code, you name it, you had it! From .NET 6, to Power Platform, to all things Azure, we have you covered.\r\n\r\n[**Merge Conflict: 256: Microsoft Build 2021 Recap**](https://www.mergeconflict.fm/256) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "LBjo4qZ",
+              "title": "**Merge Conflict: 256: Microsoft Build 2021 Recap**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/256"
+            },
+            {
+              "identifier": "Wz7EUkN",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "2m33B3",
+          "type": "Link",
+          "title": "Implement Push Notifications with Xamarin.Forms (iOS) and FCM",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=GNBuaAB8nR8",
+          "description": "<p>In this video we will learn how to implement remote push notifications with Firebase Cloud Messaging (FCM). This first video of a series will implement it in your Xamarin.Forms Android app. We will see how to setup a Firebase project, get all the bits we need all the way down to actually receiving a push notification.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=GNBuaAB8nR8\"><strong>Implement Push Notifications with Xamarin.Forms (iOS) and FCM</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "In this video we will learn how to implement remote push notifications with Firebase Cloud Messaging (FCM). This first video of a series will implement it in your Xamarin.Forms Android app. We will see how to setup a Firebase project, get all the bits we need all the way down to actually receiving a push notification.\r\n\r\n[**Implement Push Notifications with Xamarin.Forms (iOS) and FCM**](https://www.youtube.com/watch?v=GNBuaAB8nR8) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "v92NhEL",
+              "title": "**Implement Push Notifications with Xamarin.Forms (iOS) and FCM**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=GNBuaAB8nR8"
+            },
+            {
+              "identifier": "KAbLyfY",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "5Fv484w",
+          "type": "Link",
+          "title": "Using Light Dismiss with Xamarin Community Toolkit Popups",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=QlS0CuMEwdw",
+          "description": "<p>Light dismiss happens when you tap outside of the Xamarin Community Toolkit popup. In this video we will learn what light dismiss is, how to detect it, return data from it and also how to block it in your Xamarin.Forms app.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=QlS0CuMEwdw\"><strong>Using Light Dismiss with Xamarin Community Toolkit Popups</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Light dismiss happens when you tap outside of the Xamarin Community Toolkit popup. In this video we will learn what light dismiss is, how to detect it, return data from it and also how to block it in your Xamarin.Forms app.\r\n\r\n[**Using Light Dismiss with Xamarin Community Toolkit Popups**](https://www.youtube.com/watch?v=QlS0CuMEwdw) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "c5Cjxh0",
+              "title": "**Using Light Dismiss with Xamarin Community Toolkit Popups**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=QlS0CuMEwdw"
+            },
+            {
+              "identifier": "apBwg4L",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "vOz3ANb",
+          "type": "Link",
+          "title": "SnackBar and Toast ",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/SnackBar--Toast-Xamarin-Community-Toolkit",
+          "description": "<p>With SnackBar and Toast it is now easier than ever to show a little notification to the user. It can pop-up at the bottom of your page or be attached to any VisualElement! In this show I have Vladisla</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/SnackBar--Toast-Xamarin-Community-Toolkit\"><strong>SnackBar and Toast (Xamarin Community Toolkit)</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "With SnackBar and Toast it is now easier than ever to show a little notification to the user. It can pop-up at the bottom of your page or be attached to any VisualElement! In this show I have Vladisla\r\n\r\n[**SnackBar and Toast (Xamarin Community Toolkit)**](https://channel9.msdn.com/Shows/XamarinShow/SnackBar--Toast-Xamarin-Community-Toolkit) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "MCMZdLg",
+              "title": "**SnackBar and Toast (Xamarin Community Toolkit)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/SnackBar--Toast-Xamarin-Community-Toolkit"
+            },
+            {
+              "identifier": "yFCTiaT",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "gIyJYAX",
+          "type": "Link",
+          "title": "Microsoft Build 2021 news for .NET MAUI And Xamarin",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Microsoft-Build-2021-news-for-NET-MAUI-And-Xamarin",
+          "description": "<p>This week, James is joined by Maddy Leger, Xamarin &amp; .NET MAUI Program Manager, who gives us all the details from Microsoft Build for Xamarin and .NET MAUI. Show Links: .NET MAUI Preview 4 Blog.NE</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Microsoft-Build-2021-news-for-NET-MAUI-And-Xamarin\"><strong>Microsoft Build 2021 news for .NET MAUI And Xamarin</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "This week, James is joined by Maddy Leger, Xamarin & .NET MAUI Program Manager, who gives us all the details from Microsoft Build for Xamarin and .NET MAUI. Show Links: .NET MAUI Preview 4 Blog.NE\r\n\r\n[**Microsoft Build 2021 news for .NET MAUI And Xamarin**](https://channel9.msdn.com/Shows/XamarinShow/Microsoft-Build-2021-news-for-NET-MAUI-And-Xamarin) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "n0bjgOh",
+              "title": "**Microsoft Build 2021 news for .NET MAUI And Xamarin**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Microsoft-Build-2021-news-for-NET-MAUI-And-Xamarin"
+            },
+            {
+              "identifier": "aYcQaSs",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "xT1te1L",
+          "type": "Link",
+          "title": "Xamarin Community Standup - Build recap + .NET MAUI Blazor Desktop with Daniel Roth!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=cObI_rRCEcY",
+          "description": "<p>Join Maddy Leger, David Ortinau, and this month's special guest Daniel Roth to debrief on Microsoft build and learn more about .NET MAUI Blazor Desktop!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=cObI_rRCEcY\"><strong>Xamarin Community Standup - Build recap + .NET MAUI Blazor Desktop with Daniel Roth!</strong></a> by <a href=\"https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw\">dotNet Youtube Channel</a></p>",
+          "description_markdown": "Join Maddy Leger, David Ortinau, and this month's special guest Daniel Roth to debrief on Microsoft build and learn more about .NET MAUI Blazor Desktop!\r\n\r\n[**Xamarin Community Standup - Build recap + .NET MAUI Blazor Desktop with Daniel Roth!**](https://www.youtube.com/watch?v=cObI_rRCEcY) by [dotNet Youtube Channel](https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "HdHCEg9",
+              "title": "**Xamarin Community Standup - Build recap + .NET MAUI Blazor Desktop with Daniel Roth!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=cObI_rRCEcY"
+            },
+            {
+              "identifier": "2SGlr9v",
+              "title": "dotNet Youtube Channel",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

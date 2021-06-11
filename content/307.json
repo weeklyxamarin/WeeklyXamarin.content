@@ -1,0 +1,119 @@
+{
+  "Id": "307",
+  "Name": "Issue 307",
+  "UpdatedTimeStamp": "2021-06-06T12:48:07Z",
+  "Summary": "//Build Recaps and MAUI news",
+  "Introduction": "Hope you all had a relaxing weekend. This week we have a few great reviews of the //Build announcements with some MAUI goodness which are worth checking out. Also don't forget that this week Apple has WWDC so we should have that to talk about next edition. Stay safe and have a great week. ❤ Kym",
+  "PublishDate": "2021-06-06T12:48:03Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Building beautiful apps with Xamarin.Forms",
+      "Url": "https://devblogs.microsoft.com/xamarin/building-beautiful-apps-with-xamarin-forms/",
+      "Description": "James discusses how you can make great looking apps with Xamarin.Forms. He shares out some links and resources which you'll want to check out.",
+      "EditionId": "307",
+      "Author": "James Montemagno",
+      "Id": "307-1",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin Forms staggered view",
+      "Url": "https://blog.depechie.com/posts/2021-05-26-xf-staggered-view/",
+      "Description": "If you look at any kind of portfolio website template or go search for photo related mobile app designs, the staggered view will for sure be featured multiple times! In this post, Glenn looks at implementing it in Xamarin.Forms with a bit of html magic.",
+      "EditionId": "307",
+      "Author": "Glenn Versweyveld",
+      "Id": "307-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "MSBuild Recap: .NET MAUI Preview 4",
+      "Url": "https://luismts.com/msbuild-dotnetmaui-preview-4/",
+      "Description": "The Microsoft Build conference (#MSBuild) brought us a lot of news related to .NET MAUI and in this article, I summarize everything. It is no secret to anyone that one of the most expected technologies is #DotNetMAUI, and it promises a lot.",
+      "EditionId": "307",
+      "Author": "Luis Matos",
+      "Id": "307-3",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Preview 4 Is Here",
+      "Url": "https://www.infoq.com/news/2021/06/dotnet-maui-preview-4",
+      "Description": "NET Multi-platform App UI (.NET MAUI) Preview 4 is here and brings a lot of interesting stuff. Preview 4 adds a few more features that can be used to build functional apps for all the currently supported platforms; this version also brings the support for running Blazor on the desktop, and progress to support .NET MAUI even more in the Visual Studio IDE.",
+      "EditionId": "307",
+      "Author": "Almir Vuk",
+      "Id": "307-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #10",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-10",
+      "Description": "Sam presents his weekly update on the things happening with MAUI. Lot's of //Build recaps in this edition.",
+      "EditionId": "307",
+      "Author": "Sam Basu",
+      "Id": "307-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Conversation about .NET interop ",
+      "Url": "https://devblogs.microsoft.com/dotnet/conversation-about-net-interop/",
+      "Description": "Conversation with .NET engineers about native, language, and operating system interop. Something near and dear to Xamarin developers hearts.",
+      "EditionId": "307",
+      "Author": "Richard Lander",
+      "Id": "307-6",
+      "Category": ".NET"
+    },
+    {
+      "Title": "Merge Conflict: 256: Microsoft Build 2021 Recap",
+      "Url": "https://www.mergeconflict.fm/256",
+      "Description": "This year's Microsoft Build was all about developer velocity! There was something for everyone from no code, low code, medium code, all the code, you name it, you had it! From .NET 6, to Power Platform, to all things Azure, we have you covered.",
+      "EditionId": "307",
+      "Author": "Merge Conflict",
+      "Id": "307-7",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Implement Push Notifications with Xamarin.Forms (iOS) and FCM",
+      "Url": "https://www.youtube.com/watch?v=GNBuaAB8nR8",
+      "Description": "In this video we will learn how to implement remote push notifications with Firebase Cloud Messaging (FCM). This first video of a series will implement it in your Xamarin.Forms Android app. We will see how to setup a Firebase project, get all the bits we need all the way down to actually receiving a push notification.",
+      "EditionId": "307",
+      "Author": "Gerald Versluis",
+      "Id": "307-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Using Light Dismiss with Xamarin Community Toolkit Popups",
+      "Url": "https://www.youtube.com/watch?v=QlS0CuMEwdw",
+      "Description": "Light dismiss happens when you tap outside of the Xamarin Community Toolkit popup. In this video we will learn what light dismiss is, how to detect it, return data from it and also how to block it in your Xamarin.Forms app.",
+      "EditionId": "307",
+      "Author": "Gerald Versluis",
+      "Id": "307-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "SnackBar and Toast ",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/SnackBar--Toast-Xamarin-Community-Toolkit",
+      "Description": "With SnackBar and Toast it is now easier than ever to show a little notification to the user. It can pop-up at the bottom of your page or be attached to any VisualElement! In this show I have Vladisla",
+      "EditionId": "307",
+      "Author": "The Xamarin Show",
+      "Id": "307-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Microsoft Build 2021 news for .NET MAUI And Xamarin",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Microsoft-Build-2021-news-for-NET-MAUI-And-Xamarin",
+      "Description": "This week, James is joined by Maddy Leger, Xamarin & .NET MAUI Program Manager, who gives us all the details from Microsoft Build for Xamarin and .NET MAUI. Show Links: .NET MAUI Preview 4 Blog.NE",
+      "EditionId": "307",
+      "Author": "The Xamarin Show",
+      "Id": "307-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Community Standup - Build recap + .NET MAUI Blazor Desktop with Daniel Roth!",
+      "Url": "https://www.youtube.com/watch?v=cObI_rRCEcY",
+      "Description": "Join Maddy Leger, David Ortinau, and this month's special guest Daniel Roth to debrief on Microsoft build and learn more about .NET MAUI Blazor Desktop!",
+      "EditionId": "307",
+      "Author": "dotNet Youtube Channel",
+      "Id": "307-12",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
