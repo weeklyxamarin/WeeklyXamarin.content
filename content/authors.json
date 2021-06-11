@@ -1789,6 +1789,16 @@
       ]
     },
     {
+      "Name": "Luis Beltran",
+      "Id": "https://about.me/luis-beltran",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://about.me/luis-beltran"
+        }
+      ]
+    },
+    {
       "Name": "Luis Matos",
       "TwitterHandle": "luismatosluna",
       "GitHubHandle": "luismts",
@@ -3245,6 +3255,16 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/worksdotpm"
+        }
+      ]
+    },
+    {
+      "Name": "WWDC NOTES",
+      "Id": "https://wwdcnotes.com/about/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://wwdcnotes.com/about/"
         }
       ]
     },

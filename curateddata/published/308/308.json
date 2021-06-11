@@ -1,0 +1,419 @@
+{
+  "number": 308,
+  "title": "Issue 308",
+  "summary": "Communities, WWDC Notes, and a Weekly Xamarin App.",
+  "url": "https://weeklyxamarin.com/issues/308",
+  "publication_status": "published",
+  "published_at": "2021-06-11T12:25:54+01:00",
+  "updated_at": "2021-06-11T12:25:58+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>It's almost the weekend and that means it's time for the Weekly Xamarin newsletter.</p>\n\n<p>As always lots of great articles for the week. I particularly like the WWDC roundup and the List of World\n Wide Xamarin &amp; MAUI communities that Luis Matos has curated.</p>\n\n<p>We are also pleased to announce we now have a Weekly Xamarin App.  It's a little rough around the edges, but hope you find it useful.  <a href=\"https://weeklyxamarin.github.io/website/\">Check it out here.</a></p>\n\n<p>Thanks to the wonderful people who have made this happen: Lachlan Gordon, Luce Carter, Ryan Davis, David Wahid, James Montemagno, Aden Earnshaw, Sameer Mansoor and Jonathan Parker (and many others who have watched the streams of us building it).  If you want to contribute and help build it out further we accept pull requests ;-)</p>\n\n<p>Have a great weekend everyone.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "It's almost the weekend and that means it's time for the Weekly Xamarin newsletter. \r\n\r\nAs always lots of great articles for the week. I particularly like the WWDC roundup and the List of World \r\n Wide Xamarin & MAUI communities that Luis Matos has curated. \r\n\r\nWe are also pleased to announce we now have a Weekly Xamarin App.  It's a little rough around the edges, but hope you find it useful.  [Check it out here.](https://weeklyxamarin.github.io/website/)\r\n\r\nThanks to the wonderful people who have made this happen: Lachlan Gordon, Luce Carter, Ryan Davis, David Wahid, James Montemagno, Aden Earnshaw, Sameer Mansoor and Jonathan Parker (and many others who have watched the streams of us building it).  If you want to contribute and help build it out further we accept pull requests ;-)\r\n\r\nHave a great weekend everyone.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "Sbm17C0",
+              "title": "Check it out here.",
+              "url_domain": "github.io",
+              "url": "https://weeklyxamarin.github.io/website/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "gettingstarted",
+      "name": "GETTING STARTED",
+      "items": [
+        {
+          "identifier": "tukH6mB",
+          "type": "Link",
+          "title": "Xamarin & MAUI communities",
+          "url_domain": "google.com",
+          "url": "https://docs.google.com/spreadsheets/d/1GHfZUtlMkPKR7UDDfpYzbneg_OpudlJZkNk1V9pDDNE/",
+          "description": "<p>Luis has created and shared a wonderful list of Xamarin and Maui communities around the world</p>\n\n<p><a href=\"https://docs.google.com/spreadsheets/d/1GHfZUtlMkPKR7UDDfpYzbneg_OpudlJZkNk1V9pDDNE/\"><strong>Xamarin &amp; MAUI communities</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Luis has created and shared a wonderful list of Xamarin and Maui communities around the world\r\n\r\n[**Xamarin & MAUI communities**](https://docs.google.com/spreadsheets/d/1GHfZUtlMkPKR7UDDfpYzbneg_OpudlJZkNk1V9pDDNE/) by [Luis Matos](https://twitter.com/luismatosluna)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "y9tM9JU",
+              "title": "**Xamarin & MAUI communities**",
+              "url_domain": "google.com",
+              "url": "https://docs.google.com/spreadsheets/d/1GHfZUtlMkPKR7UDDfpYzbneg_OpudlJZkNk1V9pDDNE/"
+            },
+            {
+              "identifier": "9aOsygy",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "appoftheweek",
+      "name": "APP OF THE WEEK",
+      "items": [
+        {
+          "identifier": "jRpqt3h",
+          "type": "Link",
+          "title": "The Weekly Xamarin App",
+          "url_domain": "github.io",
+          "url": "https://weeklyxamarin.github.io/website/",
+          "description": "<p>We now have a Weekly Xamarin App for iOS and Android. Check it out!</p>\n\n<p><a href=\"https://weeklyxamarin.github.io/website/\"><strong>The Weekly Xamarin App</strong></a> by <a href=\"https://twitter.com/kphillpotts\">Kym Phillpotts</a></p>",
+          "description_markdown": "We now have a Weekly Xamarin App for iOS and Android. Check it out!\r\n\r\n[**The Weekly Xamarin App**](https://weeklyxamarin.github.io/website/) by [Kym Phillpotts](https://twitter.com/kphillpotts)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "9F1wnj2",
+              "title": "**The Weekly Xamarin App**",
+              "url_domain": "github.io",
+              "url": "https://weeklyxamarin.github.io/website/"
+            },
+            {
+              "identifier": "inuPe56",
+              "title": "Kym Phillpotts",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kphillpotts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "testing",
+      "name": "TESTING",
+      "items": [
+        {
+          "identifier": "xLAoQom",
+          "type": "Link",
+          "title": "Working with UI Tests",
+          "url_domain": "blogspot.com",
+          "url": "https://xamarinmonkeys.blogspot.com/2021/06/xamarinforms-working-with-ui-tests.html",
+          "description": "<p>Delphin discusses using Xamarin.UITest to do Automated UI testing for Xamarin.Forms apps.</p>\n\n<p><a href=\"https://xamarinmonkeys.blogspot.com/2021/06/xamarinforms-working-with-ui-tests.html\"><strong>Xamarin.Forms - Working with UI Tests</strong></a> by <a href=\"https://www.blogger.com/profile/12290645674821205145\">Delpin Susai Raj</a></p>",
+          "description_markdown": "Delphin discusses using Xamarin.UITest to do Automated UI testing for Xamarin.Forms apps.\r\n\r\n[**Xamarin.Forms - Working with UI Tests**](https://xamarinmonkeys.blogspot.com/2021/06/xamarinforms-working-with-ui-tests.html) by [Delpin Susai Raj](https://www.blogger.com/profile/12290645674821205145)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "SrWNolM",
+              "title": "**Xamarin.Forms - Working with UI Tests**",
+              "url_domain": "blogspot.com",
+              "url": "https://xamarinmonkeys.blogspot.com/2021/06/xamarinforms-working-with-ui-tests.html"
+            },
+            {
+              "identifier": "JlnPpI",
+              "title": "Delpin Susai Raj",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/12290645674821205145"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "G9SvC0w",
+          "type": "Link",
+          "title": "Apple WWDC Notes",
+          "url_domain": "wwdcnotes.com",
+          "url": "https://wwdcnotes.com/",
+          "description": "<p>Open-source and community-driven effort to collect notes for all Apple's WWDC videos.</p>\n\n<p><a href=\"https://wwdcnotes.com/\"><strong>WWDC NOTES</strong></a> by <a href=\"https://wwdcnotes.com/about/\">WWDC NOTES</a></p>",
+          "description_markdown": "Open-source and community-driven effort to collect notes for all Apple's WWDC videos.\r\n\r\n[**WWDC NOTES**](https://wwdcnotes.com/) by [WWDC NOTES](https://wwdcnotes.com/about/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "gWX4cDi",
+              "title": "**WWDC NOTES**",
+              "url_domain": "wwdcnotes.com",
+              "url": "https://wwdcnotes.com/"
+            },
+            {
+              "identifier": "CFqObDT",
+              "title": "WWDC NOTES",
+              "url_domain": "wwdcnotes.com",
+              "url": "https://wwdcnotes.com/about/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "CckBFCQ",
+          "type": "Link",
+          "title": "Simple way to use Maps",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/simple-way-to-use-maps-with-xamarin-essentials/",
+          "description": "<p>Maps are very useful in our applications, they allow us to display in a graphic way the location of the desired place - and it's super simple with just a few lines of code.</p>\n\n<p><a href=\"https://askxammy.com/simple-way-to-use-maps-with-xamarin-essentials/\"><strong>Simple way to use Maps with Xamarin Essentials</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Maps are very useful in our applications, they allow us to display in a graphic way the location of the desired place - and it's super simple with just a few lines of code.\r\n\r\n[**Simple way to use Maps with Xamarin Essentials**](https://askxammy.com/simple-way-to-use-maps-with-xamarin-essentials/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "TiEEGqv",
+              "title": "**Simple way to use Maps with Xamarin Essentials**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/simple-way-to-use-maps-with-xamarin-essentials/"
+            },
+            {
+              "identifier": "kQkEhT",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "security",
+      "name": "SECURITY",
+      "items": [
+        {
+          "identifier": "xKmjBuC",
+          "type": "Link",
+          "title": "Tune in, Log out.",
+          "url_domain": "mallibone.com",
+          "url": "https://mallibone.com/post/xamarin-oidc-logout",
+          "description": "<p>Who would have thought that logging out of your Xamarin Forms app using Open Identity Connect (OIDC) and OAuth would deserve its own blog post?</p>\n\n<p><a href=\"https://mallibone.com/post/xamarin-oidc-logout\"><strong>Logging out in Xamarin Forms with Open Identity Connect / OAuth2</strong></a> by <a href=\"https://twitter.com/mallibone\">Mark Allibone</a></p>",
+          "description_markdown": "Who would have thought that logging out of your Xamarin Forms app using Open Identity Connect (OIDC) and OAuth would deserve its own blog post? \r\n\r\n[**Logging out in Xamarin Forms with Open Identity Connect / OAuth2**](https://mallibone.com/post/xamarin-oidc-logout) by [Mark Allibone](https://twitter.com/mallibone)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "BZ6MGIg",
+              "title": "**Logging out in Xamarin Forms with Open Identity Connect / OAuth2**",
+              "url_domain": "mallibone.com",
+              "url": "https://mallibone.com/post/xamarin-oidc-logout"
+            },
+            {
+              "identifier": "FATVjNC",
+              "title": "Mark Allibone",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mallibone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "XZkmBtE",
+          "type": "Link",
+          "title": "Weekly Xamarin App Code Review and Advanced Theming Additions",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=ba0k2lh-x1o",
+          "description": "<p>James takes a look at the Weekly Xamarin newsletter mobile application and do a full code review and add theme support and new splash screens!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=ba0k2lh-x1o\"><strong>Live Stream: Xamarin Weekly Newsletter App Code Review and Advanced Theming Additions</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James takes a look at the Weekly Xamarin newsletter mobile application and do a full code review and add theme support and new splash screens!\r\n\r\n[**Live Stream: Xamarin Weekly Newsletter App Code Review and Advanced Theming Additions**](https://www.youtube.com/watch?v=ba0k2lh-x1o) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "n6llumk",
+              "title": "**Live Stream: Xamarin Weekly Newsletter App Code Review and Advanced Theming Additions**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=ba0k2lh-x1o"
+            },
+            {
+              "identifier": "saH7Woj",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "3mrxRQL",
+          "type": "Link",
+          "title": "Merge Conflict: 257: M1RACLES",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/257",
+          "description": "<p>We discuss M1RACLES (CVE-2021-30747) and new Xcode requirements.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/257\"><strong>Merge Conflict: 257: M1RACLES </strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "We discuss M1RACLES (CVE-2021-30747) and new Xcode requirements.\r\n\r\n[**Merge Conflict: 257: M1RACLES **](https://www.mergeconflict.fm/257) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "F7xT5YS",
+              "title": "**Merge Conflict: 257: M1RACLES **",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/257"
+            },
+            {
+              "identifier": "UgIIcuh",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "LKNmhqV",
+          "type": "Link",
+          "title": "Getting Started with Dependency Injection in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=6CwQKqMpUFk",
+          "description": "<p>What do you do when you want to create testable code or when you need to access native features? You need an interface to implement! Then you need a way to inject that implementation (dependency) to access it from your shared code (or anywhere). You will do this pretty often with mobile application development and luckily for us Xamarin.Forms has it all built in! Today' we take a look at Dependency Injection for Xamarin.Forms to create testable services and also access native features.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=6CwQKqMpUFk\"><strong>Getting Started with Dependency Injection in Xamarin.Forms</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "What do you do when you want to create testable code or when you need to access native features? You need an interface to implement! Then you need a way to inject that implementation (dependency) to access it from your shared code (or anywhere). You will do this pretty often with mobile application development and luckily for us Xamarin.Forms has it all built in! Today' we take a look at Dependency Injection for Xamarin.Forms to create testable services and also access native features.\r\n\r\n[**Getting Started with Dependency Injection in Xamarin.Forms**](https://www.youtube.com/watch?v=6CwQKqMpUFk) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "1J5xZyZ",
+              "title": "**Getting Started with Dependency Injection in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=6CwQKqMpUFk"
+            },
+            {
+              "identifier": "3tzHook",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "yuXIyLs",
+          "type": "Link",
+          "title": "Setup Maps in Your Xamarin.Forms Apps",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=rgOwa7TQvIU",
+          "description": "<p>Learn how to add Xamarin.Forms.Maps to your app and use maps in your Xamarin.Forms app! In this video we will see how to add a map to your iOS and Android app. We will add permissions, API keys and all the things that are needed to show that map on screen.</p>\n\n<p>I know there were request for other things with maps, let me know in the comments what you'd like to see next!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=rgOwa7TQvIU\"><strong>Setup Maps in Your Xamarin.Forms Apps</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Learn how to add Xamarin.Forms.Maps to your app and use maps in your Xamarin.Forms app! In this video we will see how to add a map to your iOS and Android app. We will add permissions, API keys and all the things that are needed to show that map on screen.\r\n\r\nI know there were request for other things with maps, let me know in the comments what you'd like to see next!\r\n\r\n[**Setup Maps in Your Xamarin.Forms Apps**](https://www.youtube.com/watch?v=rgOwa7TQvIU) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "JlHcx30",
+              "title": "**Setup Maps in Your Xamarin.Forms Apps**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=rgOwa7TQvIU"
+            },
+            {
+              "identifier": "ztnOcFl",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "qzcNAJT",
+          "type": "Link",
+          "title": "Next Level Touch Gestures with TouchEffect",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Next-Level-Touch-Gestures-with-TouchEffect-Xamarin-Community-Toolkit",
+          "description": "<p>The TouchEffect in the Xamarin Community Toolkit allows you to make any visual element into a button. By adding a few lines of code you can execute code by a simple touch. The TouchEffect also brings</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Next-Level-Touch-Gestures-with-TouchEffect-Xamarin-Community-Toolkit\"><strong>Next Level Touch Gestures with TouchEffect (Xamarin Community Toolkit)</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "The TouchEffect in the Xamarin Community Toolkit allows you to make any visual element into a button. By adding a few lines of code you can execute code by a simple touch. The TouchEffect also brings\r\n\r\n[**Next Level Touch Gestures with TouchEffect (Xamarin Community Toolkit)**](https://channel9.msdn.com/Shows/XamarinShow/Next-Level-Touch-Gestures-with-TouchEffect-Xamarin-Community-Toolkit) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "9wF1pWb",
+              "title": "**Next Level Touch Gestures with TouchEffect (Xamarin Community Toolkit)**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Next-Level-Touch-Gestures-with-TouchEffect-Xamarin-Community-Toolkit"
+            },
+            {
+              "identifier": "TLgj9QY",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "L3jfxfv",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 94: MORE .NET MAUI",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/94",
+          "description": "<p>David's back in his recurring role as host to fill us all in on the latest and greatest in .NET MAUI.</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/94\"><strong>The Xamarin Podcast Episode 94: MORE .NET MAUI</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "David's back in his recurring role as host to fill us all in on the latest and greatest in .NET MAUI.\r\n\r\n[**The Xamarin Podcast Episode 94: MORE .NET MAUI**](https://www.xamarinpodcast.com/94) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ONrhppH",
+              "title": "**The Xamarin Podcast Episode 94: MORE .NET MAUI**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/94"
+            },
+            {
+              "identifier": "bePs1Wx",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        },
+        {
+          "identifier": "ZzVg42C",
+          "type": "Link",
+          "title": "Real-World DevOps on the MAUI Team - Episode 144",
+          "url_domain": "clear-measure.com",
+          "url": "http://azuredevopspodcast.clear-measure.com/real-world-devops-on-the-maui-team-episode-144",
+          "description": "<p>On today's episode of the podcast, Jeffrey Palermo is joined by two special guests, Alex Blount and Sweekriti Satpathy who discuss real-world DevOps on the MAUI team, how to get up and running with MAUI, a rundown of the products that the team uses (and how they're configured), and much more.</p>\n\n<p><a href=\"http://azuredevopspodcast.clear-measure.com/real-world-devops-on-the-maui-team-episode-144\"><strong>Azure DevOps Podcast: Real-World DevOps on the MAUI Team - Episode 144</strong></a> by <a href=\"http://azuredevopspodcast.clear-measure.com/\">Azure DevOps Podcast</a></p>",
+          "description_markdown": "On today's episode of the podcast, Jeffrey Palermo is joined by two special guests, Alex Blount and Sweekriti Satpathy who discuss real-world DevOps on the MAUI team, how to get up and running with MAUI, a rundown of the products that the team uses (and how they're configured), and much more. \r\n\r\n[**Azure DevOps Podcast: Real-World DevOps on the MAUI Team - Episode 144**](http://azuredevopspodcast.clear-measure.com/real-world-devops-on-the-maui-team-episode-144) by [Azure DevOps Podcast](http://azuredevopspodcast.clear-measure.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "aKojHbP",
+              "title": "**Azure DevOps Podcast: Real-World DevOps on the MAUI Team - Episode 144**",
+              "url_domain": "clear-measure.com",
+              "url": "http://azuredevopspodcast.clear-measure.com/real-world-devops-on-the-maui-team-episode-144"
+            },
+            {
+              "identifier": "A1FKRrx",
+              "title": "Azure DevOps Podcast",
+              "url_domain": "clear-measure.com",
+              "url": "http://azuredevopspodcast.clear-measure.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "jHIwPx6",
+          "type": "Link",
+          "title": "Null Pointers 56: Fonts and Icons",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/56/",
+          "description": "<p>You have your app idea; you got a picture of the design, even found that gradient. But don't stop there. What about your fonts and icons? In this episode, we talk about fonts, icons, where you can get them and what to look out for.</p>\n\n<p><a href=\"https://nullpointers.io/56/\"><strong>56: Fonts and Icons</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "You have your app idea; you got a picture of the design, even found that gradient. But don't stop there. What about your fonts and icons? In this episode, we talk about fonts, icons, where you can get them and what to look out for.\r\n\r\n[**56: Fonts and Icons**](https://nullpointers.io/56/) by [Null Pointers](https://nullpointers.io/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "4vBXd5j",
+              "title": "**56: Fonts and Icons**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/56/"
+            },
+            {
+              "identifier": "e6ixifC",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "VhBtfDG",
+          "type": "Link",
+          "title": "MAUI Video series (Spanish)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/playlist?list=PL8paXyQ9MxDdCo-HMZ8NxnO3yGge5rMHU",
+          "description": "<p>Luis Beltran is putting together a MAUI series which you can check out in his YouTube channel.</p>\n\n<p>Note: Series is in Spanish.</p>\n\n<p><a href=\"https://www.youtube.com/playlist?list=PL8paXyQ9MxDdCo-HMZ8NxnO3yGge5rMHU\"><strong>Comenzando con .NET MAUI (Preview)</strong></a> by <a href=\"https://about.me/luis-beltran\">Luis Beltran</a></p>",
+          "description_markdown": "Luis Beltran is putting together a MAUI series which you can check out in his YouTube channel.\r\n\r\nNote: Series is in Spanish.\r\n\r\n[**Comenzando con .NET MAUI (Preview)**](https://www.youtube.com/playlist?list=PL8paXyQ9MxDdCo-HMZ8NxnO3yGge5rMHU) by [Luis Beltran](https://about.me/luis-beltran)",
+          "embedded_links": [
+            {
+              "identifier": "xPmM8l6",
+              "title": "**Comenzando con .NET MAUI (Preview)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/playlist?list=PL8paXyQ9MxDdCo-HMZ8NxnO3yGge5rMHU"
+            },
+            {
+              "identifier": "UPdnIhl",
+              "title": "Luis Beltran",
+              "url_domain": "about.me",
+              "url": "https://about.me/luis-beltran"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

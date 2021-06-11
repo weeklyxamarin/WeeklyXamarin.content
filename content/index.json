@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "308",
+      "Name": "Issue 308",
+      "UpdatedTimeStamp": "2021-06-11T11:25:58Z",
+      "Summary": "Communities, WWDC Notes, and a Weekly Xamarin App.",
+      "PublishDate": "2021-06-11T11:25:54Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "307",
       "Name": "Issue 307",
       "UpdatedTimeStamp": "2021-06-06T12:48:07Z",

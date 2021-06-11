@@ -1,0 +1,146 @@
+{
+  "Id": "308",
+  "Name": "Issue 308",
+  "UpdatedTimeStamp": "2021-06-11T11:25:58Z",
+  "Summary": "Communities, WWDC Notes, and a Weekly Xamarin App.",
+  "Introduction": "It's almost the weekend and that means it's time for the Weekly Xamarin newsletter.  As always lots of great articles for the week. I particularly like the WWDC roundup and the List of World  Wide Xamarin & MAUI communities that Luis Matos has curated.  We are also pleased to announce we now have a Weekly Xamarin App.  It's a little rough around the edges, but hope you find it useful.  [Check it out here.](https://weeklyxamarin.github.io/website/) Thanks to the wonderful people who have made this happen: Lachlan Gordon, Luce Carter, Ryan Davis, David Wahid, James Montemagno, Aden Earnshaw, Sameer Mansoor and Jonathan Parker (and many others who have watched the streams of us building it).  If you want to contribute and help build it out further we accept pull requests ;-) Have a great weekend everyone. ❤ Kym",
+  "PublishDate": "2021-06-11T11:25:54Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Xamarin & MAUI communities",
+      "Url": "https://docs.google.com/spreadsheets/d/1GHfZUtlMkPKR7UDDfpYzbneg_OpudlJZkNk1V9pDDNE/",
+      "Description": "Luis has created and shared a wonderful list of Xamarin and Maui communities around the world",
+      "EditionId": "308",
+      "Author": "Luis Matos",
+      "Id": "308-1",
+      "Category": "GETTING STARTED"
+    },
+    {
+      "Title": "The Weekly Xamarin App",
+      "Url": "https://weeklyxamarin.github.io/website/",
+      "Description": "We now have a Weekly Xamarin App for iOS and Android. Check it out!",
+      "EditionId": "308",
+      "Author": "Kym Phillpotts",
+      "Id": "308-2",
+      "Category": "APP OF THE WEEK"
+    },
+    {
+      "Title": "Working with UI Tests",
+      "Url": "https://xamarinmonkeys.blogspot.com/2021/06/xamarinforms-working-with-ui-tests.html",
+      "Description": "Delphin discusses using Xamarin.UITest to do Automated UI testing for Xamarin.Forms apps.",
+      "EditionId": "308",
+      "Author": "Delpin Susai Raj",
+      "Id": "308-3",
+      "Category": "TESTING"
+    },
+    {
+      "Title": "Apple WWDC Notes",
+      "Url": "https://wwdcnotes.com/",
+      "Description": "Open-source and community-driven effort to collect notes for all Apple's WWDC videos.",
+      "EditionId": "308",
+      "Author": "WWDC NOTES",
+      "Id": "308-4",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Simple way to use Maps",
+      "Url": "https://askxammy.com/simple-way-to-use-maps-with-xamarin-essentials/",
+      "Description": "Maps are very useful in our applications, they allow us to display in a graphic way the location of the desired place - and it's super simple with just a few lines of code.",
+      "EditionId": "308",
+      "Author": "Leomaris Reyes",
+      "Id": "308-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Tune in, Log out.",
+      "Url": "https://mallibone.com/post/xamarin-oidc-logout",
+      "Description": "Who would have thought that logging out of your Xamarin Forms app using Open Identity Connect (OIDC) and OAuth would deserve its own blog post?",
+      "EditionId": "308",
+      "Author": "Mark Allibone",
+      "Id": "308-6",
+      "Category": "SECURITY"
+    },
+    {
+      "Title": "Weekly Xamarin App Code Review and Advanced Theming Additions",
+      "Url": "https://www.youtube.com/watch?v=ba0k2lh-x1o",
+      "Description": "James takes a look at the Weekly Xamarin newsletter mobile application and do a full code review and add theme support and new splash screens!",
+      "EditionId": "308",
+      "Author": "James Montemagno",
+      "Id": "308-7",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 257: M1RACLES",
+      "Url": "https://www.mergeconflict.fm/257",
+      "Description": "We discuss M1RACLES (CVE-2021-30747) and new Xcode requirements.",
+      "EditionId": "308",
+      "Author": "Merge Conflict",
+      "Id": "308-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Getting Started with Dependency Injection in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=6CwQKqMpUFk",
+      "Description": "What do you do when you want to create testable code or when you need to access native features? You need an interface to implement! Then you need a way to inject that implementation (dependency) to access it from your shared code (or anywhere). You will do this pretty often with mobile application development and luckily for us Xamarin.Forms has it all built in! Today' we take a look at Dependency Injection for Xamarin.Forms to create testable services and also access native features.",
+      "EditionId": "308",
+      "Author": "James Montemagno",
+      "Id": "308-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Setup Maps in Your Xamarin.Forms Apps",
+      "Url": "https://www.youtube.com/watch?v=rgOwa7TQvIU",
+      "Description": "Learn how to add Xamarin.Forms.Maps to your app and use maps in your Xamarin.Forms app! In this video we will see how to add a map to your iOS and Android app. We will add permissions, API keys and all the things that are needed to show that map on screen. I know there were request for other things with maps, let me know in the comments what you'd like to see next!",
+      "EditionId": "308",
+      "Author": "Gerald Versluis",
+      "Id": "308-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Next Level Touch Gestures with TouchEffect",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Next-Level-Touch-Gestures-with-TouchEffect-Xamarin-Community-Toolkit",
+      "Description": "The TouchEffect in the Xamarin Community Toolkit allows you to make any visual element into a button. By adding a few lines of code you can execute code by a simple touch. The TouchEffect also brings",
+      "EditionId": "308",
+      "Author": "The Xamarin Show",
+      "Id": "308-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Podcast Episode 94: MORE .NET MAUI",
+      "Url": "https://www.xamarinpodcast.com/94",
+      "Description": "David's back in his recurring role as host to fill us all in on the latest and greatest in .NET MAUI.",
+      "EditionId": "308",
+      "Author": "The Xamarin Podcast",
+      "Id": "308-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Real-World DevOps on the MAUI Team - Episode 144",
+      "Url": "http://azuredevopspodcast.clear-measure.com/real-world-devops-on-the-maui-team-episode-144",
+      "Description": "On today's episode of the podcast, Jeffrey Palermo is joined by two special guests, Alex Blount and Sweekriti Satpathy who discuss real-world DevOps on the MAUI team, how to get up and running with MAUI, a rundown of the products that the team uses (and how they're configured), and much more.",
+      "EditionId": "308",
+      "Author": "Azure DevOps Podcast",
+      "Id": "308-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 56: Fonts and Icons",
+      "Url": "https://nullpointers.io/56/",
+      "Description": "You have your app idea; you got a picture of the design, even found that gradient. But don't stop there. What about your fonts and icons? In this episode, we talk about fonts, icons, where you can get them and what to look out for.",
+      "EditionId": "308",
+      "Author": "Null Pointers",
+      "Id": "308-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "MAUI Video series (Spanish)",
+      "Url": "https://www.youtube.com/playlist?list=PL8paXyQ9MxDdCo-HMZ8NxnO3yGge5rMHU",
+      "Description": "Luis Beltran is putting together a MAUI series which you can check out in his YouTube channel. Note: Series is in Spanish.",
+      "EditionId": "308",
+      "Author": "Luis Beltran",
+      "Id": "308-15",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
