@@ -1,0 +1,97 @@
+{
+  "Categories": [
+    {
+      "Name": ".NET"
+    },
+    {
+      "Name": "ANAYLTICS"
+    },
+    {
+      "Name": "AND FINALLY..."
+    },
+    {
+      "Name": "ANDROID"
+    },
+    {
+      "Name": "APP OF THE WEEK"
+    },
+    {
+      "Name": "AZURE"
+    },
+    {
+      "Name": "BUSINESS & MARKETING"
+    },
+    {
+      "Name": "CAREER"
+    },
+    {
+      "Name": "CODE"
+    },
+    {
+      "Name": "DESIGN"
+    },
+    {
+      "Name": "DEVOPS"
+    },
+    {
+      "Name": "FSHARP"
+    },
+    {
+      "Name": "GETTING STARTED"
+    },
+    {
+      "Name": "IOS"
+    },
+    {
+      "Name": "MAC"
+    },
+    {
+      "Name": "MAUI"
+    },
+    {
+      "Name": "MEETUPS"
+    },
+    {
+      "Name": "MVVMCROSS"
+    },
+    {
+      "Name": "NEWS"
+    },
+    {
+      "Name": "NUGET OF THE WEEK"
+    },
+    {
+      "Name": "OPEN SOURCE"
+    },
+    {
+      "Name": "PERFORMANCE"
+    },
+    {
+      "Name": "PODCASTS & VIDEOS"
+    },
+    {
+      "Name": "REACTIVEUI"
+    },
+    {
+      "Name": "RELEASES"
+    },
+    {
+      "Name": "SECURITY"
+    },
+    {
+      "Name": "TESTING"
+    },
+    {
+      "Name": "TOOLS"
+    },
+    {
+      "Name": "UNO PLATFORM"
+    },
+    {
+      "Name": "WHO'S HIRING/LOOKING"
+    },
+    {
+      "Name": "XAMARIN FORMS"
+    }
+  ]
+}
