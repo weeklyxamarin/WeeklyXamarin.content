@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "309",
+      "Name": "Issue 309",
+      "UpdatedTimeStamp": "2021-06-19T07:41:25Z",
+      "Summary": "MAUI, Nugets, Videos and Releases!",
+      "PublishDate": "2021-06-19T07:41:23Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "308",
       "Name": "Issue 308",
       "UpdatedTimeStamp": "2021-06-11T11:25:58Z",

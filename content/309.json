@@ -1,0 +1,254 @@
+{
+  "Id": "309",
+  "Name": "Issue 309",
+  "UpdatedTimeStamp": "2021-06-19T07:41:25Z",
+  "Summary": "MAUI, Nugets, Videos and Releases!",
+  "Introduction": "G'day! There are a crazy number of great articles in this weeks edition. Maui content is really starting to come thick and fast. There are also some sweet nugets, videos and releases! Have a great weekend everyone! ❤ Kym",
+  "PublishDate": "2021-06-19T07:41:23Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Startup Performance, Skia and the Future of Cross Platform Apps Built with .NET",
+      "Url": "https://nicksnettravels.builttoroam.com/startup-performance/",
+      "Description": "Nick Randolph starts having a look at startup performance, how to measure it and how to optimize it.",
+      "EditionId": "309",
+      "Author": "Nick Randolph",
+      "Id": "309-1",
+      "Category": "PERFORMANCE"
+    },
+    {
+      "Title": "C# 9 without CI build failures",
+      "Url": "https://prin53.medium.com/how-to-update-xamarin-project-to-c-9-without-ci-build-failures-c996aeb605d1",
+      "Description": "If you are updating your Xamarin Project to C#9 and experience any build issues, you'll want to have a look at this blog post.",
+      "EditionId": "309",
+      "Author": "Denys Fiediaiev",
+      "Id": "309-2",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Build C#9 with AppCenter",
+      "Url": "https://www.sharpnado.com/build-c-9-with-appcenter/",
+      "Description": "Sharpnado struggles with using C#9 in AppCenter. The struggle was real, but happy to report that things ended on a happy note.",
+      "EditionId": "309",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "309-3",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Adaptive Icons in Android",
+      "Url": "https://thewissen.io/adaptive-icons-in-android",
+      "Description": "Adaptive icons were introduced in Android 8.0 (Oreo, or API Level 26) already. Their use as a new icon format is to cater to the different shape varieties that device manufacturers like to include in their Android version. Some devices prefer round icons, whereas others might favor a rounded rectangle type design. Adaptive icons solve these discrepancies by creating a layering system, where the actual subject of your icon sits on a different layer that gets overlayed on top of a round or square icon surface.",
+      "EditionId": "309",
+      "Author": "Steven Thewissen",
+      "Id": "309-4",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Window Manager preview for Xamarin",
+      "Url": "https://devblogs.microsoft.com/surface-duo/xamarin-jetpack-window-manager-preview/",
+      "Description": "Window Manager is an AndroidX library that brings dual-screen and foldable support to Android, across a variety of devices including Microsoft Surface Duo. Window Manager is now available to test with Xamarin.Android apps via a prerelease NuGet Xamarin.AndroidX.Window.",
+      "EditionId": "309",
+      "Author": "Craig Dunn",
+      "Id": "309-5",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "What's New in iOS 15 for App Store Optimization",
+      "Url": "https://appfigures.com/resources/guides/ios15-aso-updates",
+      "Description": "The latest release of iOS bundles great features for developers that when used correctly can easily get more downloads. Here's how to use them.",
+      "EditionId": "309",
+      "Author": "Ariel Michaeli",
+      "Id": "309-6",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Exploring Drag and Drop",
+      "Url": "https://xamgirl.com/exploring-drag-and-drop-in-xamarin-forms/",
+      "Description": "In Xamarin Forms 5 the ability for doing drag and drop was released. This article explores how to use it to create a simple Schedule UI which will have the ability to drag event cards and drop them over a Trash icon to delete them.",
+      "EditionId": "309",
+      "Author": "Charlin Agramonte",
+      "Id": "309-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Logging with anything from Console to SQLite",
+      "Url": "https://www.banditoth.hu/2021/06/11/xamarin-logging-to-console-and-sqlite/",
+      "Description": "Logging in your application is important to understand how your users interact with your applications, but probably even more importantly to debug and trace errors.",
+      "EditionId": "309",
+      "Author": "András Tóth",
+      "Id": "309-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Web apps with Xamarin.Forms",
+      "Url": "https://luismts.com/web-apps-xamarin-forms/",
+      "Description": "Web apps in Xamarin Forms is one of the most striking features for developers over time. There are many articles and presentations that talk about this topic, but we will focus on the different alternatives that exist today and one or another surprise.",
+      "EditionId": "309",
+      "Author": "Luis Matos",
+      "Id": "309-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms and Lottie - Part 2",
+      "Url": "https://bertuzzi.medium.com/o-x-do-xamarin-forms-lottie-parte-2-resources-embeddedresource-e-splashscreen-dd9edec78e07",
+      "Description": "Thiago digs deeper into using Lottie in Xamarin.Forms by looking at Splash Screens. *Note: Post is in Portuguese*",
+      "EditionId": "309",
+      "Author": "Thiago Bertuzzi",
+      "Id": "309-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Implementing Chromecast with Xamarin.Forms",
+      "Url": "https://devblogs.microsoft.com/xamarin/implementing-chromecast-with-xamarin-forms/",
+      "Description": "If you are creating a video or even audio app, you can add Chromecast Support for it easily. If the video/audio browsing app is built using Xamarin.Forms, this post walks you through how to add the support for video Chromecast through 2 ways,",
+      "EditionId": "309",
+      "Author": "Sweekriti Satpathy",
+      "Id": "309-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Using the IndicatorView",
+      "Url": "https://www.telerik.com/blogs/using-indicatorview-xamarin-forms",
+      "Description": "IndicatorView teams up with CarouselView to let users know which slide of a carousel they're on. Today let's learn how to use this tool!",
+      "EditionId": "309",
+      "Author": "Leomaris Reyes",
+      "Id": "309-12",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Opening and Viewing PDF Files",
+      "Url": "https://bertuzzi.medium.com/meu-plugin-minha-vida-abrindo-e-exibindo-arquivos-pdf-a124e6d9e9f7",
+      "Description": "Thiago has a look at using the Xamarin.Forms.Save.Open.PDF Plugin *Note: Post is in Portuguese*",
+      "EditionId": "309",
+      "Author": "Thiago Bertuzzi",
+      "Id": "309-13",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "A Maui Page Resolver",
+      "Url": "https://github.com/matt-goldman/Maui.Plugins.PageResolver",
+      "Description": "A simple and lightweight page resolver for use in .NET MAUI projects. While we're waiting for the full MVVM frameworks we know and love to be updated for MAUI, or if you just want a simple page resolver with DI without using a full MVVM framework (or if you want to use MVU), this package will let you navigate to fully resolved pages, with view models and dependencies.",
+      "EditionId": "309",
+      "Author": "Matt Goldman",
+      "Id": "309-14",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Preview 4 on Mac",
+      "Url": "https://danielhindrikes.se/index.php/2021/06/12/net-maui-preview-4-on-mac/",
+      "Description": "Visual Studio for Mac is not supporting .NET preview 4 yet. But that doesn't mean that you cannot start to play with MAUI. But you have to use the terminal and for example Visual Studio Code.",
+      "EditionId": "309",
+      "Author": "Daniel Hindrikes",
+      "Id": "309-15",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Maui Blazor Mobile Template",
+      "Url": "https://blog.depechie.com/posts/2021-06-17-maui-blazor-mobiletemplate/",
+      "Description": "When you want to try out the .Net MAUI Blazor template, you will be able to run the standard Blazor test website on your mobile phone without any issues. But let’s be honest, that template is not what we would expect from a mobile app. It is responsive so the sidebar changes into a menu, but it still feels like a real website instead of a mobile app. So let me show you an alternative version of how the default Blazor template could look like a mobile application.",
+      "EditionId": "309",
+      "Author": "Glenn Versweyveld",
+      "Id": "309-16",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #12",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-12",
+      "Description": "Sam continues his weekly roundup of news and updates on MAUI.",
+      "EditionId": "309",
+      "Author": "Sam Basu",
+      "Id": "309-17",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Xamarin.Forms Shell: Customizing the TabBar",
+      "Url": "https://www.mobile-concept.com/2021/06/17/xamarin-forms-shell-customizing-the-tabbar/",
+      "Description": "This post will offer you a way for customize the TabBar of the Shell on iOS and Android platforms by adding a centered button.",
+      "EditionId": "309",
+      "Author": "Paulin Laroche",
+      "Id": "309-18",
+      "Category": "NUGET OF THE WEEK"
+    },
+    {
+      "Title": "Getting Coordinates and Addresses with Xamarin.Forms.Maps",
+      "Url": "https://www.youtube.com/watch?v=IGZsf6VNTGg",
+      "Description": "Xamarin.Forms.Maps has a lot of great features! One of them is the easy ability to get coordinates from just a tap on the map. Also, it has a geocoder built-in! That means you can get addresses from coordinates and vice versa. In this video we will see all of that and as a bonus how to move the map to a certain region!",
+      "EditionId": "309",
+      "Author": "Gerald Versluis",
+      "Id": "309-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Introduction to .NET MAUI Blazor",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Introduction-to-NET-MAUI-Blazor--The-Xamarin-Show",
+      "Description": "Blazor enables building client-side web UI with .NET, but sometimes you need more than what the web platform offers. Sometimes you need full access to the native capabilities of the device. You can now host Blazor components in .NET MAUI apps to build cross-platform native apps using web UI. The components run natively in the .NET process and render web UI to an embedded web view control using a local interop channel. This hybrid approach gives you the best of native and the web. Your components can access native functionality through the .NET platform, and they render standard web UI. .NET MAUI Blazor apps can run anywhere .NET MAUI can (Windows, Mac, iOS, and Android) although our primary focus for .NET 6 is on desktop scenarios.",
+      "EditionId": "309",
+      "Author": "The Xamarin Show",
+      "Id": "309-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Dynamic Status Bar Color (iOS & Android) in Xamarin/Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=GKJRR8_DSSs",
+      "Description": "Have you been looking to get total control of that status bar on iOS/Android in your app? Changing the color and the tint is an important part of full theming of apps and it just takes a few lines of code. I walk through exactly what you need to do.",
+      "EditionId": "309",
+      "Author": "James Montemagno",
+      "Id": "309-21",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 65: .NET 6, T4, and MSBuild. With Mikayla Hutchinson",
+      "Url": "https://kerry.lothrop.de/devtalk-65-mikayla-hutchinson/",
+      "Description": "On this episode of DevTalk Kerry speaks to Mikayla Hutchinson about .NET 6, T4 text templating, and MSBuildEditor.",
+      "EditionId": "309",
+      "Author": "Kerry Lothrop",
+      "Id": "309-22",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 258: WWDC 2021 Recap",
+      "Url": "https://www.mergeconflict.fm/258",
+      "Description": "Frank and James discuss all the goodness from WWDC.",
+      "EditionId": "309",
+      "Author": "Merge Conflict",
+      "Id": "309-23",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 57: Getting Fit",
+      "Url": "https://nullpointers.io/57/",
+      "Description": "The pandemic slowly seems to be contained, time to go out and get fit again! At least, we have been home much which didn't always treat us right. In this episode we talk about what we do to get fit and how much it hurts!",
+      "EditionId": "309",
+      "Author": "Null Pointers",
+      "Id": "309-24",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Live Tracking Locations On a Map with Xamarin.Forms Maps",
+      "Url": "https://www.youtube.com/watch?v=8Zs26s-mmhw",
+      "Description": "It has been requested a lot of times: how to implement live tracking another user or device on a map? That is exactly what we will be learning in this video. We will see how to add a pin to the Xamarin.Forms map and update that with a changing position.",
+      "EditionId": "309",
+      "Author": "Gerald Versluis",
+      "Id": "309-25",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "MvvmCross 8.0.0 & 8.0.1",
+      "Url": "https://www.mvvmcross.com/mvvmcross-8.0.1-release/",
+      "Description": "A new MvvmCross version is available on NuGet! You can always find the latest changelog in the root of the repository to see what has changed between versions.",
+      "EditionId": "309",
+      "Author": "Mvvmcross",
+      "Id": "309-26",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "Announcing .NET MAUI Preview 5",
+      "Url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-5/",
+      "Description": ".NET Multi-platform App UI (.NET MAUI) Preview 5 is now available.",
+      "EditionId": "309",
+      "Author": "David Ortinau",
+      "Id": "309-27",
+      "Category": "RELEASES"
+    }
+  ]
+}

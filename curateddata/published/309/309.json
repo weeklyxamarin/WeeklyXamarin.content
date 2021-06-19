@@ -1,0 +1,702 @@
+{
+  "number": 309,
+  "title": "Issue 309",
+  "summary": "MAUI, Nugets, Videos and Releases!",
+  "url": "https://weeklyxamarin.com/issues/309",
+  "publication_status": "published",
+  "published_at": "2021-06-19T08:41:23+01:00",
+  "updated_at": "2021-06-19T08:41:25+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day!</p>\n\n<p>There are a crazy number of great articles in this weeks edition. Maui content is really starting to come thick and fast. There are also some sweet nugets, videos and releases!</p>\n\n<p>Have a great weekend everyone!</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day!\r\n\r\nThere are a crazy number of great articles in this weeks edition. Maui content is really starting to come thick and fast. There are also some sweet nugets, videos and releases!\r\n\r\nHave a great weekend everyone!\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "performance",
+      "name": "PERFORMANCE",
+      "items": [
+        {
+          "identifier": "xfQEDFe",
+          "type": "Link",
+          "title": "Startup Performance, Skia and the Future of Cross Platform Apps Built with .NET",
+          "url_domain": "builttoroam.com",
+          "url": "https://nicksnettravels.builttoroam.com/startup-performance/",
+          "description": "<p>Nick Randolph starts having a look at startup performance, how to measure it and how to optimize it.</p>\n\n<p><a href=\"https://nicksnettravels.builttoroam.com/startup-performance/\"><strong>Startup Performance, Skia and the Future of Cross Platform Apps Built with .NET</strong></a> by <a href=\"https://twitter.com/thenickrandolph\">Nick Randolph</a></p>",
+          "description_markdown": "Nick Randolph starts having a look at startup performance, how to measure it and how to optimize it.\r\n\r\n[**Startup Performance, Skia and the Future of Cross Platform Apps Built with .NET**](https://nicksnettravels.builttoroam.com/startup-performance/) by [Nick Randolph](https://twitter.com/thenickrandolph)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "nU1urjD",
+              "title": "**Startup Performance, Skia and the Future of Cross Platform Apps Built with .NET**",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/startup-performance/"
+            },
+            {
+              "identifier": "sYX7zUN",
+              "title": "Nick Randolph",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/thenickrandolph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "CgXQXE6",
+          "type": "Link",
+          "title": "C# 9 without CI build failures",
+          "url_domain": "medium.com",
+          "url": "https://prin53.medium.com/how-to-update-xamarin-project-to-c-9-without-ci-build-failures-c996aeb605d1",
+          "description": "<p>If you are updating your Xamarin Project to C#9 and experience any build issues, you'll want to have a look at this blog post.</p>\n\n<p><a href=\"https://prin53.medium.com/how-to-update-xamarin-project-to-c-9-without-ci-build-failures-c996aeb605d1\"><strong>How to update Xamarin project to C# 9 without CI build failures</strong></a> by <a href=\"https://medium.com/@prin53\">Denys Fiediaiev</a></p>",
+          "description_markdown": "If you are updating your Xamarin Project to C#9 and experience any build issues, you'll want to have a look at this blog post.\r\n\r\n[**How to update Xamarin project to C# 9 without CI build failures**](https://prin53.medium.com/how-to-update-xamarin-project-to-c-9-without-ci-build-failures-c996aeb605d1) by [Denys Fiediaiev](https://medium.com/@prin53)",
+          "embedded_links": [
+            {
+              "identifier": "FcNgE8t",
+              "title": "**How to update Xamarin project to C# 9 without CI build failures**",
+              "url_domain": "medium.com",
+              "url": "https://prin53.medium.com/how-to-update-xamarin-project-to-c-9-without-ci-build-failures-c996aeb605d1"
+            },
+            {
+              "identifier": "i9u4DoC",
+              "title": "Denys Fiediaiev",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prin53"
+            }
+          ]
+        },
+        {
+          "identifier": "t39wIRB",
+          "type": "Link",
+          "title": "Build C#9 with AppCenter",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/build-c-9-with-appcenter/",
+          "description": "<p>Sharpnado struggles with using C#9 in AppCenter. The struggle was real, but happy to report that things ended on a happy note.</p>\n\n<p><a href=\"https://www.sharpnado.com/build-c-9-with-appcenter/\"><strong>Build C#9 with AppCenter</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "Sharpnado struggles with using C#9 in AppCenter. The struggle was real, but happy to report that things ended on a happy note.\r\n\r\n[**Build C#9 with AppCenter**](https://www.sharpnado.com/build-c-9-with-appcenter/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "fIkeAJz",
+              "title": "**Build C#9 with AppCenter**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/build-c-9-with-appcenter/"
+            },
+            {
+              "identifier": "qqPB1E4",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "3DOJVBh",
+          "type": "Link",
+          "title": "Adaptive Icons in Android",
+          "url_domain": "thewissen.io",
+          "url": "https://thewissen.io/adaptive-icons-in-android",
+          "description": "<p>Adaptive icons were introduced in Android 8.0 (Oreo, or API Level 26) already. Their use as a new icon format is to cater to the different shape varieties that device manufacturers like to include in their Android version. Some devices prefer round icons, whereas others might favor a rounded rectangle type design. Adaptive icons solve these discrepancies by creating a layering system, where the actual subject of your icon sits on a different layer that gets overlayed on top of a round or square icon surface.</p>\n\n<p><a href=\"https://thewissen.io/adaptive-icons-in-android\"><strong>Adaptive Icons in Android</strong></a> by <a href=\"https://twitter.com/devnl\">Steven Thewissen</a></p>",
+          "description_markdown": "Adaptive icons were introduced in Android 8.0 (Oreo, or API Level 26) already. Their use as a new icon format is to cater to the different shape varieties that device manufacturers like to include in their Android version. Some devices prefer round icons, whereas others might favor a rounded rectangle type design. Adaptive icons solve these discrepancies by creating a layering system, where the actual subject of your icon sits on a different layer that gets overlayed on top of a round or square icon surface.\r\n\r\n[**Adaptive Icons in Android**](https://thewissen.io/adaptive-icons-in-android) by [Steven Thewissen](https://twitter.com/devnl)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "dcAWaJK",
+              "title": "**Adaptive Icons in Android**",
+              "url_domain": "thewissen.io",
+              "url": "https://thewissen.io/adaptive-icons-in-android"
+            },
+            {
+              "identifier": "w0kzfyz",
+              "title": "Steven Thewissen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/devnl"
+            }
+          ]
+        },
+        {
+          "identifier": "MRQ4ILU",
+          "type": "Link",
+          "title": "Window Manager preview for Xamarin",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/surface-duo/xamarin-jetpack-window-manager-preview/",
+          "description": "<p>Window Manager is an AndroidX library that brings dual-screen and foldable support to Android, across a variety of devices including Microsoft Surface Duo. Window Manager is now available to test with Xamarin.Android apps via a prerelease NuGet Xamarin.AndroidX.Window.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/surface-duo/xamarin-jetpack-window-manager-preview/\"><strong>Window Manager preview for Xamarin</strong></a> by <a href=\"https://twitter.com/conceptdev\">Craig Dunn</a></p>",
+          "description_markdown": "Window Manager is an AndroidX library that brings dual-screen and foldable support to Android, across a variety of devices including Microsoft Surface Duo. Window Manager is now available to test with Xamarin.Android apps via a prerelease NuGet Xamarin.AndroidX.Window.\r\n\r\n[**Window Manager preview for Xamarin**](https://devblogs.microsoft.com/surface-duo/xamarin-jetpack-window-manager-preview/) by [Craig Dunn](https://twitter.com/conceptdev)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "5fdaH1t",
+              "title": "**Window Manager preview for Xamarin**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/surface-duo/xamarin-jetpack-window-manager-preview/"
+            },
+            {
+              "identifier": "4AAMzC3",
+              "title": "Craig Dunn",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/conceptdev"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "lMV88VR",
+          "type": "Link",
+          "title": "What's New in iOS 15 for App Store Optimization",
+          "url_domain": "appfigures.com",
+          "url": "https://appfigures.com/resources/guides/ios15-aso-updates",
+          "description": "<p>The latest release of iOS bundles great features for developers that when used correctly can easily get more downloads. Here's how to use them.</p>\n\n<p><a href=\"https://appfigures.com/resources/guides/ios15-aso-updates\"><strong>What's New in iOS 15 for App Store Optimization</strong></a> by <a href=\"https://twitter.com/arielmichaeli\">Ariel Michaeli</a></p>",
+          "description_markdown": "The latest release of iOS bundles great features for developers that when used correctly can easily get more downloads. Here's how to use them.\r\n\r\n[**What's New in iOS 15 for App Store Optimization**](https://appfigures.com/resources/guides/ios15-aso-updates) by [Ariel Michaeli](https://twitter.com/arielmichaeli)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "RiPPGBL",
+              "title": "**What's New in iOS 15 for App Store Optimization**",
+              "url_domain": "appfigures.com",
+              "url": "https://appfigures.com/resources/guides/ios15-aso-updates"
+            },
+            {
+              "identifier": "LewiHqS",
+              "title": "Ariel Michaeli",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/arielmichaeli"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "DzF80B9",
+          "type": "Link",
+          "title": "Exploring Drag and Drop",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/exploring-drag-and-drop-in-xamarin-forms/",
+          "description": "<p>In Xamarin Forms 5 the ability for doing drag and drop was released. This article explores how to use it to create a simple Schedule UI which will have the ability to drag event cards and drop them over a Trash icon to delete them.</p>\n\n<p><a href=\"https://xamgirl.com/exploring-drag-and-drop-in-xamarin-forms/\"><strong>Exploring Drag and Drop in Xamarin Forms - XamGirl</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "In Xamarin Forms 5 the ability for doing drag and drop was released. This article explores how to use it to create a simple Schedule UI which will have the ability to drag event cards and drop them over a Trash icon to delete them. \r\n\r\n[**Exploring Drag and Drop in Xamarin Forms - XamGirl**](https://xamgirl.com/exploring-drag-and-drop-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "8C5uGIh",
+              "title": "**Exploring Drag and Drop in Xamarin Forms - XamGirl**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/exploring-drag-and-drop-in-xamarin-forms/"
+            },
+            {
+              "identifier": "yKVWX3J",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "Ea8hjWm",
+          "type": "Link",
+          "title": "Logging with anything from Console to SQLite",
+          "url_domain": "banditoth.hu",
+          "url": "https://www.banditoth.hu/2021/06/11/xamarin-logging-to-console-and-sqlite/",
+          "description": "<p>Logging in your application is important to understand how your users interact with your applications, but probably even more importantly to debug and trace errors.</p>\n\n<p><a href=\"https://www.banditoth.hu/2021/06/11/xamarin-logging-to-console-and-sqlite/\"><strong>Xamarin Forms: Logging with anything from Console to SQLite</strong></a> by <a href=\"https://www.linkedin.com/in/banditoth/\">András Tóth</a></p>",
+          "description_markdown": "Logging in your application is important to understand how your users interact with your applications, but probably even more importantly to debug and trace errors.\r\n\r\n[**Xamarin Forms: Logging with anything from Console to SQLite**](https://www.banditoth.hu/2021/06/11/xamarin-logging-to-console-and-sqlite/) by [András Tóth](https://www.linkedin.com/in/banditoth/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "KLNEH0W",
+              "title": "**Xamarin Forms: Logging with anything from Console to SQLite**",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/2021/06/11/xamarin-logging-to-console-and-sqlite/"
+            },
+            {
+              "identifier": "Bl8Hse9",
+              "title": "András Tóth",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/banditoth/"
+            }
+          ]
+        },
+        {
+          "identifier": "acmttNe",
+          "type": "Link",
+          "title": "Web apps with Xamarin.Forms",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/web-apps-xamarin-forms/",
+          "description": "<p>Web apps in Xamarin Forms is one of the most striking features for developers over time. There are many articles and presentations that talk about this topic, but we will focus on the different alternatives that exist today and one or another surprise.</p>\n\n<p><a href=\"https://luismts.com/web-apps-xamarin-forms/\"><strong>Web apps with Xamarin.Forms nowadays - Luis Matos</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Web apps in Xamarin Forms is one of the most striking features for developers over time. There are many articles and presentations that talk about this topic, but we will focus on the different alternatives that exist today and one or another surprise.\r\n\r\n[**Web apps with Xamarin.Forms nowadays - Luis Matos**](https://luismts.com/web-apps-xamarin-forms/) by [Luis Matos](https://twitter.com/luismatosluna)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "IIq1KQL",
+              "title": "**Web apps with Xamarin.Forms nowadays - Luis Matos**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/web-apps-xamarin-forms/"
+            },
+            {
+              "identifier": "azM7Fpf",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "AqC6pX4",
+          "type": "Link",
+          "title": "Xamarin.Forms and Lottie - Part 2",
+          "url_domain": "medium.com",
+          "url": "https://bertuzzi.medium.com/o-x-do-xamarin-forms-lottie-parte-2-resources-embeddedresource-e-splashscreen-dd9edec78e07",
+          "description": "<p>Thiago digs deeper into using Lottie in Xamarin.Forms by looking at Splash Screens.</p>\n\n<p><em>Note: Post is in Portuguese</em></p>\n\n<p><a href=\"https://bertuzzi.medium.com/o-x-do-xamarin-forms-lottie-parte-2-resources-embeddedresource-e-splashscreen-dd9edec78e07\"><strong>O X do Xamarin Forms - Lottie parte 2 : Resources, EmbeddedResource e SplashScreen</strong></a> by <a href=\"https://medium.com/@bertuzzi\">Thiago Bertuzzi</a></p>",
+          "description_markdown": "Thiago digs deeper into using Lottie in Xamarin.Forms by looking at Splash Screens.\r\n\r\n*Note: Post is in Portuguese*\r\n\r\n[**O X do Xamarin Forms - Lottie parte 2 : Resources, EmbeddedResource e SplashScreen**](https://bertuzzi.medium.com/o-x-do-xamarin-forms-lottie-parte-2-resources-embeddedresource-e-splashscreen-dd9edec78e07) by [Thiago Bertuzzi](https://medium.com/@bertuzzi)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "iIbWX6E",
+              "title": "**O X do Xamarin Forms - Lottie parte 2 : Resources, EmbeddedResource e SplashScreen**",
+              "url_domain": "medium.com",
+              "url": "https://bertuzzi.medium.com/o-x-do-xamarin-forms-lottie-parte-2-resources-embeddedresource-e-splashscreen-dd9edec78e07"
+            },
+            {
+              "identifier": "YiqikGf",
+              "title": "Thiago Bertuzzi",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi"
+            }
+          ]
+        },
+        {
+          "identifier": "tPXTPFO",
+          "type": "Link",
+          "title": "Implementing Chromecast with Xamarin.Forms",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/implementing-chromecast-with-xamarin-forms/",
+          "description": "<p>If you are creating a video or even audio app, you can add Chromecast Support for it easily. If the video/audio browsing app is built using Xamarin.Forms, this post walks you through how to add the support for video Chromecast through 2 ways,</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/implementing-chromecast-with-xamarin-forms/\"><strong>Implementing Chromecast with Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/SweekritiS\">Sweekriti Satpathy</a></p>",
+          "description_markdown": "If you are creating a video or even audio app, you can add Chromecast Support for it easily. If the video/audio browsing app is built using Xamarin.Forms, this post walks you through how to add the support for video Chromecast through 2 ways,\r\n\r\n[**Implementing Chromecast with Xamarin.Forms**](https://devblogs.microsoft.com/xamarin/implementing-chromecast-with-xamarin-forms/) by [Sweekriti Satpathy](https://twitter.com/SweekritiS)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "mke3wVV",
+              "title": "**Implementing Chromecast with Xamarin.Forms**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/implementing-chromecast-with-xamarin-forms/"
+            },
+            {
+              "identifier": "epnsANp",
+              "title": "Sweekriti Satpathy",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/SweekritiS"
+            }
+          ]
+        },
+        {
+          "identifier": "7hqOad1",
+          "type": "Link",
+          "title": "Using the IndicatorView",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/using-indicatorview-xamarin-forms",
+          "description": "<p>IndicatorView teams up with CarouselView to let users know which slide of a carousel they're on. Today let's learn how to use this tool!</p>\n\n<p><a href=\"https://www.telerik.com/blogs/using-indicatorview-xamarin-forms\"><strong>Using IndicatorView in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "IndicatorView teams up with CarouselView to let users know which slide of a carousel they're on. Today let's learn how to use this tool!\r\n\r\n[**Using IndicatorView in Xamarin Forms**](https://www.telerik.com/blogs/using-indicatorview-xamarin-forms) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "etqPTKE",
+              "title": "**Using IndicatorView in Xamarin Forms**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/using-indicatorview-xamarin-forms"
+            },
+            {
+              "identifier": "AibHX27",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "kTk8Qd9",
+          "type": "Link",
+          "title": "Opening and Viewing PDF Files",
+          "url_domain": "medium.com",
+          "url": "https://bertuzzi.medium.com/meu-plugin-minha-vida-abrindo-e-exibindo-arquivos-pdf-a124e6d9e9f7",
+          "description": "<p>Thiago has a look at using the Xamarin.Forms.Save.Open.PDF Plugin</p>\n\n<p><em>Note: Post is in Portuguese</em></p>\n\n<p><a href=\"https://bertuzzi.medium.com/meu-plugin-minha-vida-abrindo-e-exibindo-arquivos-pdf-a124e6d9e9f7\"><strong>Meu plugin minha vida - Abrindo e Exibindo arquivos PDF </strong></a> by <a href=\"https://medium.com/@bertuzzi\">Thiago Bertuzzi</a></p>",
+          "description_markdown": "Thiago has a look at using the Xamarin.Forms.Save.Open.PDF Plugin\r\n\r\n*Note: Post is in Portuguese*\r\n\r\n[**Meu plugin minha vida - Abrindo e Exibindo arquivos PDF **](https://bertuzzi.medium.com/meu-plugin-minha-vida-abrindo-e-exibindo-arquivos-pdf-a124e6d9e9f7) by [Thiago Bertuzzi](https://medium.com/@bertuzzi)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Vt1QStt",
+              "title": "**Meu plugin minha vida - Abrindo e Exibindo arquivos PDF **",
+              "url_domain": "medium.com",
+              "url": "https://bertuzzi.medium.com/meu-plugin-minha-vida-abrindo-e-exibindo-arquivos-pdf-a124e6d9e9f7"
+            },
+            {
+              "identifier": "C8tZSUT",
+              "title": "Thiago Bertuzzi",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "t56MSuT",
+          "type": "Link",
+          "title": "A Maui Page Resolver",
+          "url_domain": "github.com",
+          "url": "https://github.com/matt-goldman/Maui.Plugins.PageResolver",
+          "description": "<p>A simple and lightweight page resolver for use in .NET MAUI projects.</p>\n\n<p>While we're waiting for the full MVVM frameworks we know and love to be updated for MAUI, or if you just want a simple page resolver with DI without using a full MVVM framework (or if you want to use MVU), this package will let you navigate to fully resolved pages, with view models and dependencies.</p>\n\n<p><a href=\"https://github.com/matt-goldman/Maui.Plugins.PageResolver\"><strong>matt-goldman/Maui.Plugins.PageResolver</strong></a> by <a href=\"https://twitter.com/mattgoldman\">Matt Goldman</a></p>",
+          "description_markdown": "A simple and lightweight page resolver for use in .NET MAUI projects.\r\n\r\nWhile we're waiting for the full MVVM frameworks we know and love to be updated for MAUI, or if you just want a simple page resolver with DI without using a full MVVM framework (or if you want to use MVU), this package will let you navigate to fully resolved pages, with view models and dependencies.\r\n\r\n[**matt-goldman/Maui.Plugins.PageResolver**](https://github.com/matt-goldman/Maui.Plugins.PageResolver) by [Matt Goldman](https://twitter.com/mattgoldman)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "2695WTQ",
+              "title": "**matt-goldman/Maui.Plugins.PageResolver**",
+              "url_domain": "github.com",
+              "url": "https://github.com/matt-goldman/Maui.Plugins.PageResolver"
+            },
+            {
+              "identifier": "glVN7z8",
+              "title": "Matt Goldman",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mattgoldman"
+            }
+          ]
+        },
+        {
+          "identifier": "AVRRMua",
+          "type": "Link",
+          "title": ".NET MAUI Preview 4 on Mac",
+          "url_domain": "danielhindrikes.se",
+          "url": "https://danielhindrikes.se/index.php/2021/06/12/net-maui-preview-4-on-mac/",
+          "description": "<p>Visual Studio for Mac is not supporting .NET preview 4 yet. But that doesn't mean that you cannot start to play with MAUI. But you have to use the terminal and for example Visual Studio Code.</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2021/06/12/net-maui-preview-4-on-mac/\"><strong>.NET MAUI Preview 4 on Mac</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "Visual Studio for Mac is not supporting .NET preview 4 yet. But that doesn't mean that you cannot start to play with MAUI. But you have to use the terminal and for example Visual Studio Code.\r\n\r\n[**.NET MAUI Preview 4 on Mac**](https://danielhindrikes.se/index.php/2021/06/12/net-maui-preview-4-on-mac/) by [Daniel Hindrikes](https://twitter.com/hindrikes)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "tQmMQPS",
+              "title": "**.NET MAUI Preview 4 on Mac**",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/2021/06/12/net-maui-preview-4-on-mac/"
+            },
+            {
+              "identifier": "P4iVeI0",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        },
+        {
+          "identifier": "TSiO3qL",
+          "type": "Link",
+          "title": "Maui Blazor Mobile Template",
+          "url_domain": "depechie.com",
+          "url": "https://blog.depechie.com/posts/2021-06-17-maui-blazor-mobiletemplate/",
+          "description": "<p>When you want to try out the .Net MAUI Blazor template, you will be able to run the standard Blazor test website on your mobile phone without any issues.</p>\n\n<p>But let’s be honest, that template is not what we would expect from a mobile app. It is responsive so the sidebar changes into a menu, but it still feels like a real website instead of a mobile app. So let me show you an alternative version of how the default Blazor template could look like a mobile application.</p>\n\n<p><a href=\"https://blog.depechie.com/posts/2021-06-17-maui-blazor-mobiletemplate/\"><strong>Maui Blazor Mobile Template</strong></a> by <a href=\"https://twitter.com/depechie\">Glenn Versweyveld</a></p>",
+          "description_markdown": "When you want to try out the .Net MAUI Blazor template, you will be able to run the standard Blazor test website on your mobile phone without any issues.\r\n\r\nBut let’s be honest, that template is not what we would expect from a mobile app. It is responsive so the sidebar changes into a menu, but it still feels like a real website instead of a mobile app. So let me show you an alternative version of how the default Blazor template could look like a mobile application.\r\n\r\n[**Maui Blazor Mobile Template**](https://blog.depechie.com/posts/2021-06-17-maui-blazor-mobiletemplate/) by [Glenn Versweyveld](https://twitter.com/depechie)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "UX2JxJa",
+              "title": "**Maui Blazor Mobile Template**",
+              "url_domain": "depechie.com",
+              "url": "https://blog.depechie.com/posts/2021-06-17-maui-blazor-mobiletemplate/"
+            },
+            {
+              "identifier": "serzzKx",
+              "title": "Glenn Versweyveld",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/depechie"
+            }
+          ]
+        },
+        {
+          "identifier": "ffFTh7O",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #12",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-12",
+          "description": "<p>Sam continues his weekly roundup of news and updates on MAUI.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-12\"><strong>Sands of MAUI: Issue #12</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam continues his weekly roundup of news and updates on MAUI.\r\n\r\n[**Sands of MAUI: Issue #12**](https://www.telerik.com/blogs/sands-maui-issue-12) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ymLjfvi",
+              "title": "**Sands of MAUI: Issue #12**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-12"
+            },
+            {
+              "identifier": "7S9RplR",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "nuget",
+      "name": "NUGET OF THE WEEK",
+      "items": [
+        {
+          "identifier": "XbZPAET",
+          "type": "Link",
+          "title": "Xamarin.Forms Shell: Customizing the TabBar",
+          "url_domain": "mobile-concept.com",
+          "url": "https://www.mobile-concept.com/2021/06/17/xamarin-forms-shell-customizing-the-tabbar/",
+          "description": "<p>This post will offer you a way for customize the TabBar of the Shell on iOS and Android platforms by adding a centered button.</p>\n\n<p><a href=\"https://www.mobile-concept.com/2021/06/17/xamarin-forms-shell-customizing-the-tabbar/\"><strong>Xamarin.Forms Shell: Customizing the TabBar</strong></a> by <a href=\"https://twitter.com/paulin_laroche\">Paulin Laroche</a></p>",
+          "description_markdown": "This post will offer you a way for customize the TabBar of the Shell on iOS and Android platforms by adding a centered button.\r\n\r\n[**Xamarin.Forms Shell: Customizing the TabBar**](https://www.mobile-concept.com/2021/06/17/xamarin-forms-shell-customizing-the-tabbar/) by [Paulin Laroche](https://twitter.com/paulin_laroche)",
+          "embedded_links": [
+            {
+              "identifier": "PpyUfE1",
+              "title": "**Xamarin.Forms Shell: Customizing the TabBar**",
+              "url_domain": "mobile-concept.com",
+              "url": "https://www.mobile-concept.com/2021/06/17/xamarin-forms-shell-customizing-the-tabbar/"
+            },
+            {
+              "identifier": "hxAivEB",
+              "title": "Paulin Laroche",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/paulin_laroche"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "ULqHYIq",
+          "type": "Link",
+          "title": "Getting Coordinates and Addresses with Xamarin.Forms.Maps",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=IGZsf6VNTGg",
+          "description": "<p>Xamarin.Forms.Maps has a lot of great features! One of them is the easy ability to get coordinates from just a tap on the map. Also, it has a geocoder built-in! That means you can get addresses from coordinates and vice versa.</p>\n\n<p>In this video we will see all of that and as a bonus how to move the map to a certain region!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=IGZsf6VNTGg\"><strong>Getting Coordinates and Addresses with Xamarin.Forms.Maps</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Xamarin.Forms.Maps has a lot of great features! One of them is the easy ability to get coordinates from just a tap on the map. Also, it has a geocoder built-in! That means you can get addresses from coordinates and vice versa.\r\n\r\nIn this video we will see all of that and as a bonus how to move the map to a certain region!\r\n\r\n[**Getting Coordinates and Addresses with Xamarin.Forms.Maps**](https://www.youtube.com/watch?v=IGZsf6VNTGg) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "XJDlqsI",
+              "title": "**Getting Coordinates and Addresses with Xamarin.Forms.Maps**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=IGZsf6VNTGg"
+            },
+            {
+              "identifier": "OoN1BIh",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "q8hnOWN",
+          "type": "Link",
+          "title": "Introduction to .NET MAUI Blazor",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Introduction-to-NET-MAUI-Blazor--The-Xamarin-Show",
+          "description": "<p>Blazor enables building client-side web UI with .NET, but sometimes you need more than what the web platform offers. Sometimes you need full access to the native capabilities of the device. You can now host Blazor components in .NET MAUI apps to build cross-platform native apps using web UI. The components run natively in the .NET process and render web UI to an embedded web view control using a local interop channel. This hybrid approach gives you the best of native and the web. Your components can access native functionality through the .NET platform, and they render standard web UI. .NET MAUI Blazor apps can run anywhere .NET MAUI can (Windows, Mac, iOS, and Android) although our primary focus for .NET 6 is on desktop scenarios.</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Introduction-to-NET-MAUI-Blazor--The-Xamarin-Show\"><strong>Introduction to .NET MAUI Blazor | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "Blazor enables building client-side web UI with .NET, but sometimes you need more than what the web platform offers. Sometimes you need full access to the native capabilities of the device. You can now host Blazor components in .NET MAUI apps to build cross-platform native apps using web UI. The components run natively in the .NET process and render web UI to an embedded web view control using a local interop channel. This hybrid approach gives you the best of native and the web. Your components can access native functionality through the .NET platform, and they render standard web UI. .NET MAUI Blazor apps can run anywhere .NET MAUI can (Windows, Mac, iOS, and Android) although our primary focus for .NET 6 is on desktop scenarios.\r\n\r\n[**Introduction to .NET MAUI Blazor | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Introduction-to-NET-MAUI-Blazor--The-Xamarin-Show) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "3V9NEGq",
+              "title": "**Introduction to .NET MAUI Blazor | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Introduction-to-NET-MAUI-Blazor--The-Xamarin-Show"
+            },
+            {
+              "identifier": "ogRkJqH",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "gz8VXH5",
+          "type": "Link",
+          "title": "Dynamic Status Bar Color (iOS & Android) in Xamarin/Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=GKJRR8_DSSs",
+          "description": "<p>Have you been looking to get total control of that status bar on iOS/Android in your app? Changing the color and the tint is an important part of full theming of apps and it just takes a few lines of code. I walk through exactly what you need to do.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=GKJRR8_DSSs\"><strong>Dynamic Status Bar Color (iOS &amp; Android) in Xamarin/Xamarin.Forms</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Have you been looking to get total control of that status bar on iOS/Android in your app? Changing the color and the tint is an important part of full theming of apps and it just takes a few lines of code. I walk through exactly what you need to do.\r\n\r\n[**Dynamic Status Bar Color (iOS & Android) in Xamarin/Xamarin.Forms**](https://www.youtube.com/watch?v=GKJRR8_DSSs) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "rkRBWHv",
+              "title": "**Dynamic Status Bar Color (iOS & Android) in Xamarin/Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=GKJRR8_DSSs"
+            },
+            {
+              "identifier": "PHT7dnn",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "athWMBv",
+          "type": "Link",
+          "title": "DevTalk 65: .NET 6, T4, and MSBuild. With Mikayla Hutchinson",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-65-mikayla-hutchinson/",
+          "description": "<p>On this episode of DevTalk Kerry speaks to Mikayla Hutchinson about .NET 6, T4 text templating, and MSBuildEditor.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-65-mikayla-hutchinson/\"><strong>65: .NET 6, T4, and MSBuild. With Mikayla Hutchinson</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk Kerry speaks to Mikayla Hutchinson about .NET 6, T4 text templating, and MSBuildEditor.\r\n\r\n[**65: .NET 6, T4, and MSBuild. With Mikayla Hutchinson**](https://kerry.lothrop.de/devtalk-65-mikayla-hutchinson/) by [Kerry Lothrop](https://twitter.com/kwlothrop)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "hJNW8k1",
+              "title": "**65: .NET 6, T4, and MSBuild. With Mikayla Hutchinson**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-65-mikayla-hutchinson/"
+            },
+            {
+              "identifier": "obNLgQM",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        },
+        {
+          "identifier": "DidmyS6",
+          "type": "Link",
+          "title": "Merge Conflict: 258: WWDC 2021 Recap",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/258",
+          "description": "<p>Frank and James discuss all the goodness from WWDC.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/258\"><strong>Merge Conflict: 258: WWDC 2021 Recap</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Frank and James discuss all the goodness from WWDC.\r\n\r\n[**Merge Conflict: 258: WWDC 2021 Recap**](https://www.mergeconflict.fm/258) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "BkwCfNB",
+              "title": "**Merge Conflict: 258: WWDC 2021 Recap**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/258"
+            },
+            {
+              "identifier": "Bzuxgwx",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "HuGz2ah",
+          "type": "Link",
+          "title": "Null Pointers 57: Getting Fit",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/57/",
+          "description": "<p>The pandemic slowly seems to be contained, time to go out and get fit again! At least, we have been home much which didn't always treat us right. In this episode we talk about what we do to get fit and how much it hurts!</p>\n\n<p><a href=\"https://nullpointers.io/57/\"><strong>57: Getting Fit</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "The pandemic slowly seems to be contained, time to go out and get fit again! At least, we have been home much which didn't always treat us right. In this episode we talk about what we do to get fit and how much it hurts!\r\n\r\n[**57: Getting Fit**](https://nullpointers.io/57/) by [Null Pointers](https://nullpointers.io/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "4jltikb",
+              "title": "**57: Getting Fit**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/57/"
+            },
+            {
+              "identifier": "IGHRL2c",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "wRkv5qO",
+          "type": "Link",
+          "title": "Live Tracking Locations On a Map with Xamarin.Forms Maps",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=8Zs26s-mmhw",
+          "description": "<p>It has been requested a lot of times: how to implement live tracking another user or device on a map? That is exactly what we will be learning in this video. We will see how to add a pin to the Xamarin.Forms map and update that with a changing position.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=8Zs26s-mmhw\"><strong>Live Tracking Locations On a Map with Xamarin.Forms Maps</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "It has been requested a lot of times: how to implement live tracking another user or device on a map? That is exactly what we will be learning in this video. We will see how to add a pin to the Xamarin.Forms map and update that with a changing position.\r\n\r\n[**Live Tracking Locations On a Map with Xamarin.Forms Maps**](https://www.youtube.com/watch?v=8Zs26s-mmhw) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "W30Sn4r",
+              "title": "**Live Tracking Locations On a Map with Xamarin.Forms Maps**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=8Zs26s-mmhw"
+            },
+            {
+              "identifier": "78HGckm",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "NPSZYrA",
+          "type": "Link",
+          "title": "MvvmCross 8.0.0 & 8.0.1",
+          "url_domain": "mvvmcross.com",
+          "url": "https://www.mvvmcross.com/mvvmcross-8.0.1-release/",
+          "description": "<p>A new MvvmCross version is available on NuGet! You can always find the latest changelog in the root of the repository to see what has changed between versions.</p>\n\n<p><a href=\"https://www.mvvmcross.com/mvvmcross-8.0.1-release/\"><strong>MvvmCross 8.0.1</strong></a> by <a href=\"https://www.mvvmcross.com/\">Mvvmcross</a></p>",
+          "description_markdown": "A new MvvmCross version is available on NuGet! You can always find the latest changelog in the root of the repository to see what has changed between versions.\r\n\r\n[**MvvmCross 8.0.1**](https://www.mvvmcross.com/mvvmcross-8.0.1-release/) by [Mvvmcross](https://www.mvvmcross.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "eyIEFWV",
+              "title": "**MvvmCross 8.0.1**",
+              "url_domain": "mvvmcross.com",
+              "url": "https://www.mvvmcross.com/mvvmcross-8.0.1-release/"
+            },
+            {
+              "identifier": "7VqIt1s",
+              "title": "Mvvmcross",
+              "url_domain": "mvvmcross.com",
+              "url": "https://www.mvvmcross.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "EFUqg2m",
+          "type": "Link",
+          "title": "Announcing .NET MAUI Preview 5",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-5/",
+          "description": "<p>.NET Multi-platform App UI (.NET MAUI) Preview 5 is now available.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-5/\"><strong>Announcing .NET MAUI Preview 5</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": ".NET Multi-platform App UI (.NET MAUI) Preview 5 is now available.\r\n\r\n[**Announcing .NET MAUI Preview 5**](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-5/) by [David Ortinau](https://twitter.com/davidortinau)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "PahRv7n",
+              "title": "**Announcing .NET MAUI Preview 5**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-5/"
+            },
+            {
+              "identifier": "hhKNHr3",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

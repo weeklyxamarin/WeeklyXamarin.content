@@ -1983,6 +1983,16 @@
       "Website": "https://xamarinhowto.com/"
     },
     {
+      "Name": "Matt Goldman",
+      "Id": "https://twitter.com/mattgoldman",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/mattgoldman"
+        }
+      ]
+    },
+    {
       "Name": "Matt Soucoup",
       "Id": "https://devblogs.microsoft.com/xamarin/author/matt-soucoup/",
       "Aliases": [
@@ -2178,6 +2188,16 @@
       ]
     },
     {
+      "Name": "Mvvmcross",
+      "Id": "https://www.mvvmcross.com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.mvvmcross.com/"
+        }
+      ]
+    },
+    {
       "Name": "Nat Friedman",
       "Id": "https://github.com/nat",
       "Aliases": [
@@ -2319,6 +2339,16 @@
         {
           "Type": "blog",
           "Name": "https://www.syncfusion.com/blogs/author/paulandersonsyncfusion-com"
+        }
+      ]
+    },
+    {
+      "Name": "Paulin Laroche",
+      "Id": "https://twitter.com/paulin_laroche",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/paulin_laroche"
         }
       ]
     },
@@ -2875,6 +2905,16 @@
       "GitHubHandle": "smstuebe",
       "Id": "https://twitter.com/stuebe2k14",
       "Website": "https://smstuebe.de/"
+    },
+    {
+      "Name": "Sweekriti Satpathy",
+      "Id": "https://twitter.com/sweekritis",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/sweekritis"
+        }
+      ]
     },
     {
       "Name": "SwiftKey",
