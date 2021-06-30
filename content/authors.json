@@ -828,6 +828,16 @@
       ]
     },
     {
+      "Name": "David Ramel",
+      "Id": "https://twitter.com/dramel",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/dramel"
+        }
+      ]
+    },
+    {
       "Name": "David Sielaff",
       "Id": "https://criticalhittech.com/author/dsielaff/",
       "Aliases": [
@@ -1024,6 +1034,16 @@
       "GitHubHandle": "yuv4ik",
       "Id": "https://twitter.com/ezborovsky",
       "Website": "https://evgenyzborovsky.com/"
+    },
+    {
+      "Name": "Fabricio",
+      "Id": "https://twitter.com/fabribertani",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/fabribertani"
+        }
+      ]
     },
     {
       "Name": "Felipe Baltazar",

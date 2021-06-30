@@ -1,0 +1,327 @@
+{
+  "number": 310,
+  "title": "Issue 310",
+  "summary": "Navigation, Reactive UI and Animating Shapes.",
+  "url": "https://weeklyxamarin.com/issues/310",
+  "publication_status": "published",
+  "published_at": "2021-06-26T12:49:35+01:00",
+  "updated_at": "2021-06-26T12:49:38+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day Everyone,</p>\n\n<p>This week we don't have a lot of articles, but we do have some interesting posts on Xamarin.Shell navigation, Reactive UI and Animating Shapes.  Hopefully that will keep you busy for the week ahead whilst you also digest the new look of Windows 11.</p>\n\n<p>Have a great week everyone.</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day Everyone,\r\n\r\nThis week we don't have a lot of articles, but we do have some interesting posts on Xamarin.Shell navigation, Reactive UI and Animating Shapes.  Hopefully that will keep you busy for the week ahead whilst you also digest the new look of Windows 11.\r\n\r\nHave a great week everyone.\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "Iib0y6F",
+          "type": "Link",
+          "title": "Create a Wizard View in Xamarin.Forms: A Novice's Guide",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/create-a-wizard-view-in-xamarin-forms.aspx",
+          "description": "<p>A wizard control is an interactive, customizable user interface that can hold more than one page. It is useful in showcasing step-by-step processes, and also helps break a complex task into simple steps. This blog post covers using the Syncfusion Rotator control to create a Wizard flow.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/create-a-wizard-view-in-xamarin-forms.aspx\"><strong>Create a Wizard View in Xamarin.Forms: A Novice's Guide</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/paulandersonsyncfusion-com\">Paul Anderson</a></p>",
+          "description_markdown": "A wizard control is an interactive, customizable user interface that can hold more than one page. It is useful in showcasing step-by-step processes, and also helps break a complex task into simple steps. This blog post covers using the Syncfusion Rotator control to create a Wizard flow.\r\n\r\n[**Create a Wizard View in Xamarin.Forms: A Novice's Guide**](https://www.syncfusion.com/blogs/post/create-a-wizard-view-in-xamarin-forms.aspx) by [Paul Anderson](https://www.syncfusion.com/blogs/author/paulandersonsyncfusion-com)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "a8VYdf",
+              "title": "**Create a Wizard View in Xamarin.Forms: A Novice's Guide**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/create-a-wizard-view-in-xamarin-forms.aspx"
+            },
+            {
+              "identifier": "zRjn8vH",
+              "title": "Paul Anderson",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/paulandersonsyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "Yu28h4L",
+          "type": "Link",
+          "title": "Exploring Keyboard accessibility in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/exploring-keyboard-accessibility-in-xamarin-forms/",
+          "description": "<p>When developing Applications it's important to keep in mind that usability and accessibility must be on top of the list of features to add. In this post, we will be learning about keyboard accessibility.</p>\n\n<p><a href=\"https://askxammy.com/exploring-keyboard-accessibility-in-xamarin-forms/\"><strong>Exploring Keyboard accessibility in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "When developing Applications it's important to keep in mind that usability and accessibility must be on top of the list of features to add. In this post, we will be learning about keyboard accessibility.\r\n\r\n[**Exploring Keyboard accessibility in Xamarin Forms**](https://askxammy.com/exploring-keyboard-accessibility-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "dygR8m0",
+              "title": "**Exploring Keyboard accessibility in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/exploring-keyboard-accessibility-in-xamarin-forms/"
+            },
+            {
+              "identifier": "rVERBaz",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "P09TO4u",
+          "type": "Link",
+          "title": "Sharpnado Drag and Drop even moar better",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/draganddrop-direction-trigger/",
+          "description": "<p>DragAndDropTrigger and DragAndDropDirection - You can now choose if you want to begin the drag and drop with a Pan gesture or a LongPress.</p>\n\n<p><a href=\"https://www.sharpnado.com/draganddrop-direction-trigger/\"><strong>Even better drag and drop with DragAndDropTrigger and DragAndDropDirection</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "DragAndDropTrigger and DragAndDropDirection - You can now choose if you want to begin the drag and drop with a Pan gesture or a LongPress. \r\n\r\n[**Even better drag and drop with DragAndDropTrigger and DragAndDropDirection**](https://www.sharpnado.com/draganddrop-direction-trigger/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "a1mnZY2",
+              "title": "**Even better drag and drop with DragAndDropTrigger and DragAndDropDirection**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/draganddrop-direction-trigger/"
+            },
+            {
+              "identifier": "g3WQamC",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        },
+        {
+          "identifier": "HBgYNb3",
+          "type": "Link",
+          "title": "Passing data to view models in Xamarin.Forms",
+          "url_domain": "damirscorner.com",
+          "url": "https://www.damirscorner.com/blog/posts/20210625-PassingDataToViewModelsInXamarinForms.html",
+          "description": "<p>Navigation in Xamarin.Forms Shell is based on URIs. Parameters are passed between pages in the query string. Did you know, as an alternative to using the QueryProperty attribute, you can also implement the IQueryAttributable interface. You don't necessarily need to implement either of them in your page class. They work just as well in the class assigned to the page's BindingContext, which is typically your view model.</p>\n\n<p><a href=\"https://www.damirscorner.com/blog/posts/20210625-PassingDataToViewModelsInXamarinForms.html\"><strong>Passing data to view models in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/DamirArh\">Damir Arh</a></p>",
+          "description_markdown": "Navigation in Xamarin.Forms Shell is based on URIs. Parameters are passed between pages in the query string. Did you know, as an alternative to using the QueryProperty attribute, you can also implement the IQueryAttributable interface. You don't necessarily need to implement either of them in your page class. They work just as well in the class assigned to the page's BindingContext, which is typically your view model.\r\n\r\n[**Passing data to view models in Xamarin.Forms**](https://www.damirscorner.com/blog/posts/20210625-PassingDataToViewModelsInXamarinForms.html) by [Damir Arh](https://twitter.com/DamirArh)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "CfslOzD",
+              "title": "**Passing data to view models in Xamarin.Forms**",
+              "url_domain": "damirscorner.com",
+              "url": "https://www.damirscorner.com/blog/posts/20210625-PassingDataToViewModelsInXamarinForms.html"
+            },
+            {
+              "identifier": "HSgGT51",
+              "title": "Damir Arh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DamirArh"
+            }
+          ]
+        },
+        {
+          "identifier": "mVttVuh",
+          "type": "Link",
+          "title": "Animation Effects with Shapes ",
+          "url_domain": "hackernoon.com",
+          "url": "https://hackernoon.com/how-to-add-animation-effects-to-xamarinforms-with-shapes-5b3q354t",
+          "description": "<p>In this post we will learn how to create cool transition animations with Shapes and Xamarin.Forms.</p>\n\n<p><a href=\"https://hackernoon.com/how-to-add-animation-effects-to-xamarinforms-with-shapes-5b3q354t\"><strong>How To Add Animation Effects To Xamarin.Forms with Shapes | Hacker Noon</strong></a> by <a href=\"https://twitter.com/fabribertani\">Fabricio</a></p>",
+          "description_markdown": "In this post we will learn how to create cool transition animations with Shapes and Xamarin.Forms.\r\n\r\n[**How To Add Animation Effects To Xamarin.Forms with Shapes | Hacker Noon**](https://hackernoon.com/how-to-add-animation-effects-to-xamarinforms-with-shapes-5b3q354t) by [Fabricio](https://twitter.com/fabribertani)",
+          "embedded_links": [
+            {
+              "identifier": "Bwt1Tid",
+              "title": "**How To Add Animation Effects To Xamarin.Forms with Shapes | Hacker Noon**",
+              "url_domain": "hackernoon.com",
+              "url": "https://hackernoon.com/how-to-add-animation-effects-to-xamarinforms-with-shapes-5b3q354t"
+            },
+            {
+              "identifier": "XAD6BXt",
+              "title": "Fabricio",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/fabribertani"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "LjJ4LYc",
+          "type": "Link",
+          "title": "What's New in .NET MAUI Preview 5",
+          "url_domain": "visualstudiomagazine.com",
+          "url": "https://visualstudiomagazine.com/articles/2021/06/21/maui-preview-5.aspx",
+          "description": "<p>Microsoft continues to enhance .NET MAUI (.NET Multi-platform App UI), improving animations, view transformations and single page templates, along with porting of several UI components from Xamarin.Forms, the mobile dev framework which .NET MAUI is evolving.</p>\n\n<p><a href=\"https://visualstudiomagazine.com/articles/2021/06/21/maui-preview-5.aspx\"><strong>What's New in .NET MAUI Preview 5 -- Visual Studio Magazine</strong></a> by <a href=\"https://twitter.com/dramel\">David Ramel</a></p>",
+          "description_markdown": "Microsoft continues to enhance .NET MAUI (.NET Multi-platform App UI), improving animations, view transformations and single page templates, along with porting of several UI components from Xamarin.Forms, the mobile dev framework which .NET MAUI is evolving.\r\n\r\n[**What's New in .NET MAUI Preview 5 -- Visual Studio Magazine**](https://visualstudiomagazine.com/articles/2021/06/21/maui-preview-5.aspx) by [David Ramel](https://twitter.com/dramel)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "XVyZwDc",
+              "title": "**What's New in .NET MAUI Preview 5 -- Visual Studio Magazine**",
+              "url_domain": "visualstudiomagazine.com",
+              "url": "https://visualstudiomagazine.com/articles/2021/06/21/maui-preview-5.aspx"
+            },
+            {
+              "identifier": "OAHF1tv",
+              "title": "David Ramel",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/dramel"
+            }
+          ]
+        },
+        {
+          "identifier": "fMSBDXj",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #13",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-13",
+          "description": "<p>Sam Basu wraps up the Maui news of the week, including Preview 5 of MAUI and .NET 6.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-13\"><strong>Sands of MAUI: Issue #13</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam Basu wraps up the Maui news of the week, including Preview 5 of MAUI and .NET 6.\r\n\r\n[**Sands of MAUI: Issue #13**](https://www.telerik.com/blogs/sands-maui-issue-13) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "13d7HXe",
+              "title": "**Sands of MAUI: Issue #13**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-13"
+            },
+            {
+              "identifier": "mUxPGZq",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "reactiveui",
+      "name": "REACTIVEUI",
+      "items": [
+        {
+          "identifier": "Yf2ThwE",
+          "type": "Link",
+          "title": "TODO List using Reactive UI",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2021/06/22/todo-list-using-reactive-ui-in-xamarin-forms/",
+          "description": "<p>Rendy works through a full sample of how to use the Reactive UI framework in Xamarin Forms by creating a ToDo List.</p>\n\n<p><a href=\"https://www.xamboy.com/2021/06/22/todo-list-using-reactive-ui-in-xamarin-forms/\"><strong>TODO List using Reactive UI in Xamarin Forms - Rendy's Website</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "Rendy works through a full sample of how to use the Reactive UI framework in Xamarin Forms by creating a ToDo List.\r\n\r\n[**TODO List using Reactive UI in Xamarin Forms - Rendy's Website**](https://www.xamboy.com/2021/06/22/todo-list-using-reactive-ui-in-xamarin-forms/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "25ofUyZ",
+              "title": "**TODO List using Reactive UI in Xamarin Forms - Rendy's Website**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2021/06/22/todo-list-using-reactive-ui-in-xamarin-forms/"
+            },
+            {
+              "identifier": "2xqhVzu",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "KnOVKCO",
+          "type": "Link",
+          "title": "Upload Files with Progress Reporting in Xamarin.Forms and ASP.NET",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=iJYRb97ZRD4",
+          "description": "<p>Gerald shows how to upload a file from Xamarin.Forms to an ASP.NET REST API with chunked uploads which enables progress reporting, cancellation and even resuming uploads! All this and more in this new video!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=iJYRb97ZRD4\"><strong>Upload Files with Progress Reporting in Xamarin.Forms and ASP.NET</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Gerald shows how to upload a file from Xamarin.Forms to an ASP.NET REST API with chunked uploads which enables progress reporting, cancellation and even resuming uploads! All this and more in this new video!\r\n\r\n[**Upload Files with Progress Reporting in Xamarin.Forms and ASP.NET**](https://www.youtube.com/watch?v=iJYRb97ZRD4) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ruhnvhz",
+              "title": "**Upload Files with Progress Reporting in Xamarin.Forms and ASP.NET**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=iJYRb97ZRD4"
+            },
+            {
+              "identifier": "MUgLisD",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "kCiHALk",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 95: Sketch 360",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/95",
+          "description": "<p>Another story of an app built with Xamarin! This time find out about a unique app that takes advantage of the Surface Duo to let you create 360 degree drawings!</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/95\"><strong>The Xamarin Podcast Episode 95: Sketch 360</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "Another story of an app built with Xamarin! This time find out about a unique app that takes advantage of the Surface Duo to let you create 360 degree drawings!\r\n\r\n[**The Xamarin Podcast Episode 95: Sketch 360**](https://www.xamarinpodcast.com/95) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "JQXECJU",
+              "title": "**The Xamarin Podcast Episode 95: Sketch 360**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/95"
+            },
+            {
+              "identifier": "BLlac8w",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        },
+        {
+          "identifier": "LxPwvcu",
+          "type": "Link",
+          "title": "Merge Conflict: 259: Photogrammetry",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/259",
+          "description": "<p>We dive deep into the latest APIs for mapping the physical world with macOS into 3D models.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/259\"><strong>Merge Conflict: 259: Photogrammetry </strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "We dive deep into the latest APIs for mapping the physical world with macOS into 3D models.\r\n\r\n[**Merge Conflict: 259: Photogrammetry **](https://www.mergeconflict.fm/259) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "RBjKLBL",
+              "title": "**Merge Conflict: 259: Photogrammetry **",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/259"
+            },
+            {
+              "identifier": "1OGMLaO",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "nhDkCNh",
+          "type": "Link",
+          "title": "Null Pointers 58: Remote vs in person conferences",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/58/",
+          "description": "<p>Since early 2020 online conferences have become a thing we have attended, presented, and even organised. So what have our impressions been, and how do we compare them against in-person events? So tune in, and feel free to share your experiences with us on Twitter.</p>\n\n<p><a href=\"https://nullpointers.io/58/\"><strong>58: Remote vs in person conferences</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "Since early 2020 online conferences have become a thing we have attended, presented, and even organised. So what have our impressions been, and how do we compare them against in-person events? So tune in, and feel free to share your experiences with us on Twitter.\r\n\r\n[**58: Remote vs in person conferences**](https://nullpointers.io/58/) by [Null Pointers](https://nullpointers.io/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "s14Jkgg",
+              "title": "**58: Remote vs in person conferences**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/58/"
+            },
+            {
+              "identifier": "sfG8mkJ",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
