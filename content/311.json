@@ -1,0 +1,164 @@
+{
+  "Id": "311",
+  "Name": "Issue 311",
+  "UpdatedTimeStamp": "2021-07-06T05:13:00Z",
+  "Summary": "Design and performance tips aplenty.",
+  "Introduction": "G'day Everyone! This week sees some excellent tips and tricks for both design and performance. We are also starting to see a lot more concrete information about MAUI. Sorry for the slightly late issue, but have an amazing week ahead. ❤ Kym",
+  "PublishDate": "2021-07-06T05:12:59Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "UI and UX tips",
+      "Url": "https://marcandrew.me/ui-ux-micro-tips-volume-six/",
+      "Description": "This is part 6 of a collection of UI/UX articles which have some useful little tips for making your apps just a little bit better.",
+      "EditionId": "311",
+      "Author": "Marc Andrew",
+      "Id": "311-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Xamarin Code Quality & Performance",
+      "Url": "https://luismts.com/xamarin-code-quality-performance/",
+      "Description": "Luis shares tips and tricks to enhance your application. Definitely worth a read.",
+      "EditionId": "311",
+      "Author": "Luis Matos",
+      "Id": "311-2",
+      "Category": "PERFORMANCE"
+    },
+    {
+      "Title": "Your Android app on Windows 11",
+      "Url": "https://prototypemakers.medium.com/changes-to-your-android-code-needed-to-download-the-app-on-windows-11-through-the-amazon-app-store-da5a87f94bff",
+      "Description": "Windows 11 is going to be able to have Android apps from the Amazon store. That's cool, but what do you need to do to get your app there?",
+      "EditionId": "311",
+      "Author": "Saamer Mansoor",
+      "Id": "311-3",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Migrating to Android X",
+      "Url": "https://xamarinhowto.com/migrating-to-androidx/",
+      "Description": "Sometimes moving to Android X can be a pain.",
+      "EditionId": "311",
+      "Author": "Matt Crombie",
+      "Id": "311-4",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "The future of Android App Bundles is here",
+      "Url": "https://android-developers.googleblog.com/2021/06/the-future-of-android-app-bundles-is.html",
+      "Description": "Google Play will start requiring new apps to be published with the Android App Bundle starting August 2021. This will replace the APK as the standard publishing format.",
+      "EditionId": "311",
+      "Author": "Dom Elliott",
+      "Id": "311-5",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Exploring Automation Properties",
+      "Url": "https://askxammy.com/exploring-automation-properties-in-xamarin-forms/",
+      "Description": "Accessibility is a huge consideration for building apps. In this article Leomaris takes a look at the various Automation properties available in Xamarin.Forms to help you on your journey.",
+      "EditionId": "311",
+      "Author": "Leomaris Reyes",
+      "Id": "311-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Converter with multiple Parameters in Xamarin Forms",
+      "Url": "https://xamgirl.com/converter-with-multiple-parameters-in-xamarin-forms/",
+      "Description": "Have you ever wondered how to pass multiple parameters to a converter, or how to create properties in a converter to change the value based on them? If you want to know how to achieve it then keep reading .",
+      "EditionId": "311",
+      "Author": "Charlin Agramonte",
+      "Id": "311-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "App Shortcuts",
+      "Url": "https://xamarinmonkeys.blogspot.com/2021/07/xamarinforms-app-shortcuts-using.html",
+      "Description": "How to add shortcuts using Xamarin.Essentials in Xamarin.Forms App?",
+      "EditionId": "311",
+      "Author": "Delpin Susai Raj",
+      "Id": "311-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Image Data Was Invalid issue ",
+      "Url": "https://doumer.me/how-to-resolve-imageloadersourcehandler-could-not-retrieve-image/",
+      "Description": "Ever wanted to display an image in your app from an external source on the internet, you bind the URL to an image view, or pass it directly, but once you run your app the image doesn’t appear. Damien shows a potential fix for this.",
+      "EditionId": "311",
+      "Author": "Damien Doumer",
+      "Id": "311-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Creating a Floating Label Layout with Syncfusion",
+      "Url": "https://www.syncfusion.com/blogs/post/creating-a-floating-label-layout-in-xamarin-forms-dataform.aspx",
+      "Description": "The Syncfusion Xamarin.Forms DataForm supports a floating label layout that includes features such as assistive labels, leading and trailing icons, and a password toggle icon to show or hide a password.",
+      "EditionId": "311",
+      "Author": "Jeyasri Murugan",
+      "Id": "311-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Image Resizetizer",
+      "Url": "https://nicksnettravels.builttoroam.com/image-resizetizer",
+      "Description": "Nick looks at using the Maui image resizer build system for his Uno project. Technically not a Xamarin article, but very interesting that we could probably start taking advantage of this over on a regular Xamarin.Forms projects",
+      "EditionId": "311",
+      "Author": "Nick Randolph",
+      "Id": "311-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Xamarin.Forms to .NET MAUI",
+      "Url": "https://github.com/jsuarezruiz/xamarin-forms-to-net-maui",
+      "Description": "This repository is a compilation with documentation, examples and tips when converting code from Xamarin.Forms to .NET MAUI. Keep your eyes on this one if you are interested in eventually moving your apps to MAUI.",
+      "EditionId": "311",
+      "Author": "Javier Suarez",
+      "Id": "311-12",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #14",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-14",
+      "Description": "Sam continues bring us the updates on the latest latest .NET MAUI content relevant to developers.",
+      "EditionId": "311",
+      "Author": "Sam Basu",
+      "Id": "311-13",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Merge Conflict: 260: Every question answered",
+      "Url": "https://www.mergeconflict.fm/260",
+      "Description": "James and Frank take your questions directly on another lighting topic episode of Merge Conflict.",
+      "EditionId": "311",
+      "Author": "Merge Conflict",
+      "Id": "311-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 59: Automating stuff",
+      "Url": "https://nullpointers.io/59/",
+      "Description": "Being in IT means that automation is always something that's top of mind. Be it something in your development pipeline or something at home. We cover a range of automation bits and bobs in this episode.",
+      "EditionId": "311",
+      "Author": "Null Pointers",
+      "Id": "311-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Cross-platform Awesome with Shiny 2.0",
+      "Url": "https://channel9.msdn.com/Shows/XamarinShow/Cross-platform-Awesome-with-Shiny-20--The-Xamarin-Show",
+      "Description": "Today, James is joined by Allan Ritchie, Microsoft MVP, who shows off the latest version of his cross-platform library Shiny. Shiny is a cross platform framework designed for Xamarin & UWP to make working with device services and background processes easy, testable, and consistent while bringing things like dependency injection & logging in a structured way to your code!",
+      "EditionId": "311",
+      "Author": "The Xamarin Show",
+      "Id": "311-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Get Creative with DrawingView",
+      "Url": "https://www.youtube.com/watch?v=vkMXvzBigt4",
+      "Description": "Bring out your inner Bob Ross with the Xamarin Community Toolkit DrawingView. This control allows you to draw on a canvas in your Xamarin.Forms app, for instance to let your users capture signatures. These drawings can then be exported to an image, or vice versa; load a collection of points into the DrawingView.",
+      "EditionId": "311",
+      "Author": "Gerald Versluis",
+      "Id": "311-17",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

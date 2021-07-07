@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "311",
+      "Name": "Issue 311",
+      "UpdatedTimeStamp": "2021-07-06T05:13:00Z",
+      "Summary": "Design and performance tips aplenty.",
+      "PublishDate": "2021-07-06T05:12:59Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "310",
       "Name": "Issue 310",
       "UpdatedTimeStamp": "2021-06-26T11:49:38Z",
@@ -641,5 +650,6 @@
       "Articles": []
     }
   ],
-  "FetchedDate": "0001-01-01T00:00:00"
+  "FetchedDate": "0001-01-01T00:00:00",
+  "IsStale": false
 }

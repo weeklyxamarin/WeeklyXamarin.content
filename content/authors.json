@@ -938,6 +938,16 @@
       ]
     },
     {
+      "Name": "Dom Elliott",
+      "Id": "https://twitter.com/iamdom",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/iamdom"
+        }
+      ]
+    },
+    {
       "Name": "Dominic Nahous",
       "Id": "https://devblogs.microsoft.com/visualstudio/author/dominicn/",
       "Aliases": [
@@ -1881,6 +1891,16 @@
       "GitHubHandle": "inquisitorjax",
       "Id": "https://twitter.com/inquisitorjax",
       "Website": "https://inquisitorjax.blogspot.com/"
+    },
+    {
+      "Name": "Marc Andrew",
+      "Id": "https://twitter.com/mrcndrw",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/mrcndrw"
+        }
+      ]
     },
     {
       "Name": "Marc Bruins",

@@ -1,0 +1,454 @@
+{
+  "number": 311,
+  "title": "Issue 311",
+  "summary": "Design and performance tips aplenty.",
+  "url": "https://weeklyxamarin.com/issues/311",
+  "publication_status": "published",
+  "published_at": "2021-07-06T06:12:59+01:00",
+  "updated_at": "2021-07-06T06:13:00+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day Everyone!</p>\n\n<p>This week sees some excellent tips and tricks for both design and performance. We are also starting to see a lot more concrete information about MAUI. Sorry for the slightly late issue, but have an amazing week ahead.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day Everyone!\r\n\r\nThis week sees some excellent tips and tricks for both design and performance. We are also starting to see a lot more concrete information about MAUI. Sorry for the slightly late issue, but have an amazing week ahead.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "ghA8PkO",
+          "type": "Link",
+          "title": "UI and UX tips",
+          "url_domain": "marcandrew.me",
+          "url": "https://marcandrew.me/ui-ux-micro-tips-volume-six/",
+          "description": "<p>This is part 6 of a collection of UI/UX articles which have some useful little tips for making your apps just a little bit better.</p>\n\n<p><a href=\"https://marcandrew.me/ui-ux-micro-tips-volume-six/\"><strong>UI &amp; UX Micro-Tips: Volume Six</strong></a> by <a href=\"https://twitter.com/mrcndrw\">Marc Andrew</a></p>",
+          "description_markdown": "This is part 6 of a collection of UI/UX articles which have some useful little tips for making your apps just a little bit better.\r\n\r\n[**UI & UX Micro-Tips: Volume Six**](https://marcandrew.me/ui-ux-micro-tips-volume-six/) by [Marc Andrew](https://twitter.com/mrcndrw)",
+          "embedded_links": [
+            {
+              "identifier": "s8VyAwz",
+              "title": "**UI & UX Micro-Tips: Volume Six**",
+              "url_domain": "marcandrew.me",
+              "url": "https://marcandrew.me/ui-ux-micro-tips-volume-six/"
+            },
+            {
+              "identifier": "uDpNh2o",
+              "title": "Marc Andrew",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mrcndrw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "performance",
+      "name": "PERFORMANCE",
+      "items": [
+        {
+          "identifier": "Ik83Xk6",
+          "type": "Link",
+          "title": "Xamarin Code Quality & Performance",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/xamarin-code-quality-performance/",
+          "description": "<p>Luis shares tips and tricks to enhance your application. Definitely worth a read.</p>\n\n<p><a href=\"https://luismts.com/xamarin-code-quality-performance/\"><strong>Xamarin Code Quality &amp; Performance</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Luis shares tips and tricks to enhance your application. Definitely worth a read.\r\n\r\n[**Xamarin Code Quality & Performance**](https://luismts.com/xamarin-code-quality-performance/) by [Luis Matos](https://twitter.com/luismatosluna)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "CKQnyPm",
+              "title": "**Xamarin Code Quality & Performance**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/xamarin-code-quality-performance/"
+            },
+            {
+              "identifier": "4RxveVl",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "OkQeCX",
+          "type": "Link",
+          "title": "Your Android app on Windows 11",
+          "url_domain": "medium.com",
+          "url": "https://prototypemakers.medium.com/changes-to-your-android-code-needed-to-download-the-app-on-windows-11-through-the-amazon-app-store-da5a87f94bff",
+          "description": "<p>Windows 11 is going to be able to have Android apps from the Amazon store. That's cool, but what do you need to do to get your app there?</p>\n\n<p><a href=\"https://prototypemakers.medium.com/changes-to-your-android-code-needed-to-download-the-app-on-windows-11-through-the-amazon-app-store-da5a87f94bff\"><strong>Changes to your Android code needed to download the app on Windows 11 through the Amazon App Store</strong></a> by <a href=\"https://medium.com/@prototypemakers\">Saamer Mansoor</a></p>",
+          "description_markdown": "Windows 11 is going to be able to have Android apps from the Amazon store. That's cool, but what do you need to do to get your app there?\r\n\r\n[**Changes to your Android code needed to download the app on Windows 11 through the Amazon App Store**](https://prototypemakers.medium.com/changes-to-your-android-code-needed-to-download-the-app-on-windows-11-through-the-amazon-app-store-da5a87f94bff) by [Saamer Mansoor](https://medium.com/@prototypemakers)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "hcWB3bX",
+              "title": "**Changes to your Android code needed to download the app on Windows 11 through the Amazon App Store**",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com/changes-to-your-android-code-needed-to-download-the-app-on-windows-11-through-the-amazon-app-store-da5a87f94bff"
+            },
+            {
+              "identifier": "Pv9bUES",
+              "title": "Saamer Mansoor",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prototypemakers"
+            }
+          ]
+        },
+        {
+          "identifier": "Ppra9nS",
+          "type": "Link",
+          "title": "Migrating to Android X",
+          "url_domain": "xamarinhowto.com",
+          "url": "https://xamarinhowto.com/migrating-to-androidx/",
+          "description": "<p>Sometimes moving to Android X can be a pain.</p>\n\n<p><a href=\"https://xamarinhowto.com/migrating-to-androidx/\"><strong>Migrating to Android X: Another Attempt</strong></a> by <a href=\"https://xamarinhowto.com/author/mattxamarinhowto-com/\">Matt Crombie</a></p>",
+          "description_markdown": "Sometimes moving to Android X can be a pain.\r\n\r\n[**Migrating to Android X: Another Attempt**](https://xamarinhowto.com/migrating-to-androidx/) by [Matt Crombie](https://xamarinhowto.com/author/mattxamarinhowto-com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "NNwcB9p",
+              "title": "**Migrating to Android X: Another Attempt**",
+              "url_domain": "xamarinhowto.com",
+              "url": "https://xamarinhowto.com/migrating-to-androidx/"
+            },
+            {
+              "identifier": "wOLYwP7",
+              "title": "Matt Crombie",
+              "url_domain": "xamarinhowto.com",
+              "url": "https://xamarinhowto.com/author/mattxamarinhowto-com/"
+            }
+          ]
+        },
+        {
+          "identifier": "7rfiIOL",
+          "type": "Link",
+          "title": "The future of Android App Bundles is here",
+          "url_domain": "googleblog.com",
+          "url": "https://android-developers.googleblog.com/2021/06/the-future-of-android-app-bundles-is.html",
+          "description": "<p>Google Play will start requiring new apps to be published with the Android App Bundle starting August 2021. This will replace the APK as the standard publishing format.</p>\n\n<p><a href=\"https://android-developers.googleblog.com/2021/06/the-future-of-android-app-bundles-is.html\"><strong>The future of Android App Bundles is here</strong></a> by <a href=\"https://twitter.com/iamdom\">Dom Elliott</a></p>",
+          "description_markdown": "Google Play will start requiring new apps to be published with the Android App Bundle starting August 2021. This will replace the APK as the standard publishing format.\r\n\r\n[**The future of Android App Bundles is here**](https://android-developers.googleblog.com/2021/06/the-future-of-android-app-bundles-is.html) by [Dom Elliott](https://twitter.com/iamdom)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "MTR0aoU",
+              "title": "**The future of Android App Bundles is here**",
+              "url_domain": "googleblog.com",
+              "url": "https://android-developers.googleblog.com/2021/06/the-future-of-android-app-bundles-is.html"
+            },
+            {
+              "identifier": "fLf30xz",
+              "title": "Dom Elliott",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/iamdom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "Zza09r9",
+          "type": "Link",
+          "title": "Exploring Automation Properties",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/exploring-automation-properties-in-xamarin-forms/",
+          "description": "<p>Accessibility is a huge consideration for building apps. In this article Leomaris takes a look at the various Automation properties available in Xamarin.Forms to help you on your journey.</p>\n\n<p><a href=\"https://askxammy.com/exploring-automation-properties-in-xamarin-forms/\"><strong>Exploring Automation Properties in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Accessibility is a huge consideration for building apps. In this article Leomaris takes a look at the various Automation properties available in Xamarin.Forms to help you on your journey.\r\n\r\n[**Exploring Automation Properties in Xamarin Forms**](https://askxammy.com/exploring-automation-properties-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "RUG5zsw",
+              "title": "**Exploring Automation Properties in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/exploring-automation-properties-in-xamarin-forms/"
+            },
+            {
+              "identifier": "7hQGINf",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "8t2diY",
+          "type": "Link",
+          "title": "Converter with multiple Parameters in Xamarin Forms",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/converter-with-multiple-parameters-in-xamarin-forms/",
+          "description": "<p> Have you ever wondered how to pass multiple parameters to a converter, or how to create properties in a converter to change the value based on them? If you want to know how to achieve it then keep reading .</p>\n\n<p><a href=\"https://xamgirl.com/converter-with-multiple-parameters-in-xamarin-forms/\"><strong>Converter with multiple Parameters in Xamarin Forms - XamGirl</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": " Have you ever wondered how to pass multiple parameters to a converter, or how to create properties in a converter to change the value based on them? If you want to know how to achieve it then keep reading .\r\n\r\n[**Converter with multiple Parameters in Xamarin Forms - XamGirl**](https://xamgirl.com/converter-with-multiple-parameters-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "lKUdHT9",
+              "title": "**Converter with multiple Parameters in Xamarin Forms - XamGirl**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/converter-with-multiple-parameters-in-xamarin-forms/"
+            },
+            {
+              "identifier": "YecviUf",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "M6wSON2",
+          "type": "Link",
+          "title": "App Shortcuts",
+          "url_domain": "blogspot.com",
+          "url": "https://xamarinmonkeys.blogspot.com/2021/07/xamarinforms-app-shortcuts-using.html",
+          "description": "<p>How to add shortcuts using Xamarin.Essentials in Xamarin.Forms App?</p>\n\n<p><a href=\"https://xamarinmonkeys.blogspot.com/2021/07/xamarinforms-app-shortcuts-using.html\"><strong>Xamarin.Forms - App Shortcuts Using Xamarin.Essentials</strong></a> by <a href=\"https://www.blogger.com/profile/12290645674821205145\">Delpin Susai Raj</a></p>",
+          "description_markdown": "How to add shortcuts using Xamarin.Essentials in Xamarin.Forms App?\r\n\r\n[**Xamarin.Forms - App Shortcuts Using Xamarin.Essentials**](https://xamarinmonkeys.blogspot.com/2021/07/xamarinforms-app-shortcuts-using.html) by [Delpin Susai Raj](https://www.blogger.com/profile/12290645674821205145)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "1gdmUJ6",
+              "title": "**Xamarin.Forms - App Shortcuts Using Xamarin.Essentials**",
+              "url_domain": "blogspot.com",
+              "url": "https://xamarinmonkeys.blogspot.com/2021/07/xamarinforms-app-shortcuts-using.html"
+            },
+            {
+              "identifier": "hzOlAyi",
+              "title": "Delpin Susai Raj",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/12290645674821205145"
+            }
+          ]
+        },
+        {
+          "identifier": "hvq5TMH",
+          "type": "Link",
+          "title": "Image Data Was Invalid issue ",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/how-to-resolve-imageloadersourcehandler-could-not-retrieve-image/",
+          "description": "<p>Ever wanted to display an image in your app from an external source on the internet, you bind the URL to an image view, or pass it directly, but once you run your app the image doesn’t appear. Damien shows a potential fix for this.</p>\n\n<p><a href=\"https://doumer.me/how-to-resolve-imageloadersourcehandler-could-not-retrieve-image/\"><strong>How to Resolve ImageLoaderSourceHandler: Could Not Retrieve Image or Image Data Was Invalid Uri - Cool Coders</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "Ever wanted to display an image in your app from an external source on the internet, you bind the URL to an image view, or pass it directly, but once you run your app the image doesn’t appear. Damien shows a potential fix for this.\r\n\r\n[**How to Resolve ImageLoaderSourceHandler: Could Not Retrieve Image or Image Data Was Invalid Uri - Cool Coders**](https://doumer.me/how-to-resolve-imageloadersourcehandler-could-not-retrieve-image/) by [Damien Doumer](https://twitter.com/damien_doumer)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "yi4ghmt",
+              "title": "**How to Resolve ImageLoaderSourceHandler: Could Not Retrieve Image or Image Data Was Invalid Uri - Cool Coders**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/how-to-resolve-imageloadersourcehandler-could-not-retrieve-image/"
+            },
+            {
+              "identifier": "qun7yA5",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        },
+        {
+          "identifier": "NY5xbyG",
+          "type": "Link",
+          "title": "Creating a Floating Label Layout with Syncfusion",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/creating-a-floating-label-layout-in-xamarin-forms-dataform.aspx",
+          "description": "<p>The Syncfusion Xamarin.Forms DataForm supports a floating label layout that includes features such as assistive labels, leading and trailing icons, and a password toggle icon to show or hide a password.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/creating-a-floating-label-layout-in-xamarin-forms-dataform.aspx\"><strong>Creating a Floating Label Layout in Xamarin.Forms DataForm</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/jeyasrimsyncfusion-com\">Jeyasri Murugan</a></p>",
+          "description_markdown": "The Syncfusion Xamarin.Forms DataForm supports a floating label layout that includes features such as assistive labels, leading and trailing icons, and a password toggle icon to show or hide a password. \r\n\r\n[**Creating a Floating Label Layout in Xamarin.Forms DataForm**](https://www.syncfusion.com/blogs/post/creating-a-floating-label-layout-in-xamarin-forms-dataform.aspx) by [Jeyasri Murugan](https://www.syncfusion.com/blogs/author/jeyasrimsyncfusion-com)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "tdSeC8j",
+              "title": "**Creating a Floating Label Layout in Xamarin.Forms DataForm**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/creating-a-floating-label-layout-in-xamarin-forms-dataform.aspx"
+            },
+            {
+              "identifier": "RekCh1f",
+              "title": "Jeyasri Murugan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/jeyasrimsyncfusion-com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "I8meAnY",
+          "type": "Link",
+          "title": "Image Resizetizer",
+          "url_domain": "builttoroam.com",
+          "url": "https://nicksnettravels.builttoroam.com/image-resizetizer",
+          "description": "<p>Nick looks at using the Maui image resizer build system for his Uno project. Technically not a Xamarin article, but very interesting that we could probably start taking advantage of this over on a regular Xamarin.Forms projects</p>\n\n<p><a href=\"https://nicksnettravels.builttoroam.com/image-resizetizer\"><strong>Image Resizetizer for WinUI and Uno Applications</strong></a> by <a href=\"https://twitter.com/thenickrandolph\">Nick Randolph</a></p>",
+          "description_markdown": "Nick looks at using the Maui image resizer build system for his Uno project. Technically not a Xamarin article, but very interesting that we could probably start taking advantage of this over on a regular Xamarin.Forms projects\r\n\r\n[**Image Resizetizer for WinUI and Uno Applications**](https://nicksnettravels.builttoroam.com/image-resizetizer) by [Nick Randolph](https://twitter.com/thenickrandolph)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "e87aeCk",
+              "title": "**Image Resizetizer for WinUI and Uno Applications**",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/image-resizetizer"
+            },
+            {
+              "identifier": "4sgqtwe",
+              "title": "Nick Randolph",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/thenickrandolph"
+            }
+          ]
+        },
+        {
+          "identifier": "xIKnk4M",
+          "type": "Link",
+          "title": "Xamarin.Forms to .NET MAUI",
+          "url_domain": "github.com",
+          "url": "https://github.com/jsuarezruiz/xamarin-forms-to-net-maui",
+          "description": "<p>This repository is a compilation with documentation, examples and tips when converting code from Xamarin.Forms to .NET MAUI. Keep your eyes on this one if you are interested in eventually moving your apps to MAUI.</p>\n\n<p><a href=\"https://github.com/jsuarezruiz/xamarin-forms-to-net-maui\"><strong>jsuarezruiz/xamarin-forms-to-net-maui</strong></a> by <a href=\"https://twitter.com/jsuarezruiz\">Javier Suarez</a></p>",
+          "description_markdown": "This repository is a compilation with documentation, examples and tips when converting code from Xamarin.Forms to .NET MAUI. Keep your eyes on this one if you are interested in eventually moving your apps to MAUI.\r\n\r\n[**jsuarezruiz/xamarin-forms-to-net-maui**](https://github.com/jsuarezruiz/xamarin-forms-to-net-maui) by [Javier Suarez](https://twitter.com/jsuarezruiz)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "fZhsCy1",
+              "title": "**jsuarezruiz/xamarin-forms-to-net-maui**",
+              "url_domain": "github.com",
+              "url": "https://github.com/jsuarezruiz/xamarin-forms-to-net-maui"
+            },
+            {
+              "identifier": "BMOyxJS",
+              "title": "Javier Suarez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jsuarezruiz"
+            }
+          ]
+        },
+        {
+          "identifier": "SKq4uBM",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #14",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-14",
+          "description": "<p>Sam continues bring us the updates on the latest latest .NET MAUI content relevant to developers.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-14\"><strong>Sands of MAUI: Issue #14</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam continues bring us the updates on the latest latest .NET MAUI content relevant to developers.\r\n\r\n[**Sands of MAUI: Issue #14**](https://www.telerik.com/blogs/sands-maui-issue-14) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "MnDSOZ5",
+              "title": "**Sands of MAUI: Issue #14**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-14"
+            },
+            {
+              "identifier": "rkquv0R",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "XKHFr7i",
+          "type": "Link",
+          "title": "Merge Conflict: 260: Every question answered",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/260",
+          "description": "<p>James and Frank take your questions directly on another lighting topic episode of Merge Conflict.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/260\"><strong>Merge Conflict: 260: Every question answered</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "James and Frank take your questions directly on another lighting topic episode of Merge Conflict.  \r\n\r\n[**Merge Conflict: 260: Every question answered**](https://www.mergeconflict.fm/260) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "iOltbnd",
+              "title": "**Merge Conflict: 260: Every question answered**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/260"
+            },
+            {
+              "identifier": "RAp0frK",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "cSVfDo2",
+          "type": "Link",
+          "title": "Null Pointers 59: Automating stuff",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/59/",
+          "description": "<p>Being in IT means that automation is always something that's top of mind. Be it something in your development pipeline or something at home. We cover a range of automation bits and bobs in this episode.</p>\n\n<p><a href=\"https://nullpointers.io/59/\"><strong>59: Automating stuff</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "Being in IT means that automation is always something that's top of mind. Be it something in your development pipeline or something at home. We cover a range of automation bits and bobs in this episode.\r\n\r\n[**59: Automating stuff**](https://nullpointers.io/59/) by [Null Pointers](https://nullpointers.io/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "1NrV3PQ",
+              "title": "**59: Automating stuff**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/59/"
+            },
+            {
+              "identifier": "GE0YCSC",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "BdxvIZG",
+          "type": "Link",
+          "title": "Cross-platform Awesome with Shiny 2.0",
+          "url_domain": "msdn.com",
+          "url": "https://channel9.msdn.com/Shows/XamarinShow/Cross-platform-Awesome-with-Shiny-20--The-Xamarin-Show",
+          "description": "<p>Today, James is joined by Allan Ritchie, Microsoft MVP, who shows off the latest version of his cross-platform library Shiny. Shiny is a cross platform framework designed for Xamarin &amp; UWP to make working with device services and background processes easy, testable, and consistent while bringing things like dependency injection &amp; logging in a structured way to your code!</p>\n\n<p><a href=\"https://channel9.msdn.com/Shows/XamarinShow/Cross-platform-Awesome-with-Shiny-20--The-Xamarin-Show\"><strong>Cross-platform Awesome with Shiny 2.0 | The Xamarin Show</strong></a> by <a href=\"https://channel9.msdn.com/shows/xamarinshow\">The Xamarin Show</a></p>",
+          "description_markdown": "Today, James is joined by Allan Ritchie, Microsoft MVP, who shows off the latest version of his cross-platform library Shiny. Shiny is a cross platform framework designed for Xamarin & UWP to make working with device services and background processes easy, testable, and consistent while bringing things like dependency injection & logging in a structured way to your code!\r\n\r\n[**Cross-platform Awesome with Shiny 2.0 | The Xamarin Show**](https://channel9.msdn.com/Shows/XamarinShow/Cross-platform-Awesome-with-Shiny-20--The-Xamarin-Show) by [The Xamarin Show](https://channel9.msdn.com/shows/xamarinshow)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "l5J5lGG",
+              "title": "**Cross-platform Awesome with Shiny 2.0 | The Xamarin Show**",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/Shows/XamarinShow/Cross-platform-Awesome-with-Shiny-20--The-Xamarin-Show"
+            },
+            {
+              "identifier": "DBv60i0",
+              "title": "The Xamarin Show",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/shows/xamarinshow"
+            }
+          ]
+        },
+        {
+          "identifier": "AEhcxmC",
+          "type": "Link",
+          "title": "Get Creative with DrawingView",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=vkMXvzBigt4",
+          "description": "<p>Bring out your inner Bob Ross with the Xamarin Community Toolkit DrawingView. This control allows you to draw on a canvas in your Xamarin.Forms app, for instance to let your users capture signatures. These drawings can then be exported to an image, or vice versa; load a collection of points into the DrawingView.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=vkMXvzBigt4\"><strong>Get Creative with DrawingView in Xamarin Community Toolkit</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Bring out your inner Bob Ross with the Xamarin Community Toolkit DrawingView. This control allows you to draw on a canvas in your Xamarin.Forms app, for instance to let your users capture signatures. These drawings can then be exported to an image, or vice versa; load a collection of points into the DrawingView.\r\n\r\n[**Get Creative with DrawingView in Xamarin Community Toolkit**](https://www.youtube.com/watch?v=vkMXvzBigt4) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "m3VXN8a",
+              "title": "**Get Creative with DrawingView in Xamarin Community Toolkit**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=vkMXvzBigt4"
+            },
+            {
+              "identifier": "zYFtjaO",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
