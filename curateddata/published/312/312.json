@@ -1,0 +1,569 @@
+{
+  "number": 312,
+  "title": "Issue 312",
+  "summary": "Better late than never.",
+  "url": "https://weeklyxamarin.com/issues/312",
+  "publication_status": "published",
+  "published_at": "2021-07-19T13:30:42+01:00",
+  "updated_at": "2021-07-19T13:30:47+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone,</p>\n\n<p>Hope you are having an excellent week and ready for a load of Xamarin and MAUI related content.</p>\n\n<p>Apologies for the late newsletter. I'm working to get some people to help out with curation so we can get dates back on track. Stay tuned, but as always if you have any articles you want to submit, please do so here: <a href=\"https://bit.ly/WeeklyXamarinSubmit\">https://bit.ly/WeeklyXamarinSubmit</a>.</p>\n\n<p>Oh by the way, Lachlan and I have released a new version of the <a href=\"https://weeklyxamarin.github.io/website/\">Weekly Xamarin app</a> with some community editions like filtering by topic - thanks to all the people who have submitted pull requests!</p>\n\n<p>Have a great week everyone!</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone,\r\n\r\nHope you are having an excellent week and ready for a load of Xamarin and MAUI related content. \r\n\r\nApologies for the late newsletter. I'm working to get some people to help out with curation so we can get dates back on track. Stay tuned, but as always if you have any articles you want to submit, please do so here: [https://bit.ly/WeeklyXamarinSubmit](https://bit.ly/WeeklyXamarinSubmit).\r\n\r\nOh by the way, Lachlan and I have released a new version of the [Weekly Xamarin app](https://weeklyxamarin.github.io/website/) with some community editions like filtering by topic - thanks to all the people who have submitted pull requests!\r\n\r\nHave a great week everyone!\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "wvMHh",
+              "title": "https://bit.ly/WeeklyXamarinSubmit",
+              "url_domain": "bit.ly",
+              "url": "https://bit.ly/WeeklyXamarinSubmit"
+            },
+            {
+              "identifier": "SF0s47L",
+              "title": "Weekly Xamarin app",
+              "url_domain": "github.io",
+              "url": "https://weeklyxamarin.github.io/website/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "tEPg00y",
+          "type": "Link",
+          "title": "How to design delightful dark themes",
+          "url_domain": "superhuman.com",
+          "url": "https://blog.superhuman.com/how-to-design-delightful-dark-themes/",
+          "description": "<p>Dark themes are the latest trend in app design. Here we share how to design dark themes that are readable, balanced, and delightful!</p>\n\n<p><a href=\"https://blog.superhuman.com/how-to-design-delightful-dark-themes/\"><strong>How to design delightful dark themes</strong></a> by <a href=\"https://blog.superhuman.com/author/teresa-man/\">Teresa Man</a></p>",
+          "description_markdown": "Dark themes are the latest trend in app design. Here we share how to design dark themes that are readable, balanced, and delightful!\r\n\r\n[**How to design delightful dark themes**](https://blog.superhuman.com/how-to-design-delightful-dark-themes/) by [Teresa Man](https://blog.superhuman.com/author/teresa-man/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "YSNEwiv",
+              "title": "**How to design delightful dark themes**",
+              "url_domain": "superhuman.com",
+              "url": "https://blog.superhuman.com/how-to-design-delightful-dark-themes/"
+            },
+            {
+              "identifier": "C9wXDHb",
+              "title": "Teresa Man",
+              "url_domain": "superhuman.com",
+              "url": "https://blog.superhuman.com/author/teresa-man/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "testing",
+      "name": "TESTING",
+      "items": [
+        {
+          "identifier": "eXeyPmZ",
+          "type": "Link",
+          "title": "Using the Xamarin REPL Tool - Trailhead Technology Partners",
+          "url_domain": "trailheadtechnology.com",
+          "url": "https://trailheadtechnology.com/using-the-xamarin-repl-tool/",
+          "description": "<p>Xamarin REPL (read-eval-print-loop) is one of the most important tools for building Xamarin.UITest tests. It’s a console-like environment in which we can see the structure of the visible part of our application using queries and commands.</p>\n\n<p><a href=\"https://trailheadtechnology.com/using-the-xamarin-repl-tool/\"><strong>Using the Xamarin REPL Tool - Trailhead Technology Partners</strong></a> by <a href=\"https://trailheadtechnology.com/author/masha/\">Masha Altukhova</a></p>",
+          "description_markdown": "Xamarin REPL (read-eval-print-loop) is one of the most important tools for building Xamarin.UITest tests. It’s a console-like environment in which we can see the structure of the visible part of our application using queries and commands.\r\n\r\n[**Using the Xamarin REPL Tool - Trailhead Technology Partners**](https://trailheadtechnology.com/using-the-xamarin-repl-tool/) by [Masha Altukhova](https://trailheadtechnology.com/author/masha/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "dFNQzLf",
+              "title": "**Using the Xamarin REPL Tool - Trailhead Technology Partners**",
+              "url_domain": "trailheadtechnology.com",
+              "url": "https://trailheadtechnology.com/using-the-xamarin-repl-tool/"
+            },
+            {
+              "identifier": "xVlXrhk",
+              "title": "Masha Altukhova",
+              "url_domain": "trailheadtechnology.com",
+              "url": "https://trailheadtechnology.com/author/masha/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "performance",
+      "name": "PERFORMANCE",
+      "items": [
+        {
+          "identifier": "OFYsdcQ",
+          "type": "Link",
+          "title": "HTTP trick to check if a remote resource exists",
+          "url_domain": "xamarinhowto.com",
+          "url": "https://xamarinhowto.com/keeping-your-ui-fast-by-using-this-http-trick-to-check-if-a-remote-resource-exists/",
+          "description": "<p>Mobile network connections are extremely varied from bad underground connections to speedy 5G connections. Being able to handle this can make the difference between users loving an app, or hating it.</p>\n\n<p>To avoid long UI delays with a loading animation and/or text message, or worse just something appearing to freeze, we can do a really quick HTTP call to check a resource exists ahead of actually trying to utilise the resource.</p>\n\n<p><a href=\"https://xamarinhowto.com/keeping-your-ui-fast-by-using-this-http-trick-to-check-if-a-remote-resource-exists/\"><strong>Keeping your UI fast by using this HTTP trick to check if a remote resource exists</strong></a> by <a href=\"https://xamarinhowto.com/author/mattxamarinhowto-com/\">Matt Crombie</a></p>",
+          "description_markdown": "Mobile network connections are extremely varied from bad underground connections to speedy 5G connections. Being able to handle this can make the difference between users loving an app, or hating it.\r\n\r\nTo avoid long UI delays with a loading animation and/or text message, or worse just something appearing to freeze, we can do a really quick HTTP call to check a resource exists ahead of actually trying to utilise the resource.\r\n\r\n[**Keeping your UI fast by using this HTTP trick to check if a remote resource exists**](https://xamarinhowto.com/keeping-your-ui-fast-by-using-this-http-trick-to-check-if-a-remote-resource-exists/) by [Matt Crombie](https://xamarinhowto.com/author/mattxamarinhowto-com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "PTeEoiO",
+              "title": "**Keeping your UI fast by using this HTTP trick to check if a remote resource exists**",
+              "url_domain": "xamarinhowto.com",
+              "url": "https://xamarinhowto.com/keeping-your-ui-fast-by-using-this-http-trick-to-check-if-a-remote-resource-exists/"
+            },
+            {
+              "identifier": "LYahwjR",
+              "title": "Matt Crombie",
+              "url_domain": "xamarinhowto.com",
+              "url": "https://xamarinhowto.com/author/mattxamarinhowto-com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "hODIWkl",
+          "type": "Link",
+          "title": "Manage your mobile application version automatically with GitHub Actions",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/xamarin/github/actions/2021/07/15/manage-mobile-version-github-actions-en.html",
+          "description": "<p>Automate the versioning of your application. Damien Aicheh has created a new set of free GitHub Actions to use in your workflow. These actions provide a way to extract the version from a Git repository tag and apply it to your project as you want.</p>\n\n<p><a href=\"https://damienaicheh.github.io/xamarin/github/actions/2021/07/15/manage-mobile-version-github-actions-en.html\"><strong>Manage your mobile application version automatically with GitHub Actions</strong></a> by <a href=\"https://twitter.com/damienaicheh\">Damien Aicheh</a></p>",
+          "description_markdown": "Automate the versioning of your application. Damien Aicheh has created a new set of free GitHub Actions to use in your workflow. These actions provide a way to extract the version from a Git repository tag and apply it to your project as you want.\r\n\r\n[**Manage your mobile application version automatically with GitHub Actions**](https://damienaicheh.github.io/xamarin/github/actions/2021/07/15/manage-mobile-version-github-actions-en.html) by [Damien Aicheh](https://twitter.com/damienaicheh)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "rCWxv9E",
+              "title": "**Manage your mobile application version automatically with GitHub Actions**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/xamarin/github/actions/2021/07/15/manage-mobile-version-github-actions-en.html"
+            },
+            {
+              "identifier": "iiKxlWa",
+              "title": "Damien Aicheh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damienaicheh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "QVyF7yH",
+          "type": "Link",
+          "title": "Mobile.BuildTools 2.0",
+          "url_domain": "dansiegel.net",
+          "url": "https://dansiegel.net/post/2021/07/07/making-devops-easy-with-mobile-buildtools",
+          "description": "<p>Dan announces Mobile.BuildTools 2.0 with a bit of history and some of the awesome new features it contains.</p>\n\n<p><a href=\"https://dansiegel.net/post/2021/07/07/making-devops-easy-with-mobile-buildtools\"><strong>Making DevOps Easy with Mobile.BuildTools</strong></a> by <a href=\"https://twitter.com/danjsiegel\">Dan Siegel</a></p>",
+          "description_markdown": "Dan announces Mobile.BuildTools 2.0 with a bit of history and some of the awesome new features it contains.\r\n\r\n[**Making DevOps Easy with Mobile.BuildTools**](https://dansiegel.net/post/2021/07/07/making-devops-easy-with-mobile-buildtools) by [Dan Siegel](https://twitter.com/danjsiegel)",
+          "embedded_links": [
+            {
+              "identifier": "c1TikqS",
+              "title": "**Making DevOps Easy with Mobile.BuildTools**",
+              "url_domain": "dansiegel.net",
+              "url": "https://dansiegel.net/post/2021/07/07/making-devops-easy-with-mobile-buildtools"
+            },
+            {
+              "identifier": "ipAEbis",
+              "title": "Dan Siegel",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/danjsiegel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "qDmeGrf",
+          "type": "Link",
+          "title": "Getting started with a Xamarin.Forms UI Design",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/getting-started-with-a-ui-and-not-die-trying-in-xamarin-forms/",
+          "description": "<p>Leomaris takes a gentle approach to understaning how to think about your page layout in this post</p>\n\n<p><a href=\"https://askxammy.com/getting-started-with-a-ui-and-not-die-trying-in-xamarin-forms/\"><strong>Getting started with a UI and not die trying in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris takes a gentle approach to understaning how to think about your page layout in this post\r\n\r\n[**Getting started with a UI and not die trying in Xamarin Forms**](https://askxammy.com/getting-started-with-a-ui-and-not-die-trying-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "FS3ZY4Q",
+              "title": "**Getting started with a UI and not die trying in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/getting-started-with-a-ui-and-not-die-trying-in-xamarin-forms/"
+            },
+            {
+              "identifier": "csA8wrT",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "WXivpyY",
+          "type": "Link",
+          "title": "Getting Started with the BadgeView control for Xamarin.Forms",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/get-acquainted-telerik-ui-xamarin-badgeview-control",
+          "description": "<p>Learn how to create badges and attach them to any Xamariin.Forms view you have.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/get-acquainted-telerik-ui-xamarin-badgeview-control\"><strong>Getting Started with the BadgeView control for Xamarin.Forms</strong></a> by <a href=\"https://www.telerik.com/blogs/author/yana-kerpecheva\">Yana Kerpecheva</a></p>",
+          "description_markdown": "Learn how to create badges and attach them to any Xamariin.Forms view you have.\r\n\r\n[**Getting Started with the BadgeView control for Xamarin.Forms**](https://www.telerik.com/blogs/get-acquainted-telerik-ui-xamarin-badgeview-control) by [Yana Kerpecheva](https://www.telerik.com/blogs/author/yana-kerpecheva)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "mTFxtkU",
+              "title": "**Getting Started with the BadgeView control for Xamarin.Forms**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/get-acquainted-telerik-ui-xamarin-badgeview-control"
+            },
+            {
+              "identifier": "TYDjqFl",
+              "title": "Yana Kerpecheva",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/yana-kerpecheva"
+            }
+          ]
+        },
+        {
+          "identifier": "9aa11M0",
+          "type": "Link",
+          "title": "Working with Behaviors",
+          "url_domain": "blogspot.com",
+          "url": "https://xamarinmonkeys.blogspot.com/2021/07/xamarinforms-working-with-behaviors-in.html",
+          "description": "<p>Behaviors lets you add functionality to user interface controls without having to subclass them. Behaviors are written in code and added to controls in XAML or code.</p>\n\n<p><a href=\"https://xamarinmonkeys.blogspot.com/2021/07/xamarinforms-working-with-behaviors-in.html\"><strong>Xamarin.Forms - Working with Behaviors in Xamarin.froms</strong></a> by <a href=\"https://www.blogger.com/profile/12290645674821205145\">Delpin Susai Raj</a></p>",
+          "description_markdown": "Behaviors lets you add functionality to user interface controls without having to subclass them. Behaviors are written in code and added to controls in XAML or code.\r\n\r\n[**Xamarin.Forms - Working with Behaviors in Xamarin.froms**](https://xamarinmonkeys.blogspot.com/2021/07/xamarinforms-working-with-behaviors-in.html) by [Delpin Susai Raj](https://www.blogger.com/profile/12290645674821205145)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ezM9UIB",
+              "title": "**Xamarin.Forms - Working with Behaviors in Xamarin.froms**",
+              "url_domain": "blogspot.com",
+              "url": "https://xamarinmonkeys.blogspot.com/2021/07/xamarinforms-working-with-behaviors-in.html"
+            },
+            {
+              "identifier": "fI7l6fY",
+              "title": "Delpin Susai Raj",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/12290645674821205145"
+            }
+          ]
+        },
+        {
+          "identifier": "71klKcM",
+          "type": "Link",
+          "title": "Faster & Safer XAML with Compiled Bindings in Xamarin.Forms & .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=3-cT97sBmxM",
+          "description": "<p>Are you looking to make your Xamarin.Forms or .NET MAUI app even more performant? Look no further than compiled bindings. This piece of technology speeds up your app by compiling your data bindings ahead of time and has the additional bonus of compile type checking of your bindings. I walk through the few lines of coded needed.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=3-cT97sBmxM\"><strong>Faster &amp; Safer XAML with Compiled Bindings in Xamarin.Forms &amp; .NET MAUI</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Are you looking to make your Xamarin.Forms or .NET MAUI app even more performant? Look no further than compiled bindings. This piece of technology speeds up your app by compiling your data bindings ahead of time and has the additional bonus of compile type checking of your bindings. I walk through the few lines of coded needed.\r\n\r\n[**Faster & Safer XAML with Compiled Bindings in Xamarin.Forms & .NET MAUI**](https://www.youtube.com/watch?v=3-cT97sBmxM) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "pGQ9GFr",
+              "title": "**Faster & Safer XAML with Compiled Bindings in Xamarin.Forms & .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=3-cT97sBmxM"
+            },
+            {
+              "identifier": "DubiTOE",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "IN6zPHY",
+          "type": "Link",
+          "title": "Shadow Effect in Telerik UI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/welcome-world-shadows-telerik-shadow-xamarin-winui-uwp",
+          "description": "<p>Meet Telerik Shadow for Xamarin, WinUI and UWP. Bring on the material design concepts for your mobile and desktop apps.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/welcome-world-shadows-telerik-shadow-xamarin-winui-uwp\"><strong>Shadow Effect in Telerik UI for Xamarin, WinUI, UWP</strong></a> by <a href=\"https://www.telerik.com/blogs/author/dobrinka-yordanova\">Dobrinka Yordanova</a></p>",
+          "description_markdown": "Meet Telerik Shadow for Xamarin, WinUI and UWP. Bring on the material design concepts for your mobile and desktop apps.\r\n\r\n[**Shadow Effect in Telerik UI for Xamarin, WinUI, UWP**](https://www.telerik.com/blogs/welcome-world-shadows-telerik-shadow-xamarin-winui-uwp) by [Dobrinka Yordanova](https://www.telerik.com/blogs/author/dobrinka-yordanova)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "jP8rLv2",
+              "title": "**Shadow Effect in Telerik UI for Xamarin, WinUI, UWP**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/welcome-world-shadows-telerik-shadow-xamarin-winui-uwp"
+            },
+            {
+              "identifier": "81ueFlL",
+              "title": "Dobrinka Yordanova",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/dobrinka-yordanova"
+            }
+          ]
+        },
+        {
+          "identifier": "4tZZGZy",
+          "type": "Link",
+          "title": "Close applications programmatically",
+          "url_domain": "banditoth.hu",
+          "url": "https://www.banditoth.hu/2021/07/15/xamarin-forms-close-applications-programmatically/?utm_source=rss",
+          "description": "<p>Can you programmatically close your application... sure... should you? Well that's up to you. In iOS it's a no-no, but it can be done in Android and in some cases might even be useful.</p>\n\n<p><a href=\"https://www.banditoth.hu/2021/07/15/xamarin-forms-close-applications-programmatically/?utm_source=rss\"><strong>Xamarin Forms: Close applications programmatically</strong></a> by <a href=\"https://www.linkedin.com/in/banditoth/\">András Tóth</a></p>",
+          "description_markdown": "Can you programmatically close your application... sure... should you? Well that's up to you. In iOS it's a no-no, but it can be done in Android and in some cases might even be useful.\r\n\r\n[**Xamarin Forms: Close applications programmatically**](https://www.banditoth.hu/2021/07/15/xamarin-forms-close-applications-programmatically/?utm_source=rss) by [András Tóth](https://www.linkedin.com/in/banditoth/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "vYh7JlH",
+              "title": "**Xamarin Forms: Close applications programmatically**",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/2021/07/15/xamarin-forms-close-applications-programmatically/?utm_source=rss"
+            },
+            {
+              "identifier": "Vm12fNv",
+              "title": "András Tóth",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/banditoth/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "SkXncXL",
+          "type": "Link",
+          "title": "The Future of Xamarin Community Toolkit",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/the-future-of-xamarin-community-toolkit",
+          "description": "<p>With the release of .NET MAUI coming soon, here is the roadmap for the Xamarin Community Toolkit.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/the-future-of-xamarin-community-toolkit\"><strong>The Future of Xamarin Community Toolkit</strong></a> by <a href=\"https://twitter.com/TheCodeTraveler\">Brandon Minnick</a></p>",
+          "description_markdown": "With the release of .NET MAUI coming soon, here is the roadmap for the Xamarin Community Toolkit.\r\n\r\n[**The Future of Xamarin Community Toolkit**](https://devblogs.microsoft.com/xamarin/the-future-of-xamarin-community-toolkit) by [Brandon Minnick](https://twitter.com/TheCodeTraveler)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "MOP5C8Q",
+              "title": "**The Future of Xamarin Community Toolkit**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/the-future-of-xamarin-community-toolkit"
+            },
+            {
+              "identifier": "DXBOGyM",
+              "title": "Brandon Minnick",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/TheCodeTraveler"
+            }
+          ]
+        },
+        {
+          "identifier": "WkKjdPb",
+          "type": "Link",
+          "title": "Xamarin / .Net Maui discussion with Javier Suárez",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/xamarin-net-maui-discussion-with-javier-suarez/",
+          "description": "<p>The community talks to Javier Suarez about #DotNetMaui and #Xamarin about everything new that is coming and about the current status of Xamarin.</p>\n\n<p>Note, the video is in Spanish so for English speakers turn on those auto generated subtitles.</p>\n\n<p><a href=\"https://luismts.com/xamarin-net-maui-discussion-with-javier-suarez/\"><strong>Xamarin / .Net Maui discussion with Javier Suárez</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "The community talks to Javier Suarez about #DotNetMaui and #Xamarin about everything new that is coming and about the current status of Xamarin.\r\n\r\nNote, the video is in Spanish so for English speakers turn on those auto generated subtitles.\r\n\r\n[**Xamarin / .Net Maui discussion with Javier Suárez**](https://luismts.com/xamarin-net-maui-discussion-with-javier-suarez/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "7QQpNG2",
+              "title": "**Xamarin / .Net Maui discussion with Javier Suárez**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/xamarin-net-maui-discussion-with-javier-suarez/"
+            },
+            {
+              "identifier": "QdTwf9N",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "ls9skIi",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #16",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-16",
+          "description": "<p>The weekly wrap up of MAUI related news by Sam</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-16\"><strong>Sands of MAUI: Issue #16</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "The weekly wrap up of MAUI related news by Sam\r\n\r\n[**Sands of MAUI: Issue #16**](https://www.telerik.com/blogs/sands-maui-issue-16) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)",
+          "embedded_links": [
+            {
+              "identifier": "4F9z2E4",
+              "title": "**Sands of MAUI: Issue #16**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-16"
+            },
+            {
+              "identifier": "I3Od9ef",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        },
+        {
+          "identifier": "vfCEy2o",
+          "type": "Link",
+          "title": ".NET MAUI Templates",
+          "url_domain": "wordpress.com",
+          "url": "https://vijay1729.wordpress.com/2021/07/18/net-maui-templates-for-visual-studio-2022/",
+          "description": "<p>Vijay shares a VS Extension that enabled Project and Item Templates in Visual Studio 2022.</p>\n\n<p><a href=\"https://vijay1729.wordpress.com/2021/07/18/net-maui-templates-for-visual-studio-2022/\"><strong>.NET MAUI – Templates for Visual Studio 2022</strong></a> by <a href=\"https://vijay1729.wordpress.com/2021/04/03/about-me/\">Vijay Anand</a></p>",
+          "description_markdown": "Vijay shares a VS Extension that enabled Project and Item Templates in Visual Studio 2022.\r\n\r\n[**.NET MAUI – Templates for Visual Studio 2022**](https://vijay1729.wordpress.com/2021/07/18/net-maui-templates-for-visual-studio-2022/) by [Vijay Anand](https://vijay1729.wordpress.com/2021/04/03/about-me/)",
+          "embedded_links": [
+            {
+              "identifier": "7E7DKN0",
+              "title": "**.NET MAUI – Templates for Visual Studio 2022**",
+              "url_domain": "wordpress.com",
+              "url": "https://vijay1729.wordpress.com/2021/07/18/net-maui-templates-for-visual-studio-2022/"
+            },
+            {
+              "identifier": "Z9ZZjbN",
+              "title": "Vijay Anand",
+              "url_domain": "wordpress.com",
+              "url": "https://vijay1729.wordpress.com/2021/04/03/about-me/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "wOGKxdN",
+          "type": "Link",
+          "title": "FreshMvvm Basic Navigation Concepts in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=C7ykJ66CbgY",
+          "description": "<p>In this video we will learn why it's important to navigate to ViewModels instead of pages and more importantly: how to actually do just that!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=C7ykJ66CbgY\"><strong>FreshMvvm Basic Navigation Concepts in Xamarin.Forms</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "In this video we will learn why it's important to navigate to ViewModels instead of pages and more importantly: how to actually do just that!\r\n\r\n[**FreshMvvm Basic Navigation Concepts in Xamarin.Forms**](https://www.youtube.com/watch?v=C7ykJ66CbgY) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "RvYOOeV",
+              "title": "**FreshMvvm Basic Navigation Concepts in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=C7ykJ66CbgY"
+            },
+            {
+              "identifier": "w5sMLWL",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "5jhzeWe",
+          "type": "Link",
+          "title": "Xamarin.Forms MVVM Made Easy with FreshMvvm Framework",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=bj7ZxrmyzTA",
+          "description": "<p>Xamarin.Forms already has all the bits necessary to implement the MVVM pattern successfully. However, you can make your life easier by using a MVVM framework. In this video we will see FreshMvvm, the MVVM framework that I love using in my Xamarin.Forms apps!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=bj7ZxrmyzTA\"><strong>Xamarin.Forms MVVM Made Easy with FreshMvvm Framework</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Xamarin.Forms already has all the bits necessary to implement the MVVM pattern successfully. However, you can make your life easier by using a MVVM framework. In this video we will see FreshMvvm, the MVVM framework that I love using in my Xamarin.Forms apps!\r\n\r\n[**Xamarin.Forms MVVM Made Easy with FreshMvvm Framework**](https://www.youtube.com/watch?v=bj7ZxrmyzTA) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "pOjbPo5",
+              "title": "**Xamarin.Forms MVVM Made Easy with FreshMvvm Framework**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=bj7ZxrmyzTA"
+            },
+            {
+              "identifier": "KOkRWjF",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "adMQRyS",
+          "type": "Link",
+          "title": "The Xamarin Podcast Episode 96: The Final Xamarin Podcast",
+          "url_domain": "xamarinpodcast.com",
+          "url": "https://www.xamarinpodcast.com/96",
+          "description": "<p>It's over. Done. Finished. Caput. No more. This is the last Xamarin podcast ever. What's going to happen next month?</p>\n\n<p><a href=\"https://www.xamarinpodcast.com/96\"><strong>The Xamarin Podcast Episode 96: The Final Xamarin Podcast</strong></a> by <a href=\"https://twitter.com/XamarinPodcast\">The Xamarin Podcast</a></p>",
+          "description_markdown": "It's over. Done. Finished. Caput. No more. This is the last Xamarin podcast ever. What's going to happen next month?\r\n\r\n[**The Xamarin Podcast Episode 96: The Final Xamarin Podcast**](https://www.xamarinpodcast.com/96) by [The Xamarin Podcast](https://twitter.com/XamarinPodcast)",
+          "embedded_links": [
+            {
+              "identifier": "6TFNOuJ",
+              "title": "**The Xamarin Podcast Episode 96: The Final Xamarin Podcast**",
+              "url_domain": "xamarinpodcast.com",
+              "url": "https://www.xamarinpodcast.com/96"
+            },
+            {
+              "identifier": "urowQzy",
+              "title": "The Xamarin Podcast",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/XamarinPodcast"
+            }
+          ]
+        },
+        {
+          "identifier": "GHWPhQi",
+          "type": "Link",
+          "title": "Merge Conflict: 262: Your AI Code Copilot",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/262",
+          "description": "<p>GitHub Copilot is here, and Frank goes hands on with the new service that provides code recommendations directly in VS Code.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/262\"><strong>Merge Conflict: 262: Your AI Code Copilot</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "GitHub Copilot is here, and Frank goes hands on with the new service that provides code recommendations directly in VS Code.\r\n\r\n[**Merge Conflict: 262: Your AI Code Copilot**](https://www.mergeconflict.fm/262) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "84TYlqt",
+              "title": "**Merge Conflict: 262: Your AI Code Copilot**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/262"
+            },
+            {
+              "identifier": "XZn0I3N",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "dAl72D",
+          "type": "Link",
+          "title": "Null Pointers 61: Versioning Software",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/61/",
+          "description": "<p>After quickly discussing if we still have a job once GitHub Co-Pilot goes public, we discuss the ins and outs of versioning software. From semantic, new-newer-newest to other version strategies we have seen along the so far.</p>\n\n<p><a href=\"https://nullpointers.io/61/\"><strong>61: Versioning Software</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "After quickly discussing if we still have a job once GitHub Co-Pilot goes public, we discuss the ins and outs of versioning software. From semantic, new-newer-newest to other version strategies we have seen along the so far.\r\n\r\n[**61: Versioning Software**](https://nullpointers.io/61/) by [Null Pointers](https://nullpointers.io/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "vXoqp89",
+              "title": "**61: Versioning Software**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/61/"
+            },
+            {
+              "identifier": "6oNW7xK",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "ixkgzdq",
+          "type": "Link",
+          "title": "DevTalk 67: SwiftUI. With Ed Snider",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-67-ed-snider/",
+          "description": "<p>On this episode of DevTalk I speak to Ed Snider about SwiftUI and how it compares to developing using Xamarin.Forms.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-67-ed-snider/\"><strong>67: SwiftUI. With Ed Snider</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk I speak to Ed Snider about SwiftUI and how it compares to developing using Xamarin.Forms.\r\n\r\n[**67: SwiftUI. With Ed Snider**](https://kerry.lothrop.de/devtalk-67-ed-snider/) by [Kerry Lothrop](https://twitter.com/kwlothrop)",
+          "embedded_links": [
+            {
+              "identifier": "QctxLPM",
+              "title": "**67: SwiftUI. With Ed Snider**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-67-ed-snider/"
+            },
+            {
+              "identifier": "Uo2zf52",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

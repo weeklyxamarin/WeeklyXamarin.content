@@ -2010,6 +2010,16 @@
       "Website": "https://martynnw.wordpress.com"
     },
     {
+      "Name": "Masha Altukhova",
+      "Id": "https://trailheadtechnology.com/author/masha/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://trailheadtechnology.com/author/masha/"
+        }
+      ]
+    },
+    {
       "Name": "Matt Crombie",
       "TwitterHandle": "xamarinhowto",
       "GitHubHandle": "xamarinhowto",
@@ -2980,6 +2990,16 @@
         {
           "Type": "blog",
           "Name": "https://www.telerik.com/"
+        }
+      ]
+    },
+    {
+      "Name": "Teresa Man",
+      "Id": "https://blog.superhuman.com/author/teresa-man/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://blog.superhuman.com/author/teresa-man/"
         }
       ]
     },

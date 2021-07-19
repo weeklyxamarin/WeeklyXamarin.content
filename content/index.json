@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2020-07-01T03:34:42.5776392Z",
   "Editions": [
     {
+      "Id": "312",
+      "Name": "Issue 312",
+      "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
+      "Summary": "Better late than never.",
+      "PublishDate": "2021-07-19T12:30:42Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "311",
       "Name": "Issue 311",
       "UpdatedTimeStamp": "2021-07-06T05:13:00Z",

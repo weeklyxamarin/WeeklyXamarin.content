@@ -1,0 +1,200 @@
+{
+  "Id": "312",
+  "Name": "Issue 312",
+  "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
+  "Summary": "Better late than never.",
+  "Introduction": "G'day everyone, Hope you are having an excellent week and ready for a load of Xamarin and MAUI related content.  Apologies for the late newsletter. I'm working to get some people to help out with curation so we can get dates back on track. Stay tuned, but as always if you have any articles you want to submit, please do so here: [https://bit.ly/WeeklyXamarinSubmit](https://bit.ly/WeeklyXamarinSubmit). Oh by the way, Lachlan and I have released a new version of the [Weekly Xamarin app](https://weeklyxamarin.github.io/website/) with some community editions like filtering by topic - thanks to all the people who have submitted pull requests! Have a great week everyone! ❤ Kym",
+  "PublishDate": "2021-07-19T12:30:42Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "How to design delightful dark themes",
+      "Url": "https://blog.superhuman.com/how-to-design-delightful-dark-themes/",
+      "Description": "Dark themes are the latest trend in app design. Here we share how to design dark themes that are readable, balanced, and delightful!",
+      "EditionId": "312",
+      "Author": "Teresa Man",
+      "Id": "312-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Using the Xamarin REPL Tool - Trailhead Technology Partners",
+      "Url": "https://trailheadtechnology.com/using-the-xamarin-repl-tool/",
+      "Description": "Xamarin REPL (read-eval-print-loop) is one of the most important tools for building Xamarin.UITest tests. It’s a console-like environment in which we can see the structure of the visible part of our application using queries and commands.",
+      "EditionId": "312",
+      "Author": "Masha Altukhova",
+      "Id": "312-2",
+      "Category": "TESTING"
+    },
+    {
+      "Title": "HTTP trick to check if a remote resource exists",
+      "Url": "https://xamarinhowto.com/keeping-your-ui-fast-by-using-this-http-trick-to-check-if-a-remote-resource-exists/",
+      "Description": "Mobile network connections are extremely varied from bad underground connections to speedy 5G connections. Being able to handle this can make the difference between users loving an app, or hating it. To avoid long UI delays with a loading animation and/or text message, or worse just something appearing to freeze, we can do a really quick HTTP call to check a resource exists ahead of actually trying to utilise the resource.",
+      "EditionId": "312",
+      "Author": "Matt Crombie",
+      "Id": "312-3",
+      "Category": "PERFORMANCE"
+    },
+    {
+      "Title": "Manage your mobile application version automatically with GitHub Actions",
+      "Url": "https://damienaicheh.github.io/xamarin/github/actions/2021/07/15/manage-mobile-version-github-actions-en.html",
+      "Description": "Automate the versioning of your application. Damien Aicheh has created a new set of free GitHub Actions to use in your workflow. These actions provide a way to extract the version from a Git repository tag and apply it to your project as you want.",
+      "EditionId": "312",
+      "Author": "Damien Aicheh",
+      "Id": "312-4",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Mobile.BuildTools 2.0",
+      "Url": "https://dansiegel.net/post/2021/07/07/making-devops-easy-with-mobile-buildtools",
+      "Description": "Dan announces Mobile.BuildTools 2.0 with a bit of history and some of the awesome new features it contains.",
+      "EditionId": "312",
+      "Author": "Dan Siegel",
+      "Id": "312-5",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Getting started with a Xamarin.Forms UI Design",
+      "Url": "https://askxammy.com/getting-started-with-a-ui-and-not-die-trying-in-xamarin-forms/",
+      "Description": "Leomaris takes a gentle approach to understaning how to think about your page layout in this post",
+      "EditionId": "312",
+      "Author": "Leomaris Reyes",
+      "Id": "312-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Getting Started with the BadgeView control for Xamarin.Forms",
+      "Url": "https://www.telerik.com/blogs/get-acquainted-telerik-ui-xamarin-badgeview-control",
+      "Description": "Learn how to create badges and attach them to any Xamariin.Forms view you have.",
+      "EditionId": "312",
+      "Author": "Yana Kerpecheva",
+      "Id": "312-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Working with Behaviors",
+      "Url": "https://xamarinmonkeys.blogspot.com/2021/07/xamarinforms-working-with-behaviors-in.html",
+      "Description": "Behaviors lets you add functionality to user interface controls without having to subclass them. Behaviors are written in code and added to controls in XAML or code.",
+      "EditionId": "312",
+      "Author": "Delpin Susai Raj",
+      "Id": "312-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Faster & Safer XAML with Compiled Bindings in Xamarin.Forms & .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=3-cT97sBmxM",
+      "Description": "Are you looking to make your Xamarin.Forms or .NET MAUI app even more performant? Look no further than compiled bindings. This piece of technology speeds up your app by compiling your data bindings ahead of time and has the additional bonus of compile type checking of your bindings. I walk through the few lines of coded needed.",
+      "EditionId": "312",
+      "Author": "James Montemagno",
+      "Id": "312-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Shadow Effect in Telerik UI",
+      "Url": "https://www.telerik.com/blogs/welcome-world-shadows-telerik-shadow-xamarin-winui-uwp",
+      "Description": "Meet Telerik Shadow for Xamarin, WinUI and UWP. Bring on the material design concepts for your mobile and desktop apps.",
+      "EditionId": "312",
+      "Author": "Dobrinka Yordanova",
+      "Id": "312-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Close applications programmatically",
+      "Url": "https://www.banditoth.hu/2021/07/15/xamarin-forms-close-applications-programmatically/?utm_source=rss",
+      "Description": "Can you programmatically close your application... sure... should you? Well that's up to you. In iOS it's a no-no, but it can be done in Android and in some cases might even be useful.",
+      "EditionId": "312",
+      "Author": "András Tóth",
+      "Id": "312-11",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "The Future of Xamarin Community Toolkit",
+      "Url": "https://devblogs.microsoft.com/xamarin/the-future-of-xamarin-community-toolkit",
+      "Description": "With the release of .NET MAUI coming soon, here is the roadmap for the Xamarin Community Toolkit.",
+      "EditionId": "312",
+      "Author": "Brandon Minnick",
+      "Id": "312-12",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Xamarin / .Net Maui discussion with Javier Suárez",
+      "Url": "https://luismts.com/xamarin-net-maui-discussion-with-javier-suarez/",
+      "Description": "The community talks to Javier Suarez about #DotNetMaui and #Xamarin about everything new that is coming and about the current status of Xamarin. Note, the video is in Spanish so for English speakers turn on those auto generated subtitles.",
+      "EditionId": "312",
+      "Author": "Luis Matos",
+      "Id": "312-13",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #16",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-16",
+      "Description": "The weekly wrap up of MAUI related news by Sam",
+      "EditionId": "312",
+      "Author": "Sam Basu",
+      "Id": "312-14",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Templates",
+      "Url": "https://vijay1729.wordpress.com/2021/07/18/net-maui-templates-for-visual-studio-2022/",
+      "Description": "Vijay shares a VS Extension that enabled Project and Item Templates in Visual Studio 2022.",
+      "EditionId": "312",
+      "Author": "Vijay Anand",
+      "Id": "312-15",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "FreshMvvm Basic Navigation Concepts in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=C7ykJ66CbgY",
+      "Description": "In this video we will learn why it's important to navigate to ViewModels instead of pages and more importantly: how to actually do just that!",
+      "EditionId": "312",
+      "Author": "Gerald Versluis",
+      "Id": "312-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin.Forms MVVM Made Easy with FreshMvvm Framework",
+      "Url": "https://www.youtube.com/watch?v=bj7ZxrmyzTA",
+      "Description": "Xamarin.Forms already has all the bits necessary to implement the MVVM pattern successfully. However, you can make your life easier by using a MVVM framework. In this video we will see FreshMvvm, the MVVM framework that I love using in my Xamarin.Forms apps!",
+      "EditionId": "312",
+      "Author": "Gerald Versluis",
+      "Id": "312-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The Xamarin Podcast Episode 96: The Final Xamarin Podcast",
+      "Url": "https://www.xamarinpodcast.com/96",
+      "Description": "It's over. Done. Finished. Caput. No more. This is the last Xamarin podcast ever. What's going to happen next month?",
+      "EditionId": "312",
+      "Author": "The Xamarin Podcast",
+      "Id": "312-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 262: Your AI Code Copilot",
+      "Url": "https://www.mergeconflict.fm/262",
+      "Description": "GitHub Copilot is here, and Frank goes hands on with the new service that provides code recommendations directly in VS Code.",
+      "EditionId": "312",
+      "Author": "Merge Conflict",
+      "Id": "312-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 61: Versioning Software",
+      "Url": "https://nullpointers.io/61/",
+      "Description": "After quickly discussing if we still have a job once GitHub Co-Pilot goes public, we discuss the ins and outs of versioning software. From semantic, new-newer-newest to other version strategies we have seen along the so far.",
+      "EditionId": "312",
+      "Author": "Null Pointers",
+      "Id": "312-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 67: SwiftUI. With Ed Snider",
+      "Url": "https://kerry.lothrop.de/devtalk-67-ed-snider/",
+      "Description": "On this episode of DevTalk I speak to Ed Snider about SwiftUI and how it compares to developing using Xamarin.Forms.",
+      "EditionId": "312",
+      "Author": "Kerry Lothrop",
+      "Id": "312-21",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
