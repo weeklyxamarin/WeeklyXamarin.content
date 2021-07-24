@@ -1,0 +1,454 @@
+{
+  "number": 313,
+  "title": "Issue 313",
+  "summary": "Moar MAUI!",
+  "url": "https://weeklyxamarin.com/issues/313",
+  "publication_status": "published",
+  "published_at": "2021-07-24T05:10:05+01:00",
+  "updated_at": "2021-07-24T05:10:07+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day Everyone,</p>\n\n<p>We are now on the downhill slope towards MUAI releases and you can really see it in the number of MAUI related articles that are starting to appear.</p>\n\n<p>Here in Melbourne we are back in Lockdown, but that just means, more time to dig into the articles.</p>\n\n<p>Take care and have a lovely week</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day Everyone,\r\n\r\nWe are now on the downhill slope towards MUAI releases and you can really see it in the number of MAUI related articles that are starting to appear.  \r\n\r\nHere in Melbourne we are back in Lockdown, but that just means, more time to dig into the articles.\r\n\r\nTake care and have a lovely week\r\n\r\n❤\r\n\r\nKym\r\n",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "bwvG8Za",
+          "type": "Link",
+          "title": "Update package information with GitHub Actions",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/xamarin/github/actions/2021/07/22/update-package-info-github-actions-en.html",
+          "description": "<p>When developing a mobile application you often need to update the package information of your application. This can include things like: Update the package name or bundle identifier of your application and Changing your application name for different environments.</p>\n\n<p><a href=\"https://damienaicheh.github.io/xamarin/github/actions/2021/07/22/update-package-info-github-actions-en.html\"><strong>Update your mobile application package informations automatically with GitHub Actions</strong></a> by <a href=\"https://twitter.com/damienaicheh\">Damien Aicheh</a></p>",
+          "description_markdown": "When developing a mobile application you often need to update the package information of your application. This can include things like: Update the package name or bundle identifier of your application and Changing your application name for different environments. \r\n\r\n[**Update your mobile application package informations automatically with GitHub Actions**](https://damienaicheh.github.io/xamarin/github/actions/2021/07/22/update-package-info-github-actions-en.html) by [Damien Aicheh](https://twitter.com/damienaicheh)",
+          "embedded_links": [
+            {
+              "identifier": "RoUU3YG",
+              "title": "**Update your mobile application package informations automatically with GitHub Actions**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/xamarin/github/actions/2021/07/22/update-package-info-github-actions-en.html"
+            },
+            {
+              "identifier": "VeGhq4d",
+              "title": "Damien Aicheh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damienaicheh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "CHjQLNG",
+          "type": "Link",
+          "title": "Build Xamarin apps with Microsoft Graph",
+          "url_domain": "microsoft.com",
+          "url": "https://docs.microsoft.com/en-us/graph/tutorials/xamarin",
+          "description": "<p>In this tutorial, you'll build a Xamarin app that uses Azure Active Directory for authentication and Microsoft Graph for retrieving calendar data.</p>\n\n<p><a href=\"https://docs.microsoft.com/en-us/graph/tutorials/xamarin\"><strong>Build Xamarin apps with Microsoft Graph - Microsoft Graph</strong></a> by <a href=\"https://github.com/jasonjoh\">Jason Johnston</a></p>",
+          "description_markdown": "In this tutorial, you'll build a Xamarin app that uses Azure Active Directory for authentication and Microsoft Graph for retrieving calendar data.\r\n\r\n[**Build Xamarin apps with Microsoft Graph - Microsoft Graph**](https://docs.microsoft.com/en-us/graph/tutorials/xamarin) by [Jason Johnston](https://github.com/jasonjoh)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "IEFulMZ",
+              "title": "**Build Xamarin apps with Microsoft Graph - Microsoft Graph**",
+              "url_domain": "microsoft.com",
+              "url": "https://docs.microsoft.com/en-us/graph/tutorials/xamarin"
+            },
+            {
+              "identifier": "OHnvTKu",
+              "title": "Jason Johnston",
+              "url_domain": "github.com",
+              "url": "https://github.com/jasonjoh"
+            }
+          ]
+        },
+        {
+          "identifier": "5c9eyvz",
+          "type": "Link",
+          "title": "Building a XAML UserControl",
+          "url_domain": "builttoroam.com",
+          "url": "https://nicksnettravels.builttoroam.com/xaml-user-controls/",
+          "description": "<p>One of the powerful aspects of any XAML platform is the ability to define your own controls. In this post we’re going to look at building a user control that allows you to reuse chunks of your user experience.</p>\n\n<p><a href=\"https://nicksnettravels.builttoroam.com/xaml-user-controls/\"><strong>Building a XAML UserControl for WinUI, UWP, WPF or Xamarin.Forms (.NET MAUI)</strong></a> by <a href=\"https://twitter.com/thenickrandolph\">Nick Randolph</a></p>",
+          "description_markdown": "One of the powerful aspects of any XAML platform is the ability to define your own controls. In this post we’re going to look at building a user control that allows you to reuse chunks of your user experience. \r\n\r\n[**Building a XAML UserControl for WinUI, UWP, WPF or Xamarin.Forms (.NET MAUI)**](https://nicksnettravels.builttoroam.com/xaml-user-controls/) by [Nick Randolph](https://twitter.com/thenickrandolph)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "XHshdXa",
+              "title": "**Building a XAML UserControl for WinUI, UWP, WPF or Xamarin.Forms (.NET MAUI)**",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/xaml-user-controls/"
+            },
+            {
+              "identifier": "SoxAGhH",
+              "title": "Nick Randolph",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/thenickrandolph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "Xrzq5Wj",
+          "type": "Link",
+          "title": ".NET MAUI Compatibility: Reuse your Renderers unchanged!",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2021/07/19/net-maui-compatibility-reutilizar-tus-renderers-sin-cambios/",
+          "description": "<p>To transition from Xamarin.Forms to the .NET MAUI as smoothly as possible, the Compatability package is added that adds Xamarin.Forms functionality that allows you to reuse code such as Custom Renderers without requiring changes.</p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2021/07/19/net-maui-compatibility-reutilizar-tus-renderers-sin-cambios/\"><strong>.NET MAUI Compatibility: Reutilizar tus Renderers sin cambios!</strong></a> by <a href=\"https://twitter.com/jsuarezruiz\">Javier Suarez</a></p>",
+          "description_markdown": "To transition from Xamarin.Forms to the .NET MAUI as smoothly as possible, the Compatability package is added that adds Xamarin.Forms functionality that allows you to reuse code such as Custom Renderers without requiring changes.\r\n\r\n[**.NET MAUI Compatibility: Reutilizar tus Renderers sin cambios!**](https://javiersuarezruiz.wordpress.com/2021/07/19/net-maui-compatibility-reutilizar-tus-renderers-sin-cambios/) by [Javier Suarez](https://twitter.com/jsuarezruiz)",
+          "embedded_links": [
+            {
+              "identifier": "pYaMSl9",
+              "title": "**.NET MAUI Compatibility: Reutilizar tus Renderers sin cambios!**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2021/07/19/net-maui-compatibility-reutilizar-tus-renderers-sin-cambios/"
+            },
+            {
+              "identifier": "ai19PZM",
+              "title": "Javier Suarez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jsuarezruiz"
+            }
+          ]
+        },
+        {
+          "identifier": "mkjzlcy",
+          "type": "Link",
+          "title": "Convert a Xamarin.Forms Custom Renderer to a .NET MAUI Custom Handler",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2021/07/19/portear-un-custom-renderer-de-xamarin-forms-a-un-custom-handler-de-net-maui/",
+          "description": "<p>.NET MAUI has the concept of Custom Handlers which is similar to the concept of a Xamarin.Forms Custom Renderer, but a little different. Let's see step by step how to convert a Renderer to a Handler!.</p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2021/07/19/portear-un-custom-renderer-de-xamarin-forms-a-un-custom-handler-de-net-maui/\"><strong>Convertir un Custom Renderer de Xamarin.Forms a un Custom Handler de .NET MAUI</strong></a> by <a href=\"https://twitter.com/jsuarezruiz\">Javier Suarez</a></p>",
+          "description_markdown": ".NET MAUI has the concept of Custom Handlers which is similar to the concept of a Xamarin.Forms Custom Renderer, but a little different. Let's see step by step how to convert a Renderer to a Handler!.\r\n\r\n[**Convertir un Custom Renderer de Xamarin.Forms a un Custom Handler de .NET MAUI**](https://javiersuarezruiz.wordpress.com/2021/07/19/portear-un-custom-renderer-de-xamarin-forms-a-un-custom-handler-de-net-maui/) by [Javier Suarez](https://twitter.com/jsuarezruiz)",
+          "embedded_links": [
+            {
+              "identifier": "sbkmyP3",
+              "title": "**Convertir un Custom Renderer de Xamarin.Forms a un Custom Handler de .NET MAUI**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2021/07/19/portear-un-custom-renderer-de-xamarin-forms-a-un-custom-handler-de-net-maui/"
+            },
+            {
+              "identifier": "zXyIMqI",
+              "title": "Javier Suarez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jsuarezruiz"
+            }
+          ]
+        },
+        {
+          "identifier": "AFvESqC",
+          "type": "Link",
+          "title": "Convert Xamarin.Forms Converters to .NET MAUI",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2021/07/19/portar-converters-de-xamarin-forms-a-net-maui/",
+          "description": "<p>Suppose you want to define a data binding where the source property is of type int but the target property is bool. You want this data binding to produce a false value when the entire font equals 0 and true otherwise. You can do this with a class that implements the IValueConverterinterface. Like other Xamarin.Forms concepts, Converters can be reused in .NET MAUI without requiring code changes.</p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2021/07/19/portar-converters-de-xamarin-forms-a-net-maui/\"><strong>Convertir Converters de Xamarin.Forms a .NET MAUI</strong></a> by <a href=\"https://twitter.com/jsuarezruiz\">Javier Suarez</a></p>",
+          "description_markdown": "Suppose you want to define a data binding where the source property is of type int but the target property is bool. You want this data binding to produce a false value when the entire font equals 0 and true otherwise. You can do this with a class that implements the IValueConverterinterface. Like other Xamarin.Forms concepts, Converters can be reused in .NET MAUI without requiring code changes.\r\n\r\n[**Convertir Converters de Xamarin.Forms a .NET MAUI**](https://javiersuarezruiz.wordpress.com/2021/07/19/portar-converters-de-xamarin-forms-a-net-maui/) by [Javier Suarez](https://twitter.com/jsuarezruiz)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "8532jAu",
+              "title": "**Convertir Converters de Xamarin.Forms a .NET MAUI**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2021/07/19/portar-converters-de-xamarin-forms-a-net-maui/"
+            },
+            {
+              "identifier": "jyBM5d3",
+              "title": "Javier Suarez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jsuarezruiz"
+            }
+          ]
+        },
+        {
+          "identifier": "9SNMWhH",
+          "type": "Link",
+          "title": "Convert Xamarin.Forms Behaviors to .NET MAUI",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2021/07/19/portear-behaviors-de-xamarin-forms-a-net-maui/",
+          "description": "<p>Behaviors enable you to add functionality to UI controls without having to subclass them. Instead, the function is implemented in a Behavior class and associated with the control as if it were part of it. In .NET MAUI there is exactly the same concept, allowing you to reuse code in a simple way.</p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2021/07/19/portear-behaviors-de-xamarin-forms-a-net-maui/\"><strong>Convertir Behaviors de Xamarin.Forms a .NET MAUI</strong></a> by <a href=\"https://twitter.com/jsuarezruiz\">Javier Suarez</a></p>",
+          "description_markdown": "Behaviors enable you to add functionality to UI controls without having to subclass them. Instead, the function is implemented in a Behavior class and associated with the control as if it were part of it. In .NET MAUI there is exactly the same concept, allowing you to reuse code in a simple way.\r\n\r\n[**Convertir Behaviors de Xamarin.Forms a .NET MAUI**](https://javiersuarezruiz.wordpress.com/2021/07/19/portear-behaviors-de-xamarin-forms-a-net-maui/) by [Javier Suarez](https://twitter.com/jsuarezruiz)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "PPJIvcS",
+              "title": "**Convertir Behaviors de Xamarin.Forms a .NET MAUI**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2021/07/19/portear-behaviors-de-xamarin-forms-a-net-maui/"
+            },
+            {
+              "identifier": "mMojcEo",
+              "title": "Javier Suarez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jsuarezruiz"
+            }
+          ]
+        },
+        {
+          "identifier": "MKxKTJ3",
+          "type": "Link",
+          "title": "Convert Xamarin.Forms Triggers to . NET MAUI",
+          "url_domain": "wordpress.com",
+          "url": "https://javiersuarezruiz.wordpress.com/2021/07/19/convertir-triggers-de-xamarin-forms-a-net-maui/",
+          "description": "<p>Triggers enable you to express actions declaratively in XAML that change the appearance of controls based on events or property changes. In addition, state triggers, which are a specialized group of triggers, define when a VisualState should be applied. As a general rule, all XAML-related concepts in Xamarin.Forms will work without requiring changes to .NET MAUI.</p>\n\n<p><a href=\"https://javiersuarezruiz.wordpress.com/2021/07/19/convertir-triggers-de-xamarin-forms-a-net-maui/\"><strong>Convertir Triggers de Xamarin.Forms a .NET MAUI</strong></a> by <a href=\"https://twitter.com/jsuarezruiz\">Javier Suarez</a></p>",
+          "description_markdown": "Triggers enable you to express actions declaratively in XAML that change the appearance of controls based on events or property changes. In addition, state triggers, which are a specialized group of triggers, define when a VisualState should be applied. As a general rule, all XAML-related concepts in Xamarin.Forms will work without requiring changes to .NET MAUI.\r\n\r\n[**Convertir Triggers de Xamarin.Forms a .NET MAUI**](https://javiersuarezruiz.wordpress.com/2021/07/19/convertir-triggers-de-xamarin-forms-a-net-maui/) by [Javier Suarez](https://twitter.com/jsuarezruiz)",
+          "embedded_links": [
+            {
+              "identifier": "fDagEW3",
+              "title": "**Convertir Triggers de Xamarin.Forms a .NET MAUI**",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com/2021/07/19/convertir-triggers-de-xamarin-forms-a-net-maui/"
+            },
+            {
+              "identifier": "tdnFY0V",
+              "title": "Javier Suarez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jsuarezruiz"
+            }
+          ]
+        },
+        {
+          "identifier": "msstXKY",
+          "type": "Link",
+          "title": "Xamarin.Essentials 1.7 and introducing .NET MAUI Essentials",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-7-and-introducing-net-maui-essentials/",
+          "description": "<p>Xamarin.Essentials 1.7 is here with some great enhancements for your mobile and desktop apps. Also, get to know the future of the library with .NET MAUI Essentials.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-7-and-introducing-net-maui-essentials/\"><strong>Xamarin.Essentials 1.7 and introducing .NET MAUI Essentials</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Xamarin.Essentials 1.7 is here with some great enhancements for your mobile and desktop apps. Also, get to know the future of the library with .NET MAUI Essentials.\r\n\r\n[**Xamarin.Essentials 1.7 and introducing .NET MAUI Essentials**](https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-7-and-introducing-net-maui-essentials/) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "6WGZosU",
+              "title": "**Xamarin.Essentials 1.7 and introducing .NET MAUI Essentials**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-7-and-introducing-net-maui-essentials/"
+            },
+            {
+              "identifier": "sDWXS4q",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "rQG2MMK",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #17",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-17",
+          "description": "<p>Sam keeps us up to date with all the latest things MAUI</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-17\"><strong>Sands of MAUI: Issue #17</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam keeps us up to date with all the latest things MAUI\r\n\r\n[**Sands of MAUI: Issue #17**](https://www.telerik.com/blogs/sands-maui-issue-17) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)",
+          "embedded_links": [
+            {
+              "identifier": "9qVrdKQ",
+              "title": "**Sands of MAUI: Issue #17**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-17"
+            },
+            {
+              "identifier": "pR8OVGQ",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "security",
+      "name": "SECURITY",
+      "items": [
+        {
+          "identifier": "wFxFiWF",
+          "type": "Link",
+          "title": "Easy Xamarin Forms Auth with PKCE",
+          "url_domain": "okta.com",
+          "url": "https://developer.okta.com/blog/2021/07/21/xamarin-forms-pkce-sdk",
+          "description": "<p>OAuth 2.0 is a protocol that controls authorization to access a secured resource such as a native app, web app, or API server. For native applications, the recommended method for controlling access between your application and a resource server is the Authorization Code flow with a Proof Key for Code Exchange (PKCE). In this article, you will learn how to build a basic cross-platform application with Xamarin.Forms and implement Authorization Code flow with PKCE using Okta Xamarin SDK.</p>\n\n<p><a href=\"https://developer.okta.com/blog/2021/07/21/xamarin-forms-pkce-sdk\"><strong>Easy Xamarin Forms Auth with PKCE</strong></a> by <a href=\"https://twitter.com/GioDalakishvili\">Giorgi Dalakishvili</a></p>",
+          "description_markdown": "OAuth 2.0 is a protocol that controls authorization to access a secured resource such as a native app, web app, or API server. For native applications, the recommended method for controlling access between your application and a resource server is the Authorization Code flow with a Proof Key for Code Exchange (PKCE). In this article, you will learn how to build a basic cross-platform application with Xamarin.Forms and implement Authorization Code flow with PKCE using Okta Xamarin SDK.\r\n\r\n[**Easy Xamarin Forms Auth with PKCE**](https://developer.okta.com/blog/2021/07/21/xamarin-forms-pkce-sdk) by [Giorgi Dalakishvili](https://twitter.com/GioDalakishvili)",
+          "embedded_links": [
+            {
+              "identifier": "GV0eBND",
+              "title": "**Easy Xamarin Forms Auth with PKCE**",
+              "url_domain": "okta.com",
+              "url": "https://developer.okta.com/blog/2021/07/21/xamarin-forms-pkce-sdk"
+            },
+            {
+              "identifier": "FDLlHbU",
+              "title": "Giorgi Dalakishvili",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/GioDalakishvili"
+            }
+          ]
+        },
+        {
+          "identifier": "vzUlJbt",
+          "type": "Link",
+          "title": "Using Azure AD B2C to secure a Xamarin.Forms app and an API - Intro",
+          "url_domain": "alectucker.com",
+          "url": "https://blog.alectucker.com/2021/07/21/azure-ad-b2c-xamarin-forms-api/",
+          "description": "<p>Alec Tucker is starting a new series of posts covering authentication using Azure AD B2C, integrating this into a Xamarin.Forms app and using it to secure an API.</p>\n\n<p><a href=\"https://blog.alectucker.com/2021/07/21/azure-ad-b2c-xamarin-forms-api/\"><strong>Using Azure AD B2C to secure a Xamarin.Forms app and an API - Intro</strong></a> by <a href=\"https://twitter.com/alecdtucker\">Alec Tucker</a></p>",
+          "description_markdown": "Alec Tucker is starting a new series of posts covering authentication using Azure AD B2C, integrating this into a Xamarin.Forms app and using it to secure an API.\r\n\r\n[**Using Azure AD B2C to secure a Xamarin.Forms app and an API - Intro**](https://blog.alectucker.com/2021/07/21/azure-ad-b2c-xamarin-forms-api/) by [Alec Tucker](https://twitter.com/alecdtucker)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "LlVmi9o",
+              "title": "**Using Azure AD B2C to secure a Xamarin.Forms app and an API - Intro**",
+              "url_domain": "alectucker.com",
+              "url": "https://blog.alectucker.com/2021/07/21/azure-ad-b2c-xamarin-forms-api/"
+            },
+            {
+              "identifier": "dQYlb2L",
+              "title": "Alec Tucker",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/alecdtucker"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "RW68P23",
+          "type": "Link",
+          "title": "Dependency Injection with FreshMvvm in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=amIniAY8VxI",
+          "description": "<p>Now that we know how to navigate with FreshMvvm, it's time to learn how to add dependency injection in the mix. In this video we will learn about the dependency container, how to register classes, their lifecycle and see how our dependencies are injected in the constructor. This will make your life a lot easier!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=amIniAY8VxI\"><strong>Dependency Injection with FreshMvvm in Xamarin.Forms</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Now that we know how to navigate with FreshMvvm, it's time to learn how to add dependency injection in the mix. In this video we will learn about the dependency container, how to register classes, their lifecycle and see how our dependencies are injected in the constructor. This will make your life a lot easier!\r\n\r\n[**Dependency Injection with FreshMvvm in Xamarin.Forms**](https://www.youtube.com/watch?v=amIniAY8VxI) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "pW0yP0p",
+              "title": "**Dependency Injection with FreshMvvm in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=amIniAY8VxI"
+            },
+            {
+              "identifier": "AXfujz3",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "sRnMJxv",
+          "type": "Link",
+          "title": "Null Pointers 62: Summer Gadgets",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/62/",
+          "description": "<p>In this episode we’re talking about the different things we are currently tinkering with in and around the house. From BBQs to Kindles, and lights to airconditioning.</p>\n\n<p><a href=\"https://nullpointers.io/62/\"><strong>62: Summer Gadgets</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "In this episode we’re talking about the different things we are currently tinkering with in and around the house. From BBQs to Kindles, and lights to airconditioning.\r\n\r\n[**62: Summer Gadgets**](https://nullpointers.io/62/) by [Null Pointers](https://nullpointers.io/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "l1dPE2i",
+              "title": "**62: Summer Gadgets**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/62/"
+            },
+            {
+              "identifier": "1KXPtLu",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "iRB0GC8",
+          "type": "Link",
+          "title": "Merge Conflict: 263: Building Computers",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/263",
+          "description": "<p>Frank and James decided to build and upgrade their computers. How did they decide what to build and what are they building them for?</p>\n\n<p><a href=\"https://www.mergeconflict.fm/263\"><strong>Merge Conflict: 263: Building Computers</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Frank and James decided to build and upgrade their computers. How did they decide what to build and what are they building them for?\r\n\r\n[**Merge Conflict: 263: Building Computers**](https://www.mergeconflict.fm/263) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "BJcVE5n",
+              "title": "**Merge Conflict: 263: Building Computers**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/263"
+            },
+            {
+              "identifier": "sZlFjJk",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "MFVUr3n",
+          "type": "Link",
+          "title": "Using a Xamarin.Forms Renderer in .NET MAUI Without Code Changes!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=_EKznvARe8o",
+          "description": "<p>Make the transition from your Xamarin.Forms app to a .NET MAUI app easier by reusing your custom renderers. You can use your Xamarin.Forms renderers without any code changes right in your .NET MAUI application. Because of this you can convert to .NET MAUI really quickly and easily and worry about rewriting your renderers to handlers later on.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=_EKznvARe8o\"><strong>Using a Xamarin.Forms Renderer in .NET MAUI Without Code Changes!</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Make the transition from your Xamarin.Forms app to a .NET MAUI app easier by reusing your custom renderers. You can use your Xamarin.Forms renderers without any code changes right in your .NET MAUI application. Because of this you can convert to .NET MAUI really quickly and easily and worry about rewriting your renderers to handlers later on.\r\n\r\n[**Using a Xamarin.Forms Renderer in .NET MAUI Without Code Changes!**](https://www.youtube.com/watch?v=_EKznvARe8o) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "z4RTDgS",
+              "title": "**Using a Xamarin.Forms Renderer in .NET MAUI Without Code Changes!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=_EKznvARe8o"
+            },
+            {
+              "identifier": "829ekGu",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "1IglEBc",
+          "type": "Link",
+          "title": "New Telerik MAUI Controls",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/enabling-punctual-island-time-new-telerik-maui-controls",
+          "description": "<p>Welcome to a new release of Telerik UI for MAUI.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/enabling-punctual-island-time-new-telerik-maui-controls\"><strong>Enabling Punctual Island Time: New Telerik MAUI Controls</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Welcome to a new release of Telerik UI for MAUI.\r\n\r\n[**Enabling Punctual Island Time: New Telerik MAUI Controls**](https://www.telerik.com/blogs/enabling-punctual-island-time-new-telerik-maui-controls) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)",
+          "embedded_links": [
+            {
+              "identifier": "UTBHLmg",
+              "title": "**Enabling Punctual Island Time: New Telerik MAUI Controls**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/enabling-punctual-island-time-new-telerik-maui-controls"
+            },
+            {
+              "identifier": "O7Xldu1",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

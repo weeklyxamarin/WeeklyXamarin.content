@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "313",
+      "Name": "Issue 313",
+      "UpdatedTimeStamp": "2021-07-24T04:10:07Z",
+      "Summary": "Moar MAUI!",
+      "PublishDate": "2021-07-24T04:10:05Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "312",
       "Name": "Issue 312",
       "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
@@ -659,6 +668,5 @@
       "Articles": []
     }
   ],
-  "FetchedDate": "0001-01-01T00:00:00",
-  "IsStale": false
+  "FetchedDate": "0001-01-01T00:00:00"
 }

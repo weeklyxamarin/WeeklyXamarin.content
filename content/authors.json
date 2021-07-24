@@ -75,6 +75,16 @@
       "Website": "https://itnext.com/@csharpwriter"
     },
     {
+      "Name": "Alec Tucker",
+      "Id": "https://twitter.com/alecdtucker",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/alecdtucker"
+        }
+      ]
+    },
+    {
       "Name": "Alejandro Ruiz",
       "TwitterHandle": "alejandroruizva",
       "GitHubHandle": "AlejandroRuiz",
@@ -1140,6 +1150,16 @@
       "Website": "https://www.informaticapressapochista.com/it"
     },
     {
+      "Name": "Giorgi Dalakishvili",
+      "Id": "https://twitter.com/giodalakishvili",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/giodalakishvili"
+        }
+      ]
+    },
+    {
       "Name": "GitHub",
       "Id": "https://github.com/layla-p/hacktoberfestproject",
       "Aliases": [
@@ -1344,6 +1364,16 @@
       "GitHubHandle": "jtourlamain",
       "Id": "https://github.com/jtourlamain",
       "Website": "https://www.devprotocol.com/"
+    },
+    {
+      "Name": "Jason Johnston",
+      "Id": "https://github.com/jasonjoh",
+      "Aliases": [
+        {
+          "Type": "github",
+          "Name": "https://github.com/jasonjoh"
+        }
+      ]
     },
     {
       "Name": "Javier Suarez",
