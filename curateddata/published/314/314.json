@@ -1,0 +1,443 @@
+{
+  "number": 314,
+  "title": "Issue 314",
+  "summary": "Testing, DevOps, MAUI!",
+  "url": "https://weeklyxamarin.com/issues/314",
+  "publication_status": "published",
+  "published_at": "2021-08-01T07:21:54+01:00",
+  "updated_at": "2021-08-01T07:21:56+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day</p>\n\n<p>We have some good devops and testing articles in this weeks edition. We are also seeing more and more articles on MAUI, which tells me it's probably time to start really digging into all the MAUI goodness.</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day\r\n\r\nWe have some good devops and testing articles in this weeks edition. We are also seeing more and more articles on MAUI, which tells me it's probably time to start really digging into all the MAUI goodness. \r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "GxoZkn",
+          "type": "Link",
+          "title": "UI & UX Micro-Tips: Volume Eight",
+          "url_domain": "marcandrew.me",
+          "url": "https://marcandrew.me/ui-ux-micro-tips-volume-eight/",
+          "description": "<p>Marc continues his series of easy to put into practice UI &amp; UX micro-tips.</p>\n\n<p><a href=\"https://marcandrew.me/ui-ux-micro-tips-volume-eight/\"><strong>UI &amp; UX Micro-Tips: Volume Eight. | Marc Andrew</strong></a> by <a href=\"https://twitter.com/mrcndrw\">Marc Andrew</a></p>",
+          "description_markdown": "Marc continues his series of easy to put into practice UI & UX micro-tips.\r\n\r\n[**UI & UX Micro-Tips: Volume Eight. | Marc Andrew**](https://marcandrew.me/ui-ux-micro-tips-volume-eight/) by [Marc Andrew](https://twitter.com/mrcndrw)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "pububaF",
+              "title": "**UI & UX Micro-Tips: Volume Eight. | Marc Andrew**",
+              "url_domain": "marcandrew.me",
+              "url": "https://marcandrew.me/ui-ux-micro-tips-volume-eight/"
+            },
+            {
+              "identifier": "XuAXHVq",
+              "title": "Marc Andrew",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mrcndrw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "testing",
+      "name": "TESTING",
+      "items": [
+        {
+          "identifier": "UZ5pmMB",
+          "type": "Link",
+          "title": "Using Xamarin.UITest with Accessible Xamarin.Forms Apps",
+          "url_domain": "criticalhittech.com",
+          "url": "https://criticalhittech.com/2021/07/29/using-xamarin-uitest-with-accessible-xamarin-forms-apps/",
+          "description": "<p>How do you use Xamarin.UITest to test Accessible applications? Look no further, because Jacqueline provides some guidance and tricks to make this work.</p>\n\n<p><a href=\"https://criticalhittech.com/2021/07/29/using-xamarin-uitest-with-accessible-xamarin-forms-apps/\"><strong>Using Xamarin.UITest with Accessible Xamarin.Forms Apps</strong></a> by <a href=\"https://www.linkedin.com/in/jaosy/\">Jacqueline Ong</a></p>",
+          "description_markdown": "How do you use Xamarin.UITest to test Accessible applications? Look no further, because Jacqueline provides some guidance and tricks to make this work.\r\n\r\n[**Using Xamarin.UITest with Accessible Xamarin.Forms Apps**](https://criticalhittech.com/2021/07/29/using-xamarin-uitest-with-accessible-xamarin-forms-apps/) by [Jacqueline Ong](https://www.linkedin.com/in/jaosy/)",
+          "embedded_links": [
+            {
+              "identifier": "T16FXmO",
+              "title": "**Using Xamarin.UITest with Accessible Xamarin.Forms Apps**",
+              "url_domain": "criticalhittech.com",
+              "url": "https://criticalhittech.com/2021/07/29/using-xamarin-uitest-with-accessible-xamarin-forms-apps/"
+            },
+            {
+              "identifier": "HyWvoiR",
+              "title": "Jacqueline Ong",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/jaosy/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "HkoS5OY",
+          "type": "Link",
+          "title": "Cake script for building and deploying Xamarin app",
+          "url_domain": "damianantonowicz.pl",
+          "url": "https://damianantonowicz.pl/2021/06/24/creating-cake-script-for-building-and-deploying-xamarin-app-part-1-running-unit-tests/",
+          "description": "<p>Cake allows to write C# scripts for compiling code, running unit tests, copying files/folders, etc. There is built-in support for many tools and many more via addins. This is the start of a blog post series that covers running unit tests, build Xamarin app, deploy app to App Center, deploy app to Google Play Internal, deploy app to Test Flight, run UI tests.</p>\n\n<p><a href=\"https://damianantonowicz.pl/2021/06/24/creating-cake-script-for-building-and-deploying-xamarin-app-part-1-running-unit-tests/\"><strong>Creating Cake script for building and deploying Xamarin app: Part 1 running unit tests</strong></a> by <a href=\"https://twitter.com/D_Antonowicz\">Damian Antonowicz</a></p>",
+          "description_markdown": "Cake allows to write C# scripts for compiling code, running unit tests, copying files/folders, etc. There is built-in support for many tools and many more via addins. This is the start of a blog post series that covers running unit tests, build Xamarin app, deploy app to App Center, deploy app to Google Play Internal, deploy app to Test Flight, run UI tests. \r\n\r\n[**Creating Cake script for building and deploying Xamarin app: Part 1 running unit tests**](https://damianantonowicz.pl/2021/06/24/creating-cake-script-for-building-and-deploying-xamarin-app-part-1-running-unit-tests/) by [Damian Antonowicz](https://twitter.com/D_Antonowicz)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "MOCHIjS",
+              "title": "**Creating Cake script for building and deploying Xamarin app: Part 1 running unit tests**",
+              "url_domain": "damianantonowicz.pl",
+              "url": "https://damianantonowicz.pl/2021/06/24/creating-cake-script-for-building-and-deploying-xamarin-app-part-1-running-unit-tests/"
+            },
+            {
+              "identifier": "4m6tkd3",
+              "title": "Damian Antonowicz",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/D_Antonowicz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "mWamdu1",
+          "type": "Link",
+          "title": "Xamarin Android Download Manager Advanced Guide",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/xamarin-android-download-manager-advanced-guide/",
+          "description": "<p>This post guides you through using the Xamarin Android Download Manager to download files of all sizes, and monitor download progress.</p>\n\n<p><a href=\"https://doumer.me/xamarin-android-download-manager-advanced-guide/\"><strong>Xamarin Android Download Manager Advanced Guide - Cool Coders</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "This post guides you through using the Xamarin Android Download Manager to download files of all sizes, and monitor download progress.\r\n\r\n[**Xamarin Android Download Manager Advanced Guide - Cool Coders**](https://doumer.me/xamarin-android-download-manager-advanced-guide/) by [Damien Doumer](https://twitter.com/damien_doumer)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Z1kGzvI",
+              "title": "**Xamarin Android Download Manager Advanced Guide - Cool Coders**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/xamarin-android-download-manager-advanced-guide/"
+            },
+            {
+              "identifier": "o7eJ94W",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "gDHuy61",
+          "type": "Link",
+          "title": "App Tracking Transparency Permission",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/app-tracking-transparency-permission-xamarin-forms-ios/",
+          "description": "<p>If you have seen a situation where iTunesConnect is not allowing you to submit the app without the AppTrackingTransparency framework implementation check out this blog post.</p>\n\n<p><a href=\"https://luismts.com/app-tracking-transparency-permission-xamarin-forms-ios/\"><strong>App Tracking Transparency Permission with Xamarin Forms iOS</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "If you have seen a situation where iTunesConnect is not allowing you to submit the app without the AppTrackingTransparency framework implementation check out this blog post.\r\n\r\n[**App Tracking Transparency Permission with Xamarin Forms iOS**](https://luismts.com/app-tracking-transparency-permission-xamarin-forms-ios/) by [Luis Matos](https://twitter.com/luismatosluna)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "GqF1vsb",
+              "title": "**App Tracking Transparency Permission with Xamarin Forms iOS**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/app-tracking-transparency-permission-xamarin-forms-ios/"
+            },
+            {
+              "identifier": "uaU6Mdv",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "BpmTSjZ",
+          "type": "Link",
+          "title": "Lightweight bottom modal sheets",
+          "url_domain": "xamarinhowto.com",
+          "url": "https://xamarinhowto.com/xamarin-forms-lightweight-bottom-sheet-modal/",
+          "description": "<p>Bottom sheets are becoming increasingly more popular in modern apps including Facebook, Instagram and Microsoft Teams.  This post shows you how you can create a control to display a modal bottom sheet.</p>\n\n<p><a href=\"https://xamarinhowto.com/xamarin-forms-lightweight-bottom-sheet-modal/\"><strong>Xamarin.Forms lightweight bottom sheet modal</strong></a> by <a href=\"https://www.linkedin.com/in/toby-field-589a46205/\">Toby Field</a></p>",
+          "description_markdown": "Bottom sheets are becoming increasingly more popular in modern apps including Facebook, Instagram and Microsoft Teams.  This post shows you how you can create a control to display a modal bottom sheet.\r\n\r\n[**Xamarin.Forms lightweight bottom sheet modal**](https://xamarinhowto.com/xamarin-forms-lightweight-bottom-sheet-modal/) by [Toby Field](https://www.linkedin.com/in/toby-field-589a46205/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "IqPyYoe",
+              "title": "**Xamarin.Forms lightweight bottom sheet modal**",
+              "url_domain": "xamarinhowto.com",
+              "url": "https://xamarinhowto.com/xamarin-forms-lightweight-bottom-sheet-modal/"
+            },
+            {
+              "identifier": "oEPMOtY",
+              "title": "Toby Field",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/toby-field-589a46205/"
+            }
+          ]
+        },
+        {
+          "identifier": "zVL61aK",
+          "type": "Link",
+          "title": "Replicating Fashion UI in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-fashion-ui-in-xamarin-forms/",
+          "description": "<p>Leomaris shows how to replicate a nice looking fashion UI (including search header and horizontal collection views) in Xamarin.Forms.</p>\n\n<p><a href=\"https://askxammy.com/replicating-fashion-ui-in-xamarin-forms/\"><strong>Replicating Fashion UI in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris shows how to replicate a nice looking fashion UI (including search header and horizontal collection views) in Xamarin.Forms.\r\n\r\n[**Replicating Fashion UI in Xamarin Forms**](https://askxammy.com/replicating-fashion-ui-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "2HJ04bl",
+              "title": "**Replicating Fashion UI in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-fashion-ui-in-xamarin-forms/"
+            },
+            {
+              "identifier": "obRMOV4",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "D9dcajb",
+          "type": "Link",
+          "title": "Expandable Paragraph Control in Xamarin Forms",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/expandable-paragraph-control-in-xamarin-forms/",
+          "description": "<p>Charlin shares how to create an expendable paragraph control to support show/hide text when clicking into a button.</p>\n\n<p><a href=\"https://xamgirl.com/expandable-paragraph-control-in-xamarin-forms/\"><strong>Expandable Paragraph Control in Xamarin Forms - XamGirl</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "Charlin shares how to create an expendable paragraph control to support show/hide text when clicking into a button.\r\n\r\n[**Expandable Paragraph Control in Xamarin Forms - XamGirl**](https://xamgirl.com/expandable-paragraph-control-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003)",
+          "embedded_links": [
+            {
+              "identifier": "6YuF6lX",
+              "title": "**Expandable Paragraph Control in Xamarin Forms - XamGirl**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/expandable-paragraph-control-in-xamarin-forms/"
+            },
+            {
+              "identifier": "EefkljL",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "rWsvPTH",
+          "type": "Link",
+          "title": "EventAggregator",
+          "url_domain": "medium.com",
+          "url": "https://bertuzzi.medium.com/o-x-do-xamarin-forms-utilizando-eventaggregator-sem-o-prism-16165b29596b",
+          "description": "<p>EventAggregation is a useful pattern for providing communication between components without tight coupling.  Many frameworks provide an implementation, in this article, we look at creating your own.</p>\n\n<p><a href=\"https://bertuzzi.medium.com/o-x-do-xamarin-forms-utilizando-eventaggregator-sem-o-prism-16165b29596b\"><strong>O X do Xamarin Forms - Utilizando EventAggregator (Sem o Prism) | by Thiago Bertuzzi | Jul, 2021 | Medium</strong></a> by <a href=\"https://medium.com/@bertuzzi\">Thiago Bertuzzi</a></p>",
+          "description_markdown": "EventAggregation is a useful pattern for providing communication between components without tight coupling.  Many frameworks provide an implementation, in this article, we look at creating your own.\r\n\r\n[**O X do Xamarin Forms - Utilizando EventAggregator (Sem o Prism) | by Thiago Bertuzzi | Jul, 2021 | Medium**](https://bertuzzi.medium.com/o-x-do-xamarin-forms-utilizando-eventaggregator-sem-o-prism-16165b29596b) by [Thiago Bertuzzi](https://medium.com/@bertuzzi)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "girSc6D",
+              "title": "**O X do Xamarin Forms - Utilizando EventAggregator (Sem o Prism) | by Thiago Bertuzzi | Jul, 2021 | Medium**",
+              "url_domain": "medium.com",
+              "url": "https://bertuzzi.medium.com/o-x-do-xamarin-forms-utilizando-eventaggregator-sem-o-prism-16165b29596b"
+            },
+            {
+              "identifier": "58R8dff",
+              "title": "Thiago Bertuzzi",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bertuzzi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "sgUiZ6Q",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #18",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-18",
+          "description": "<p>Sam Basu's weekly wrap-up of all things MAUI!</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-18\"><strong>Sands of MAUI: Issue #18</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam Basu's weekly wrap-up of all things MAUI!\r\n\r\n[**Sands of MAUI: Issue #18**](https://www.telerik.com/blogs/sands-maui-issue-18) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "G1tU7A5",
+              "title": "**Sands of MAUI: Issue #18**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-18"
+            },
+            {
+              "identifier": "ZVSxO99",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "co48x3W",
+          "type": "Link",
+          "title": "Surfing in MAUI: Xamarin.Forms Renderers vs .NET MAUI Handlers",
+          "url_domain": "youtube.com",
+          "url": "https://youtube.com/watch?v=6PvL398l_y8",
+          "description": "<p>Sam Basu sat down with Javier Suárez to give an outstanding and very technical talk on Xamarin.Forms Renderers vs .NET MAUI Handlers!</p>\n\n<p><a href=\"https://youtube.com/watch?v=6PvL398l_y8\"><strong>Surfing in MAUI: Xamarin.Forms Renderers vs .NET MAUI Handlers</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam Basu sat down with Javier Suárez to give an outstanding and very technical talk on Xamarin.Forms Renderers vs .NET MAUI Handlers! \r\n\r\n[**Surfing in MAUI: Xamarin.Forms Renderers vs .NET MAUI Handlers**](https://youtube.com/watch?v=6PvL398l_y8) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)",
+          "embedded_links": [
+            {
+              "identifier": "cZNU24i",
+              "title": "**Surfing in MAUI: Xamarin.Forms Renderers vs .NET MAUI Handlers**",
+              "url_domain": "youtube.com",
+              "url": "https://youtube.com/watch?v=6PvL398l_y8"
+            },
+            {
+              "identifier": "OWMwEEP",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        },
+        {
+          "identifier": "K7hiS4p",
+          "type": "Link",
+          "title": "Merge Conflict: 264: .NET MAUI Web with Ooui",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/264",
+          "description": "<p>Open source software funds from Microsoft exist and Ooui was nominated! We talk about the process and how that evolved into contributing to .NET MAUI!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/264\"><strong>Merge Conflict: 264: FOSS, Code Tours, &amp; .NET MAUI Web with Ooui</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Open source software funds from Microsoft exist and Ooui was nominated! We talk about the process and how that evolved into contributing to .NET MAUI!\r\n\r\n[**Merge Conflict: 264: FOSS, Code Tours, &amp; .NET MAUI Web with Ooui**](https://www.mergeconflict.fm/264) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "H1YpINv",
+              "title": "**Merge Conflict: 264: FOSS, Code Tours, &amp; .NET MAUI Web with Ooui**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/264"
+            },
+            {
+              "identifier": "a17GPWb",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "ktf4u0w",
+          "type": "Link",
+          "title": "Null Pointers 63: .NET MAUI Preview 6",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/63/",
+          "description": "<p>A new preview of .NET 6 and therefore also .NET MAUI is out: preview 6. So of course, we have to talk all about what is new in this preview and what to expect from preview 7.</p>\n\n<p><a href=\"https://nullpointers.io/63/\"><strong>63: .NET MAUI Preview 6</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "A new preview of .NET 6 and therefore also .NET MAUI is out: preview 6. So of course, we have to talk all about what is new in this preview and what to expect from preview 7.\r\n\r\n[**63: .NET MAUI Preview 6**](https://nullpointers.io/63/) by [Null Pointers](https://nullpointers.io/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "yJcF7jL",
+              "title": "**63: .NET MAUI Preview 6**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/63/"
+            },
+            {
+              "identifier": "q1hKF6K",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "Mjz5f9E",
+          "type": "Link",
+          "title": "Benefits of .NET MAUI over Xamarin/Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=y7vpGT_bBr8",
+          "description": "<p>James talks about the advantages are of .NET MAUI over Xamarin and Xamarin.Forms.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=y7vpGT_bBr8\"><strong>Benefits of .NET MAUI over Xamarin/Xamarin.Forms - Live Stream Highlights</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James talks about the advantages are of .NET MAUI over Xamarin and Xamarin.Forms. \r\n\r\n[**Benefits of .NET MAUI over Xamarin/Xamarin.Forms - Live Stream Highlights**](https://www.youtube.com/watch?v=y7vpGT_bBr8) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "y41UtYm",
+              "title": "**Benefits of .NET MAUI over Xamarin/Xamarin.Forms - Live Stream Highlights**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=y7vpGT_bBr8"
+            },
+            {
+              "identifier": "HYvRQBX",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "WQcPYQR",
+          "type": "Link",
+          "title": "Pass Data Between ViewModels in FreshMvvm",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=QBtNX0AylKc",
+          "description": "<p>Gerald continues the series of using FreshMvvm with Xamarin.Forms. This is the last piece to the puzzle - how to pass data between view models.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=QBtNX0AylKc\"><strong>Pass Data Between ViewModels in FreshMvvm for Xamarin.Forms</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Gerald continues the series of using FreshMvvm with Xamarin.Forms. This is the last piece to the puzzle - how to pass data between view models.\r\n\r\n[**Pass Data Between ViewModels in FreshMvvm for Xamarin.Forms**](https://www.youtube.com/watch?v=QBtNX0AylKc) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ZH5y5aZ",
+              "title": "**Pass Data Between ViewModels in FreshMvvm for Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=QBtNX0AylKc"
+            },
+            {
+              "identifier": "2DklJnn",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "Pl6ebUs",
+          "type": "Link",
+          "title": "Cloudy with a Chance of Mobile: .NET Everywhere with MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=nPIAiPhKtvc",
+          "description": "<p>When Micros?oft first launched .NET, the vision was to offer a viable alternative to Java and the JVM - a runtime and associated language(s) that could run anywhere. With MAUI, that original dream is becoming a reality.</p>\n\n<p>Whether you're building for cloud, mobile, browser, desktop, IoT devices, servers, embedded systems...the list goes on and on - you can write code in .NET and it will run anywhere. With a dash of .NET, a pinch of Blazor, and a sprinkling of MAUI, you no longer need to React to any funny angles - you can have your .NET cake and eat it too.</p>\n\n<p>In this talk, Matt welcomes you into his full stack .NET dream, and shows you how you can build anything in .NET, and run it everywhere.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=nPIAiPhKtvc\"><strong>Cloudy with a Chance of Mobile: .NET Everywhere with MAUI with Matt Goldman</strong></a> by <a href=\"https://twitter.com/mattgoldman\">Matt Goldman</a></p>",
+          "description_markdown": "When Micros?oft first launched .NET, the vision was to offer a viable alternative to Java and the JVM - a runtime and associated language(s) that could run anywhere. With MAUI, that original dream is becoming a reality.\r\n\r\nWhether you're building for cloud, mobile, browser, desktop, IoT devices, servers, embedded systems...the list goes on and on - you can write code in .NET and it will run anywhere. With a dash of .NET, a pinch of Blazor, and a sprinkling of MAUI, you no longer need to React to any funny angles - you can have your .NET cake and eat it too.\r\n\r\nIn this talk, Matt welcomes you into his full stack .NET dream, and shows you how you can build anything in .NET, and run it everywhere.\r\n\r\n[**Cloudy with a Chance of Mobile: .NET Everywhere with MAUI with Matt Goldman**](https://www.youtube.com/watch?v=nPIAiPhKtvc) by [Matt Goldman](https://twitter.com/mattgoldman)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Oq06L6v",
+              "title": "**Cloudy with a Chance of Mobile: .NET Everywhere with MAUI with Matt Goldman**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=nPIAiPhKtvc"
+            },
+            {
+              "identifier": "fNpmCCI",
+              "title": "Matt Goldman",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mattgoldman"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

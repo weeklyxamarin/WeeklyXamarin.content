@@ -1318,6 +1318,16 @@
       ]
     },
     {
+      "Name": "Jacqueline Ong",
+      "Id": "https://www.linkedin.com/in/jaosy/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.linkedin.com/in/jaosy/"
+        }
+      ]
+    },
+    {
       "Name": "Jacqueline Widdis",
       "Id": "https://devblogs.microsoft.com/visualstudio/author/jawiddismicrosoft-com/",
       "Aliases": [
@@ -1930,7 +1940,8 @@
           "Type": "twitter",
           "Name": "https://twitter.com/mrcndrw"
         }
-      ]
+      ],
+      "Website": "https://marcandrew.me/"
     },
     {
       "Name": "Marc Bruins",
@@ -3131,6 +3142,16 @@
         {
           "Type": "blog",
           "Name": "http://www.screensizes.app/"
+        }
+      ]
+    },
+    {
+      "Name": "Toby Field",
+      "Id": "https://www.linkedin.com/in/toby-field-589a46205/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.linkedin.com/in/toby-field-589a46205/"
         }
       ]
     },

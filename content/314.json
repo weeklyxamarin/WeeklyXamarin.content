@@ -1,0 +1,155 @@
+{
+  "Id": "314",
+  "Name": "Issue 314",
+  "UpdatedTimeStamp": "2021-08-01T06:21:56Z",
+  "Summary": "Testing, DevOps, MAUI!",
+  "Introduction": "G'day We have some good devops and testing articles in this weeks edition. We are also seeing more and more articles on MAUI, which tells me it's probably time to start really digging into all the MAUI goodness.  Kym",
+  "PublishDate": "2021-08-01T06:21:54Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "UI & UX Micro-Tips: Volume Eight",
+      "Url": "https://marcandrew.me/ui-ux-micro-tips-volume-eight/",
+      "Description": "Marc continues his series of easy to put into practice UI & UX micro-tips.",
+      "EditionId": "314",
+      "Author": "Marc Andrew",
+      "Id": "314-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Using Xamarin.UITest with Accessible Xamarin.Forms Apps",
+      "Url": "https://criticalhittech.com/2021/07/29/using-xamarin-uitest-with-accessible-xamarin-forms-apps/",
+      "Description": "How do you use Xamarin.UITest to test Accessible applications? Look no further, because Jacqueline provides some guidance and tricks to make this work.",
+      "EditionId": "314",
+      "Author": "Jacqueline Ong",
+      "Id": "314-2",
+      "Category": "TESTING"
+    },
+    {
+      "Title": "Cake script for building and deploying Xamarin app",
+      "Url": "https://damianantonowicz.pl/2021/06/24/creating-cake-script-for-building-and-deploying-xamarin-app-part-1-running-unit-tests/",
+      "Description": "Cake allows to write C# scripts for compiling code, running unit tests, copying files/folders, etc. There is built-in support for many tools and many more via addins. This is the start of a blog post series that covers running unit tests, build Xamarin app, deploy app to App Center, deploy app to Google Play Internal, deploy app to Test Flight, run UI tests.",
+      "EditionId": "314",
+      "Author": "Damian Antonowicz",
+      "Id": "314-3",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Xamarin Android Download Manager Advanced Guide",
+      "Url": "https://doumer.me/xamarin-android-download-manager-advanced-guide/",
+      "Description": "This post guides you through using the Xamarin Android Download Manager to download files of all sizes, and monitor download progress.",
+      "EditionId": "314",
+      "Author": "Damien Doumer",
+      "Id": "314-4",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "App Tracking Transparency Permission",
+      "Url": "https://luismts.com/app-tracking-transparency-permission-xamarin-forms-ios/",
+      "Description": "If you have seen a situation where iTunesConnect is not allowing you to submit the app without the AppTrackingTransparency framework implementation check out this blog post.",
+      "EditionId": "314",
+      "Author": "Luis Matos",
+      "Id": "314-5",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Lightweight bottom modal sheets",
+      "Url": "https://xamarinhowto.com/xamarin-forms-lightweight-bottom-sheet-modal/",
+      "Description": "Bottom sheets are becoming increasingly more popular in modern apps including Facebook, Instagram and Microsoft Teams.  This post shows you how you can create a control to display a modal bottom sheet.",
+      "EditionId": "314",
+      "Author": "Toby Field",
+      "Id": "314-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Replicating Fashion UI in Xamarin Forms",
+      "Url": "https://askxammy.com/replicating-fashion-ui-in-xamarin-forms/",
+      "Description": "Leomaris shows how to replicate a nice looking fashion UI (including search header and horizontal collection views) in Xamarin.Forms.",
+      "EditionId": "314",
+      "Author": "Leomaris Reyes",
+      "Id": "314-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Expandable Paragraph Control in Xamarin Forms",
+      "Url": "https://xamgirl.com/expandable-paragraph-control-in-xamarin-forms/",
+      "Description": "Charlin shares how to create an expendable paragraph control to support show/hide text when clicking into a button.",
+      "EditionId": "314",
+      "Author": "Charlin Agramonte",
+      "Id": "314-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "EventAggregator",
+      "Url": "https://bertuzzi.medium.com/o-x-do-xamarin-forms-utilizando-eventaggregator-sem-o-prism-16165b29596b",
+      "Description": "EventAggregation is a useful pattern for providing communication between components without tight coupling.  Many frameworks provide an implementation, in this article, we look at creating your own.",
+      "EditionId": "314",
+      "Author": "Thiago Bertuzzi",
+      "Id": "314-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #18",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-18",
+      "Description": "Sam Basu's weekly wrap-up of all things MAUI!",
+      "EditionId": "314",
+      "Author": "Sam Basu",
+      "Id": "314-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Surfing in MAUI: Xamarin.Forms Renderers vs .NET MAUI Handlers",
+      "Url": "https://youtube.com/watch?v=6PvL398l_y8",
+      "Description": "Sam Basu sat down with Javier Suárez to give an outstanding and very technical talk on Xamarin.Forms Renderers vs .NET MAUI Handlers!",
+      "EditionId": "314",
+      "Author": "Sam Basu",
+      "Id": "314-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 264: .NET MAUI Web with Ooui",
+      "Url": "https://www.mergeconflict.fm/264",
+      "Description": "Open source software funds from Microsoft exist and Ooui was nominated! We talk about the process and how that evolved into contributing to .NET MAUI!",
+      "EditionId": "314",
+      "Author": "Merge Conflict",
+      "Id": "314-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 63: .NET MAUI Preview 6",
+      "Url": "https://nullpointers.io/63/",
+      "Description": "A new preview of .NET 6 and therefore also .NET MAUI is out: preview 6. So of course, we have to talk all about what is new in this preview and what to expect from preview 7.",
+      "EditionId": "314",
+      "Author": "Null Pointers",
+      "Id": "314-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Benefits of .NET MAUI over Xamarin/Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=y7vpGT_bBr8",
+      "Description": "James talks about the advantages are of .NET MAUI over Xamarin and Xamarin.Forms.",
+      "EditionId": "314",
+      "Author": "James Montemagno",
+      "Id": "314-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Pass Data Between ViewModels in FreshMvvm",
+      "Url": "https://www.youtube.com/watch?v=QBtNX0AylKc",
+      "Description": "Gerald continues the series of using FreshMvvm with Xamarin.Forms. This is the last piece to the puzzle - how to pass data between view models.",
+      "EditionId": "314",
+      "Author": "Gerald Versluis",
+      "Id": "314-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Cloudy with a Chance of Mobile: .NET Everywhere with MAUI",
+      "Url": "https://www.youtube.com/watch?v=nPIAiPhKtvc",
+      "Description": "When Micros?oft first launched .NET, the vision was to offer a viable alternative to Java and the JVM - a runtime and associated language(s) that could run anywhere. With MAUI, that original dream is becoming a reality. Whether you're building for cloud, mobile, browser, desktop, IoT devices, servers, embedded systems...the list goes on and on - you can write code in .NET and it will run anywhere. With a dash of .NET, a pinch of Blazor, and a sprinkling of MAUI, you no longer need to React to any funny angles - you can have your .NET cake and eat it too. In this talk, Matt welcomes you into his full stack .NET dream, and shows you how you can build anything in .NET, and run it everywhere.",
+      "EditionId": "314",
+      "Author": "Matt Goldman",
+      "Id": "314-16",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
