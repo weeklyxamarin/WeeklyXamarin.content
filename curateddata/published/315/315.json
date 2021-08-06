@@ -1,0 +1,379 @@
+{
+  "number": 315,
+  "title": "Issue 315",
+  "summary": "Videos, Databases and MAUI Standup!",
+  "url": "https://weeklyxamarin.com/issues/315",
+  "publication_status": "published",
+  "published_at": "2021-08-06T08:13:40+01:00",
+  "updated_at": "2021-08-06T08:13:42+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Friday!</p>\n\n<p>Is it just me, or is the community preferring to create videos over blog posts? This edition is jam-packed full of videos to check out. I would highly recommend checking out the MAUI Community Standup to keep up to date with all the great MAUI stuff heading our way.</p>\n\n<p>Here in Melbourne we are locked down (again) so I guess I'm going to have plenty of time to catch up on video content in between bouts of home-schooling my kids ;-)</p>\n\n<p>Anyway, have a magical weekend.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Friday!\r\n\r\nIs it just me, or is the community preferring to create videos over blog posts? This edition is jam-packed full of videos to check out. I would highly recommend checking out the MAUI Community Standup to keep up to date with all the great MAUI stuff heading our way.\r\n\r\nHere in Melbourne we are locked down (again) so I guess I'm going to have plenty of time to catch up on video content in between bouts of home-schooling my kids ;-)\r\n\r\nAnyway, have a magical weekend.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "RBGcv41",
+          "type": "Link",
+          "title": "How to Design an Unforgettable Splash Screen that Delights Your Users",
+          "url_domain": "uxpin.com",
+          "url": "https://www.uxpin.com/studio/blog/splash-screen/",
+          "description": "<p>A splash screen is an introductory screen user sees when they launch your app. It builds brand identity so learn how to do it right.</p>\n\n<p><a href=\"https://www.uxpin.com/studio/blog/splash-screen/\"><strong>How to Design an Unforgettable Splash Screen that Delights Your Users</strong></a> by <a href=\"https://www.uxpin.com/\">UXPin</a></p>",
+          "description_markdown": "A splash screen is an introductory screen user sees when they launch your app. It builds brand identity so learn how to do it right.\r\n\r\n[**How to Design an Unforgettable Splash Screen that Delights Your Users**](https://www.uxpin.com/studio/blog/splash-screen/) by [UXPin](https://www.uxpin.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "jXdOmqR",
+              "title": "**How to Design an Unforgettable Splash Screen that Delights Your Users**",
+              "url_domain": "uxpin.com",
+              "url": "https://www.uxpin.com/studio/blog/splash-screen/"
+            },
+            {
+              "identifier": "ccGTcW7",
+              "title": "UXPin",
+              "url_domain": "uxpin.com",
+              "url": "https://www.uxpin.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "Ip6trSe",
+          "type": "Link",
+          "title": "NSUserDefaults Lock screen issue on Xamarin iOS",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2021/08/03/nsuserdefaults-lock-screen-issue-on-xamarin-ios/",
+          "description": "<p>Quite an interesting corner case for retrieving preferences when an app launches from the background. You may find an issue where it fails to get values, but this blog post will point you in the right direction.</p>\n\n<p><a href=\"https://www.xamboy.com/2021/08/03/nsuserdefaults-lock-screen-issue-on-xamarin-ios/\"><strong>NSUserDefaults Lock screen issue on Xamarin iOS - Xamboy</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "Quite an interesting corner case for retrieving preferences when an app launches from the background. You may find an issue where it fails to get values, but this blog post will point you in the right direction.\r\n\r\n[**NSUserDefaults Lock screen issue on Xamarin iOS - Xamboy**](https://www.xamboy.com/2021/08/03/nsuserdefaults-lock-screen-issue-on-xamarin-ios/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "55v3eJl",
+              "title": "**NSUserDefaults Lock screen issue on Xamarin iOS - Xamboy**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2021/08/03/nsuserdefaults-lock-screen-issue-on-xamarin-ios/"
+            },
+            {
+              "identifier": "HGCpfGJ",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "Q65UIk2",
+          "type": "Link",
+          "title": "Custom Controls in Xamarin.Forms",
+          "url_domain": "trailheadtechnology.com",
+          "url": "https://trailheadtechnology.com/custom-controls-in-xamarin-forms/",
+          "description": "<p>When we want to reuse some of our user interface elements in a Xamarin.Forms application, one of the best ways to do it is by using custom controls.</p>\n\n<p><a href=\"https://trailheadtechnology.com/custom-controls-in-xamarin-forms/\"><strong>Custom Controls in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/rodrigojuarez\">Rodrigo Juarez</a></p>",
+          "description_markdown": "When we want to reuse some of our user interface elements in a Xamarin.Forms application, one of the best ways to do it is by using custom controls.\r\n\r\n[**Custom Controls in Xamarin.Forms**](https://trailheadtechnology.com/custom-controls-in-xamarin-forms/) by [Rodrigo Juarez](https://twitter.com/rodrigojuarez)",
+          "embedded_links": [
+            {
+              "identifier": "NmR2tP2",
+              "title": "**Custom Controls in Xamarin.Forms**",
+              "url_domain": "trailheadtechnology.com",
+              "url": "https://trailheadtechnology.com/custom-controls-in-xamarin-forms/"
+            },
+            {
+              "identifier": "oAo7oSp",
+              "title": "Rodrigo Juarez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rodrigojuarez"
+            }
+          ]
+        },
+        {
+          "identifier": "gUeGGVv",
+          "type": "Link",
+          "title": "Animations in Xamarin.Forms",
+          "url_domain": "bijington.com",
+          "url": "https://blog.bijington.com/2021/07/29/animations-in-xamarin-forms.html",
+          "description": "<p>During our time building a mobile game with Xamarin.Forms we discovered just how powerful the Animation class in Xamarin.Forms really is!</p>\n\n<p><a href=\"https://blog.bijington.com/2021/07/29/animations-in-xamarin-forms.html\"><strong>Animations in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/bijington\">Shaun Lawrence</a></p>",
+          "description_markdown": "During our time building a mobile game with Xamarin.Forms we discovered just how powerful the Animation class in Xamarin.Forms really is!\r\n\r\n[**Animations in Xamarin.Forms**](https://blog.bijington.com/2021/07/29/animations-in-xamarin-forms.html) by [Shaun Lawrence](https://twitter.com/bijington)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "fs3kx3H",
+              "title": "**Animations in Xamarin.Forms**",
+              "url_domain": "bijington.com",
+              "url": "https://blog.bijington.com/2021/07/29/animations-in-xamarin-forms.html"
+            },
+            {
+              "identifier": "w6o8aC5",
+              "title": "Shaun Lawrence",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bijington"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "dMv9RVj",
+          "type": "Link",
+          "title": "What .NET MAUI Means for Xamarin Developers",
+          "url_domain": "arctouch.com",
+          "url": "https://arctouch.com/blog/maui-xamarin/",
+          "description": "<p>Our Xamarin developers explain how Microsoft’s upcoming .NET MAUI will improve cross-platform app development.</p>\n\n<p><a href=\"https://arctouch.com/blog/maui-xamarin/\"><strong>What .NET MAUI Means for Xamarin Developers | ArcTouch</strong></a> by <a href=\"https://arctouch.com/author/oberdan-ferreira/\">Oberdan Ferreira</a></p>",
+          "description_markdown": "Our Xamarin developers explain how Microsoft’s upcoming .NET MAUI will improve cross-platform app development.\r\n\r\n[**What .NET MAUI Means for Xamarin Developers | ArcTouch**](https://arctouch.com/blog/maui-xamarin/) by [Oberdan Ferreira](https://arctouch.com/author/oberdan-ferreira/)",
+          "embedded_links": [
+            {
+              "identifier": "ClupzQ6",
+              "title": "**What .NET MAUI Means for Xamarin Developers | ArcTouch**",
+              "url_domain": "arctouch.com",
+              "url": "https://arctouch.com/blog/maui-xamarin/"
+            },
+            {
+              "identifier": "4m1vk1P",
+              "title": "Oberdan Ferreira",
+              "url_domain": "arctouch.com",
+              "url": "https://arctouch.com/author/oberdan-ferreira/"
+            }
+          ]
+        },
+        {
+          "identifier": "PlejCLP",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #19",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-19",
+          "description": "<p>Sam continues to give the low-down on all the happenings this week in the MAUI world.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-19\"><strong>Sands of MAUI: Issue #19</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam continues to give the low-down on all the happenings this week in the MAUI world.\r\n\r\n[**Sands of MAUI: Issue #19**](https://www.telerik.com/blogs/sands-maui-issue-19) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "zRcm306",
+              "title": "**Sands of MAUI: Issue #19**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-19"
+            },
+            {
+              "identifier": "hgLSYw0",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "2UdgWaf",
+          "type": "Link",
+          "title": "Add Databases to Your App",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=uxqQqyuZ3Qo",
+          "description": "<p>A local database can make working with data much easier. In this video we will learn how to get started with SQLite and Xamarin.Forms/.NET MAUI. A lightweight database that allows for basic CRUD operations on the users' device. All this and more in this Xamarin SQLite tutorial.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=uxqQqyuZ3Qo\"><strong>Add Databases to Your App with this Xamarin SQLite Tutorial</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "A local database can make working with data much easier. In this video we will learn how to get started with SQLite and Xamarin.Forms/.NET MAUI. A lightweight database that allows for basic CRUD operations on the users' device. All this and more in this Xamarin SQLite tutorial.\r\n\r\n[**Add Databases to Your App with this Xamarin SQLite Tutorial**](https://www.youtube.com/watch?v=uxqQqyuZ3Qo) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "3PbeEas",
+              "title": "**Add Databases to Your App with this Xamarin SQLite Tutorial**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=uxqQqyuZ3Qo"
+            },
+            {
+              "identifier": "H4Yl6KJ",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "29TQGeM",
+          "type": "Link",
+          "title": "CRUD Operations with SQLite for Xamarin.Forms and .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=8_cqUvriwM8",
+          "description": "<p>In this video we will learn how to create, read, update and delete but also how to manually write queries and use LINQ!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=8_cqUvriwM8\"><strong>CRUD Operations with SQLite for Xamarin.Forms and .NET MAUI</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "In this video we will learn how to create, read, update and delete but also how to manually write queries and use LINQ!\r\n\r\n[**CRUD Operations with SQLite for Xamarin.Forms and .NET MAUI**](https://www.youtube.com/watch?v=8_cqUvriwM8) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "8tiX331",
+              "title": "**CRUD Operations with SQLite for Xamarin.Forms and .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=8_cqUvriwM8"
+            },
+            {
+              "identifier": "k3mVWkm",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "KxEcVIz",
+          "type": "Link",
+          "title": "Building a Mobile Podcast App - Part 7",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=NC1xDdy5z1o",
+          "description": "<p>Carl Franklin continues his series on building a mobile podcast application. This time he adds the ability to add and remove shows from the playlist.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=NC1xDdy5z1o\"><strong>Building a Mobile Podcast App Pt 7: The .NET Show with Carl Franklin Ep 9</strong></a> by <a href=\"https://twitter.com/carlfranklin\">Carl Franklin</a></p>",
+          "description_markdown": "Carl Franklin continues his series on building a mobile podcast application. This time he adds the ability to add and remove shows from the playlist.\r\n\r\n[**Building a Mobile Podcast App Pt 7: The .NET Show with Carl Franklin Ep 9**](https://www.youtube.com/watch?v=NC1xDdy5z1o) by [Carl Franklin](https://twitter.com/carlfranklin)",
+          "embedded_links": [
+            {
+              "identifier": "cFDefzF",
+              "title": "**Building a Mobile Podcast App Pt 7: The .NET Show with Carl Franklin Ep 9**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=NC1xDdy5z1o"
+            },
+            {
+              "identifier": "JtFBILo",
+              "title": "Carl Franklin",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/carlfranklin"
+            }
+          ]
+        },
+        {
+          "identifier": "fyRctwu",
+          "type": "Link",
+          "title": "Customizing Controls with Handlers in .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=_9dz7BUoxT8",
+          "description": "<p>UI controls in .NET MAUI are rendered via handlers, lightweight classes that map properties and features to bite-sized implementations. In this video we will learn how to override the default .NET MAUI handler behavior to tweak the native controls to our liking. Spoiler alert: much easier than Xamarin.Forms Custom Renderers!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=_9dz7BUoxT8\"><strong>Customizing Controls with Handlers in .NET MAUI</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "UI controls in .NET MAUI are rendered via handlers, lightweight classes that map properties and features to bite-sized implementations. In this video we will learn how to override the default .NET MAUI handler behavior to tweak the native controls to our liking. Spoiler alert: much easier than Xamarin.Forms Custom Renderers!\r\n\r\n[**Customizing Controls with Handlers in .NET MAUI**](https://www.youtube.com/watch?v=_9dz7BUoxT8) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "201wBi7",
+              "title": "**Customizing Controls with Handlers in .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=_9dz7BUoxT8"
+            },
+            {
+              "identifier": "zNI0RQf",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "7I7FhS6",
+          "type": "Link",
+          "title": "Adding a SQLite database to My Cadence",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=P4JNWIKxTbA",
+          "description": "<p>James adds a full database to store and display workouts in his indoor bike app My Cadence. He also looks at bluetooth code, adding a SQLite database, and answers questions live.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=P4JNWIKxTbA\"><strong>Live Stream: Adding a SQLite database to My Cadence</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James adds a full database to store and display workouts in his indoor bike app My Cadence. He also looks at bluetooth code, adding a SQLite database, and answers questions live.\r\n\r\n[**Live Stream: Adding a SQLite database to My Cadence**](https://www.youtube.com/watch?v=P4JNWIKxTbA) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "Z4ioMxo",
+              "title": "**Live Stream: Adding a SQLite database to My Cadence**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=P4JNWIKxTbA"
+            },
+            {
+              "identifier": "TKPnRRz",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "gwzG4ga",
+          "type": "Link",
+          "title": "Merge Conflict: 265: With Maddy Leger",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/265",
+          "description": "<p>James sits down with Maddy Leger, Program Manager for .NET MAUI and Xamarin tooling at Microsoft, to hear about her journey from her first PC to working at one of the world's largest tech companies.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/265\"><strong>Merge Conflict: 265: Robot Engineer turned Program Manager with Maddy Leger</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "James sits down with Maddy Leger, Program Manager for .NET MAUI and Xamarin tooling at Microsoft, to hear about her journey from her first PC to working at one of the world's largest tech companies.\r\n\r\n[**Merge Conflict: 265: Robot Engineer turned Program Manager with Maddy Leger**](https://www.mergeconflict.fm/265) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "uG0Pqha",
+              "title": "**Merge Conflict: 265: Robot Engineer turned Program Manager with Maddy Leger**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/265"
+            },
+            {
+              "identifier": "vBB7MsM",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "jVc4SLm",
+          "type": "Link",
+          "title": "Null Pointers 64: Coding Conventions",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/64/",
+          "description": "<p>We quickly touch upon Visual Studio 2022 for Mac, which is in private preview at the time of recording. Then we face the question as old as time. How can you work with different people on one code base without starting flamewars whenever you review pull requests? We discuss our experiences, helpers and mindsets in this episode.</p>\n\n<p><a href=\"https://nullpointers.io/64/\"><strong>64: Coding Conventions</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "We quickly touch upon Visual Studio 2022 for Mac, which is in private preview at the time of recording. Then we face the question as old as time. How can you work with different people on one code base without starting flamewars whenever you review pull requests? We discuss our experiences, helpers and mindsets in this episode.\r\n\r\n[**64: Coding Conventions**](https://nullpointers.io/64/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "7ji1Srg",
+              "title": "**64: Coding Conventions**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/64/"
+            },
+            {
+              "identifier": "SJpf1Ym",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "5hWw1Cn",
+          "type": "Link",
+          "title": ".NET MAUI Community Standup - Get to MAUI with the .NET Upgrade Assistant ",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=GEsgALjXIBM",
+          "description": "<p>Join Maddy Leger, David Ortinau, and extra special guest Sweeky Satpathy to see how the .NET Upgrade Assistant tool can help you get your Xamarin apps to .NET 6 and .NET MAUI!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=GEsgALjXIBM\"><strong>.NET MAUI Community Standup - Get to MAUI with the .NET Upgrade Assistant feat. Sweeky!</strong></a> by <a href=\"https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg\">Xamarin Developers</a></p>",
+          "description_markdown": "Join Maddy Leger, David Ortinau, and extra special guest Sweeky Satpathy to see how the .NET Upgrade Assistant tool can help you get your Xamarin apps to .NET 6 and .NET MAUI!\r\n\r\n[**.NET MAUI Community Standup - Get to MAUI with the .NET Upgrade Assistant feat. Sweeky!**](https://www.youtube.com/watch?v=GEsgALjXIBM) by [Xamarin Developers](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "tCv5kfg",
+              "title": "**.NET MAUI Community Standup - Get to MAUI with the .NET Upgrade Assistant feat. Sweeky!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=GEsgALjXIBM"
+            },
+            {
+              "identifier": "x26c2xZ",
+              "title": "Xamarin Developers",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

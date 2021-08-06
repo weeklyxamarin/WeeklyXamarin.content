@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "315",
+      "Name": "Issue 315",
+      "UpdatedTimeStamp": "2021-08-06T07:13:42Z",
+      "Summary": "Videos, Databases and MAUI Standup!",
+      "PublishDate": "2021-08-06T07:13:40Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "314",
       "Name": "Issue 314",
       "UpdatedTimeStamp": "2021-08-01T06:21:56Z",
@@ -677,5 +686,5 @@
       "Articles": []
     }
   ],
-  "FetchedDate": "0001-01-01T00:00:00",
+  "FetchedDate": "0001-01-01T00:00:00"
 }

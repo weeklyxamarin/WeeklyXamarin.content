@@ -1,0 +1,137 @@
+{
+  "Id": "315",
+  "Name": "Issue 315",
+  "UpdatedTimeStamp": "2021-08-06T07:13:42Z",
+  "Summary": "Videos, Databases and MAUI Standup!",
+  "Introduction": "Happy Friday! Is it just me, or is the community preferring to create videos over blog posts? This edition is jam-packed full of videos to check out. I would highly recommend checking out the MAUI Community Standup to keep up to date with all the great MAUI stuff heading our way. Here in Melbourne we are locked down (again) so I guess I'm going to have plenty of time to catch up on video content in between bouts of home-schooling my kids ;-) Anyway, have a magical weekend. ❤ Kym",
+  "PublishDate": "2021-08-06T07:13:40Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "How to Design an Unforgettable Splash Screen that Delights Your Users",
+      "Url": "https://www.uxpin.com/studio/blog/splash-screen/",
+      "Description": "A splash screen is an introductory screen user sees when they launch your app. It builds brand identity so learn how to do it right.",
+      "EditionId": "315",
+      "Author": "UXPin",
+      "Id": "315-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "NSUserDefaults Lock screen issue on Xamarin iOS",
+      "Url": "https://www.xamboy.com/2021/08/03/nsuserdefaults-lock-screen-issue-on-xamarin-ios/",
+      "Description": "Quite an interesting corner case for retrieving preferences when an app launches from the background. You may find an issue where it fails to get values, but this blog post will point you in the right direction.",
+      "EditionId": "315",
+      "Author": "Rendy Del Rosario",
+      "Id": "315-2",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Custom Controls in Xamarin.Forms",
+      "Url": "https://trailheadtechnology.com/custom-controls-in-xamarin-forms/",
+      "Description": "When we want to reuse some of our user interface elements in a Xamarin.Forms application, one of the best ways to do it is by using custom controls.",
+      "EditionId": "315",
+      "Author": "Rodrigo Juarez",
+      "Id": "315-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Animations in Xamarin.Forms",
+      "Url": "https://blog.bijington.com/2021/07/29/animations-in-xamarin-forms.html",
+      "Description": "During our time building a mobile game with Xamarin.Forms we discovered just how powerful the Animation class in Xamarin.Forms really is!",
+      "EditionId": "315",
+      "Author": "Shaun Lawrence",
+      "Id": "315-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "What .NET MAUI Means for Xamarin Developers",
+      "Url": "https://arctouch.com/blog/maui-xamarin/",
+      "Description": "Our Xamarin developers explain how Microsoft’s upcoming .NET MAUI will improve cross-platform app development.",
+      "EditionId": "315",
+      "Author": "Oberdan Ferreira",
+      "Id": "315-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #19",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-19",
+      "Description": "Sam continues to give the low-down on all the happenings this week in the MAUI world.",
+      "EditionId": "315",
+      "Author": "Sam Basu",
+      "Id": "315-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Add Databases to Your App",
+      "Url": "https://www.youtube.com/watch?v=uxqQqyuZ3Qo",
+      "Description": "A local database can make working with data much easier. In this video we will learn how to get started with SQLite and Xamarin.Forms/.NET MAUI. A lightweight database that allows for basic CRUD operations on the users' device. All this and more in this Xamarin SQLite tutorial.",
+      "EditionId": "315",
+      "Author": "Gerald Versluis",
+      "Id": "315-7",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "CRUD Operations with SQLite for Xamarin.Forms and .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=8_cqUvriwM8",
+      "Description": "In this video we will learn how to create, read, update and delete but also how to manually write queries and use LINQ!",
+      "EditionId": "315",
+      "Author": "Gerald Versluis",
+      "Id": "315-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Building a Mobile Podcast App - Part 7",
+      "Url": "https://www.youtube.com/watch?v=NC1xDdy5z1o",
+      "Description": "Carl Franklin continues his series on building a mobile podcast application. This time he adds the ability to add and remove shows from the playlist.",
+      "EditionId": "315",
+      "Author": "Carl Franklin",
+      "Id": "315-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Customizing Controls with Handlers in .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=_9dz7BUoxT8",
+      "Description": "UI controls in .NET MAUI are rendered via handlers, lightweight classes that map properties and features to bite-sized implementations. In this video we will learn how to override the default .NET MAUI handler behavior to tweak the native controls to our liking. Spoiler alert: much easier than Xamarin.Forms Custom Renderers!",
+      "EditionId": "315",
+      "Author": "Gerald Versluis",
+      "Id": "315-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Adding a SQLite database to My Cadence",
+      "Url": "https://www.youtube.com/watch?v=P4JNWIKxTbA",
+      "Description": "James adds a full database to store and display workouts in his indoor bike app My Cadence. He also looks at bluetooth code, adding a SQLite database, and answers questions live.",
+      "EditionId": "315",
+      "Author": "James Montemagno",
+      "Id": "315-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 265: With Maddy Leger",
+      "Url": "https://www.mergeconflict.fm/265",
+      "Description": "James sits down with Maddy Leger, Program Manager for .NET MAUI and Xamarin tooling at Microsoft, to hear about her journey from her first PC to working at one of the world's largest tech companies.",
+      "EditionId": "315",
+      "Author": "Merge Conflict",
+      "Id": "315-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 64: Coding Conventions",
+      "Url": "https://nullpointers.io/64/",
+      "Description": "We quickly touch upon Visual Studio 2022 for Mac, which is in private preview at the time of recording. Then we face the question as old as time. How can you work with different people on one code base without starting flamewars whenever you review pull requests? We discuss our experiences, helpers and mindsets in this episode.",
+      "EditionId": "315",
+      "Author": "Null Pointers",
+      "Id": "315-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Standup - Get to MAUI with the .NET Upgrade Assistant ",
+      "Url": "https://www.youtube.com/watch?v=GEsgALjXIBM",
+      "Description": "Join Maddy Leger, David Ortinau, and extra special guest Sweeky Satpathy to see how the .NET Upgrade Assistant tool can help you get your Xamarin apps to .NET 6 and .NET MAUI!",
+      "EditionId": "315",
+      "Author": "Xamarin Developers",
+      "Id": "315-14",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

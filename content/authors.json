@@ -538,6 +538,16 @@
       "Website": "https://cjlotz.github.io"
     },
     {
+      "Name": "Carl Franklin",
+      "Id": "https://twitter.com/carlfranklin",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/carlfranklin"
+        }
+      ]
+    },
+    {
       "Name": "Chaim Gartenberg",
       "Id": "https://www.theverge.com/authors/chaim-gartenberg",
       "Aliases": [
@@ -2394,6 +2404,16 @@
       ]
     },
     {
+      "Name": "Oberdan Ferreira",
+      "Id": "https://arctouch.com/author/oberdan-ferreira/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://arctouch.com/author/oberdan-ferreira/"
+        }
+      ]
+    },
+    {
       "Name": "Patrick Junsay",
       "Id": "https://codesandchips.wordpress.com/author/kirtoy/",
       "Aliases": [
@@ -2682,6 +2702,16 @@
       ]
     },
     {
+      "Name": "Rodrigo Juarez",
+      "Id": "https://twitter.com/rodrigojuarez",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/rodrigojuarez"
+        }
+      ]
+    },
+    {
       "Name": "Roxana Jula",
       "Id": "https://twitter.com/roxanajula",
       "Aliases": [
@@ -2852,6 +2882,16 @@
         {
           "Type": "twitter",
           "Name": "https://twitter.com/pureween"
+        }
+      ]
+    },
+    {
+      "Name": "Shaun Lawrence",
+      "Id": "https://twitter.com/bijington",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/bijington"
         }
       ]
     },
@@ -3245,6 +3285,16 @@
         {
           "Type": "blog",
           "Name": "https://uxtools.co/about/"
+        }
+      ]
+    },
+    {
+      "Name": "UXPin",
+      "Id": "https://www.uxpin.com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.uxpin.com/"
         }
       ]
     },
