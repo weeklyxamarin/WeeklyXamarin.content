@@ -1,0 +1,408 @@
+{
+  "number": 316,
+  "title": "Issue 316",
+  "summary": "MAUI Preview 7 - Let's go!",
+  "url": "https://weeklyxamarin.com/issues/316",
+  "publication_status": "published",
+  "published_at": "2021-08-15T13:42:06+01:00",
+  "updated_at": "2021-08-15T13:42:08+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>The big news this week is MAUI Preview 7 has been released, and there are some good summary items in this weeks edition. For those of you holding off on starting with MAUI, now might be just the time to get going.</p>\n\n<p>Here in Australia we are still in lockdown, which is a bit sad, but hopefully you have a good week ahead catching up with the latest Xamarin / MAUI news.</p>\n\n<p>Till next week, stay safe.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "The big news this week is MAUI Preview 7 has been released, and there are some good summary items in this weeks edition. For those of you holding off on starting with MAUI, now might be just the time to get going.\r\n\r\nHere in Australia we are still in lockdown, which is a bit sad, but hopefully you have a good week ahead catching up with the latest Xamarin / MAUI news.\r\n\r\nTill next week, stay safe.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "JTBWTMe",
+          "type": "Link",
+          "title": "9 Principles of Mobile App Design",
+          "url_domain": "uxpin.com",
+          "url": "https://www.uxpin.com/studio/blog/principles-mobile-app-design/",
+          "description": "<p>Discover these 9 principles of mobile app design and see how you can incorporate them into your design work.</p>\n\n<p><a href=\"https://www.uxpin.com/studio/blog/principles-mobile-app-design/\"><strong>9 Principles of Mobile App Design</strong></a> by <a href=\"https://www.uxpin.com/\">UXPin</a></p>",
+          "description_markdown": "Discover these 9 principles of mobile app design and see how you can incorporate them into your design work.\r\n\r\n[**9 Principles of Mobile App Design**](https://www.uxpin.com/studio/blog/principles-mobile-app-design/) by [UXPin](https://www.uxpin.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "FRGmACg",
+              "title": "**9 Principles of Mobile App Design**",
+              "url_domain": "uxpin.com",
+              "url": "https://www.uxpin.com/studio/blog/principles-mobile-app-design/"
+            },
+            {
+              "identifier": "5EfzKXI",
+              "title": "UXPin",
+              "url_domain": "uxpin.com",
+              "url": "https://www.uxpin.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "2ejsctU",
+          "type": "Link",
+          "title": "How to publish to play store with aab format",
+          "url_domain": "informaticapressapochista.com",
+          "url": "https://www.informaticapressapochista.com/it/127-xamarin-come-pubblicare-su-play-store-con-formato-aab.html",
+          "description": "<p>Google has changed the format with which you can submit apps to its store: the old apk format retires in favor of the new and sparkling aab.</p>\n\n<p><a href=\"https://www.informaticapressapochista.com/it/127-xamarin-come-pubblicare-su-play-store-con-formato-aab.html\"><strong>How to publish to play store with aab format</strong></a> by <a href=\"https://twitter.com/GiampaoloTUCCI\">Giampaolo Tucci</a></p>",
+          "description_markdown": "Google has changed the format with which you can submit apps to its store: the old apk format retires in favor of the new and sparkling aab.\r\n\r\n[**How to publish to play store with aab format**](https://www.informaticapressapochista.com/it/127-xamarin-come-pubblicare-su-play-store-con-formato-aab.html) by [Giampaolo Tucci](https://twitter.com/GiampaoloTUCCI)",
+          "embedded_links": [
+            {
+              "identifier": "1TgWePx",
+              "title": "**How to publish to play store with aab format**",
+              "url_domain": "informaticapressapochista.com",
+              "url": "https://www.informaticapressapochista.com/it/127-xamarin-come-pubblicare-su-play-store-con-formato-aab.html"
+            },
+            {
+              "identifier": "xjPwAUW",
+              "title": "Giampaolo Tucci",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/GiampaoloTUCCI"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "mac",
+      "name": "MAC",
+      "items": [
+        {
+          "identifier": "TdUsiCV",
+          "type": "Link",
+          "title": "Long-running Operations on macOS and iOS with NSProcessInfo",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/long-running-processes-ios-macos-nsprocessinfo/",
+          "description": "<p>Using NSProcessInfo you can easily start and end long running processes through activities on iOS and macOS.</p>\n\n<p><a href=\"https://montemagno.com/long-running-processes-ios-macos-nsprocessinfo/\"><strong>Long-running Operations on macOS and iOS with NSProcessInfo</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Using NSProcessInfo you can easily start and end long running processes through activities on iOS and macOS.\r\n\r\n[**Long-running Operations on macOS and iOS with NSProcessInfo**](https://montemagno.com/long-running-processes-ios-macos-nsprocessinfo/) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "yMKT0nM",
+              "title": "**Long-running Operations on macOS and iOS with NSProcessInfo**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/long-running-processes-ios-macos-nsprocessinfo/"
+            },
+            {
+              "identifier": "CMdNaBQ",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "dROccts",
+          "type": "Link",
+          "title": "Adding Shadows with Xamarin Community Toolkit",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/adding-shadows-with-xamarin-community-toolkit/",
+          "description": "<p>Shadows can help add a little depth to your UI's, but they are hard to implement cross platform. And that's where the Shadows feature of Xamarin Community Toolkit can help out.</p>\n\n<p><a href=\"https://askxammy.com/adding-shadows-with-xamarin-community-toolkit/\"><strong>Adding Shadows with Xamarin Community Toolkit</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Shadows can help add a little depth to your UI's, but they are hard to implement cross platform. And that's where the Shadows feature of Xamarin Community Toolkit can help out.\r\n\r\n[**Adding Shadows with Xamarin Community Toolkit**](https://askxammy.com/adding-shadows-with-xamarin-community-toolkit/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "SBAit3U",
+              "title": "**Adding Shadows with Xamarin Community Toolkit**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/adding-shadows-with-xamarin-community-toolkit/"
+            },
+            {
+              "identifier": "DTtuL8I",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "Hrs6JzA",
+          "type": "Link",
+          "title": "Handling Device Battery Information With Xamarin Essentials",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/handling-device-battery-information-xamarin-essentials",
+          "description": "<p>Today we’ll learn about working with a device’s battery—charge status, power source and energy-saving mode.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/handling-device-battery-information-xamarin-essentials\"><strong>Handling Device Battery Information With Xamarin Essentials</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Today we’ll learn about working with a device’s battery—charge status, power source and energy-saving mode.\r\n\r\n[**Handling Device Battery Information With Xamarin Essentials**](https://www.telerik.com/blogs/handling-device-battery-information-xamarin-essentials) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "FtX4S3r",
+              "title": "**Handling Device Battery Information With Xamarin Essentials**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/handling-device-battery-information-xamarin-essentials"
+            },
+            {
+              "identifier": "7TmJh63",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "x9eCMtV",
+          "type": "Link",
+          "title": "Learning About Secure Storage Xamarin Essentials",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/learning-about-secure-storage-xamarin-essentials",
+          "description": "<p>In Xamarin Essentials, Secure Storage allows you to save sensitive data, like a password. We'll look at the keychain and keystore of each specific platform.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/learning-about-secure-storage-xamarin-essentials\"><strong>Learning About Secure Storage Xamarin Essentials</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "In Xamarin Essentials, Secure Storage allows you to save sensitive data, like a password. We'll look at the keychain and keystore of each specific platform.\r\n\r\n[**Learning About Secure Storage Xamarin Essentials**](https://www.telerik.com/blogs/learning-about-secure-storage-xamarin-essentials) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "1afshwG",
+              "title": "**Learning About Secure Storage Xamarin Essentials**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/learning-about-secure-storage-xamarin-essentials"
+            },
+            {
+              "identifier": "Ng6DtrV",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "8qOewae",
+          "type": "Link",
+          "title": "Announcing .NET MAUI Preview 7",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-7/",
+          "description": "<p>.NET MAUI (Multi-platform App UI) Preview 7 is now available with new layouts, improved accessibility, font scaling, and more.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-7/\"><strong>Announcing .NET MAUI Preview 7</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/davidortinau/\">David Ortinau</a></p>",
+          "description_markdown": ".NET MAUI (Multi-platform App UI) Preview 7 is now available with new layouts, improved accessibility, font scaling, and more.\r\n\r\n[**Announcing .NET MAUI Preview 7**](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-7/) by [David Ortinau](https://devblogs.microsoft.com/xamarin/author/davidortinau/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "uQWAjMr",
+              "title": "**Announcing .NET MAUI Preview 7**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-7/"
+            },
+            {
+              "identifier": "onpkdqA",
+              "title": "David Ortinau",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/davidortinau/"
+            }
+          ]
+        },
+        {
+          "identifier": "GFRnlhy",
+          "type": "Link",
+          "title": "DevExpress MAUI Preview Controlls (FREE)",
+          "url_domain": "devexpress.com",
+          "url": "https://community.devexpress.com/blogs/mobile/archive/2021/08/10/net-maui-free-early-access-preview-of-collection-view-drawer-tab-view-and-more-for-mobile-development-v21-2.aspx",
+          "description": "<p>It's great to see vendors start to pump out MAUI controls. DevExpress have an early preview which you can have a look at.</p>\n\n<p><a href=\"https://community.devexpress.com/blogs/mobile/archive/2021/08/10/net-maui-free-early-access-preview-of-collection-view-drawer-tab-view-and-more-for-mobile-development-v21-2.aspx\"><strong>.NET MAUI - FREE Early Access Preview of Collection View, Drawer, Tab View and More for Mobile Development (v21.2)</strong></a> by <a href=\"https://www.devexpress.com/\">DevExpress</a></p>",
+          "description_markdown": "It's great to see vendors start to pump out MAUI controls. DevExpress have an early preview which you can have a look at.\r\n\r\n[**.NET MAUI - FREE Early Access Preview of Collection View, Drawer, Tab View and More for Mobile Development (v21.2)**](https://community.devexpress.com/blogs/mobile/archive/2021/08/10/net-maui-free-early-access-preview-of-collection-view-drawer-tab-view-and-more-for-mobile-development-v21-2.aspx) by [DevExpress](https://www.devexpress.com/)",
+          "embedded_links": [
+            {
+              "identifier": "pS0FdsG",
+              "title": "**.NET MAUI - FREE Early Access Preview of Collection View, Drawer, Tab View and More for Mobile Development (v21.2)**",
+              "url_domain": "devexpress.com",
+              "url": "https://community.devexpress.com/blogs/mobile/archive/2021/08/10/net-maui-free-early-access-preview-of-collection-view-drawer-tab-view-and-more-for-mobile-development-v21-2.aspx"
+            },
+            {
+              "identifier": "Ra1opns",
+              "title": "DevExpress",
+              "url_domain": "devexpress.com",
+              "url": "https://www.devexpress.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "41vehOH",
+          "type": "Link",
+          "title": "How to Reuse Xamarin.Forms Custom Renderers in .NET MAUI",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/how-to-reuse-xamarin-forms-custom-renderers-in-net-maui.aspx",
+          "description": "<p>NET MAUI uses handler architecture whereas Xamarin.Forms uses renderer architecture. But don’t worry, .NET MAUI is still compatible with renderers. If you have a big project with complex custom renderers implemented and you have no idea to migrate them into handlers, then this blog post is for you.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/how-to-reuse-xamarin-forms-custom-renderers-in-net-maui.aspx\"><strong>How to Reuse Xamarin.Forms Custom Renderers in .NET MAUI</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "NET MAUI uses handler architecture whereas Xamarin.Forms uses renderer architecture. But don’t worry, .NET MAUI is still compatible with renderers. If you have a big project with complex custom renderers implemented and you have no idea to migrate them into handlers, then this blog post is for you.\r\n\r\n[**How to Reuse Xamarin.Forms Custom Renderers in .NET MAUI**](https://www.syncfusion.com/blogs/post/how-to-reuse-xamarin-forms-custom-renderers-in-net-maui.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)",
+          "embedded_links": [
+            {
+              "identifier": "WaIoZ8F",
+              "title": "**How to Reuse Xamarin.Forms Custom Renderers in .NET MAUI**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/how-to-reuse-xamarin-forms-custom-renderers-in-net-maui.aspx"
+            },
+            {
+              "identifier": "xBx0LOd",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "MzvNK5O",
+          "type": "Link",
+          "title": "Dependency Injection with Microsoft.Extensions in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=abORCOhklUg",
+          "description": "<p>With the Microsoft.Extensions.DependencyInjection package setting up dependency injection becomes a breeze. Additionally, it might already be familiar to you from ASP.NET! Time to see how to add this package to a Xamarin.Forms project and make it work.</p>\n\n<p>While this video uses Xamarin.Forms as a sample project, this should work the same for other .NET projects. In fact, ASP.NET and .NET MAUI already have some bits on board to make the implementation even easier!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=abORCOhklUg\"><strong>Dependency Injection with Microsoft.Extensions in Xamarin.Forms</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "With the Microsoft.Extensions.DependencyInjection package setting up dependency injection becomes a breeze. Additionally, it might already be familiar to you from ASP.NET! Time to see how to add this package to a Xamarin.Forms project and make it work.\r\n\r\nWhile this video uses Xamarin.Forms as a sample project, this should work the same for other .NET projects. In fact, ASP.NET and .NET MAUI already have some bits on board to make the implementation even easier!\r\n\r\n[**Dependency Injection with Microsoft.Extensions in Xamarin.Forms**](https://www.youtube.com/watch?v=abORCOhklUg) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "STEOP22",
+              "title": "**Dependency Injection with Microsoft.Extensions in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=abORCOhklUg"
+            },
+            {
+              "identifier": "I6cBvz5",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "1hSK6sJ",
+          "type": "Link",
+          "title": ".NET MAUI Preview 7: VS2022 Templates and MAUI Blazor Apps",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=-ZTQLI8BZGA",
+          "description": "<p>We're getting close to the first release candidate for .NET MAUI, but first let's check out preview 7. Lots of new goodies: layouts, accessibility, but most importantly: templates in Visual Studio 2022! And one of the templates is a .NET MAUI Blazor App?! Let's learn what this is all about...</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=-ZTQLI8BZGA\"><strong>.NET MAUI Preview 7: VS2022 Templates and MAUI Blazor Apps</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "We're getting close to the first release candidate for .NET MAUI, but first let's check out preview 7. Lots of new goodies: layouts, accessibility, but most importantly: templates in Visual Studio 2022! And one of the templates is a .NET MAUI Blazor App?! Let's learn what this is all about...\r\n\r\n[**.NET MAUI Preview 7: VS2022 Templates and MAUI Blazor Apps**](https://www.youtube.com/watch?v=-ZTQLI8BZGA) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "PqRkR0o",
+              "title": "**.NET MAUI Preview 7: VS2022 Templates and MAUI Blazor Apps**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=-ZTQLI8BZGA"
+            },
+            {
+              "identifier": "roYVZLy",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "KYDSKQV",
+          "type": "Link",
+          "title": "What Happens to Xamarin Traditional With .NET 6 and .NET MAUI?",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Tr4vb9-OQ4I",
+          "description": "<p>With the introduction of .NET 6 and .NET MAUI, will there be a place for Xamarin Traditional aka Xamarin.iOS and Xamarin.Android? Let's find out in this episode of Quick Questions...</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Tr4vb9-OQ4I\"><strong>What Happens to Xamarin Traditional With .NET 6 and .NET MAUI?</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "With the introduction of .NET 6 and .NET MAUI, will there be a place for Xamarin Traditional aka Xamarin.iOS and Xamarin.Android? Let's find out in this episode of Quick Questions...\r\n\r\n[**What Happens to Xamarin Traditional With .NET 6 and .NET MAUI?**](https://www.youtube.com/watch?v=Tr4vb9-OQ4I) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "LuMt0QI",
+              "title": "**What Happens to Xamarin Traditional With .NET 6 and .NET MAUI?**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Tr4vb9-OQ4I"
+            },
+            {
+              "identifier": "i5mNLDM",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "2FfnFq7",
+          "type": "Link",
+          "title": ".NET MAUI Preview 7",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=eF5YcpyzQIo",
+          "description": "<p>It is a new month, which means it is time for a new .NET MAUI Preview! Preview 7 is here with some brand new optimizations for templates, accessibility, layouts, and performance! I walk through some of your most recent questions, full setup on my M1 Mac Book Air with the CLI and VS Code, and then head to my Windows machine and Visual Studio 2022 Preview 3 so tune in!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=eF5YcpyzQIo\"><strong>.NET MAUI Preview 7 - Full Windows &amp; Mac Setup with CLI, VS Code, &amp; Visual Studio 2022</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "It is a new month, which means it is time for a new .NET MAUI Preview! Preview 7 is here with some brand new optimizations for templates, accessibility, layouts, and performance! I walk through some of your most recent questions, full setup on my M1 Mac Book Air with the CLI and VS Code, and then head to my Windows machine and Visual Studio 2022 Preview 3 so tune in!\r\n\r\n[**.NET MAUI Preview 7 - Full Windows & Mac Setup with CLI, VS Code, & Visual Studio 2022**](https://www.youtube.com/watch?v=eF5YcpyzQIo) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "S5rGxJf",
+              "title": "**.NET MAUI Preview 7 - Full Windows & Mac Setup with CLI, VS Code, & Visual Studio 2022**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=eF5YcpyzQIo"
+            },
+            {
+              "identifier": "Lf8sPoT",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "pWFziD9",
+          "type": "Link",
+          "title": "Merge Conflict: 266: How not to architect a database",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/266",
+          "description": "<p>James had an awesome feature request for his app, but it required storing thousands of rows of data. Instead of relying on decades old best practices he decided to roll his own serialization... was that the best? SQLite-net creator Frank lets him have it.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/266\"><strong>Merge Conflict: 266: How not to architect a database</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "James had an awesome feature request for his app, but it required storing thousands of rows of data. Instead of relying on decades old best practices he decided to roll his own serialization... was that the best? SQLite-net creator Frank lets him have it. \r\n\r\n[**Merge Conflict: 266: How not to architect a database**](https://www.mergeconflict.fm/266) by [Merge Conflict](https://www.mergeconflict.fm/)",
+          "embedded_links": [
+            {
+              "identifier": "CQ34Jcb",
+              "title": "**Merge Conflict: 266: How not to architect a database**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/266"
+            },
+            {
+              "identifier": "aEMkEJq",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "LYIRNZB",
+          "type": "Link",
+          "title": "DevTalk 69: Moving from Xamarin.Forms to .NET MAUI. With Maddy Leger",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-69-maddy-leger/",
+          "description": "<p>On this episode of DevTalk I speak to Maddy Leger about moving from Xamarin.Forms to .NET MAUI.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-69-maddy-leger/\"><strong>69: Moving from Xamarin.Forms to .NET MAUI. With Maddy Leger</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk I speak to Maddy Leger about moving from Xamarin.Forms to .NET MAUI.\r\n\r\n[**69: Moving from Xamarin.Forms to .NET MAUI. With Maddy Leger**](https://kerry.lothrop.de/devtalk-69-maddy-leger/) by [Kerry Lothrop](https://twitter.com/kwlothrop)",
+          "embedded_links": [
+            {
+              "identifier": "P2X3lTm",
+              "title": "**69: Moving from Xamarin.Forms to .NET MAUI. With Maddy Leger**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-69-maddy-leger/"
+            },
+            {
+              "identifier": "2vLwUhR",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

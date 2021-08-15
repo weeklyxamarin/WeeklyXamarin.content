@@ -1,0 +1,146 @@
+{
+  "Id": "316",
+  "Name": "Issue 316",
+  "UpdatedTimeStamp": "2021-08-15T12:42:08Z",
+  "Summary": "MAUI Preview 7 - Let's go!",
+  "Introduction": "The big news this week is MAUI Preview 7 has been released, and there are some good summary items in this weeks edition. For those of you holding off on starting with MAUI, now might be just the time to get going. Here in Australia we are still in lockdown, which is a bit sad, but hopefully you have a good week ahead catching up with the latest Xamarin / MAUI news. Till next week, stay safe. ❤ Kym",
+  "PublishDate": "2021-08-15T12:42:06Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "9 Principles of Mobile App Design",
+      "Url": "https://www.uxpin.com/studio/blog/principles-mobile-app-design/",
+      "Description": "Discover these 9 principles of mobile app design and see how you can incorporate them into your design work.",
+      "EditionId": "316",
+      "Author": "UXPin",
+      "Id": "316-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "How to publish to play store with aab format",
+      "Url": "https://www.informaticapressapochista.com/it/127-xamarin-come-pubblicare-su-play-store-con-formato-aab.html",
+      "Description": "Google has changed the format with which you can submit apps to its store: the old apk format retires in favor of the new and sparkling aab.",
+      "EditionId": "316",
+      "Author": "Giampaolo Tucci",
+      "Id": "316-2",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Long-running Operations on macOS and iOS with NSProcessInfo",
+      "Url": "https://montemagno.com/long-running-processes-ios-macos-nsprocessinfo/",
+      "Description": "Using NSProcessInfo you can easily start and end long running processes through activities on iOS and macOS.",
+      "EditionId": "316",
+      "Author": "James Montemagno",
+      "Id": "316-3",
+      "Category": "MAC"
+    },
+    {
+      "Title": "Adding Shadows with Xamarin Community Toolkit",
+      "Url": "https://askxammy.com/adding-shadows-with-xamarin-community-toolkit/",
+      "Description": "Shadows can help add a little depth to your UI's, but they are hard to implement cross platform. And that's where the Shadows feature of Xamarin Community Toolkit can help out.",
+      "EditionId": "316",
+      "Author": "Leomaris Reyes",
+      "Id": "316-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Handling Device Battery Information With Xamarin Essentials",
+      "Url": "https://www.telerik.com/blogs/handling-device-battery-information-xamarin-essentials",
+      "Description": "Today we’ll learn about working with a device’s battery—charge status, power source and energy-saving mode.",
+      "EditionId": "316",
+      "Author": "Leomaris Reyes",
+      "Id": "316-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Learning About Secure Storage Xamarin Essentials",
+      "Url": "https://www.telerik.com/blogs/learning-about-secure-storage-xamarin-essentials",
+      "Description": "In Xamarin Essentials, Secure Storage allows you to save sensitive data, like a password. We'll look at the keychain and keystore of each specific platform.",
+      "EditionId": "316",
+      "Author": "Leomaris Reyes",
+      "Id": "316-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Announcing .NET MAUI Preview 7",
+      "Url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-7/",
+      "Description": ".NET MAUI (Multi-platform App UI) Preview 7 is now available with new layouts, improved accessibility, font scaling, and more.",
+      "EditionId": "316",
+      "Author": "David Ortinau",
+      "Id": "316-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "DevExpress MAUI Preview Controlls (FREE)",
+      "Url": "https://community.devexpress.com/blogs/mobile/archive/2021/08/10/net-maui-free-early-access-preview-of-collection-view-drawer-tab-view-and-more-for-mobile-development-v21-2.aspx",
+      "Description": "It's great to see vendors start to pump out MAUI controls. DevExpress have an early preview which you can have a look at.",
+      "EditionId": "316",
+      "Author": "DevExpress",
+      "Id": "316-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "How to Reuse Xamarin.Forms Custom Renderers in .NET MAUI",
+      "Url": "https://www.syncfusion.com/blogs/post/how-to-reuse-xamarin-forms-custom-renderers-in-net-maui.aspx",
+      "Description": "NET MAUI uses handler architecture whereas Xamarin.Forms uses renderer architecture. But don’t worry, .NET MAUI is still compatible with renderers. If you have a big project with complex custom renderers implemented and you have no idea to migrate them into handlers, then this blog post is for you.",
+      "EditionId": "316",
+      "Author": "Selva Ganapathy Kathiresan",
+      "Id": "316-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Dependency Injection with Microsoft.Extensions in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=abORCOhklUg",
+      "Description": "With the Microsoft.Extensions.DependencyInjection package setting up dependency injection becomes a breeze. Additionally, it might already be familiar to you from ASP.NET! Time to see how to add this package to a Xamarin.Forms project and make it work. While this video uses Xamarin.Forms as a sample project, this should work the same for other .NET projects. In fact, ASP.NET and .NET MAUI already have some bits on board to make the implementation even easier!",
+      "EditionId": "316",
+      "Author": "Gerald Versluis",
+      "Id": "316-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Preview 7: VS2022 Templates and MAUI Blazor Apps",
+      "Url": "https://www.youtube.com/watch?v=-ZTQLI8BZGA",
+      "Description": "We're getting close to the first release candidate for .NET MAUI, but first let's check out preview 7. Lots of new goodies: layouts, accessibility, but most importantly: templates in Visual Studio 2022! And one of the templates is a .NET MAUI Blazor App?! Let's learn what this is all about...",
+      "EditionId": "316",
+      "Author": "Gerald Versluis",
+      "Id": "316-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "What Happens to Xamarin Traditional With .NET 6 and .NET MAUI?",
+      "Url": "https://www.youtube.com/watch?v=Tr4vb9-OQ4I",
+      "Description": "With the introduction of .NET 6 and .NET MAUI, will there be a place for Xamarin Traditional aka Xamarin.iOS and Xamarin.Android? Let's find out in this episode of Quick Questions...",
+      "EditionId": "316",
+      "Author": "Gerald Versluis",
+      "Id": "316-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Preview 7",
+      "Url": "https://www.youtube.com/watch?v=eF5YcpyzQIo",
+      "Description": "It is a new month, which means it is time for a new .NET MAUI Preview! Preview 7 is here with some brand new optimizations for templates, accessibility, layouts, and performance! I walk through some of your most recent questions, full setup on my M1 Mac Book Air with the CLI and VS Code, and then head to my Windows machine and Visual Studio 2022 Preview 3 so tune in!",
+      "EditionId": "316",
+      "Author": "James Montemagno",
+      "Id": "316-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 266: How not to architect a database",
+      "Url": "https://www.mergeconflict.fm/266",
+      "Description": "James had an awesome feature request for his app, but it required storing thousands of rows of data. Instead of relying on decades old best practices he decided to roll his own serialization... was that the best? SQLite-net creator Frank lets him have it.",
+      "EditionId": "316",
+      "Author": "Merge Conflict",
+      "Id": "316-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 69: Moving from Xamarin.Forms to .NET MAUI. With Maddy Leger",
+      "Url": "https://kerry.lothrop.de/devtalk-69-maddy-leger/",
+      "Description": "On this episode of DevTalk I speak to Maddy Leger about moving from Xamarin.Forms to .NET MAUI.",
+      "EditionId": "316",
+      "Author": "Kerry Lothrop",
+      "Id": "316-15",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
