@@ -11,6 +11,16 @@
       ]
     },
     {
+      "Name": ".NET MAUI Podcast",
+      "Id": "https://www.dotnetmauipodcast.com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.dotnetmauipodcast.com/"
+        }
+      ]
+    },
+    {
       "Name": ".NET Rocks!",
       "Id": "https://dotnetrocks.com/",
       "Aliases": [
@@ -454,6 +464,16 @@
         {
           "Type": "blog",
           "Name": "https://devblogs.microsoft.com/xamarin/author/bill-leach/"
+        }
+      ]
+    },
+    {
+      "Name": "Bill Reiss",
+      "Id": "https://twitter.com/billreiss",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/billreiss"
         }
       ]
     },

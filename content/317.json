@@ -1,0 +1,173 @@
+{
+  "Id": "317",
+  "Name": "Issue 317",
+  "UpdatedTimeStamp": "2021-08-22T13:28:27Z",
+  "Summary": "MAUI, Community Toolkits, Security and Accessibility",
+  "Introduction": "Happy Sunday!  Well, I finally got around to installing VS2022 and MAUI this week. Had some success working with Android, but so far not much love on the iOS side of things. I think from here on in, I'm going to start hacking away on MAUI a lot more. Have a great week everyone, ❤ Kym",
+  "PublishDate": "2021-08-22T13:28:23Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Using SafetyNet API in Xamarin.Android",
+      "Url": "https://blog.ostebaronen.dk/2021/08/android-safetynet.html",
+      "Description": "The SafetyNet API allows you to verify that the device your App is running on has not been tampered with. It will check both the hardware and the software to see what the condition it is in.",
+      "EditionId": "317",
+      "Author": "Tomasz Cielecki",
+      "Id": "317-1",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Custom WebView Headers",
+      "Url": "https://xamarinhowto.com/xamarin-forms-custom-webview-headers-ios-wkwebview-android-webview/",
+      "Description": "If you need to pass through custom headers to the WebView then this is post is going to help you out.",
+      "EditionId": "317",
+      "Author": "Toby Field",
+      "Id": "317-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Making Visual Text Accessible",
+      "Url": "https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps-making-visual-text-accessible/",
+      "Description": "While screen readers may entirely replace the visual user interface for some, it is important to remember that they are complementary in many cases.",
+      "EditionId": "317",
+      "Author": "Rachel Kang",
+      "Id": "317-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Using State Machine in Xamarin Forms (Part 1)",
+      "Url": "https://www.xamboy.com/2021/08/17/using-state-machine-in-xamarin-forms-part-1/",
+      "Description": "There is a great .NET library called Stateless, which allow you to use this paradigm to handle states in .NET Apps. In this article Rendy shows you how to use it in a Xamarin Forms App, by handling the states of a video player.",
+      "EditionId": "317",
+      "Author": "Rendy Del Rosario",
+      "Id": "317-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Phone number with mask and validation rules",
+      "Url": "https://luismts.com/phone-number-with-mask-and-validation-rules-in-xamarin-forms/",
+      "Description": "Learn how to apply masks and validation rules to phone number entries in our forms in Xamarin.Forms. The best and fastest way is to use the library Plugin.ValidationRules.",
+      "EditionId": "317",
+      "Author": "Luis Matos",
+      "Id": "317-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": ".NET MAUI and the MVU Pattern",
+      "Url": "http://billreiss.com/2021/08/06/net-maui-and-the-mvu-pattern/",
+      "Description": "MAUI is going to have full support for XAML, but it will also have support for the MVU pattern. In this post, Bill Reiss talks about the both the XAML and MVU story.",
+      "EditionId": "317",
+      "Author": "Bill Reiss",
+      "Id": "317-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #20",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-20",
+      "Description": "Sam keeps us up to date with all things MAUI!",
+      "EditionId": "317",
+      "Author": "Sam Basu",
+      "Id": "317-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": " The New .NET MAUI Podcast",
+      "Url": "https://www.dotnetmauipodcast.com/97",
+      "Description": "Here it is - the first ever .NET MAUI Podcast! Which is you know ... kinda the same old Xamarin Podcast - but new!!",
+      "EditionId": "317",
+      "Author": ".NET MAUI Podcast",
+      "Id": "317-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Ask the Expert: .NET MAUI Community Toolkit",
+      "Url": "https://www.youtube.com/watch?v=IdtCh3oJ6OM",
+      "Description": "The new .NET MAUI Community Toolkit is a collection of common elements for development with .NET MAUI that people tend to replicate across multiple apps. It simplifies and demonstrates common developer tasks when building apps with .NET MAUI. Like the Xamarin Community Toolkit, the .NET MAUI Community Toolkit is fully open-source and community supported! Come chat with some of the toolkit's contributors and get your questions answered!",
+      "EditionId": "317",
+      "Author": "Microsoft Developer",
+      "Id": "317-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "From Code-Behind Code to MVVM with XAML and C",
+      "Url": "https://www.youtube.com/watch?v=AzGrLAh-ltY",
+      "Description": "You might've heard about MVVM, maybe even grasp the basic concept but how do you move your first code from your code-behind to an actual view model and start using the MVVM pattern? I will show you with a simple example with Xamarin.Forms in this video, but this can be applied to any basically language!",
+      "EditionId": "317",
+      "Author": "Gerald Versluis",
+      "Id": "317-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Using/Converting Xamarin.Forms Behaviors in .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=Ji_f4C1nQo8",
+      "Description": "In this video we will learn how use behaviors in .NET MAUI and also how to take your Xamarin.Forms behavior and convert that into a .NET MAUI behavior. The outcome will surprise you!",
+      "EditionId": "317",
+      "Author": "Gerald Versluis",
+      "Id": "317-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Will Xamarin Essentials be Part of .NET MAUI or .NET 6?",
+      "Url": "https://www.youtube.com/watch?v=90vVn96D8ew",
+      "Description": "We can't live without Xamarin.Essentials anymore, but do we have to? In this episode we will answer the question: will there be a Xamarin.Essentials in .NET 6 and .NET MAUI? Tune in...",
+      "EditionId": "317",
+      "Author": "Gerald Versluis",
+      "Id": "317-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "How much code behind is Okay?",
+      "Url": "https://www.youtube.com/watch?v=d8bP2zZeKUA",
+      "Description": "It is the age old question... how much code in your code behind is okay to have? Everyone is different and in this live stream highlight I give my opinion when it comes to MVVM and my Xamarin.Forms development.",
+      "EditionId": "317",
+      "Author": "James Montemagno",
+      "Id": "317-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 267: Hacking Onewheel Bluetooth",
+      "Url": "https://www.mergeconflict.fm/267",
+      "Description": "Frank is at it again with a new and awesome Bluetooth application, this time for the Apple Watch that displays his Onewheel information in real time! He breaks down the inspiration and how he got it working!",
+      "EditionId": "317",
+      "Author": "Merge Conflict",
+      "Id": "317-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 66: After-Holiday Updates!",
+      "Url": "https://nullpointers.io/66/",
+      "Description": "The team come back from holidays and catch up on! .NET MAUI, Visual Studio, all the things!",
+      "EditionId": "317",
+      "Author": "Null Pointers",
+      "Id": "317-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Toolkit - Monthly Standup",
+      "Url": "https://www.youtube.com/watch?v=0ZBh2Hl54ZY",
+      "Description": "Not sure how I missed this, but this is the first monthly livestream of. the .NET MAUI Community Toolkit Standup! We will be sharing our work on the Xamarin Community Toolkit + MAUI Community Toolkit and our plans for the next few months!",
+      "EditionId": "317",
+      "Author": ".NET Foundation",
+      "Id": "317-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The .NET Docs Show - Xamarin Community Toolkit Update",
+      "Url": "https://www.youtube.com/watch?v=XUB8Fjble5c",
+      "Description": "In this weeks, show, Gerald Versluis joins the panel to give us a look at what's new and interesting in Xamarin Community Toolkit and where it's going next.",
+      "EditionId": "317",
+      "Author": "dotNet Youtube Channel",
+      "Id": "317-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Telerik adds a DataGrid and Entry for MAUI",
+      "Url": "https://www.telerik.com/blogs/only-thing-better-vacation-maui-datagrid-dotnet-maui",
+      "Description": "Telerik Summer Release for MAUI: DataGrid, Entry & Preview 7 Support",
+      "EditionId": "317",
+      "Author": "Telerik",
+      "Id": "317-18",
+      "Category": "RELEASES"
+    }
+  ]
+}

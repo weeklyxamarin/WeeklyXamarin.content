@@ -1,0 +1,471 @@
+{
+  "number": 317,
+  "title": "Issue 317",
+  "summary": "MAUI, Community Toolkits, Security and Accessibility",
+  "url": "https://weeklyxamarin.com/issues/317",
+  "publication_status": "published",
+  "published_at": "2021-08-22T14:28:23+01:00",
+  "updated_at": "2021-08-22T14:28:27+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Happy Sunday!</p>\n\n<p>Well, I finally got around to installing VS2022 and MAUI this week. Had some success working with Android, but so far not much love on the iOS side of things. I think from here on in, I'm going to start hacking away on MAUI a lot more.</p>\n\n<p>Have a great week everyone,</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Happy Sunday! \r\n\r\nWell, I finally got around to installing VS2022 and MAUI this week. Had some success working with Android, but so far not much love on the iOS side of things. I think from here on in, I'm going to start hacking away on MAUI a lot more.\r\n\r\nHave a great week everyone,\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "8MpZKdy",
+          "type": "Link",
+          "title": "Using SafetyNet API in Xamarin.Android",
+          "url_domain": "ostebaronen.dk",
+          "url": "https://blog.ostebaronen.dk/2021/08/android-safetynet.html",
+          "description": "<p>The SafetyNet API allows you to verify that the device your App is running on has not been tampered with. It will check both the hardware and the software to see what the condition it is in.</p>\n\n<p><a href=\"https://blog.ostebaronen.dk/2021/08/android-safetynet.html\"><strong>Using SafetyNet API in Xamarin.Android</strong></a> by <a href=\"https://twitter.com/cheesebaron\">Tomasz Cielecki</a></p>",
+          "description_markdown": "The SafetyNet API allows you to verify that the device your App is running on has not been tampered with. It will check both the hardware and the software to see what the condition it is in. \r\n\r\n[**Using SafetyNet API in Xamarin.Android**](https://blog.ostebaronen.dk/2021/08/android-safetynet.html) by [Tomasz Cielecki](https://twitter.com/cheesebaron)",
+          "embedded_links": [
+            {
+              "identifier": "QojVztw",
+              "title": "**Using SafetyNet API in Xamarin.Android**",
+              "url_domain": "ostebaronen.dk",
+              "url": "https://blog.ostebaronen.dk/2021/08/android-safetynet.html"
+            },
+            {
+              "identifier": "kY24uQQ",
+              "title": "Tomasz Cielecki",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/cheesebaron"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "xTiUFNF",
+          "type": "Link",
+          "title": "Custom WebView Headers",
+          "url_domain": "xamarinhowto.com",
+          "url": "https://xamarinhowto.com/xamarin-forms-custom-webview-headers-ios-wkwebview-android-webview/",
+          "description": "<p>If you need to pass through custom headers to the WebView then this is post is going to help you out.</p>\n\n<p><a href=\"https://xamarinhowto.com/xamarin-forms-custom-webview-headers-ios-wkwebview-android-webview/\"><strong>Xamarin.Forms Custom WebView Headers (iOS WKWebView + Android WebView)</strong></a> by <a href=\"https://www.linkedin.com/in/toby-field-589a46205/\">Toby Field</a></p>",
+          "description_markdown": "If you need to pass through custom headers to the WebView then this is post is going to help you out.\r\n\r\n[**Xamarin.Forms Custom WebView Headers (iOS WKWebView + Android WebView)**](https://xamarinhowto.com/xamarin-forms-custom-webview-headers-ios-wkwebview-android-webview/) by [Toby Field](https://www.linkedin.com/in/toby-field-589a46205/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "CkYegMr",
+              "title": "**Xamarin.Forms Custom WebView Headers (iOS WKWebView + Android WebView)**",
+              "url_domain": "xamarinhowto.com",
+              "url": "https://xamarinhowto.com/xamarin-forms-custom-webview-headers-ios-wkwebview-android-webview/"
+            },
+            {
+              "identifier": "oqpLvLp",
+              "title": "Toby Field",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/toby-field-589a46205/"
+            }
+          ]
+        },
+        {
+          "identifier": "bsgMfWs",
+          "type": "Link",
+          "title": "Making Visual Text Accessible",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps-making-visual-text-accessible/",
+          "description": "<p>While screen readers may entirely replace the visual user interface for some, it is important to remember that they are complementary in many cases.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps-making-visual-text-accessible/\"><strong>The Journey to Accessible Apps: Making Visual Text Accessible</strong></a> by <a href=\"https://github.com/rachelkang\">Rachel Kang</a></p>",
+          "description_markdown": "While screen readers may entirely replace the visual user interface for some, it is important to remember that they are complementary in many cases.\r\n\r\n[**The Journey to Accessible Apps: Making Visual Text Accessible**](https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps-making-visual-text-accessible/) by [Rachel Kang](https://github.com/rachelkang)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "zuA0dG4",
+              "title": "**The Journey to Accessible Apps: Making Visual Text Accessible**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps-making-visual-text-accessible/"
+            },
+            {
+              "identifier": "DqC5av7",
+              "title": "Rachel Kang",
+              "url_domain": "github.com",
+              "url": "https://github.com/rachelkang"
+            }
+          ]
+        },
+        {
+          "identifier": "KnEev8S",
+          "type": "Link",
+          "title": "Using State Machine in Xamarin Forms (Part 1)",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2021/08/17/using-state-machine-in-xamarin-forms-part-1/",
+          "description": "<p>There is a great .NET library called Stateless, which allow you to use this paradigm to handle states in .NET Apps. In this article Rendy shows you how to use it in a Xamarin Forms App, by handling the states of a video player.</p>\n\n<p><a href=\"https://www.xamboy.com/2021/08/17/using-state-machine-in-xamarin-forms-part-1/\"><strong>Using State Machine in Xamarin Forms (Part 1) - Xamboy</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "There is a great .NET library called Stateless, which allow you to use this paradigm to handle states in .NET Apps. In this article Rendy shows you how to use it in a Xamarin Forms App, by handling the states of a video player.\r\n\r\n[**Using State Machine in Xamarin Forms (Part 1) - Xamboy**](https://www.xamboy.com/2021/08/17/using-state-machine-in-xamarin-forms-part-1/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "V9QPnlk",
+              "title": "**Using State Machine in Xamarin Forms (Part 1) - Xamboy**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2021/08/17/using-state-machine-in-xamarin-forms-part-1/"
+            },
+            {
+              "identifier": "WvNAosZ",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        },
+        {
+          "identifier": "Mw7oQMn",
+          "type": "Link",
+          "title": "Phone number with mask and validation rules",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/phone-number-with-mask-and-validation-rules-in-xamarin-forms/",
+          "description": "<p>Learn how to apply masks and validation rules to phone number entries in our forms in Xamarin.Forms. The best and fastest way is to use the library Plugin.ValidationRules.</p>\n\n<p><a href=\"https://luismts.com/phone-number-with-mask-and-validation-rules-in-xamarin-forms/\"><strong>Phone number with mask and validation rules in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Learn how to apply masks and validation rules to phone number entries in our forms in Xamarin.Forms. The best and fastest way is to use the library Plugin.ValidationRules.\r\n\r\n[**Phone number with mask and validation rules in Xamarin Forms**](https://luismts.com/phone-number-with-mask-and-validation-rules-in-xamarin-forms/) by [Luis Matos](https://twitter.com/luismatosluna)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "NP0AdhN",
+              "title": "**Phone number with mask and validation rules in Xamarin Forms**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/phone-number-with-mask-and-validation-rules-in-xamarin-forms/"
+            },
+            {
+              "identifier": "eWNYU1l",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "oVElY8e",
+          "type": "Link",
+          "title": ".NET MAUI and the MVU Pattern",
+          "url_domain": "billreiss.com",
+          "url": "http://billreiss.com/2021/08/06/net-maui-and-the-mvu-pattern/",
+          "description": "<p>MAUI is going to have full support for XAML, but it will also have support for the MVU pattern. In this post, Bill Reiss talks about the both the XAML and MVU story.</p>\n\n<p><a href=\"http://billreiss.com/2021/08/06/net-maui-and-the-mvu-pattern/\"><strong>.NET MAUI and the MVU Pattern</strong></a> by <a href=\"https://twitter.com/billreiss\">Bill Reiss</a></p>",
+          "description_markdown": "MAUI is going to have full support for XAML, but it will also have support for the MVU pattern. In this post, Bill Reiss talks about the both the XAML and MVU story.\r\n\r\n[**.NET MAUI and the MVU Pattern**](http://billreiss.com/2021/08/06/net-maui-and-the-mvu-pattern/) by [Bill Reiss](https://twitter.com/billreiss)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "MAMc2s7",
+              "title": "**.NET MAUI and the MVU Pattern**",
+              "url_domain": "billreiss.com",
+              "url": "http://billreiss.com/2021/08/06/net-maui-and-the-mvu-pattern/"
+            },
+            {
+              "identifier": "GSlaKlz",
+              "title": "Bill Reiss",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/billreiss"
+            }
+          ]
+        },
+        {
+          "identifier": "5VRmyYV",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #20",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-20",
+          "description": "<p>Sam keeps us up to date with all things MAUI!</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-20\"><strong>Sands of MAUI: Issue #20</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam keeps us up to date with all things MAUI!\r\n\r\n[**Sands of MAUI: Issue #20**](https://www.telerik.com/blogs/sands-maui-issue-20) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)",
+          "embedded_links": [
+            {
+              "identifier": "a8UQNgU",
+              "title": "**Sands of MAUI: Issue #20**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-20"
+            },
+            {
+              "identifier": "t8tZMR3",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "r7wi8k2",
+          "type": "Link",
+          "title": " The New .NET MAUI Podcast",
+          "url_domain": "dotnetmauipodcast.com",
+          "url": "https://www.dotnetmauipodcast.com/97",
+          "description": "<p>Here it is - the first ever .NET MAUI Podcast! Which is you know ... kinda the same old Xamarin Podcast - but new!!</p>\n\n<p><a href=\"https://www.dotnetmauipodcast.com/97\"><strong>The .NET MAUI Podcast Episode 97: The New .NET MAUI Podcast</strong></a> by <a href=\"https://www.dotnetmauipodcast.com\">.NET MAUI Podcast</a></p>",
+          "description_markdown": "Here it is - the first ever .NET MAUI Podcast! Which is you know ... kinda the same old Xamarin Podcast - but new!!\r\n\r\n[**The .NET MAUI Podcast Episode 97: The New .NET MAUI Podcast**](https://www.dotnetmauipodcast.com/97) by [.NET MAUI Podcast](https://www.dotnetmauipodcast.com)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "XvksC6r",
+              "title": "**The .NET MAUI Podcast Episode 97: The New .NET MAUI Podcast**",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/97"
+            },
+            {
+              "identifier": "NWKa4F2",
+              "title": ".NET MAUI Podcast",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com"
+            }
+          ]
+        },
+        {
+          "identifier": "Yd28jAr",
+          "type": "Link",
+          "title": "Ask the Expert: .NET MAUI Community Toolkit",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=IdtCh3oJ6OM",
+          "description": "<p>The new .NET MAUI Community Toolkit is a collection of common elements for development with .NET MAUI that people tend to replicate across multiple apps. It simplifies and demonstrates common developer tasks when building apps with .NET MAUI. Like the Xamarin Community Toolkit, the .NET MAUI Community Toolkit is fully open-source and community supported! Come chat with some of the toolkit's contributors and get your questions answered!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=IdtCh3oJ6OM\"><strong>Ask the Expert: .NET MAUI Community Toolkit</strong></a> by <a href=\"https://www.youtube.com/channel/ucsmica-v34irf9kvth6xx-g\">Microsoft Developer</a></p>",
+          "description_markdown": "The new .NET MAUI Community Toolkit is a collection of common elements for development with .NET MAUI that people tend to replicate across multiple apps. It simplifies and demonstrates common developer tasks when building apps with .NET MAUI. Like the Xamarin Community Toolkit, the .NET MAUI Community Toolkit is fully open-source and community supported! Come chat with some of the toolkit's contributors and get your questions answered!\r\n\r\n[**Ask the Expert: .NET MAUI Community Toolkit**](https://www.youtube.com/watch?v=IdtCh3oJ6OM) by [Microsoft Developer](https://www.youtube.com/channel/ucsmica-v34irf9kvth6xx-g)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "3EQACiJ",
+              "title": "**Ask the Expert: .NET MAUI Community Toolkit**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=IdtCh3oJ6OM"
+            },
+            {
+              "identifier": "YHPJ0yJ",
+              "title": "Microsoft Developer",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/ucsmica-v34irf9kvth6xx-g"
+            }
+          ]
+        },
+        {
+          "identifier": "Tt5NDHo",
+          "type": "Link",
+          "title": "From Code-Behind Code to MVVM with XAML and C",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=AzGrLAh-ltY",
+          "description": "<p>You might've heard about MVVM, maybe even grasp the basic concept but how do you move your first code from your code-behind to an actual view model and start using the MVVM pattern? I will show you with a simple example with Xamarin.Forms in this video, but this can be applied to any basically language!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=AzGrLAh-ltY\"><strong>From Code-Behind Code to MVVM with XAML and C#</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "You might've heard about MVVM, maybe even grasp the basic concept but how do you move your first code from your code-behind to an actual view model and start using the MVVM pattern? I will show you with a simple example with Xamarin.Forms in this video, but this can be applied to any basically language!\r\n\r\n[**From Code-Behind Code to MVVM with XAML and C#**](https://www.youtube.com/watch?v=AzGrLAh-ltY) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "6yq1qqQ",
+              "title": "**From Code-Behind Code to MVVM with XAML and C#**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=AzGrLAh-ltY"
+            },
+            {
+              "identifier": "9lxOcNt",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "8j7mz0Y",
+          "type": "Link",
+          "title": "Using/Converting Xamarin.Forms Behaviors in .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Ji_f4C1nQo8",
+          "description": "<p>In this video we will learn how use behaviors in .NET MAUI and also how to take your Xamarin.Forms behavior and convert that into a .NET MAUI behavior. The outcome will surprise you!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Ji_f4C1nQo8\"><strong>Using/Converting Xamarin.Forms Behaviors in .NET MAUI</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "In this video we will learn how use behaviors in .NET MAUI and also how to take your Xamarin.Forms behavior and convert that into a .NET MAUI behavior. The outcome will surprise you!\r\n\r\n[**Using/Converting Xamarin.Forms Behaviors in .NET MAUI**](https://www.youtube.com/watch?v=Ji_f4C1nQo8) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "xV5c9lE",
+              "title": "**Using/Converting Xamarin.Forms Behaviors in .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Ji_f4C1nQo8"
+            },
+            {
+              "identifier": "52ESzmN",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "MtrIaBb",
+          "type": "Link",
+          "title": "Will Xamarin Essentials be Part of .NET MAUI or .NET 6?",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=90vVn96D8ew",
+          "description": "<p>We can't live without Xamarin.Essentials anymore, but do we have to? In this episode we will answer the question: will there be a Xamarin.Essentials in .NET 6 and .NET MAUI? Tune in...</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=90vVn96D8ew\"><strong>Will Xamarin Essentials be Part of .NET MAUI or .NET 6?</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "We can't live without Xamarin.Essentials anymore, but do we have to? In this episode we will answer the question: will there be a Xamarin.Essentials in .NET 6 and .NET MAUI? Tune in...\r\n\r\n[**Will Xamarin Essentials be Part of .NET MAUI or .NET 6?**](https://www.youtube.com/watch?v=90vVn96D8ew) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "yctQoCS",
+              "title": "**Will Xamarin Essentials be Part of .NET MAUI or .NET 6?**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=90vVn96D8ew"
+            },
+            {
+              "identifier": "i5hyn3B",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "WdgOVpc",
+          "type": "Link",
+          "title": "How much code behind is Okay?",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=d8bP2zZeKUA",
+          "description": "<p>It is the age old question... how much code in your code behind is okay to have? Everyone is different and in this live stream highlight I give my opinion when it comes to MVVM and my Xamarin.Forms development.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=d8bP2zZeKUA\"><strong>How much code behind is Okay? MVVM best practices | Stream Highlight</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "It is the age old question... how much code in your code behind is okay to have? Everyone is different and in this live stream highlight I give my opinion when it comes to MVVM and my Xamarin.Forms development.\r\n\r\n[**How much code behind is Okay? MVVM best practices | Stream Highlight**](https://www.youtube.com/watch?v=d8bP2zZeKUA) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "fkppxBz",
+              "title": "**How much code behind is Okay? MVVM best practices | Stream Highlight**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=d8bP2zZeKUA"
+            },
+            {
+              "identifier": "tjbSSsQ",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "kYFg1e6",
+          "type": "Link",
+          "title": "Merge Conflict: 267: Hacking Onewheel Bluetooth",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/267",
+          "description": "<p>Frank is at it again with a new and awesome Bluetooth application, this time for the Apple Watch that displays his Onewheel information in real time! He breaks down the inspiration and how he got it working!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/267\"><strong>Merge Conflict: 267: Hacking Onewheel Bluetooth</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Frank is at it again with a new and awesome Bluetooth application, this time for the Apple Watch that displays his Onewheel information in real time! He breaks down the inspiration and how he got it working!\r\n\r\n[**Merge Conflict: 267: Hacking Onewheel Bluetooth**](https://www.mergeconflict.fm/267) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "sU8rm3v",
+              "title": "**Merge Conflict: 267: Hacking Onewheel Bluetooth**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/267"
+            },
+            {
+              "identifier": "HgCOK01",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "reGSKW3",
+          "type": "Link",
+          "title": "Null Pointers 66: After-Holiday Updates!",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/66/",
+          "description": "<p>The team come back from holidays and catch up on! .NET MAUI, Visual Studio, all the things!</p>\n\n<p><a href=\"https://nullpointers.io/66/\"><strong>66: After-Holiday Updates!</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "The team come back from holidays and catch up on! .NET MAUI, Visual Studio, all the things!\r\n\r\n[**66: After-Holiday Updates!**](https://nullpointers.io/66/) by [Null Pointers](https://nullpointers.io/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "5w4vXXI",
+              "title": "**66: After-Holiday Updates!**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/66/"
+            },
+            {
+              "identifier": "89hwrF7",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "lVg46yc",
+          "type": "Link",
+          "title": ".NET MAUI Community Toolkit - Monthly Standup",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=0ZBh2Hl54ZY",
+          "description": "<p>Not sure how I missed this, but this is the first monthly livestream of. the .NET MAUI Community Toolkit Standup! We will be sharing our work on the Xamarin Community Toolkit + MAUI Community Toolkit and our plans for the next few months!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=0ZBh2Hl54ZY\"><strong>.NET MAUI Community Toolkit - Monthly Standup</strong></a> by <a href=\"https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A\">.NET Foundation</a></p>",
+          "description_markdown": "Not sure how I missed this, but this is the first monthly livestream of. the .NET MAUI Community Toolkit Standup! We will be sharing our work on the Xamarin Community Toolkit + MAUI Community Toolkit and our plans for the next few months!\r\n\r\n[**.NET MAUI Community Toolkit - Monthly Standup**](https://www.youtube.com/watch?v=0ZBh2Hl54ZY) by [.NET Foundation](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "AKDfnZK",
+              "title": "**.NET MAUI Community Toolkit - Monthly Standup**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=0ZBh2Hl54ZY"
+            },
+            {
+              "identifier": "6wOndSY",
+              "title": ".NET Foundation",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A"
+            }
+          ]
+        },
+        {
+          "identifier": "5zgpLkE",
+          "type": "Link",
+          "title": "The .NET Docs Show - Xamarin Community Toolkit Update",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=XUB8Fjble5c",
+          "description": "<p>In this weeks, show, Gerald Versluis joins the panel to give us a look at what's new and interesting in Xamarin Community Toolkit and where it's going next.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=XUB8Fjble5c\"><strong>The .NET Docs Show - Xamarin Community Toolkit Update</strong></a> by <a href=\"https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw\">The .NET Docs Show</a></p>",
+          "description_markdown": "In this weeks, show, Gerald Versluis joins the panel to give us a look at what's new and interesting in Xamarin Community Toolkit and where it's going next.\r\n\r\n[**The .NET Docs Show - Xamarin Community Toolkit Update**](https://www.youtube.com/watch?v=XUB8Fjble5c) by [The .NET Docs Show](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw)",
+          "embedded_links": [
+            {
+              "identifier": "VXNzyht",
+              "title": "**The .NET Docs Show - Xamarin Community Toolkit Update**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=XUB8Fjble5c"
+            },
+            {
+              "identifier": "AadaYoN",
+              "title": "The .NET Docs Show",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "wj23H5E",
+          "type": "Link",
+          "title": "Telerik adds a DataGrid and Entry for MAUI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/only-thing-better-vacation-maui-datagrid-dotnet-maui",
+          "description": "<p>Telerik Summer Release for MAUI: DataGrid, Entry &amp; Preview 7 Support</p>\n\n<p><a href=\"https://www.telerik.com/blogs/only-thing-better-vacation-maui-datagrid-dotnet-maui\"><strong>New MAUI Controls: DataGrid and Entry</strong></a> by <a href=\"https://www.telerik.com/\">Telerik</a></p>",
+          "description_markdown": "Telerik Summer Release for MAUI: DataGrid, Entry & Preview 7 Support\r\n\r\n[**New MAUI Controls: DataGrid and Entry**](https://www.telerik.com/blogs/only-thing-better-vacation-maui-datagrid-dotnet-maui) by [Telerik](https://www.telerik.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "kG3MOc4",
+              "title": "**New MAUI Controls: DataGrid and Entry**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/only-thing-better-vacation-maui-datagrid-dotnet-maui"
+            },
+            {
+              "identifier": "UAEWCDl",
+              "title": "Telerik",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
