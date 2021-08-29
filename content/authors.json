@@ -2484,6 +2484,16 @@
       ]
     },
     {
+      "Name": "Pavel Chuvak",
+      "Id": "https://www.igniscor.com/blog",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.igniscor.com/blog"
+        }
+      ]
+    },
+    {
       "Name": "Pavel Pavlov",
       "Id": "https://www.telerik.com/blogs/author/pavel-pavlov",
       "Aliases": [
@@ -3034,6 +3044,16 @@
       ]
     },
     {
+      "Name": "Sundaram Subramanian",
+      "Id": "https://twitter.com/iamsundarbhai",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/iamsundarbhai"
+        }
+      ]
+    },
+    {
       "Name": "Suthahar Jegatheesan",
       "TwitterHandle": "jssuthahar",
       "GitHubHandle": "jssuthahar",
@@ -3101,6 +3121,16 @@
         {
           "Type": "blog",
           "Name": "https://blog.superhuman.com/author/teresa-man/"
+        }
+      ]
+    },
+    {
+      "Name": "Tess Gadd",
+      "Id": "https://tessgadd.medium.com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://tessgadd.medium.com/"
         }
       ]
     },
@@ -3424,6 +3454,16 @@
       "GitHubHandle": "vulcanlee",
       "Id": "https://twitter.com/vulcanlee",
       "Website": "https://mylabtw.blogspot.com/"
+    },
+    {
+      "Name": "Wajahat Karim",
+      "Id": "https://twitter.com/wajahatkarim",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/wajahatkarim"
+        }
+      ]
     },
     {
       "Name": "Waldo",

@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "318",
+      "Name": "Issue 318",
+      "UpdatedTimeStamp": "2021-08-29T03:26:13Z",
+      "Summary": "MAUI, Design and Releasing Apps",
+      "PublishDate": "2021-08-29T03:26:11Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "317",
       "Name": "Issue 317",
       "UpdatedTimeStamp": "2021-08-22T13:28:27Z",

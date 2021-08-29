@@ -1,0 +1,385 @@
+{
+  "number": 318,
+  "title": "Issue 318",
+  "summary": "MAUI, Design and Releasing Apps",
+  "url": "https://weeklyxamarin.com/issues/318",
+  "publication_status": "published",
+  "published_at": "2021-08-29T04:26:11+01:00",
+  "updated_at": "2021-08-29T04:26:13+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day Everyone,</p>\n\n<p>It's almost September and that means it's nearly time for Spring here in Australia. I'm really looking forward to seeing the back of Winter.</p>\n\n<p>Have a relaxing weekend everyone and stay safe.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day Everyone,\r\n\r\nIt's almost September and that means it's nearly time for Spring here in Australia. I'm really looking forward to seeing the back of Winter.\r\n\r\nHave a relaxing weekend everyone and stay safe.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "1z5KZad",
+          "type": "Link",
+          "title": "UI Spacing",
+          "url_domain": "uxdesign.cc",
+          "url": "https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407",
+          "description": "<p>Learn to space elements in your layout, with the help of a cheesy metaphor.</p>\n\n<p><a href=\"https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407\"><strong>UI cheat sheet: Spacing friendships</strong></a> by <a href=\"https://tessgadd.medium.com/\">Tess Gadd</a></p>",
+          "description_markdown": "Learn to space elements in your layout, with the help of a cheesy metaphor.\r\n\r\n[**UI cheat sheet: Spacing friendships**](https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407) by [Tess Gadd](https://tessgadd.medium.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "mFMmIxg",
+              "title": "**UI cheat sheet: Spacing friendships**",
+              "url_domain": "uxdesign.cc",
+              "url": "https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407"
+            },
+            {
+              "identifier": "Fiz66ur",
+              "title": "Tess Gadd",
+              "url_domain": "medium.com",
+              "url": "https://tessgadd.medium.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "ZEv18i",
+          "type": "Link",
+          "title": "Shipping Mobile Apps",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/codechai/how-to-ship-mobile-apps-with-less-friction-and-more-confidence-1778c2390718",
+          "description": "<p>Perspective on different release processes for mobile apps development.</p>\n\n<p><a href=\"https://medium.com/codechai/how-to-ship-mobile-apps-with-less-friction-and-more-confidence-1778c2390718\"><strong>How to Ship Mobile Apps with Less Friction and More Confidence</strong></a> by <a href=\"https://twitter.com/wajahatkarim\">Wajahat Karim</a></p>",
+          "description_markdown": "Perspective on different release processes for mobile apps development.\r\n\r\n[**How to Ship Mobile Apps with Less Friction and More Confidence**](https://medium.com/codechai/how-to-ship-mobile-apps-with-less-friction-and-more-confidence-1778c2390718) by [Wajahat Karim](https://twitter.com/wajahatkarim)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "iljqf3G",
+              "title": "**How to Ship Mobile Apps with Less Friction and More Confidence**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/codechai/how-to-ship-mobile-apps-with-less-friction-and-more-confidence-1778c2390718"
+            },
+            {
+              "identifier": "KmloJPl",
+              "title": "Wajahat Karim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/wajahatkarim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "Lggqcl7",
+          "type": "Link",
+          "title": "Scroll Reveal in Xamarin Forms",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/scroll-reveal-in-xamarin-forms/",
+          "description": "<p>Charlin shows how to implement an interesting Scroll Reveal using a ListView in Xamarin Forms. It's not a common UI requirement, but still very cool to see how it's done.</p>\n\n<p><a href=\"https://xamgirl.com/scroll-reveal-in-xamarin-forms/\"><strong>Scroll Reveal in Xamarin Forms - XamGirl</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "Charlin shows how to implement an interesting Scroll Reveal using a ListView in Xamarin Forms. It's not a common UI requirement, but still very cool to see how it's done.\r\n\r\n[**Scroll Reveal in Xamarin Forms - XamGirl**](https://xamgirl.com/scroll-reveal-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Htu8z8t",
+              "title": "**Scroll Reveal in Xamarin Forms - XamGirl**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/scroll-reveal-in-xamarin-forms/"
+            },
+            {
+              "identifier": "tJ6zsQx",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "lhPk7uB",
+          "type": "Link",
+          "title": "Updating an old App",
+          "url_domain": "medium.com",
+          "url": "https://prototypemakers.medium.com/migrating-updating-an-old-xamarin-native-mvvmcross-project-c2ddd90282b6",
+          "description": "<p>A brutal to-do list of steps taken to upgrade an older application to the latest framework pieces.</p>\n\n<p><a href=\"https://prototypemakers.medium.com/migrating-updating-an-old-xamarin-native-mvvmcross-project-c2ddd90282b6\"><strong>Migrating &amp; Updating an old Xamarin Native MvvmCross project</strong></a> by <a href=\"https://medium.com/@prototypemakers\">Saamer Mansoor</a></p>",
+          "description_markdown": "A brutal to-do list of steps taken to upgrade an older application to the latest framework pieces.\r\n\r\n[**Migrating & Updating an old Xamarin Native MvvmCross project**](https://prototypemakers.medium.com/migrating-updating-an-old-xamarin-native-mvvmcross-project-c2ddd90282b6) by [Saamer Mansoor](https://medium.com/@prototypemakers)",
+          "embedded_links": [
+            {
+              "identifier": "XbwdyTp",
+              "title": "**Migrating & Updating an old Xamarin Native MvvmCross project**",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com/migrating-updating-an-old-xamarin-native-mvvmcross-project-c2ddd90282b6"
+            },
+            {
+              "identifier": "BgiOZev",
+              "title": "Saamer Mansoor",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prototypemakers"
+            }
+          ]
+        },
+        {
+          "identifier": "bNXLGeH",
+          "type": "Link",
+          "title": "Mortal Kombat App using Xamarin.Forms (MAUI) Part 2",
+          "url_domain": "igniscor.com",
+          "url": "https://www.igniscor.com/post/mortal-kombat-app-using-xamarin-forms-maui-part-2",
+          "description": "<p>Building out a pretty cool looking Mortal Kombat App using Xamarin Forms.</p>\n\n<p><a href=\"https://www.igniscor.com/post/mortal-kombat-app-using-xamarin-forms-maui-part-2\"><strong>Mortal Kombat App using Xamarin.Forms (MAUI) Part 2</strong></a> by <a href=\"https://www.igniscor.com/blog\">Pavel Chuvak</a></p>",
+          "description_markdown": "Building out a pretty cool looking Mortal Kombat App using Xamarin Forms.\r\n\r\n[**Mortal Kombat App using Xamarin.Forms (MAUI) Part 2**](https://www.igniscor.com/post/mortal-kombat-app-using-xamarin-forms-maui-part-2) by [Pavel Chuvak](https://www.igniscor.com/blog)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Pykv7y2",
+              "title": "**Mortal Kombat App using Xamarin.Forms (MAUI) Part 2**",
+              "url_domain": "igniscor.com",
+              "url": "https://www.igniscor.com/post/mortal-kombat-app-using-xamarin-forms-maui-part-2"
+            },
+            {
+              "identifier": "cVhFUf1",
+              "title": "Pavel Chuvak",
+              "url_domain": "igniscor.com",
+              "url": "https://www.igniscor.com/blog"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "phCee76",
+          "type": "Link",
+          "title": "Introduction To Multi-Platform App UI",
+          "url_domain": "c-sharpcorner.com",
+          "url": "https://www.c-sharpcorner.com/article/introduction-to-net-multi-platform-app-ui-maui-an-overview/",
+          "description": "<p>If you are after a jump start on getting up to speed with MAUI, this is a pretty good read. Discusses MAUI Architecture, similarities and differences between Xamarin.Forms and also getting a basic app started.</p>\n\n<p><a href=\"https://www.c-sharpcorner.com/article/introduction-to-net-multi-platform-app-ui-maui-an-overview/\"><strong>Introduction To .NET Multi-Platform App UI (MAUI) - An Overview</strong></a> by <a href=\"https://twitter.com/IamSundarBhai\">Sundaram Subramanian</a></p>",
+          "description_markdown": "If you are after a jump start on getting up to speed with MAUI, this is a pretty good read. Discusses MAUI Architecture, similarities and differences between Xamarin.Forms and also getting a basic app started.\r\n\r\n[**Introduction To .NET Multi-Platform App UI (MAUI) - An Overview**](https://www.c-sharpcorner.com/article/introduction-to-net-multi-platform-app-ui-maui-an-overview/) by [Sundaram Subramanian](https://twitter.com/IamSundarBhai)",
+          "embedded_links": [
+            {
+              "identifier": "8Mbdeh9",
+              "title": "**Introduction To .NET Multi-Platform App UI (MAUI) - An Overview**",
+              "url_domain": "c-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/introduction-to-net-multi-platform-app-ui-maui-an-overview/"
+            },
+            {
+              "identifier": "9DxACQ2",
+              "title": "Sundaram Subramanian",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/IamSundarBhai"
+            }
+          ]
+        },
+        {
+          "identifier": "yynzDw5",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #21",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-21",
+          "description": "<p>Sam Basu keeps us up to date with the latest news and activities in the MAUI space.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-21\"><strong>Sands of MAUI: Issue #21</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam Basu keeps us up to date with the latest news and activities in the MAUI space.\r\n\r\n[**Sands of MAUI: Issue #21**](https://www.telerik.com/blogs/sands-maui-issue-21) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "VZ7g9mq",
+              "title": "**Sands of MAUI: Issue #21**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-21"
+            },
+            {
+              "identifier": "hF4tBnZ",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "jCyn0ra",
+          "type": "Link",
+          "title": "Learn about BindableLayout",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Gxo-85Cbii8",
+          "description": "<p>If you need to just repeat a couple of elements, then BindableLayout might be the choice for you! Learn about this hidden gem in Xamarin.Forms and .NET MAUI and how to use it with ANY layout control.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Gxo-85Cbii8\"><strong>BindableLayout: Repeater Control for all! With Xamarin.Forms and .NET MAUI</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "If you need to just repeat a couple of elements, then BindableLayout might be the choice for you! Learn about this hidden gem in Xamarin.Forms and .NET MAUI and how to use it with ANY layout control.\r\n\r\n[**BindableLayout: Repeater Control for all! With Xamarin.Forms and .NET MAUI**](https://www.youtube.com/watch?v=Gxo-85Cbii8) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "i8ejM8j",
+              "title": "**BindableLayout: Repeater Control for all! With Xamarin.Forms and .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Gxo-85Cbii8"
+            },
+            {
+              "identifier": "awqsZX7",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "axRskZI",
+          "type": "Link",
+          "title": "Compiled Bindings FTW!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=VPmhQePA6hE",
+          "description": "<p>While using data-binding in Xamarin.Forms and .NET MAUI you might wonder: why doesn't IntelliSense work? Or can my compilation fail if a property doesn't exist? You can do this with compiled bindings! And better yet: you can get a huge performance boost while doing so!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=VPmhQePA6hE\"><strong>Huge Performance Boosts and IntelliSense Using Compiled Bindings in Xamarin.Forms and .NET MAUI</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "While using data-binding in Xamarin.Forms and .NET MAUI you might wonder: why doesn't IntelliSense work? Or can my compilation fail if a property doesn't exist? You can do this with compiled bindings! And better yet: you can get a huge performance boost while doing so!\r\n\r\n[**Huge Performance Boosts and IntelliSense Using Compiled Bindings in Xamarin.Forms and .NET MAUI**](https://www.youtube.com/watch?v=VPmhQePA6hE) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "Yy7s1Nr",
+              "title": "**Huge Performance Boosts and IntelliSense Using Compiled Bindings in Xamarin.Forms and .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=VPmhQePA6hE"
+            },
+            {
+              "identifier": "Q5Z0ysC",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "tXP1YrU",
+          "type": "Link",
+          "title": "Will There Be a .NET MAUI Community Toolkit?",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=S2JNPDJWXM0",
+          "description": "<p>Will there be a .NET MAUI Community Toolkit to follow up the Xamarin Community Toolkit? The answer will surprise you! Check out this Quick Questions!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=S2JNPDJWXM0\"><strong>Will There Be a .NET MAUI Community Toolkit?</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Will there be a .NET MAUI Community Toolkit to follow up the Xamarin Community Toolkit? The answer will surprise you! Check out this Quick Questions!\r\n\r\n[**Will There Be a .NET MAUI Community Toolkit?**](https://www.youtube.com/watch?v=S2JNPDJWXM0) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "9N6KRXT",
+              "title": "**Will There Be a .NET MAUI Community Toolkit?**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=S2JNPDJWXM0"
+            },
+            {
+              "identifier": "63Vuoyz",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "HxvGEgD",
+          "type": "Link",
+          "title": "Which C# UI Desktop Technology to Pick? ",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=cY51JedRtHA",
+          "description": "<p>James answers the question \"Which UI desktop technology should you be using if re-writing a complete desktop app with extremely specific requirements but also using Xamarin.Forms for the mobile apps.\"</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=cY51JedRtHA\"><strong>Which C# UI Desktop Technology to Pick? | Stream Highlight | .NET MAUI, WinUI 3, WPF, Avalonia, Uno</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James answers the question \"Which UI desktop technology should you be using if re-writing a complete desktop app with extremely specific requirements but also using Xamarin.Forms for the mobile apps.\" \r\n\r\n[**Which C# UI Desktop Technology to Pick? | Stream Highlight | .NET MAUI, WinUI 3, WPF, Avalonia, Uno**](https://www.youtube.com/watch?v=cY51JedRtHA) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "RNejyFn",
+              "title": "**Which C# UI Desktop Technology to Pick? | Stream Highlight | .NET MAUI, WinUI 3, WPF, Avalonia, Uno**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=cY51JedRtHA"
+            },
+            {
+              "identifier": "39uTlxa",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "SzBKz1h",
+          "type": "Link",
+          "title": "Merge Conflict: 268: Authentication shouldn't be hard",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/268",
+          "description": "<p>We are joined by Tanvir Ahmed from Okta to talk about why authentication can seem so hard, but really shouldn't be. We chat about how our devices that we carry around with us every day really should be the key to unlock and remove passwords.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/268\"><strong>Merge Conflict: 268: Authentication shouldn't be hard</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "We are joined by Tanvir Ahmed from Okta to talk about why authentication can seem so hard, but really shouldn't be. We chat about how our devices that we carry around with us every day really should be the key to unlock and remove passwords.\r\n\r\n[**Merge Conflict: 268: Authentication shouldn't be hard**](https://www.mergeconflict.fm/268) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "cb7Al0n",
+              "title": "**Merge Conflict: 268: Authentication shouldn't be hard**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/268"
+            },
+            {
+              "identifier": "eY4v7f2",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "J4ktvte",
+          "type": "Link",
+          "title": "Null Pointers 67: Managing Email",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/67/",
+          "description": "<p>Managing e-mail is such a chore. Especially when you come back from vacation, and a humongous pile of it is looking straight at you. Is a Tinder-style application THE solution here? Find out in this episode!</p>\n\n<p><a href=\"https://nullpointers.io/67/\"><strong>67: Managing Email</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "Managing e-mail is such a chore. Especially when you come back from vacation, and a humongous pile of it is looking straight at you. Is a Tinder-style application THE solution here? Find out in this episode!\r\n\r\n[**67: Managing Email**](https://nullpointers.io/67/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "NJXtXZR",
+              "title": "**67: Managing Email**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/67/"
+            },
+            {
+              "identifier": "Ru9BxVb",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "PwPmyZc",
+          "type": "Link",
+          "title": "Starting a List of Xamarin / MAUI apps",
+          "url_domain": "github.com",
+          "url": "https://github.com/InquisitorJax/Xamarin-MAUI-Apps",
+          "description": "<p>Malcom Jack is putting together a list of apps build with Xamarin / MUAI. If you've got a app out in the store you might want to add it to the list</p>\n\n<p><a href=\"https://github.com/InquisitorJax/Xamarin-MAUI-Apps\"><strong>GitHub - InquisitorJax/Xamarin-MAUI-Apps: Curated list of paid apps made by Xamarin Developers</strong></a> by <a href=\"https://twitter.com/InquisitorJax\">Malcolm Jack</a></p>",
+          "description_markdown": "Malcom Jack is putting together a list of apps build with Xamarin / MUAI. If you've got a app out in the store you might want to add it to the list\r\n\r\n[**GitHub - InquisitorJax/Xamarin-MAUI-Apps: Curated list of paid apps made by Xamarin Developers**](https://github.com/InquisitorJax/Xamarin-MAUI-Apps) by [Malcolm Jack](https://twitter.com/InquisitorJax)",
+          "embedded_links": [
+            {
+              "identifier": "o1U006U",
+              "title": "**GitHub - InquisitorJax/Xamarin-MAUI-Apps: Curated list of paid apps made by Xamarin Developers**",
+              "url_domain": "github.com",
+              "url": "https://github.com/InquisitorJax/Xamarin-MAUI-Apps"
+            },
+            {
+              "identifier": "XSM4dl4",
+              "title": "Malcolm Jack",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/InquisitorJax"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

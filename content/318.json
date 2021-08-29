@@ -1,0 +1,137 @@
+{
+  "Id": "318",
+  "Name": "Issue 318",
+  "UpdatedTimeStamp": "2021-08-29T03:26:13Z",
+  "Summary": "MAUI, Design and Releasing Apps",
+  "Introduction": "G'day Everyone, It's almost September and that means it's nearly time for Spring here in Australia. I'm really looking forward to seeing the back of Winter. Have a relaxing weekend everyone and stay safe. ❤ Kym",
+  "PublishDate": "2021-08-29T03:26:11Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "UI Spacing",
+      "Url": "https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407",
+      "Description": "Learn to space elements in your layout, with the help of a cheesy metaphor.",
+      "EditionId": "318",
+      "Author": "Tess Gadd",
+      "Id": "318-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Shipping Mobile Apps",
+      "Url": "https://medium.com/codechai/how-to-ship-mobile-apps-with-less-friction-and-more-confidence-1778c2390718",
+      "Description": "Perspective on different release processes for mobile apps development.",
+      "EditionId": "318",
+      "Author": "Wajahat Karim",
+      "Id": "318-2",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Scroll Reveal in Xamarin Forms",
+      "Url": "https://xamgirl.com/scroll-reveal-in-xamarin-forms/",
+      "Description": "Charlin shows how to implement an interesting Scroll Reveal using a ListView in Xamarin Forms. It's not a common UI requirement, but still very cool to see how it's done.",
+      "EditionId": "318",
+      "Author": "Charlin Agramonte",
+      "Id": "318-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Updating an old App",
+      "Url": "https://prototypemakers.medium.com/migrating-updating-an-old-xamarin-native-mvvmcross-project-c2ddd90282b6",
+      "Description": "A brutal to-do list of steps taken to upgrade an older application to the latest framework pieces.",
+      "EditionId": "318",
+      "Author": "Saamer Mansoor",
+      "Id": "318-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Mortal Kombat App using Xamarin.Forms (MAUI) Part 2",
+      "Url": "https://www.igniscor.com/post/mortal-kombat-app-using-xamarin-forms-maui-part-2",
+      "Description": "Building out a pretty cool looking Mortal Kombat App using Xamarin Forms.",
+      "EditionId": "318",
+      "Author": "Pavel Chuvak",
+      "Id": "318-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Introduction To Multi-Platform App UI",
+      "Url": "https://www.c-sharpcorner.com/article/introduction-to-net-multi-platform-app-ui-maui-an-overview/",
+      "Description": "If you are after a jump start on getting up to speed with MAUI, this is a pretty good read. Discusses MAUI Architecture, similarities and differences between Xamarin.Forms and also getting a basic app started.",
+      "EditionId": "318",
+      "Author": "Sundaram Subramanian",
+      "Id": "318-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #21",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-21",
+      "Description": "Sam Basu keeps us up to date with the latest news and activities in the MAUI space.",
+      "EditionId": "318",
+      "Author": "Sam Basu",
+      "Id": "318-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Learn about BindableLayout",
+      "Url": "https://www.youtube.com/watch?v=Gxo-85Cbii8",
+      "Description": "If you need to just repeat a couple of elements, then BindableLayout might be the choice for you! Learn about this hidden gem in Xamarin.Forms and .NET MAUI and how to use it with ANY layout control.",
+      "EditionId": "318",
+      "Author": "Gerald Versluis",
+      "Id": "318-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Compiled Bindings FTW!",
+      "Url": "https://www.youtube.com/watch?v=VPmhQePA6hE",
+      "Description": "While using data-binding in Xamarin.Forms and .NET MAUI you might wonder: why doesn't IntelliSense work? Or can my compilation fail if a property doesn't exist? You can do this with compiled bindings! And better yet: you can get a huge performance boost while doing so!",
+      "EditionId": "318",
+      "Author": "Gerald Versluis",
+      "Id": "318-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Will There Be a .NET MAUI Community Toolkit?",
+      "Url": "https://www.youtube.com/watch?v=S2JNPDJWXM0",
+      "Description": "Will there be a .NET MAUI Community Toolkit to follow up the Xamarin Community Toolkit? The answer will surprise you! Check out this Quick Questions!",
+      "EditionId": "318",
+      "Author": "Gerald Versluis",
+      "Id": "318-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Which C# UI Desktop Technology to Pick? ",
+      "Url": "https://www.youtube.com/watch?v=cY51JedRtHA",
+      "Description": "James answers the question \"Which UI desktop technology should you be using if re-writing a complete desktop app with extremely specific requirements but also using Xamarin.Forms for the mobile apps.\"",
+      "EditionId": "318",
+      "Author": "James Montemagno",
+      "Id": "318-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 268: Authentication shouldn't be hard",
+      "Url": "https://www.mergeconflict.fm/268",
+      "Description": "We are joined by Tanvir Ahmed from Okta to talk about why authentication can seem so hard, but really shouldn't be. We chat about how our devices that we carry around with us every day really should be the key to unlock and remove passwords.",
+      "EditionId": "318",
+      "Author": "Merge Conflict",
+      "Id": "318-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 67: Managing Email",
+      "Url": "https://nullpointers.io/67/",
+      "Description": "Managing e-mail is such a chore. Especially when you come back from vacation, and a humongous pile of it is looking straight at you. Is a Tinder-style application THE solution here? Find out in this episode!",
+      "EditionId": "318",
+      "Author": "Null Pointers",
+      "Id": "318-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Starting a List of Xamarin / MAUI apps",
+      "Url": "https://github.com/InquisitorJax/Xamarin-MAUI-Apps",
+      "Description": "Malcom Jack is putting together a list of apps build with Xamarin / MUAI. If you've got a app out in the store you might want to add it to the list",
+      "EditionId": "318",
+      "Author": "Malcolm Jack",
+      "Id": "318-14",
+      "Category": "RELEASES"
+    }
+  ]
+}
