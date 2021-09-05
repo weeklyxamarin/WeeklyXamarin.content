@@ -1,0 +1,350 @@
+{
+  "number": 319,
+  "title": "Issue 319",
+  "summary": "Happy Fathers Day!",
+  "url": "https://weeklyxamarin.com/issues/319",
+  "publication_status": "published",
+  "published_at": "2021-09-05T12:42:43+01:00",
+  "updated_at": "2021-09-05T12:42:43+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day!</p>\n\n<p>I Hope you have had a fantastic weekend. Here in Australia it's Fathers Day today so Happy Fathers Day to all you dads out there. This week we are a little light on articles, but as always there are a few gems and announcements.</p>\n\n<p>Have a great week,</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day!\r\n\r\nI Hope you have had a fantastic weekend. Here in Australia it's Fathers Day today so Happy Fathers Day to all you dads out there. This week we are a little light on articles, but as always there are a few gems and announcements. \r\n\r\nHave a great week,\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "bwiexMm",
+          "type": "Link",
+          "title": "Replicating Good Mood UI in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-good-mood-ui-in-xamarin-forms/",
+          "description": "<p>If you are looking at learning more about Xamarin.Forms Layouts check out this article where Leomaris shows how to recreate another good looking Xamarin.Forms UI.</p>\n\n<p><a href=\"https://askxammy.com/replicating-good-mood-ui-in-xamarin-forms/\"><strong>Replicating Good Mood UI in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "If you are looking at learning more about Xamarin.Forms Layouts check out this article where Leomaris shows how to recreate another good looking Xamarin.Forms UI.\r\n\r\n[**Replicating Good Mood UI in Xamarin Forms**](https://askxammy.com/replicating-good-mood-ui-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "rf3oTh1",
+              "title": "**Replicating Good Mood UI in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-good-mood-ui-in-xamarin-forms/"
+            },
+            {
+              "identifier": "AZdWmsA",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "NYQZrGr",
+          "type": "Link",
+          "title": "Creating a Simple Skeleton Loader in Xamarin Forms",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/skeleton-loader-in-xamarin-forms/",
+          "description": "<p>How to make a Skeleton Loader in Xamarin Forms with Xamarin Community toolkit's StateLayout, animations and the humble box view.</p>\n\n<p><a href=\"https://doumer.me/skeleton-loader-in-xamarin-forms/\"><strong>Creating a Simple Skeleton Loader in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "How to make a Skeleton Loader in Xamarin Forms with Xamarin Community toolkit's StateLayout, animations and the humble box view.\r\n\r\n[**Creating a Simple Skeleton Loader in Xamarin Forms**](https://doumer.me/skeleton-loader-in-xamarin-forms/) by [Damien Doumer](https://twitter.com/damien_doumer)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "yhhIt2h",
+              "title": "**Creating a Simple Skeleton Loader in Xamarin Forms**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/skeleton-loader-in-xamarin-forms/"
+            },
+            {
+              "identifier": "2stKZxX",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        },
+        {
+          "identifier": "XcMUUsB",
+          "type": "Link",
+          "title": "Validation Rules for Email ",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/validation-rules-email-xamarin-forms/",
+          "description": "<p>Learn how to apply validation rules to emails in our forms in Xamarin.Forms. The best, and fastest, the way is to use the Plugin.ValidationRules library.</p>\n\n<p><a href=\"https://luismts.com/validation-rules-email-xamarin-forms/\"><strong>Validation Rules for Email in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Learn how to apply validation rules to emails in our forms in Xamarin.Forms. The best, and fastest, the way is to use the Plugin.ValidationRules library.\r\n\r\n[**Validation Rules for Email in Xamarin Forms**](https://luismts.com/validation-rules-email-xamarin-forms/) by [Luis Matos](https://twitter.com/luismatosluna)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Y97TWuZ",
+              "title": "**Validation Rules for Email in Xamarin Forms**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/validation-rules-email-xamarin-forms/"
+            },
+            {
+              "identifier": "dZDf1ON",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "K83Jix0",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #22",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-22",
+          "description": "<p>Sam keeps us up to date with the latest news in the MAUI world.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-22\"><strong>Sands of MAUI: Issue #22</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam keeps us up to date with the latest news in the MAUI world.\r\n\r\n[**Sands of MAUI: Issue #22**](https://www.telerik.com/blogs/sands-maui-issue-22) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)",
+          "embedded_links": [
+            {
+              "identifier": "h9pCw5",
+              "title": "**Sands of MAUI: Issue #22**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-22"
+            },
+            {
+              "identifier": "ltLS1uK",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "ZBxg65p",
+          "type": "Link",
+          "title": "Background Location Tracking for iOS with Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=e9YIXj9Uh9I",
+          "description": "<p>Keeping the user in your app to track their location isn't the greatest experience. In this video we will learn how to enable your iOS app to enable location tracking even while your runs in the background! Of course, all of this with Xamarin.Forms!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=e9YIXj9Uh9I\"><strong>Background Location Tracking for iOS with Xamarin.Forms</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Keeping the user in your app to track their location isn't the greatest experience. In this video we will learn how to enable your iOS app to enable location tracking even while your runs in the background! Of course, all of this with Xamarin.Forms!\r\n\r\n[**Background Location Tracking for iOS with Xamarin.Forms**](https://www.youtube.com/watch?v=e9YIXj9Uh9I) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "NirAeWA",
+              "title": "**Background Location Tracking for iOS with Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=e9YIXj9Uh9I"
+            },
+            {
+              "identifier": "2pejIng",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "RIBYSCN",
+          "type": "Link",
+          "title": ".NET MAUI Community Toolkit Monthly Standup - September 2021",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=b7wVk4Udi_U",
+          "description": "<p>The MAUI Community Toolkit now has a monthly standup to cover all the latest news for the toolkit.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=b7wVk4Udi_U\"><strong>.NET MAUI Community Toolkit Monthly Standup - September 2021</strong></a> by <a href=\"https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A\">.NET Foundation</a></p>",
+          "description_markdown": "The MAUI Community Toolkit now has a monthly standup to cover all the latest news for the toolkit.\r\n\r\n[**.NET MAUI Community Toolkit Monthly Standup - September 2021**](https://www.youtube.com/watch?v=b7wVk4Udi_U) by [.NET Foundation](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)",
+          "embedded_links": [
+            {
+              "identifier": "SjEVdhO",
+              "title": "**.NET MAUI Community Toolkit Monthly Standup - September 2021**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=b7wVk4Udi_U"
+            },
+            {
+              "identifier": "GuGSeNe",
+              "title": ".NET Foundation",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A"
+            }
+          ]
+        },
+        {
+          "identifier": "zqd5pkU",
+          "type": "Link",
+          "title": ".NET MAUI Community Standup - Accessibility with Rachel Kang",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=E6vss3N7gJc",
+          "description": "<p>Come hang out with the .NET MAUI team to learn what's new in Accessibility for .NET MAUI apps.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=E6vss3N7gJc\"><strong>.NET MAUI Community Standup - Accessibility with Rachel Kang</strong></a> by <a href=\"https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg\">Xamarin Developers</a></p>",
+          "description_markdown": "Come hang out with the .NET MAUI team to learn what's new in Accessibility for .NET MAUI apps.\r\n\r\n[**.NET MAUI Community Standup - Accessibility with Rachel Kang**](https://www.youtube.com/watch?v=E6vss3N7gJc) by [Xamarin Developers](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "JQoAztX",
+              "title": "**.NET MAUI Community Standup - Accessibility with Rachel Kang**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=E6vss3N7gJc"
+            },
+            {
+              "identifier": "pjevR7N",
+              "title": "Xamarin Developers",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg"
+            }
+          ]
+        },
+        {
+          "identifier": "SkFdUZZ",
+          "type": "Link",
+          "title": "Merge Conflict: 269: Exploring Twitter & Facebook Mobile Ads",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/269",
+          "description": "<p>Frank explores the crazy world of app advertising across Facebook, Twitter, and Apple. We break down how exactly not to do this!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/269\"><strong>Merge Conflict: 269: Exploring Twitter &amp; Facebook Mobile Ads</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Frank explores the crazy world of app advertising across Facebook, Twitter, and Apple. We break down how exactly not to do this!\r\n\r\n[**Merge Conflict: 269: Exploring Twitter &amp; Facebook Mobile Ads**](https://www.mergeconflict.fm/269) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "IJBwjJr",
+              "title": "**Merge Conflict: 269: Exploring Twitter &amp; Facebook Mobile Ads**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/269"
+            },
+            {
+              "identifier": "cE4Sekq",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "lYZepwd",
+          "type": "Link",
+          "title": "Null Pointers 68: .NET Hybrid Apps",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/68/",
+          "description": "<p>Today we can write websites that run as desktop apps. Such hybrid apps are usually built using HTML, javascript and CSS. But with .NET 6, Blazor will provide a solution for writing hybrid apps in .NET. Crazy right? But it gets even better. Using .NET MAUI, you can extend your website with native features. Sounds great? Well, let us tell you all about it and our opinions on the topic.</p>\n\n<p><a href=\"https://nullpointers.io/68/\"><strong>68: .NET Hybrid Apps</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "Today we can write websites that run as desktop apps. Such hybrid apps are usually built using HTML, javascript and CSS. But with .NET 6, Blazor will provide a solution for writing hybrid apps in .NET. Crazy right? But it gets even better. Using .NET MAUI, you can extend your website with native features. Sounds great? Well, let us tell you all about it and our opinions on the topic.\r\n\r\n[**68: .NET Hybrid Apps**](https://nullpointers.io/68/) by [Null Pointers](https://nullpointers.io/)",
+          "embedded_links": [
+            {
+              "identifier": "SIeNOqk",
+              "title": "**68: .NET Hybrid Apps**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/68/"
+            },
+            {
+              "identifier": "azAlYJ7",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "EU4dJJI",
+          "type": "Link",
+          "title": "Access Device Sensors and Native APIs from Blazor in .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=8W1HSu2-tI0",
+          "description": "<p>In this video Gerald shows you how to use Microsoft.Maui.Essentials to get the users location and show that in a Blazor app.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=8W1HSu2-tI0\"><strong>Access Device Sensors and Native APIs from Blazor in .NET MAUI</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "In this video Gerald shows you how to use Microsoft.Maui.Essentials to get the users location and show that in a Blazor app.\r\n\r\n[**Access Device Sensors and Native APIs from Blazor in .NET MAUI**](https://www.youtube.com/watch?v=8W1HSu2-tI0) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "6SGfZ4y",
+              "title": "**Access Device Sensors and Native APIs from Blazor in .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=8W1HSu2-tI0"
+            },
+            {
+              "identifier": "bMzvtG3",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "uzHXpXR",
+          "type": "Link",
+          "title": "How To Use Blazor with .NET MAUI And Make Awesome Things!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Q_wlvCWzXC0",
+          "description": "<p>.NET MAUI has multiple options to use Blazor. You can go the Blazor Mobile Bindings route or choose to use the BlazorWebView. But, what is the difference? We'll learn in this video!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Q_wlvCWzXC0\"><strong>How To Use Blazor with .NET MAUI And Make Awesome Things!</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": ".NET MAUI has multiple options to use Blazor. You can go the Blazor Mobile Bindings route or choose to use the BlazorWebView. But, what is the difference? We'll learn in this video!\r\n\r\n[**How To Use Blazor with .NET MAUI And Make Awesome Things!**](https://www.youtube.com/watch?v=Q_wlvCWzXC0) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "7KXC1ia",
+              "title": "**How To Use Blazor with .NET MAUI And Make Awesome Things!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Q_wlvCWzXC0"
+            },
+            {
+              "identifier": "RaBwfh5",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "R6y6Mfj",
+          "type": "Link",
+          "title": "Introducing .NET MAUI Compatibility for the Xamarin Community Toolkit",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/introducing-net-maui-compatibility-for-the-xamarin-community-toolkit/",
+          "description": "<p>The Xamarin Community Toolkit team is excited to announce two new .NET MAUI-compatible versions of the toolkit.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/introducing-net-maui-compatibility-for-the-xamarin-community-toolkit/\"><strong>Introducing .NET MAUI Compatibility for the Xamarin Community Toolkit</strong></a> by <a href=\"https://codetraveler.io/author/brandon/\">Brandon Minnick</a></p>",
+          "description_markdown": "The Xamarin Community Toolkit team is excited to announce two new .NET MAUI-compatible versions of the toolkit.\r\n\r\n[**Introducing .NET MAUI Compatibility for the Xamarin Community Toolkit**](https://devblogs.microsoft.com/xamarin/introducing-net-maui-compatibility-for-the-xamarin-community-toolkit/) by [Brandon Minnick](https://codetraveler.io/author/brandon/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "bs4OITr",
+              "title": "**Introducing .NET MAUI Compatibility for the Xamarin Community Toolkit**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/introducing-net-maui-compatibility-for-the-xamarin-community-toolkit/"
+            },
+            {
+              "identifier": "1tVwn72",
+              "title": "Brandon Minnick",
+              "url_domain": "codetraveler.io",
+              "url": "https://codetraveler.io/author/brandon/"
+            }
+          ]
+        },
+        {
+          "identifier": "731zJTG",
+          "type": "Link",
+          "title": "Introducing the .NET MAUI Community Toolkit (Preview)",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/",
+          "description": "<p>Announcing the first preview release of the .NET MAUI Community Toolkit.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/\"><strong>Introducing the .NET MAUI Community Toolkit (Preview)</strong></a> by <a href=\"https://codetraveler.io/author/brandon/\">Brandon Minnick</a></p>",
+          "description_markdown": "Announcing the first preview release of the .NET MAUI Community Toolkit.\r\n\r\n[**Introducing the .NET MAUI Community Toolkit (Preview)**](https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/) by [Brandon Minnick](https://codetraveler.io/author/brandon/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "SCvtugF",
+              "title": "**Introducing the .NET MAUI Community Toolkit (Preview)**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/"
+            },
+            {
+              "identifier": "JFXawrQ",
+              "title": "Brandon Minnick",
+              "url_domain": "codetraveler.io",
+              "url": "https://codetraveler.io/author/brandon/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

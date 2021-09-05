@@ -1,0 +1,128 @@
+{
+  "Id": "319",
+  "Name": "Issue 319",
+  "UpdatedTimeStamp": "2021-09-05T11:42:43Z",
+  "Summary": "Happy Fathers Day!",
+  "Introduction": "G'day! I Hope you have had a fantastic weekend. Here in Australia it's Fathers Day today so Happy Fathers Day to all you dads out there. This week we are a little light on articles, but as always there are a few gems and announcements.  Have a great week, Kym",
+  "PublishDate": "2021-09-05T11:42:43Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Replicating Good Mood UI in Xamarin Forms",
+      "Url": "https://askxammy.com/replicating-good-mood-ui-in-xamarin-forms/",
+      "Description": "If you are looking at learning more about Xamarin.Forms Layouts check out this article where Leomaris shows how to recreate another good looking Xamarin.Forms UI.",
+      "EditionId": "319",
+      "Author": "Leomaris Reyes",
+      "Id": "319-1",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Creating a Simple Skeleton Loader in Xamarin Forms",
+      "Url": "https://doumer.me/skeleton-loader-in-xamarin-forms/",
+      "Description": "How to make a Skeleton Loader in Xamarin Forms with Xamarin Community toolkit's StateLayout, animations and the humble box view.",
+      "EditionId": "319",
+      "Author": "Damien Doumer",
+      "Id": "319-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Validation Rules for Email ",
+      "Url": "https://luismts.com/validation-rules-email-xamarin-forms/",
+      "Description": "Learn how to apply validation rules to emails in our forms in Xamarin.Forms. The best, and fastest, the way is to use the Plugin.ValidationRules library.",
+      "EditionId": "319",
+      "Author": "Luis Matos",
+      "Id": "319-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #22",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-22",
+      "Description": "Sam keeps us up to date with the latest news in the MAUI world.",
+      "EditionId": "319",
+      "Author": "Sam Basu",
+      "Id": "319-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Background Location Tracking for iOS with Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=e9YIXj9Uh9I",
+      "Description": "Keeping the user in your app to track their location isn't the greatest experience. In this video we will learn how to enable your iOS app to enable location tracking even while your runs in the background! Of course, all of this with Xamarin.Forms!",
+      "EditionId": "319",
+      "Author": "Gerald Versluis",
+      "Id": "319-5",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Toolkit Monthly Standup - September 2021",
+      "Url": "https://www.youtube.com/watch?v=b7wVk4Udi_U",
+      "Description": "The MAUI Community Toolkit now has a monthly standup to cover all the latest news for the toolkit.",
+      "EditionId": "319",
+      "Author": ".NET Foundation",
+      "Id": "319-6",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Standup - Accessibility with Rachel Kang",
+      "Url": "https://www.youtube.com/watch?v=E6vss3N7gJc",
+      "Description": "Come hang out with the .NET MAUI team to learn what's new in Accessibility for .NET MAUI apps.",
+      "EditionId": "319",
+      "Author": "Xamarin Developers",
+      "Id": "319-7",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 269: Exploring Twitter & Facebook Mobile Ads",
+      "Url": "https://www.mergeconflict.fm/269",
+      "Description": "Frank explores the crazy world of app advertising across Facebook, Twitter, and Apple. We break down how exactly not to do this!",
+      "EditionId": "319",
+      "Author": "Merge Conflict",
+      "Id": "319-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 68: .NET Hybrid Apps",
+      "Url": "https://nullpointers.io/68/",
+      "Description": "Today we can write websites that run as desktop apps. Such hybrid apps are usually built using HTML, javascript and CSS. But with .NET 6, Blazor will provide a solution for writing hybrid apps in .NET. Crazy right? But it gets even better. Using .NET MAUI, you can extend your website with native features. Sounds great? Well, let us tell you all about it and our opinions on the topic.",
+      "EditionId": "319",
+      "Author": "Null Pointers",
+      "Id": "319-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Access Device Sensors and Native APIs from Blazor in .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=8W1HSu2-tI0",
+      "Description": "In this video Gerald shows you how to use Microsoft.Maui.Essentials to get the users location and show that in a Blazor app.",
+      "EditionId": "319",
+      "Author": "Gerald Versluis",
+      "Id": "319-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "How To Use Blazor with .NET MAUI And Make Awesome Things!",
+      "Url": "https://www.youtube.com/watch?v=Q_wlvCWzXC0",
+      "Description": ".NET MAUI has multiple options to use Blazor. You can go the Blazor Mobile Bindings route or choose to use the BlazorWebView. But, what is the difference? We'll learn in this video!",
+      "EditionId": "319",
+      "Author": "Gerald Versluis",
+      "Id": "319-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Introducing .NET MAUI Compatibility for the Xamarin Community Toolkit",
+      "Url": "https://devblogs.microsoft.com/xamarin/introducing-net-maui-compatibility-for-the-xamarin-community-toolkit/",
+      "Description": "The Xamarin Community Toolkit team is excited to announce two new .NET MAUI-compatible versions of the toolkit.",
+      "EditionId": "319",
+      "Author": "Brandon Minnick",
+      "Id": "319-12",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "Introducing the .NET MAUI Community Toolkit (Preview)",
+      "Url": "https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/",
+      "Description": "Announcing the first preview release of the .NET MAUI Community Toolkit.",
+      "EditionId": "319",
+      "Author": "Brandon Minnick",
+      "Id": "319-13",
+      "Category": "RELEASES"
+    }
+  ]
+}

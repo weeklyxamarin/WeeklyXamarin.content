@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "319",
+      "Name": "Issue 319",
+      "UpdatedTimeStamp": "2021-09-05T11:42:43Z",
+      "Summary": "Happy Fathers Day!",
+      "PublishDate": "2021-09-05T11:42:43Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "318",
       "Name": "Issue 318",
       "UpdatedTimeStamp": "2021-08-29T03:26:13Z",
