@@ -1,0 +1,379 @@
+{
+  "number": 320,
+  "title": "Issue 320",
+  "summary": "Jam packed full of MAUI.",
+  "url": "https://weeklyxamarin.com/issues/320",
+  "publication_status": "published",
+  "published_at": "2021-09-12T12:57:52+01:00",
+  "updated_at": "2021-09-12T12:57:54+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone,</p>\n\n<p>Welcome to issue #320 of Weekly Xamarin, which is jam packed full of MAUI.</p>\n\n<p>Get your credit cards ready because there is an Apple event coming this week.\n Also buckle up for the first Release candidate of MAUI which is coming this month.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, \r\n\r\nWelcome to issue #320 of Weekly Xamarin, which is jam packed full of MAUI. \r\n\r\nGet your credit cards ready because there is an Apple event coming this week. \r\n Also buckle up for the first Release candidate of MAUI which is coming this month.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "businessandmarketing",
+      "name": "BUSINESS & MARKETING",
+      "items": [
+        {
+          "identifier": "EyIVUR9",
+          "type": "Link",
+          "title": "Getting the Most Out of Virtual Conferences",
+          "url_domain": "martiancraft.com",
+          "url": "https://martiancraft.com/blog/2021/09/virtual-conferences/",
+          "description": "<p>It’s looking like virtual conferences are here to stay. Learn some pro tips for getting the most out of virtual events from the company that pioneered remote working.</p>\n\n<p><a href=\"https://martiancraft.com/blog/2021/09/virtual-conferences/\"><strong>Getting the Most Out of Virtual Conferences</strong></a> by <a href=\"https://twitter.com/coryb\">Corey Bohon</a></p>",
+          "description_markdown": "It’s looking like virtual conferences are here to stay. Learn some pro tips for getting the most out of virtual events from the company that pioneered remote working.\r\n\r\n[**Getting the Most Out of Virtual Conferences**](https://martiancraft.com/blog/2021/09/virtual-conferences/) by [Corey Bohon](https://twitter.com/coryb)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Yu0gwNQ",
+              "title": "**Getting the Most Out of Virtual Conferences**",
+              "url_domain": "martiancraft.com",
+              "url": "https://martiancraft.com/blog/2021/09/virtual-conferences/"
+            },
+            {
+              "identifier": "TsAKbDZ",
+              "title": "Corey Bohon",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/coryb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "G2TXVYH",
+          "type": "Link",
+          "title": "Creating Cake script for building and deploying Xamarin app - Part 2",
+          "url_domain": "damianantonowicz.pl",
+          "url": "https://damianantonowicz.pl/2021/09/05/creating-cake-script-for-building-and-deploying-xamarin-app-part-2-building-xamarin-app",
+          "description": "<p>In the second post by Damian he shows how to use Cake to build Xamarin app for different environments. Things such as updating platform specific files (AndroidManifest.xml and Info.plist) and create platform specific packages (APK and IPA).</p>\n\n<p><a href=\"https://damianantonowicz.pl/2021/09/05/creating-cake-script-for-building-and-deploying-xamarin-app-part-2-building-xamarin-app\"><strong>Creating Cake script for building and deploying Xamarin app: Part 2 building Xamarin app</strong></a> by <a href=\"https://twitter.com/d_antonowicz\">Damian Antonowicz</a></p>",
+          "description_markdown": "In the second post by Damian he shows how to use Cake to build Xamarin app for different environments. Things such as updating platform specific files (AndroidManifest.xml and Info.plist) and create platform specific packages (APK and IPA).\r\n\r\n[**Creating Cake script for building and deploying Xamarin app: Part 2 building Xamarin app**](https://damianantonowicz.pl/2021/09/05/creating-cake-script-for-building-and-deploying-xamarin-app-part-2-building-xamarin-app) by [Damian Antonowicz](https://twitter.com/d_antonowicz)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "9oDh7Ac",
+              "title": "**Creating Cake script for building and deploying Xamarin app: Part 2 building Xamarin app**",
+              "url_domain": "damianantonowicz.pl",
+              "url": "https://damianantonowicz.pl/2021/09/05/creating-cake-script-for-building-and-deploying-xamarin-app-part-2-building-xamarin-app"
+            },
+            {
+              "identifier": "WymE8ok",
+              "title": "Damian Antonowicz",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/d_antonowicz"
+            }
+          ]
+        },
+        {
+          "identifier": "4B1PaVi",
+          "type": "Link",
+          "title": "Manage your mobile applications versions with GitHub Actions",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/tools/2021/09/07/tool-update-mobile-version-github-actions-en.html",
+          "description": "<p>Damien has released GitHub Actions to help you manipulate the version of your mobile application.</p>\n\n<p><a href=\"https://damienaicheh.github.io/tools/2021/09/07/tool-update-mobile-version-github-actions-en.html\"><strong>Manage your mobile applications versions with GitHub Actions</strong></a> by <a href=\"https://twitter.com/damienaicheh\">Damien Aicheh</a></p>",
+          "description_markdown": "Damien has released GitHub Actions to help you manipulate the version of your mobile application. \r\n\r\n[**Manage your mobile applications versions with GitHub Actions**](https://damienaicheh.github.io/tools/2021/09/07/tool-update-mobile-version-github-actions-en.html) by [Damien Aicheh](https://twitter.com/damienaicheh)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "AH80Mm8",
+              "title": "**Manage your mobile applications versions with GitHub Actions**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/tools/2021/09/07/tool-update-mobile-version-github-actions-en.html"
+            },
+            {
+              "identifier": "4lQmo7Z",
+              "title": "Damien Aicheh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damienaicheh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "2owoXte",
+          "type": "Link",
+          "title": "Staged Rollouts and Phased Release on Google Play and App Store Connect",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/using-phased-releases-on-google-play-and-app-store-connect/",
+          "description": "<p>What is a phased release/staged rollout, when should you use them, and how much control do you have for you iOS, Mac, and Android apps?</p>\n\n<p><a href=\"https://montemagno.com/using-phased-releases-on-google-play-and-app-store-connect/\"><strong>Staged Rollouts &amp; Phased Release on Google Play and App Store Connect</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "What is a phased release/staged rollout, when should you use them, and how much control do you have for you iOS, Mac, and Android apps?\r\n\r\n[**Staged Rollouts & Phased Release on Google Play and App Store Connect**](https://montemagno.com/using-phased-releases-on-google-play-and-app-store-connect/) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Q9FKzPK",
+              "title": "**Staged Rollouts & Phased Release on Google Play and App Store Connect**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/using-phased-releases-on-google-play-and-app-store-connect/"
+            },
+            {
+              "identifier": "aVm17Ec",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "cdasICK",
+          "type": "Link",
+          "title": "Multi targeting based on file name in MAUI",
+          "url_domain": "pieeatingninjas.be",
+          "url": "https://blog.pieeatingninjas.be/2021/09/09/multi-targeting-based-on-file-name-in-maui/",
+          "description": "<p>Multi targeting is at the heart of MAUI! We can even do multi targeting based on file name. Just a few tweaks in your csprojs are needed for that!</p>\n\n<p><a href=\"https://blog.pieeatingninjas.be/2021/09/09/multi-targeting-based-on-file-name-in-maui/\"><strong>Multi targeting based on file name in MAUI</strong></a> by <a href=\"https://twitter.com/nijspieter\">Pieter Nijs</a></p>",
+          "description_markdown": "Multi targeting is at the heart of MAUI! We can even do multi targeting based on file name. Just a few tweaks in your csprojs are needed for that!\r\n\r\n[**Multi targeting based on file name in MAUI**](https://blog.pieeatingninjas.be/2021/09/09/multi-targeting-based-on-file-name-in-maui/) by [Pieter Nijs](https://twitter.com/nijspieter)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "b0by9GF",
+              "title": "**Multi targeting based on file name in MAUI**",
+              "url_domain": "pieeatingninjas.be",
+              "url": "https://blog.pieeatingninjas.be/2021/09/09/multi-targeting-based-on-file-name-in-maui/"
+            },
+            {
+              "identifier": "EBmmpX8",
+              "title": "Pieter Nijs",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nijspieter"
+            }
+          ]
+        },
+        {
+          "identifier": "gPUrG5L",
+          "type": "Link",
+          "title": "How to Customize .NET MAUI Controls with Handler Architecture",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/how-to-customize-net-maui-controls-with-handler-architecture.aspx",
+          "description": "<p>.NET MAUI Handlers  map their cross-platform controls to native controls. In this post, we are going to discuss how to customize your .NET MAUI controls using this marvelous handler architecture.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/how-to-customize-net-maui-controls-with-handler-architecture.aspx\"><strong>How to Customize .NET MAUI Controls with Handler Architecture</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": ".NET MAUI Handlers  map their cross-platform controls to native controls. In this post, we are going to discuss how to customize your .NET MAUI controls using this marvelous handler architecture.\r\n\r\n[**How to Customize .NET MAUI Controls with Handler Architecture**](https://www.syncfusion.com/blogs/post/how-to-customize-net-maui-controls-with-handler-architecture.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "6zLX7il",
+              "title": "**How to Customize .NET MAUI Controls with Handler Architecture**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/how-to-customize-net-maui-controls-with-handler-architecture.aspx"
+            },
+            {
+              "identifier": "TJmrCMF",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        },
+        {
+          "identifier": "jgaNJOR",
+          "type": "Link",
+          "title": "Apples in MAUI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/apples-maui",
+          "description": "<p>Let’s take a look at some common stumbling blocks for .NET MAUI development on MacOS and ways to get around for a smooth developer experience.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/apples-maui\"><strong>Apples in MAUI</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Let’s take a look at some common stumbling blocks for .NET MAUI development on MacOS and ways to get around for a smooth developer experience.\r\n\r\n[**Apples in MAUI**](https://www.telerik.com/blogs/apples-maui) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "tihdgVf",
+              "title": "**Apples in MAUI**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/apples-maui"
+            },
+            {
+              "identifier": "79sYU8q",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        },
+        {
+          "identifier": "6LlVIlP",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #23",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-23",
+          "description": "<p>Sam updates us on all the latest in MAUI.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-23\"><strong>Sands of MAUI: Issue #23</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam updates us on all the latest in MAUI.\r\n\r\n[**Sands of MAUI: Issue #23**](https://www.telerik.com/blogs/sands-maui-issue-23) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Ygppj6F",
+              "title": "**Sands of MAUI: Issue #23**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-23"
+            },
+            {
+              "identifier": "TsomFMW",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "Cw1GPRY",
+          "type": "Link",
+          "title": "Merge Conflict: 270: M1 on the road, phased release, new SQLite-net, and .NET MAUI ready libraries",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/270",
+          "description": "<p>Frank is on the road, but we answer your questions in this week's podcast featuring lightning topics! We take a look at the latest enhancements to SQLite-net from Frank, how to get your libraries .NET MAUI and .NET 6 ready, and what is the proper way to do phased rollouts on iOS and Android.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/270\"><strong>Merge Conflict: 270: M1 on the road, phased release, new SQLite-net, and .NET MAUI ready libraries</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "Frank is on the road, but we answer your questions in this week's podcast featuring lightning topics! We take a look at the latest enhancements to SQLite-net from Frank, how to get your libraries .NET MAUI and .NET 6 ready, and what is the proper way to do phased rollouts on iOS and Android.\r\n\r\n[**Merge Conflict: 270: M1 on the road, phased release, new SQLite-net, and .NET MAUI ready libraries**](https://www.mergeconflict.fm/270) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "3hLdBwL",
+              "title": "**Merge Conflict: 270: M1 on the road, phased release, new SQLite-net, and .NET MAUI ready libraries**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/270"
+            },
+            {
+              "identifier": "Mznc6lt",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "nfbQGj8",
+          "type": "Link",
+          "title": "App Crash Details Without Hassle with App Center Diagnostics in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=jr2Fe-Wan9c",
+          "description": "<p>Asking your user how a crash happened isn't usually very effective. Lucky for us there is now App Center Diagnostics! With this tool you can get full stack traces with all crash report details while only implementing a minimal amount of code. In this video I'll show you how to get started in a Xamarin.Forms app.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=jr2Fe-Wan9c\"><strong>App Crash Details Without Hassle with App Center Diagnostics in Xamarin.Forms</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Asking your user how a crash happened isn't usually very effective. Lucky for us there is now App Center Diagnostics! With this tool you can get full stack traces with all crash report details while only implementing a minimal amount of code. In this video I'll show you how to get started in a Xamarin.Forms app.\r\n\r\n[**App Crash Details Without Hassle with App Center Diagnostics in Xamarin.Forms**](https://www.youtube.com/watch?v=jr2Fe-Wan9c) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "BZWmZ1W",
+              "title": "**App Crash Details Without Hassle with App Center Diagnostics in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=jr2Fe-Wan9c"
+            },
+            {
+              "identifier": "ADjpEes",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "Pe3Z0Zq",
+          "type": "Link",
+          "title": "Null Pointers 69: Learning a new language",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/69/",
+          "description": "<p>The Null Pointers lads sit down and discuss learning new coding languages. What new languages are they looking to pick up? And is it even easy to start to learn a new one? What does it all entail?</p>\n\n<p><a href=\"https://nullpointers.io/69/\"><strong>69: Learning a new language</strong></a> by <a href=\"https://nullpointers.io/\">Null Pointers</a></p>",
+          "description_markdown": "The Null Pointers lads sit down and discuss learning new coding languages. What new languages are they looking to pick up? And is it even easy to start to learn a new one? What does it all entail? \r\n\r\n[**69: Learning a new language**](https://nullpointers.io/69/) by [Null Pointers](https://nullpointers.io/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Bc1z1H3",
+              "title": "**69: Learning a new language**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/69/"
+            },
+            {
+              "identifier": "NBSGwr1",
+              "title": "Null Pointers",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/"
+            }
+          ]
+        },
+        {
+          "identifier": "UrZldA1",
+          "type": "Link",
+          "title": "Sam Basu on NET MAUI",
+          "url_domain": "davidgiard.com",
+          "url": "https://www.davidgiard.com/2021/09/06/SamBasuOnNETMAUI.aspx",
+          "description": "<p>Sam Basu discusses .NET MAUI - the next generation of Xamarin Forms. It allows developers to write code in C# and XAML and target application at iOS, MacOS, Android, and Windows.</p>\n\n<p><a href=\"https://www.davidgiard.com/2021/09/06/SamBasuOnNETMAUI.aspx\"><strong>Sam Basu on NET MAUI</strong></a> by <a href=\"https://twitter.com/DavidGiard\">David Giard</a></p>",
+          "description_markdown": "Sam Basu discusses .NET MAUI - the next generation of Xamarin Forms. It allows developers to write code in C# and XAML and target application at iOS, MacOS, Android, and Windows.\r\n\r\n[**Sam Basu on NET MAUI**](https://www.davidgiard.com/2021/09/06/SamBasuOnNETMAUI.aspx) by [David Giard](https://twitter.com/DavidGiard)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "BgdQA98",
+              "title": "**Sam Basu on NET MAUI**",
+              "url_domain": "davidgiard.com",
+              "url": "https://www.davidgiard.com/2021/09/06/SamBasuOnNETMAUI.aspx"
+            },
+            {
+              "identifier": "ysOcqDy",
+              "title": "David Giard",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DavidGiard"
+            }
+          ]
+        },
+        {
+          "identifier": "rU7RtmX",
+          "type": "Link",
+          "title": "Custom Tabs UI Animation with Shadow",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=kQ3gzu_luf8",
+          "description": "<p>Xamarin Guy shows how to create a custom Tabs UI in Xamarin Forms along with Shadows</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=kQ3gzu_luf8\"><strong>Xamarin Forms Custom Tabs UI Animation with Shadow</strong></a> by <a href=\"https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ\">Xamarin Guy</a></p>",
+          "description_markdown": "Xamarin Guy shows how to create a custom Tabs UI in Xamarin Forms along with Shadows\r\n\r\n[**Xamarin Forms Custom Tabs UI Animation with Shadow**](https://www.youtube.com/watch?v=kQ3gzu_luf8) by [Xamarin Guy](https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "IauAItN",
+              "title": "**Xamarin Forms Custom Tabs UI Animation with Shadow**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=kQ3gzu_luf8"
+            },
+            {
+              "identifier": "LXMJDMM",
+              "title": "Xamarin Guy",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ"
+            }
+          ]
+        },
+        {
+          "identifier": "B1yJWmb",
+          "type": "Link",
+          "title": "Spy on Your Users with App Center Analytics!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=LnXf-ij1eUU",
+          "description": "<p>After you have released your app it can be very insightful to track how users use your app. That is exactly what you can do with App Center Analytics. With Analytics you can start tracking events with just a couple of lines of code and get all kinds of info about how many users are using your app, for how long, where from and more!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=LnXf-ij1eUU\"><strong>Spy on Your Users with App Center Analytics!</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "After you have released your app it can be very insightful to track how users use your app. That is exactly what you can do with App Center Analytics. With Analytics you can start tracking events with just a couple of lines of code and get all kinds of info about how many users are using your app, for how long, where from and more!\r\n\r\n[**Spy on Your Users with App Center Analytics!**](https://www.youtube.com/watch?v=LnXf-ij1eUU) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "DsBDsw1",
+              "title": "**Spy on Your Users with App Center Analytics!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=LnXf-ij1eUU"
+            },
+            {
+              "identifier": "N8V6tLX",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

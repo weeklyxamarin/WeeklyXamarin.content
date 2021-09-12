@@ -695,6 +695,16 @@
       ]
     },
     {
+      "Name": "Corey Bohon",
+      "Id": "https://twitter.com/coryb",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/coryb"
+        }
+      ]
+    },
+    {
       "Name": "Craig Dunn",
       "Id": "https://devblogs.microsoft.com/surface-duo/author/craigdunn/",
       "Aliases": [
@@ -856,6 +866,16 @@
         }
       ],
       "Website": "https://www.davidbritch.com"
+    },
+    {
+      "Name": "David Giard",
+      "Id": "https://twitter.com/davidgiard",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/davidgiard"
+        }
+      ]
     },
     {
       "Name": "David Ortinau",

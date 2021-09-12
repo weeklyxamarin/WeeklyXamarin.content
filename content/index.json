@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "320",
+      "Name": "Issue 320",
+      "UpdatedTimeStamp": "2021-09-12T11:57:54Z",
+      "Summary": "Jam packed full of MAUI.",
+      "PublishDate": "2021-09-12T11:57:52Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "319",
       "Name": "Issue 319",
       "UpdatedTimeStamp": "2021-09-05T11:42:43Z",

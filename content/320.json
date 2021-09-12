@@ -1,0 +1,137 @@
+{
+  "Id": "320",
+  "Name": "Issue 320",
+  "UpdatedTimeStamp": "2021-09-12T11:57:54Z",
+  "Summary": "Jam packed full of MAUI.",
+  "Introduction": "G'day everyone,  Welcome to issue #320 of Weekly Xamarin, which is jam packed full of MAUI.  Get your credit cards ready because there is an Apple event coming this week.  Also buckle up for the first Release candidate of MAUI which is coming this month. ❤ Kym",
+  "PublishDate": "2021-09-12T11:57:52Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Getting the Most Out of Virtual Conferences",
+      "Url": "https://martiancraft.com/blog/2021/09/virtual-conferences/",
+      "Description": "It’s looking like virtual conferences are here to stay. Learn some pro tips for getting the most out of virtual events from the company that pioneered remote working.",
+      "EditionId": "320",
+      "Author": "Corey Bohon",
+      "Id": "320-1",
+      "Category": "BUSINESS & MARKETING"
+    },
+    {
+      "Title": "Creating Cake script for building and deploying Xamarin app - Part 2",
+      "Url": "https://damianantonowicz.pl/2021/09/05/creating-cake-script-for-building-and-deploying-xamarin-app-part-2-building-xamarin-app",
+      "Description": "In the second post by Damian he shows how to use Cake to build Xamarin app for different environments. Things such as updating platform specific files (AndroidManifest.xml and Info.plist) and create platform specific packages (APK and IPA).",
+      "EditionId": "320",
+      "Author": "Damian Antonowicz",
+      "Id": "320-2",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Manage your mobile applications versions with GitHub Actions",
+      "Url": "https://damienaicheh.github.io/tools/2021/09/07/tool-update-mobile-version-github-actions-en.html",
+      "Description": "Damien has released GitHub Actions to help you manipulate the version of your mobile application.",
+      "EditionId": "320",
+      "Author": "Damien Aicheh",
+      "Id": "320-3",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Staged Rollouts and Phased Release on Google Play and App Store Connect",
+      "Url": "https://montemagno.com/using-phased-releases-on-google-play-and-app-store-connect/",
+      "Description": "What is a phased release/staged rollout, when should you use them, and how much control do you have for you iOS, Mac, and Android apps?",
+      "EditionId": "320",
+      "Author": "James Montemagno",
+      "Id": "320-4",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Multi targeting based on file name in MAUI",
+      "Url": "https://blog.pieeatingninjas.be/2021/09/09/multi-targeting-based-on-file-name-in-maui/",
+      "Description": "Multi targeting is at the heart of MAUI! We can even do multi targeting based on file name. Just a few tweaks in your csprojs are needed for that!",
+      "EditionId": "320",
+      "Author": "Pieter Nijs",
+      "Id": "320-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "How to Customize .NET MAUI Controls with Handler Architecture",
+      "Url": "https://www.syncfusion.com/blogs/post/how-to-customize-net-maui-controls-with-handler-architecture.aspx",
+      "Description": ".NET MAUI Handlers  map their cross-platform controls to native controls. In this post, we are going to discuss how to customize your .NET MAUI controls using this marvelous handler architecture.",
+      "EditionId": "320",
+      "Author": "Selva Ganapathy Kathiresan",
+      "Id": "320-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Apples in MAUI",
+      "Url": "https://www.telerik.com/blogs/apples-maui",
+      "Description": "Let’s take a look at some common stumbling blocks for .NET MAUI development on MacOS and ways to get around for a smooth developer experience.",
+      "EditionId": "320",
+      "Author": "Sam Basu",
+      "Id": "320-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #23",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-23",
+      "Description": "Sam updates us on all the latest in MAUI.",
+      "EditionId": "320",
+      "Author": "Sam Basu",
+      "Id": "320-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Merge Conflict: 270: M1 on the road, phased release, new SQLite-net, and .NET MAUI ready libraries",
+      "Url": "https://www.mergeconflict.fm/270",
+      "Description": "Frank is on the road, but we answer your questions in this week's podcast featuring lightning topics! We take a look at the latest enhancements to SQLite-net from Frank, how to get your libraries .NET MAUI and .NET 6 ready, and what is the proper way to do phased rollouts on iOS and Android.",
+      "EditionId": "320",
+      "Author": "Merge Conflict",
+      "Id": "320-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "App Crash Details Without Hassle with App Center Diagnostics in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=jr2Fe-Wan9c",
+      "Description": "Asking your user how a crash happened isn't usually very effective. Lucky for us there is now App Center Diagnostics! With this tool you can get full stack traces with all crash report details while only implementing a minimal amount of code. In this video I'll show you how to get started in a Xamarin.Forms app.",
+      "EditionId": "320",
+      "Author": "Gerald Versluis",
+      "Id": "320-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 69: Learning a new language",
+      "Url": "https://nullpointers.io/69/",
+      "Description": "The Null Pointers lads sit down and discuss learning new coding languages. What new languages are they looking to pick up? And is it even easy to start to learn a new one? What does it all entail?",
+      "EditionId": "320",
+      "Author": "Null Pointers",
+      "Id": "320-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Sam Basu on NET MAUI",
+      "Url": "https://www.davidgiard.com/2021/09/06/SamBasuOnNETMAUI.aspx",
+      "Description": "Sam Basu discusses .NET MAUI - the next generation of Xamarin Forms. It allows developers to write code in C# and XAML and target application at iOS, MacOS, Android, and Windows.",
+      "EditionId": "320",
+      "Author": "David Giard",
+      "Id": "320-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Custom Tabs UI Animation with Shadow",
+      "Url": "https://www.youtube.com/watch?v=kQ3gzu_luf8",
+      "Description": "Xamarin Guy shows how to create a custom Tabs UI in Xamarin Forms along with Shadows",
+      "EditionId": "320",
+      "Author": "Xamarin Guy",
+      "Id": "320-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Spy on Your Users with App Center Analytics!",
+      "Url": "https://www.youtube.com/watch?v=LnXf-ij1eUU",
+      "Description": "After you have released your app it can be very insightful to track how users use your app. That is exactly what you can do with App Center Analytics. With Analytics you can start tracking events with just a couple of lines of code and get all kinds of info about how many users are using your app, for how long, where from and more!",
+      "EditionId": "320",
+      "Author": "Gerald Versluis",
+      "Id": "320-14",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
