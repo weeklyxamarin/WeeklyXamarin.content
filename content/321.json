@@ -1,0 +1,182 @@
+{
+  "Id": "321",
+  "Name": "Issue 321",
+  "UpdatedTimeStamp": "2021-09-18T13:29:52Z",
+  "Summary": "Design, Tools and MAUI (just not yet)",
+  "Introduction": "G'day everyone. Well, you've probably heard the news that MAUI is going to have some more time baking in the oven. I for one think this is good news and I've been really pleased with the positive reception around the developer community. Much better to have a stable amazing release than hitting a timeframe. We've got a pretty big edition this week with some Design articles, lots of MAUI, and some cool tools. Have a great week everyone! ❤ Kym",
+  "PublishDate": "2021-09-18T13:29:49Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Update on .NET Multi-platform App UI (.NET MAUI)",
+      "Url": "https://devblogs.microsoft.com/dotnet/update-on-dotnet-maui/",
+      "Description": "Update on .NET Multi-platform App UI (.NET MAUI) - Spoiler: not this year.",
+      "EditionId": "321",
+      "Author": "Scott Hunter",
+      "Id": "321-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Avatar Design",
+      "Url": "https://blog.prototypr.io/designing-the-avatar-all-you-need-to-know-a22af3daa1f2",
+      "Description": "Diving into the Userpic: different events, states, actions, color choices — best practices for UI design and some inspiration sprinkled in as well.",
+      "EditionId": "321",
+      "Author": "Roman Kamushken",
+      "Id": "321-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "System UIcons",
+      "Url": "https://systemuicons.com/",
+      "Description": "A growing collection of simple and consistent icons specifically designed for systems and products. Use how you want, without attribution.",
+      "EditionId": "321",
+      "Author": "Corey Ginnivan",
+      "Id": "321-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "AndroidSdk.Tools",
+      "Url": "https://github.com/Redth/AndroidSdk.Tools",
+      "Description": ".NET Library + global tool for various Android SDK Manager, ADB, AVD, Emulator commands by Jon Dick. I was a little curious as to what this might be useful for but there is a good example of a common scenario of creating, starting and deploying an apk to an emulator in CI.",
+      "EditionId": "321",
+      "Author": "Jon Dick",
+      "Id": "321-4",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Syncfusion 2021 Volume 3",
+      "Url": "https://www.syncfusion.com/blogs/post/sneak-peek-at-2021-volume-3-xamarin-forms.aspx",
+      "Description": "Syncfusion is working on the third major release of 2021. You can expect the 2021 Volume 3 release in the last week of September. This blog looks at the new features for the Xamarin.Forms platform in this release.",
+      "EditionId": "321",
+      "Author": "Selva Ganapathy Kathiresan",
+      "Id": "321-5",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Sharpnado.MaterialFrame for macOS",
+      "Url": "https://www.sharpnado.com/materialframe-macos/",
+      "Description": "Sharpnado MaterialFrame is making its way to macOS via work by Joachim - in this guest post he talks about implementing it.",
+      "EditionId": "321",
+      "Author": "Joachim Leonfellner",
+      "Id": "321-6",
+      "Category": "MAC"
+    },
+    {
+      "Title": "Password validation rules with Xamarin Forms",
+      "Url": "https://luismts.com/password-validation-rules-xamarin-forms/",
+      "Description": "Learn how to apply validation rules to your app passwords in Xamarin.Forms. The best, and fastest, way is to use the library Plugin.ValidationRules.",
+      "EditionId": "321",
+      "Author": "Luis Matos",
+      "Id": "321-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Overlapping avatar badges",
+      "Url": "https://kymphillpotts.com/avatar-groups.html",
+      "Description": "Overlapping avatar badges are an effective way to show a collection of people, especially where space is at a premium. In this article we look at how to create this UI in Xamarin.Forms and MAUI.",
+      "EditionId": "321",
+      "Author": "Kym Phillpotts",
+      "Id": "321-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Microsoft Releases .NET MAUI Compatibility Packages for the Xamarin Community Toolkit ",
+      "Url": "https://www.infoq.com/news/2021/09/community-toolkit-maui-compat",
+      "Description": "As previously announced .NET MAUI Toolkit will replace Xamarin Community Toolkit. In the same way as Xamarin. The Xamarin Community Toolkit is evolving as well, with Xamarin.Forms becoming.NET MAUI. The new Community Toolkit packages for .NET MAUI are available and fully optimized for it. Those packages are, CommunityToolkit.Maui and CommunityToolkit.Maui.Markup",
+      "EditionId": "321",
+      "Author": "Almir Vuk",
+      "Id": "321-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Release Delayed to 2022",
+      "Url": "http://billreiss.com/2021/09/15/net_maui_release_delayed_to_2022/",
+      "Description": "Bill discusses the delay of .NET MAUI until next year.",
+      "EditionId": "321",
+      "Author": "Bill Reiss",
+      "Id": "321-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #24",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-24",
+      "Description": "Sam brings us up to speed with all things MAUI in another episode of the Sands of MAUI.",
+      "EditionId": "321",
+      "Author": "Sam Basu",
+      "Id": "321-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI – Steps to Update to Preview 8",
+      "Url": "https://egvijayanand.in/2021/09/17/net-maui-steps-to-update-to-preview-8/",
+      "Description": "Steps to install the prerequisites for .NET MAUI Preview 8 and Workload installation from within Visual Studio 2022 Preview 4 Installer.",
+      "EditionId": "321",
+      "Author": "Vijay Anand EG",
+      "Id": "321-12",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Merge Conflict: 271: How not to monetize an app",
+      "Url": "https://www.mergeconflict.fm/271",
+      "Description": "It has been a week since James did his \"phased release\" for his apps, how did it go, and would he recommend it. We also discuss how to actually monetize your app correctly when you have in-app purchases.",
+      "EditionId": "321",
+      "Author": "Merge Conflict",
+      "Id": "321-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Using & Creating C# Extension Methods",
+      "Url": "https://www.youtube.com/watch?v=D_FiBoJNhTE",
+      "Description": "With C# extension methods you can extend objects that you might not even have the source code from! In this video we will learn what extension methods are, how to use them and how to create one yourself!",
+      "EditionId": "321",
+      "Author": "Gerald Versluis",
+      "Id": "321-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Free and Easy Continuous Integration with Visual Studio App Center",
+      "Url": "https://www.youtube.com/watch?v=L2Q-jFnxXy8",
+      "Description": "If you are looking for a free and easy way to get builds going for your mobile apps, Visual Studio App Center might be for you. With App Center Builds, it has never been easier to setup a build. In this video I will show you how to setup builds for a Xamarin app with iOS and Android.",
+      "EditionId": "321",
+      "Author": "Gerald Versluis",
+      "Id": "321-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Dual Screen Support for Mobile & Desktop with the Surface Duo team",
+      "Url": "https://www.youtube.com/watch?v=vHGjuqVGAbY",
+      "Description": "This week James is joined by Craig Dunn from the Surface Duo team who is here to explain exactly what it means to develop for the Surface Duo and other dual-screen devices.",
+      "EditionId": "321",
+      "Author": "James Montemagno",
+      "Id": "321-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 70: What is Happening With Xamarin.Forms?!",
+      "Url": "https://nullpointers.io/70/",
+      "Description": "In this pod we talk about the current status and future of Xamarin.Forms. Everyone is talking about .NET MAUI nowadays, but is Xamarin.Forms also still getting some love? And why is Forms becoming .NET MAUI anyway? And why is there a baby crying?!",
+      "EditionId": "321",
+      "Author": "Null Pointers",
+      "Id": "321-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The .NET MAUI Podcast Episode 98: The Ultimate .NET MAUI Update",
+      "Url": "https://www.dotnetmauipodcast.com/98",
+      "Description": ".NET 6 release candidate is out ... and that means there's big news around .NET MAUI. Tune in to find out what David Ortinau has to say!",
+      "EditionId": "321",
+      "Author": ".NET MAUI Podcast",
+      "Id": "321-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "What’s New in Telerik UI for Xamarin R3 2021",
+      "Url": "https://www.telerik.com/blogs/whats-new-telerik-ui-xamarin-r3-2021",
+      "Description": "Telerik UI for Xamarin R3 2021: DataMatrix Barcode Type, New Features for Calendar, RichTextEditor & More",
+      "EditionId": "321",
+      "Author": "Yoan Krumov",
+      "Id": "321-19",
+      "Category": "RELEASES"
+    }
+  ]
+}

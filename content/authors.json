@@ -705,6 +705,16 @@
       ]
     },
     {
+      "Name": "Corey Ginnivan",
+      "Id": "https://twitter.com/coreyginnivan",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/coreyginnivan"
+        }
+      ]
+    },
+    {
       "Name": "Craig Dunn",
       "Id": "https://devblogs.microsoft.com/surface-duo/author/craigdunn/",
       "Aliases": [
@@ -1560,6 +1570,16 @@
       "GitHubHandle": "",
       "Id": "https://twitter.com/jimbobbennett",
       "Website": "https://jimbobbennett.io/"
+    },
+    {
+      "Name": "Joachim Leonfellner",
+      "Id": "https://twitter.com/johnny_leo",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/johnny_leo"
+        }
+      ]
     },
     {
       "Name": "Joe Meyer",
@@ -2762,6 +2782,16 @@
       ]
     },
     {
+      "Name": "Roman Kamushken",
+      "Id": "https://twitter.com/kamushken",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/kamushken"
+        }
+      ]
+    },
+    {
       "Name": "Roxana Jula",
       "Id": "https://twitter.com/roxanajula",
       "Aliases": [
@@ -3435,6 +3465,16 @@
       "Website": "https://vijay1729.wordpress.com"
     },
     {
+      "Name": "Vijay Anand EG",
+      "Id": "https://twitter.com/egvijayanand",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/egvijayanand"
+        }
+      ]
+    },
+    {
       "Name": "Vijayakumar Yoganandan",
       "Id": "https://www.syncfusion.com/blogs/author/vijayakumar-yoganandansyncfusion-com",
       "Aliases": [
@@ -3603,6 +3643,16 @@
         {
           "Type": "blog",
           "Name": "https://www.telerik.com/blogs/author/yana-kerpecheva"
+        }
+      ]
+    },
+    {
+      "Name": "Yoan Krumov",
+      "Id": "https://www.linkedin.com/in/yoankrumov/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.linkedin.com/in/yoankrumov/"
         }
       ]
     },
