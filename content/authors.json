@@ -253,13 +253,9 @@
     },
     {
       "Name": "Andreas Wäscher",
+      "GitHubHandle": "awaescher",
       "Id": "https://github.com/awaescher",
-      "Aliases": [
-        {
-          "Type": "github",
-          "Name": "https://github.com/awaescher"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Andrei Misiukevich",
@@ -468,13 +464,9 @@
     },
     {
       "Name": "Brad Dean",
+      "GitHubHandle": "truegeek",
       "Id": "https://github.com/truegeek",
-      "Aliases": [
-        {
-          "Type": "github",
-          "Name": "https://github.com/truegeek"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Brandon Minnick",
@@ -557,13 +549,9 @@
     },
     {
       "Name": "Chris Coyier",
+      "GitHubHandle": "chriscoyier",
       "Id": "https://github.com/chriscoyier",
-      "Aliases": [
-        {
-          "Type": "github",
-          "Name": "https://github.com/chriscoyier"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Chris Downie",
@@ -1106,13 +1094,9 @@
     },
     {
       "Name": "GitHub",
+      "GitHubHandle": "layla-p/hacktoberfestproject",
       "Id": "https://github.com/layla-p/hacktoberfestproject",
-      "Aliases": [
-        {
-          "Type": "github",
-          "Name": "https://github.com/layla-p/hacktoberfestproject"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Glenn Stephens",
@@ -1316,13 +1300,9 @@
     },
     {
       "Name": "Jason Johnston",
+      "GitHubHandle": "jasonjoh",
       "Id": "https://github.com/jasonjoh",
-      "Aliases": [
-        {
-          "Type": "github",
-          "Name": "https://github.com/jasonjoh"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Javier Suarez",
@@ -1889,13 +1869,9 @@
     },
     {
       "Name": "Marius Muntean",
+      "GitHubHandle": "mariusmuntean",
       "Id": "https://github.com/mariusmuntean",
-      "Aliases": [
-        {
-          "Type": "github",
-          "Name": "https://github.com/mariusmuntean"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Mark Allibone",
@@ -2171,13 +2147,9 @@
     },
     {
       "Name": "Nat Friedman",
+      "GitHubHandle": "nat",
       "Id": "https://github.com/nat",
-      "Aliases": [
-        {
-          "Type": "github",
-          "Name": "https://github.com/nat"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Naweed Akram",
@@ -2405,23 +2377,15 @@
     },
     {
       "Name": "Rachel Kang",
+      "GitHubHandle": "rachelkang",
       "Id": "https://github.com/rachelkang",
-      "Aliases": [
-        {
-          "Type": "github",
-          "Name": "https://github.com/rachelkang"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Rafael Veronezi",
+      "GitHubHandle": "ravero",
       "Id": "https://github.com/ravero",
-      "Aliases": [
-        {
-          "Type": "github",
-          "Name": "https://github.com/ravero"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Rahul Shah",
@@ -2851,13 +2815,9 @@
     },
     {
       "Name": "Summitech",
+      "GitHubHandle": "summitech",
       "Id": "https://github.com/summitech",
-      "Aliases": [
-        {
-          "Type": "github",
-          "Name": "https://github.com/summitech"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Sundaram Subramanian",
@@ -3243,13 +3203,9 @@
     },
     {
       "Name": "Vladislav Antonyuk",
+      "GitHubHandle": "vladislavantonyuk",
       "Id": "https://github.com/vladislavantonyuk",
-      "Aliases": [
-        {
-          "Type": "github",
-          "Name": "https://github.com/vladislavantonyuk"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Vulcan Lee",
