@@ -1,0 +1,236 @@
+{
+  "Id": "322",
+  "Name": "Issue 322",
+  "UpdatedTimeStamp": "2021-10-01T05:11:41Z",
+  "Summary": "Go Watch XamExpertDay!",
+  "Introduction": "Hey Folks, Sorry for missing the newsletter last week, but hoping you had a productive week, and that means this week is overflowing with great articles and links for you to enjoy. Also, in just a few hours from now [XamExpertDay2021](https://xamexpertday.com/) is streaming live so make sure you join in on the fun (no registration necessary). Take care, and I'll see you at XamExpertDay ;-) ❤ Kym",
+  "PublishDate": "2021-10-01T05:11:38Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Mark your calendars: Android Dev Summit, Chrome Dev Summit and Firebase Summit are coming your way in a few weeks! ",
+      "Url": "https://developers.googleblog.com/2021/09/save-the-date-fall-events-2021.html",
+      "Description": "Android Developers: it’s time to start marking your calendars for the upcoming dev summits in just a few weeks.",
+      "EditionId": "322",
+      "Author": "Google Developers",
+      "Id": "322-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Xamarin support ends in 2022 on Bitrise ",
+      "Url": "https://blog.bitrise.io/post/xamarin-support-ends-in-2022-on-bitrise",
+      "Description": "At the end of January, 2022 Bitrise will remove Xamarin from its officially supported platforms and with that also remove all VS4 Mac stacks.   :(",
+      "EditionId": "322",
+      "Author": "Bitrise",
+      "Id": "322-2",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Building CI with GitHub Actions for Xamarin apps",
+      "Url": "https://prin53.medium.com/github-actions-xamarin-apps-231a65642631",
+      "Description": "This post describes a GitHub Actions workflow to build, sign and distribute your Xamarin and Xamarin.Forms apps",
+      "EditionId": "322",
+      "Author": "Denys Fiediaiev",
+      "Id": "322-3",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Opening A PDF in Xamarin Forms - Part 1",
+      "Url": "https://doumer.me/opening-a-pdf-in-xamarin-forms-part1-xamarin-ios/",
+      "Description": "This article shows you how to open and preview PDF files in Xamarin Forms. It covers creating the custom Xamarin.iOS control from scratch, including a custom thumb nail.",
+      "EditionId": "322",
+      "Author": "Damien Doumer",
+      "Id": "322-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Improving performance App using compiled bindings in Xamarin Forms",
+      "Url": "https://askxammy.com/improving-performance-app-using-compiled-bindings/",
+      "Description": "Compiled Binding help us to improve performance by resolving binding expressions at compile-time rather than runtime and integrating the IntelliSense, that’s why they are resolved faster than classic bindings.",
+      "EditionId": "322",
+      "Author": "Leomaris Reyes",
+      "Id": "322-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Tips and Ticks when creating a Custom Control in Xamarin Forms. Part. 1",
+      "Url": "https://xamgirl.com/tips-and-ticks-when-creating-a-custom-control-in-xamarin-forms-part-1/",
+      "Description": "Creating a custom control is a common thing to do when developing a Xamarin Forms application. In many cases, the main purpose of creating one is to have a reusable control that we can use across all our application. In this blog post, Charlin covers some tips and tricks for creating them.",
+      "EditionId": "322",
+      "Author": "Charlin Agramonte",
+      "Id": "322-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin Forms Circular Activity Indicator For UWP",
+      "Url": "https://www.c-sharpcorner.com/article/xamarin-forms-circular-activity-indicator-for-uwp/",
+      "Description": "In this article, you will learn about Xamarin Forms custom circular/round activity indicator for UWP.",
+      "EditionId": "322",
+      "Author": "Ninaada Bellippady",
+      "Id": "322-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Getting Device Information with Xamarin Essentials",
+      "Url": "https://askxammy.com/getting-device-information-with-xamarin-essentials/",
+      "Description": "Have you ever had the need to make decisions based on certain information about the device? In this article, Leomaris shows you how easy it is to get device information using Xamarin Essentials.",
+      "EditionId": "322",
+      "Author": "Leomaris Reyes",
+      "Id": "322-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Beautiful gradients with Magic Gradients",
+      "Url": "https://benetskyybogdan.medium.com/design-beautiful-gradients-practical-guide-in-xamarin-forms-with-magic-gradients-57896c1a9efc",
+      "Description": "How to implement beautiful gradients in Xamarin.Forms with the MagicGradients NuGet package.",
+      "EditionId": "322",
+      "Author": "Bohdan Benetskyi",
+      "Id": "322-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms - ContentView Lifecycle",
+      "Url": "https://xamarinmonkeys.blogspot.com/2021/09/xamarinforms-contentview-lifecycle.html",
+      "Description": "Delpin discusses how to use OnAppearing and OnDisAppearing in ContentView in Xamarin forms.",
+      "EditionId": "322",
+      "Author": "Delpin Susai Raj",
+      "Id": "322-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": ".NET MAUI – What’s New in Preview 8",
+      "Url": "https://egvijayanand.in/2021/09/24/net-maui-whats-new-in-preview-8/",
+      "Description": "Changes in .NET MAUI Preview 8 with Abstract and Host Builder pattern. Windows, via WinUI 3, now part and parcel of the Single project ecosystem.",
+      "EditionId": "322",
+      "Author": "Vijay Anand EG",
+      "Id": "322-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #26",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-26",
+      "Description": "Sam gives his weekly update on all things MAUI.",
+      "EditionId": "322",
+      "Author": "Sam Basu",
+      "Id": "322-12",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #25",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-25",
+      "Description": "Sam's weekly update on MAUI goodness.",
+      "EditionId": "322",
+      "Author": "Sam Basu",
+      "Id": "322-13",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Fixing build issue in MAUI preview 8",
+      "Url": "https://blog.pieeatingninjas.be/2021/09/19/fixing-build-issue-in-maui-preview-8/",
+      "Description": "Peter shares some information on common build issues with MAUI preview 8.",
+      "EditionId": "322",
+      "Author": "Pieter Nijs",
+      "Id": "322-14",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "How To Set up .NET MAUI on Windows",
+      "Url": "https://www.claudiobernasconi.ch/2021/09/19/how-to-set-up-dotnet-maui-on-windows/",
+      "Description": "If you have any problem getting started with .NET MAUI, this will help you get .NET MAUI running on Windows.",
+      "EditionId": "322",
+      "Author": "Claudio Bernasconi",
+      "Id": "322-15",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "How to Migrate Xamarin.Forms Apps to .NET MAUI",
+      "Url": "https://arctouch.com/blog/migrate-xamarin-forms-dotnet-maui/",
+      "Description": "Learn how to migrate a Xamarin.Forms app to .NET MAUI with this tutorial from the Xamarin developers at ArcTouch.",
+      "EditionId": "322",
+      "Author": "Ramon Farizel",
+      "Id": "322-16",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Share Images and Videos with Essentials Share in Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=sUxzoSl4SUw",
+      "Description": "With the Essentials Share APIs you can easily share text, images, videos or any file from your Xamarin.Forms application to any other installed application. Think of WhatsApp, Instagram, TikTok, etc. In this video I will show you how to leverage the Xamarin.Essentials Share API to implement sharing like this.",
+      "EditionId": "322",
+      "Author": "Gerald Versluis",
+      "Id": "322-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Highlight New App Features to Your Users with Xamarin.Essentials VersionTracking",
+      "Url": "https://www.youtube.com/watch?v=-2JlbepO_Mc",
+      "Description": "Maybe you need to do a database migration or want to show your users a screen to highlight new features in this app version, you can to that with Essentials VersionTracking! In this video I will show you how to use the Xamarin.Essentials VersionTracking APIs to show app version numbers and make decisions based on that information.",
+      "EditionId": "322",
+      "Author": "Gerald Versluis",
+      "Id": "322-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 272: .NET 6 RC1, .NET MAUI Updates, &amp; iPhone 13 Event Recap",
+      "Url": "https://www.mergeconflict.fm/272",
+      "Description": "What a week! We have you covered with everything happening with .NET 6, .NET MAUI, and a full breakdown of the iPhone 13 event.",
+      "EditionId": "322",
+      "Author": "Merge Conflict",
+      "Id": "322-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Breaking .NET MAUI News!!! And the Preview 8 Updates",
+      "Url": "https://www.youtube.com/watch?v=Iu2KA3dAcM8",
+      "Description": "Gerald covers some important breaking .NET MAUI news! Before we talk about the new things in preview 8, we first need to talk about the delay of .NET MAUI GA and what that means for Xamarin.Forms. And also: a XAML Previewer, XAML Hot Reload and .NET Hot Reload in Visual Studio 2022. All in this video!",
+      "EditionId": "322",
+      "Author": "Gerald Versluis",
+      "Id": "322-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Preview 8 Hands-on - True Single Project, Hot Reload Everywhere, & 1 Click Install",
+      "Url": "https://www.youtube.com/watch?v=Q0qLiBmbOTI",
+      "Description": ".NET MAUI Preview 8 is here wish so many goodies including the new 1 click install with Visual Studio 2022 Preview 4, XAML & C# Hot Reload everywhere, a new XAML Live Preview, and iOS Hot Restart so you can deploy to an iOS from Windows. I break it all down for you!",
+      "EditionId": "322",
+      "Author": "James Montemagno",
+      "Id": "322-21",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Preview 8 - Tips & Tricks | Windows Setup, MVVM Hot Reload, and Dependency Injection",
+      "Url": "https://www.youtube.com/watch?v=BmI0QnwKTsQ",
+      "Description": "You had questions from my last video and I have answers and what better way then with another video! I break down all the things you need to know for Windows setup and deployment, MVVM hot reload of the view model, and how to use those fancy new dependency injection in .NET MAUI.",
+      "EditionId": "322",
+      "Author": "James Montemagno",
+      "Id": "322-22",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Telerik .NET MAUI Release: macOS, ListView and Other Controls",
+      "Url": "https://www.telerik.com/blogs/latest-telerik-ui-dotnet-maui-release-listview-new-components-support-macos-preview-8",
+      "Description": "ListView and Other New Components, Support for macOS and Preview 8",
+      "EditionId": "322",
+      "Author": "Telerik",
+      "Id": "322-23",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "FREE .NET MAUI Data Editors, Template Gallery and More – Early Access Preview Build Available Now (v21.2)",
+      "Url": "https://community.devexpress.com/blogs/mobile/archive/2021/09/30/net-maui-free-early-access-preview-of-data-editors-and-more-for-mobile-development-v21-2.aspx",
+      "Description": "Deliver elegant and high-performance native mobile apps with the DevExpress Xamarin Forms and .NET Multi-platform App UI Controls.",
+      "EditionId": "322",
+      "Author": "DevExpress",
+      "Id": "322-24",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "Syncfusion Essential Studio 2021 Volume 3 Is Here!",
+      "Url": "https://www.syncfusion.com/blogs/post/syncfusion-essential-studio-2021-volume-3-is-here.aspx",
+      "Description": "Syncfusion is happy to announce the availability of the third major release of Essential Studio in 2021. Essential Studio 2021 Volume 3 is packed with new controls, features, and bug fixes in various components on different platforms. We are also excited to introduce brand new controls in the new .N",
+      "EditionId": "322",
+      "Author": "Syncfusion",
+      "Id": "322-25",
+      "Category": "RELEASES"
+    }
+  ]
+}

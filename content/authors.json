@@ -478,6 +478,16 @@
       ]
     },
     {
+      "Name": "Bitrise",
+      "Id": "https://blog.bitrise.io/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://blog.bitrise.io/"
+        }
+      ]
+    },
+    {
       "Name": "Boguslaw Blonski",
       "TwitterHandle": "filipoff",
       "GitHubHandle": "filipoff2",
@@ -661,6 +671,16 @@
         {
           "Type": "blog",
           "Name": "https://devblogs.microsoft.com/xamarin/author/chmatskmicrosoft-com/"
+        }
+      ]
+    },
+    {
+      "Name": "Claudio Bernasconi",
+      "Id": "https://twitter.com/chbernasconic",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/chbernasconic"
         }
       ]
     },
@@ -1255,6 +1275,16 @@
       "GitHubHandle": "",
       "Id": "https://twitter.com/gonemobilecast",
       "Website": "http://gonemobile.io"
+    },
+    {
+      "Name": "Google Developers",
+      "Id": "https://developers.googleblog.com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://developers.googleblog.com/"
+        }
+      ]
     },
     {
       "Name": "Graham High",
@@ -2450,6 +2480,16 @@
       ]
     },
     {
+      "Name": "Ninaada Bellippady",
+      "Id": "https://twitter.com/ninaada",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/ninaada"
+        }
+      ]
+    },
+    {
       "Name": "Null Pointers",
       "Id": "https://nullpointers.io/",
       "Aliases": [
@@ -2653,6 +2693,16 @@
       "GitHubHandle": "ramonesteban78",
       "Id": "https://twitter.com/ramonesteban78",
       "Website": "https://ramonesteban78.github.io/"
+    },
+    {
+      "Name": "Ramon Farizel",
+      "Id": "https://arctouch.com/author/ramon-farizel/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://arctouch.com/author/ramon-farizel/"
+        }
+      ]
     },
     {
       "Name": "ReactiveUI",

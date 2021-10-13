@@ -1,0 +1,662 @@
+{
+  "number": 322,
+  "title": "Issue 322",
+  "summary": "Go Watch XamExpertDay!",
+  "url": "https://weeklyxamarin.com/issues/322",
+  "publication_status": "published",
+  "published_at": "2021-10-01T06:11:38+01:00",
+  "updated_at": "2021-10-01T06:11:41+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hey Folks,</p>\n\n<p>Sorry for missing the newsletter last week, but hoping you had a productive week, and that means this week is overflowing with great articles and links for you to enjoy.</p>\n\n<p>Also, in just a few hours from now <a href=\"https://xamexpertday.com/\">XamExpertDay2021</a> is streaming live so make sure you join in on the fun (no registration necessary).</p>\n\n<p>Take care, and I'll see you at XamExpertDay ;-)</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Hey Folks,\r\n\r\nSorry for missing the newsletter last week, but hoping you had a productive week, and that means this week is overflowing with great articles and links for you to enjoy.\r\n\r\nAlso, in just a few hours from now [XamExpertDay2021](https://xamexpertday.com/) is streaming live so make sure you join in on the fun (no registration necessary).\r\n\r\nTake care, and I'll see you at XamExpertDay ;-)\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "9ozKJS",
+              "title": "XamExpertDay2021",
+              "url_domain": "xamexpertday.com",
+              "url": "https://xamexpertday.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "ONIAc7g",
+          "type": "Link",
+          "title": "Mark your calendars: Android Dev Summit, Chrome Dev Summit and Firebase Summit are coming your way in a few weeks! ",
+          "url_domain": "googleblog.com",
+          "url": "https://developers.googleblog.com/2021/09/save-the-date-fall-events-2021.html",
+          "description": "<p>Android Developers: it’s time to start marking your calendars for the upcoming dev summits in just a few weeks.</p>\n\n<p><a href=\"https://developers.googleblog.com/2021/09/save-the-date-fall-events-2021.html\"><strong>Mark your calendars: Android Dev Summit, Chrome Dev Summit and Firebase Summit are coming your way in a few weeks! </strong></a> by <a href=\"https://developers.googleblog.com/\">Google Developers</a></p>",
+          "description_markdown": "Android Developers: it’s time to start marking your calendars for the upcoming dev summits in just a few weeks.\r\n\r\n[**Mark your calendars: Android Dev Summit, Chrome Dev Summit and Firebase Summit are coming your way in a few weeks! **](https://developers.googleblog.com/2021/09/save-the-date-fall-events-2021.html) by [Google Developers](https://developers.googleblog.com/)",
+          "embedded_links": [
+            {
+              "identifier": "TJZ2N7o",
+              "title": "**Mark your calendars: Android Dev Summit, Chrome Dev Summit and Firebase Summit are coming your way in a few weeks! **",
+              "url_domain": "googleblog.com",
+              "url": "https://developers.googleblog.com/2021/09/save-the-date-fall-events-2021.html"
+            },
+            {
+              "identifier": "Sk5Dsnb",
+              "title": "Google Developers",
+              "url_domain": "googleblog.com",
+              "url": "https://developers.googleblog.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "jX0hI2i",
+          "type": "Link",
+          "title": "Xamarin support ends in 2022 on Bitrise ",
+          "url_domain": "bitrise.io",
+          "url": "https://blog.bitrise.io/post/xamarin-support-ends-in-2022-on-bitrise",
+          "description": "<p>At the end of January, 2022 Bitrise will remove Xamarin from its officially supported platforms and with that also remove all VS4 Mac stacks.   :(</p>\n\n<p><a href=\"https://blog.bitrise.io/post/xamarin-support-ends-in-2022-on-bitrise\"><strong>Xamarin support ends in 2022 on Bitrise</strong></a> by <a href=\"https://blog.bitrise.io/\">Bitrise</a></p>",
+          "description_markdown": "At the end of January, 2022 Bitrise will remove Xamarin from its officially supported platforms and with that also remove all VS4 Mac stacks.   :(\r\n\r\n[**Xamarin support ends in 2022 on Bitrise**](https://blog.bitrise.io/post/xamarin-support-ends-in-2022-on-bitrise) by [Bitrise](https://blog.bitrise.io/)",
+          "embedded_links": [
+            {
+              "identifier": "5UEoUt8",
+              "title": "**Xamarin support ends in 2022 on Bitrise**",
+              "url_domain": "bitrise.io",
+              "url": "https://blog.bitrise.io/post/xamarin-support-ends-in-2022-on-bitrise"
+            },
+            {
+              "identifier": "OFC5v5A",
+              "title": "Bitrise",
+              "url_domain": "bitrise.io",
+              "url": "https://blog.bitrise.io/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "Y7hayzG",
+          "type": "Link",
+          "title": "Building CI with GitHub Actions for Xamarin apps",
+          "url_domain": "medium.com",
+          "url": "https://prin53.medium.com/github-actions-xamarin-apps-231a65642631",
+          "description": "<p>This post describes a GitHub Actions workflow to build, sign and distribute your Xamarin and Xamarin.Forms apps</p>\n\n<p><a href=\"https://prin53.medium.com/github-actions-xamarin-apps-231a65642631\"><strong>Building CI with GitHub Actions for Xamarin apps | by Denys Fiediaiev | Sep, 2021 | Medium</strong></a> by <a href=\"https://medium.com/@prin53\">Denys Fiediaiev</a></p>",
+          "description_markdown": "This post describes a GitHub Actions workflow to build, sign and distribute your Xamarin and Xamarin.Forms apps\r\n\r\n[**Building CI with GitHub Actions for Xamarin apps | by Denys Fiediaiev | Sep, 2021 | Medium**](https://prin53.medium.com/github-actions-xamarin-apps-231a65642631) by [Denys Fiediaiev](https://medium.com/@prin53)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "AFD6L2I",
+              "title": "**Building CI with GitHub Actions for Xamarin apps | by Denys Fiediaiev | Sep, 2021 | Medium**",
+              "url_domain": "medium.com",
+              "url": "https://prin53.medium.com/github-actions-xamarin-apps-231a65642631"
+            },
+            {
+              "identifier": "lVcXozi",
+              "title": "Denys Fiediaiev",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@prin53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "CeAUoe3",
+          "type": "Link",
+          "title": "Opening A PDF in Xamarin Forms - Part 1",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/opening-a-pdf-in-xamarin-forms-part1-xamarin-ios/",
+          "description": "<p>This article shows you how to open and preview PDF files in Xamarin Forms. It covers creating the custom Xamarin.iOS control from scratch, including a custom thumb nail.</p>\n\n<p><a href=\"https://doumer.me/opening-a-pdf-in-xamarin-forms-part1-xamarin-ios/\"><strong>Opening A PDF in Xamarin Forms (Part1: Xamarin.iOS)</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "This article shows you how to open and preview PDF files in Xamarin Forms. It covers creating the custom Xamarin.iOS control from scratch, including a custom thumb nail.\r\n\r\n[**Opening A PDF in Xamarin Forms (Part1: Xamarin.iOS)**](https://doumer.me/opening-a-pdf-in-xamarin-forms-part1-xamarin-ios/) by [Damien Doumer](https://twitter.com/damien_doumer)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Fw0czB3",
+              "title": "**Opening A PDF in Xamarin Forms (Part1: Xamarin.iOS)**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/opening-a-pdf-in-xamarin-forms-part1-xamarin-ios/"
+            },
+            {
+              "identifier": "GB2gfpy",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        },
+        {
+          "identifier": "KQ6Zjeh",
+          "type": "Link",
+          "title": "Improving performance App using compiled bindings in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/improving-performance-app-using-compiled-bindings/",
+          "description": "<p>Compiled Binding help us to improve performance by resolving binding expressions at compile-time rather than runtime and integrating the IntelliSense, that’s why they are resolved faster than classic bindings.</p>\n\n<p><a href=\"https://askxammy.com/improving-performance-app-using-compiled-bindings/\"><strong>Improving performance App using compiled bindings in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Compiled Binding help us to improve performance by resolving binding expressions at compile-time rather than runtime and integrating the IntelliSense, that’s why they are resolved faster than classic bindings.\r\n\r\n[**Improving performance App using compiled bindings in Xamarin Forms**](https://askxammy.com/improving-performance-app-using-compiled-bindings/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "xKAELtU",
+              "title": "**Improving performance App using compiled bindings in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/improving-performance-app-using-compiled-bindings/"
+            },
+            {
+              "identifier": "dElbxGt",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "XyhYnFL",
+          "type": "Link",
+          "title": "Tips and Ticks when creating a Custom Control in Xamarin Forms. Part. 1",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/tips-and-ticks-when-creating-a-custom-control-in-xamarin-forms-part-1/",
+          "description": "<p>Creating a custom control is a common thing to do when developing a Xamarin Forms application. In many cases, the main purpose of creating one is to have a reusable control that we can use across all our application. In this blog post, Charlin covers some tips and tricks for creating them.</p>\n\n<p><a href=\"https://xamgirl.com/tips-and-ticks-when-creating-a-custom-control-in-xamarin-forms-part-1/\"><strong>Tips and Ticks when creating a Custom Control in Xamarin Forms. Part. 1 - XamGirl</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "Creating a custom control is a common thing to do when developing a Xamarin Forms application. In many cases, the main purpose of creating one is to have a reusable control that we can use across all our application. In this blog post, Charlin covers some tips and tricks for creating them.\r\n\r\n[**Tips and Ticks when creating a Custom Control in Xamarin Forms. Part. 1 - XamGirl**](https://xamgirl.com/tips-and-ticks-when-creating-a-custom-control-in-xamarin-forms-part-1/) by [Charlin Agramonte](https://twitter.com/chard003)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ktllhBq",
+              "title": "**Tips and Ticks when creating a Custom Control in Xamarin Forms. Part. 1 - XamGirl**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/tips-and-ticks-when-creating-a-custom-control-in-xamarin-forms-part-1/"
+            },
+            {
+              "identifier": "Em7mIRp",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "qYTjaGw",
+          "type": "Link",
+          "title": "Xamarin Forms Circular Activity Indicator For UWP",
+          "url_domain": "c-sharpcorner.com",
+          "url": "https://www.c-sharpcorner.com/article/xamarin-forms-circular-activity-indicator-for-uwp/",
+          "description": "<p>In this article, you will learn about Xamarin Forms custom circular/round activity indicator for UWP.</p>\n\n<p><a href=\"https://www.c-sharpcorner.com/article/xamarin-forms-circular-activity-indicator-for-uwp/\"><strong>Xamarin Forms Circular Activity Indicator For UWP</strong></a> by <a href=\"https://twitter.com/ninaada\">Ninaada Bellippady</a></p>",
+          "description_markdown": "In this article, you will learn about Xamarin Forms custom circular/round activity indicator for UWP.\r\n\r\n[**Xamarin Forms Circular Activity Indicator For UWP**](https://www.c-sharpcorner.com/article/xamarin-forms-circular-activity-indicator-for-uwp/) by [Ninaada Bellippady](https://twitter.com/ninaada)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "creSgsm",
+              "title": "**Xamarin Forms Circular Activity Indicator For UWP**",
+              "url_domain": "c-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/xamarin-forms-circular-activity-indicator-for-uwp/"
+            },
+            {
+              "identifier": "xi2rRpR",
+              "title": "Ninaada Bellippady",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/ninaada"
+            }
+          ]
+        },
+        {
+          "identifier": "qPtpjev",
+          "type": "Link",
+          "title": "Getting Device Information with Xamarin Essentials",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/getting-device-information-with-xamarin-essentials/",
+          "description": "<p>Have you ever had the need to make decisions based on certain information about the device? In this article, Leomaris shows you how easy it is to get device information using Xamarin Essentials.</p>\n\n<p><a href=\"https://askxammy.com/getting-device-information-with-xamarin-essentials/\"><strong>Getting Device Information with Xamarin Essentials</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Have you ever had the need to make decisions based on certain information about the device? In this article, Leomaris shows you how easy it is to get device information using Xamarin Essentials.\r\n\r\n[**Getting Device Information with Xamarin Essentials**](https://askxammy.com/getting-device-information-with-xamarin-essentials/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "8YOyRX6",
+              "title": "**Getting Device Information with Xamarin Essentials**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/getting-device-information-with-xamarin-essentials/"
+            },
+            {
+              "identifier": "8yvqh7W",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "vxQV5RA",
+          "type": "Link",
+          "title": "Beautiful gradients with Magic Gradients",
+          "url_domain": "medium.com",
+          "url": "https://benetskyybogdan.medium.com/design-beautiful-gradients-practical-guide-in-xamarin-forms-with-magic-gradients-57896c1a9efc",
+          "description": "<p>How to implement beautiful gradients in Xamarin.Forms with the MagicGradients NuGet package.</p>\n\n<p><a href=\"https://benetskyybogdan.medium.com/design-beautiful-gradients-practical-guide-in-xamarin-forms-with-magic-gradients-57896c1a9efc\"><strong>Design beautiful gradients — practical guide in Xamarin.Forms with Magic Gradients</strong></a> by <a href=\"https://twitter.com/bbenetskyy\">Bohdan Benetskyi</a></p>",
+          "description_markdown": "How to implement beautiful gradients in Xamarin.Forms with the MagicGradients NuGet package.\r\n\r\n[**Design beautiful gradients — practical guide in Xamarin.Forms with Magic Gradients**](https://benetskyybogdan.medium.com/design-beautiful-gradients-practical-guide-in-xamarin-forms-with-magic-gradients-57896c1a9efc) by [Bohdan Benetskyi](https://twitter.com/bbenetskyy)",
+          "embedded_links": [
+            {
+              "identifier": "hm6oHi4",
+              "title": "**Design beautiful gradients — practical guide in Xamarin.Forms with Magic Gradients**",
+              "url_domain": "medium.com",
+              "url": "https://benetskyybogdan.medium.com/design-beautiful-gradients-practical-guide-in-xamarin-forms-with-magic-gradients-57896c1a9efc"
+            },
+            {
+              "identifier": "HWMWsNN",
+              "title": "Bohdan Benetskyi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bbenetskyy"
+            }
+          ]
+        },
+        {
+          "identifier": "qPAxSEk",
+          "type": "Link",
+          "title": "Xamarin.Forms - ContentView Lifecycle",
+          "url_domain": "blogspot.com",
+          "url": "https://xamarinmonkeys.blogspot.com/2021/09/xamarinforms-contentview-lifecycle.html",
+          "description": "<p>Delpin discusses how to use OnAppearing and OnDisAppearing in ContentView in Xamarin forms.</p>\n\n<p><a href=\"https://xamarinmonkeys.blogspot.com/2021/09/xamarinforms-contentview-lifecycle.html\"><strong>Xamarin.Forms - ContentView Lifecycle</strong></a> by <a href=\"https://www.blogger.com/profile/12290645674821205145\">Delpin Susai Raj</a></p>",
+          "description_markdown": "Delpin discusses how to use OnAppearing and OnDisAppearing in ContentView in Xamarin forms.\r\n\r\n[**Xamarin.Forms - ContentView Lifecycle**](https://xamarinmonkeys.blogspot.com/2021/09/xamarinforms-contentview-lifecycle.html) by [Delpin Susai Raj](https://www.blogger.com/profile/12290645674821205145)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "LcgDxhy",
+              "title": "**Xamarin.Forms - ContentView Lifecycle**",
+              "url_domain": "blogspot.com",
+              "url": "https://xamarinmonkeys.blogspot.com/2021/09/xamarinforms-contentview-lifecycle.html"
+            },
+            {
+              "identifier": "I52opKf",
+              "title": "Delpin Susai Raj",
+              "url_domain": "blogger.com",
+              "url": "https://www.blogger.com/profile/12290645674821205145"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "RffcMLl",
+          "type": "Link",
+          "title": ".NET MAUI – What’s New in Preview 8",
+          "url_domain": "egvijayanand.in",
+          "url": "https://egvijayanand.in/2021/09/24/net-maui-whats-new-in-preview-8/",
+          "description": "<p>Changes in .NET MAUI Preview 8 with Abstract and Host Builder pattern. Windows, via WinUI 3, now part and parcel of the Single project ecosystem.</p>\n\n<p><a href=\"https://egvijayanand.in/2021/09/24/net-maui-whats-new-in-preview-8/\"><strong>.NET MAUI – What’s New in Preview 8</strong></a> by <a href=\"https://twitter.com/egvijayanand\">Vijay Anand E G</a></p>",
+          "description_markdown": "Changes in .NET MAUI Preview 8 with Abstract and Host Builder pattern. Windows, via WinUI 3, now part and parcel of the Single project ecosystem.\r\n\r\n[**.NET MAUI – What’s New in Preview 8**](https://egvijayanand.in/2021/09/24/net-maui-whats-new-in-preview-8/) by [Vijay Anand E G](https://twitter.com/egvijayanand)",
+          "embedded_links": [
+            {
+              "identifier": "iemUNHF",
+              "title": "**.NET MAUI – What’s New in Preview 8**",
+              "url_domain": "egvijayanand.in",
+              "url": "https://egvijayanand.in/2021/09/24/net-maui-whats-new-in-preview-8/"
+            },
+            {
+              "identifier": "ImIA6XN",
+              "title": "Vijay Anand E G",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/egvijayanand"
+            }
+          ]
+        },
+        {
+          "identifier": "j822ouR",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #26",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-26",
+          "description": "<p>Sam gives his weekly update on all things MAUI.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-26\"><strong>Sands of MAUI: Issue #26</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam gives his weekly update on all things MAUI.\r\n\r\n[**Sands of MAUI: Issue #26**](https://www.telerik.com/blogs/sands-of-maui-issue-26) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "a4ZCeby",
+              "title": "**Sands of MAUI: Issue #26**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-26"
+            },
+            {
+              "identifier": "GxBavn3",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        },
+        {
+          "identifier": "mjaALXd",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #25",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-25",
+          "description": "<p>Sam's weekly update on MAUI goodness.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-25\"><strong>Sands of MAUI: Issue #25</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam's weekly update on MAUI goodness.\r\n\r\n[**Sands of MAUI: Issue #25**](https://www.telerik.com/blogs/sands-maui-issue-25) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)",
+          "embedded_links": [
+            {
+              "identifier": "XxZKt5h",
+              "title": "**Sands of MAUI: Issue #25**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-25"
+            },
+            {
+              "identifier": "IXiV95r",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        },
+        {
+          "identifier": "rccSs4B",
+          "type": "Link",
+          "title": "Fixing build issue in MAUI preview 8",
+          "url_domain": "pieeatingninjas.be",
+          "url": "https://blog.pieeatingninjas.be/2021/09/19/fixing-build-issue-in-maui-preview-8/",
+          "description": "<p>Peter shares some information on common build issues with MAUI preview 8.</p>\n\n<p><a href=\"https://blog.pieeatingninjas.be/2021/09/19/fixing-build-issue-in-maui-preview-8/\"><strong>Fixing build issue in MAUI preview 8</strong></a> by <a href=\"https://twitter.com/nijspieter\">Pieter Nijs</a></p>",
+          "description_markdown": "Peter shares some information on common build issues with MAUI preview 8.\r\n\r\n[**Fixing build issue in MAUI preview 8**](https://blog.pieeatingninjas.be/2021/09/19/fixing-build-issue-in-maui-preview-8/) by [Pieter Nijs](https://twitter.com/nijspieter)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "BuGiduq",
+              "title": "**Fixing build issue in MAUI preview 8**",
+              "url_domain": "pieeatingninjas.be",
+              "url": "https://blog.pieeatingninjas.be/2021/09/19/fixing-build-issue-in-maui-preview-8/"
+            },
+            {
+              "identifier": "24HEB6F",
+              "title": "Pieter Nijs",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nijspieter"
+            }
+          ]
+        },
+        {
+          "identifier": "wI8WAJ8",
+          "type": "Link",
+          "title": "How To Set up .NET MAUI on Windows",
+          "url_domain": "claudiobernasconi.ch",
+          "url": "https://www.claudiobernasconi.ch/2021/09/19/how-to-set-up-dotnet-maui-on-windows/",
+          "description": "<p>If you have any problem getting started with .NET MAUI, this will help you get .NET MAUI running on Windows.</p>\n\n<p><a href=\"https://www.claudiobernasconi.ch/2021/09/19/how-to-set-up-dotnet-maui-on-windows/\"><strong>How To Set up .NET MAUI on Windows</strong></a> by <a href=\"https://twitter.com/CHBernasconiC\">Claudio Bernasconi</a></p>",
+          "description_markdown": "If you have any problem getting started with .NET MAUI, this will help you get .NET MAUI running on Windows.\r\n\r\n[**How To Set up .NET MAUI on Windows**](https://www.claudiobernasconi.ch/2021/09/19/how-to-set-up-dotnet-maui-on-windows/) by [Claudio Bernasconi](https://twitter.com/CHBernasconiC)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "MticPjJ",
+              "title": "**How To Set up .NET MAUI on Windows**",
+              "url_domain": "claudiobernasconi.ch",
+              "url": "https://www.claudiobernasconi.ch/2021/09/19/how-to-set-up-dotnet-maui-on-windows/"
+            },
+            {
+              "identifier": "r5rbX3g",
+              "title": "Claudio Bernasconi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/CHBernasconiC"
+            }
+          ]
+        },
+        {
+          "identifier": "atbTcPb",
+          "type": "Link",
+          "title": "How to Migrate Xamarin.Forms Apps to .NET MAUI",
+          "url_domain": "arctouch.com",
+          "url": "https://arctouch.com/blog/migrate-xamarin-forms-dotnet-maui/",
+          "description": "<p>Learn how to migrate a Xamarin.Forms app to .NET MAUI with this tutorial from the Xamarin developers at ArcTouch.</p>\n\n<p><a href=\"https://arctouch.com/blog/migrate-xamarin-forms-dotnet-maui/\"><strong>How to Migrate Xamarin.Forms Apps to .NET MAUI | ArcTouch</strong></a> by <a href=\"https://arctouch.com/author/ramon-farizel/\">Ramon Farizel</a></p>",
+          "description_markdown": "Learn how to migrate a Xamarin.Forms app to .NET MAUI with this tutorial from the Xamarin developers at ArcTouch.\r\n\r\n[**How to Migrate Xamarin.Forms Apps to .NET MAUI | ArcTouch**](https://arctouch.com/blog/migrate-xamarin-forms-dotnet-maui/) by [Ramon Farizel](https://arctouch.com/author/ramon-farizel/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ciJ7tus",
+              "title": "**How to Migrate Xamarin.Forms Apps to .NET MAUI | ArcTouch**",
+              "url_domain": "arctouch.com",
+              "url": "https://arctouch.com/blog/migrate-xamarin-forms-dotnet-maui/"
+            },
+            {
+              "identifier": "SIA3fx2",
+              "title": "Ramon Farizel",
+              "url_domain": "arctouch.com",
+              "url": "https://arctouch.com/author/ramon-farizel/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "iYdUwld",
+          "type": "Link",
+          "title": "Share Images and Videos with Essentials Share in Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=sUxzoSl4SUw",
+          "description": "<p>With the Essentials Share APIs you can easily share text, images, videos or any file from your Xamarin.Forms application to any other installed application. Think of WhatsApp, Instagram, TikTok, etc. In this video I will show you how to leverage the Xamarin.Essentials Share API to implement sharing like this.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=sUxzoSl4SUw\"><strong>Share Images and Videos with Essentials Share in Xamarin.Forms</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "With the Essentials Share APIs you can easily share text, images, videos or any file from your Xamarin.Forms application to any other installed application. Think of WhatsApp, Instagram, TikTok, etc. In this video I will show you how to leverage the Xamarin.Essentials Share API to implement sharing like this.\r\n\r\n[**Share Images and Videos with Essentials Share in Xamarin.Forms**](https://www.youtube.com/watch?v=sUxzoSl4SUw) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "YWcvMWR",
+              "title": "**Share Images and Videos with Essentials Share in Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=sUxzoSl4SUw"
+            },
+            {
+              "identifier": "YUwhhtH",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "j3sqa78",
+          "type": "Link",
+          "title": "Highlight New App Features to Your Users with Xamarin.Essentials VersionTracking",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=-2JlbepO_Mc",
+          "description": "<p>Maybe you need to do a database migration or want to show your users a screen to highlight new features in this app version, you can to that with Essentials VersionTracking! In this video I will show you how to use the Xamarin.Essentials VersionTracking APIs to show app version numbers and make decisions based on that information.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=-2JlbepO_Mc\"><strong>Highlight New App Features to Your Users with Xamarin.Essentials VersionTracking</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Maybe you need to do a database migration or want to show your users a screen to highlight new features in this app version, you can to that with Essentials VersionTracking! In this video I will show you how to use the Xamarin.Essentials VersionTracking APIs to show app version numbers and make decisions based on that information.\r\n\r\n[**Highlight New App Features to Your Users with Xamarin.Essentials VersionTracking**](https://www.youtube.com/watch?v=-2JlbepO_Mc) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "ihnAOYD",
+              "title": "**Highlight New App Features to Your Users with Xamarin.Essentials VersionTracking**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=-2JlbepO_Mc"
+            },
+            {
+              "identifier": "6tZ31Jd",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "fe93vCk",
+          "type": "Link",
+          "title": "Merge Conflict: 272: .NET 6 RC1, .NET MAUI Updates, &amp; iPhone 13 Event Recap",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/272",
+          "description": "<p>What a week! We have you covered with everything happening with .NET 6, .NET MAUI, and a full breakdown of the iPhone 13 event.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/272\"><strong>Merge Conflict: 272: .NET 6 RC1, .NET MAUI Updates, &amp; iPhone 13 Event Recap</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "What a week! We have you covered with everything happening with .NET 6, .NET MAUI, and a full breakdown of the iPhone 13 event.\r\n\r\n[**Merge Conflict: 272: .NET 6 RC1, .NET MAUI Updates, &amp; iPhone 13 Event Recap**](https://www.mergeconflict.fm/272) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "MlSWkGR",
+              "title": "**Merge Conflict: 272: .NET 6 RC1, .NET MAUI Updates, &amp; iPhone 13 Event Recap**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/272"
+            },
+            {
+              "identifier": "wc20Zf5",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "9E9FQ3J",
+          "type": "Link",
+          "title": "Breaking .NET MAUI News!!! And the Preview 8 Updates",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Iu2KA3dAcM8",
+          "description": "<p>Gerald covers some important breaking .NET MAUI news! Before we talk about the new things in preview 8, we first need to talk about the delay of .NET MAUI GA and what that means for Xamarin.Forms. And also: a XAML Previewer, XAML Hot Reload and .NET Hot Reload in Visual Studio 2022. All in this video!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Iu2KA3dAcM8\"><strong>Breaking .NET MAUI News!1!! And the Preview 8 Updates</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Gerald covers some important breaking .NET MAUI news! Before we talk about the new things in preview 8, we first need to talk about the delay of .NET MAUI GA and what that means for Xamarin.Forms. And also: a XAML Previewer, XAML Hot Reload and .NET Hot Reload in Visual Studio 2022. All in this video!\r\n\r\n[**Breaking .NET MAUI News!1!! And the Preview 8 Updates**](https://www.youtube.com/watch?v=Iu2KA3dAcM8) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "DCBkpQ4",
+              "title": "**Breaking .NET MAUI News!1!! And the Preview 8 Updates**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Iu2KA3dAcM8"
+            },
+            {
+              "identifier": "AI2QR5K",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "DMYdwpW",
+          "type": "Link",
+          "title": ".NET MAUI Preview 8 Hands-on - True Single Project, Hot Reload Everywhere, & 1 Click Install",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Q0qLiBmbOTI",
+          "description": "<p>.NET MAUI Preview 8 is here wish so many goodies including the new 1 click install with Visual Studio 2022 Preview 4, XAML &amp; C# Hot Reload everywhere, a new XAML Live Preview, and iOS Hot Restart so you can deploy to an iOS from Windows. I break it all down for you!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Q0qLiBmbOTI\"><strong>.NET MAUI Preview 8 Hands-on - True Single Project, Hot Reload Everywhere, &amp; 1 Click Install</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": ".NET MAUI Preview 8 is here wish so many goodies including the new 1 click install with Visual Studio 2022 Preview 4, XAML & C# Hot Reload everywhere, a new XAML Live Preview, and iOS Hot Restart so you can deploy to an iOS from Windows. I break it all down for you!\r\n\r\n[**.NET MAUI Preview 8 Hands-on - True Single Project, Hot Reload Everywhere, & 1 Click Install**](https://www.youtube.com/watch?v=Q0qLiBmbOTI) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "cMFQzfE",
+              "title": "**.NET MAUI Preview 8 Hands-on - True Single Project, Hot Reload Everywhere, & 1 Click Install**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Q0qLiBmbOTI"
+            },
+            {
+              "identifier": "Z2Y8Fay",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "2xsiuzt",
+          "type": "Link",
+          "title": ".NET MAUI Preview 8 - Tips & Tricks | Windows Setup, MVVM Hot Reload, and Dependency Injection",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=BmI0QnwKTsQ",
+          "description": "<p>You had questions from my last video and I have answers and what better way then with another video! I break down all the things you need to know for Windows setup and deployment, MVVM hot reload of the view model, and how to use those fancy new dependency injection in .NET MAUI.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=BmI0QnwKTsQ\"><strong>.NET MAUI Preview 8 - Tips &amp; Tricks | Windows Setup, MVVM Hot Reload, and Dependency Injection</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "You had questions from my last video and I have answers and what better way then with another video! I break down all the things you need to know for Windows setup and deployment, MVVM hot reload of the view model, and how to use those fancy new dependency injection in .NET MAUI.\r\n\r\n[**.NET MAUI Preview 8 - Tips & Tricks | Windows Setup, MVVM Hot Reload, and Dependency Injection**](https://www.youtube.com/watch?v=BmI0QnwKTsQ) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "cdkZsCQ",
+              "title": "**.NET MAUI Preview 8 - Tips & Tricks | Windows Setup, MVVM Hot Reload, and Dependency Injection**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=BmI0QnwKTsQ"
+            },
+            {
+              "identifier": "DXgQ7u6",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "w6NK7Hd",
+          "type": "Link",
+          "title": "Telerik .NET MAUI Release: macOS, ListView and Other Controls",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/latest-telerik-ui-dotnet-maui-release-listview-new-components-support-macos-preview-8",
+          "description": "<p>ListView and Other New Components, Support for macOS and Preview 8</p>\n\n<p><a href=\"https://www.telerik.com/blogs/latest-telerik-ui-dotnet-maui-release-listview-new-components-support-macos-preview-8\"><strong>.NET MAUI Release: macOS, ListView and Other Controls</strong></a> by <a href=\"https://www.telerik.com/\">Telerik</a></p>",
+          "description_markdown": "ListView and Other New Components, Support for macOS and Preview 8\r\n\r\n[**.NET MAUI Release: macOS, ListView and Other Controls**](https://www.telerik.com/blogs/latest-telerik-ui-dotnet-maui-release-listview-new-components-support-macos-preview-8) by [Telerik](https://www.telerik.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "4pL6qv0",
+              "title": "**.NET MAUI Release: macOS, ListView and Other Controls**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/latest-telerik-ui-dotnet-maui-release-listview-new-components-support-macos-preview-8"
+            },
+            {
+              "identifier": "kXKUKp4",
+              "title": "Telerik",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "X10aYZf",
+          "type": "Link",
+          "title": "FREE .NET MAUI Data Editors, Template Gallery and More – Early Access Preview Build Available Now (v21.2)",
+          "url_domain": "devexpress.com",
+          "url": "https://community.devexpress.com/blogs/mobile/archive/2021/09/30/net-maui-free-early-access-preview-of-data-editors-and-more-for-mobile-development-v21-2.aspx",
+          "description": "<p>Deliver elegant and high-performance native mobile apps with the DevExpress Xamarin Forms and .NET Multi-platform App UI Controls.</p>\n\n<p><a href=\"https://community.devexpress.com/blogs/mobile/archive/2021/09/30/net-maui-free-early-access-preview-of-data-editors-and-more-for-mobile-development-v21-2.aspx\"><strong>FREE .NET MAUI Data Editors, Template Gallery and More – Early Access Preview Build Available Now (v21.2)</strong></a> by <a href=\"https://www.devexpress.com/\">DevExpress</a></p>",
+          "description_markdown": "Deliver elegant and high-performance native mobile apps with the DevExpress Xamarin Forms and .NET Multi-platform App UI Controls.\r\n\r\n[**FREE .NET MAUI Data Editors, Template Gallery and More – Early Access Preview Build Available Now (v21.2)**](https://community.devexpress.com/blogs/mobile/archive/2021/09/30/net-maui-free-early-access-preview-of-data-editors-and-more-for-mobile-development-v21-2.aspx) by [DevExpress](https://www.devexpress.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Zts2wcw",
+              "title": "**FREE .NET MAUI Data Editors, Template Gallery and More – Early Access Preview Build Available Now (v21.2)**",
+              "url_domain": "devexpress.com",
+              "url": "https://community.devexpress.com/blogs/mobile/archive/2021/09/30/net-maui-free-early-access-preview-of-data-editors-and-more-for-mobile-development-v21-2.aspx"
+            },
+            {
+              "identifier": "eeOFHim",
+              "title": "DevExpress",
+              "url_domain": "devexpress.com",
+              "url": "https://www.devexpress.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "zdAiLu0",
+          "type": "Link",
+          "title": "Syncfusion Essential Studio 2021 Volume 3 Is Here!",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/syncfusion-essential-studio-2021-volume-3-is-here.aspx",
+          "description": "<p>Syncfusion is happy to announce the availability of the third major release of Essential Studio in 2021. Essential Studio 2021 Volume 3 is packed with new controls, features, and bug fixes in various components on different platforms. We are also excited to introduce brand new controls in the new .N</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/syncfusion-essential-studio-2021-volume-3-is-here.aspx\"><strong>Syncfusion Essential Studio 2021 Volume 3 Is Here!</strong></a> by <a href=\"https://twitter.com/Syncfusion\">Syncfusion</a></p>",
+          "description_markdown": "Syncfusion is happy to announce the availability of the third major release of Essential Studio in 2021. Essential Studio 2021 Volume 3 is packed with new controls, features, and bug fixes in various components on different platforms. We are also excited to introduce brand new controls in the new .N\r\n\r\n[**Syncfusion Essential Studio 2021 Volume 3 Is Here!**](https://www.syncfusion.com/blogs/post/syncfusion-essential-studio-2021-volume-3-is-here.aspx) by [Syncfusion](https://twitter.com/Syncfusion)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "dFB4AHh",
+              "title": "**Syncfusion Essential Studio 2021 Volume 3 Is Here!**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/syncfusion-essential-studio-2021-volume-3-is-here.aspx"
+            },
+            {
+              "identifier": "niDRvn",
+              "title": "Syncfusion",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Syncfusion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Ready for XamExpertDay2021</p>",
+          "description_markdown": "Ready for XamExpertDay2021",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "a5c57cef-19e0-4dea-aab4-940e817a2bb4.JPG",
+          "image_extra_large_filename": "original_ratio_extra_large_a5c57cef-19e0-4dea-aab4-940e817a2bb4.JPG",
+          "image_medium_filename": "original_ratio_medium_a5c57cef-19e0-4dea-aab4-940e817a2bb4.JPG"
+        }
+      ]
+    }
+  ]
+}

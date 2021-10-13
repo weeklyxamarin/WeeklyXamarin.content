@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "322",
+      "Name": "Issue 322",
+      "UpdatedTimeStamp": "2021-10-01T05:11:41Z",
+      "Summary": "Go Watch XamExpertDay!",
+      "PublishDate": "2021-10-01T05:11:38Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "321",
       "Name": "Issue 321",
       "UpdatedTimeStamp": "2021-09-18T13:29:52Z",
