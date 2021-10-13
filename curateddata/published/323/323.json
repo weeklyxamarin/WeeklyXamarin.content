@@ -1,0 +1,356 @@
+{
+  "number": 323,
+  "title": "Issue 323",
+  "summary": "So Much Video content to catch up on.",
+  "url": "https://weeklyxamarin.com/issues/323",
+  "publication_status": "published",
+  "published_at": "2021-10-11T14:53:07+01:00",
+  "updated_at": "2021-10-11T14:53:10+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Howdy,</p>\n\n<p>After all the excitement of XamExpertDay 2021, we now have HacktoberFest kicking off this month, so get your git commits ready.</p>\n\n<p>By the way, if you missed XamExpertDay you can find the links to the recorded sessions in this weeks edition.</p>\n\n<p>Have a great week,</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Howdy,\r\n\r\nAfter all the excitement of XamExpertDay 2021, we now have HacktoberFest kicking off this month, so get your git commits ready.\r\n\r\nBy the way, if you missed XamExpertDay you can find the links to the recorded sessions in this weeks edition.\r\n\r\nHave a great week,\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "Osh72lG",
+          "type": "Link",
+          "title": "Creating Cake scripts for Xamarin apps: Part 3 deployment",
+          "url_domain": "damianantonowicz.pl",
+          "url": "https://damianantonowicz.pl/2021/10/02/creating-cake-script-for-building-and-deploying-xamarin-app-part-3-deployment/",
+          "description": "<p>In this post you will learn how to use Cake script to deploy Xamarin app to App Center, Google Play Internal and Test Flight.</p>\n\n<p><a href=\"https://damianantonowicz.pl/2021/10/02/creating-cake-script-for-building-and-deploying-xamarin-app-part-3-deployment/\"><strong>Creating Cake script for building and deploying Xamarin app: Part 3 deployment</strong></a> by <a href=\"https://twitter.com/d_antonowicz\">Damian Antonowicz</a></p>",
+          "description_markdown": "In this post you will learn how to use Cake script to deploy Xamarin app to App Center, Google Play Internal and Test Flight.\r\n\r\n[**Creating Cake script for building and deploying Xamarin app: Part 3 deployment**](https://damianantonowicz.pl/2021/10/02/creating-cake-script-for-building-and-deploying-xamarin-app-part-3-deployment/) by [Damian Antonowicz](https://twitter.com/d_antonowicz)",
+          "embedded_links": [
+            {
+              "identifier": "aT8170H",
+              "title": "**Creating Cake script for building and deploying Xamarin app: Part 3 deployment**",
+              "url_domain": "damianantonowicz.pl",
+              "url": "https://damianantonowicz.pl/2021/10/02/creating-cake-script-for-building-and-deploying-xamarin-app-part-3-deployment/"
+            },
+            {
+              "identifier": "SPZ8tUj",
+              "title": "Damian Antonowicz",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/d_antonowicz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "Ub0AakK",
+          "type": "Link",
+          "title": "Replicating a Social Profile UI in Xamarin.Forms",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/replicating-a-social-profile-ui-in-xamarin-forms.aspx",
+          "description": "<p>Leomaris shows how to implement this Social Profile UI in Xamarin.Forms.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/replicating-a-social-profile-ui-in-xamarin-forms.aspx\"><strong>Replicating a Social Profile UI in Xamarin.Forms | Syncfusion Blogs</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris shows how to implement this Social Profile UI in Xamarin.Forms.\r\n\r\n[**Replicating a Social Profile UI in Xamarin.Forms | Syncfusion Blogs**](https://www.syncfusion.com/blogs/post/replicating-a-social-profile-ui-in-xamarin-forms.aspx) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "IdojaSe",
+              "title": "**Replicating a Social Profile UI in Xamarin.Forms | Syncfusion Blogs**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/replicating-a-social-profile-ui-in-xamarin-forms.aspx"
+            },
+            {
+              "identifier": "aNMo0vZ",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "4C5kJ1t",
+          "type": "Link",
+          "title": "Maps and Getting radius of users input",
+          "url_domain": "xamarinhowto.com",
+          "url": "https://xamarinhowto.com/xamarin-forms-maps-getting-location-radius-of-users-input",
+          "description": "<p>In this Xamarin how-to post, Toby shows you how to obtain the latitude, longitude and radius from the center of the map every time the user moves or zooms.  This is especially useful if you have dynamically updating pins.</p>\n\n<p><a href=\"https://xamarinhowto.com/xamarin-forms-maps-getting-location-radius-of-users-input\"><strong>Xamarin.Forms Maps - Getting Location &amp; Radius of User&#039;s Input</strong></a> by <a href=\"https://www.linkedin.com/in/toby-field-589a46205/\">Toby Field</a></p>",
+          "description_markdown": "In this Xamarin how-to post, Toby shows you how to obtain the latitude, longitude and radius from the center of the map every time the user moves or zooms.  This is especially useful if you have dynamically updating pins.\r\n\r\n[**Xamarin.Forms Maps - Getting Location &amp; Radius of User&#039;s Input**](https://xamarinhowto.com/xamarin-forms-maps-getting-location-radius-of-users-input) by [Toby Field](https://www.linkedin.com/in/toby-field-589a46205/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "lOuMTy5",
+              "title": "**Xamarin.Forms Maps - Getting Location &amp; Radius of User&#039;s Input**",
+              "url_domain": "xamarinhowto.com",
+              "url": "https://xamarinhowto.com/xamarin-forms-maps-getting-location-radius-of-users-input"
+            },
+            {
+              "identifier": "ltUqMNp",
+              "title": "Toby Field",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/toby-field-589a46205/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "mtNrEfA",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #27",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-27",
+          "description": "<p>Sam Updates us with the latest and greatest happenings in the MAUI world.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-27\"><strong>Sands of MAUI: Issue #27</strong></a> by <a href=\"https://www.telerik.com/blogs/author/sam-basu\">Sam Basu</a></p>",
+          "description_markdown": "Sam Updates us with the latest and greatest happenings in the MAUI world.\r\n\r\n[**Sands of MAUI: Issue #27**](https://www.telerik.com/blogs/sands-maui-issue-27) by [Sam Basu](https://www.telerik.com/blogs/author/sam-basu)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "cj9Enmk",
+              "title": "**Sands of MAUI: Issue #27**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-27"
+            },
+            {
+              "identifier": "p85YzXv",
+              "title": "Sam Basu",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/sam-basu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "LzBL45K",
+          "type": "Link",
+          "title": "Save Passwords in Secure Storage in your Xamarin app with Essentials",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=UmfR5FHENE8",
+          "description": "<p>When working on a mobile app, you probably work with sensitive data like security tokens or passwords. With Essentials it is now easier than ever to save that data in a secure encrypted place on the users' device. Let's learn in this video!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=UmfR5FHENE8\"><strong>Save Passwords in Secure Storage in your Xamarin app with Essentials</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "When working on a mobile app, you probably work with sensitive data like security tokens or passwords. With Essentials it is now easier than ever to save that data in a secure encrypted place on the users' device. Let's learn in this video!\r\n\r\n[**Save Passwords in Secure Storage in your Xamarin app with Essentials**](https://www.youtube.com/watch?v=UmfR5FHENE8) by [Gerald Versluis](https://blog.verslu.is/author/admin/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "lRumeMU",
+              "title": "**Save Passwords in Secure Storage in your Xamarin app with Essentials**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=UmfR5FHENE8"
+            },
+            {
+              "identifier": "YiX7QOb",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "ZjWxMyt",
+          "type": "Link",
+          "title": ".NET MAUI Community Standup - Dmitry Lyalin warms us up to .NET Hot Reload. ",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=8vDHoNV7vnY",
+          "description": "<p>Dmitry Lyalin joins us to share the latest news about .NET Hot Reload for .NET MAUI, while David and Sweeky round up the hottest news for Xamarin and .NET MAUI developers.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=8vDHoNV7vnY\"><strong>.NET MAUI Community Standup - Dmitry Lyalin warms us up to .NET Hot Reload. Plus: Sweeky!</strong></a> by <a href=\"https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg\">Xamarin Developers</a></p>",
+          "description_markdown": "Dmitry Lyalin joins us to share the latest news about .NET Hot Reload for .NET MAUI, while David and Sweeky round up the hottest news for Xamarin and .NET MAUI developers.\r\n\r\n[**.NET MAUI Community Standup - Dmitry Lyalin warms us up to .NET Hot Reload. Plus: Sweeky!**](https://www.youtube.com/watch?v=8vDHoNV7vnY) by [Xamarin Developers](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)",
+          "embedded_links": [
+            {
+              "identifier": "1VnOEJ0",
+              "title": "**.NET MAUI Community Standup - Dmitry Lyalin warms us up to .NET Hot Reload. Plus: Sweeky!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=8vDHoNV7vnY"
+            },
+            {
+              "identifier": "ChancQs",
+              "title": "Xamarin Developers",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg"
+            }
+          ]
+        },
+        {
+          "identifier": "xEoZiQS",
+          "type": "Link",
+          "title": "Xamarin -> MAUI Upgrade Assistant",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=k_SjybXEUQY",
+          "description": "<p>This talk at the Orlando .NET User Group by Sweeky Satpathy and Dean Faizal cover the migration journey from Xamarin.Forms to .NET MAUI. Specifically the Upgrade-Assist tool, how the tool works and discussions of the different migration paths.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=k_SjybXEUQY\"><strong>Sept 23rd 2021 -  Sweeky Satpathy  &amp; Dean Faizal: Upgrade Assistant and  NET MAUI</strong></a> by <a href=\"https://www.youtube.com/channel/UCFC6inYsZ2Wom2qv89BgSwA\">Orlando .NET User Group</a></p>",
+          "description_markdown": "This talk at the Orlando .NET User Group by Sweeky Satpathy and Dean Faizal cover the migration journey from Xamarin.Forms to .NET MAUI. Specifically the Upgrade-Assist tool, how the tool works and discussions of the different migration paths.\r\n\r\n[**Sept 23rd 2021 -  Sweeky Satpathy  & Dean Faizal: Upgrade Assistant and  NET MAUI**](https://www.youtube.com/watch?v=k_SjybXEUQY) by [Orlando .NET User Group](https://www.youtube.com/channel/UCFC6inYsZ2Wom2qv89BgSwA)",
+          "embedded_links": [
+            {
+              "identifier": "ICKBZB6",
+              "title": "**Sept 23rd 2021 -  Sweeky Satpathy  & Dean Faizal: Upgrade Assistant and  NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=k_SjybXEUQY"
+            },
+            {
+              "identifier": "S57m0g8",
+              "title": "Orlando .NET User Group",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCFC6inYsZ2Wom2qv89BgSwA"
+            }
+          ]
+        },
+        {
+          "identifier": "dM8lgKI",
+          "type": "Link",
+          "title": "DevTalk 73: Drawn Controls in .NET MAUI. With Javier Suárez",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-73-javier-suarez/",
+          "description": "<p>On this episode of DevTalk Kerry speaks to Javier Suárez about drawn controls in .NET MAUI.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-73-javier-suarez/\"><strong>73: Drawn Controls in .NET MAUI. With Javier Suárez</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk Kerry speaks to Javier Suárez about drawn controls in .NET MAUI.\r\n\r\n[**73: Drawn Controls in .NET MAUI. With Javier Suárez**](https://kerry.lothrop.de/devtalk-73-javier-suarez/) by [Kerry Lothrop](https://twitter.com/kwlothrop)",
+          "embedded_links": [
+            {
+              "identifier": "S4HgOaG",
+              "title": "**73: Drawn Controls in .NET MAUI. With Javier Suárez**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-73-javier-suarez/"
+            },
+            {
+              "identifier": "uOAZRW0",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        },
+        {
+          "identifier": "FFMowh",
+          "type": "Link",
+          "title": "Merge Conflict: 274: Building IoT Things",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/274",
+          "description": "<p>James needs the ultimate tutorial on what and how to build things with Microcontrollers and Frank is here to help!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/274\"><strong>Merge Conflict: 274: Building IoT Things</strong></a> by <a href=\"https://www.mergeconflict.fm/\">Merge Conflict</a></p>",
+          "description_markdown": "James needs the ultimate tutorial on what and how to build things with Microcontrollers and Frank is here to help!\r\n\r\n[**Merge Conflict: 274: Building IoT Things**](https://www.mergeconflict.fm/274) by [Merge Conflict](https://www.mergeconflict.fm/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "GLQggyZ",
+              "title": "**Merge Conflict: 274: Building IoT Things**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/274"
+            },
+            {
+              "identifier": "DX1ZhLC",
+              "title": "Merge Conflict",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/"
+            }
+          ]
+        },
+        {
+          "identifier": "aA6aJpg",
+          "type": "Link",
+          "title": "Favorite foldable features & are they the future?",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Gqt19bjjoQg",
+          "description": "<p>On a recent live stream James was joined by Craig Dunn from the Surface Duo team. They broke down their thoughts on the foldable category including favorite features and how they may become the future of computing in our hands.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Gqt19bjjoQg\"><strong>Favorite foldable features &amp; are they the future? | Stream Highlights</strong></a> by <a href=\"https://channel9.msdn.com/niners/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "On a recent live stream James was joined by Craig Dunn from the Surface Duo team. They broke down their thoughts on the foldable category including favorite features and how they may become the future of computing in our hands.\r\n\r\n[**Favorite foldable features & are they the future? | Stream Highlights**](https://www.youtube.com/watch?v=Gqt19bjjoQg) by [James Montemagno](https://channel9.msdn.com/niners/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "eMsyhFN",
+              "title": "**Favorite foldable features & are they the future? | Stream Highlights**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Gqt19bjjoQg"
+            },
+            {
+              "identifier": "MTdmbY1",
+              "title": "James Montemagno",
+              "url_domain": "msdn.com",
+              "url": "https://channel9.msdn.com/niners/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "E2oe43t",
+          "type": "Link",
+          "title": "Kickstart Your Open-Source Career: Hacktoberfest is Here!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=NGH3Gpi45io",
+          "description": "<p>Hacktoberfest 2021 is here! During October there is extra focus on contributing to open-source. In this video I will tell you what Hacktoberfest is all about, what it means to me, how I want to help you get started and show you how to actually get started!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=NGH3Gpi45io\"><strong>Kickstart Your Open-Source Career: Hacktoberfest is Here!</strong></a> by <a href=\"https://blog.verslu.is/author/admin/\">Gerald Versluis</a></p>",
+          "description_markdown": "Hacktoberfest 2021 is here! During October there is extra focus on contributing to open-source. In this video I will tell you what Hacktoberfest is all about, what it means to me, how I want to help you get started and show you how to actually get started!\r\n\r\n[**Kickstart Your Open-Source Career: Hacktoberfest is Here!**](https://www.youtube.com/watch?v=NGH3Gpi45io) by [Gerald Versluis](https://blog.verslu.is/author/admin/)",
+          "embedded_links": [
+            {
+              "identifier": "m9HjNuh",
+              "title": "**Kickstart Your Open-Source Career: Hacktoberfest is Here!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=NGH3Gpi45io"
+            },
+            {
+              "identifier": "bC70F0l",
+              "title": "Gerald Versluis",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/author/admin/"
+            }
+          ]
+        },
+        {
+          "identifier": "XdG8B9E",
+          "type": "Link",
+          "title": "XamExpertDay 2021 Session Recordings",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/playlist?list=PLfbOp004UaYVq2Dk8FaYCI8e_vdVkP_wl",
+          "description": "<p>I case you missed any sessions you can find all the sessions from the XamExpertDay 2021 live event right here. XamExpertDay is a full day of in-depth .NET MAUI and Xamarin sessions. Not just the introduction stuff, real-life scenarios and deep dive session from experienced speakers all over the world!</p>\n\n<p><a href=\"https://www.youtube.com/playlist?list=PLfbOp004UaYVq2Dk8FaYCI8e_vdVkP_wl\"><strong>XamExpertDay 2021 presents .NET MAUI Event</strong></a> by <a href=\"https://xamexpertday.com/\">XamExpertDay</a></p>",
+          "description_markdown": "I case you missed any sessions you can find all the sessions from the XamExpertDay 2021 live event right here. XamExpertDay is a full day of in-depth .NET MAUI and Xamarin sessions. Not just the introduction stuff, real-life scenarios and deep dive session from experienced speakers all over the world!\r\n\r\n[**XamExpertDay 2021 presents .NET MAUI Event**](https://www.youtube.com/playlist?list=PLfbOp004UaYVq2Dk8FaYCI8e_vdVkP_wl) by [XamExpertDay](https://xamexpertday.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "x8iiu8T",
+              "title": "**XamExpertDay 2021 presents .NET MAUI Event**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/playlist?list=PLfbOp004UaYVq2Dk8FaYCI8e_vdVkP_wl"
+            },
+            {
+              "identifier": "ubBn2eQ",
+              "title": "XamExpertDay",
+              "url_domain": "xamexpertday.com",
+              "url": "https://xamexpertday.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "73NCGs8",
+          "type": "Link",
+          "title": "Sharpnado.Tabs 2.2: Material Design Tabs and Geometry (SVG) icon support",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/material-design-tabs/",
+          "description": "<p>If you want super customizable tabs then Sharpnado Tabs is an awesome library. And now there is a new release. What's new? A new type of tab has been introduced: the MaterialUnderlinedTabItem. Also, SVG Icon support.  Woot!</p>\n\n<p><a href=\"https://www.sharpnado.com/material-design-tabs/\"><strong>Sharpnado.Tabs 2.2: Material Design Tabs and Geometry (SVG) icon support</strong></a> by <a href=\"https://www.sharpnado.com/author/roubachof/\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "If you want super customizable tabs then Sharpnado Tabs is an awesome library. And now there is a new release. What's new? A new type of tab has been introduced: the MaterialUnderlinedTabItem. Also, SVG Icon support.  Woot!\r\n\r\n[**Sharpnado.Tabs 2.2: Material Design Tabs and Geometry (SVG) icon support**](https://www.sharpnado.com/material-design-tabs/) by [Jean-Marie Alfonsi](https://www.sharpnado.com/author/roubachof/)",
+          "embedded_links": [
+            {
+              "identifier": "cNFHnsp",
+              "title": "**Sharpnado.Tabs 2.2: Material Design Tabs and Geometry (SVG) icon support**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/material-design-tabs/"
+            },
+            {
+              "identifier": "Qear20u",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/author/roubachof/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

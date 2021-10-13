@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "323",
+      "Name": "Issue 323",
+      "UpdatedTimeStamp": "2021-10-11T13:53:10Z",
+      "Summary": "So Much Video content to catch up on.",
+      "PublishDate": "2021-10-11T13:53:07Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "322",
       "Name": "Issue 322",
       "UpdatedTimeStamp": "2021-10-01T05:11:41Z",

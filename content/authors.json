@@ -2514,6 +2514,16 @@
       ]
     },
     {
+      "Name": "Orlando .NET User Group",
+      "Id": "https://www.youtube.com/channel/ucfc6inysz2wom2qv89bgswa",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.youtube.com/channel/ucfc6inysz2wom2qv89bgswa"
+        }
+      ]
+    },
+    {
       "Name": "Patrick Junsay",
       "Id": "https://codesandchips.wordpress.com/author/kirtoy/",
       "Aliases": [
@@ -3683,6 +3693,16 @@
         {
           "Type": "blog",
           "Name": "https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ"
+        }
+      ]
+    },
+    {
+      "Name": "XamExpertDay",
+      "Id": "https://xamexpertday.com/",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://xamexpertday.com/"
         }
       ]
     },

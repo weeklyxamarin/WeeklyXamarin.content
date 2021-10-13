@@ -1,0 +1,128 @@
+{
+  "Id": "323",
+  "Name": "Issue 323",
+  "UpdatedTimeStamp": "2021-10-11T13:53:10Z",
+  "Summary": "So Much Video content to catch up on.",
+  "Introduction": "Howdy, After all the excitement of XamExpertDay 2021, we now have HacktoberFest kicking off this month, so get your git commits ready. By the way, if you missed XamExpertDay you can find the links to the recorded sessions in this weeks edition. Have a great week, ❤ Kym",
+  "PublishDate": "2021-10-11T13:53:07Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Creating Cake scripts for Xamarin apps: Part 3 deployment",
+      "Url": "https://damianantonowicz.pl/2021/10/02/creating-cake-script-for-building-and-deploying-xamarin-app-part-3-deployment/",
+      "Description": "In this post you will learn how to use Cake script to deploy Xamarin app to App Center, Google Play Internal and Test Flight.",
+      "EditionId": "323",
+      "Author": "Damian Antonowicz",
+      "Id": "323-1",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Replicating a Social Profile UI in Xamarin.Forms",
+      "Url": "https://www.syncfusion.com/blogs/post/replicating-a-social-profile-ui-in-xamarin-forms.aspx",
+      "Description": "Leomaris shows how to implement this Social Profile UI in Xamarin.Forms.",
+      "EditionId": "323",
+      "Author": "Leomaris Reyes",
+      "Id": "323-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Maps and Getting radius of users input",
+      "Url": "https://xamarinhowto.com/xamarin-forms-maps-getting-location-radius-of-users-input",
+      "Description": "In this Xamarin how-to post, Toby shows you how to obtain the latitude, longitude and radius from the center of the map every time the user moves or zooms.  This is especially useful if you have dynamically updating pins.",
+      "EditionId": "323",
+      "Author": "Toby Field",
+      "Id": "323-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #27",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-27",
+      "Description": "Sam Updates us with the latest and greatest happenings in the MAUI world.",
+      "EditionId": "323",
+      "Author": "Sam Basu",
+      "Id": "323-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Save Passwords in Secure Storage in your Xamarin app with Essentials",
+      "Url": "https://www.youtube.com/watch?v=UmfR5FHENE8",
+      "Description": "When working on a mobile app, you probably work with sensitive data like security tokens or passwords. With Essentials it is now easier than ever to save that data in a secure encrypted place on the users' device. Let's learn in this video!",
+      "EditionId": "323",
+      "Author": "Gerald Versluis",
+      "Id": "323-5",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Standup - Dmitry Lyalin warms us up to .NET Hot Reload. ",
+      "Url": "https://www.youtube.com/watch?v=8vDHoNV7vnY",
+      "Description": "Dmitry Lyalin joins us to share the latest news about .NET Hot Reload for .NET MAUI, while David and Sweeky round up the hottest news for Xamarin and .NET MAUI developers.",
+      "EditionId": "323",
+      "Author": "Xamarin Developers",
+      "Id": "323-6",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin -> MAUI Upgrade Assistant",
+      "Url": "https://www.youtube.com/watch?v=k_SjybXEUQY",
+      "Description": "This talk at the Orlando .NET User Group by Sweeky Satpathy and Dean Faizal cover the migration journey from Xamarin.Forms to .NET MAUI. Specifically the Upgrade-Assist tool, how the tool works and discussions of the different migration paths.",
+      "EditionId": "323",
+      "Author": "Orlando .NET User Group",
+      "Id": "323-7",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 73: Drawn Controls in .NET MAUI. With Javier Suárez",
+      "Url": "https://kerry.lothrop.de/devtalk-73-javier-suarez/",
+      "Description": "On this episode of DevTalk Kerry speaks to Javier Suárez about drawn controls in .NET MAUI.",
+      "EditionId": "323",
+      "Author": "Kerry Lothrop",
+      "Id": "323-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 274: Building IoT Things",
+      "Url": "https://www.mergeconflict.fm/274",
+      "Description": "James needs the ultimate tutorial on what and how to build things with Microcontrollers and Frank is here to help!",
+      "EditionId": "323",
+      "Author": "Merge Conflict",
+      "Id": "323-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Favorite foldable features & are they the future?",
+      "Url": "https://www.youtube.com/watch?v=Gqt19bjjoQg",
+      "Description": "On a recent live stream James was joined by Craig Dunn from the Surface Duo team. They broke down their thoughts on the foldable category including favorite features and how they may become the future of computing in our hands.",
+      "EditionId": "323",
+      "Author": "James Montemagno",
+      "Id": "323-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Kickstart Your Open-Source Career: Hacktoberfest is Here!",
+      "Url": "https://www.youtube.com/watch?v=NGH3Gpi45io",
+      "Description": "Hacktoberfest 2021 is here! During October there is extra focus on contributing to open-source. In this video I will tell you what Hacktoberfest is all about, what it means to me, how I want to help you get started and show you how to actually get started!",
+      "EditionId": "323",
+      "Author": "Gerald Versluis",
+      "Id": "323-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "XamExpertDay 2021 Session Recordings",
+      "Url": "https://www.youtube.com/playlist?list=PLfbOp004UaYVq2Dk8FaYCI8e_vdVkP_wl",
+      "Description": "I case you missed any sessions you can find all the sessions from the XamExpertDay 2021 live event right here. XamExpertDay is a full day of in-depth .NET MAUI and Xamarin sessions. Not just the introduction stuff, real-life scenarios and deep dive session from experienced speakers all over the world!",
+      "EditionId": "323",
+      "Author": "XamExpertDay",
+      "Id": "323-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Sharpnado.Tabs 2.2: Material Design Tabs and Geometry (SVG) icon support",
+      "Url": "https://www.sharpnado.com/material-design-tabs/",
+      "Description": "If you want super customizable tabs then Sharpnado Tabs is an awesome library. And now there is a new release. What's new? A new type of tab has been introduced: the MaterialUnderlinedTabItem. Also, SVG Icon support.  Woot!",
+      "EditionId": "323",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "323-13",
+      "Category": "RELEASES"
+    }
+  ]
+}
