@@ -39,13 +39,9 @@
     },
     {
       "Name": "Aden Earnshaw",
+      "TwitterHandle": "adenearnshaw",
       "Id": "https://twitter.com/adenearnshaw",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/adenearnshaw"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Adrian Hall",
@@ -86,13 +82,9 @@
     },
     {
       "Name": "Alec Tucker",
+      "TwitterHandle": "alecdtucker",
       "Id": "https://twitter.com/alecdtucker",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/alecdtucker"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Alejandro Ruiz",
@@ -170,12 +162,9 @@
     },
     {
       "Name": "Alexey Strakh",
+      "TwitterHandle": "alexeystrakh",
       "Id": "https://devblogs.microsoft.com/xamarin/author/alexeystrakh/",
       "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/alexeystrakh"
-        },
         {
           "Type": "blog",
           "Name": "https://devblogs.microsoft.com/xamarin/author/alexeystrakh/"
@@ -198,13 +187,9 @@
     },
     {
       "Name": "Altevir Cardoso Neto",
+      "TwitterHandle": "altevirneto",
       "Id": "https://twitter.com/altevirneto",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/altevirneto"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Alyson La",
@@ -249,13 +234,9 @@
     },
     {
       "Name": "Andrea Chiarelli",
+      "TwitterHandle": "andychiare",
       "Id": "https://twitter.com/andychiare",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/andychiare"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Andreas Nesheim",
@@ -282,13 +263,9 @@
     },
     {
       "Name": "Andrei Misiukevich",
+      "TwitterHandle": "andrik_just4fun",
       "Id": "https://twitter.com/andrik_just4fun",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/andrik_just4fun"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Andrew Hoefling",
@@ -305,23 +282,15 @@
     },
     {
       "Name": "Andy Ibanez",
+      "TwitterHandle": "andyibanezk",
       "Id": "https://twitter.com/andyibanezk",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/andyibanezk"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Angel Garcia",
+      "TwitterHandle": "_angelgarcia13",
       "Id": "https://twitter.com/_angelgarcia13",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/_angelgarcia13"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Anıl taşkıran",
@@ -355,13 +324,9 @@
     },
     {
       "Name": "Ariel Michaeli",
+      "TwitterHandle": "arielmichaeli",
       "Id": "https://twitter.com/arielmichaeli",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/arielmichaeli"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Arthur Casals",
@@ -439,23 +404,15 @@
     },
     {
       "Name": "Ben Weiss",
+      "TwitterHandle": "keyboardsurfer",
       "Id": "https://twitter.com/keyboardsurfer",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/keyboardsurfer"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Beth Massi",
+      "TwitterHandle": "bethmassi",
       "Id": "https://twitter.com/bethmassi",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/bethmassi"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Bill Leach",
@@ -469,13 +426,9 @@
     },
     {
       "Name": "Bill Reiss",
+      "TwitterHandle": "billreiss",
       "Id": "https://twitter.com/billreiss",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/billreiss"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Bitrise",
@@ -538,13 +491,9 @@
     },
     {
       "Name": "Brian Lagunas",
+      "TwitterHandle": "brianlagunas",
       "Id": "https://twitter.com/brianlagunas",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/brianlagunas"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Bryan Anthony Garcia",
@@ -569,13 +518,9 @@
     },
     {
       "Name": "Carl Franklin",
+      "TwitterHandle": "carlfranklin",
       "Id": "https://twitter.com/carlfranklin",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/carlfranklin"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Chaim Gartenberg",
@@ -639,13 +584,9 @@
     },
     {
       "Name": "Chris Miller",
+      "TwitterHandle": "anotherlab",
       "Id": "https://twitter.com/anotherlab",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/anotherlab"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Chris Williams",
@@ -676,23 +617,15 @@
     },
     {
       "Name": "Claudio Bernasconi",
+      "TwitterHandle": "chbernasconic",
       "Id": "https://twitter.com/chbernasconic",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/chbernasconic"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Codrina Merigo",
+      "TwitterHandle": "_codrina_",
       "Id": "https://twitter.com/_codrina_",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/_codrina_"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Cody Beyer",
@@ -716,23 +649,15 @@
     },
     {
       "Name": "Corey Bohon",
+      "TwitterHandle": "coryb",
       "Id": "https://twitter.com/coryb",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/coryb"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Corey Ginnivan",
+      "TwitterHandle": "coreyginnivan",
       "Id": "https://twitter.com/coreyginnivan",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/coreyginnivan"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Craig Dunn",
@@ -746,13 +671,9 @@
     },
     {
       "Name": "Damian Antonowicz",
+      "TwitterHandle": "d_antonowicz",
       "Id": "https://twitter.com/d_antonowicz",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/d_antonowicz"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Damian Mehers",
@@ -769,13 +690,9 @@
     },
     {
       "Name": "Damian Włodarczyk",
+      "TwitterHandle": "wlodarczykdam",
       "Id": "https://twitter.com/wlodarczykdam",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/wlodarczykdam"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Damien Aicheh",
@@ -805,13 +722,9 @@
     },
     {
       "Name": "Damir Arh",
+      "TwitterHandle": "damirarh/",
       "Id": "https://twitter.com/damirarh/",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/damirarh/"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Dan Rigby",
@@ -842,23 +755,15 @@
     },
     {
       "Name": "Daniel Cazzulino",
+      "TwitterHandle": "kzu",
       "Id": "https://twitter.com/kzu",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/kzu"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Daniel Gauthier",
+      "TwitterHandle": "danielmgauthier",
       "Id": "https://twitter.com/danielmgauthier",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/danielmgauthier"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Daniel Hindrikes",
@@ -899,13 +804,9 @@
     },
     {
       "Name": "David Giard",
+      "TwitterHandle": "davidgiard",
       "Id": "https://twitter.com/davidgiard",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/davidgiard"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "David Ortinau",
@@ -919,13 +820,9 @@
     },
     {
       "Name": "David Ramel",
+      "TwitterHandle": "dramel",
       "Id": "https://twitter.com/dramel",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/dramel"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "David Sielaff",
@@ -1029,13 +926,9 @@
     },
     {
       "Name": "Dom Elliott",
+      "TwitterHandle": "iamdom",
       "Id": "https://twitter.com/iamdom",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/iamdom"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Dominic Nahous",
@@ -1049,13 +942,9 @@
     },
     {
       "Name": "Dotnet FrontEnd",
+      "TwitterHandle": "dotnet_frontend",
       "Id": "https://twitter.com/dotnet_frontend",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/dotnet_frontend"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "dotNet Youtube Channel",
@@ -1096,13 +985,9 @@
     },
     {
       "Name": "Eilon Lipton",
+      "TwitterHandle": "original_ejl",
       "Id": "https://twitter.com/original_ejl",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/original_ejl"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Elbrinner da Silva Fernandes",
@@ -1137,23 +1022,15 @@
     },
     {
       "Name": "Fabricio",
+      "TwitterHandle": "fabribertani",
       "Id": "https://twitter.com/fabribertani",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/fabribertani"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Felipe Baltazar",
+      "TwitterHandle": "felippebaltazar",
       "Id": "https://twitter.com/felippebaltazar",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/felippebaltazar"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Francois Raminosona",
@@ -1164,23 +1041,15 @@
     },
     {
       "Name": "Frank Boucher",
+      "TwitterHandle": "fboucheros",
       "Id": "https://twitter.com/fboucheros",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/fboucheros"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Frank Krueger",
+      "TwitterHandle": "praeclarum",
       "Id": "https://twitter.com/praeclarum",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/praeclarum"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Gabor Varadi",
@@ -1231,13 +1100,9 @@
     },
     {
       "Name": "Giorgi Dalakishvili",
+      "TwitterHandle": "giodalakishvili",
       "Id": "https://twitter.com/giodalakishvili",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/giodalakishvili"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "GitHub",
@@ -1261,13 +1126,9 @@
     },
     {
       "Name": "Glenn Versweyveld",
+      "TwitterHandle": "depechie",
       "Id": "https://twitter.com/depechie",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/depechie"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Gone Mobile",
@@ -1315,13 +1176,9 @@
     },
     {
       "Name": "Hady ElHady",
+      "TwitterHandle": "hadyelhady93",
       "Id": "https://twitter.com/hadyelhady93",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/hadyelhady93"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Hossein Raspberry",
@@ -1389,13 +1246,9 @@
     },
     {
       "Name": "Jacob Egner",
+      "TwitterHandle": "jacobegner",
       "Id": "https://twitter.com/jacobegner",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/jacobegner"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Jacob Kirsch",
@@ -1429,13 +1282,9 @@
     },
     {
       "Name": "Jake Kirsch",
+      "TwitterHandle": "thisiskirsch",
       "Id": "https://twitter.com/thisiskirsch",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/thisiskirsch"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "James Montemagno",
@@ -1603,13 +1452,9 @@
     },
     {
       "Name": "Joachim Leonfellner",
+      "TwitterHandle": "johnny_leo",
       "Id": "https://twitter.com/johnny_leo",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/johnny_leo"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Joe Meyer",
@@ -1710,13 +1555,9 @@
     },
     {
       "Name": "Jordan Bowman",
+      "TwitterHandle": "jrdnbwmn",
       "Id": "https://twitter.com/jrdnbwmn",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/jrdnbwmn"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Juliano Custódio",
@@ -1743,13 +1584,9 @@
     },
     {
       "Name": "Keith Harrison",
+      "TwitterHandle": "kharrison",
       "Id": "https://twitter.com/kharrison",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/kharrison"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Kent Boogaart",
@@ -1777,23 +1614,15 @@
     },
     {
       "Name": "Khalid Abuhakmeh",
+      "TwitterHandle": "buhakmeh",
       "Id": "https://twitter.com/buhakmeh",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/buhakmeh"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Klaudia Bronowicka",
+      "TwitterHandle": "k_bronowicka",
       "Id": "https://twitter.com/k_bronowicka",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/k_bronowicka"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Kodjo Laurent Egbakou",
@@ -1831,43 +1660,27 @@
     },
     {
       "Name": "Lachlan Gordon",
+      "TwitterHandle": "lachlanwgordon",
       "Id": "https://twitter.com/lachlanwgordon",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/lachlanwgordon"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Laurent Bugnion",
+      "TwitterHandle": "lbugnion",
       "Id": "https://twitter.com/lbugnion",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/lbugnion"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Layla Porter",
+      "TwitterHandle": "laylacodesit",
       "Id": "https://twitter.com/laylacodesit",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/laylacodesit"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Lee Englestone",
+      "TwitterHandle": "leeenglestone",
       "Id": "https://twitter.com/leeenglestone",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/leeenglestone"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Lénárt Bence",
@@ -1950,13 +1763,9 @@
     },
     {
       "Name": "Luce Carter",
+      "TwitterHandle": "lucecarter1",
       "Id": "https://twitter.com/lucecarter1",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/lucecarter1"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Luis Beltran",
@@ -2010,13 +1819,9 @@
     },
     {
       "Name": "Maddy Leger",
+      "TwitterHandle": "maddyleger1",
       "Id": "https://twitter.com/maddyleger1",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/maddyleger1"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Mahmoud Ali",
@@ -2034,13 +1839,9 @@
     },
     {
       "Name": "Marc Andrew",
+      "TwitterHandle": "mrcndrw",
       "Id": "https://twitter.com/mrcndrw",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/mrcndrw"
-        }
-      ],
+      "Aliases": [],
       "Website": "https://marcandrew.me/"
     },
     {
@@ -2175,13 +1976,9 @@
     },
     {
       "Name": "Matt Goldman",
+      "TwitterHandle": "mattgoldman",
       "Id": "https://twitter.com/mattgoldman",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/mattgoldman"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Matt Soucoup",
@@ -2212,13 +2009,9 @@
     },
     {
       "Name": "Matthew Robbins",
+      "TwitterHandle": "matthewrdev",
       "Id": "https://twitter.com/matthewrdev",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/matthewrdev"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Matthew Soucoup",
@@ -2279,13 +2072,9 @@
     },
     {
       "Name": "Michael Flarup",
+      "TwitterHandle": "flarup/",
       "Id": "https://twitter.com/flarup/",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/flarup/"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Michael Ridland",
@@ -2306,13 +2095,9 @@
     },
     {
       "Name": "Michal Zolnieruk",
+      "TwitterHandle": "michalzolnieruk",
       "Id": "https://twitter.com/michalzolnieruk",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/michalzolnieruk"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Microsoft Developer",
@@ -2340,13 +2125,9 @@
     },
     {
       "Name": "Mitchel Sellers",
+      "TwitterHandle": "mitchelsellers",
       "Id": "https://twitter.com/mitchelsellers",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/mitchelsellers"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Mobile-Angel",
@@ -2400,13 +2181,9 @@
     },
     {
       "Name": "Naweed Akram",
+      "TwitterHandle": "xgeno",
       "Id": "https://twitter.com/xgeno",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/xgeno"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Neelakandan Kannan",
@@ -2481,22 +2258,15 @@
     },
     {
       "Name": "Ninaada Bellippady",
+      "TwitterHandle": "ninaada",
       "Id": "https://twitter.com/ninaada",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/ninaada"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Null Pointers",
+      "TwitterHandle": "nullpointersio",
       "Id": "https://nullpointers.io/",
       "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/nullpointersio"
-        },
         {
           "Type": "blog",
           "Name": "https://nullpointers.io/"
@@ -2565,13 +2335,9 @@
     },
     {
       "Name": "Paulin Laroche",
+      "TwitterHandle": "paulin_laroche",
       "Id": "https://twitter.com/paulin_laroche",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/paulin_laroche"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Pavel Chuvak",
@@ -2659,33 +2425,21 @@
     },
     {
       "Name": "Rahul Shah",
+      "TwitterHandle": "rahulushah",
       "Id": "https://twitter.com/rahulushah",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/rahulushah"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Rakeshkumar Desai",
+      "TwitterHandle": "rakeshkumar_des",
       "Id": "https://twitter.com/rakeshkumar_des",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/rakeshkumar_des"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Ram Shandilya",
+      "TwitterHandle": "ramshandilya",
       "Id": "https://twitter.com/ramshandilya",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/ramshandilya"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Ramkumar Ravy",
@@ -2783,23 +2537,15 @@
     },
     {
       "Name": "Rick van Dijk",
+      "TwitterHandle": "rickavdijk",
       "Id": "https://twitter.com/rickavdijk",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/rickavdijk"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Rishi Mody",
+      "TwitterHandle": "rishmody",
       "Id": "https://twitter.com/rishmody",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/rishmody"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Robin Schroeder",
@@ -2823,43 +2569,27 @@
     },
     {
       "Name": "Rodney Littles II",
+      "TwitterHandle": "rlittlesii/",
       "Id": "https://twitter.com/rlittlesii/",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/rlittlesii/"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Rodrigo Juarez",
+      "TwitterHandle": "rodrigojuarez",
       "Id": "https://twitter.com/rodrigojuarez",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/rodrigojuarez"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Roman Kamushken",
+      "TwitterHandle": "kamushken",
       "Id": "https://twitter.com/kamushken",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/kamushken"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Roxana Jula",
+      "TwitterHandle": "roxanajula",
       "Id": "https://twitter.com/roxanajula",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/roxanajula"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Runar Ovesen Hjerpbakk",
@@ -2924,13 +2654,9 @@
     },
     {
       "Name": "Sanjay Ratnottar",
+      "TwitterHandle": "sanjayratnottar",
       "Id": "https://twitter.com/sanjayratnottar",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/sanjayratnottar"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Sasmito Adibowo",
@@ -2964,13 +2690,9 @@
     },
     {
       "Name": "Sean Allen",
+      "TwitterHandle": "seanallen_dev",
       "Id": "https://twitter.com/seanallen_dev",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/seanallen_dev"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Sebastian Jensen",
@@ -3017,23 +2739,15 @@
     },
     {
       "Name": "Shane Neuville",
+      "TwitterHandle": "pureween",
       "Id": "https://twitter.com/pureween",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/pureween"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Shaun Lawrence",
+      "TwitterHandle": "bijington",
       "Id": "https://twitter.com/bijington",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/bijington"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Sheharyar Shahid",
@@ -3108,13 +2822,9 @@
     },
     {
       "Name": "Steve Smith",
+      "TwitterHandle": "ardalis",
       "Id": "https://twitter.com/ardalis",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/ardalis"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Steven Thewissen",
@@ -3135,13 +2845,9 @@
     },
     {
       "Name": "Student Developer Team",
+      "TwitterHandle": "msftimagine",
       "Id": "https://twitter.com/msftimagine",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/msftimagine"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Summitech",
@@ -3155,13 +2861,9 @@
     },
     {
       "Name": "Sundaram Subramanian",
+      "TwitterHandle": "iamsundarbhai",
       "Id": "https://twitter.com/iamsundarbhai",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/iamsundarbhai"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Suthahar Jegatheesan",
@@ -3172,13 +2874,9 @@
     },
     {
       "Name": "Suzanne Scacca",
+      "TwitterHandle": "sescacca",
       "Id": "https://twitter.com/sescacca",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/sescacca"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Sven-Michael Stübe",
@@ -3189,13 +2887,9 @@
     },
     {
       "Name": "Sweekriti Satpathy",
+      "TwitterHandle": "sweekritis",
       "Id": "https://twitter.com/sweekritis",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/sweekritis"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "SwiftKey",
@@ -3460,13 +3154,9 @@
     },
     {
       "Name": "Vadim Sedov",
+      "TwitterHandle": "sidovsky_",
       "Id": "https://twitter.com/sidovsky_",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/sidovsky_"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Vicente Guzman",
@@ -3526,13 +3216,9 @@
     },
     {
       "Name": "Vijay Anand EG",
+      "TwitterHandle": "egvijayanand",
       "Id": "https://twitter.com/egvijayanand",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/egvijayanand"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Vijayakumar Yoganandan",
@@ -3546,12 +3232,9 @@
     },
     {
       "Name": "Vincent Hoogendoorn",
+      "TwitterHandle": "vincenth_net",
       "Id": "https://twitter.com/vincenth_net",
       "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/vincenth_net"
-        },
         {
           "Type": "blog",
           "Name": "https://devblogs.microsoft.com/xamarin/author/devvincenth-net/"
@@ -3577,13 +3260,9 @@
     },
     {
       "Name": "Wajahat Karim",
+      "TwitterHandle": "wajahatkarim",
       "Id": "https://twitter.com/wajahatkarim",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/wajahatkarim"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Waldo",
@@ -3631,13 +3310,9 @@
     },
     {
       "Name": "Works",
+      "TwitterHandle": "worksdotpm",
       "Id": "https://twitter.com/worksdotpm",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/worksdotpm"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "WWDC NOTES",
@@ -3658,13 +3333,9 @@
     },
     {
       "Name": "Xamarin Assemble",
+      "TwitterHandle": "xamarinassemble",
       "Id": "https://twitter.com/xamarinassemble",
-      "Aliases": [
-        {
-          "Type": "twitter",
-          "Name": "https://twitter.com/xamarinassemble"
-        }
-      ]
+      "Aliases": []
     },
     {
       "Name": "Xamarin Developers",
