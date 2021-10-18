@@ -460,8 +460,8 @@
           "title": "NullPointers Podcast - .NET 5",
           "url_domain": "nullpointers.io",
           "url": "https://nullpointers.io/dotnet50/",
-          "description": "<p>With a new version of .NET around the corner, what will it mean for mobile, desktop or library developers. Should you adopt the new Framework?</p>\n\n<p><a href=\"https://nullpointers.io/dotnet50/\"><strong>.NET 5</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Gerald, Mark &amp; Steven</a></p>",
-          "description_markdown": "With a new version of .NET around the corner, what will it mean for mobile, desktop or library developers. Should you adopt the new Framework? \r\n\r\n[**.NET 5**](https://nullpointers.io/dotnet50/) by [Gerald, Mark & Steven](https://twitter.com/nullpointersio)",
+          "description": "<p>With a new version of .NET around the corner, what will it mean for mobile, desktop or library developers. Should you adopt the new Framework?</p>\n\n<p><a href=\"https://nullpointers.io/dotnet50/\"><strong>.NET 5</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "With a new version of .NET around the corner, what will it mean for mobile, desktop or library developers. Should you adopt the new Framework? \r\n\r\n[**.NET 5**](https://nullpointers.io/dotnet50/) by [Null Pointers](https://twitter.com/nullpointersio)",
           "embedded_links": [
             {
               "identifier": "nkxTuxX",
@@ -471,7 +471,7 @@
             },
             {
               "identifier": "zQEBeAp",
-              "title": "Gerald, Mark & Steven",
+              "title": "Null Pointers",
               "url_domain": "twitter.com",
               "url": "https://twitter.com/nullpointersio"
             }

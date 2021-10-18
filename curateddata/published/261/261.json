@@ -356,8 +356,8 @@
           "title": "NullPointers Podcast - Recapping Microsoft Build 2020",
           "url_domain": "nullpointer.io",
           "url": "https://nullpointer.io/build2020/",
-          "description": "<p>I think we can all agree that Microsoft Build has some huge announcements! Not just for Xamarin/MAUI but also Microsoft Learn TV, Codespaces and Azure Static Web Apps. Tune in to this week's NullPointer's, where Gerald, Mark and Steven discuss all this and more!</p>\n\n<p><a href=\"https://nullpointer.io/build2020/\"><strong>NullPointers Podcast - Recapping Microsoft Build 2020</strong></a> by <a href=\"https://twitter.com/nullpointersio\">NullPointers</a></p>",
-          "description_markdown": "I think we can all agree that Microsoft Build has some huge announcements! Not just for Xamarin/MAUI but also Microsoft Learn TV, Codespaces and Azure Static Web Apps. Tune in to this week's NullPointer's, where Gerald, Mark and Steven discuss all this and more!\r\n\r\n[**NullPointers Podcast - Recapping Microsoft Build 2020**](https://nullpointer.io/build2020/) by [NullPointers](https://twitter.com/nullpointersio)",
+          "description": "<p>I think we can all agree that Microsoft Build has some huge announcements! Not just for Xamarin/MAUI but also Microsoft Learn TV, Codespaces and Azure Static Web Apps. Tune in to this week's NullPointer's, where Gerald, Mark and Steven discuss all this and more!</p>\n\n<p><a href=\"https://nullpointer.io/build2020/\"><strong>NullPointers Podcast - Recapping Microsoft Build 2020</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "I think we can all agree that Microsoft Build has some huge announcements! Not just for Xamarin/MAUI but also Microsoft Learn TV, Codespaces and Azure Static Web Apps. Tune in to this week's NullPointer's, where Gerald, Mark and Steven discuss all this and more!\r\n\r\n[**NullPointers Podcast - Recapping Microsoft Build 2020**](https://nullpointer.io/build2020/) by [Null Pointers](https://twitter.com/nullpointersio)",
           "embedded_links": [
             {
               "identifier": "qRFyAn5",
@@ -367,7 +367,7 @@
             },
             {
               "identifier": "O21ZtEc",
-              "title": "NullPointers",
+              "title": "Null Pointers",
               "url_domain": "twitter.com",
               "url": "https://twitter.com/nullpointersio"
             }

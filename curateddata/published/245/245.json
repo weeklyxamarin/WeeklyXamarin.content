@@ -388,8 +388,8 @@
           "title": "Animating our Gradient Progress Bar Control in Xamarin.Forms",
           "url_domain": "somostechies.com",
           "url": "https://somostechies.com/animate-pb/",
-          "description": "<p>Jesús previously shared his custom Gradient Progress Bar Control and now he has taken that one step further by adding animation support!</p>\n\n<p><a href=\"https://somostechies.com/animate-pb/\"><strong>Animating our Gradient Progress Bar Control in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/jesulink2514\">Jesús Angelo</a></p>",
-          "description_markdown": "Jesús previously shared his custom Gradient Progress Bar Control and now he has taken that one step further by adding animation support!\r\n\r\n[**Animating our Gradient Progress Bar Control in Xamarin.Forms**](https://somostechies.com/animate-pb/) by [Jesús Angelo](https://twitter.com/jesulink2514)",
+          "description": "<p>Jesús previously shared his custom Gradient Progress Bar Control and now he has taken that one step further by adding animation support!</p>\n\n<p><a href=\"https://somostechies.com/animate-pb/\"><strong>Animating our Gradient Progress Bar Control in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/jesulink2514\">Jesús Angulo</a></p>",
+          "description_markdown": "Jesús previously shared his custom Gradient Progress Bar Control and now he has taken that one step further by adding animation support!\r\n\r\n[**Animating our Gradient Progress Bar Control in Xamarin.Forms**](https://somostechies.com/animate-pb/) by [Jesús Angulo](https://twitter.com/jesulink2514)",
           "embedded_links": [
             {
               "identifier": "Fz0bRhE",
@@ -399,7 +399,7 @@
             },
             {
               "identifier": "fLwczy4",
-              "title": "Jesús Angelo",
+              "title": "Jesús Angulo",
               "url_domain": "twitter.com",
               "url": "https://twitter.com/jesulink2514"
             }

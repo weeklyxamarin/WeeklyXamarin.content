@@ -286,8 +286,8 @@
           "title": ".NET MAUI – What’s New in Preview 8",
           "url_domain": "egvijayanand.in",
           "url": "https://egvijayanand.in/2021/09/24/net-maui-whats-new-in-preview-8/",
-          "description": "<p>Changes in .NET MAUI Preview 8 with Abstract and Host Builder pattern. Windows, via WinUI 3, now part and parcel of the Single project ecosystem.</p>\n\n<p><a href=\"https://egvijayanand.in/2021/09/24/net-maui-whats-new-in-preview-8/\"><strong>.NET MAUI – What’s New in Preview 8</strong></a> by <a href=\"https://twitter.com/egvijayanand\">Vijay Anand E G</a></p>",
-          "description_markdown": "Changes in .NET MAUI Preview 8 with Abstract and Host Builder pattern. Windows, via WinUI 3, now part and parcel of the Single project ecosystem.\r\n\r\n[**.NET MAUI – What’s New in Preview 8**](https://egvijayanand.in/2021/09/24/net-maui-whats-new-in-preview-8/) by [Vijay Anand E G](https://twitter.com/egvijayanand)",
+          "description": "<p>Changes in .NET MAUI Preview 8 with Abstract and Host Builder pattern. Windows, via WinUI 3, now part and parcel of the Single project ecosystem.</p>\n\n<p><a href=\"https://egvijayanand.in/2021/09/24/net-maui-whats-new-in-preview-8/\"><strong>.NET MAUI – What’s New in Preview 8</strong></a> by <a href=\"https://twitter.com/egvijayanand\">Vijay Anand EG</a></p>",
+          "description_markdown": "Changes in .NET MAUI Preview 8 with Abstract and Host Builder pattern. Windows, via WinUI 3, now part and parcel of the Single project ecosystem.\r\n\r\n[**.NET MAUI – What’s New in Preview 8**](https://egvijayanand.in/2021/09/24/net-maui-whats-new-in-preview-8/) by [Vijay Anand EG](https://twitter.com/egvijayanand)",
           "embedded_links": [
             {
               "identifier": "iemUNHF",
@@ -297,7 +297,7 @@
             },
             {
               "identifier": "ImIA6XN",
-              "title": "Vijay Anand E G",
+              "title": "Vijay Anand EG",
               "url_domain": "twitter.com",
               "url": "https://twitter.com/egvijayanand"
             }

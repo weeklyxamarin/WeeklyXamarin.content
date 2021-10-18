@@ -364,8 +364,8 @@
           "title": "Student Developer coloring book!",
           "url_domain": "microsoft.com",
           "url": "https://techcommunity.microsoft.com/t5/student-developer-blog/download-the-student-developer-coloring-book/ba-p/1309284",
-          "description": "<p>This is a fun little developer coloring book to keep you busy during lockdown.</p>\n\n<p><a href=\"https://techcommunity.microsoft.com/t5/student-developer-blog/download-the-student-developer-coloring-book/ba-p/1309284\"><strong>Download the Student Developer coloring book!</strong></a> by <a href=\"https://twitter.com/msftimagine\">Student_Developer_Team</a></p>",
-          "description_markdown": "This is a fun little developer coloring book to keep you busy during lockdown.\r\n\r\n[**Download the Student Developer coloring book!**](https://techcommunity.microsoft.com/t5/student-developer-blog/download-the-student-developer-coloring-book/ba-p/1309284) by [Student_Developer_Team](https://twitter.com/msftimagine)",
+          "description": "<p>This is a fun little developer coloring book to keep you busy during lockdown.</p>\n\n<p><a href=\"https://techcommunity.microsoft.com/t5/student-developer-blog/download-the-student-developer-coloring-book/ba-p/1309284\"><strong>Download the Student Developer coloring book!</strong></a> by <a href=\"https://twitter.com/msftimagine\">Student Developer Team</a></p>",
+          "description_markdown": "This is a fun little developer coloring book to keep you busy during lockdown.\r\n\r\n[**Download the Student Developer coloring book!**](https://techcommunity.microsoft.com/t5/student-developer-blog/download-the-student-developer-coloring-book/ba-p/1309284) by [Student Developer Team](https://twitter.com/msftimagine)",
           "embedded_links": [
             {
               "identifier": "amuioS3",
@@ -375,7 +375,7 @@
             },
             {
               "identifier": "KYhIQ98",
-              "title": "Student_Developer_Team",
+              "title": "Student Developer Team",
               "url_domain": "twitter.com",
               "url": "https://twitter.com/msftimagine"
             }

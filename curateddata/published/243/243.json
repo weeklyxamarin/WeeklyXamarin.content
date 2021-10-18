@@ -232,8 +232,8 @@
           "title": "Xamarin.Forms: Customizing the Entry control [Spanish]",
           "url_domain": "somostechies.com",
           "url": "https://somostechies.com/entry-custom/",
-          "description": "<p>Sometimes we want to customise controls, like the Entry control, to be consistent accross platforms. But maybe we don't want to apply the only Visual option at the moment, Material from Google.</p>\n\n<p><a href=\"https://somostechies.com/entry-custom/\"><strong>Xamarin.Forms: Customizing the Entry control </strong></a> by <a href=\"https://twitter.com/jesulink2514\">Jesus Angulo</a></p>",
-          "description_markdown": "Sometimes we want to customise controls, like the Entry control, to be consistent accross platforms. But maybe we don't want to apply the only Visual option at the moment, Material from Google.\r\n\r\n[**Xamarin.Forms: Customizing the Entry control **](https://somostechies.com/entry-custom/) by [Jesus Angulo](https://twitter.com/jesulink2514)",
+          "description": "<p>Sometimes we want to customise controls, like the Entry control, to be consistent accross platforms. But maybe we don't want to apply the only Visual option at the moment, Material from Google.</p>\n\n<p><a href=\"https://somostechies.com/entry-custom/\"><strong>Xamarin.Forms: Customizing the Entry control </strong></a> by <a href=\"https://twitter.com/jesulink2514\">Jesús Angulo</a></p>",
+          "description_markdown": "Sometimes we want to customise controls, like the Entry control, to be consistent accross platforms. But maybe we don't want to apply the only Visual option at the moment, Material from Google.\r\n\r\n[**Xamarin.Forms: Customizing the Entry control **](https://somostechies.com/entry-custom/) by [Jesús Angulo](https://twitter.com/jesulink2514)",
           "embedded_links": [
             {
               "identifier": "TKxqVfr",
@@ -243,7 +243,7 @@
             },
             {
               "identifier": "IgvLEjn",
-              "title": "Jesus Angulo",
+              "title": "Jesús Angulo",
               "url_domain": "twitter.com",
               "url": "https://twitter.com/jesulink2514"
             }

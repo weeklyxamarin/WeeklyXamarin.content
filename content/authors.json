@@ -778,6 +778,16 @@
       "Website": "https://www.youtube.com/c/danielmonetelli"
     },
     {
+      "Name": "Daniel Monettelli",
+      "Id": "73ae3c75-b153-4468-b3bb-3ef431a50984",
+      "Aliases": [
+        {
+          "Type": "twitter",
+          "Name": "https://twitter.com/danielmonetelli"
+        }
+      ]
+    },
+    {
       "Name": "David Britch",
       "TwitterHandle": "britchdavid",
       "GitHubHandle": "davidbritch",
@@ -798,9 +808,9 @@
     },
     {
       "Name": "David Ortinau",
-      "Id": "7063550e-721d-4e50-b9cd-99fa6f4b6c94",
       "TwitterHandle": "davidortinau",
       "GitHubHandle": "davidortinau",
+      "Id": "7063550e-721d-4e50-b9cd-99fa6f4b6c94",
       "Aliases": [
         {
           "Type": "blog",
@@ -2594,8 +2604,8 @@
     },
     {
       "Name": "Sam Basu",
-      "Id": "acad83ad-396d-4d81-8da8-d481cd0b501d",
       "TwitterHandle": "samidip",
+      "Id": "acad83ad-396d-4d81-8da8-d481cd0b501d",
       "Aliases": [
         {
           "Type": "blog",
@@ -3005,7 +3015,6 @@
     {
       "Name": "Toby Field",
       "Id": "df245769-0264-4a6a-9b07-7e9807cce78e",
-      
       "Aliases": [
         {
           "Type": "blog",
@@ -3397,5 +3406,7 @@
         }
       ]
     }
-  ]
+  ],
+  "IsStale": false,
+  "FetchedDate": "0001-01-01T00:00:00"
 }
