@@ -1,0 +1,155 @@
+{
+  "Id": "324",
+  "Name": "Issue 324",
+  "UpdatedTimeStamp": "2021-10-18T14:08:32Z",
+  "Summary": "RegEx and Tabs - Everyone' favorites",
+  "Introduction": "Hey Everyone, There is a new MAUI Preview out with some nice new bits. Check out the blog posts and video by Gerald. In good news, Melbourne is heading out of full scale lockdown this week, so maybe life will start getting back to normal soon... maybe. Hope you have a great week. Kym",
+  "PublishDate": "2021-10-18T14:08:29Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Announcing .NET MAUI Preview 9",
+      "Url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-9",
+      "Description": "The next .NET MAUI preview is now available with borders, corners, and shadows - oh my!",
+      "EditionId": "324",
+      "Author": "David Ortinau",
+      "Id": "324-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": " Learn RegEx the easy way",
+      "Url": "https://github.com/ziishaned/learn-regex",
+      "Description": "Everybody I know has trouble wrapping their head around RegEx. This looks to be a pretty handy reference.",
+      "EditionId": "324",
+      "Author": "Zeeshan Ahmad",
+      "Id": "324-2",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Alternating CollectionView Row Colors",
+      "Url": "https://xamarinhowto.com/xamarin-forms-collectionview-alternating-row-colors/",
+      "Description": "Alternating row colours in a CollectionView is quite often a design requirement. In this blog post, Toby shows you a simple, reusable converter to solve this.",
+      "EditionId": "324",
+      "Author": "Toby Field",
+      "Id": "324-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Tips and Ticks when creating a Custom Control in Xamarin Forms. Part. 2",
+      "Url": "https://xamgirl.com/tips-and-ticks-when-creating-a-custom-control-in-xamarin-forms-part-2/",
+      "Description": "Charlin shares even more tips and tricks for creating custom controls.",
+      "EditionId": "324",
+      "Author": "Charlin Agramonte",
+      "Id": "324-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Masks with Plugin.ValidationRules",
+      "Url": "https://luismts.com/masks-plugin-validationrules-xamarin-forms/",
+      "Description": "Learn how to apply masks to your validation rules on users' text entries in Xamarin.Forms. The best, and fastest, the way is to use the Plugin.ValidationRules library.",
+      "EditionId": "324",
+      "Author": "Luis Matos",
+      "Id": "324-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Build MAUI Apps in an Azure VM",
+      "Url": "https://www.appvnext.com/blog/2021/10/10/build-maui-apps-in-an-azure-vm",
+      "Description": "If you want to play with MAUI but don't want to install it on your main machine, or perhaps you just want to have an isolated environment, then check out this blog post on how to setup a MAUI development environment in the cloud.",
+      "EditionId": "324",
+      "Author": "Carl Franklin",
+      "Id": "324-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Contributing to .NET MAUI Community Toolkit",
+      "Url": "https://devblogs.microsoft.com/dotnet/contributing-to-net-maui-community-toolkit/",
+      "Description": "Announcing the new process for contributing to the .NET MAUI Community Toolkit.",
+      "EditionId": "324",
+      "Author": "Brandon Minnick",
+      "Id": "324-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Using .NET MAUI Community Toolkit",
+      "Url": "https://codetraveler.io/2021/10/18/using-net-maui-community-toolkit/",
+      "Description": "The .NET Community Toolkit recently debuted. Let's take a look at how to use some of it's features, and how we can contribute more!",
+      "EditionId": "324",
+      "Author": "Brandon Minnick",
+      "Id": "324-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #28",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-28",
+      "Description": "Let Sam keep you up to date on the latest happenings in MAUI land.",
+      "EditionId": "324",
+      "Author": "Sam Basu",
+      "Id": "324-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "All Things Tabs!",
+      "Url": "https://www.youtube.com/watch?v=YDxQjb7N-P8",
+      "Description": "Today, we look at Tabs! Both the TabbedPage and using Tabs with Shell in both Xamarin.Forms and .NET MAUI. We explore top tabs, bottom tabs, tab sandwiches, navigation, customization, colors, and so much more! It is 30 minutes on TABS!",
+      "EditionId": "324",
+      "Author": "James Montemagno",
+      "Id": "324-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The .NET MAUI Podcast Episode 100: Preview-Mania",
+      "Url": "https://www.dotnetmauipodcast.com/100",
+      "Description": "All the previews and release candidates you could ever want. .NET 6 RC 2 - the final RC. .NET MAUI Preview 9, Visual Studio RC and Preview 5 - there's even a Visual Studio for Mac preview to talk about! Tune in as David and Matt talk all about the previews!",
+      "EditionId": "324",
+      "Author": ".NET MAUI Podcast",
+      "Id": "324-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Alerts, Dialogs and More on Steroids with Acr.UserDialogs",
+      "Url": "https://www.youtube.com/watch?v=Tu8MtPiAsX8",
+      "Description": "The default alerts and dialogs in Xamarin.Forms are nice, but leave room for improvement. Enter Acr.UserDialogs. This plugin has been around for years and offers: loading and progress indicators, alerts, prompts and much more! It's also perfect to use with dependency injection! Come check it out!",
+      "EditionId": "324",
+      "Author": "Gerald Versluis",
+      "Id": "324-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 276: .NET 6 + C# 10 == Mind Blown",
+      "Url": "https://www.mergeconflict.fm/276",
+      "Description": "This week we explore some brand new features in C# 10 including global usings, implicit usings, scoped namespaces, and minimal APIs!",
+      "EditionId": "324",
+      "Author": "Merge Conflict",
+      "Id": "324-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 72: XamExpertDay And Sad News :(",
+      "Url": "https://nullpointers.io/72/",
+      "Description": "Last week we had an awesome conference about all things Xamarin and MAUI, let’s talk about it! Also, stick around until the end because there will be some sad news. Number 5 will shock you!",
+      "EditionId": "324",
+      "Author": "Null Pointers",
+      "Id": "324-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Gerald walks through the .NET MAUI Preview 9 Update",
+      "Url": "https://www.youtube.com/watch?v=SPHn6DhBSYQ",
+      "Description": "The new preview of .NET MAUI has been released, preview 9. In this preview more controls that have been ported from Xamarin.Forms, but more importantly a new addition: borders, corners and shadows on all controls! This is nuts! Go check it out!",
+      "EditionId": "324",
+      "Author": "Gerald Versluis",
+      "Id": "324-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The All-New .NET MAUI Tab View Control Is Here",
+      "Url": "https://www.syncfusion.com/blogs/post/the-all-new-net-maui-tab-view-control-is-here.aspx",
+      "Description": "The .NET Multi-platform App UI (MAUI) is an evolution of Xamarin.Forms. It mainly focuses on single project development for different platforms such as Android, iOS, macOS, and Windows. Syncfusion has shipped a set of cool .NET MAUI tools that includes Charts, Radial Gauge, and Tab View controls.",
+      "EditionId": "324",
+      "Author": "Selva Ganapathy Kathiresan",
+      "Id": "324-16",
+      "Category": "RELEASES"
+    }
+  ]
+}

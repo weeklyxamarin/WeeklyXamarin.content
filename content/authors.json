@@ -3405,6 +3405,12 @@
           "Name": "https://blog.zach.so/people/12421462-zachary-shakked"
         }
       ]
+    },
+    {
+      "Name": "Zeeshan Ahmad",
+      "TwitterHandle": "ziishaned",
+      "Id": "98ca3c4a-ea21-480c-ad5a-05d6e8b9bcb4",
+      "Aliases": []
     }
   ],
   "IsStale": false,

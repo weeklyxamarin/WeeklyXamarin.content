@@ -1,0 +1,431 @@
+{
+  "number": 324,
+  "title": "Issue 324",
+  "summary": "RegEx and Tabs - Everyone' favorites",
+  "url": "https://weeklyxamarin.com/issues/324",
+  "publication_status": "published",
+  "published_at": "2021-10-18T15:08:29+01:00",
+  "updated_at": "2021-10-18T15:08:32+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hey Everyone,</p>\n\n<p>There is a new MAUI Preview out with some nice new bits. Check out the blog posts and video by Gerald.</p>\n\n<p>In good news, Melbourne is heading out of full scale lockdown this week, so maybe life will start getting back to normal soon... maybe.</p>\n\n<p>Hope you have a great week.</p>\n\n<p>Kym</p>",
+          "description_markdown": "Hey Everyone,\r\n\r\nThere is a new MAUI Preview out with some nice new bits. Check out the blog posts and video by Gerald.\r\n\r\nIn good news, Melbourne is heading out of full scale lockdown this week, so maybe life will start getting back to normal soon... maybe.\r\n\r\nHope you have a great week.\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "VeJ13WT",
+          "type": "Link",
+          "title": "Announcing .NET MAUI Preview 9",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-9",
+          "description": "<p>The next .NET MAUI preview is now available with borders, corners, and shadows - oh my!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-9\"><strong>Announcing .NET MAUI Preview 9</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": "The next .NET MAUI preview is now available with borders, corners, and shadows - oh my!\r\n\r\n[**Announcing .NET MAUI Preview 9**](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-9) by [David Ortinau](https://twitter.com/davidortinau)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "1CdhSpf",
+              "title": "**Announcing .NET MAUI Preview 9**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-9"
+            },
+            {
+              "identifier": "owfQyGJ",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "agfXPiY",
+          "type": "Link",
+          "title": " Learn RegEx the easy way",
+          "url_domain": "github.com",
+          "url": "https://github.com/ziishaned/learn-regex",
+          "description": "<p>Everybody I know has trouble wrapping their head around RegEx. This looks to be a pretty handy reference.</p>\n\n<p><a href=\"https://github.com/ziishaned/learn-regex\"><strong>GitHub - ziishaned/learn-regex: Learn regex the easy way</strong></a> by <a href=\"https://twitter.com/ziishaned\">Zeeshan Ahmad</a></p>",
+          "description_markdown": "Everybody I know has trouble wrapping their head around RegEx. This looks to be a pretty handy reference.\r\n\r\n[**GitHub - ziishaned/learn-regex: Learn regex the easy way**](https://github.com/ziishaned/learn-regex) by [Zeeshan Ahmad](https://twitter.com/ziishaned)",
+          "embedded_links": [
+            {
+              "identifier": "v7V1HNk",
+              "title": "**GitHub - ziishaned/learn-regex: Learn regex the easy way**",
+              "url_domain": "github.com",
+              "url": "https://github.com/ziishaned/learn-regex"
+            },
+            {
+              "identifier": "JNCUW1C",
+              "title": "Zeeshan Ahmad",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/ziishaned"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "vUyob4a",
+          "type": "Link",
+          "title": "Alternating CollectionView Row Colors",
+          "url_domain": "xamarinhowto.com",
+          "url": "https://xamarinhowto.com/xamarin-forms-collectionview-alternating-row-colors/",
+          "description": "<p>Alternating row colours in a CollectionView is quite often a design requirement. In this blog post, Toby shows you a simple, reusable converter to solve this.</p>\n\n<p><a href=\"https://xamarinhowto.com/xamarin-forms-collectionview-alternating-row-colors/\"><strong>Xamarin.Forms CollectionView Alternating Row Colors</strong></a> by <a href=\"https://www.linkedin.com/in/toby-field-589a46205/\">Toby Field</a></p>",
+          "description_markdown": "Alternating row colours in a CollectionView is quite often a design requirement. In this blog post, Toby shows you a simple, reusable converter to solve this.\r\n\r\n[**Xamarin.Forms CollectionView Alternating Row Colors**](https://xamarinhowto.com/xamarin-forms-collectionview-alternating-row-colors/) by [Toby Field](https://www.linkedin.com/in/toby-field-589a46205/)\r\n\r\n",
+          "embedded_links": [
+            {
+              "identifier": "jVau1tQ",
+              "title": "**Xamarin.Forms CollectionView Alternating Row Colors**",
+              "url_domain": "xamarinhowto.com",
+              "url": "https://xamarinhowto.com/xamarin-forms-collectionview-alternating-row-colors/"
+            },
+            {
+              "identifier": "CPi03p2",
+              "title": "Toby Field",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/toby-field-589a46205/"
+            }
+          ]
+        },
+        {
+          "identifier": "XDcaWch",
+          "type": "Link",
+          "title": "Tips and Ticks when creating a Custom Control in Xamarin Forms. Part. 2",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/tips-and-ticks-when-creating-a-custom-control-in-xamarin-forms-part-2/",
+          "description": "<p>Charlin shares even more tips and tricks for creating custom controls.</p>\n\n<p><a href=\"https://xamgirl.com/tips-and-ticks-when-creating-a-custom-control-in-xamarin-forms-part-2/\"><strong>Tips and Ticks when creating a Custom Control in Xamarin Forms. Part. 2 - XamGirl</strong></a> by <a href=\"https://twitter.com/Chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "Charlin shares even more tips and tricks for creating custom controls.\r\n\r\n[**Tips and Ticks when creating a Custom Control in Xamarin Forms. Part. 2 - XamGirl**](https://xamgirl.com/tips-and-ticks-when-creating-a-custom-control-in-xamarin-forms-part-2/) by [Charlin Agramonte](https://twitter.com/Chard003)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ERbXEge",
+              "title": "**Tips and Ticks when creating a Custom Control in Xamarin Forms. Part. 2 - XamGirl**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/tips-and-ticks-when-creating-a-custom-control-in-xamarin-forms-part-2/"
+            },
+            {
+              "identifier": "IcUfJEW",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "O4I3wxQ",
+          "type": "Link",
+          "title": "Masks with Plugin.ValidationRules",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/masks-plugin-validationrules-xamarin-forms/",
+          "description": "<p>Learn how to apply masks to your validation rules on users' text entries in Xamarin.Forms. The best, and fastest, the way is to use the Plugin.ValidationRules library.</p>\n\n<p><a href=\"https://luismts.com/masks-plugin-validationrules-xamarin-forms/\"><strong>Masks with Plugin.ValidationRules in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Learn how to apply masks to your validation rules on users' text entries in Xamarin.Forms. The best, and fastest, the way is to use the Plugin.ValidationRules library.\r\n\r\n[**Masks with Plugin.ValidationRules in Xamarin.Forms**](https://luismts.com/masks-plugin-validationrules-xamarin-forms/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "WESwGPm",
+              "title": "**Masks with Plugin.ValidationRules in Xamarin.Forms**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/masks-plugin-validationrules-xamarin-forms/"
+            },
+            {
+              "identifier": "LQgZfrX",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "PYCxxwG",
+          "type": "Link",
+          "title": "Build MAUI Apps in an Azure VM",
+          "url_domain": "appvnext.com",
+          "url": "https://www.appvnext.com/blog/2021/10/10/build-maui-apps-in-an-azure-vm",
+          "description": "<p>If you want to play with MAUI but don't want to install it on your main machine, or perhaps you just want to have an isolated environment, then check out this blog post on how to setup a MAUI development environment in the cloud.</p>\n\n<p><a href=\"https://www.appvnext.com/blog/2021/10/10/build-maui-apps-in-an-azure-vm\"><strong>Build MAUI Apps in an Azure VM &mdash; App vNext</strong></a> by <a href=\"https://twitter.com/carlfranklin\">Carl Franklin</a></p>",
+          "description_markdown": "If you want to play with MAUI but don't want to install it on your main machine, or perhaps you just want to have an isolated environment, then check out this blog post on how to setup a MAUI development environment in the cloud.\r\n\r\n[**Build MAUI Apps in an Azure VM &mdash; App vNext**](https://www.appvnext.com/blog/2021/10/10/build-maui-apps-in-an-azure-vm) by [Carl Franklin](https://twitter.com/carlfranklin)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "mmfmaVX",
+              "title": "**Build MAUI Apps in an Azure VM &mdash; App vNext**",
+              "url_domain": "appvnext.com",
+              "url": "https://www.appvnext.com/blog/2021/10/10/build-maui-apps-in-an-azure-vm"
+            },
+            {
+              "identifier": "JJQgFgn",
+              "title": "Carl Franklin",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/carlfranklin"
+            }
+          ]
+        },
+        {
+          "identifier": "tYLTzu0",
+          "type": "Link",
+          "title": "Contributing to .NET MAUI Community Toolkit",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/contributing-to-net-maui-community-toolkit/",
+          "description": "<p>Announcing the new process for contributing to the .NET MAUI Community Toolkit.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/contributing-to-net-maui-community-toolkit/\"><strong>Contributing to .NET MAUI Community Toolkit</strong></a> by <a href=\"https://twitter.com/TheCodeTraveler\">Brandon Minnick</a></p>",
+          "description_markdown": "Announcing the new process for contributing to the .NET MAUI Community Toolkit.\r\n\r\n[**Contributing to .NET MAUI Community Toolkit**](https://devblogs.microsoft.com/dotnet/contributing-to-net-maui-community-toolkit/) by [Brandon Minnick](https://twitter.com/TheCodeTraveler)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "R2tS6mn",
+              "title": "**Contributing to .NET MAUI Community Toolkit**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/contributing-to-net-maui-community-toolkit/"
+            },
+            {
+              "identifier": "JrfqY5E",
+              "title": "Brandon Minnick",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/TheCodeTraveler"
+            }
+          ]
+        },
+        {
+          "identifier": "KgeYDcS",
+          "type": "Link",
+          "title": "Using .NET MAUI Community Toolkit",
+          "url_domain": "codetraveler.io",
+          "url": "https://codetraveler.io/2021/10/18/using-net-maui-community-toolkit/",
+          "description": "<p>The .NET Community Toolkit recently debuted. Let's take a look at how to use some of it's features, and how we can contribute more!</p>\n\n<p><a href=\"https://codetraveler.io/2021/10/18/using-net-maui-community-toolkit/\"><strong>Using .NET MAUI Community Toolkit</strong></a> by <a href=\"https://twitter.com/TheCodeTraveler\">Brandon Minnick</a></p>",
+          "description_markdown": "The .NET Community Toolkit recently debuted. Let's take a look at how to use some of it's features, and how we can contribute more!\r\n\r\n[**Using .NET MAUI Community Toolkit**](https://codetraveler.io/2021/10/18/using-net-maui-community-toolkit/) by [Brandon Minnick](https://twitter.com/TheCodeTraveler)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Awm79j6",
+              "title": "**Using .NET MAUI Community Toolkit**",
+              "url_domain": "codetraveler.io",
+              "url": "https://codetraveler.io/2021/10/18/using-net-maui-community-toolkit/"
+            },
+            {
+              "identifier": "N4ndWqs",
+              "title": "Brandon Minnick",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/TheCodeTraveler"
+            }
+          ]
+        },
+        {
+          "identifier": "loWfFdX",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #28",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-28",
+          "description": "<p>Let Sam keep you up to date on the latest happenings in MAUI land.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-28\"><strong>Sands of MAUI: Issue #28</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Let Sam keep you up to date on the latest happenings in MAUI land.\r\n\r\n[**Sands of MAUI: Issue #28**](https://www.telerik.com/blogs/sands-maui-issue-28) by [Sam Basu](https://twitter.com/samidip)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "2MWi6Ar",
+              "title": "**Sands of MAUI: Issue #28**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-28"
+            },
+            {
+              "identifier": "Lh4Vlyt",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "xYyfK2Z",
+          "type": "Link",
+          "title": "All Things Tabs!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=YDxQjb7N-P8",
+          "description": "<p>Today, we look at Tabs! Both the TabbedPage and using Tabs with Shell in both Xamarin.Forms and .NET MAUI. We explore top tabs, bottom tabs, tab sandwiches, navigation, customization, colors, and so much more! It is 30 minutes on TABS!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=YDxQjb7N-P8\"><strong>All Things Tabs! Top Tabs, Bottom Tabs, Tab Sandwich - Xamarin.Forms &amp; .NET MAUI</strong></a> by <a href=\"https://twitter.com/JamesMontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Today, we look at Tabs! Both the TabbedPage and using Tabs with Shell in both Xamarin.Forms and .NET MAUI. We explore top tabs, bottom tabs, tab sandwiches, navigation, customization, colors, and so much more! It is 30 minutes on TABS!\r\n\r\n[**All Things Tabs! Top Tabs, Bottom Tabs, Tab Sandwich - Xamarin.Forms & .NET MAUI**](https://www.youtube.com/watch?v=YDxQjb7N-P8) by [James Montemagno](https://twitter.com/JamesMontemagno)\r\n\r\n",
+          "embedded_links": [
+            {
+              "identifier": "G5iUle6",
+              "title": "**All Things Tabs! Top Tabs, Bottom Tabs, Tab Sandwich - Xamarin.Forms & .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=YDxQjb7N-P8"
+            },
+            {
+              "identifier": "qTAzqEc",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/JamesMontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "hewOYIn",
+          "type": "Link",
+          "title": "The .NET MAUI Podcast Episode 100: Preview-Mania",
+          "url_domain": "dotnetmauipodcast.com",
+          "url": "https://www.dotnetmauipodcast.com/100",
+          "description": "<p>All the previews and release candidates you could ever want. .NET 6 RC 2 - the final RC. .NET MAUI Preview 9, Visual Studio RC and Preview 5 - there's even a Visual Studio for Mac preview to talk about!</p>\n\n<p>Tune in as David and Matt talk all about the previews!</p>\n\n<p><a href=\"https://www.dotnetmauipodcast.com/100\"><strong>The .NET MAUI Podcast Episode 100: Preview-Mania</strong></a> by <a href=\"https://www.dotnetmauipodcast.com\">.NET MAUI Podcast</a></p>",
+          "description_markdown": "All the previews and release candidates you could ever want. .NET 6 RC 2 - the final RC. .NET MAUI Preview 9, Visual Studio RC and Preview 5 - there's even a Visual Studio for Mac preview to talk about!\r\n\r\nTune in as David and Matt talk all about the previews!\r\n\r\n[**The .NET MAUI Podcast Episode 100: Preview-Mania**](https://www.dotnetmauipodcast.com/100) by [.NET MAUI Podcast](https://www.dotnetmauipodcast.com)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "zmJpCJd",
+              "title": "**The .NET MAUI Podcast Episode 100: Preview-Mania**",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/100"
+            },
+            {
+              "identifier": "SPupx6g",
+              "title": ".NET MAUI Podcast",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com"
+            }
+          ]
+        },
+        {
+          "identifier": "UZvXkKV",
+          "type": "Link",
+          "title": "Xamarin Alerts, Dialogs and More on Steroids with Acr.UserDialogs",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Tu8MtPiAsX8",
+          "description": "<p>The default alerts and dialogs in Xamarin.Forms are nice, but leave room for improvement. Enter Acr.UserDialogs. This plugin has been around for years and offers: loading and progress indicators, alerts, prompts and much more! It's also perfect to use with dependency injection! Come check it out!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Tu8MtPiAsX8\"><strong>Xamarin Alerts, Dialogs and More on Steroids with Acr.UserDialogs</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "The default alerts and dialogs in Xamarin.Forms are nice, but leave room for improvement. Enter Acr.UserDialogs. This plugin has been around for years and offers: loading and progress indicators, alerts, prompts and much more! It's also perfect to use with dependency injection! Come check it out!\r\n\r\n[**Xamarin Alerts, Dialogs and More on Steroids with Acr.UserDialogs**](https://www.youtube.com/watch?v=Tu8MtPiAsX8) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "p83Da4S",
+              "title": "**Xamarin Alerts, Dialogs and More on Steroids with Acr.UserDialogs**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Tu8MtPiAsX8"
+            },
+            {
+              "identifier": "ecsjKX7",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "5zSve5J",
+          "type": "Link",
+          "title": "Merge Conflict: 276: .NET 6 + C# 10 == Mind Blown",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/276",
+          "description": "<p>This week we explore some brand new features in C# 10 including global usings, implicit usings, scoped namespaces, and minimal APIs!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/276\"><strong>Merge Conflict: 276: .NET 6 + C# 10 == Mind Blown</strong></a> by <a href=\"https://twitter.com/MergeConflictFM\">Merge Conflict</a></p>",
+          "description_markdown": "This week we explore some brand new features in C# 10 including global usings, implicit usings, scoped namespaces, and minimal APIs!\r\n\r\n[**Merge Conflict: 276: .NET 6 + C# 10 == Mind Blown**](https://www.mergeconflict.fm/276) by [Merge Conflict](https://twitter.com/MergeConflictFM)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "zZslX8r",
+              "title": "**Merge Conflict: 276: .NET 6 + C# 10 == Mind Blown**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/276"
+            },
+            {
+              "identifier": "ja7G8ck",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/MergeConflictFM"
+            }
+          ]
+        },
+        {
+          "identifier": "pG45XOg",
+          "type": "Link",
+          "title": "Null Pointers 72: XamExpertDay And Sad News :(",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/72/",
+          "description": "<p>Last week we had an awesome conference about all things Xamarin and MAUI, let’s talk about it! Also, stick around until the end because there will be some sad news. Number 5 will shock you!</p>\n\n<p><a href=\"https://nullpointers.io/72/\"><strong>72: XamExpertDay And Sad News :(</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "Last week we had an awesome conference about all things Xamarin and MAUI, let’s talk about it! Also, stick around until the end because there will be some sad news. Number 5 will shock you!\r\n\r\n[**72: XamExpertDay And Sad News :(**](https://nullpointers.io/72/) by [Null Pointers](https://twitter.com/nullpointersio)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "5RWla9g",
+              "title": "**72: XamExpertDay And Sad News :(**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/72/"
+            },
+            {
+              "identifier": "ZJszBQo",
+              "title": "Null Pointers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        },
+        {
+          "identifier": "t0K1CW6",
+          "type": "Link",
+          "title": "Gerald walks through the .NET MAUI Preview 9 Update",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=SPHn6DhBSYQ",
+          "description": "<p>The new preview of .NET MAUI has been released, preview 9. In this preview more controls that have been ported from Xamarin.Forms, but more importantly a new addition: borders, corners and shadows on all controls! This is nuts! Go check it out!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=SPHn6DhBSYQ\"><strong>.NET MAUI Preview 9: Borders, Corners and Shadows on Everything!</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "The new preview of .NET MAUI has been released, preview 9. In this preview more controls that have been ported from Xamarin.Forms, but more importantly a new addition: borders, corners and shadows on all controls! This is nuts! Go check it out!\r\n\r\n[**.NET MAUI Preview 9: Borders, Corners and Shadows on Everything!**](https://www.youtube.com/watch?v=SPHn6DhBSYQ) by [Gerald Versluis](https://twitter.com/jfversluis)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "1TiyPUl",
+              "title": "**.NET MAUI Preview 9: Borders, Corners and Shadows on Everything!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=SPHn6DhBSYQ"
+            },
+            {
+              "identifier": "W1zYApM",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "PeYFIdX",
+          "type": "Link",
+          "title": "The All-New .NET MAUI Tab View Control Is Here",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/the-all-new-net-maui-tab-view-control-is-here.aspx",
+          "description": "<p>The .NET Multi-platform App UI (MAUI) is an evolution of Xamarin.Forms. It mainly focuses on single project development for different platforms such as Android, iOS, macOS, and Windows. Syncfusion has shipped a set of cool .NET MAUI tools that includes Charts, Radial Gauge, and Tab View controls.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/the-all-new-net-maui-tab-view-control-is-here.aspx\"><strong>The All-New .NET MAUI Tab View Control Is Here | Syncfusion Blogs</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "The .NET Multi-platform App UI (MAUI) is an evolution of Xamarin.Forms. It mainly focuses on single project development for different platforms such as Android, iOS, macOS, and Windows. Syncfusion has shipped a set of cool .NET MAUI tools that includes Charts, Radial Gauge, and Tab View controls.\r\n\r\n[**The All-New .NET MAUI Tab View Control Is Here | Syncfusion Blogs**](https://www.syncfusion.com/blogs/post/the-all-new-net-maui-tab-view-control-is-here.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)",
+          "embedded_links": [
+            {
+              "identifier": "vzZIPMS",
+              "title": "**The All-New .NET MAUI Tab View Control Is Here | Syncfusion Blogs**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/the-all-new-net-maui-tab-view-control-is-here.aspx"
+            },
+            {
+              "identifier": "PMK4GUH",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
