@@ -39,7 +39,7 @@
       "Url": "https://officialdoniald.azurewebsites.net/2020/08/24/xamarin-android-bottom-bubble-tabbar/",
       "Description": "How to create a cute little custom tab bar with bubbles in Xamarin.Android.",
       "EditionId": "274",
-      "Author": "Lénárt Bence",
+      "Author": "Lenart Bence",
       "Id": "274-4",
       "Category": "ANDROID"
     },
@@ -48,7 +48,7 @@
       "Url": "https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-automatic-grid-height/",
       "Description": "Making your gridview heights scale automatically in Xamarin.Android.",
       "EditionId": "274",
-      "Author": "Lénárt Bence",
+      "Author": "Lenart Bence",
       "Id": "274-5",
       "Category": "ANDROID"
     },
@@ -57,7 +57,7 @@
       "Url": "https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-using-svg-images-via-vectordrawable/",
       "Description": "By default, Android does not support svg. For this, they invented VectorDrawable, which can display svgs.",
       "EditionId": "274",
-      "Author": "Lénárt Bence",
+      "Author": "Lenart Bence",
       "Id": "274-6",
       "Category": "ANDROID"
     },
@@ -66,7 +66,7 @@
       "Url": "https://officialdoniald.azurewebsites.net/2020/08/22/xamarin-android-automatic-listview-height/",
       "Description": "Discussing how to make Xamarin.Android ListView heights size automatically.",
       "EditionId": "274",
-      "Author": "Lénárt Bence",
+      "Author": "Lenart Bence",
       "Id": "274-7",
       "Category": "ANDROID"
     },

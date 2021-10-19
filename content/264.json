@@ -12,7 +12,7 @@
       "Url": "https://marcofolio.net/snippets-xamarin-uitest/",
       "Description": "Part of #XamarinMonth If you’re trying to create automated tests for your Xamarin app, you must have stumbled across Xamarin.UITest. It’s a great way to bring the quality of your application to the next level. Just make sure to apply the best practices when using Xamarin.UITest (especially the Page Object Pattern) otherwise your code can get messy really fast. But when everything is set up properly, you can automatically test your application through the UI on over 1000 devices using Visual Studio App Center!",
       "EditionId": "264",
-      "Author": "Marco Kuiper",
+      "Author": "Marco Folio",
       "Id": "264-1",
       "Category": "TESTING"
     },

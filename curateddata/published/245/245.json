@@ -319,8 +319,8 @@
           "title": "Xamarin.Forms Twilio implementation",
           "url_domain": "azurewebsites.net",
           "url": "https://officialdoniald.azurewebsites.net/2020/02/05/xamarin-forms-twilio-implementation/",
-          "description": "<p>If you follow me on Twitter, you may be aware I am also a Twilio Champion. I had attempted Twilio bindings for Xamarin last year on my stream but it never got finished. So when I saw this post I jumped with excitement and got straight to reading!!</p>\n\n<p><a href=\"https://officialdoniald.azurewebsites.net/2020/02/05/xamarin-forms-twilio-implementation/\"><strong>Xamarin.Forms Twilio implementation</strong></a> by <a href=\"https://twitter.com/officialdoniald\">Bence Lenart</a></p>",
-          "description_markdown": "If you follow me on Twitter, you may be aware I am also a Twilio Champion. I had attempted Twilio bindings for Xamarin last year on my stream but it never got finished. So when I saw this post I jumped with excitement and got straight to reading!!\r\n\r\n[**Xamarin.Forms Twilio implementation**](https://officialdoniald.azurewebsites.net/2020/02/05/xamarin-forms-twilio-implementation/) by [Bence Lenart](https://twitter.com/officialdoniald)",
+          "description": "<p>If you follow me on Twitter, you may be aware I am also a Twilio Champion. I had attempted Twilio bindings for Xamarin last year on my stream but it never got finished. So when I saw this post I jumped with excitement and got straight to reading!!</p>\n\n<p><a href=\"https://officialdoniald.azurewebsites.net/2020/02/05/xamarin-forms-twilio-implementation/\"><strong>Xamarin.Forms Twilio implementation</strong></a> by <a href=\"https://twitter.com/officialdoniald\">Lenart Bence</a></p>",
+          "description_markdown": "If you follow me on Twitter, you may be aware I am also a Twilio Champion. I had attempted Twilio bindings for Xamarin last year on my stream but it never got finished. So when I saw this post I jumped with excitement and got straight to reading!!\r\n\r\n[**Xamarin.Forms Twilio implementation**](https://officialdoniald.azurewebsites.net/2020/02/05/xamarin-forms-twilio-implementation/) by [Lenart Bence](https://twitter.com/officialdoniald)",
           "embedded_links": [
             {
               "identifier": "BfSF2Po",
@@ -330,7 +330,7 @@
             },
             {
               "identifier": "PscyLkz",
-              "title": "Bence Lenart",
+              "title": "Lenart Bence",
               "url_domain": "twitter.com",
               "url": "https://twitter.com/officialdoniald"
             }

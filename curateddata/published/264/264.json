@@ -33,8 +33,8 @@
           "title": "Commonly used code in Xamarin.UITest",
           "url_domain": "marcofolio.net",
           "url": "https://marcofolio.net/snippets-xamarin-uitest/",
-          "description": "<p>Part of #XamarinMonth</p>\n\n<p>If you’re trying to create automated tests for your Xamarin app, you must have stumbled across Xamarin.UITest. It’s a great way to bring the quality of your application to the next level. Just make sure to apply the best practices when using Xamarin.UITest (especially the Page Object Pattern) otherwise your code can get messy really fast. But when everything is set up properly, you can automatically test your application through the UI on over 1000 devices using Visual Studio App Center!</p>\n\n<p><a href=\"https://marcofolio.net/snippets-xamarin-uitest/\"><strong>Commonly used code in Xamarin.UITest</strong></a> by <a href=\"https://twitter.com/marcofolio\">Marco Kuiper</a></p>",
-          "description_markdown": "Part of #XamarinMonth\r\n\r\nIf you’re trying to create automated tests for your Xamarin app, you must have stumbled across Xamarin.UITest. It’s a great way to bring the quality of your application to the next level. Just make sure to apply the best practices when using Xamarin.UITest (especially the Page Object Pattern) otherwise your code can get messy really fast. But when everything is set up properly, you can automatically test your application through the UI on over 1000 devices using Visual Studio App Center!\r\n \r\n[**Commonly used code in Xamarin.UITest**](https://marcofolio.net/snippets-xamarin-uitest/) by [Marco Kuiper](https://twitter.com/marcofolio)",
+          "description": "<p>Part of #XamarinMonth</p>\n\n<p>If you’re trying to create automated tests for your Xamarin app, you must have stumbled across Xamarin.UITest. It’s a great way to bring the quality of your application to the next level. Just make sure to apply the best practices when using Xamarin.UITest (especially the Page Object Pattern) otherwise your code can get messy really fast. But when everything is set up properly, you can automatically test your application through the UI on over 1000 devices using Visual Studio App Center!</p>\n\n<p><a href=\"https://marcofolio.net/snippets-xamarin-uitest/\"><strong>Commonly used code in Xamarin.UITest</strong></a> by <a href=\"https://twitter.com/marcofolio\">Marco Folio</a></p>",
+          "description_markdown": "Part of #XamarinMonth\r\n\r\nIf you’re trying to create automated tests for your Xamarin app, you must have stumbled across Xamarin.UITest. It’s a great way to bring the quality of your application to the next level. Just make sure to apply the best practices when using Xamarin.UITest (especially the Page Object Pattern) otherwise your code can get messy really fast. But when everything is set up properly, you can automatically test your application through the UI on over 1000 devices using Visual Studio App Center!\r\n \r\n[**Commonly used code in Xamarin.UITest**](https://marcofolio.net/snippets-xamarin-uitest/) by [Marco Folio](https://twitter.com/marcofolio)",
           "embedded_links": [
             {
               "identifier": "vy6jLnt",
@@ -44,7 +44,7 @@
             },
             {
               "identifier": "3wMwSHH",
-              "title": "Marco Kuiper",
+              "title": "Marco Folio",
               "url_domain": "twitter.com",
               "url": "https://twitter.com/marcofolio"
             }

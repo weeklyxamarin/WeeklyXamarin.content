@@ -26,6 +26,15 @@
       "Category": "ANDROID"
     },
     {
+      "Title": "Xamarin.Forms UI Challenges - Pizza Shop",
+      "Url": "https://kymphillpotts.com/pizza-shop.html",
+      "Description": "Our very own Kym Phillpotts is up there with the best when it comes to making beautiful apps! This latest UI challenge will leave you drooling.",
+      "EditionId": "267",
+      "Author": "Kym Phillpotts",
+      "Id": "267-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
       "Title": "Using biometric identification in Xamarin Forms",
       "Url": "https://askxammy.com/using-biometric-identification-in-xamarin-forms/",
       "Description": "It’s very likely that some of the applications that you have installed on your device uses fingerprints to simplify authentication before executing certain important or sensitive actions.",
@@ -48,7 +57,7 @@
       "Url": "https://marcofolio.net/image-text-xamarin-forms/",
       "Description": "The release of Xamarin.Forms 4.7 brings with it support for shapes and some really great content is popping up around this. This post from Marco is a perfect example. I had never thought to fill text with images, but this has made me want to try it!",
       "EditionId": "267",
-      "Author": "Marco Kuiper",
+      "Author": "Marco Folio",
       "Id": "267-6",
       "Category": "XAMARIN FORMS"
     },

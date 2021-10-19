@@ -33,8 +33,8 @@
           "title": "Using settings.json and local.settings.json in your Xamarin apps!",
           "url_domain": "redth.codes",
           "url": "https://redth.codes/settings-json-files-in-xamarin-apps/",
-          "description": "<p>Sometimes it's really useful to be able to change things like endpoint urls, API keys and other settings depending if you're building in debug or release mode, or based on some other condition all together.\nSome .NET platforms have had the concept of settings.json files for some time now, but it's not something that's ever been supported in Xamarin.\nThere are a few different approaches to solving this problem, but I decided I finally wanted something a bit more simple and elegant. This post explores how to easily incorporate such a solution into your Xamarin app.</p>\n\n<p><a href=\"https://redth.codes/settings-json-files-in-xamarin-apps/\"><strong>Using settings.json and local.settings.json in your Xamarin apps!</strong></a> by <a href=\"https://twitter.com/redth\">Jonathan Dick</a></p>",
-          "description_markdown": "Sometimes it's really useful to be able to change things like endpoint urls, API keys and other settings depending if you're building in debug or release mode, or based on some other condition all together.\r\nSome .NET platforms have had the concept of settings.json files for some time now, but it's not something that's ever been supported in Xamarin.\r\nThere are a few different approaches to solving this problem, but I decided I finally wanted something a bit more simple and elegant. This post explores how to easily incorporate such a solution into your Xamarin app.\r\n\r\n[**Using settings.json and local.settings.json in your Xamarin apps!**](https://redth.codes/settings-json-files-in-xamarin-apps/) by [Jonathan Dick](https://twitter.com/redth)",
+          "description": "<p>Sometimes it's really useful to be able to change things like endpoint urls, API keys and other settings depending if you're building in debug or release mode, or based on some other condition all together.\nSome .NET platforms have had the concept of settings.json files for some time now, but it's not something that's ever been supported in Xamarin.\nThere are a few different approaches to solving this problem, but I decided I finally wanted something a bit more simple and elegant. This post explores how to easily incorporate such a solution into your Xamarin app.</p>\n\n<p><a href=\"https://redth.codes/settings-json-files-in-xamarin-apps/\"><strong>Using settings.json and local.settings.json in your Xamarin apps!</strong></a> by <a href=\"https://twitter.com/redth\">Jon Dick</a></p>",
+          "description_markdown": "Sometimes it's really useful to be able to change things like endpoint urls, API keys and other settings depending if you're building in debug or release mode, or based on some other condition all together.\r\nSome .NET platforms have had the concept of settings.json files for some time now, but it's not something that's ever been supported in Xamarin.\r\nThere are a few different approaches to solving this problem, but I decided I finally wanted something a bit more simple and elegant. This post explores how to easily incorporate such a solution into your Xamarin app.\r\n\r\n[**Using settings.json and local.settings.json in your Xamarin apps!**](https://redth.codes/settings-json-files-in-xamarin-apps/) by [Jon Dick](https://twitter.com/redth)",
           "embedded_links": [
             {
               "identifier": "K3u3ms2",
@@ -44,7 +44,7 @@
             },
             {
               "identifier": "w4YHElF",
-              "title": "Jonathan Dick",
+              "title": "Jon Dick",
               "url_domain": "twitter.com",
               "url": "https://twitter.com/redth"
             }

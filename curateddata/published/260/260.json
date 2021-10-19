@@ -339,8 +339,8 @@
           "title": "Protecting Sensitive Data in the Background",
           "url_domain": "vicenteguzman.mx",
           "url": "https://vicenteguzman.mx/2020/05/18/protegiendo-datos-confidenciales-en-segundo-plano-xamarin-forms/",
-          "description": "<p>When you switch tasks in iOS the system takes a screenshot of your application, but what if you have data in there that is private.  This article discusses keeping your sensitive data out of the Task Switcher in iOS (Xamarin.Forms).</p>\n\n<p><strong> Note: Post is in Spanish </strong></p>\n\n<p><a href=\"https://vicenteguzman.mx/2020/05/18/protegiendo-datos-confidenciales-en-segundo-plano-xamarin-forms/\"><strong>Protegiendo datos confidenciales en segundo plano {Xamarin.Forms}</strong></a> by <a href=\"https://twitter.com/LucioMSP\">Lucio</a></p>",
-          "description_markdown": "When you switch tasks in iOS the system takes a screenshot of your application, but what if you have data in there that is private.  This article discusses keeping your sensitive data out of the Task Switcher in iOS (Xamarin.Forms).\r\n\r\n** Note: Post is in Spanish **\r\n\r\n[**Protegiendo datos confidenciales en segundo plano {Xamarin.Forms}**](https://vicenteguzman.mx/2020/05/18/protegiendo-datos-confidenciales-en-segundo-plano-xamarin-forms/) by [Lucio](https://twitter.com/LucioMSP)",
+          "description": "<p>When you switch tasks in iOS the system takes a screenshot of your application, but what if you have data in there that is private.  This article discusses keeping your sensitive data out of the Task Switcher in iOS (Xamarin.Forms).</p>\n\n<p><strong> Note: Post is in Spanish </strong></p>\n\n<p><a href=\"https://vicenteguzman.mx/2020/05/18/protegiendo-datos-confidenciales-en-segundo-plano-xamarin-forms/\"><strong>Protegiendo datos confidenciales en segundo plano {Xamarin.Forms}</strong></a> by <a href=\"https://twitter.com/LucioMSP\">Vicente Guzman</a></p>",
+          "description_markdown": "When you switch tasks in iOS the system takes a screenshot of your application, but what if you have data in there that is private.  This article discusses keeping your sensitive data out of the Task Switcher in iOS (Xamarin.Forms).\r\n\r\n** Note: Post is in Spanish **\r\n\r\n[**Protegiendo datos confidenciales en segundo plano {Xamarin.Forms}**](https://vicenteguzman.mx/2020/05/18/protegiendo-datos-confidenciales-en-segundo-plano-xamarin-forms/) by [Vicente Guzman](https://twitter.com/LucioMSP)",
           "embedded_links": [
             {
               "identifier": "XlT557r",
@@ -350,7 +350,7 @@
             },
             {
               "identifier": "wdoO6Bu",
-              "title": "Lucio",
+              "title": "Vicente Guzman",
               "url_domain": "twitter.com",
               "url": "https://twitter.com/LucioMSP"
             }
@@ -437,12 +437,12 @@
           "title": "Merge Conflict 202 - Let's Start a Business",
           "url_domain": "mergeconflict.fm",
           "url": "https://www.mergeconflict.fm/202",
-          "description": "<p>So you want to develop apps.... or sell something... or do anything... you should looking starting an LLC or some sort of business. James and Frank walk you through their journey and James' recent battle with Apple.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/202\"><strong>202: Let's Start a Business</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Frank and James</a></p>",
-          "description_markdown": "So you want to develop apps.... or sell something... or do anything... you should looking starting an LLC or some sort of business. James and Frank walk you through their journey and James' recent battle with Apple.\r\n\r\n[**202: Let's Start a Business**](https://www.mergeconflict.fm/202) by [Frank and James](https://twitter.com/mergeconflictfm)",
+          "description": "<p>So you want to develop apps.... or sell something... or do anything... you should looking starting an LLC or some sort of business. James and Frank walk you through their journey and James' recent battle with Apple.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/202\"><strong>202: Let's Start a Business</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "So you want to develop apps.... or sell something... or do anything... you should looking starting an LLC or some sort of business. James and Frank walk you through their journey and James' recent battle with Apple.\r\n\r\n[**202: Let's Start a Business**](https://www.mergeconflict.fm/202) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
           "embedded_links": [
             {
               "identifier": "wPECAdX",
-              "title": "Frank and James",
+              "title": "Merge Conflict",
               "url_domain": "twitter.com",
               "url": "https://twitter.com/mergeconflictfm"
             },

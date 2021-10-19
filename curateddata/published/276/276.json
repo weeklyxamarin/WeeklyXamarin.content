@@ -273,8 +273,8 @@
           "title": "Creating Custom Renderers",
           "url_domain": "syncfusion.com",
           "url": "https://www.syncfusion.com/blogs/post/how-to-create-custom-renderers-for-a-control-in-xamarin-forms.aspx",
-          "description": "<p>Xamarin.Forms uses a common API to render cross-platform mobile UIs. Therefore, the components can be rendered differently on each platform, using a renderer class. This renderer class creates a native control and translates the properties of the Xamarin.Forms control to it.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/how-to-create-custom-renderers-for-a-control-in-xamarin-forms.aspx\"><strong>How to Create Custom Renderers for a Control in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/luciomsp\">Vicente Gerardo Guzmán Lucio</a></p>",
-          "description_markdown": "Xamarin.Forms uses a common API to render cross-platform mobile UIs. Therefore, the components can be rendered differently on each platform, using a renderer class. This renderer class creates a native control and translates the properties of the Xamarin.Forms control to it.\r\n\r\n[**How to Create Custom Renderers for a Control in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/how-to-create-custom-renderers-for-a-control-in-xamarin-forms.aspx) by [Vicente Gerardo Guzmán Lucio](https://twitter.com/LucioMSP)",
+          "description": "<p>Xamarin.Forms uses a common API to render cross-platform mobile UIs. Therefore, the components can be rendered differently on each platform, using a renderer class. This renderer class creates a native control and translates the properties of the Xamarin.Forms control to it.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/how-to-create-custom-renderers-for-a-control-in-xamarin-forms.aspx\"><strong>How to Create Custom Renderers for a Control in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/luciomsp\">Vicente Guzman</a></p>",
+          "description_markdown": "Xamarin.Forms uses a common API to render cross-platform mobile UIs. Therefore, the components can be rendered differently on each platform, using a renderer class. This renderer class creates a native control and translates the properties of the Xamarin.Forms control to it.\r\n\r\n[**How to Create Custom Renderers for a Control in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/how-to-create-custom-renderers-for-a-control-in-xamarin-forms.aspx) by [Vicente Guzman](https://twitter.com/LucioMSP)",
           "embedded_links": [
             {
               "identifier": "Dub3oVB",
@@ -284,7 +284,7 @@
             },
             {
               "identifier": "fEYoBlE",
-              "title": "Vicente Gerardo Guzmán Lucio",
+              "title": "Vicente Guzman",
               "url_domain": "twitter.com",
               "url": "https://twitter.com/LucioMSP"
             }
@@ -365,8 +365,8 @@
           "title": "New Features in Xamarin.Forms 4.8: Gradients, Brushes, and Flyout Backdrop Color",
           "url_domain": "syncfusion.com",
           "url": "https://www.syncfusion.com/blogs/post/new-features-in-xamarin-forms-4-8-gradients-brushes-and-flyout-backdrop-color.aspx?utm_source=twitter&utm_medium=social&utm_campaign=xamforms4.8newfeatures_bptwsep20",
-          "description": "<p>The new brushes in Xamarin.Forms 4.8 have got me really excited, especially as linear gradients have allowed me to make rainbows in my apps (because why not?). But they can do more than just that and this post from Vicente over on the Syncfusion blog has some great examples of what you can do with some of the features in the Xamarin.Forms 4.8 release.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/new-features-in-xamarin-forms-4-8-gradients-brushes-and-flyout-backdrop-color.aspx?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=xamforms4.8newfeatures_bptwsep20\"><strong>New Features in Xamarin.Forms 4.8: Gradients, Brushes, and Flyout Backdrop Color</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/luciomspgeeks-ms\">Vicente Gerardo Guzmán Lucio</a></p>",
-          "description_markdown": "The new brushes in Xamarin.Forms 4.8 have got me really excited, especially as linear gradients have allowed me to make rainbows in my apps (because why not?). But they can do more than just that and this post from Vicente over on the Syncfusion blog has some great examples of what you can do with some of the features in the Xamarin.Forms 4.8 release.\r\n\r\n[**New Features in Xamarin.Forms 4.8: Gradients, Brushes, and Flyout Backdrop Color**](https://www.syncfusion.com/blogs/post/new-features-in-xamarin-forms-4-8-gradients-brushes-and-flyout-backdrop-color.aspx?utm_source=twitter&utm_medium=social&utm_campaign=xamforms4.8newfeatures_bptwsep20) by [Vicente Gerardo Guzmán Lucio](https://www.syncfusion.com/blogs/author/luciomspgeeks-ms)",
+          "description": "<p>The new brushes in Xamarin.Forms 4.8 have got me really excited, especially as linear gradients have allowed me to make rainbows in my apps (because why not?). But they can do more than just that and this post from Vicente over on the Syncfusion blog has some great examples of what you can do with some of the features in the Xamarin.Forms 4.8 release.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/new-features-in-xamarin-forms-4-8-gradients-brushes-and-flyout-backdrop-color.aspx?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=xamforms4.8newfeatures_bptwsep20\"><strong>New Features in Xamarin.Forms 4.8: Gradients, Brushes, and Flyout Backdrop Color</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/luciomspgeeks-ms\">Vicente Guzman</a></p>",
+          "description_markdown": "The new brushes in Xamarin.Forms 4.8 have got me really excited, especially as linear gradients have allowed me to make rainbows in my apps (because why not?). But they can do more than just that and this post from Vicente over on the Syncfusion blog has some great examples of what you can do with some of the features in the Xamarin.Forms 4.8 release.\r\n\r\n[**New Features in Xamarin.Forms 4.8: Gradients, Brushes, and Flyout Backdrop Color**](https://www.syncfusion.com/blogs/post/new-features-in-xamarin-forms-4-8-gradients-brushes-and-flyout-backdrop-color.aspx?utm_source=twitter&utm_medium=social&utm_campaign=xamforms4.8newfeatures_bptwsep20) by [Vicente Guzman](https://www.syncfusion.com/blogs/author/luciomspgeeks-ms)",
           "embedded_links": [
             {
               "identifier": "aArnzRl",
@@ -376,7 +376,7 @@
             },
             {
               "identifier": "IbD2zmh",
-              "title": "Vicente Gerardo Guzmán Lucio",
+              "title": "Vicente Guzman",
               "url_domain": "syncfusion.com",
               "url": "https://www.syncfusion.com/blogs/author/luciomspgeeks-ms"
             }

@@ -197,8 +197,8 @@
           "title": "Mock Locations",
           "url_domain": "azurewebsites.net",
           "url": "https://officialdoniald.azurewebsites.net/2020/04/17/xamarin-forms-mock-locations/",
-          "description": "<p>This project allows you to provide Mock Locations in your applications.  Good for testing.</p>\n\n<p><a href=\"https://officialdoniald.azurewebsites.net/2020/04/17/xamarin-forms-mock-locations/\"><strong>Xamarin.Forms – Mock Locations</strong></a> by <a href=\"https://github.com/officialdoniald/\">Bence Lenart</a></p>",
-          "description_markdown": "This project allows you to provide Mock Locations in your applications.  Good for testing.\r\n\r\n[**Xamarin.Forms – Mock Locations**](https://officialdoniald.azurewebsites.net/2020/04/17/xamarin-forms-mock-locations/) by [Bence Lenart](https://github.com/officialdoniald/)",
+          "description": "<p>This project allows you to provide Mock Locations in your applications.  Good for testing.</p>\n\n<p><a href=\"https://officialdoniald.azurewebsites.net/2020/04/17/xamarin-forms-mock-locations/\"><strong>Xamarin.Forms – Mock Locations</strong></a> by <a href=\"https://github.com/officialdoniald/\">Lenart Bence</a></p>",
+          "description_markdown": "This project allows you to provide Mock Locations in your applications.  Good for testing.\r\n\r\n[**Xamarin.Forms – Mock Locations**](https://officialdoniald.azurewebsites.net/2020/04/17/xamarin-forms-mock-locations/) by [Lenart Bence](https://github.com/officialdoniald/)",
           "embedded_links": [
             {
               "identifier": "kc6LHWe",
@@ -208,7 +208,7 @@
             },
             {
               "identifier": "fIOscbd",
-              "title": "Bence Lenart",
+              "title": "Lenart Bence",
               "url_domain": "github.com",
               "url": "https://github.com/officialdoniald/"
             }

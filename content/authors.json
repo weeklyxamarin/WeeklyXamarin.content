@@ -1602,16 +1602,10 @@
       "Aliases": []
     },
     {
-      "Name": "Lénárt Bence",
+      "Name": "Lenart Bence",
       "TwitterHandle": "officialdoniald",
       "GitHubHandle": "officialdoniald",
-      "Id": "215e51c4-ae9d-427c-b1e8-33154fdcf5fd",
-      "Aliases": [
-        {
-          "Type": "github",
-          "Name": "https://github.com/officialdoniald/"
-        }
-      ],
+      "Id": "2e9e2df5-ac47-4ec7-a9aa-561297b87d3a",
       "Website": "https://officialdoniald.azurewebsites.net/"
     },
     {
@@ -1761,10 +1755,9 @@
       ]
     },
     {
-      "Name": "Marco Kuiper",
+      "Name": "Marco Folio",
       "TwitterHandle": "marcofolio",
-      "GitHubHandle": "marcofolio",
-      "Id": "8d0f9cf7-a3dc-4dc7-9c2d-21aaa9c2e140",
+      "Id": "7438201d-140e-49e9-9039-a5ae7f048b15",
       "Aliases": [],
       "Website": "https://www.marcofolio.net/"
     },
