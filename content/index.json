@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "325",
+      "Name": "Issue 325",
+      "UpdatedTimeStamp": "2021-10-25T01:34:28Z",
+      "Summary": "Android Subsystem, MUAI preview 9, .NET 6 and VS 2022 - That's a lot!",
+      "PublishDate": "2021-10-25T01:34:27Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "324",
       "Name": "Issue 324",
       "UpdatedTimeStamp": "2021-10-18T14:08:32Z",

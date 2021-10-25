@@ -1,0 +1,101 @@
+{
+  "Id": "325",
+  "Name": "Issue 325",
+  "UpdatedTimeStamp": "2021-10-25T01:34:28Z",
+  "Summary": "Android Subsystem, MUAI preview 9, .NET 6 and VS 2022 - That's a lot!",
+  "Introduction": "Hiya, A bit light on articles this week but there is some really interesting news around Android Subsystem on Windows 11 which I can't wait to try that. Also some great information on MUAI preview 9, .NET 6 and VS 2022. Have a great week everyone. Kym",
+  "PublishDate": "2021-10-25T01:34:27Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Debugging Android Applications with the Windows Subsystem for Android",
+      "Url": "https://nicksnettravels.builttoroam.com/windows-subsystem-for-android/",
+      "Description": "As part of the announcement of Windows 11 earlier this year, Microsoft touted the ability to run Android applications on Windows. Recently this feature was made available via the Beta channel of the Windows Insider program. In this post Nick steps through setting up the Windows Subsystem for Android (WSA), and debugging applications during development.",
+      "EditionId": "325",
+      "Author": "Nick Randolph",
+      "Id": "325-1",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Version Code 1.0 is invalid issue with VS 20222",
+      "Url": "https://rajapet.com/2021/10/20/resolving-the-net-maui-versioncode-1-0-is-invalid-it-must-be-an-integer-value-error-when-updating-visual-studio-2022-preview/",
+      "Description": "This is a quick blog post to help anyone get past the \"VersionCode 1.0 is invalid\" error with .NET MAUI.",
+      "EditionId": "325",
+      "Author": "Chris Miller",
+      "Id": "325-2",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Goodbye Android Emulators, the Windows Subsystem for Android is Here",
+      "Url": "https://montemagno.com/goodbye-android-emulators-windows-subsytem-for-android-is-here/",
+      "Description": "Get out of here Android emulators! You can now use Windows 11 and the new Subsystem for Android to develop on Intel or AMD machines!",
+      "EditionId": "325",
+      "Author": "James Montemagno",
+      "Id": "325-3",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Animated Splash Screen with Magic Gradients",
+      "Url": "https://benetskyybogdan.medium.com/animated-splash-screen-with-magic-gradients-3f372af65c07",
+      "Description": "How make Splash Screen with animated Magic Gradients? Pros and Cons of these Splash Screens.",
+      "EditionId": "325",
+      "Author": "Bohdan Benetskyi",
+      "Id": "325-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Using State Machine in Xamarin Forms (Part 2)",
+      "Url": "https://www.xamboy.com/2021/10/20/using-state-machine-in-xamarin-forms-part-2/",
+      "Description": "This is the second article by Rendy showing how to use the Stateless library to handle the states of a video player.",
+      "EditionId": "325",
+      "Author": "Rendy Del Rosario",
+      "Id": "325-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Building the Data layer for a mobile game",
+      "Url": "https://blog.bijington.com/c#/xamarin/xamarin.forms/2021/10/20/building-a-mobile-game-in-xamarin-forms-part-two.html",
+      "Description": "Shaun continues this series by covering how to add a data layer to our application and some patterns we can apply in order cleanly separate data access from business logic.",
+      "EditionId": "325",
+      "Author": "Shaun Lawrence",
+      "Id": "325-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Looking inside MauiAppBuilder in .NET 6",
+      "Url": "https://luismts.com/maui-app-builder-net-6/",
+      "Description": "In this article, we are going to see the MauiAppBuilder class, because it was added, and some other code implemented there so that we can understand how the structure of our applications works in .NET MAUI.",
+      "EditionId": "325",
+      "Author": "Luis Matos",
+      "Id": "325-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #29",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-29",
+      "Description": "Stay up to date with the weekly Maui happenings with Sam!",
+      "EditionId": "325",
+      "Author": "Sam Basu",
+      "Id": "325-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Preview 9 - Borders, Corners, and Shadows – Oh my!",
+      "Url": "https://www.youtube.com/watch?v=BurpEcTsQbU",
+      "Description": ".NET MAUI Preview 9 is here and is packed with a bunch of goodies including borders, corners, shadows, and tons more. I break down some new features and also discuss some other exciting news in the .NET MAUI world.",
+      "EditionId": "325",
+      "Author": "James Montemagno",
+      "Id": "325-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "This Is How Simple Dependency Injection is in .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=wkgbvMlrMhU",
+      "Description": "If you have been working with dependency injection in other .NET solutions like ASP.NET, this should look pretty familiar! In this video we will learn how to use dependency injection in your .NET MAUI app. And also, a little pro-tip on how to anticipate with your Xamarin app... Tune in!",
+      "EditionId": "325",
+      "Author": "Gerald Versluis",
+      "Id": "325-10",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
