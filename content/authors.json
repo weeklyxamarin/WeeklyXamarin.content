@@ -736,6 +736,12 @@
       "Aliases": []
     },
     {
+      "Name": "Dave Murray",
+      "GitHubHandle": "irongut",
+      "Id": "67240bc8-e99b-45d8-940b-72d1c83ae8f6",
+      "Aliases": []
+    },
+    {
       "Name": "David Britch",
       "TwitterHandle": "britchdavid",
       "GitHubHandle": "davidbritch",
@@ -3192,6 +3198,12 @@
           "Name": "https://www.telerik.com/blogs/author/yana-kerpecheva"
         }
       ]
+    },
+    {
+      "Name": "Yasmine Evjen",
+      "TwitterHandle": "yasmineevjen",
+      "Id": "d3a3ab7a-aad9-48df-8dc9-d9b01b1ce7df",
+      "Aliases": []
     },
     {
       "Name": "Yoan Krumov",

@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "326",
+      "Name": "Issue 326",
+      "UpdatedTimeStamp": "2021-11-01T04:11:46Z",
+      "Summary": "It's quiet, too quiet.",
+      "PublishDate": "2021-11-01T04:11:45Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "325",
       "Name": "Issue 325",
       "UpdatedTimeStamp": "2021-10-25T01:34:28Z",

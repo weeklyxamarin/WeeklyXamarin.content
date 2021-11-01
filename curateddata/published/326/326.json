@@ -1,0 +1,316 @@
+{
+  "number": 326,
+  "title": "Issue 326",
+  "summary": "It's quiet, too quiet.",
+  "url": "https://weeklyxamarin.com/issues/326",
+  "publication_status": "published",
+  "published_at": "2021-11-01T04:11:45+00:00",
+  "updated_at": "2021-11-01T04:11:46+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Hi Everyone,</p>\n\n<p>It's a very quiet week on the article front, I'm guessing lots of people are preparing for .NetConf heading up next week. Regardless, there is still some gold to be had in this edition.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "Hi Everyone,\r\n\r\nIt's a very quiet week on the article front, I'm guessing lots of people are preparing for .NetConf heading up next week. Regardless, there is still some gold to be had in this edition.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "plkbxzt",
+          "type": "Link",
+          "title": "Introducing Material Theme Builder",
+          "url_domain": "material.io",
+          "url": "https://material.io/blog/material-theme-builder",
+          "description": "<p>Material Theme Builder is a new tool that helps you visualize Material UI's with dynamic color and create a custom Material Design 3 theme. With built-in code export, it’s easy to migrate to Material's new color system and take advantage of dynamic color.</p>\n\n<p><a href=\"https://material.io/blog/material-theme-builder\"><strong>Introducing Material Theme Builder - Material Design</strong></a> by <a href=\"https://twitter.com/YasmineEvjen\">Yasmine Evjen</a></p>",
+          "description_markdown": "Material Theme Builder is a new tool that helps you visualize Material UI's with dynamic color and create a custom Material Design 3 theme. With built-in code export, it’s easy to migrate to Material's new color system and take advantage of dynamic color.\r\n\r\n[**Introducing Material Theme Builder - Material Design**](https://material.io/blog/material-theme-builder) by [Yasmine Evjen](https://twitter.com/YasmineEvjen)",
+          "embedded_links": [
+            {
+              "identifier": "fNvU5fe",
+              "title": "**Introducing Material Theme Builder - Material Design**",
+              "url_domain": "material.io",
+              "url": "https://material.io/blog/material-theme-builder"
+            },
+            {
+              "identifier": "ByAwxFn",
+              "title": "Yasmine Evjen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/YasmineEvjen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "zlTMgeL",
+          "type": "Link",
+          "title": "Configure Azure DevOps to distribute your iOS application to App Store",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/azure/devops/2021/10/27/configure-azure-devops-app-store-en.html",
+          "description": "<p>When developing an application for iOS, you will probably need to distribute it to your testers or your final users. In this tutorial we will discover how to setup the your pipeline to be able to upload your packages on the App Store from Azure DevOps.</p>\n\n<p><a href=\"https://damienaicheh.github.io/azure/devops/2021/10/27/configure-azure-devops-app-store-en.html\"><strong>Configure Azure DevOps to distribute your iOS application to App Store</strong></a> by <a href=\"https://twitter.com/damienaicheh\">Damien Aicheh</a></p>",
+          "description_markdown": "When developing an application for iOS, you will probably need to distribute it to your testers or your final users. In this tutorial we will discover how to setup the your pipeline to be able to upload your packages on the App Store from Azure DevOps.\r\n\r\n[**Configure Azure DevOps to distribute your iOS application to App Store**](https://damienaicheh.github.io/azure/devops/2021/10/27/configure-azure-devops-app-store-en.html) by [Damien Aicheh](https://twitter.com/damienaicheh)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Pv5p606",
+              "title": "**Configure Azure DevOps to distribute your iOS application to App Store**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/azure/devops/2021/10/27/configure-azure-devops-app-store-en.html"
+            },
+            {
+              "identifier": "DcYf03e",
+              "title": "Damien Aicheh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damienaicheh"
+            }
+          ]
+        },
+        {
+          "identifier": "eEMl4RN",
+          "type": "Link",
+          "title": "Configure Azure DevOps to distribute your Android application to Google Play",
+          "url_domain": "github.io",
+          "url": "https://damienaicheh.github.io/azure/devops/2021/10/25/configure-azure-devops-google-play-en.html",
+          "description": "<p>When developing an application for Android, you will probably need to distribute it to your testers or your final users. In this tutorial we will discover how to setup the service connection to be able to upload your packages on the Google Play from Azure DevOps.</p>\n\n<p><a href=\"https://damienaicheh.github.io/azure/devops/2021/10/25/configure-azure-devops-google-play-en.html\"><strong>Configure Azure DevOps to distribute your Android application to Google Play</strong></a> by <a href=\"https://twitter.com/damienaicheh\">Damien Aicheh</a></p>",
+          "description_markdown": "When developing an application for Android, you will probably need to distribute it to your testers or your final users. In this tutorial we will discover how to setup the service connection to be able to upload your packages on the Google Play from Azure DevOps.\r\n\r\n[**Configure Azure DevOps to distribute your Android application to Google Play**](https://damienaicheh.github.io/azure/devops/2021/10/25/configure-azure-devops-google-play-en.html) by [Damien Aicheh](https://twitter.com/damienaicheh)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "y6EIvCx",
+              "title": "**Configure Azure DevOps to distribute your Android application to Google Play**",
+              "url_domain": "github.io",
+              "url": "https://damienaicheh.github.io/azure/devops/2021/10/25/configure-azure-devops-google-play-en.html"
+            },
+            {
+              "identifier": "lulXiH2",
+              "title": "Damien Aicheh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damienaicheh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "4n3TjEf",
+          "type": "Link",
+          "title": "Rotating a list in Xamarin.Forms using CollectionView",
+          "url_domain": "taranissoftware.com",
+          "url": "https://blog.taranissoftware.com/rotating-a-list-in-xamarinforms-using-collectionview",
+          "description": "<p>Changing the layout and item template of CollectionView when a device is rotated to improve our Xamarin.Forms UI in Portrait and Landscape.</p>\n\n<p><a href=\"https://blog.taranissoftware.com/rotating-a-list-in-xamarinforms-using-collectionview\"><strong>Rotating a list in Xamarin.Forms using CollectionView</strong></a> by <a href=\"https://github.com/irongut\">Dave Murray</a></p>",
+          "description_markdown": "Changing the layout and item template of CollectionView when a device is rotated to improve our Xamarin.Forms UI in Portrait and Landscape.\r\n\r\n[**Rotating a list in Xamarin.Forms using CollectionView**](https://blog.taranissoftware.com/rotating-a-list-in-xamarinforms-using-collectionview) by [Dave Murray](https://github.com/irongut)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "jiirhYc",
+              "title": "**Rotating a list in Xamarin.Forms using CollectionView**",
+              "url_domain": "taranissoftware.com",
+              "url": "https://blog.taranissoftware.com/rotating-a-list-in-xamarinforms-using-collectionview"
+            },
+            {
+              "identifier": "xz8HCMT",
+              "title": "Dave Murray",
+              "url_domain": "github.com",
+              "url": "https://github.com/irongut"
+            }
+          ]
+        },
+        {
+          "identifier": "EOnHmFc",
+          "type": "Link",
+          "title": "Opening a PDF in Xamarin Forms (P2: Xamarin.Android with Radaee)",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/opening-a-pdf-in-xamarin-forms-android-and-radaee-pdf/",
+          "description": "<p>In Part 2, we will build a custom PDF view and Thumbview based on Radaee PDF in our Android project, o open a PDF in Xamarin Forms</p>\n\n<p><a href=\"https://doumer.me/opening-a-pdf-in-xamarin-forms-android-and-radaee-pdf/\"><strong>Opening a PDF in Xamarin Forms (P2: Xamarin.Android with Radaee)</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "In Part 2, we will build a custom PDF view and Thumbview based on Radaee PDF in our Android project, o open a PDF in Xamarin Forms\r\n\r\n[**Opening a PDF in Xamarin Forms (P2: Xamarin.Android with Radaee)**](https://doumer.me/opening-a-pdf-in-xamarin-forms-android-and-radaee-pdf/) by [Damien Doumer](https://twitter.com/damien_doumer)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "klTLdkP",
+              "title": "**Opening a PDF in Xamarin Forms (P2: Xamarin.Android with Radaee)**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/opening-a-pdf-in-xamarin-forms-android-and-radaee-pdf/"
+            },
+            {
+              "identifier": "KQ9qJZH",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "G7WdteS",
+          "type": "Link",
+          "title": "An Introduction to .NET MAUI",
+          "url_domain": "codemag.com",
+          "url": "https://www.codemag.com/article/2111082",
+          "description": "<p>Steven provides an amazing introduction to MAUI. If you need to get up to speed on MAUI, I'd highly recommend looking at this article.</p>\n\n<p><a href=\"https://www.codemag.com/article/2111082\"><strong>An Introduction to .NET MAUI</strong></a> by <a href=\"https://twitter.com/devnl\">Steven Thewissen</a></p>",
+          "description_markdown": "Steven provides an amazing introduction to MAUI. If you need to get up to speed on MAUI, I'd highly recommend looking at this article.\r\n\r\n[**An Introduction to .NET MAUI**](https://www.codemag.com/article/2111082) by [Steven Thewissen](https://twitter.com/devnl)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "avzvzVd",
+              "title": "**An Introduction to .NET MAUI**",
+              "url_domain": "codemag.com",
+              "url": "https://www.codemag.com/article/2111082"
+            },
+            {
+              "identifier": "2wroZqU",
+              "title": "Steven Thewissen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/devnl"
+            }
+          ]
+        },
+        {
+          "identifier": "JjUZIvC",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #30",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-30",
+          "description": "<p>Hey Sam, what's happening this week in MAUI?</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-30\"><strong>Sands of MAUI: Issue #30</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Hey Sam, what's happening this week in MAUI?\r\n\r\n[**Sands of MAUI: Issue #30**](https://www.telerik.com/blogs/sands-maui-issue-30) by [Sam Basu](https://twitter.com/samidip)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "kquPoNn",
+              "title": "**Sands of MAUI: Issue #30**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-30"
+            },
+            {
+              "identifier": "2IHwwp",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "XLq09fW",
+          "type": "Link",
+          "title": "Null Pointers 73: So many new things",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/73/",
+          "description": "<p>It is this time of year again, so much new tech is released. Not only devices, but also software. So tune in to find out our thoughts on MAUI .NETs latest release, the Microsoft device updates and the new Apple hardware that has just been dropped.</p>\n\n<p><a href=\"https://nullpointers.io/73/\"><strong>73: So many new things</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "It is this time of year again, so much new tech is released. Not only devices, but also software. So tune in to find out our thoughts on MAUI .NETs latest release, the Microsoft device updates and the new Apple hardware that has just been dropped.\r\n\r\n[**73: So many new things**](https://nullpointers.io/73/) by [Null Pointers](https://twitter.com/nullpointersio)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "58P4oj4",
+              "title": "**73: So many new things**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/73/"
+            },
+            {
+              "identifier": "JsUjiNx",
+              "title": "Null Pointers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        },
+        {
+          "identifier": "iSflhCV",
+          "type": "Link",
+          "title": "Merge Conflict: 277: MacBook Pro & Pixel 6 Event Recaps",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/277",
+          "description": "<p>What a week full of new hardware! MacBook Pro devices, Pixel 6, and so much more!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/277\"><strong>Merge Conflict: 277: MacBook Pro &amp; Pixel 6 Event Recaps</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "What a week full of new hardware! MacBook Pro devices, Pixel 6, and so much more!\r\n\r\n[**Merge Conflict: 277: MacBook Pro &amp; Pixel 6 Event Recaps**](https://www.mergeconflict.fm/277) by [Merge Conflict](https://twitter.com/mergeconflictfm)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "FSl23tV",
+              "title": "**Merge Conflict: 277: MacBook Pro &amp; Pixel 6 Event Recaps**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/277"
+            },
+            {
+              "identifier": "9NV799v",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "DD6HSw7",
+          "type": "Link",
+          "title": "Using TypeConverter with Xamarin.Forms for Better Custom Controls",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=ziKmH1nVrGc",
+          "description": "<p>With the TypeConverter you can make it easier for other developers that use your custom control to specify property values, especially in XAML. In this video we will learn what a Type Converter is exactly, how to create one in Xamarin.Forms and .NET MAUI, but also how to consume it in our XAML.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=ziKmH1nVrGc\"><strong>Using TypeConverter with Xamarin.Forms for Better Custom Controls</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "With the TypeConverter you can make it easier for other developers that use your custom control to specify property values, especially in XAML. In this video we will learn what a Type Converter is exactly, how to create one in Xamarin.Forms and .NET MAUI, but also how to consume it in our XAML.\r\n\r\n[**Using TypeConverter with Xamarin.Forms for Better Custom Controls**](https://www.youtube.com/watch?v=ziKmH1nVrGc) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "BOFl80V",
+              "title": "**Using TypeConverter with Xamarin.Forms for Better Custom Controls**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=ziKmH1nVrGc"
+            },
+            {
+              "identifier": "tpubVNR",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "hJHukSV",
+          "type": "Link",
+          "title": "Sharpnado.CollectionView 2.0 is reborn with header/footer and drag and drop",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/sharpnado-collectionview-2-0-is-reborn/",
+          "description": "<p>Sharpnado.Collectionview adds some nice additions to the already awesome nuget package. For those who don't know Sharpnado.CollectionView describes itself as \"A performant list view supporting: grid, horizontal and vertical layout, drag and drop, and reveal animations.\"</p>\n\n<p><a href=\"https://www.sharpnado.com/sharpnado-collectionview-2-0-is-reborn/\"><strong>Sharpnado.CollectionView 2.0 is reborn with header/footer and drag and drop</strong></a> by <a href=\"https://twitter.com/Piskariov\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "Sharpnado.Collectionview adds some nice additions to the already awesome nuget package. For those who don't know Sharpnado.CollectionView describes itself as \"A performant list view supporting: grid, horizontal and vertical layout, drag and drop, and reveal animations.\"\r\n\r\n[**Sharpnado.CollectionView 2.0 is reborn with header/footer and drag and drop**](https://www.sharpnado.com/sharpnado-collectionview-2-0-is-reborn/) by [Jean-Marie Alfonsi](https://twitter.com/Piskariov)",
+          "embedded_links": [
+            {
+              "identifier": "xY3AcRW",
+              "title": "**Sharpnado.CollectionView 2.0 is reborn with header/footer and drag and drop**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/sharpnado-collectionview-2-0-is-reborn/"
+            },
+            {
+              "identifier": "gq0ftjj",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Piskariov"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "Id": "326",
+  "Name": "Issue 326",
+  "UpdatedTimeStamp": "2021-11-01T04:11:46Z",
+  "Summary": "It's quiet, too quiet.",
+  "Introduction": "Hi Everyone, It's a very quiet week on the article front, I'm guessing lots of people are preparing for .NetConf heading up next week. Regardless, there is still some gold to be had in this edition. ❤ Kym",
+  "PublishDate": "2021-11-01T04:11:45Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Introducing Material Theme Builder",
+      "Url": "https://material.io/blog/material-theme-builder",
+      "Description": "Material Theme Builder is a new tool that helps you visualize Material UI's with dynamic color and create a custom Material Design 3 theme. With built-in code export, it’s easy to migrate to Material's new color system and take advantage of dynamic color.",
+      "EditionId": "326",
+      "Author": "Yasmine Evjen",
+      "Id": "326-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Configure Azure DevOps to distribute your iOS application to App Store",
+      "Url": "https://damienaicheh.github.io/azure/devops/2021/10/27/configure-azure-devops-app-store-en.html",
+      "Description": "When developing an application for iOS, you will probably need to distribute it to your testers or your final users. In this tutorial we will discover how to setup the your pipeline to be able to upload your packages on the App Store from Azure DevOps.",
+      "EditionId": "326",
+      "Author": "Damien Aicheh",
+      "Id": "326-2",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Configure Azure DevOps to distribute your Android application to Google Play",
+      "Url": "https://damienaicheh.github.io/azure/devops/2021/10/25/configure-azure-devops-google-play-en.html",
+      "Description": "When developing an application for Android, you will probably need to distribute it to your testers or your final users. In this tutorial we will discover how to setup the service connection to be able to upload your packages on the Google Play from Azure DevOps.",
+      "EditionId": "326",
+      "Author": "Damien Aicheh",
+      "Id": "326-3",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Rotating a list in Xamarin.Forms using CollectionView",
+      "Url": "https://blog.taranissoftware.com/rotating-a-list-in-xamarinforms-using-collectionview",
+      "Description": "Changing the layout and item template of CollectionView when a device is rotated to improve our Xamarin.Forms UI in Portrait and Landscape.",
+      "EditionId": "326",
+      "Author": "Dave Murray",
+      "Id": "326-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Opening a PDF in Xamarin Forms (P2: Xamarin.Android with Radaee)",
+      "Url": "https://doumer.me/opening-a-pdf-in-xamarin-forms-android-and-radaee-pdf/",
+      "Description": "In Part 2, we will build a custom PDF view and Thumbview based on Radaee PDF in our Android project, o open a PDF in Xamarin Forms",
+      "EditionId": "326",
+      "Author": "Damien Doumer",
+      "Id": "326-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "An Introduction to .NET MAUI",
+      "Url": "https://www.codemag.com/article/2111082",
+      "Description": "Steven provides an amazing introduction to MAUI. If you need to get up to speed on MAUI, I'd highly recommend looking at this article.",
+      "EditionId": "326",
+      "Author": "Steven Thewissen",
+      "Id": "326-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #30",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-30",
+      "Description": "Hey Sam, what's happening this week in MAUI?",
+      "EditionId": "326",
+      "Author": "Sam Basu",
+      "Id": "326-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Null Pointers 73: So many new things",
+      "Url": "https://nullpointers.io/73/",
+      "Description": "It is this time of year again, so much new tech is released. Not only devices, but also software. So tune in to find out our thoughts on MAUI .NETs latest release, the Microsoft device updates and the new Apple hardware that has just been dropped.",
+      "EditionId": "326",
+      "Author": "Null Pointers",
+      "Id": "326-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 277: MacBook Pro & Pixel 6 Event Recaps",
+      "Url": "https://www.mergeconflict.fm/277",
+      "Description": "What a week full of new hardware! MacBook Pro devices, Pixel 6, and so much more!",
+      "EditionId": "326",
+      "Author": "Merge Conflict",
+      "Id": "326-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Using TypeConverter with Xamarin.Forms for Better Custom Controls",
+      "Url": "https://www.youtube.com/watch?v=ziKmH1nVrGc",
+      "Description": "With the TypeConverter you can make it easier for other developers that use your custom control to specify property values, especially in XAML. In this video we will learn what a Type Converter is exactly, how to create one in Xamarin.Forms and .NET MAUI, but also how to consume it in our XAML.",
+      "EditionId": "326",
+      "Author": "Gerald Versluis",
+      "Id": "326-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Sharpnado.CollectionView 2.0 is reborn with header/footer and drag and drop",
+      "Url": "https://www.sharpnado.com/sharpnado-collectionview-2-0-is-reborn/",
+      "Description": "Sharpnado.Collectionview adds some nice additions to the already awesome nuget package. For those who don't know Sharpnado.CollectionView describes itself as \"A performant list view supporting: grid, horizontal and vertical layout, drag and drop, and reveal animations.\"",
+      "EditionId": "326",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "326-11",
+      "Category": "RELEASES"
+    }
+  ]
+}
