@@ -1,0 +1,459 @@
+{
+  "number": 327,
+  "title": "Issue 327",
+  "summary": "Buckle up, here comes .NET Conf 2021",
+  "url": "https://weeklyxamarin.com/issues/327",
+  "publication_status": "published",
+  "published_at": "2021-11-07T08:40:02+00:00",
+  "updated_at": "2021-11-07T08:40:07+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>We have another great edition of Weekly Xamarin this week with lots of MAUI goodness. Speaking of great things, this week there is .NET Conf so make sure you have a look at the <a href=\"https://www.dotnetconf.net/agenda/\">agenda</a> and try attend some sessions.</p>\n\n<p>Have a great week everyone,</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "We have another great edition of Weekly Xamarin this week with lots of MAUI goodness. Speaking of great things, this week there is .NET Conf so make sure you have a look at the [agenda](https://www.dotnetconf.net/agenda/) and try attend some sessions.\r\n\r\nHave a great week everyone,\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "bzSdnJo",
+              "title": "agenda",
+              "url_domain": "dotnetconf.net",
+              "url": "https://www.dotnetconf.net/agenda/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "kXlzA31",
+          "type": "Link",
+          "title": "Introducing the .NET Tech Community Forums",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/introducing-the-net-tech-community-forums/",
+          "description": "<p>James introduces the new .NET Tech Community Forums. This is a place for the community of developers to have deep technical discussions, share how-to's, talk best practices, and more.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/introducing-the-net-tech-community-forums/\"><strong>Introducing the .NET Tech Community Forums</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James introduces the new .NET Tech Community Forums. This is a place for the community of developers to have deep technical discussions, share how-to's, talk best practices, and more.\r\n\r\n[**Introducing the .NET Tech Community Forums**](https://devblogs.microsoft.com/dotnet/introducing-the-net-tech-community-forums/) by [James Montemagno](https://twitter.com/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "V2SeZ1I",
+              "title": "**Introducing the .NET Tech Community Forums**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/introducing-the-net-tech-community-forums/"
+            },
+            {
+              "identifier": "Ik07I4p",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "sRgC3cP",
+          "type": "Link",
+          "title": "Android Debugging With Windows Subsystem for Android",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/android-debugging-with-windows-subsystem-for-android/",
+          "description": "<p>Android Debugging With Windows Subsystem for Android. No emulators required. How to run and debug android apps on windows 11.</p>\n\n<p><a href=\"https://doumer.me/android-debugging-with-windows-subsystem-for-android/\"><strong>Android Debugging With Windows Subsystem for Android</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "Android Debugging With Windows Subsystem for Android. No emulators required. How to run and debug android apps on windows 11.\r\n\r\n[**Android Debugging With Windows Subsystem for Android**](https://doumer.me/android-debugging-with-windows-subsystem-for-android/) by [Damien Doumer](https://twitter.com/damien_doumer)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Y4qwvkY",
+              "title": "**Android Debugging With Windows Subsystem for Android**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/android-debugging-with-windows-subsystem-for-android/"
+            },
+            {
+              "identifier": "1DzSOIq",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "oO428UM",
+          "type": "Link",
+          "title": "How to save Device Token as NSData type",
+          "url_domain": "almirvuk.com",
+          "url": "https://almirvuk.com/xamarin-ios-save-pns-device-token/",
+          "description": "<p>How to use and save an iOS device-token inside a Xamarin.iOS application using the NSData format.</p>\n\n<p><a href=\"https://almirvuk.com/xamarin-ios-save-pns-device-token/\"><strong>Xamarin.iOS - How to save Device Token as NSData type</strong></a> by <a href=\"https://twitter.com/almirvuk\">Almir Vuk</a></p>",
+          "description_markdown": "How to use and save an iOS device-token inside a Xamarin.iOS application using the NSData format.\r\n\r\n[**Xamarin.iOS - How to save Device Token as NSData type**](https://almirvuk.com/xamarin-ios-save-pns-device-token/) by [Almir Vuk](https://twitter.com/almirvuk)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "CNSSJKG",
+              "title": "**Xamarin.iOS - How to save Device Token as NSData type**",
+              "url_domain": "almirvuk.com",
+              "url": "https://almirvuk.com/xamarin-ios-save-pns-device-token/"
+            },
+            {
+              "identifier": "aWF8UbV",
+              "title": "Almir Vuk",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/almirvuk"
+            }
+          ]
+        },
+        {
+          "identifier": "Cm2omiJ",
+          "type": "Link",
+          "title": "Xamarin.Nuke: a Xamarin binding for the iOS image caching library",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/xamarin-nuke-a-xamarin-binding/",
+          "description": "<p>Nuke is an  popular image loading system for iOS, WatchOS, macOS and tvOS. It is written in Swift and all of it is Open Source on GitHub. This article talks about how CheeseBaron created an Xamarin iOS binding for it, based on Sharpnado's Forms bindings</p>\n\n<p><a href=\"https://www.sharpnado.com/xamarin-nuke-a-xamarin-binding/\"><strong>Xamarin.Nuke: a Xamarin binding for the iOS image caching library</strong></a> by <a href=\"https://twitter.com/Piskariov\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "Nuke is an  popular image loading system for iOS, WatchOS, macOS and tvOS. It is written in Swift and all of it is Open Source on GitHub. This article talks about how CheeseBaron created an Xamarin iOS binding for it, based on Sharpnado's Forms bindings\r\n\r\n[**Xamarin.Nuke: a Xamarin binding for the iOS image caching library**](https://www.sharpnado.com/xamarin-nuke-a-xamarin-binding/) by [Jean-Marie Alfonsi](https://twitter.com/Piskariov)",
+          "embedded_links": [
+            {
+              "identifier": "gbgC1WC",
+              "title": "**Xamarin.Nuke: a Xamarin binding for the iOS image caching library**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/xamarin-nuke-a-xamarin-binding/"
+            },
+            {
+              "identifier": "7gpl5VD",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Piskariov"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "NiAwpql",
+          "type": "Link",
+          "title": "Using State Machine in Xamarin Forms (Part 3)",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2021/11/01/using-state-machine-in-xamarin-forms-part-3/",
+          "description": "<p>In this third part of the State Machine series, Xamboy covers how to pass parameters to Triggers.</p>\n\n<p><a href=\"https://www.xamboy.com/2021/11/01/using-state-machine-in-xamarin-forms-part-3/\"><strong>Using State Machine in Xamarin Forms (Part 3) - Xamboy</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "In this third part of the State Machine series, Xamboy covers how to pass parameters to Triggers.\r\n\r\n[**Using State Machine in Xamarin Forms (Part 3) - Xamboy**](https://www.xamboy.com/2021/11/01/using-state-machine-in-xamarin-forms-part-3/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "oXHf0eP",
+              "title": "**Using State Machine in Xamarin Forms (Part 3) - Xamboy**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2021/11/01/using-state-machine-in-xamarin-forms-part-3/"
+            },
+            {
+              "identifier": "2D9D78q",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        },
+        {
+          "identifier": "TU5I46x",
+          "type": "Link",
+          "title": "Building a mobile game in Xamarin Forms - Styling and Resources",
+          "url_domain": "bijington.com",
+          "url": "https://blog.bijington.com/c#/xamarin/xamarin.forms/2021/11/03/building-a-mobile-game-in-xamarin-forms-part-three.html",
+          "description": "<p>Shaun continues his series on building a mobile game in Xamarin.Forms by talking about styling and resources.</p>\n\n<p><a href=\"https://blog.bijington.com/c#/xamarin/xamarin.forms/2021/11/03/building-a-mobile-game-in-xamarin-forms-part-three.html\"><strong>Building a mobile game in Xamarin Forms - Styling and Resources</strong></a> by <a href=\"https://twitter.com/bijington\">Shaun Lawrence</a></p>",
+          "description_markdown": "Shaun continues his series on building a mobile game in Xamarin.Forms by talking about styling and resources.\r\n\r\n[**Building a mobile game in Xamarin Forms - Styling and Resources**](https://blog.bijington.com/c#/xamarin/xamarin.forms/2021/11/03/building-a-mobile-game-in-xamarin-forms-part-three.html) by [Shaun Lawrence](https://twitter.com/bijington)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "3jSOKVM",
+              "title": "**Building a mobile game in Xamarin Forms - Styling and Resources**",
+              "url_domain": "bijington.com",
+              "url": "https://blog.bijington.com/c#/xamarin/xamarin.forms/2021/11/03/building-a-mobile-game-in-xamarin-forms-part-three.html"
+            },
+            {
+              "identifier": "jh42H6Z",
+              "title": "Shaun Lawrence",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bijington"
+            }
+          ]
+        },
+        {
+          "identifier": "HHjqW6U",
+          "type": "Link",
+          "title": "Range Slider in Xamarin Community Toolkit",
+          "url_domain": "medium.com",
+          "url": "https://andrei-misiukevich.medium.com/range-slider-xamarin-forms-xamarin-community-toolkit-ca7cedcf3852",
+          "description": "<p>RangeSlider is a control which allows picking a range of values instead of a single value as standard Slider does. This control is 100% cross-platform, so it looks the same on all platforms.</p>\n\n<p><a href=\"https://andrei-misiukevich.medium.com/range-slider-xamarin-forms-xamarin-community-toolkit-ca7cedcf3852\"><strong>Range Slider | Xamarin.Forms | Xamarin Community Toolkit</strong></a> by <a href=\"https://twitter.com/andrik_just4fun\">Andrei Misiukevich</a></p>",
+          "description_markdown": "RangeSlider is a control which allows picking a range of values instead of a single value as standard Slider does. This control is 100% cross-platform, so it looks the same on all platforms.\r\n\r\n[**Range Slider | Xamarin.Forms | Xamarin Community Toolkit**](https://andrei-misiukevich.medium.com/range-slider-xamarin-forms-xamarin-community-toolkit-ca7cedcf3852) by [Andrei Misiukevich](https://twitter.com/andrik_just4fun)",
+          "embedded_links": [
+            {
+              "identifier": "Toettxb",
+              "title": "**Range Slider | Xamarin.Forms | Xamarin Community Toolkit**",
+              "url_domain": "medium.com",
+              "url": "https://andrei-misiukevich.medium.com/range-slider-xamarin-forms-xamarin-community-toolkit-ca7cedcf3852"
+            },
+            {
+              "identifier": "SMo8knK",
+              "title": "Andrei Misiukevich",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andrik_just4fun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "UtIcWqO",
+          "type": "Link",
+          "title": "Comparing MauiAppBuilder to the WebApplicationBuilder",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/mauiappbuilder-vs-webapplicationbuilder/",
+          "description": "<p>With the new MauiAppBuilder comes a new way to create applications in .NET, using MauiApp.CreateBuilder(). In this post I compare this approach to previous approaches, discuss why the change was made, and look at the impact.</p>\n\n<p><a href=\"https://luismts.com/mauiappbuilder-vs-webapplicationbuilder/\"><strong>Comparing MauiAppBuilder to the WebApplicationBuilder</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "With the new MauiAppBuilder comes a new way to create applications in .NET, using MauiApp.CreateBuilder(). In this post I compare this approach to previous approaches, discuss why the change was made, and look at the impact. \r\n\r\n[**Comparing MauiAppBuilder to the WebApplicationBuilder**](https://luismts.com/mauiappbuilder-vs-webapplicationbuilder/) by [Luis Matos](https://twitter.com/luismatosluna)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "pHOZ5KS",
+              "title": "**Comparing MauiAppBuilder to the WebApplicationBuilder**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/mauiappbuilder-vs-webapplicationbuilder/"
+            },
+            {
+              "identifier": "v9NYrGC",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "3ZfRdjl",
+          "type": "Link",
+          "title": "Why Evolve to .NET MAUI?",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/why-evolve-dotnet-maui",
+          "description": "<p>Sam lists out the top 10 things look forward to with .NET MAUI.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/why-evolve-dotnet-maui\"><strong>Why Evolve to .NET MAUI?</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam lists out the top 10 things look forward to with .NET MAUI.\r\n\r\n[**Why Evolve to .NET MAUI?**](https://www.telerik.com/blogs/why-evolve-dotnet-maui) by [Sam Basu](https://twitter.com/samidip)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "W0qZ9pq",
+              "title": "**Why Evolve to .NET MAUI?**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/why-evolve-dotnet-maui"
+            },
+            {
+              "identifier": "fGvUN1g",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "17XFAYX",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #31",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-31",
+          "description": "<p>Sam updates us on the weekly happenings in MAUI.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-31\"><strong>Sands of MAUI: Issue #31</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam updates us on the weekly happenings in MAUI.\r\n\r\n[**Sands of MAUI: Issue #31**](https://www.telerik.com/blogs/sands-maui-issue-31) by [Sam Basu](https://twitter.com/samidip)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "JRgdcYG",
+              "title": "**Sands of MAUI: Issue #31**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-31"
+            },
+            {
+              "identifier": "aKf45t",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "WO6Ca5I",
+          "type": "Link",
+          "title": "Get Those Good Reviews for Your Xamarin App with Store Review Plugin",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=_lw_mCv78hI",
+          "description": "<p>Bad reviews are easy to get, good reviews on the other hand are a lot harder. Why not remind your users a little inside of your app to leave you a review when they like using your app? This is just a single line of code when using the Store Review Plugin. We will see how to use that in your Xamarin Forms app.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=_lw_mCv78hI\"><strong>Get Those Good Reviews for Your Xamarin App with Store Review Plugin</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Bad reviews are easy to get, good reviews on the other hand are a lot harder. Why not remind your users a little inside of your app to leave you a review when they like using your app? This is just a single line of code when using the Store Review Plugin. We will see how to use that in your Xamarin Forms app.\r\n\r\n[**Get Those Good Reviews for Your Xamarin App with Store Review Plugin**](https://www.youtube.com/watch?v=_lw_mCv78hI) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "YVmNeXd",
+              "title": "**Get Those Good Reviews for Your Xamarin App with Store Review Plugin**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=_lw_mCv78hI"
+            },
+            {
+              "identifier": "6Juj0dX",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "FUAySm8",
+          "type": "Link",
+          "title": "Reusable Controls and Data Template Selectors in Xamarin.Forms & .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=TkadU_OfmIE",
+          "description": "<p>Stop copy and pasting around XAML all over your Xamarin.Forms and .NET MAUI apps and start reusable controls, templates, cells, and component. You can easily create reusable controls inside of ListView, CollectionView, and about anything with an ItemTemplate. You can use these controls anywhere else in your app.</p>\n\n<p>I also cover how to use Data Template Selectors inside of ListView and CollectionView to have dynamic items and controls when scrolling through a list.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=TkadU_OfmIE\"><strong>Reusable Controls and Data Template Selectors in Xamarin.Forms &amp; .NET MAUI</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Stop copy and pasting around XAML all over your Xamarin.Forms and .NET MAUI apps and start reusable controls, templates, cells, and component. You can easily create reusable controls inside of ListView, CollectionView, and about anything with an ItemTemplate. You can use these controls anywhere else in your app.\r\n\r\nI also cover how to use Data Template Selectors inside of ListView and CollectionView to have dynamic items and controls when scrolling through a list.\r\n\r\n[**Reusable Controls and Data Template Selectors in Xamarin.Forms & .NET MAUI**](https://www.youtube.com/watch?v=TkadU_OfmIE) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "6WfyZMr",
+              "title": "**Reusable Controls and Data Template Selectors in Xamarin.Forms & .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=TkadU_OfmIE"
+            },
+            {
+              "identifier": "HLZcYsJ",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "f3URP37",
+          "type": "Link",
+          "title": "Getting Started with Firebase Realtime Database and Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=9tWcv2_HK9E",
+          "description": "<p>With Firebase Realtime Database you have a very powerful DocumentDB at your service. In this video we will see how to insert data into a database and have it show up on another Xamarin.Forms app in realtime!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=9tWcv2_HK9E\"><strong>Getting Started with Firebase Realtime Database and Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "With Firebase Realtime Database you have a very powerful DocumentDB at your service. In this video we will see how to insert data into a database and have it show up on another Xamarin.Forms app in realtime!\r\n\r\n[**Getting Started with Firebase Realtime Database and Xamarin.Forms**](https://www.youtube.com/watch?v=9tWcv2_HK9E) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "MwxZCow",
+              "title": "**Getting Started with Firebase Realtime Database and Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=9tWcv2_HK9E"
+            },
+            {
+              "identifier": "ihIFwLy",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "js1RH4G",
+          "type": "Link",
+          "title": "Merge Conflict: 278: Inside .NET Hot Reload",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/278",
+          "description": "<p>Frank recently dove into the inner workings of .NET Hot Reload and came out with a bunch of fun facts of how ti works! We discuss.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/278\"><strong>Merge Conflict: 278: Inside .NET Hot Reload</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Frank recently dove into the inner workings of .NET Hot Reload and came out with a bunch of fun facts of how ti works! We discuss.\r\n\r\n[**Merge Conflict: 278: Inside .NET Hot Reload**](https://www.mergeconflict.fm/278) by [Merge Conflict](https://twitter.com/mergeconflictfm)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "BpQWjuc",
+              "title": "**Merge Conflict: 278: Inside .NET Hot Reload**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/278"
+            },
+            {
+              "identifier": "4zsD0XP",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "nWkHZ2u",
+          "type": "Link",
+          "title": "DevTalk 74: Being a software consultant. With Tobias Hoppenthaler",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-74-tobias-hoppenthaler/",
+          "description": "<p>On this episode of DevTalk Kerry speaks to Tobias Hoppenthaler about being a software consultant.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-74-tobias-hoppenthaler/\"><strong>74: Being a software consultant. With Tobias Hoppenthaler</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk Kerry speaks to Tobias Hoppenthaler about being a software consultant.\r\n\r\n[**74: Being a software consultant. With Tobias Hoppenthaler**](https://kerry.lothrop.de/devtalk-74-tobias-hoppenthaler/) by [Kerry Lothrop](https://twitter.com/kwlothrop)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "hRcaK2F",
+              "title": "**74: Being a software consultant. With Tobias Hoppenthaler**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-74-tobias-hoppenthaler/"
+            },
+            {
+              "identifier": "7CIpOu4",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        },
+        {
+          "identifier": "Zs6K9dI",
+          "type": "Link",
+          "title": ".NET MAUI Community Standup - XAML Hot Reload newness with Tim Miller",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=xfijNyzXcls",
+          "description": "<p>Join Maddy Montaquila, guest co-host Sweeky, and special guest Tim Miller for the latest (and currently unreleased!) features coming to XAML Hot Reload soon!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=xfijNyzXcls\"><strong>.NET MAUI Community Standup - XAML Hot Reload newness with Tim Miller</strong></a> by <a href=\"https://twitter.com/xamarinhq\">Xamarin Developers</a></p>",
+          "description_markdown": "Join Maddy Montaquila, guest co-host Sweeky, and special guest Tim Miller for the latest (and currently unreleased!) features coming to XAML Hot Reload soon!\r\n\r\n[**.NET MAUI Community Standup - XAML Hot Reload newness with Tim Miller**](https://www.youtube.com/watch?v=xfijNyzXcls) by [Xamarin Developers](https://twitter.com/xamarinhq)",
+          "embedded_links": [
+            {
+              "identifier": "oldoLwp",
+              "title": "**.NET MAUI Community Standup - XAML Hot Reload newness with Tim Miller**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=xfijNyzXcls"
+            },
+            {
+              "identifier": "BoHkKr7",
+              "title": "Xamarin Developers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/xamarinhq"
+            }
+          ]
+        },
+        {
+          "identifier": "nLaeBh6",
+          "type": "Link",
+          "title": "Migrating SkiaSharp project to Microsoft Maui Graphics",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=JR9bNlL74dE",
+          "description": "<p>Presentation about moving from SkiaSharp to Microsoft Maui Graphics</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=JR9bNlL74dE\"><strong>Recording from Meetup \"Magic Gradients - Migrating SkiaSharp project to Microsoft Maui Graphics\"</strong></a> by <a href=\"https://twitter.com/bbenetskyy\">Bohdan Benetskyi</a></p>",
+          "description_markdown": "Presentation about moving from SkiaSharp to Microsoft Maui Graphics\r\n\r\n[**Recording from Meetup \"Magic Gradients - Migrating SkiaSharp project to Microsoft Maui Graphics\"**](https://www.youtube.com/watch?v=JR9bNlL74dE) by [Bohdan Benetskyi](https://twitter.com/bbenetskyy)",
+          "embedded_links": [
+            {
+              "identifier": "rI2fx59",
+              "title": "**Recording from Meetup \"Magic Gradients - Migrating SkiaSharp project to Microsoft Maui Graphics\"**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=JR9bNlL74dE"
+            },
+            {
+              "identifier": "W5PFkXK",
+              "title": "Bohdan Benetskyi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bbenetskyy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "Id": "327",
+  "Name": "Issue 327",
+  "UpdatedTimeStamp": "2021-11-07T08:40:07Z",
+  "Summary": "Buckle up, here comes .NET Conf 2021",
+  "Introduction": "We have another great edition of Weekly Xamarin this week with lots of MAUI goodness. Speaking of great things, this week there is .NET Conf so make sure you have a look at the [agenda](https://www.dotnetconf.net/agenda/) and try attend some sessions. Have a great week everyone, ❤ Kym",
+  "PublishDate": "2021-11-07T08:40:02Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Introducing the .NET Tech Community Forums",
+      "Url": "https://devblogs.microsoft.com/dotnet/introducing-the-net-tech-community-forums/",
+      "Description": "James introduces the new .NET Tech Community Forums. This is a place for the community of developers to have deep technical discussions, share how-to's, talk best practices, and more.",
+      "EditionId": "327",
+      "Author": "James Montemagno",
+      "Id": "327-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Android Debugging With Windows Subsystem for Android",
+      "Url": "https://doumer.me/android-debugging-with-windows-subsystem-for-android/",
+      "Description": "Android Debugging With Windows Subsystem for Android. No emulators required. How to run and debug android apps on windows 11.",
+      "EditionId": "327",
+      "Author": "Damien Doumer",
+      "Id": "327-2",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "How to save Device Token as NSData type",
+      "Url": "https://almirvuk.com/xamarin-ios-save-pns-device-token/",
+      "Description": "How to use and save an iOS device-token inside a Xamarin.iOS application using the NSData format.",
+      "EditionId": "327",
+      "Author": "Almir Vuk",
+      "Id": "327-3",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Xamarin.Nuke: a Xamarin binding for the iOS image caching library",
+      "Url": "https://www.sharpnado.com/xamarin-nuke-a-xamarin-binding/",
+      "Description": "Nuke is an  popular image loading system for iOS, WatchOS, macOS and tvOS. It is written in Swift and all of it is Open Source on GitHub. This article talks about how CheeseBaron created an Xamarin iOS binding for it, based on Sharpnado's Forms bindings",
+      "EditionId": "327",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "327-4",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Using State Machine in Xamarin Forms (Part 3)",
+      "Url": "https://www.xamboy.com/2021/11/01/using-state-machine-in-xamarin-forms-part-3/",
+      "Description": "In this third part of the State Machine series, Xamboy covers how to pass parameters to Triggers.",
+      "EditionId": "327",
+      "Author": "Rendy Del Rosario",
+      "Id": "327-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Building a mobile game in Xamarin Forms - Styling and Resources",
+      "Url": "https://blog.bijington.com/c#/xamarin/xamarin.forms/2021/11/03/building-a-mobile-game-in-xamarin-forms-part-three.html",
+      "Description": "Shaun continues his series on building a mobile game in Xamarin.Forms by talking about styling and resources.",
+      "EditionId": "327",
+      "Author": "Shaun Lawrence",
+      "Id": "327-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Range Slider in Xamarin Community Toolkit",
+      "Url": "https://andrei-misiukevich.medium.com/range-slider-xamarin-forms-xamarin-community-toolkit-ca7cedcf3852",
+      "Description": "RangeSlider is a control which allows picking a range of values instead of a single value as standard Slider does. This control is 100% cross-platform, so it looks the same on all platforms.",
+      "EditionId": "327",
+      "Author": "Andrei Misiukevich",
+      "Id": "327-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Comparing MauiAppBuilder to the WebApplicationBuilder",
+      "Url": "https://luismts.com/mauiappbuilder-vs-webapplicationbuilder/",
+      "Description": "With the new MauiAppBuilder comes a new way to create applications in .NET, using MauiApp.CreateBuilder(). In this post I compare this approach to previous approaches, discuss why the change was made, and look at the impact.",
+      "EditionId": "327",
+      "Author": "Luis Matos",
+      "Id": "327-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Why Evolve to .NET MAUI?",
+      "Url": "https://www.telerik.com/blogs/why-evolve-dotnet-maui",
+      "Description": "Sam lists out the top 10 things look forward to with .NET MAUI.",
+      "EditionId": "327",
+      "Author": "Sam Basu",
+      "Id": "327-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #31",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-31",
+      "Description": "Sam updates us on the weekly happenings in MAUI.",
+      "EditionId": "327",
+      "Author": "Sam Basu",
+      "Id": "327-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Get Those Good Reviews for Your Xamarin App with Store Review Plugin",
+      "Url": "https://www.youtube.com/watch?v=_lw_mCv78hI",
+      "Description": "Bad reviews are easy to get, good reviews on the other hand are a lot harder. Why not remind your users a little inside of your app to leave you a review when they like using your app? This is just a single line of code when using the Store Review Plugin. We will see how to use that in your Xamarin Forms app.",
+      "EditionId": "327",
+      "Author": "Gerald Versluis",
+      "Id": "327-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Reusable Controls and Data Template Selectors in Xamarin.Forms & .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=TkadU_OfmIE",
+      "Description": "Stop copy and pasting around XAML all over your Xamarin.Forms and .NET MAUI apps and start reusable controls, templates, cells, and component. You can easily create reusable controls inside of ListView, CollectionView, and about anything with an ItemTemplate. You can use these controls anywhere else in your app. I also cover how to use Data Template Selectors inside of ListView and CollectionView to have dynamic items and controls when scrolling through a list.",
+      "EditionId": "327",
+      "Author": "James Montemagno",
+      "Id": "327-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Getting Started with Firebase Realtime Database and Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=9tWcv2_HK9E",
+      "Description": "With Firebase Realtime Database you have a very powerful DocumentDB at your service. In this video we will see how to insert data into a database and have it show up on another Xamarin.Forms app in realtime!",
+      "EditionId": "327",
+      "Author": "Gerald Versluis",
+      "Id": "327-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 278: Inside .NET Hot Reload",
+      "Url": "https://www.mergeconflict.fm/278",
+      "Description": "Frank recently dove into the inner workings of .NET Hot Reload and came out with a bunch of fun facts of how ti works! We discuss.",
+      "EditionId": "327",
+      "Author": "Merge Conflict",
+      "Id": "327-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 74: Being a software consultant. With Tobias Hoppenthaler",
+      "Url": "https://kerry.lothrop.de/devtalk-74-tobias-hoppenthaler/",
+      "Description": "On this episode of DevTalk Kerry speaks to Tobias Hoppenthaler about being a software consultant.",
+      "EditionId": "327",
+      "Author": "Kerry Lothrop",
+      "Id": "327-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Standup - XAML Hot Reload newness with Tim Miller",
+      "Url": "https://www.youtube.com/watch?v=xfijNyzXcls",
+      "Description": "Join Maddy Montaquila, guest co-host Sweeky, and special guest Tim Miller for the latest (and currently unreleased!) features coming to XAML Hot Reload soon!",
+      "EditionId": "327",
+      "Author": "Xamarin Developers",
+      "Id": "327-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Migrating SkiaSharp project to Microsoft Maui Graphics",
+      "Url": "https://www.youtube.com/watch?v=JR9bNlL74dE",
+      "Description": "Presentation about moving from SkiaSharp to Microsoft Maui Graphics",
+      "EditionId": "327",
+      "Author": "Bohdan Benetskyi",
+      "Id": "327-17",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

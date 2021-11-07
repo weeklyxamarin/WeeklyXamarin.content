@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "327",
+      "Name": "Issue 327",
+      "UpdatedTimeStamp": "2021-11-07T08:40:07Z",
+      "Summary": "Buckle up, here comes .NET Conf 2021",
+      "PublishDate": "2021-11-07T08:40:02Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "326",
       "Name": "Issue 326",
       "UpdatedTimeStamp": "2021-11-01T04:11:46Z",
