@@ -397,6 +397,16 @@
       "Aliases": []
     },
     {
+      "Name": "Bianka Banova",
+      "Id": "740f9744-02a9-4fde-8772-0688ceb4009f",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.telerik.com/blogs/author/bianka-banova"
+        }
+      ]
+    },
+    {
       "Name": "Bill Leach",
       "Id": "3787f2a3-66bb-40d5-817b-bf69145bca26",
       "Aliases": [
@@ -737,6 +747,12 @@
       "Aliases": []
     },
     {
+      "Name": "Daniel Roth",
+      "TwitterHandle": "danroth27",
+      "Id": "ba3266cd-6db4-4dfc-9140-7d549da5460f",
+      "Aliases": []
+    },
+    {
       "Name": "Dave Murray",
       "GitHubHandle": "irongut",
       "Id": "67240bc8-e99b-45d8-940b-72d1c83ae8f6",
@@ -868,6 +884,12 @@
         }
       ],
       "Website": "https://xamlabs.com/"
+    },
+    {
+      "Name": "Dmitry Lyalin",
+      "TwitterHandle": "LyalinDotCom",
+      "Id": "6d507187-88cf-40cc-9e8e-19760195a890",
+      "Aliases": []
     },
     {
       "Name": "Dobrinka Yordanova",
@@ -1494,6 +1516,12 @@
       "Aliases": []
     },
     {
+      "Name": "Jordan Matthiesen",
+      "TwitterHandle": "jmatthiesen",
+      "Id": "b23fcc0c-5474-471c-9640-d6b6db4a2c23",
+      "Aliases": []
+    },
+    {
       "Name": "Juliano Custódio",
       "TwitterHandle": "JuuCustodio",
       "GitHubHandle": "JuuCustodio",
@@ -1721,6 +1749,12 @@
       "Name": "Maddy Leger",
       "TwitterHandle": "maddyleger1",
       "Id": "fac67e81-0569-4204-baf1-adbfd13ee750",
+      "Aliases": []
+    },
+    {
+      "Name": "Maddy Montaquila",
+      "TwitterHandle": "maddymontaquila",
+      "Id": "420ff5fe-6247-4bcf-8ca1-6017cf6d9d7d",
       "Aliases": []
     },
     {

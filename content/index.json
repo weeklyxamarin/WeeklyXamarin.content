@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "328",
+      "Name": "Issue 328",
+      "UpdatedTimeStamp": "2021-11-14T10:39:40Z",
+      "Summary": ".NET 6, MAUI Preview 10, and Visual Studio 2022, oh my!",
+      "PublishDate": "2021-11-14T10:39:36Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "327",
       "Name": "Issue 327",
       "UpdatedTimeStamp": "2021-11-07T08:40:07Z",

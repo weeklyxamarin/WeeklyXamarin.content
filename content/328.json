@@ -1,0 +1,254 @@
+{
+  "Id": "328",
+  "Name": "Issue 328",
+  "UpdatedTimeStamp": "2021-11-14T10:39:40Z",
+  "Summary": ".NET 6, MAUI Preview 10, and Visual Studio 2022, oh my!",
+  "Introduction": "Hey Everyone, I'd like to start by apologising for the length of this weeks edition, but there is just too much great stuff going on this week with all the .NET 6, MAUI Preview 10 and VS2022 launches. Make sure you check out all the latest news because there are some really great things being released. Have a great week ahead, and see you soon. ❤ Kym",
+  "PublishDate": "2021-11-14T10:39:36Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": ".NET MAUI Preview 10",
+      "Url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-10/",
+      "Description": ".NET Multi-platform App UI (MAUI) Preview 10 is now available atop the stable release of .NET 6, and you can acquire it today in the preview channel of Visual Studio 2022. This new release includes the merging of the remaining Windows App SDK dependencies, and ongoing progress to complete the remaining controls and control features.",
+      "EditionId": "328",
+      "Author": "David Ortinau",
+      "Id": "328-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Announcing .NET 6 -- The Fastest .NET Yet",
+      "Url": "https://devblogs.microsoft.com/dotnet/announcing-net-6/",
+      "Description": ".NET 6 is now available. It is easier to use, runs faster, and has many new features.",
+      "EditionId": "328",
+      "Author": "Richard Lander",
+      "Id": "328-2",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Visual Studio 2022 now available",
+      "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-now-available/",
+      "Description": "Visual Studio 2022 is here and it's awesome!",
+      "EditionId": "328",
+      "Author": "Amanda Silver",
+      "Id": "328-3",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "The Journey to Accessible Apps: Meaningful Content Ordering",
+      "Url": "https://devblogs.microsoft.com/xamarin/the-journey-to-accessible-apps-meaningful-content-ordering/",
+      "Description": "Learn more about accessible layouts and navigation and find out how you can ensure accessible ordering in your apps.",
+      "EditionId": "328",
+      "Author": "Rachel Kang",
+      "Id": "328-4",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Visual Studio 2022 for .NET XAML developers",
+      "Url": "https://www.youtube.com/watch?v=8KsVw52hDVU",
+      "Description": "Desktop developers building apps powered by XAML such as WPF, WinUI 3, .NET MAUI, etc. have many new features that can supercharge their developer productivity. In this end-to-end session, we’ll demo many of these new capabilities such as XAML Designer and code editor improvements, our live editing features XAML Hot Reload and .NET Hot Reload, XAML Live Preview and Data Binding Diagnostic.",
+      "EditionId": "328",
+      "Author": "Dmitry Lyalin",
+      "Id": "328-5",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Validation using Xamarin Community Toolkit",
+      "Url": "https://xamarinmonkeys.blogspot.com/2021/11/xamarinforms-validation-using-xamarin.html",
+      "Description": "How to validate xaml elements using Xamarin Community Toolkit in a Xamarin.Forms App.",
+      "EditionId": "328",
+      "Author": "Delpin Susai Raj",
+      "Id": "328-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Clear cookies in WebViews",
+      "Url": "https://www.banditoth.hu/2021/11/10/xamarin-forms-clear-cookies-in-webviews/",
+      "Description": "Andras discusses how to clear browser cookies in iOS and Android for a Xamrin.Forms app.",
+      "EditionId": "328",
+      "Author": "András Tóth",
+      "Id": "328-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "What's New in Xamarin and Visual Studio 2022",
+      "Url": "https://devblogs.microsoft.com/xamarin/whats-new-in-xamarin-and-visual-studio-2022",
+      "Description": "Xamarin has shipped support for the latest Android and iOS versions, and productivity features in Visual Studio 2022. What's next for Xamarin?",
+      "EditionId": "328",
+      "Author": "David Ortinau",
+      "Id": "328-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Building a mobile game in Xamarin Forms - MVVM Setup",
+      "Url": "https://blog.bijington.com/c#/xamarin/xamarin.forms/mvvm/2021/11/10/building-a-mobile-game-in-xamarin-forms-part-four.html",
+      "Description": "Shaun continues his series on building a Xamarin.Forms game, this time he looks at the MVVM Setup.",
+      "EditionId": "328",
+      "Author": "Shaun Lawrence",
+      "Id": "328-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Fallback values with Converters",
+      "Url": "https://www.banditoth.hu/2021/11/12/xamarin-forms-use-converters-with-binding-objects-which-can-have-null/",
+      "Description": "You have a converter, which should return a specific value, even if the binded object is null. Converters does not get executed, when the binded value is null. But here is a solution.",
+      "EditionId": "328",
+      "Author": "András Tóth",
+      "Id": "328-10",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": ".NET MAUI – Blazor",
+      "Url": "https://egvijayanand.in/2021/11/13/net-maui-blazor/",
+      "Description": ".NET MAUI and Blazor – Best of both modern technologies for Mobile, Desktop and Web solution from a single codebase. Vijay looks into this in a little more detail",
+      "EditionId": "328",
+      "Author": "Vijay Anand EG",
+      "Id": "328-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "A quick introduction to .NET MAUI",
+      "Url": "https://thewissen.io/a-quick-introduction-to-dotnet-maui/",
+      "Description": "Only got 5 minutes and want to hear more about MAUI - take a look at this introduction from our favorite pancake chef!",
+      "EditionId": "328",
+      "Author": "Steven Thewissen",
+      "Id": "328-12",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "A First Look with FreshMvvm.Maui ",
+      "Url": "https://michaelridland.com/freshmvvm-maui/a-first-look-with-freshmvvm-maui/",
+      "Description": "Is FreshMvvm going to support .NET MAUI? Hell Ya!",
+      "EditionId": "328",
+      "Author": "Michael Ridland",
+      "Id": "328-13",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI: Evolution of .NET Mobile/Desktop in Age of .NET 6",
+      "Url": "https://www.telerik.com/blogs/dotnet-maui-evolution-mobile-desktop-development-age-dotnet-6",
+      "Description": "An overview of what Telerik are up to for MAUI.",
+      "EditionId": "328",
+      "Author": "Bianka Banova",
+      "Id": "328-14",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #32",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-32",
+      "Description": "Hey Sam, what's happening in Maui this week? Well I'm glad you asked...",
+      "EditionId": "328",
+      "Author": "Sam Basu",
+      "Id": "328-15",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Invoke platform code in .NET MAUI",
+      "Url": "https://www.davidbritch.com/2021/11/invoke-platform-code-in-net-maui.html",
+      "Description": "Xamarin.Forms has the DependencyService class, which is a service locator that enables apps to invoke native platform functionality from cross-platform code.  DependencyService is still present in .NET MAUI, via the compatibility layer, for ease of migration of Xamarin.Forms apps to .NET MAUI. However, there’s a better way that combines partial methods and classes with the power of multi-targeting.",
+      "EditionId": "328",
+      "Author": "David Britch",
+      "Id": "328-16",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Introduction to .NET MAUI. What is .NET MAUI?",
+      "Url": "https://boguslawblonski.medium.com/introduction-to-net-maui-82b60fb1a8b",
+      "Description": "A bit of history around Xamarin and .NET MAUI",
+      "EditionId": "328",
+      "Author": "Boguslaw Blonski",
+      "Id": "328-17",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Preview 10 - Build native and hybrid apps with C# and Visual Studio 2022",
+      "Url": "https://www.youtube.com/watch?v=qH2MdEVuzxs",
+      "Description": "James walks through everything new including the new .NET Podcast app that was showcased at .NET Conf 2021!",
+      "EditionId": "328",
+      "Author": "James Montemagno",
+      "Id": "328-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Introduction to .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=HMYpAw2sl58",
+      "Description": ".NET MAUI is the best way to build cross platform mobile and desktop apps with .NET and C#. Join Maddy Leger, .NET MAUI Program Manager, to get a first look of .NET MAUI in .NET 6 and learn how you can start using it today.",
+      "EditionId": "328",
+      "Author": "Maddy Montaquila",
+      "Id": "328-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Blazor - Build Hybrid Mobile, Desktop, and Web apps",
+      "Url": "https://www.youtube.com/watch?v=swwWgFZJvEs",
+      "Description": "Blazor enables building client-side web UI with .NET, but sometimes you need more than what the web platform offers. Sometimes you need full access to the native capabilities of the device. You can now host Blazor components in .NET MAUI apps to build cross-platform native apps using web UI.",
+      "EditionId": "328",
+      "Author": "Daniel Roth",
+      "Id": "328-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "What's new in .NET 6 - Introducing the .NET MAUI Community Toolkit",
+      "Url": "https://www.youtube.com/watch?v=UR6LC7IXkvY",
+      "Description": "The .NET MAUI Community Toolkit is an open source NuGet package created by community members, just like you! Learn how to get started with this package to take advantage of its extensions, behaviors, converters, UI elements, and more.",
+      "EditionId": "328",
+      "Author": "Brandon Minnick",
+      "Id": "328-21",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI and FreshMvvm MVVM Framework: Getting Started",
+      "Url": "https://www.youtube.com/watch?v=uke5GEt_Qoc",
+      "Description": "The first early version of FreshMvvm MVVM Framework is out. FreshMvvm has been a loved and well-known MVVM Framework for Xamarin.Forms for many years. Michael Ridland is now releasing the first bits for .NET MAUI for us to play with so let's have a look at how to apply .NET MAUI MVVM.",
+      "EditionId": "328",
+      "Author": "Gerald Versluis",
+      "Id": "328-22",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Windows Subsystem for Android: Run and Develop Android Apps!",
+      "Url": "https://www.youtube.com/watch?v=r3NwzDmmRdY",
+      "Description": "With Windows Subsystem for Android you can now run Android apps right from Windows 11! But it doesn't stop there, for us developers, we can also use it as an emulator 🤯  In this video I will walk you through what WSA is and how to set it up with Visual Studio and run a .NET MAUI app.",
+      "EditionId": "328",
+      "Author": "Gerald Versluis",
+      "Id": "328-23",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 279: What are Azure Container Apps?",
+      "Url": "https://www.mergeconflict.fm/279",
+      "Description": "Deploy containerized apps without managing complex infrastructure. Write code using your preferred programming language or framework, and build microservices with full support for Distributed Application Runtime (Dapr). Scale dynamically based on HTTP traffic or events powered by Kubernetes Event-Driven Autoscaling (KEDA).",
+      "EditionId": "328",
+      "Author": "Merge Conflict",
+      "Id": "328-24",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 74: Awesome UI Components",
+      "Url": "https://nullpointers.io/74/",
+      "Description": "Today we talk about all the different things that go into making a UI that’s component-based instead of just mashing it all together willy nilly. Future you will thank us!",
+      "EditionId": "328",
+      "Author": "Null Pointers",
+      "Id": "328-25",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Building cross platform apps with .NET MAUI in Visual Studio 2022",
+      "Url": "https://www.youtube.com/watch?v=LUlbO5MjPjU",
+      "Description": "Maddy looks at the new capabilities for developers building cross platform apps with .NET MAUI. From mobile apps running on phones to desktop apps, Visual Studio 2022 enables you to build them all from one place with one codebase.",
+      "EditionId": "328",
+      "Author": "Maddy Montaquila",
+      "Id": "328-26",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Visual Studio 2022 for Mac Preview 3, and Upcoming Native M1 Processor Support",
+      "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-3-and-upcoming-native-m1-processor-support/",
+      "Description": "Visual Studio 2022 for Mac Preview 3 is now available with support for the general availability release of .NET 6 and the team has been working on native support for the Apple M1 processor.",
+      "EditionId": "328",
+      "Author": "Jordan Matthiesen",
+      "Id": "328-27",
+      "Category": "RELEASES"
+    }
+  ]
+}
