@@ -1,0 +1,324 @@
+{
+  "number": 329,
+  "title": "Issue 329",
+  "summary": "Time to get started with .NET MAUI development!",
+  "url": "https://weeklyxamarin.com/issues/329",
+  "publication_status": "published",
+  "published_at": "2021-11-21T09:17:33+00:00",
+  "updated_at": "2021-11-21T09:17:34+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>After the huge number of articles last week, I shouldn't be surprised that it's a little quiet around the community. The good news is that you'll have even more time to review this week's articles,  play around with .NET MAUI Preview 10 and the other announcements from dotNetConf.</p>\n\n<p>Speaking of great announcements, <a href=\"https://unoconf.com?utm_source=WeeklyXAM&amp;utm_medium=newsletter&amp;utm_campaign=UnoConf2021\">UnoConf 2021</a> is happening soon, and you should check it out.</p>\n\n<p>Take care everyone and have a wonderful week.</p>\n\n<p>♥️</p>\n\n<p>Kym</p>",
+          "description_markdown": "After the huge number of articles last week, I shouldn't be surprised that it's a little quiet around the community. The good news is that you'll have even more time to review this week's articles,  play around with .NET MAUI Preview 10 and the other announcements from dotNetConf.\r\n\r\nSpeaking of great announcements, [UnoConf 2021](https://unoconf.com?utm_source=WeeklyXAM&utm_medium=newsletter&utm_campaign=UnoConf2021) is happening soon, and you should check it out.\r\n\r\nTake care everyone and have a wonderful week.\r\n\r\n♥️\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "3NA6oQ9",
+              "title": "UnoConf 2021",
+              "url_domain": "unoconf.com",
+              "url": "https://unoconf.com?utm_source=WeeklyXAM&utm_medium=newsletter&utm_campaign=UnoConf2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "VBxy39Z",
+          "type": "Link",
+          "title": "UnoConf 2021 – Where .NET 6, WinUI and Uno Platform meet",
+          "url_domain": "unoconf.com",
+          "url": "https://unoconf.com?utm_source=WeeklyXAM&utm_medium=newsletter&utm_campaign=UnoConf2021",
+          "description": "<p>Uno Platform’s annual conference - UnoConf - is back this Nov 30th. We’re giving you free access to come join Uno Platform core team and contributors as we share our newest release, 2022 roadmap and best practices for building same-codebase, multiplatform applications with Uno Platform. Don’t miss out, save your spot!</p>",
+          "description_markdown": "Uno Platform’s annual conference - UnoConf - is back this Nov 30th. We’re giving you free access to come join Uno Platform core team and contributors as we share our newest release, 2022 roadmap and best practices for building same-codebase, multiplatform applications with Uno Platform. Don’t miss out, save your spot!",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "397f7cd3-7e2f-4718-ae37-4dabd8e6435d.png",
+          "image_extra_large_filename": "original_ratio_extra_large_397f7cd3-7e2f-4718-ae37-4dabd8e6435d.png",
+          "image_medium_filename": "original_ratio_medium_397f7cd3-7e2f-4718-ae37-4dabd8e6435d.png"
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "OGPhh2u",
+          "type": "Link",
+          "title": "Dealing with the System UI on iOS in Xamarin.Forms",
+          "url_domain": "msicc.net",
+          "url": "https://msicc.net/dealing-with-the-system-ui-on-ios-in-xamarin-forms/",
+          "description": "<p>This post is a great roundup of useful iOS customizations like: Large Page Titles, StatusBar text color, NavigationBar Separator, Home indicator visibility, Home indicator background color, and Safe area.</p>\n\n<p><a href=\"https://msicc.net/dealing-with-the-system-ui-on-ios-in-xamarin-forms/\"><strong>Dealing with the System UI on iOS in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/msicc\">Marco Siccardi</a></p>",
+          "description_markdown": "This post is a great roundup of useful iOS customizations like: Large Page Titles, StatusBar text color, NavigationBar Separator, Home indicator visibility, Home indicator background color, and Safe area.\r\n\r\n[**Dealing with the System UI on iOS in Xamarin.Forms**](https://msicc.net/dealing-with-the-system-ui-on-ios-in-xamarin-forms/) by [Marco Siccardi](https://twitter.com/msicc)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Dg7XtUG",
+              "title": "**Dealing with the System UI on iOS in Xamarin.Forms**",
+              "url_domain": "msicc.net",
+              "url": "https://msicc.net/dealing-with-the-system-ui-on-ios-in-xamarin-forms/"
+            },
+            {
+              "identifier": "MkyHf8V",
+              "title": "Marco Siccardi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/msicc"
+            }
+          ]
+        },
+        {
+          "identifier": "ylrrbYv",
+          "type": "Link",
+          "title": "Drag-and-Drop Support in Xamarin.Forms",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/drag-and-drop-support-in-xamarin-forms-an-overview.aspx",
+          "description": "<p>This article shows you how to add drag-and drop-gesture support to your Xamarin.Forms applications to make your app more user-friendly.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/drag-and-drop-support-in-xamarin-forms-an-overview.aspx\"><strong>Drag-and-Drop Support in Xamarin.Forms: An Overview </strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/thangam-nallasamysyncfusion-com\">Thangam Nallasamy</a></p>",
+          "description_markdown": "This article shows you how to add drag-and drop-gesture support to your Xamarin.Forms applications to make your app more user-friendly.\r\n\r\n[**Drag-and-Drop Support in Xamarin.Forms: An Overview **](https://www.syncfusion.com/blogs/post/drag-and-drop-support-in-xamarin-forms-an-overview.aspx) by [Thangam Nallasamy](https://www.syncfusion.com/blogs/author/thangam-nallasamysyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "yBIr2Ff",
+              "title": "**Drag-and-Drop Support in Xamarin.Forms: An Overview **",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/drag-and-drop-support-in-xamarin-forms-an-overview.aspx"
+            },
+            {
+              "identifier": "JxEBFd5",
+              "title": "Thangam Nallasamy",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/thangam-nallasamysyncfusion-com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "IbF6yRt",
+          "type": "Link",
+          "title": "Exploring the code behind MauiAppBuilder",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/code-behind-mauiappbuilder/",
+          "description": "<p>In this post Luis looks at the code behind MauiApp and MauiAppBuilder, to see how they achieve a simple API, with flexibility and configurability of the Generic Host.</p>\n\n<p><a href=\"https://luismts.com/code-behind-mauiappbuilder/\"><strong>Exploring the code behind MauiAppBuilder</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "In this post Luis looks at the code behind MauiApp and MauiAppBuilder, to see how they achieve a simple API, with flexibility and configurability of the Generic Host.\r\n\r\n[**Exploring the code behind MauiAppBuilder**](https://luismts.com/code-behind-mauiappbuilder/) by [Luis Matos](https://twitter.com/luismatosluna)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "aZPrBzQ",
+              "title": "**Exploring the code behind MauiAppBuilder**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/code-behind-mauiappbuilder/"
+            },
+            {
+              "identifier": "Gu4bIVR",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "OrP6LIL",
+          "type": "Link",
+          "title": "TinyMvvm for .NET MAUI – Preview",
+          "url_domain": "danielhindrikes.se",
+          "url": "https://danielhindrikes.se/index.php/2021/11/16/tinymvvm-for-net-maui-preview/",
+          "description": "<p>Daniel has been working at bringing TinyMvvm to .NET MAUI and now there is a public preview available.</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2021/11/16/tinymvvm-for-net-maui-preview/\"><strong>TinyMvvm for .NET MAUI – Preview</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "Daniel has been working at bringing TinyMvvm to .NET MAUI and now there is a public preview available.\r\n\r\n[**TinyMvvm for .NET MAUI – Preview**](https://danielhindrikes.se/index.php/2021/11/16/tinymvvm-for-net-maui-preview/) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "w0HEZwo",
+              "title": "**TinyMvvm for .NET MAUI – Preview**",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/2021/11/16/tinymvvm-for-net-maui-preview/"
+            },
+            {
+              "identifier": "8OVXtFK",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        },
+        {
+          "identifier": "f3e0KYp",
+          "type": "Link",
+          "title": ".NET MAUI – Blazor – Interop",
+          "url_domain": "egvijayanand.in",
+          "url": "https://egvijayanand.in/2021/11/16/dotnet-maui-blazor-interop/",
+          "description": "<p>This is the 2nd part of Vijay's .NET MAUI Blazor articles, where he talks about sharing data between MAUI and Blazor.</p>\n\n<p><a href=\"https://egvijayanand.in/2021/11/16/dotnet-maui-blazor-interop/\"><strong>.NET MAUI – Blazor – Interop</strong></a> by <a href=\"https://twitter.com/egvijayanand\">Vijay Anand EG</a></p>",
+          "description_markdown": "This is the 2nd part of Vijay's .NET MAUI Blazor articles, where he talks about sharing data between MAUI and Blazor.\r\n\r\n[**.NET MAUI – Blazor – Interop**](https://egvijayanand.in/2021/11/16/dotnet-maui-blazor-interop/) by [Vijay Anand EG](https://twitter.com/egvijayanand)",
+          "embedded_links": [
+            {
+              "identifier": "nobUD5F",
+              "title": "**.NET MAUI – Blazor – Interop**",
+              "url_domain": "egvijayanand.in",
+              "url": "https://egvijayanand.in/2021/11/16/dotnet-maui-blazor-interop/"
+            },
+            {
+              "identifier": "kvJpAlY",
+              "title": "Vijay Anand EG",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/egvijayanand"
+            }
+          ]
+        },
+        {
+          "identifier": "2yxi6Uf",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #33",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-33",
+          "description": "<p>Sam keeps us up to date with all the happenings in MAUI Land.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-33\"><strong>Sands of MAUI: Issue #33</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam keeps us up to date with all the happenings in MAUI Land.\r\n\r\n[**Sands of MAUI: Issue #33**](https://www.telerik.com/blogs/sands-maui-issue-33) by [Sam Basu](https://twitter.com/samidip)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "LSZKkvA",
+              "title": "**Sands of MAUI: Issue #33**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-33"
+            },
+            {
+              "identifier": "2V3aZDn",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "lCDU3Mv",
+          "type": "Link",
+          "title": "Stock Market App for .NET Multi-platform App UI",
+          "url_domain": "devexpress.com",
+          "url": "https://community.devexpress.com/blogs/mobile/archive/2021/10/20/stock-market-app-for-net-multi-platform-app-ui-net-maui-part-1.aspx",
+          "description": "<p>First in a multipart series that demonstrates building an iOS/Android app with .NET MAUI and the DevExpress MAUI UI components. This sample application displays historical stock information (past three months) for companies listed on NASDAQ.</p>\n\n<p><a href=\"https://community.devexpress.com/blogs/mobile/archive/2021/10/20/stock-market-app-for-net-multi-platform-app-ui-net-maui-part-1.aspx\"><strong>Stock Market App for .NET Multi-platform App UI (.NET MAUI) (Part 1)</strong></a> by <a href=\"https://www.devexpress.com/\">DevExpress</a></p>",
+          "description_markdown": "First in a multipart series that demonstrates building an iOS/Android app with .NET MAUI and the DevExpress MAUI UI components. This sample application displays historical stock information (past three months) for companies listed on NASDAQ.\r\n\r\n[**Stock Market App for .NET Multi-platform App UI (.NET MAUI) (Part 1)**](https://community.devexpress.com/blogs/mobile/archive/2021/10/20/stock-market-app-for-net-multi-platform-app-ui-net-maui-part-1.aspx) by [DevExpress](https://www.devexpress.com/)",
+          "embedded_links": [
+            {
+              "identifier": "wVy3rPz",
+              "title": "**Stock Market App for .NET Multi-platform App UI (.NET MAUI) (Part 1)**",
+              "url_domain": "devexpress.com",
+              "url": "https://community.devexpress.com/blogs/mobile/archive/2021/10/20/stock-market-app-for-net-multi-platform-app-ui-net-maui-part-1.aspx"
+            },
+            {
+              "identifier": "qkqBMpa",
+              "title": "DevExpress",
+              "url_domain": "devexpress.com",
+              "url": "https://www.devexpress.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "KpynlsC",
+          "type": "Link",
+          "title": "The .NET MAUI Podcast Episode 101: .NET 6 Is On The Loose",
+          "url_domain": "dotnetmauipodcast.com",
+          "url": "https://www.dotnetmauipodcast.com/101",
+          "description": "<p>James, David, and Matt go over .NET 6 and .NET Conf and all the goodness!</p>\n\n<p><a href=\"https://www.dotnetmauipodcast.com/101\"><strong>The .NET MAUI Podcast Episode 101: .NET 6 Is On The Loose</strong></a> by <a href=\"https://www.dotnetmauipodcast.com/\">.NET MAUI Podcast</a></p>",
+          "description_markdown": "James, David, and Matt go over .NET 6 and .NET Conf and all the goodness!\r\n\r\n[**The .NET MAUI Podcast Episode 101: .NET 6 Is On The Loose**](https://www.dotnetmauipodcast.com/101) by [.NET MAUI Podcast](https://www.dotnetmauipodcast.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "micQTbs",
+              "title": "**The .NET MAUI Podcast Episode 101: .NET 6 Is On The Loose**",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/101"
+            },
+            {
+              "identifier": "aXZxnDr",
+              "title": ".NET MAUI Podcast",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "tgrUwMt",
+          "type": "Link",
+          "title": ".NET MAUI Preview 10 Update: Time For You To Get Started!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=P3VNZNZpMYk",
+          "description": "<p>At .NET Conf they showed off a mind-blowing .NET MAUI app with VS2022, Blazor, SignalR, all the things! In this video I will show you that one and together with that update you about .NET MAUI preview 10 and everything you need to know to get started... Because I think it's about time you get started with it!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=P3VNZNZpMYk\"><strong>.NET MAUI Preview 10 Update: Time For You To Get Started!</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "At .NET Conf they showed off a mind-blowing .NET MAUI app with VS2022, Blazor, SignalR, all the things! In this video I will show you that one and together with that update you about .NET MAUI preview 10 and everything you need to know to get started... Because I think it's about time you get started with it!\r\n\r\n[**.NET MAUI Preview 10 Update: Time For You To Get Started!**](https://www.youtube.com/watch?v=P3VNZNZpMYk) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "zhkeAF9",
+              "title": "**.NET MAUI Preview 10 Update: Time For You To Get Started!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=P3VNZNZpMYk"
+            },
+            {
+              "identifier": "Nk8fdYZ",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "EkNeRin",
+          "type": "Link",
+          "title": "Upload Files to Firebase Storage from a Xamarin.Forms App",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=IsbhleYMpsw",
+          "description": "<p>In this video we will learn about what Firebase Storage is and how we can upload files to it from a Xamarin.Forms app. Or basically any C# based application! We will setup a Firebase project from scratch, touch upon authentication and upload a photo. This is all made very easy with the FirebaseStorage.net library, tune in!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=IsbhleYMpsw\"><strong>Upload Files to Firebase Storage from a Xamarin.Forms App</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "In this video we will learn about what Firebase Storage is and how we can upload files to it from a Xamarin.Forms app. Or basically any C# based application! We will setup a Firebase project from scratch, touch upon authentication and upload a photo. This is all made very easy with the FirebaseStorage.net library, tune in!\r\n\r\n[**Upload Files to Firebase Storage from a Xamarin.Forms App**](https://www.youtube.com/watch?v=IsbhleYMpsw) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "7NBEtll",
+              "title": "**Upload Files to Firebase Storage from a Xamarin.Forms App**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=IsbhleYMpsw"
+            },
+            {
+              "identifier": "5yOyKB8",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "1cb9aIG",
+          "type": "Link",
+          "title": "Merge Conflict: 280: .NET 6 and Visual Studio 2022 are here!",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/280",
+          "description": "<p>We break down the latest in .NET 6, VS 2022, and all of .NET Conf 2021.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/280\"><strong>Merge Conflict: 280: .NET 6 and Visual Studio 2022 are here!</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "We break down the latest in .NET 6, VS 2022, and all of .NET Conf 2021.\r\n\r\n[**Merge Conflict: 280: .NET 6 and Visual Studio 2022 are here!**](https://www.mergeconflict.fm/280) by [Merge Conflict](https://twitter.com/mergeconflictfm)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "cbanSiU",
+              "title": "**Merge Conflict: 280: .NET 6 and Visual Studio 2022 are here!**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/280"
+            },
+            {
+              "identifier": "je6IUxQ",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

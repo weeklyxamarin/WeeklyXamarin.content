@@ -1,0 +1,110 @@
+{
+  "Id": "329",
+  "Name": "Issue 329",
+  "UpdatedTimeStamp": "2021-11-21T09:17:34Z",
+  "Summary": "Time to get started with .NET MAUI development!",
+  "Introduction": "After the huge number of articles last week, I shouldn't be surprised that it's a little quiet around the community. The good news is that you'll have even more time to review this week's articles,  play around with .NET MAUI Preview 10 and the other announcements from dotNetConf. Speaking of great announcements, [UnoConf 2021](https://unoconf.com?utm_source=WeeklyXAM&utm_medium=newsletter&utm_campaign=UnoConf2021) is happening soon, and you should check it out. Take care everyone and have a wonderful week. ♥️ Kym",
+  "PublishDate": "2021-11-21T09:17:33Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Dealing with the System UI on iOS in Xamarin.Forms",
+      "Url": "https://msicc.net/dealing-with-the-system-ui-on-ios-in-xamarin-forms/",
+      "Description": "This post is a great roundup of useful iOS customizations like: Large Page Titles, StatusBar text color, NavigationBar Separator, Home indicator visibility, Home indicator background color, and Safe area.",
+      "EditionId": "329",
+      "Author": "Marco Siccardi",
+      "Id": "329-1",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Drag-and-Drop Support in Xamarin.Forms",
+      "Url": "https://www.syncfusion.com/blogs/post/drag-and-drop-support-in-xamarin-forms-an-overview.aspx",
+      "Description": "This article shows you how to add drag-and drop-gesture support to your Xamarin.Forms applications to make your app more user-friendly.",
+      "EditionId": "329",
+      "Author": "Thangam Nallasamy",
+      "Id": "329-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Exploring the code behind MauiAppBuilder",
+      "Url": "https://luismts.com/code-behind-mauiappbuilder/",
+      "Description": "In this post Luis looks at the code behind MauiApp and MauiAppBuilder, to see how they achieve a simple API, with flexibility and configurability of the Generic Host.",
+      "EditionId": "329",
+      "Author": "Luis Matos",
+      "Id": "329-3",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "TinyMvvm for .NET MAUI – Preview",
+      "Url": "https://danielhindrikes.se/index.php/2021/11/16/tinymvvm-for-net-maui-preview/",
+      "Description": "Daniel has been working at bringing TinyMvvm to .NET MAUI and now there is a public preview available.",
+      "EditionId": "329",
+      "Author": "Daniel Hindrikes",
+      "Id": "329-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI – Blazor – Interop",
+      "Url": "https://egvijayanand.in/2021/11/16/dotnet-maui-blazor-interop/",
+      "Description": "This is the 2nd part of Vijay's .NET MAUI Blazor articles, where he talks about sharing data between MAUI and Blazor.",
+      "EditionId": "329",
+      "Author": "Vijay Anand EG",
+      "Id": "329-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #33",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-33",
+      "Description": "Sam keeps us up to date with all the happenings in MAUI Land.",
+      "EditionId": "329",
+      "Author": "Sam Basu",
+      "Id": "329-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Stock Market App for .NET Multi-platform App UI",
+      "Url": "https://community.devexpress.com/blogs/mobile/archive/2021/10/20/stock-market-app-for-net-multi-platform-app-ui-net-maui-part-1.aspx",
+      "Description": "First in a multipart series that demonstrates building an iOS/Android app with .NET MAUI and the DevExpress MAUI UI components. This sample application displays historical stock information (past three months) for companies listed on NASDAQ.",
+      "EditionId": "329",
+      "Author": "DevExpress",
+      "Id": "329-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "The .NET MAUI Podcast Episode 101: .NET 6 Is On The Loose",
+      "Url": "https://www.dotnetmauipodcast.com/101",
+      "Description": "James, David, and Matt go over .NET 6 and .NET Conf and all the goodness!",
+      "EditionId": "329",
+      "Author": ".NET MAUI Podcast",
+      "Id": "329-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Preview 10 Update: Time For You To Get Started!",
+      "Url": "https://www.youtube.com/watch?v=P3VNZNZpMYk",
+      "Description": "At .NET Conf they showed off a mind-blowing .NET MAUI app with VS2022, Blazor, SignalR, all the things! In this video I will show you that one and together with that update you about .NET MAUI preview 10 and everything you need to know to get started... Because I think it's about time you get started with it!",
+      "EditionId": "329",
+      "Author": "Gerald Versluis",
+      "Id": "329-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Upload Files to Firebase Storage from a Xamarin.Forms App",
+      "Url": "https://www.youtube.com/watch?v=IsbhleYMpsw",
+      "Description": "In this video we will learn about what Firebase Storage is and how we can upload files to it from a Xamarin.Forms app. Or basically any C# based application! We will setup a Firebase project from scratch, touch upon authentication and upload a photo. This is all made very easy with the FirebaseStorage.net library, tune in!",
+      "EditionId": "329",
+      "Author": "Gerald Versluis",
+      "Id": "329-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 280: .NET 6 and Visual Studio 2022 are here!",
+      "Url": "https://www.mergeconflict.fm/280",
+      "Description": "We break down the latest in .NET 6, VS 2022, and all of .NET Conf 2021.",
+      "EditionId": "329",
+      "Author": "Merge Conflict",
+      "Id": "329-11",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

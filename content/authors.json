@@ -2813,6 +2813,16 @@
       ]
     },
     {
+      "Name": "Thangam Nallasamy",
+      "Id": "b11ea053-48e4-4e38-931f-a458610a5d1a",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.syncfusion.com/blogs/author/thangam-nallasamysyncfusion-com"
+        }
+      ]
+    },
+    {
       "Name": "The .NET Show with Carl Franklin",
       "Id": "0eeac391-6e8d-4e4a-be01-62817f774a85",
       "Aliases": [

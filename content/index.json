@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "329",
+      "Name": "Issue 329",
+      "UpdatedTimeStamp": "2021-11-21T09:17:34Z",
+      "Summary": "Time to get started with .NET MAUI development!",
+      "PublishDate": "2021-11-21T09:17:33Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "328",
       "Name": "Issue 328",
       "UpdatedTimeStamp": "2021-11-14T10:39:40Z",
