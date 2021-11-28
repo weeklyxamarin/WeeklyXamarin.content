@@ -1,0 +1,256 @@
+{
+  "number": 330,
+  "title": "Issue 330",
+  "summary": "Happy Thanksgiving!",
+  "url": "https://weeklyxamarin.com/issues/330",
+  "publication_status": "published",
+  "published_at": "2021-11-28T13:25:44+00:00",
+  "updated_at": "2021-11-28T13:25:46+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>Here in Australia we don't celebrate Thanksgiving, however, to all of you who do celebrate such things we hope you had a relaxcing and wonderful time with your family and friends.</p>\n\n<p>Also, please check out UnoConf which is right around the corner, but in the meantime, enjoy this weeks edition.</p>\n\n<p>♥️</p>\n\n<p>Kym</p>",
+          "description_markdown": "Here in Australia we don't celebrate Thanksgiving, however, to all of you who do celebrate such things we hope you had a relaxcing and wonderful time with your family and friends.\r\n\r\nAlso, please check out UnoConf which is right around the corner, but in the meantime, enjoy this weeks edition.\r\n\r\n♥️\r\n\r\nKym ",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "sponsored",
+      "name": "SPONSORED LINK",
+      "items": [
+        {
+          "identifier": "MwZIcLO",
+          "type": "Link",
+          "title": "UnoConf 2021 – Where .NET 6, WinUI and Uno Platform meet",
+          "url_domain": "unoconf.com",
+          "url": "https://unoconf.com?utm_source=WeeklyXAM&utm_medium=newsletter&utm_campaign=UnoConf2021",
+          "description": "<p>Uno Platform’s annual conference - UnoConf - is back this Nov 30th. We’re giving you free access to come join Uno Platform core team and contributors as we share our newest release, 2022 roadmap and best practices for building same-codebase, multiplatform applications with Uno Platform. Don’t miss out, save your spot!</p>",
+          "description_markdown": "Uno Platform’s annual conference - UnoConf - is back this Nov 30th. We’re giving you free access to come join Uno Platform core team and contributors as we share our newest release, 2022 roadmap and best practices for building same-codebase, multiplatform applications with Uno Platform. Don’t miss out, save your spot!",
+          "embedded_links": [
+
+          ],
+          "image_original_filename": "8b8c9b04-5625-48a7-9f78-9cad04e43a1b.png",
+          "image_extra_large_filename": "original_ratio_extra_large_8b8c9b04-5625-48a7-9f78-9cad04e43a1b.png",
+          "image_medium_filename": "original_ratio_medium_8b8c9b04-5625-48a7-9f78-9cad04e43a1b.png"
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "zwEc83",
+          "type": "Link",
+          "title": "Integrating App Linking in a Xamarin app for Android",
+          "url_domain": "dev.to",
+          "url": "https://dev.to/devwithzachary/integrating-app-linking-in-a-xamarin-app-for-android-1l9d",
+          "description": "<p>This article looks at how to combine App Linking and App Gallery Connect within Xamarin Android.</p>\n\n<p><a href=\"https://dev.to/devwithzachary/integrating-app-linking-in-a-xamarin-app-for-android-1l9d\"><strong>Integrating App Linking in a Xamarin app for Android</strong></a> by <a href=\"https://twitter.com/AppgalleryC\">Zachary Powell</a></p>",
+          "description_markdown": "This article looks at how to combine App Linking and App Gallery Connect within Xamarin Android.\r\n\r\n[**Integrating App Linking in a Xamarin app for Android**](https://dev.to/devwithzachary/integrating-app-linking-in-a-xamarin-app-for-android-1l9d) by [Zachary Powell](https://twitter.com/AppgalleryC)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "iB02oOM",
+              "title": "**Integrating App Linking in a Xamarin app for Android**",
+              "url_domain": "dev.to",
+              "url": "https://dev.to/devwithzachary/integrating-app-linking-in-a-xamarin-app-for-android-1l9d"
+            },
+            {
+              "identifier": "9WU7Gko",
+              "title": "Zachary Powell",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/AppgalleryC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "cyWzSy7",
+          "type": "Link",
+          "title": " Xamarin Community Toolkit Succinctly Author Alessandro Del Sole ",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/interview-with-xamarin-community-toolkit-succinctly-author-alessandro-del-sole.aspx",
+          "description": "<p>This is a brief interview with author Alessandro Del Sole, whose book Xamarin Community Toolkit Succinctly was recently published. You can download the book from the Syncfusion ebook portal.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/interview-with-xamarin-community-toolkit-succinctly-author-alessandro-del-sole.aspx\"><strong>Interview with Xamarin Community Toolkit Succinctly Author Alessandro Del Sole</strong></a> by <a href=\"https://twitter.com/progalex\">Alessandro Del Sole</a></p>",
+          "description_markdown": "This is a brief interview with author Alessandro Del Sole, whose book Xamarin Community Toolkit Succinctly was recently published. You can download the book from the Syncfusion ebook portal.\r\n\r\n[**Interview with Xamarin Community Toolkit Succinctly Author Alessandro Del Sole**](https://www.syncfusion.com/blogs/post/interview-with-xamarin-community-toolkit-succinctly-author-alessandro-del-sole.aspx) by [Alessandro Del Sole](https://twitter.com/progalex)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "BvUTYIU",
+              "title": "**Interview with Xamarin Community Toolkit Succinctly Author Alessandro Del Sole**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/interview-with-xamarin-community-toolkit-succinctly-author-alessandro-del-sole.aspx"
+            },
+            {
+              "identifier": "dVKmdxQ",
+              "title": "Alessandro Del Sole",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/progalex"
+            }
+          ]
+        },
+        {
+          "identifier": "hnLeeUt",
+          "type": "Link",
+          "title": "Validation using Xamarin Community Toolkit Part 2",
+          "url_domain": "blogspot.com",
+          "url": "https://xamarinmonkeys.blogspot.com/2021/11/xamarinforms-validation-using-xamarin_25.html",
+          "description": "<p>Additional validation options using Xamarin Community Toolkit in Xamarin.Forms</p>\n\n<p><a href=\"https://xamarinmonkeys.blogspot.com/2021/11/xamarinforms-validation-using-xamarin_25.html\"><strong>Xamarin.Forms - Validation using Xamarin Community Toolkit Part 2</strong></a> by <a href=\"https://twitter.com/susairajs18\">Delpin Susai Raj</a></p>",
+          "description_markdown": "Additional validation options using Xamarin Community Toolkit in Xamarin.Forms\r\n\r\n[**Xamarin.Forms - Validation using Xamarin Community Toolkit Part 2**](https://xamarinmonkeys.blogspot.com/2021/11/xamarinforms-validation-using-xamarin_25.html) by [Delpin Susai Raj](https://twitter.com/susairajs18)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "C8L9eFP",
+              "title": "**Xamarin.Forms - Validation using Xamarin Community Toolkit Part 2**",
+              "url_domain": "blogspot.com",
+              "url": "https://xamarinmonkeys.blogspot.com/2021/11/xamarinforms-validation-using-xamarin_25.html"
+            },
+            {
+              "identifier": "b9WCxgK",
+              "title": "Delpin Susai Raj",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/susairajs18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "UedfFYg",
+          "type": "Link",
+          "title": "First iOS, Android and Windows Mobile App using Visual studio 2022",
+          "url_domain": "msdevbuild.com",
+          "url": "https://www.msdevbuild.com/2021/11/First-Xamarin-MAUI-Mobile-App-Ios-android-windwos-visual-studio-2022.html",
+          "description": "<p>This post covers creating, building and debugging your First MAUI application using Visual Studio 2022.</p>\n\n<p><a href=\"https://www.msdevbuild.com/2021/11/First-Xamarin-MAUI-Mobile-App-Ios-android-windwos-visual-studio-2022.html\"><strong>Xamarin MAUI: First iOS, Android and Windows Mobile App using Visual studio 2022</strong></a> by <a href=\"https://twitter.com/jssuthahar\">Suthahar Jegatheesan</a></p>",
+          "description_markdown": "This post covers creating, building and debugging your First MAUI application using Visual Studio 2022.\r\n\r\n[**Xamarin MAUI: First iOS, Android and Windows Mobile App using Visual studio 2022**](https://www.msdevbuild.com/2021/11/First-Xamarin-MAUI-Mobile-App-Ios-android-windwos-visual-studio-2022.html) by [Suthahar Jegatheesan](https://twitter.com/jssuthahar)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "xNUksAq",
+              "title": "**Xamarin MAUI: First iOS, Android and Windows Mobile App using Visual studio 2022**",
+              "url_domain": "msdevbuild.com",
+              "url": "https://www.msdevbuild.com/2021/11/First-Xamarin-MAUI-Mobile-App-Ios-android-windwos-visual-studio-2022.html"
+            },
+            {
+              "identifier": "xVhqxFs",
+              "title": "Suthahar Jegatheesan",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jssuthahar"
+            }
+          ]
+        },
+        {
+          "identifier": "qUOVjxD",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #34",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-34",
+          "description": "<p>A wrap-up of the week's happenings over in MAUI world.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-34\"><strong>Sands of MAUI: Issue #34</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "A wrap-up of the week's happenings over in MAUI world.\r\n\r\n[**Sands of MAUI: Issue #34**](https://www.telerik.com/blogs/sands-maui-issue-34) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "ARWKqPM",
+              "title": "**Sands of MAUI: Issue #34**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-34"
+            },
+            {
+              "identifier": "gT2eVMu",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "dXQmmsN",
+          "type": "Link",
+          "title": ".NET Conf 2021: Updates in .NET MAUI",
+          "url_domain": "xablu.com",
+          "url": "https://www.xablu.com/2021/11/24/net-conf-2021-updates-in-net-maui/",
+          "description": "<p>Sabastian covers some of the MAUI sessions that surfaced at .NET Conf.</p>\n\n<p><a href=\"https://www.xablu.com/2021/11/24/net-conf-2021-updates-in-net-maui/\"><strong>.NET Conf 2021: Updates in .NET MAUI - XABLU</strong></a> by <a href=\"https://twitter.com/xabluhq\">Sebastián Pérez</a></p>",
+          "description_markdown": "Sabastian covers some of the MAUI sessions that surfaced at .NET Conf.\r\n\r\n[**.NET Conf 2021: Updates in .NET MAUI - XABLU**](https://www.xablu.com/2021/11/24/net-conf-2021-updates-in-net-maui/) by [Sebastián Pérez](https://twitter.com/xabluhq)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "bQnwrNI",
+              "title": "**.NET Conf 2021: Updates in .NET MAUI - XABLU**",
+              "url_domain": "xablu.com",
+              "url": "https://www.xablu.com/2021/11/24/net-conf-2021-updates-in-net-maui/"
+            },
+            {
+              "identifier": "rFq3yUS",
+              "title": "Sebastián Pérez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/xabluhq"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "YjxlwiQ",
+          "type": "Link",
+          "title": "Merge Conflict: 281: C# 10, .NET MAUI, Blazor Hybrid, and more!",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/281",
+          "description": "<p>.NET Conf is over and we get hands on with live .NET 6 bits and get excited about all sorts of new features! We cover all sorts of goodies in this lighting topic podcast.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/281\"><strong>Merge Conflict: 281: C# 10, .NET MAUI, Blazor Hybrid, and more!</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": ".NET Conf is over and we get hands on with live .NET 6 bits and get excited about all sorts of new features! We cover all sorts of goodies in this lighting topic podcast.\r\n\r\n[**Merge Conflict: 281: C# 10, .NET MAUI, Blazor Hybrid, and more!**](https://www.mergeconflict.fm/281) by [Merge Conflict](https://twitter.com/mergeconflictfm)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "YgE66EV",
+              "title": "**Merge Conflict: 281: C# 10, .NET MAUI, Blazor Hybrid, and more!**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/281"
+            },
+            {
+              "identifier": "arouFtt",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "12mCLPo",
+          "type": "Link",
+          "title": "Null Pointers 75: .NET Conf Updates",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/75/",
+          "description": "<p>So .NET Conf happened a few days ago. Steven visited a conference in person. So perfect time to look at all the new shiny stuff that just was released.</p>\n\n<p><a href=\"https://nullpointers.io/75/\"><strong>75: .NET Conf Updates</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "So .NET Conf happened a few days ago. Steven visited a conference in person. So perfect time to look at all the new shiny stuff that just was released.\r\n\r\n[**75: .NET Conf Updates**](https://nullpointers.io/75/) by [Null Pointers](https://twitter.com/nullpointersio)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "WWobra4",
+              "title": "**75: .NET Conf Updates**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/75/"
+            },
+            {
+              "identifier": "AD6Royg",
+              "title": "Null Pointers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

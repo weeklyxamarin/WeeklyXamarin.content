@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "330",
+      "Name": "Issue 330",
+      "UpdatedTimeStamp": "2021-11-28T13:25:46Z",
+      "Summary": "Happy Thanksgiving!",
+      "PublishDate": "2021-11-28T13:25:44Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "329",
       "Name": "Issue 329",
       "UpdatedTimeStamp": "2021-11-21T09:17:34Z",

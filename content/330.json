@@ -1,0 +1,83 @@
+{
+  "Id": "330",
+  "Name": "Issue 330",
+  "UpdatedTimeStamp": "2021-11-28T13:25:46Z",
+  "Summary": "Happy Thanksgiving!",
+  "Introduction": "Here in Australia we don't celebrate Thanksgiving, however, to all of you who do celebrate such things we hope you had a relaxcing and wonderful time with your family and friends. Also, please check out UnoConf which is right around the corner, but in the meantime, enjoy this weeks edition. ♥️ Kym",
+  "PublishDate": "2021-11-28T13:25:44Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Integrating App Linking in a Xamarin app for Android",
+      "Url": "https://dev.to/devwithzachary/integrating-app-linking-in-a-xamarin-app-for-android-1l9d",
+      "Description": "This article looks at how to combine App Linking and App Gallery Connect within Xamarin Android.",
+      "EditionId": "330",
+      "Author": "Zachary Powell",
+      "Id": "330-1",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": " Xamarin Community Toolkit Succinctly Author Alessandro Del Sole ",
+      "Url": "https://www.syncfusion.com/blogs/post/interview-with-xamarin-community-toolkit-succinctly-author-alessandro-del-sole.aspx",
+      "Description": "This is a brief interview with author Alessandro Del Sole, whose book Xamarin Community Toolkit Succinctly was recently published. You can download the book from the Syncfusion ebook portal.",
+      "EditionId": "330",
+      "Author": "Alessandro Del Sole",
+      "Id": "330-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Validation using Xamarin Community Toolkit Part 2",
+      "Url": "https://xamarinmonkeys.blogspot.com/2021/11/xamarinforms-validation-using-xamarin_25.html",
+      "Description": "Additional validation options using Xamarin Community Toolkit in Xamarin.Forms",
+      "EditionId": "330",
+      "Author": "Delpin Susai Raj",
+      "Id": "330-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "First iOS, Android and Windows Mobile App using Visual studio 2022",
+      "Url": "https://www.msdevbuild.com/2021/11/First-Xamarin-MAUI-Mobile-App-Ios-android-windwos-visual-studio-2022.html",
+      "Description": "This post covers creating, building and debugging your First MAUI application using Visual Studio 2022.",
+      "EditionId": "330",
+      "Author": "Suthahar Jegatheesan",
+      "Id": "330-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #34",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-34",
+      "Description": "A wrap-up of the week's happenings over in MAUI world.",
+      "EditionId": "330",
+      "Author": "Sam Basu",
+      "Id": "330-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET Conf 2021: Updates in .NET MAUI",
+      "Url": "https://www.xablu.com/2021/11/24/net-conf-2021-updates-in-net-maui/",
+      "Description": "Sabastian covers some of the MAUI sessions that surfaced at .NET Conf.",
+      "EditionId": "330",
+      "Author": "Sebastián Pérez",
+      "Id": "330-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Merge Conflict: 281: C# 10, .NET MAUI, Blazor Hybrid, and more!",
+      "Url": "https://www.mergeconflict.fm/281",
+      "Description": ".NET Conf is over and we get hands on with live .NET 6 bits and get excited about all sorts of new features! We cover all sorts of goodies in this lighting topic podcast.",
+      "EditionId": "330",
+      "Author": "Merge Conflict",
+      "Id": "330-7",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 75: .NET Conf Updates",
+      "Url": "https://nullpointers.io/75/",
+      "Description": "So .NET Conf happened a few days ago. Steven visited a conference in person. So perfect time to look at all the new shiny stuff that just was released.",
+      "EditionId": "330",
+      "Author": "Null Pointers",
+      "Id": "330-8",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
