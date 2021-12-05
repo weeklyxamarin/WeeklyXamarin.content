@@ -2065,6 +2065,16 @@
       ]
     },
     {
+      "Name": "Monkey Conf",
+      "Id": "baa1a947-47d9-4b20-a3f9-2262315179c6",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.youtube.com/channel/uccmlmbtmv2mlscc-3fq0lug"
+        }
+      ]
+    },
+    {
       "Name": "Mvvmcross",
       "Id": "4d968d58-97ea-40fb-ac71-b7f89f2be2f7",
       "Aliases": [

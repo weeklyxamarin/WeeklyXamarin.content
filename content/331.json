@@ -1,0 +1,128 @@
+{
+  "Id": "331",
+  "Name": "Issue 331",
+  "UpdatedTimeStamp": "2021-12-05T12:22:31Z",
+  "Summary": "Even moar .NET Conf!",
+  "Introduction": "G'day everyone, welcome to issue #331 of Weekly Xamarin - a weekly overview of what happened this past week in the Xamarin and MAUI communities. This week we are still going through recaps of .NET Conf, which is understandable given of all the amazing content. There are also some interesting community standups to catchup with. It's December people! Where does the year go? ❤ Kym",
+  "PublishDate": "2021-12-05T12:22:28Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Catchup with all the latest happenings in .NET, C#, Xamarin, MAUI and Blazor",
+      "Url": "https://kymphillpotts.com/dotnetconf-recap.html",
+      "Description": "This post is a good set of links for content to investigate for Xamarin, Blazor and Maui developers to catchup on all the happenings. For those of you who don’t want to sit through hours of videos, I have watched the sessions and linked the resources so you don’t have to.",
+      "EditionId": "331",
+      "Author": "Kym Phillpotts",
+      "Id": "331-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": ".NET Conf 2021 Recap - Videos, Slides, Demos, and More",
+      "Url": "https://devblogs.microsoft.com/dotnet/net-conf-2021-recap-videos-slides-demos-and-more",
+      "Description": ".NET Conf 2021 is over, but you can re-live the largest .NET event of the year with full access to video recordings, slides, demos, and more.",
+      "EditionId": "331",
+      "Author": "James Montemagno",
+      "Id": "331-2",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Using Charles Proxy with Xamarin.Android",
+      "Url": "https://blog.ostebaronen.dk/2021/11/charles-proxy-and-xamarin-android.html",
+      "Description": "Need to debug network in your Apps? Charles Proxy is an excellent application which can help you out.",
+      "EditionId": "331",
+      "Author": "Tomasz Cielecki",
+      "Id": "331-3",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Compile XAML without code behind in Xamarin.Forms",
+      "Url": "https://msicc.net/xfqad-compile-xaml-without-code-behind-in-xamarin-forms/",
+      "Description": "Marco shows how to have XAML files without code behind in Xamarin.Forms.",
+      "EditionId": "331",
+      "Author": "Marco Siccardi",
+      "Id": "331-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Building a middleware pipeline with MauiApp",
+      "Url": "https://luismts.com/mauiapp-middleware-pipeline/",
+      "Description": "In this post, we look at a bit of the code behind MauiApp and focus on how the middleware and endpoints are configured.",
+      "EditionId": "331",
+      "Author": "Luis Matos",
+      "Id": "331-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #35",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-35",
+      "Description": "Sam gives us his great weekly wrap-up of MAUI news.",
+      "EditionId": "331",
+      "Author": "Sam Basu",
+      "Id": "331-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Community Standup - .NET Conf Recap and .NET MAUI Updates",
+      "Url": "https://www.youtube.com/watch?v=RwMCz7ErOHI",
+      "Description": "Join Maddy, David, and special guests from the .NET MAUI team to recap .NET Conf and hear about the latest and greatest .NET MAUI previews!",
+      "EditionId": "331",
+      "Author": "Xamarin Developers",
+      "Id": "331-7",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Toolkit, Monthly Standup (December)",
+      "Url": "https://www.youtube.com/watch?v=JgRCbWTop64",
+      "Description": "Join the maintainers of the .NET MAUI Community Toolkit as they review the updates from last month!",
+      "EditionId": "331",
+      "Author": ".NET Foundation",
+      "Id": "331-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Monkey Conf 2021 Sessions",
+      "Url": "https://www.youtube.com/watch?v=2d0FiNIDRPA",
+      "Description": "Monkey Conf is a .NET related event, the biggest held in Spain. Even though the event is oriented to .NET, all the talks were about mobile: Xamarin and .NET MAUI. Most of the talks are in Spanish, but the content is great, so if you don't speak Spanish flick on those translations.",
+      "EditionId": "331",
+      "Author": "Monkey Conf",
+      "Id": "331-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "What's new in C# 10? Goodbye using statements",
+      "Url": "https://www.youtube.com/watch?v=GzaWj41Qvko",
+      "Description": "James breaks down his favorite C# 10 features that you will actually use every day when developing apps with .NET 6.",
+      "EditionId": "331",
+      "Author": "James Montemagno",
+      "Id": "331-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The .NET MAUI Podcast Episode 102: M365 Admin App",
+      "Url": "https://www.dotnetmauipodcast.com/102",
+      "Description": "Listen how the M365 team created an app that allows you to administer your tenant on the go!",
+      "EditionId": "331",
+      "Author": ".NET MAUI Podcast",
+      "Id": "331-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI: Customize Controls with Handlers and Mappers",
+      "Url": "https://www.youtube.com/watch?v=k6Zk3Ho8YNw",
+      "Description": "Customizing controls has become a lot easier with .NET MAUI if we compare to Xamarin.Forms. No more custom renderers, just a few lines of code (either PrependToMapper, ModifyMapper or AppendToMapper) to our handlers and mappers and we're good to go. In this video I will show you the (updated) code on how to do just that and show you how we customize the Entry on Android to remove the underline.",
+      "EditionId": "331",
+      "Author": "Gerald Versluis",
+      "Id": "331-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 282: Automating Protocols",
+      "Url": "https://www.mergeconflict.fm/282",
+      "Description": "Custom schemes, http schemes, protocols, they are a pain to develop for, but are so powerful! After years of using them, we finally figured out how to automate it and we have a lot of ideas!",
+      "EditionId": "331",
+      "Author": "Merge Conflict",
+      "Id": "331-13",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

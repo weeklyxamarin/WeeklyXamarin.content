@@ -1,0 +1,356 @@
+{
+  "number": 331,
+  "title": "Issue 331",
+  "summary": "Even moar .NET Conf!",
+  "url": "https://weeklyxamarin.com/issues/331",
+  "publication_status": "published",
+  "published_at": "2021-12-05T12:22:28+00:00",
+  "updated_at": "2021-12-05T12:22:31+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #331 of Weekly Xamarin - a weekly overview of what happened this past week in the Xamarin and MAUI communities.</p>\n\n<p>This week we are still going through recaps of .NET Conf, which is understandable given of all the amazing content. There are also some interesting community standups to catchup with.</p>\n\n<p>It's December people! Where does the year go?</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #331 of Weekly Xamarin - a weekly overview of what happened this past week in the Xamarin and MAUI communities.\r\n\r\nThis week we are still going through recaps of .NET Conf, which is understandable given of all the amazing content. There are also some interesting community standups to catchup with.\r\n\r\nIt's December people! Where does the year go?\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "5XN4Sbq",
+          "type": "Link",
+          "title": "Catchup with all the latest happenings in .NET, C#, Xamarin, MAUI and Blazor",
+          "url_domain": "kymphillpotts.com",
+          "url": "https://kymphillpotts.com/dotnetconf-recap.html",
+          "description": "<p>This post is a good set of links for content to investigate for Xamarin, Blazor and Maui developers to catchup on all the happenings. For those of you who don’t want to sit through hours of videos, I have watched the sessions and linked the resources so you don’t have to.</p>\n\n<p><a href=\"https://kymphillpotts.com/dotnetconf-recap.html\"><strong>.NET Conf recap</strong></a> by <a href=\"https://twitter.com/kphillpotts\">Kym Phillpotts</a></p>",
+          "description_markdown": "This post is a good set of links for content to investigate for Xamarin, Blazor and Maui developers to catchup on all the happenings. For those of you who don’t want to sit through hours of videos, I have watched the sessions and linked the resources so you don’t have to.\r\n\r\n[**.NET Conf recap**](https://kymphillpotts.com/dotnetconf-recap.html) by [Kym Phillpotts](https://twitter.com/kphillpotts)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "1wqmVwm",
+              "title": "**.NET Conf recap**",
+              "url_domain": "kymphillpotts.com",
+              "url": "https://kymphillpotts.com/dotnetconf-recap.html"
+            },
+            {
+              "identifier": "D65rU6t",
+              "title": "Kym Phillpotts",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kphillpotts"
+            }
+          ]
+        },
+        {
+          "identifier": "rGFdl9R",
+          "type": "Link",
+          "title": ".NET Conf 2021 Recap - Videos, Slides, Demos, and More",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/net-conf-2021-recap-videos-slides-demos-and-more",
+          "description": "<p>.NET Conf 2021 is over, but you can re-live the largest .NET event of the year with full access to video recordings, slides, demos, and more.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/net-conf-2021-recap-videos-slides-demos-and-more\"><strong>.NET Conf 2021 Recap - Videos, Slides, Demos, and More</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": ".NET Conf 2021 is over, but you can re-live the largest .NET event of the year with full access to video recordings, slides, demos, and more.\r\n\r\n[**.NET Conf 2021 Recap - Videos, Slides, Demos, and More**](https://devblogs.microsoft.com/dotnet/net-conf-2021-recap-videos-slides-demos-and-more) by [James Montemagno](https://twitter.com/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "6uDSrZ2",
+              "title": "**.NET Conf 2021 Recap - Videos, Slides, Demos, and More**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/net-conf-2021-recap-videos-slides-demos-and-more"
+            },
+            {
+              "identifier": "VMI2EZo",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "qTQT6hF",
+          "type": "Link",
+          "title": "Using Charles Proxy with Xamarin.Android",
+          "url_domain": "ostebaronen.dk",
+          "url": "https://blog.ostebaronen.dk/2021/11/charles-proxy-and-xamarin-android.html",
+          "description": "<p>Need to debug network in your Apps? Charles Proxy is an excellent application which can help you out.</p>\n\n<p><a href=\"https://blog.ostebaronen.dk/2021/11/charles-proxy-and-xamarin-android.html\"><strong>Using Charles Proxy with Xamarin.Android</strong></a> by <a href=\"https://twitter.com/cheesebaron\">Tomasz Cielecki</a></p>",
+          "description_markdown": "Need to debug network in your Apps? Charles Proxy is an excellent application which can help you out.\r\n\r\n[**Using Charles Proxy with Xamarin.Android**](https://blog.ostebaronen.dk/2021/11/charles-proxy-and-xamarin-android.html) by [Tomasz Cielecki](https://twitter.com/cheesebaron)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "G2LvWkA",
+              "title": "**Using Charles Proxy with Xamarin.Android**",
+              "url_domain": "ostebaronen.dk",
+              "url": "https://blog.ostebaronen.dk/2021/11/charles-proxy-and-xamarin-android.html"
+            },
+            {
+              "identifier": "41eNXbi",
+              "title": "Tomasz Cielecki",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/cheesebaron"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "qixcwXC",
+          "type": "Link",
+          "title": "Compile XAML without code behind in Xamarin.Forms",
+          "url_domain": "msicc.net",
+          "url": "https://msicc.net/xfqad-compile-xaml-without-code-behind-in-xamarin-forms/",
+          "description": "<p>Marco shows how to have XAML files without code behind in Xamarin.Forms.</p>\n\n<p><a href=\"https://msicc.net/xfqad-compile-xaml-without-code-behind-in-xamarin-forms/\"><strong>Compile XAML without code behind in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/msicc\">Marco Siccardi</a></p>",
+          "description_markdown": "Marco shows how to have XAML files without code behind in Xamarin.Forms.\r\n\r\n[**Compile XAML without code behind in Xamarin.Forms**](https://msicc.net/xfqad-compile-xaml-without-code-behind-in-xamarin-forms/) by [Marco Siccardi](https://twitter.com/msicc)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "e1pguf2",
+              "title": "**Compile XAML without code behind in Xamarin.Forms**",
+              "url_domain": "msicc.net",
+              "url": "https://msicc.net/xfqad-compile-xaml-without-code-behind-in-xamarin-forms/"
+            },
+            {
+              "identifier": "upKH2vg",
+              "title": "Marco Siccardi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/msicc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "aQQJbp6",
+          "type": "Link",
+          "title": "Building a middleware pipeline with MauiApp",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/mauiapp-middleware-pipeline/",
+          "description": "<p>In this post, we look at a bit of the code behind MauiApp and focus on how the middleware and endpoints are configured.</p>\n\n<p><a href=\"https://luismts.com/mauiapp-middleware-pipeline/\"><strong>Building a middleware pipeline with MauiApp</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "In this post, we look at a bit of the code behind MauiApp and focus on how the middleware and endpoints are configured.\r\n\r\n[**Building a middleware pipeline with MauiApp**](https://luismts.com/mauiapp-middleware-pipeline/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "9KmXJi",
+              "title": "**Building a middleware pipeline with MauiApp**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/mauiapp-middleware-pipeline/"
+            },
+            {
+              "identifier": "ILUcJ9y",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "UjK0Hho",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #35",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-35",
+          "description": "<p>Sam gives us his great weekly wrap-up of MAUI news.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-35\"><strong>Sands of MAUI: Issue #35</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam gives us his great weekly wrap-up of MAUI news.\r\n\r\n[**Sands of MAUI: Issue #35**](https://www.telerik.com/blogs/sands-maui-issue-35) by [Sam Basu](https://twitter.com/samidip)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "OMDQGMj",
+              "title": "**Sands of MAUI: Issue #35**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-35"
+            },
+            {
+              "identifier": "5fRihoe",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "GX5MRep",
+          "type": "Link",
+          "title": ".NET MAUI Community Standup - .NET Conf Recap and .NET MAUI Updates",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=RwMCz7ErOHI",
+          "description": "<p>Join Maddy, David, and special guests from the .NET MAUI team to recap .NET Conf and hear about the latest and greatest .NET MAUI previews!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=RwMCz7ErOHI\"><strong>.NET MAUI Community Standup - .NET Conf Recap and .NET MAUI Updates</strong></a> by <a href=\"https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg\">Xamarin Developers</a></p>",
+          "description_markdown": "Join Maddy, David, and special guests from the .NET MAUI team to recap .NET Conf and hear about the latest and greatest .NET MAUI previews!\r\n\r\n[**.NET MAUI Community Standup - .NET Conf Recap and .NET MAUI Updates**](https://www.youtube.com/watch?v=RwMCz7ErOHI) by [Xamarin Developers](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "q4e0pmA",
+              "title": "**.NET MAUI Community Standup - .NET Conf Recap and .NET MAUI Updates**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=RwMCz7ErOHI"
+            },
+            {
+              "identifier": "G5Wlupp",
+              "title": "Xamarin Developers",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg"
+            }
+          ]
+        },
+        {
+          "identifier": "t8CtIPb",
+          "type": "Link",
+          "title": ".NET MAUI Community Toolkit, Monthly Standup (December)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=JgRCbWTop64",
+          "description": "<p>Join the maintainers of the .NET MAUI Community Toolkit as they review the updates from last month!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=JgRCbWTop64\"><strong>.NET MAUI Community Toolkit, Monthly Standup (December)</strong></a> by <a href=\"https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A\">.NET Foundation</a></p>",
+          "description_markdown": "Join the maintainers of the .NET MAUI Community Toolkit as they review the updates from last month!\r\n\r\n[**.NET MAUI Community Toolkit, Monthly Standup (December)**](https://www.youtube.com/watch?v=JgRCbWTop64) by [.NET Foundation](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "sS2ArnI",
+              "title": "**.NET MAUI Community Toolkit, Monthly Standup (December)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=JgRCbWTop64"
+            },
+            {
+              "identifier": "wbELVCc",
+              "title": ".NET Foundation",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A"
+            }
+          ]
+        },
+        {
+          "identifier": "H0Yq2im",
+          "type": "Link",
+          "title": "Monkey Conf 2021 Sessions",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=2d0FiNIDRPA",
+          "description": "<p>Monkey Conf is a .NET related event, the biggest held in Spain. Even though the event is oriented to .NET, all the talks were about mobile: Xamarin and .NET MAUI. Most of the talks are in Spanish, but the content is great, so if you don't speak Spanish flick on those translations.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=2d0FiNIDRPA\"><strong>Monkey Conf 2021</strong></a> by <a href=\"https://www.youtube.com/channel/UCCmLmBtMV2MlSCC-3fq0LUg\">Monkey Conf</a></p>",
+          "description_markdown": "Monkey Conf is a .NET related event, the biggest held in Spain. Even though the event is oriented to .NET, all the talks were about mobile: Xamarin and .NET MAUI. Most of the talks are in Spanish, but the content is great, so if you don't speak Spanish flick on those translations.\r\n\r\n[**Monkey Conf 2021**](https://www.youtube.com/watch?v=2d0FiNIDRPA) by [Monkey Conf](https://www.youtube.com/channel/UCCmLmBtMV2MlSCC-3fq0LUg)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "LHogN66",
+              "title": "**Monkey Conf 2021**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=2d0FiNIDRPA"
+            },
+            {
+              "identifier": "C8cXX6E",
+              "title": "Monkey Conf",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCCmLmBtMV2MlSCC-3fq0LUg"
+            }
+          ]
+        },
+        {
+          "identifier": "NZOQuet",
+          "type": "Link",
+          "title": "What's new in C# 10? Goodbye using statements",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=GzaWj41Qvko",
+          "description": "<p>James breaks down his favorite C# 10 features that you will actually use every day when developing apps with .NET 6.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=GzaWj41Qvko\"><strong>What's new in C# 10? Goodbye using statements</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James breaks down his favorite C# 10 features that you will actually use every day when developing apps with .NET 6. \r\n\r\n[**What's new in C# 10? Goodbye using statements**](https://www.youtube.com/watch?v=GzaWj41Qvko) by [James Montemagno](https://twitter.com/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "JiVP5am",
+              "title": "**What's new in C# 10? Goodbye using statements**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=GzaWj41Qvko"
+            },
+            {
+              "identifier": "2tuCOPD",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "2CsnhVF",
+          "type": "Link",
+          "title": "The .NET MAUI Podcast Episode 102: M365 Admin App",
+          "url_domain": "dotnetmauipodcast.com",
+          "url": "https://www.dotnetmauipodcast.com/102",
+          "description": "<p>Listen how the M365 team created an app that allows you to administer your tenant on the go!</p>\n\n<p><a href=\"https://www.dotnetmauipodcast.com/102\"><strong>The .NET MAUI Podcast Episode 102: M365 Admin App</strong></a> by <a href=\"https://www.dotnetmauipodcast.com/\">.NET MAUI Podcast</a></p>",
+          "description_markdown": "Listen how the M365 team created an app that allows you to administer your tenant on the go!\r\n\r\n[**The .NET MAUI Podcast Episode 102: M365 Admin App**](https://www.dotnetmauipodcast.com/102) by [.NET MAUI Podcast](https://www.dotnetmauipodcast.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "BM0hQMZ",
+              "title": "**The .NET MAUI Podcast Episode 102: M365 Admin App**",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/102"
+            },
+            {
+              "identifier": "BGZBqUS",
+              "title": ".NET MAUI Podcast",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "jG0Mkpt",
+          "type": "Link",
+          "title": ".NET MAUI: Customize Controls with Handlers and Mappers",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=k6Zk3Ho8YNw",
+          "description": "<p>Customizing controls has become a lot easier with .NET MAUI if we compare to Xamarin.Forms. No more custom renderers, just a few lines of code (either PrependToMapper, ModifyMapper or AppendToMapper) to our handlers and mappers and we're good to go. In this video I will show you the (updated) code on how to do just that and show you how we customize the Entry on Android to remove the underline.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=k6Zk3Ho8YNw\"><strong>.NET MAUI: Customize Controls with Handlers and Mappers</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Customizing controls has become a lot easier with .NET MAUI if we compare to Xamarin.Forms. No more custom renderers, just a few lines of code (either PrependToMapper, ModifyMapper or AppendToMapper) to our handlers and mappers and we're good to go. In this video I will show you the (updated) code on how to do just that and show you how we customize the Entry on Android to remove the underline.\r\n\r\n[**.NET MAUI: Customize Controls with Handlers and Mappers**](https://www.youtube.com/watch?v=k6Zk3Ho8YNw) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "aHl5d1a",
+              "title": "**.NET MAUI: Customize Controls with Handlers and Mappers**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=k6Zk3Ho8YNw"
+            },
+            {
+              "identifier": "JfQ3jM2",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "WItKGIe",
+          "type": "Link",
+          "title": "Merge Conflict: 282: Automating Protocols",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/282",
+          "description": "<p>Custom schemes, http schemes, protocols, they are a pain to develop for, but are so powerful! After years of using them, we finally figured out how to automate it and we have a lot of ideas!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/282\"><strong>Merge Conflict: 282: Automating Protocols</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Custom schemes, http schemes, protocols, they are a pain to develop for, but are so powerful! After years of using them, we finally figured out how to automate it and we have a lot of ideas!\r\n\r\n[**Merge Conflict: 282: Automating Protocols**](https://www.mergeconflict.fm/282) by [Merge Conflict](https://twitter.com/mergeconflictfm)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "kuLYGoC",
+              "title": "**Merge Conflict: 282: Automating Protocols**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/282"
+            },
+            {
+              "identifier": "GNacS5Z",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
