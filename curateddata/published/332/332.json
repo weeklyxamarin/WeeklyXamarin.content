@@ -1,0 +1,373 @@
+{
+  "number": 332,
+  "title": "Issue 332",
+  "summary": "Better late than never ;-)",
+  "url": "https://weeklyxamarin.com/issues/332",
+  "publication_status": "published",
+  "published_at": "2021-12-13T11:34:23+00:00",
+  "updated_at": "2021-12-13T11:34:28+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #332 of Weekly Xamarin - a weekly overview of what happened this past week in the Xamarin and MAUI communities.</p>\n\n<p>Sorry for the late publish this week, but rest assured there is a bunch of great articles and videos to dig into this week.</p>\n\n<p>Enjoy and stay safe,</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #332 of Weekly Xamarin - a weekly overview of what happened this past week in the Xamarin and MAUI communities.\r\n\r\nSorry for the late publish this week, but rest assured there is a bunch of great articles and videos to dig into this week.\r\n\r\nEnjoy and stay safe,\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "iC6U6t1",
+          "type": "Link",
+          "title": "Local Deploy to Multiple Emulators",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/nerd-for-tech/local-deploy-to-multiple-emulators-and-simulators-with-cake-5d3258e7a4c",
+          "description": "<p>If you are looking for an easy way to test Xamarin.Forms or MAUI Application in a couple of Android Emulators and iOS Simulators at the same time, here is an interesting approach.</p>\n\n<p><a href=\"https://medium.com/nerd-for-tech/local-deploy-to-multiple-emulators-and-simulators-with-cake-5d3258e7a4c\"><strong>Local Deploy to Multiple Emulators and Simulators with Cake</strong></a> by <a href=\"https://twitter.com/bbenetskyy\">Bohdan Benetskyi</a></p>",
+          "description_markdown": "If you are looking for an easy way to test Xamarin.Forms or MAUI Application in a couple of Android Emulators and iOS Simulators at the same time, here is an interesting approach.\r\n\r\n[**Local Deploy to Multiple Emulators and Simulators with Cake**](https://medium.com/nerd-for-tech/local-deploy-to-multiple-emulators-and-simulators-with-cake-5d3258e7a4c) by [Bohdan Benetskyi](https://twitter.com/bbenetskyy)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "AbU9R1u",
+              "title": "**Local Deploy to Multiple Emulators and Simulators with Cake**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/nerd-for-tech/local-deploy-to-multiple-emulators-and-simulators-with-cake-5d3258e7a4c"
+            },
+            {
+              "identifier": "CSk3TNQ",
+              "title": "Bohdan Benetskyi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bbenetskyy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "sq86iMv",
+          "type": "Link",
+          "title": "Use the iOS system colors in Xamarin.Forms",
+          "url_domain": "msicc.net",
+          "url": "https://msicc.net/use-the-ios-system-colors-in-xamarin-forms/",
+          "description": "<p>Apple has defined some best practices for coloring our iOS apps. To make it easier, Apple created system colors that are (partly) adaptive to the system's coloring. In this post, Marco shows you how to use these colors in Xamarin.Forms.</p>\n\n<p><a href=\"https://msicc.net/use-the-ios-system-colors-in-xamarin-forms/\"><strong>Use the iOS system colors in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/msicc\">Marco Siccardi</a></p>",
+          "description_markdown": "Apple has defined some best practices for coloring our iOS apps. To make it easier, Apple created system colors that are (partly) adaptive to the system's coloring. In this post, Marco shows you how to use these colors in Xamarin.Forms.\r\n\r\n[**Use the iOS system colors in Xamarin.Forms**](https://msicc.net/use-the-ios-system-colors-in-xamarin-forms/) by [Marco Siccardi](https://twitter.com/msicc)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "fUtzcU0",
+              "title": "**Use the iOS system colors in Xamarin.Forms**",
+              "url_domain": "msicc.net",
+              "url": "https://msicc.net/use-the-ios-system-colors-in-xamarin-forms/"
+            },
+            {
+              "identifier": "TV6C0QZ",
+              "title": "Marco Siccardi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/msicc"
+            }
+          ]
+        },
+        {
+          "identifier": "NgApDKe",
+          "type": "Link",
+          "title": "Assets and HTML pages as \"embedded resource\"",
+          "url_domain": "medium.com",
+          "url": "https://felipedasilvabaltazar.medium.com/xamarin-forms-assets-e-páginas-html-como-embedded-resource-a8875e1b1b96",
+          "description": "<p>Maybe you want to pull a HTML page from an embedded resource inside your Xamarin.Forms project - well now you know how.</p>\n\n<p><a href=\"https://felipedasilvabaltazar.medium.com/xamarin-forms-assets-e-p%C3%A1ginas-html-como-embedded-resource-a8875e1b1b96\"><strong>Xamarin Forms | Assets e páginas HTML como embedded resource</strong></a> by <a href=\"https://twitter.com/felippebaltazar\">Felipe Baltazar</a></p>",
+          "description_markdown": "Maybe you want to pull a HTML page from an embedded resource inside your Xamarin.Forms project - well now you know how.\r\n\r\n[**Xamarin Forms | Assets e páginas HTML como embedded resource**](https://felipedasilvabaltazar.medium.com/xamarin-forms-assets-e-páginas-html-como-embedded-resource-a8875e1b1b96) by [Felipe Baltazar](https://twitter.com/felippebaltazar)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Xdoyuap",
+              "title": "**Xamarin Forms | Assets e páginas HTML como embedded resource**",
+              "url_domain": "medium.com",
+              "url": "https://felipedasilvabaltazar.medium.com/xamarin-forms-assets-e-páginas-html-como-embedded-resource-a8875e1b1b96"
+            },
+            {
+              "identifier": "uNH8Fwr",
+              "title": "Felipe Baltazar",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/felippebaltazar"
+            }
+          ]
+        },
+        {
+          "identifier": "mmXiuTD",
+          "type": "Link",
+          "title": "Create DataMatrix Barcodes With Telerik UI for Xamarin",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/create-data-matrix-barcodes-quickly-easily-telerik-ui-xamarin",
+          "description": "<p>Telerik UI for Xamarin R3 2021 brings DataMatrix symbology to the Barcode control, so you can easily generate data matrix codes.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/create-data-matrix-barcodes-quickly-easily-telerik-ui-xamarin\"><strong>Create DataMatrix Barcodes With Telerik UI for Xamarin</strong></a> by <a href=\"https://www.telerik.com/blogs/author/yana-kerpecheva\">Yana Kerpecheva</a></p>",
+          "description_markdown": "Telerik UI for Xamarin R3 2021 brings DataMatrix symbology to the Barcode control, so you can easily generate data matrix codes.\r\n\r\n[**Create DataMatrix Barcodes With Telerik UI for Xamarin**](https://www.telerik.com/blogs/create-data-matrix-barcodes-quickly-easily-telerik-ui-xamarin) by [Yana Kerpecheva](https://www.telerik.com/blogs/author/yana-kerpecheva)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "3bEJ6Zk",
+              "title": "**Create DataMatrix Barcodes With Telerik UI for Xamarin**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/create-data-matrix-barcodes-quickly-easily-telerik-ui-xamarin"
+            },
+            {
+              "identifier": "GWzkA3y",
+              "title": "Yana Kerpecheva",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/yana-kerpecheva"
+            }
+          ]
+        },
+        {
+          "identifier": "neoe5wI",
+          "type": "Link",
+          "title": "Create a File Picker Using Xamarin.Essentials and Telerik UI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/create-file-picker-using-xamarin-essentials-telerik-ui-for-xamarin",
+          "description": "<p>Pick files with Xamarin.Essentials FilePicker API and visualize them in your mobile and desktop apps using the Telerik UI for Xamarin suite.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/create-file-picker-using-xamarin-essentials-telerik-ui-for-xamarin\"><strong>Create a File Picker Using Xamarin.Essentials and Telerik UI</strong></a> by <a href=\"https://www.telerik.com/blogs/author/dobrinka-yordanova\">Dobrinka Yordanova</a></p>",
+          "description_markdown": "Pick files with Xamarin.Essentials FilePicker API and visualize them in your mobile and desktop apps using the Telerik UI for Xamarin suite.\r\n\r\n[**Create a File Picker Using Xamarin.Essentials and Telerik UI**](https://www.telerik.com/blogs/create-file-picker-using-xamarin-essentials-telerik-ui-for-xamarin) by [Dobrinka Yordanova](https://www.telerik.com/blogs/author/dobrinka-yordanova)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "t3p302w",
+              "title": "**Create a File Picker Using Xamarin.Essentials and Telerik UI**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/create-file-picker-using-xamarin-essentials-telerik-ui-for-xamarin"
+            },
+            {
+              "identifier": "19iLxx2",
+              "title": "Dobrinka Yordanova",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/dobrinka-yordanova"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "4zzROE6",
+          "type": "Link",
+          "title": "First Steps on MAUI Beach",
+          "url_domain": "taranissoftware.com",
+          "url": "https://blog.taranissoftware.com/first-steps-on-maui-beach",
+          "description": "<p>Dave get started with a fantastic series on getting started with MAUI.</p>\n\n<p><a href=\"https://blog.taranissoftware.com/first-steps-on-maui-beach\"><strong>First Steps on MAUI Beach</strong></a> by <a href=\"https://twitter.com/irongut\">Dave Murray</a></p>",
+          "description_markdown": "Dave get started with a fantastic series on getting started with MAUI.\r\n\r\n[**First Steps on MAUI Beach**](https://blog.taranissoftware.com/first-steps-on-maui-beach) by [Dave Murray](https://twitter.com/irongut)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "6ztYpcM",
+              "title": "**First Steps on MAUI Beach**",
+              "url_domain": "taranissoftware.com",
+              "url": "https://blog.taranissoftware.com/first-steps-on-maui-beach"
+            },
+            {
+              "identifier": "zYRL91",
+              "title": "Dave Murray",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/irongut"
+            }
+          ]
+        },
+        {
+          "identifier": "7fLuatX",
+          "type": "Link",
+          "title": "Applying borders in .NET MAUI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/applying-borders-in-net-maui/",
+          "description": "<p>MAUI has border properties which you can use out of the box. (RIP PancakeView). In this post Leomaris introduces you to them.</p>\n\n<p><a href=\"https://askxammy.com/applying-borders-in-net-maui/\"><strong>Applying borders in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "MAUI has border properties which you can use out of the box. (RIP PancakeView). In this post Leomaris introduces you to them.\r\n\r\n[**Applying borders in .NET MAUI**](https://askxammy.com/applying-borders-in-net-maui/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "9IySyfH",
+              "title": "**Applying borders in .NET MAUI**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/applying-borders-in-net-maui/"
+            },
+            {
+              "identifier": "vZTzHtE",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "lwtgjSG",
+          "type": "Link",
+          "title": "Create Your First .NET MAUI App with Microsoft MVP Codrina Merigo",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/create-your-first-net-maui-app-with-microsoft-mvp-codrina-merigo-webinar-show-notes.aspx",
+          "description": "<p>This blog provides show notes for our November 11, 2021 webinar, “Create Your First .NET MAUI App.” The webinar was presented by Microsoft MVP Codrina Merigo.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/create-your-first-net-maui-app-with-microsoft-mvp-codrina-merigo-webinar-show-notes.aspx\"><strong>Create Your First .NET MAUI App with Microsoft MVP Codrina Merigo</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/grahamhsyncfusion-com\">Graham High</a></p>",
+          "description_markdown": "This blog provides show notes for our November 11, 2021 webinar, “Create Your First .NET MAUI App.” The webinar was presented by Microsoft MVP Codrina Merigo. \r\n\r\n[**Create Your First .NET MAUI App with Microsoft MVP Codrina Merigo**](https://www.syncfusion.com/blogs/post/create-your-first-net-maui-app-with-microsoft-mvp-codrina-merigo-webinar-show-notes.aspx) by [Graham High](https://www.syncfusion.com/blogs/author/grahamhsyncfusion-com)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "gbAilLO",
+              "title": "**Create Your First .NET MAUI App with Microsoft MVP Codrina Merigo**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/create-your-first-net-maui-app-with-microsoft-mvp-codrina-merigo-webinar-show-notes.aspx"
+            },
+            {
+              "identifier": "2eMyIlS",
+              "title": "Graham High",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/grahamhsyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "IBnlYZK",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #36",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-36",
+          "description": "<p>Sam updates us on the weeks MAUI happenings</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-36\"><strong>Sands of MAUI: Issue #36</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam updates us on the weeks MAUI happenings\r\n\r\n[**Sands of MAUI: Issue #36**](https://www.telerik.com/blogs/sands-maui-issue-36) by [Sam Basu](https://twitter.com/samidip)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "QwWlKLU",
+              "title": "**Sands of MAUI: Issue #36**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-36"
+            },
+            {
+              "identifier": "ujCchhn",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "sIhOS3l",
+          "type": "Link",
+          "title": ".NET MAUI Roadmap Previews",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/net-maui-roadmap-previews/",
+          "description": "<p>If you want to know where to find out where MAUI is up to, Leomaris shares it here.</p>\n\n<p><a href=\"https://askxammy.com/net-maui-roadmap-previews/\"><strong>.NET MAUI Roadmap Previews</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "If you want to know where to find out where MAUI is up to, Leomaris shares it here.\r\n\r\n[**.NET MAUI Roadmap Previews**](https://askxammy.com/net-maui-roadmap-previews/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "QWpELsN",
+              "title": "**.NET MAUI Roadmap Previews**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/net-maui-roadmap-previews/"
+            },
+            {
+              "identifier": "C6q2kLc",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "V9y96VL",
+          "type": "Link",
+          "title": "Android for .NET 6: The .NET Show with Carl Franklin Ep 14",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=xjoVgkH3sdQ",
+          "description": "<p>Carl welcomes Microsoft’s Jonathan Peppers to talk about how Android projects work in .NET 6.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=xjoVgkH3sdQ\"><strong>Android for .NET 6: The .NET Show with Carl Franklin Ep 14</strong></a> by <a href=\"https://twitter.com/carlfranklin\">Carl Franklin</a></p>",
+          "description_markdown": "Carl welcomes Microsoft’s Jonathan Peppers to talk about how Android projects work in .NET 6.\r\n\r\n[**Android for .NET 6: The .NET Show with Carl Franklin Ep 14**](https://www.youtube.com/watch?v=xjoVgkH3sdQ) by [Carl Franklin](https://twitter.com/carlfranklin)",
+          "embedded_links": [
+            {
+              "identifier": "pu3jDnv",
+              "title": "**Android for .NET 6: The .NET Show with Carl Franklin Ep 14**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=xjoVgkH3sdQ"
+            },
+            {
+              "identifier": "1wJxtHm",
+              "title": "Carl Franklin",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/carlfranklin"
+            }
+          ]
+        },
+        {
+          "identifier": "V4AZRn1",
+          "type": "Link",
+          "title": "Develop iOS Apps Without a Mac, on Windows with Xamarin Hot Restart",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=tJUcBQ07jSc",
+          "description": "<p>That's right, with Xamarin Hot Restart you can develop iOS apps straight from Windows, without ever having to own a Mac. In this video I will go over what Xamarin Hot Restart is exactly and how to get you started with development in Visual Studio 2022. Last but not least: I tell you the secret on how to even publish your app to the App Store... FOR FREE!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=tJUcBQ07jSc\"><strong>Develop iOS Apps Without a Mac, on Windows with Xamarin Hot Restart</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "That's right, with Xamarin Hot Restart you can develop iOS apps straight from Windows, without ever having to own a Mac. In this video I will go over what Xamarin Hot Restart is exactly and how to get you started with development in Visual Studio 2022. Last but not least: I tell you the secret on how to even publish your app to the App Store... FOR FREE!\r\n\r\n[**Develop iOS Apps Without a Mac, on Windows with Xamarin Hot Restart**](https://www.youtube.com/watch?v=tJUcBQ07jSc) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "4yv6txC",
+              "title": "**Develop iOS Apps Without a Mac, on Windows with Xamarin Hot Restart**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=tJUcBQ07jSc"
+            },
+            {
+              "identifier": "nU8n1X9",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "zO2VlTm",
+          "type": "Link",
+          "title": "Merge Conflict: 284: C# 10 Global & Implicit Usings",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/284",
+          "description": "<p>Are global and implicit usings controversial? It seem so, we discuss all the details of this awesome C# 10 feature.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/284\"><strong>Merge Conflict: 284: C# 10 Global &amp; Implicit Usings</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Are global and implicit usings controversial? It seem so, we discuss all the details of this awesome C# 10 feature.\r\n\r\n[**Merge Conflict: 284: C# 10 Global & Implicit Usings**](https://www.mergeconflict.fm/284) by [Merge Conflict](https://twitter.com/mergeconflictfm)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Nez75W6",
+              "title": "**Merge Conflict: 284: C# 10 Global & Implicit Usings**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/284"
+            },
+            {
+              "identifier": "HZhDW0z",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "qMY2427",
+          "type": "Link",
+          "title": "Null Pointers 76: Coded UI & Comet",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/76/",
+          "description": "<p>Coded UI in Xamarin.Forms is not as popular as using XAML, but if you ask our guest Brandon Minnick we’re all crazy for liking XAML so much. Join us in learning why!</p>\n\n<p><a href=\"https://nullpointers.io/76/\"><strong>76: Coded UI &amp; Comet</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "Coded UI in Xamarin.Forms is not as popular as using XAML, but if you ask our guest Brandon Minnick we’re all crazy for liking XAML so much. Join us in learning why!\r\n\r\n[**76: Coded UI &amp; Comet**](https://nullpointers.io/76/) by [Null Pointers](https://twitter.com/nullpointersio)",
+          "embedded_links": [
+            {
+              "identifier": "vWVFZjl",
+              "title": "**76: Coded UI &amp; Comet**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/76/"
+            },
+            {
+              "identifier": "ZdhThFJ",
+              "title": "Null Pointers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

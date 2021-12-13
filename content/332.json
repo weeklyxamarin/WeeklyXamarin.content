@@ -1,0 +1,137 @@
+{
+  "Id": "332",
+  "Name": "Issue 332",
+  "UpdatedTimeStamp": "2021-12-13T11:34:28Z",
+  "Summary": "Better late than never ;-)",
+  "Introduction": "G'day everyone, welcome to issue #332 of Weekly Xamarin - a weekly overview of what happened this past week in the Xamarin and MAUI communities. Sorry for the late publish this week, but rest assured there is a bunch of great articles and videos to dig into this week. Enjoy and stay safe, ❤ Kym",
+  "PublishDate": "2021-12-13T11:34:23Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Local Deploy to Multiple Emulators",
+      "Url": "https://medium.com/nerd-for-tech/local-deploy-to-multiple-emulators-and-simulators-with-cake-5d3258e7a4c",
+      "Description": "If you are looking for an easy way to test Xamarin.Forms or MAUI Application in a couple of Android Emulators and iOS Simulators at the same time, here is an interesting approach.",
+      "EditionId": "332",
+      "Author": "Bohdan Benetskyi",
+      "Id": "332-1",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Use the iOS system colors in Xamarin.Forms",
+      "Url": "https://msicc.net/use-the-ios-system-colors-in-xamarin-forms/",
+      "Description": "Apple has defined some best practices for coloring our iOS apps. To make it easier, Apple created system colors that are (partly) adaptive to the system's coloring. In this post, Marco shows you how to use these colors in Xamarin.Forms.",
+      "EditionId": "332",
+      "Author": "Marco Siccardi",
+      "Id": "332-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Assets and HTML pages as \"embedded resource\"",
+      "Url": "https://felipedasilvabaltazar.medium.com/xamarin-forms-assets-e-páginas-html-como-embedded-resource-a8875e1b1b96",
+      "Description": "Maybe you want to pull a HTML page from an embedded resource inside your Xamarin.Forms project - well now you know how.",
+      "EditionId": "332",
+      "Author": "Felipe Baltazar",
+      "Id": "332-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Create DataMatrix Barcodes With Telerik UI for Xamarin",
+      "Url": "https://www.telerik.com/blogs/create-data-matrix-barcodes-quickly-easily-telerik-ui-xamarin",
+      "Description": "Telerik UI for Xamarin R3 2021 brings DataMatrix symbology to the Barcode control, so you can easily generate data matrix codes.",
+      "EditionId": "332",
+      "Author": "Yana Kerpecheva",
+      "Id": "332-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Create a File Picker Using Xamarin.Essentials and Telerik UI",
+      "Url": "https://www.telerik.com/blogs/create-file-picker-using-xamarin-essentials-telerik-ui-for-xamarin",
+      "Description": "Pick files with Xamarin.Essentials FilePicker API and visualize them in your mobile and desktop apps using the Telerik UI for Xamarin suite.",
+      "EditionId": "332",
+      "Author": "Dobrinka Yordanova",
+      "Id": "332-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "First Steps on MAUI Beach",
+      "Url": "https://blog.taranissoftware.com/first-steps-on-maui-beach",
+      "Description": "Dave get started with a fantastic series on getting started with MAUI.",
+      "EditionId": "332",
+      "Author": "Dave Murray",
+      "Id": "332-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Applying borders in .NET MAUI",
+      "Url": "https://askxammy.com/applying-borders-in-net-maui/",
+      "Description": "MAUI has border properties which you can use out of the box. (RIP PancakeView). In this post Leomaris introduces you to them.",
+      "EditionId": "332",
+      "Author": "Leomaris Reyes",
+      "Id": "332-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Create Your First .NET MAUI App with Microsoft MVP Codrina Merigo",
+      "Url": "https://www.syncfusion.com/blogs/post/create-your-first-net-maui-app-with-microsoft-mvp-codrina-merigo-webinar-show-notes.aspx",
+      "Description": "This blog provides show notes for our November 11, 2021 webinar, “Create Your First .NET MAUI App.” The webinar was presented by Microsoft MVP Codrina Merigo.",
+      "EditionId": "332",
+      "Author": "Graham High",
+      "Id": "332-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #36",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-36",
+      "Description": "Sam updates us on the weeks MAUI happenings",
+      "EditionId": "332",
+      "Author": "Sam Basu",
+      "Id": "332-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Roadmap Previews",
+      "Url": "https://askxammy.com/net-maui-roadmap-previews/",
+      "Description": "If you want to know where to find out where MAUI is up to, Leomaris shares it here.",
+      "EditionId": "332",
+      "Author": "Leomaris Reyes",
+      "Id": "332-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Android for .NET 6: The .NET Show with Carl Franklin Ep 14",
+      "Url": "https://www.youtube.com/watch?v=xjoVgkH3sdQ",
+      "Description": "Carl welcomes Microsoft’s Jonathan Peppers to talk about how Android projects work in .NET 6.",
+      "EditionId": "332",
+      "Author": "Carl Franklin",
+      "Id": "332-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Develop iOS Apps Without a Mac, on Windows with Xamarin Hot Restart",
+      "Url": "https://www.youtube.com/watch?v=tJUcBQ07jSc",
+      "Description": "That's right, with Xamarin Hot Restart you can develop iOS apps straight from Windows, without ever having to own a Mac. In this video I will go over what Xamarin Hot Restart is exactly and how to get you started with development in Visual Studio 2022. Last but not least: I tell you the secret on how to even publish your app to the App Store... FOR FREE!",
+      "EditionId": "332",
+      "Author": "Gerald Versluis",
+      "Id": "332-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 284: C# 10 Global & Implicit Usings",
+      "Url": "https://www.mergeconflict.fm/284",
+      "Description": "Are global and implicit usings controversial? It seem so, we discuss all the details of this awesome C# 10 feature.",
+      "EditionId": "332",
+      "Author": "Merge Conflict",
+      "Id": "332-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 76: Coded UI & Comet",
+      "Url": "https://nullpointers.io/76/",
+      "Description": "Coded UI in Xamarin.Forms is not as popular as using XAML, but if you ask our guest Brandon Minnick we’re all crazy for liking XAML so much. Join us in learning why!",
+      "EditionId": "332",
+      "Author": "Null Pointers",
+      "Id": "332-14",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
