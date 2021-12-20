@@ -1,0 +1,182 @@
+{
+  "Id": "333",
+  "Name": "Issue 333",
+  "UpdatedTimeStamp": "2021-12-20T02:34:15Z",
+  "Summary": "Visual Studio Productivity, MAUI know how, and lots of design resources",
+  "Introduction": "G'day everyone, welcome to issue #333 of Weekly Xamarin - a weekly overview of what happened this past week in the Xamarin and MAUI communities. This is *probably* the last edition before holiday break. For those of  you who celebrate such things have a wonderful time with your family, stay safe, and take a well earned break. Also thank you so much for your support this year! ❤ Kym",
+  "PublishDate": "2021-12-20T02:34:10Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Contra Wireframe Kit",
+      "Url": "https://contrauikit.com/",
+      "Description": "Open source wireframe kit for quick design and prototyping . Beautifully crafted easy to use wireframe kit with more than 150 mobile components and 50+ screens. Available for free commercial and personal use under a Creative Commons license, for Figma, Sketch, Adobe XD and Invision Studio.",
+      "EditionId": "333",
+      "Author": "Vijay Verma",
+      "Id": "333-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "All You Need to Know About Usability Testing",
+      "Url": "https://www.stickyminds.com/article/taking-care-user-your-mobile-app-user-friendly-all-you-need-know-about-usability-testing",
+      "Description": "Business owners and developers must keep in mind that modern users can be very picky and demanding, and they must do their best to meet all their users' expectations. The best way to solve this issue is to perform usability testing regularly.",
+      "EditionId": "333",
+      "Author": "Oleh Sadykow",
+      "Id": "333-2",
+      "Category": "TESTING"
+    },
+    {
+      "Title": "What’s new in .NET Productivity with Visual Studio 2022",
+      "Url": "https://devblogs.microsoft.com/visualstudio/whats-new-in-net-productivity-with-visual-studio-2022/",
+      "Description": "If you are using Windows, you should probably be using VS2022 already. Here are some top tips to become a VS Ninja!",
+      "EditionId": "333",
+      "Author": "Mika Dumont",
+      "Id": "333-3",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Introduction to Style Inheritance",
+      "Url": "https://xamarinmonkeys.blogspot.com/2021/12/xamarinforms-style-inheritance.html",
+      "Description": "How to implement Style Inheritance in Xamarin.Forms app",
+      "EditionId": "333",
+      "Author": "Delpin Susai Raj",
+      "Id": "333-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Machine Learning in Xamarin.Forms",
+      "Url": "https://devblogs.microsoft.com/xamarin/machine-learning-in-xamarin-forms-with-onnx-runtime/",
+      "Description": "Machine learning can be used to add smart capabilities to mobile applications and enhance the user experience. Learn how to integrate machine learning into your Xamarin.Forms application with ONNX Runtime.",
+      "EditionId": "333",
+      "Author": "Mike Parker",
+      "Id": "333-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Control Templates in Xamarin.Forms",
+      "Url": "https://trailheadtechnology.com/control-templates-in-xamarin-forms",
+      "Description": "This is the second post in the custom control series where Rodrigo shows how to use control templates. A primary reason to use control templates is when you need additional content inserted into a custom control at a pre-defined location.",
+      "EditionId": "333",
+      "Author": "Rodrigo Juarez",
+      "Id": "333-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Building a mobile game in Xamarin Forms - BindableLayout",
+      "Url": "https://blog.bijington.com/c#/xamarin/xamarin.forms/bindablelayout/2021/12/09/building-a-mobile-game-in-xamarin-forms-part-five.html",
+      "Description": "Shaun continues building out a game in Xamarin.Forms and this week he takes a look at Bindable Layouts.",
+      "EditionId": "333",
+      "Author": "Shaun Lawrence",
+      "Id": "333-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Controls with NControl!",
+      "Url": "https://trailheadtechnology.com/controls-with-ncontrol",
+      "Description": "NControl is a wrapper for NGraphics, a cross-platform library you can use to create graphically rich interactive views and UI widgets on .NET.",
+      "EditionId": "333",
+      "Author": "Walter Aguilar",
+      "Id": "333-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin UWP: Use multilanguage resource files properly",
+      "Url": "https://www.banditoth.hu/2021/12/17/xamarin-uwp-use-multilanguage-resource-files-properly/",
+      "Description": "The language management of UWP apps works differently to its Android and iOS counterparts.",
+      "EditionId": "333",
+      "Author": "András Tóth",
+      "Id": "333-9",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Adding Shadows with .NET MAUI",
+      "Url": "https://askxammy.com/adding-shadows-with-net-maui/",
+      "Description": "Shadows can make our designs look more elegant and add emphasis to elements.  With .NET MAUI we have shadows integrated natively.",
+      "EditionId": "333",
+      "Author": "Leomaris Reyes",
+      "Id": "333-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Masking elements with Clipping in .NET MAUI",
+      "Url": "https://askxammy.com/masking-elements-with-clipping-in-net-maui/",
+      "Description": "With Clipping, we can mask content based on Shapes and it's available in MAUI.",
+      "EditionId": "333",
+      "Author": "Leomaris Reyes",
+      "Id": "333-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #37",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-37",
+      "Description": "Sam wraps up the week in MAUI news.",
+      "EditionId": "333",
+      "Author": "Sam Basu",
+      "Id": "333-12",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "LDAP Authentication",
+      "Url": "https://dankyungu.co/ldap-authentification-through-xamarinforms-maui",
+      "Description": "Allow your Xamarin / MAUI application reuse enterprise internal authentication system hosted on a LDAP Directory Server.",
+      "EditionId": "333",
+      "Author": "Dan Kyungu",
+      "Id": "333-13",
+      "Category": "SECURITY"
+    },
+    {
+      "Title": "Introduction to .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=O9vdLKMudXQ",
+      "Description": ".NET Multi-platform App UI is successor of Xamarin.Forms. MAUI allows you to create native mobile and desktop apps with shared code base. In this session, I will present how development with new Microsoft framework will look like.",
+      "EditionId": "333",
+      "Author": "Damian Antonowicz",
+      "Id": "333-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin & Apps with Modern UI",
+      "Url": "https://www.youtube.com/watch?v=rfZxNqDRJYk",
+      "Description": "Mobile App designing & developing is very crucial to its success and to ensure that the design is in sync with the users’ preferences, the UI/UX trends must be known and implemented. As we know the phrases UI & UX design are increasingly used in mobile app designing. Today we will take a look at the professionally designed, modern Mobile App UI Designs and explain how it can be implemented in Xamarin.Forms.",
+      "EditionId": "333",
+      "Author": "Bohdan Benetskyi",
+      "Id": "333-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Controlling Image Caching in Xamarin.Forms & .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=fdL-3mhUThY",
+      "Description": "Did you know that Xamarin.Forms & .NET MAUI automatically download and caches images for a full 24 hours?!?! There are awesome libraries out there for Images with Xamarin.Forms such as FFImageLoading and Nuke, but the built -in Image is super powerful and you have control over just how long images are cached. Today, I walk through how to setup and control Images in Xamarin.Forms and .NET MAUI and ensure that images get cached for the correct amount of time.",
+      "EditionId": "333",
+      "Author": "James Montemagno",
+      "Id": "333-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The .NET MAUI Podcast Episode 103: 2021 - It Was a Good One",
+      "Url": "https://www.dotnetmauipodcast.com/103",
+      "Description": "Join Matt & James as they review the new .NET MAUI features, how to author Visual Studio extensions and the latest Azure news.",
+      "EditionId": "333",
+      "Author": ".NET MAUI Podcast",
+      "Id": "333-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "How To Write Platform-Specific Code in .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=fsO6pXz0umc",
+      "Description": "At some point you will find yourself needing to write some platform code while using .NET MAUI. Luckily, this is very much possible! In this video we will see how to leverage the multi-targeting approach in .NET MAUI single project to write platform-specific code.",
+      "EditionId": "333",
+      "Author": "Gerald Versluis",
+      "Id": "333-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Visual Studio 2022 for Mac Preview 4",
+      "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-4/",
+      "Description": "Visual Studio 2022 for Mac Preview 4 release is here, and continues our move of the IDE to fully native macOS UI, fixes many top issues, and introduces new experiences for laying out your windows and searching your source.",
+      "EditionId": "333",
+      "Author": "Jordan Matthiesen",
+      "Id": "333-19",
+      "Category": "RELEASES"
+    }
+  ]
+}

@@ -687,6 +687,12 @@
       "Aliases": []
     },
     {
+      "Name": "Dan Kyungu",
+      "TwitterHandle": "DanKyungu",
+      "Id": "66f53d96-c576-4e5d-8476-da82c79beb46",
+      "Aliases": []
+    },
+    {
       "Name": "Dan Rigby",
       "TwitterHandle": "DanRigby",
       "GitHubHandle": "DanRigby",
@@ -2015,11 +2021,27 @@
       ]
     },
     {
+      "Name": "Mika Dumont",
+      "TwitterHandle": "mika_dumont",
+      "Id": "75db12fe-d97a-4d5d-ba67-80073eed567b",
+      "Aliases": []
+    },
+    {
       "Name": "Mike Grant",
       "TwitterHandle": "mike_grant_",
       "GitHubHandle": "mike-grant",
       "Id": "a6df683d-7f7b-431a-80b7-654f7d7ea8c6",
       "Website": "https://www.mikegrant.org.uk"
+    },
+    {
+      "Name": "Mike Parker",
+      "Id": "32d57926-b7f5-49c4-b71f-d5161d2498f0",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/xamarin/author/mike-parker/"
+        }
+      ]
     },
     {
       "Name": "Mikolaj Kieres",
@@ -2187,6 +2209,16 @@
         {
           "Type": "blog",
           "Name": "https://arctouch.com/author/oberdan-ferreira/"
+        }
+      ]
+    },
+    {
+      "Name": "Oleh Sadykow",
+      "Id": "4b51d8e4-8654-4825-9658-4e6bdf483cfc",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.linkedin.com/in/oleh-sadykow/"
         }
       ]
     },
@@ -3095,6 +3127,12 @@
       "Name": "Vijay Anand EG",
       "TwitterHandle": "egvijayanand",
       "Id": "2b0f2aff-46a8-46e7-be38-ccb87bfb6b0c",
+      "Aliases": []
+    },
+    {
+      "Name": "Vijay Verma",
+      "TwitterHandle": "realvjy",
+      "Id": "54010e72-c3b1-4ada-a697-3246c13bc18b",
       "Aliases": []
     },
     {

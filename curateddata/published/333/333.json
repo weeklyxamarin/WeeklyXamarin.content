@@ -1,0 +1,512 @@
+{
+  "number": 333,
+  "title": "Issue 333",
+  "summary": "Visual Studio Productivity, MAUI know how, and lots of design resources",
+  "url": "https://weeklyxamarin.com/issues/333",
+  "publication_status": "published",
+  "published_at": "2021-12-20T02:34:10+00:00",
+  "updated_at": "2021-12-20T02:34:15+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #333 of Weekly Xamarin - a weekly overview of what happened this past week in the Xamarin and MAUI communities.</p>\n\n<p>This is <em>probably</em> the last edition before holiday break. For those of  you who celebrate such things have a wonderful time with your family, stay safe, and take a well earned break.</p>\n\n<p>Also thank you so much for your support this year!</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #333 of Weekly Xamarin - a weekly overview of what happened this past week in the Xamarin and MAUI communities.\r\n\r\nThis is *probably* the last edition before holiday break. For those of  you who celebrate such things have a wonderful time with your family, stay safe, and take a well earned break.\r\n\r\nAlso thank you so much for your support this year!\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "BpNY7CA",
+          "type": "Link",
+          "title": "Contra Wireframe Kit",
+          "url_domain": "contrauikit.com",
+          "url": "https://contrauikit.com/",
+          "description": "<p>Open source wireframe kit for quick design and prototyping . Beautifully crafted easy to use wireframe kit with more than 150 mobile components and 50+ screens. Available for free commercial and personal use under a Creative Commons license, for Figma, Sketch, Adobe XD and Invision Studio.</p>\n\n<p><a href=\"https://contrauikit.com/\"><strong>Contra Wireframe Kit</strong></a> by <a href=\"https://twitter.com/realvjy\">Vijay Verma</a></p>",
+          "description_markdown": "Open source wireframe kit for quick design and prototyping . Beautifully crafted easy to use wireframe kit with more than 150 mobile components and 50+ screens. Available for free commercial and personal use under a Creative Commons license, for Figma, Sketch, Adobe XD and Invision Studio.\r\n\r\n[**Contra Wireframe Kit**](https://contrauikit.com/) by [Vijay Verma](https://twitter.com/realvjy)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "GCHEL02",
+              "title": "**Contra Wireframe Kit**",
+              "url_domain": "contrauikit.com",
+              "url": "https://contrauikit.com/"
+            },
+            {
+              "identifier": "RfmZ5wL",
+              "title": "Vijay Verma",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/realvjy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "testing",
+      "name": "TESTING",
+      "items": [
+        {
+          "identifier": "Ubp5YzC",
+          "type": "Link",
+          "title": "All You Need to Know About Usability Testing",
+          "url_domain": "stickyminds.com",
+          "url": "https://www.stickyminds.com/article/taking-care-user-your-mobile-app-user-friendly-all-you-need-know-about-usability-testing",
+          "description": "<p>Business owners and developers must keep in mind that modern users can be very picky and demanding, and they must do their best to meet all their users' expectations. The best way to solve this issue is to perform usability testing regularly.</p>\n\n<p><a href=\"https://www.stickyminds.com/article/taking-care-user-your-mobile-app-user-friendly-all-you-need-know-about-usability-testing\"><strong>Taking Care of the User - Is Your Mobile App User-friendly? All You Need to Know About Usability Testing</strong></a> by <a href=\"https://www.linkedin.com/in/oleh-sadykow/\">Oleh Sadykow</a></p>",
+          "description_markdown": "Business owners and developers must keep in mind that modern users can be very picky and demanding, and they must do their best to meet all their users' expectations. The best way to solve this issue is to perform usability testing regularly.\r\n\r\n[**Taking Care of the User - Is Your Mobile App User-friendly? All You Need to Know About Usability Testing**](https://www.stickyminds.com/article/taking-care-user-your-mobile-app-user-friendly-all-you-need-know-about-usability-testing) by [Oleh Sadykow](https://www.linkedin.com/in/oleh-sadykow/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "wHvixEO",
+              "title": "**Taking Care of the User - Is Your Mobile App User-friendly? All You Need to Know About Usability Testing**",
+              "url_domain": "stickyminds.com",
+              "url": "https://www.stickyminds.com/article/taking-care-user-your-mobile-app-user-friendly-all-you-need-know-about-usability-testing"
+            },
+            {
+              "identifier": "4ON9vjC",
+              "title": "Oleh Sadykow",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/oleh-sadykow/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "JqzeSMo",
+          "type": "Link",
+          "title": "What’s new in .NET Productivity with Visual Studio 2022",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/visualstudio/whats-new-in-net-productivity-with-visual-studio-2022/",
+          "description": "<p>If you are using Windows, you should probably be using VS2022 already. Here are some top tips to become a VS Ninja!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/visualstudio/whats-new-in-net-productivity-with-visual-studio-2022/\"><strong>What’s new in .NET Productivity with Visual Studio 2022</strong></a> by <a href=\"https://twitter.com/mika_dumont\">Mika Dumont</a></p>",
+          "description_markdown": "If you are using Windows, you should probably be using VS2022 already. Here are some top tips to become a VS Ninja!\r\n\r\n[**What’s new in .NET Productivity with Visual Studio 2022**](https://devblogs.microsoft.com/visualstudio/whats-new-in-net-productivity-with-visual-studio-2022/) by [Mika Dumont](https://twitter.com/mika_dumont)",
+          "embedded_links": [
+            {
+              "identifier": "brPzJgZ",
+              "title": "**What’s new in .NET Productivity with Visual Studio 2022**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/whats-new-in-net-productivity-with-visual-studio-2022/"
+            },
+            {
+              "identifier": "jf3Dvhr",
+              "title": "Mika Dumont",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mika_dumont"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "ugLMvWn",
+          "type": "Link",
+          "title": "Introduction to Style Inheritance",
+          "url_domain": "blogspot.com",
+          "url": "https://xamarinmonkeys.blogspot.com/2021/12/xamarinforms-style-inheritance.html",
+          "description": "<p>How to implement Style Inheritance in Xamarin.Forms app</p>\n\n<p><a href=\"https://xamarinmonkeys.blogspot.com/2021/12/xamarinforms-style-inheritance.html\"><strong>Xamarin.Forms - Style Inheritance</strong></a> by <a href=\"https://twitter.com/susairajs18\">Delpin Susai Raj</a></p>",
+          "description_markdown": "How to implement Style Inheritance in Xamarin.Forms app\r\n\r\n[**Xamarin.Forms - Style Inheritance**](https://xamarinmonkeys.blogspot.com/2021/12/xamarinforms-style-inheritance.html) by [Delpin Susai Raj](https://twitter.com/susairajs18)",
+          "embedded_links": [
+            {
+              "identifier": "qBxznsU",
+              "title": "**Xamarin.Forms - Style Inheritance**",
+              "url_domain": "blogspot.com",
+              "url": "https://xamarinmonkeys.blogspot.com/2021/12/xamarinforms-style-inheritance.html"
+            },
+            {
+              "identifier": "HLhMO5s",
+              "title": "Delpin Susai Raj",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/susairajs18"
+            }
+          ]
+        },
+        {
+          "identifier": "53lPdce",
+          "type": "Link",
+          "title": "Machine Learning in Xamarin.Forms",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/machine-learning-in-xamarin-forms-with-onnx-runtime/",
+          "description": "<p>Machine learning can be used to add smart capabilities to mobile applications and enhance the user experience. Learn how to integrate machine learning into your Xamarin.Forms application with ONNX Runtime.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/machine-learning-in-xamarin-forms-with-onnx-runtime/\"><strong>Machine Learning in Xamarin.Forms with ONNX Runtime</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/mike-parker/\">Mike Parker</a></p>",
+          "description_markdown": "Machine learning can be used to add smart capabilities to mobile applications and enhance the user experience. Learn how to integrate machine learning into your Xamarin.Forms application with ONNX Runtime.\r\n\r\n[**Machine Learning in Xamarin.Forms with ONNX Runtime**](https://devblogs.microsoft.com/xamarin/machine-learning-in-xamarin-forms-with-onnx-runtime/) by [Mike Parker](https://devblogs.microsoft.com/xamarin/author/mike-parker/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "FBwJ31r",
+              "title": "**Machine Learning in Xamarin.Forms with ONNX Runtime**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/machine-learning-in-xamarin-forms-with-onnx-runtime/"
+            },
+            {
+              "identifier": "jSOe2Vg",
+              "title": "Mike Parker",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/mike-parker/"
+            }
+          ]
+        },
+        {
+          "identifier": "qoWXTY",
+          "type": "Link",
+          "title": "Control Templates in Xamarin.Forms",
+          "url_domain": "trailheadtechnology.com",
+          "url": "https://trailheadtechnology.com/control-templates-in-xamarin-forms",
+          "description": "<p>This is the second post in the custom control series where Rodrigo shows how to use control templates. A primary reason to use control templates is when you need additional content inserted into a custom control at a pre-defined location.</p>\n\n<p><a href=\"https://trailheadtechnology.com/control-templates-in-xamarin-forms\"><strong>Control Templates in Xamarin.Forms - Trailhead Technology Partners</strong></a> by <a href=\"https://twitter.com/rodrigojuarez\">Rodrigo Juarez</a></p>",
+          "description_markdown": "This is the second post in the custom control series where Rodrigo shows how to use control templates. A primary reason to use control templates is when you need additional content inserted into a custom control at a pre-defined location.\r\n\r\n[**Control Templates in Xamarin.Forms - Trailhead Technology Partners**](https://trailheadtechnology.com/control-templates-in-xamarin-forms) by [Rodrigo Juarez](https://twitter.com/rodrigojuarez)",
+          "embedded_links": [
+            {
+              "identifier": "LQfooLQ",
+              "title": "**Control Templates in Xamarin.Forms - Trailhead Technology Partners**",
+              "url_domain": "trailheadtechnology.com",
+              "url": "https://trailheadtechnology.com/control-templates-in-xamarin-forms"
+            },
+            {
+              "identifier": "tjxn7z0",
+              "title": "Rodrigo Juarez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rodrigojuarez"
+            }
+          ]
+        },
+        {
+          "identifier": "W1Fk9pP",
+          "type": "Link",
+          "title": "Building a mobile game in Xamarin Forms - BindableLayout",
+          "url_domain": "bijington.com",
+          "url": "https://blog.bijington.com/c#/xamarin/xamarin.forms/bindablelayout/2021/12/09/building-a-mobile-game-in-xamarin-forms-part-five.html",
+          "description": "<p>Shaun continues building out a game in Xamarin.Forms and this week he takes a look at Bindable Layouts.</p>\n\n<p><a href=\"https://blog.bijington.com/c#/xamarin/xamarin.forms/bindablelayout/2021/12/09/building-a-mobile-game-in-xamarin-forms-part-five.html\"><strong>Building a mobile game in Xamarin Forms - BindableLayout</strong></a> by <a href=\"https://twitter.com/bijington\">Shaun Lawrence</a></p>",
+          "description_markdown": "Shaun continues building out a game in Xamarin.Forms and this week he takes a look at Bindable Layouts.\r\n\r\n[**Building a mobile game in Xamarin Forms - BindableLayout**](https://blog.bijington.com/c#/xamarin/xamarin.forms/bindablelayout/2021/12/09/building-a-mobile-game-in-xamarin-forms-part-five.html) by [Shaun Lawrence](https://twitter.com/bijington)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "5UM9pos",
+              "title": "**Building a mobile game in Xamarin Forms - BindableLayout**",
+              "url_domain": "bijington.com",
+              "url": "https://blog.bijington.com/c#/xamarin/xamarin.forms/bindablelayout/2021/12/09/building-a-mobile-game-in-xamarin-forms-part-five.html"
+            },
+            {
+              "identifier": "DQUJKz6",
+              "title": "Shaun Lawrence",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bijington"
+            }
+          ]
+        },
+        {
+          "identifier": "Gq3zhGg",
+          "type": "Link",
+          "title": "Controls with NControl!",
+          "url_domain": "trailheadtechnology.com",
+          "url": "https://trailheadtechnology.com/controls-with-ncontrol",
+          "description": "<p>NControl is a wrapper for NGraphics, a cross-platform library you can use to create graphically rich interactive views and UI widgets on .NET.</p>\n\n<p><a href=\"https://trailheadtechnology.com/controls-with-ncontrol\"><strong>Controls with NControl!</strong></a> by <a href=\"https://trailheadtechnology.com/author/walter-aguilar/\">Walter Aguilar</a></p>",
+          "description_markdown": "NControl is a wrapper for NGraphics, a cross-platform library you can use to create graphically rich interactive views and UI widgets on .NET.  \r\n\r\n[**Controls with NControl!**](https://trailheadtechnology.com/controls-with-ncontrol) by [Walter Aguilar](https://trailheadtechnology.com/author/walter-aguilar/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ayRjTXd",
+              "title": "**Controls with NControl!**",
+              "url_domain": "trailheadtechnology.com",
+              "url": "https://trailheadtechnology.com/controls-with-ncontrol"
+            },
+            {
+              "identifier": "87w8rp7",
+              "title": "Walter Aguilar",
+              "url_domain": "trailheadtechnology.com",
+              "url": "https://trailheadtechnology.com/author/walter-aguilar/"
+            }
+          ]
+        },
+        {
+          "identifier": "UJzjTkt",
+          "type": "Link",
+          "title": "Xamarin UWP: Use multilanguage resource files properly",
+          "url_domain": "banditoth.hu",
+          "url": "https://www.banditoth.hu/2021/12/17/xamarin-uwp-use-multilanguage-resource-files-properly/",
+          "description": "<p>The language management of UWP apps works differently to its Android and iOS counterparts.</p>\n\n<p><a href=\"https://www.banditoth.hu/2021/12/17/xamarin-uwp-use-multilanguage-resource-files-properly/\"><strong>Xamarin UWP: Use multilanguage resource files properly</strong></a> by <a href=\"https://www.linkedin.com/in/banditoth/\">András Tóth</a></p>",
+          "description_markdown": "The language management of UWP apps works differently to its Android and iOS counterparts.\r\n\r\n[**Xamarin UWP: Use multilanguage resource files properly**](https://www.banditoth.hu/2021/12/17/xamarin-uwp-use-multilanguage-resource-files-properly/) by [András Tóth](https://www.linkedin.com/in/banditoth/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "sz8m5dE",
+              "title": "**Xamarin UWP: Use multilanguage resource files properly**",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/2021/12/17/xamarin-uwp-use-multilanguage-resource-files-properly/"
+            },
+            {
+              "identifier": "3GIqX3J",
+              "title": "András Tóth",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/banditoth/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "ka3zUnY",
+          "type": "Link",
+          "title": "Adding Shadows with .NET MAUI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/adding-shadows-with-net-maui/",
+          "description": "<p>Shadows can make our designs look more elegant and add emphasis to elements.  With .NET MAUI we have shadows integrated natively.</p>\n\n<p><a href=\"https://askxammy.com/adding-shadows-with-net-maui/\"><strong>Adding Shadows with .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Shadows can make our designs look more elegant and add emphasis to elements.  With .NET MAUI we have shadows integrated natively.\r\n\r\n[**Adding Shadows with .NET MAUI**](https://askxammy.com/adding-shadows-with-net-maui/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "FMILjDy",
+              "title": "**Adding Shadows with .NET MAUI**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/adding-shadows-with-net-maui/"
+            },
+            {
+              "identifier": "EJrRwe5",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "X6GS2S6",
+          "type": "Link",
+          "title": "Masking elements with Clipping in .NET MAUI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/masking-elements-with-clipping-in-net-maui/",
+          "description": "<p>With Clipping, we can mask content based on Shapes and it's available in MAUI.</p>\n\n<p><a href=\"https://askxammy.com/masking-elements-with-clipping-in-net-maui/\"><strong>Masking elements with Clipping in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "With Clipping, we can mask content based on Shapes and it's available in MAUI.\r\n\r\n[**Masking elements with Clipping in .NET MAUI**](https://askxammy.com/masking-elements-with-clipping-in-net-maui/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "16yy5jW",
+              "title": "**Masking elements with Clipping in .NET MAUI**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/masking-elements-with-clipping-in-net-maui/"
+            },
+            {
+              "identifier": "ElR7yZk",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "QNheZxx",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #37",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-37",
+          "description": "<p>Sam wraps up the week in MAUI news.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-37\"><strong>Sands of MAUI: Issue #37</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam wraps up the week in MAUI news.\r\n\r\n[**Sands of MAUI: Issue #37**](https://www.telerik.com/blogs/sands-maui-issue-37) by [Sam Basu](https://twitter.com/samidip)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "WCzvE53",
+              "title": "**Sands of MAUI: Issue #37**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-37"
+            },
+            {
+              "identifier": "iv50rFR",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "security",
+      "name": "SECURITY",
+      "items": [
+        {
+          "identifier": "57wX7CV",
+          "type": "Link",
+          "title": "LDAP Authentication",
+          "url_domain": "dankyungu.co",
+          "url": "https://dankyungu.co/ldap-authentification-through-xamarinforms-maui",
+          "description": "<p>Allow your Xamarin / MAUI application reuse enterprise internal authentication system hosted on a LDAP Directory Server.</p>\n\n<p><a href=\"https://dankyungu.co/ldap-authentification-through-xamarinforms-maui\"><strong>LDAP Authentification with Xamarin.Forms(MAUI)</strong></a> by <a href=\"https://twitter.com/DanKyungu\">Dan Kyungu</a></p>",
+          "description_markdown": "Allow your Xamarin / MAUI application reuse enterprise internal authentication system hosted on a LDAP Directory Server.\r\n\r\n[**LDAP Authentification with Xamarin.Forms(MAUI)**](https://dankyungu.co/ldap-authentification-through-xamarinforms-maui) by [Dan Kyungu](https://twitter.com/DanKyungu)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "PUEOJAN",
+              "title": "**LDAP Authentification with Xamarin.Forms(MAUI)**",
+              "url_domain": "dankyungu.co",
+              "url": "https://dankyungu.co/ldap-authentification-through-xamarinforms-maui"
+            },
+            {
+              "identifier": "dqfI8Xj",
+              "title": "Dan Kyungu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DanKyungu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "vXOwgJV",
+          "type": "Link",
+          "title": "Introduction to .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=O9vdLKMudXQ",
+          "description": "<p>.NET Multi-platform App UI is successor of Xamarin.Forms. MAUI allows you to create native mobile and desktop apps with shared code base. In this session, I will present how development with new Microsoft framework will look like.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=O9vdLKMudXQ\"><strong>Xamarin Warsaw Mobile Developers #22 - Damian Antonowicz - Introduction to .NET MAUI</strong></a> by <a href=\"https://twitter.com/d_antonowicz\">Damian Antonowicz</a></p>",
+          "description_markdown": ".NET Multi-platform App UI is successor of Xamarin.Forms. MAUI allows you to create native mobile and desktop apps with shared code base. In this session, I will present how development with new Microsoft framework will look like.\r\n\r\n[**Xamarin Warsaw Mobile Developers #22 - Damian Antonowicz - Introduction to .NET MAUI**](https://www.youtube.com/watch?v=O9vdLKMudXQ) by [Damian Antonowicz](https://twitter.com/d_antonowicz)",
+          "embedded_links": [
+            {
+              "identifier": "PyFXENZ",
+              "title": "**Xamarin Warsaw Mobile Developers #22 - Damian Antonowicz - Introduction to .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=O9vdLKMudXQ"
+            },
+            {
+              "identifier": "t9YOdab",
+              "title": "Damian Antonowicz",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/d_antonowicz"
+            }
+          ]
+        },
+        {
+          "identifier": "8xptgxN",
+          "type": "Link",
+          "title": "Xamarin & Apps with Modern UI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=rfZxNqDRJYk",
+          "description": "<p>Mobile App designing &amp; developing is very crucial to its success and to ensure that the design is in sync with the users’ preferences, the UI/UX trends must be known and implemented. As we know the phrases UI &amp; UX design are increasingly used in mobile app designing. Today we will take a look at the professionally designed, modern Mobile App UI Designs and explain how it can be implemented in Xamarin.Forms.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=rfZxNqDRJYk\"><strong>Xamarin Warsaw Mobile Developers #22 - Bohdan Benetskyi - Xamarin &amp; Apps with Modern UI</strong></a> by <a href=\"https://twitter.com/bbenetskyy\">Bohdan Benetskyi</a></p>",
+          "description_markdown": "Mobile App designing & developing is very crucial to its success and to ensure that the design is in sync with the users’ preferences, the UI/UX trends must be known and implemented. As we know the phrases UI & UX design are increasingly used in mobile app designing. Today we will take a look at the professionally designed, modern Mobile App UI Designs and explain how it can be implemented in Xamarin.Forms.\r\n\r\n[**Xamarin Warsaw Mobile Developers #22 - Bohdan Benetskyi - Xamarin & Apps with Modern UI**](https://www.youtube.com/watch?v=rfZxNqDRJYk) by [Bohdan Benetskyi](https://twitter.com/bbenetskyy)",
+          "embedded_links": [
+            {
+              "identifier": "RF0MwGC",
+              "title": "**Xamarin Warsaw Mobile Developers #22 - Bohdan Benetskyi - Xamarin & Apps with Modern UI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=rfZxNqDRJYk"
+            },
+            {
+              "identifier": "fsqWP3T",
+              "title": "Bohdan Benetskyi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bbenetskyy"
+            }
+          ]
+        },
+        {
+          "identifier": "inCKaQO",
+          "type": "Link",
+          "title": "Controlling Image Caching in Xamarin.Forms & .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=fdL-3mhUThY",
+          "description": "<p>Did you know that Xamarin.Forms &amp; .NET MAUI automatically download and caches images for a full 24 hours?!?! There are awesome libraries out there for Images with Xamarin.Forms such as FFImageLoading and Nuke, but the built -in Image is super powerful and you have control over just how long images are cached. Today, I walk through how to setup and control Images in Xamarin.Forms and .NET MAUI and ensure that images get cached for the correct amount of time.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=fdL-3mhUThY\"><strong>Controlling Image Caching in Xamarin.Forms &amp; .NET MAUI</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Did you know that Xamarin.Forms & .NET MAUI automatically download and caches images for a full 24 hours?!?! There are awesome libraries out there for Images with Xamarin.Forms such as FFImageLoading and Nuke, but the built -in Image is super powerful and you have control over just how long images are cached. Today, I walk through how to setup and control Images in Xamarin.Forms and .NET MAUI and ensure that images get cached for the correct amount of time.\r\n\r\n[**Controlling Image Caching in Xamarin.Forms & .NET MAUI**](https://www.youtube.com/watch?v=fdL-3mhUThY) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "QdIpy41",
+              "title": "**Controlling Image Caching in Xamarin.Forms & .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=fdL-3mhUThY"
+            },
+            {
+              "identifier": "DJZ9Mtt",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "dvGPoRt",
+          "type": "Link",
+          "title": "The .NET MAUI Podcast Episode 103: 2021 - It Was a Good One",
+          "url_domain": "dotnetmauipodcast.com",
+          "url": "https://www.dotnetmauipodcast.com/103",
+          "description": "<p>Join Matt &amp; James as they review the new .NET MAUI features, how to author Visual Studio extensions and the latest Azure news.</p>\n\n<p><a href=\"https://www.dotnetmauipodcast.com/103\"><strong>The .NET MAUI Podcast Episode 103: 2021 - It Was a Good One</strong></a> by <a href=\"https://www.dotnetmauipodcast.com/\">.NET MAUI Podcast</a></p>",
+          "description_markdown": "Join Matt & James as they review the new .NET MAUI features, how to author Visual Studio extensions and the latest Azure news.\r\n\r\n[**The .NET MAUI Podcast Episode 103: 2021 - It Was a Good One**](https://www.dotnetmauipodcast.com/103) by [.NET MAUI Podcast](https://www.dotnetmauipodcast.com/)",
+          "embedded_links": [
+            {
+              "identifier": "9a0RCKT",
+              "title": "**The .NET MAUI Podcast Episode 103: 2021 - It Was a Good One**",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/103"
+            },
+            {
+              "identifier": "Nvlp0te",
+              "title": ".NET MAUI Podcast",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "CW1fKHC",
+          "type": "Link",
+          "title": "How To Write Platform-Specific Code in .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=fsO6pXz0umc",
+          "description": "<p>At some point you will find yourself needing to write some platform code while using .NET MAUI. Luckily, this is very much possible! In this video we will see how to leverage the multi-targeting approach in .NET MAUI single project to write platform-specific code.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=fsO6pXz0umc\"><strong>How To Write Platform-Specific Code in .NET MAUI</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "At some point you will find yourself needing to write some platform code while using .NET MAUI. Luckily, this is very much possible! In this video we will see how to leverage the multi-targeting approach in .NET MAUI single project to write platform-specific code.\r\n\r\n[**How To Write Platform-Specific Code in .NET MAUI**](https://www.youtube.com/watch?v=fsO6pXz0umc) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "RRC2pTR",
+              "title": "**How To Write Platform-Specific Code in .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=fsO6pXz0umc"
+            },
+            {
+              "identifier": "jvV7OQZ",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "4c88u8Q",
+          "type": "Link",
+          "title": "Visual Studio 2022 for Mac Preview 4",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-4/",
+          "description": "<p>Visual Studio 2022 for Mac Preview 4 release is here, and continues our move of the IDE to fully native macOS UI, fixes many top issues, and introduces new experiences for laying out your windows and searching your source.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-4/\"><strong>Visual Studio 2022 for Mac Preview 4</strong></a> by <a href=\"https://twitter.com/jmatthiesen\">Jordan Matthiesen</a></p>",
+          "description_markdown": "Visual Studio 2022 for Mac Preview 4 release is here, and continues our move of the IDE to fully native macOS UI, fixes many top issues, and introduces new experiences for laying out your windows and searching your source.\r\n\r\n[**Visual Studio 2022 for Mac Preview 4**](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-4/) by [Jordan Matthiesen](https://twitter.com/jmatthiesen)",
+          "embedded_links": [
+            {
+              "identifier": "1Q9jIoM",
+              "title": "**Visual Studio 2022 for Mac Preview 4**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-4/"
+            },
+            {
+              "identifier": "BkydSYj",
+              "title": "Jordan Matthiesen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jmatthiesen"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

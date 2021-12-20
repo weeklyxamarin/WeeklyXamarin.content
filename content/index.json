@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "333",
+      "Name": "Issue 333",
+      "UpdatedTimeStamp": "2021-12-20T02:34:15Z",
+      "Summary": "Visual Studio Productivity, MAUI know how, and lots of design resources",
+      "PublishDate": "2021-12-20T02:34:10Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "332",
       "Name": "Issue 332",
       "UpdatedTimeStamp": "2021-12-13T11:34:28Z",
