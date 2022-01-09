@@ -635,6 +635,16 @@
       "Aliases": []
     },
     {
+      "Name": "Cosima Mielke",
+      "Id": "9bbcc180-84f9-4ef6-8993-2abf57ddcf70",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.smashingmagazine.com/author/cosima-mielke/"
+        }
+      ]
+    },
+    {
       "Name": "Craig Dunn",
       "Id": "08f95729-c07e-4b64-b0ea-e478260f387f",
       "Aliases": [

@@ -1,0 +1,845 @@
+{
+  "number": 334,
+  "title": "Issue 334",
+  "summary": "It's 2022 - Let's Gooooo!",
+  "url": "https://weeklyxamarin.com/issues/334",
+  "publication_status": "published",
+  "published_at": "2022-01-09T21:54:29+00:00",
+  "updated_at": "2022-01-09T21:54:34+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #334 of Weekly Xamarin - a weekly overview of what happened this past week in the Xamarin and MAUI communities.</p>\n\n<p>It's now 2022 and we here at Weekly Xamarin hope everyone has had a refreshing break over the new year period and are now ready to start the new year.</p>\n\n<p>This weeks edition is overflowing with articles published during the New Years  break when everyone was supposed to be on holidays. I'm playing catchup, so sorry about the number of articles.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #334 of Weekly Xamarin - a weekly overview of what happened this past week in the Xamarin and MAUI communities.\r\n\r\nIt's now 2022 and we here at Weekly Xamarin hope everyone has had a refreshing break over the new year period and are now ready to start the new year. \r\n\r\nThis weeks edition is overflowing with articles published during the New Years  break when everyone was supposed to be on holidays. I'm playing catchup, so sorry about the number of articles.\r\n\r\n❤ \r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "yQNhLo0",
+          "type": "Link",
+          "title": "Useful UX Guidelines, Tools And Resources ",
+          "url_domain": "smashingmagazine.com",
+          "url": "https://www.smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
+          "description": "<p>A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.</p>\n\n<p><a href=\"https://www.smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/\"><strong>Useful UX Guidelines, Tools And Resources — Smashing Magazine</strong></a> by <a href=\"https://www.smashingmagazine.com/author/cosima-mielke/\">Cosima Mielke</a></p>",
+          "description_markdown": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.\r\n\r\n[**Useful UX Guidelines, Tools And Resources — Smashing Magazine**](https://www.smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/) by [Cosima Mielke](https://www.smashingmagazine.com/author/cosima-mielke/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "oAHIlm6",
+              "title": "**Useful UX Guidelines, Tools And Resources — Smashing Magazine**",
+              "url_domain": "smashingmagazine.com",
+              "url": "https://www.smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/"
+            },
+            {
+              "identifier": "HmKO1vq",
+              "title": "Cosima Mielke",
+              "url_domain": "smashingmagazine.com",
+              "url": "https://www.smashingmagazine.com/author/cosima-mielke/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "jdZ2XfP",
+          "type": "Link",
+          "title": "Converting Xamarin Native templates to .NET 6",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/converting-xamarin-native-templates-to-net-6/",
+          "description": "<p>Andreas is impatient and wants the Xamarin Native templates to be updated to the new SDK-Style projects. And here is how.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/converting-xamarin-native-templates-to-net-6/\"><strong>Converting Xamarin Native templates to .NET 6 - Andreas Nesheim</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "Andreas is impatient and wants the Xamarin Native templates to be updated to the new SDK-Style projects. And here is how.\r\n\r\n[**Converting Xamarin Native templates to .NET 6 - Andreas Nesheim**](https://www.andreasnesheim.no/converting-xamarin-native-templates-to-net-6/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "l9MmBFm",
+              "title": "**Converting Xamarin Native templates to .NET 6 - Andreas Nesheim**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/converting-xamarin-native-templates-to-net-6/"
+            },
+            {
+              "identifier": "RuiHwNl",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "fG1HGhf",
+          "type": "Link",
+          "title": "Using SVG files as App Icons in iOS & Android Xamarin apps",
+          "url_domain": "medium.com",
+          "url": "https://prototypemakers.medium.com/using-svg-files-as-your-app-icon-in-your-ios-android-xamarin-apps-22a747a5144e",
+          "description": "<p>Using ResizetizerNT to generate all the tedious Xcassets, PNGs &amp; XMLs files, including adaptive and round icons.</p>\n\n<p><a href=\"https://prototypemakers.medium.com/using-svg-files-as-your-app-icon-in-your-ios-android-xamarin-apps-22a747a5144e\"><strong>Using SVG files as App Icons in iOS &amp; Android Xamarin apps</strong></a> by <a href=\"https://twitter.com/saamerm\">Saamer Mansoor</a></p>",
+          "description_markdown": "Using ResizetizerNT to generate all the tedious Xcassets, PNGs & XMLs files, including adaptive and round icons.\r\n\r\n[**Using SVG files as App Icons in iOS & Android Xamarin apps**](https://prototypemakers.medium.com/using-svg-files-as-your-app-icon-in-your-ios-android-xamarin-apps-22a747a5144e) by [Saamer Mansoor](https://twitter.com/saamerm)",
+          "embedded_links": [
+            {
+              "identifier": "uZrdKNw",
+              "title": "**Using SVG files as App Icons in iOS & Android Xamarin apps**",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com/using-svg-files-as-your-app-icon-in-your-ios-android-xamarin-apps-22a747a5144e"
+            },
+            {
+              "identifier": "N636yDJ",
+              "title": "Saamer Mansoor",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/saamerm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "aHuFmij",
+          "type": "Link",
+          "title": "Xamarin.Forms and Draggable View",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/nerd-for-tech/xamarin-forms-and-draggable-view-the-new-year-tale-446632aa18d9",
+          "description": "<p>It’s New Year Tale about how to make Draggable View in Xamarin.Forms Application.</p>\n\n<p><a href=\"https://medium.com/nerd-for-tech/xamarin-forms-and-draggable-view-the-new-year-tale-446632aa18d9\"><strong>Xamarin.Forms and Draggable View. The New Year Tale</strong></a> by <a href=\"https://twitter.com/bbenetskyy\">Bohdan Benetskyi</a></p>",
+          "description_markdown": "It’s New Year Tale about how to make Draggable View in Xamarin.Forms Application.\r\n\r\n[**Xamarin.Forms and Draggable View. The New Year Tale**](https://medium.com/nerd-for-tech/xamarin-forms-and-draggable-view-the-new-year-tale-446632aa18d9) by [Bohdan Benetskyi](https://twitter.com/bbenetskyy)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "gwf1X5V",
+              "title": "**Xamarin.Forms and Draggable View. The New Year Tale**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/nerd-for-tech/xamarin-forms-and-draggable-view-the-new-year-tale-446632aa18d9"
+            },
+            {
+              "identifier": "zD986c3",
+              "title": "Bohdan Benetskyi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bbenetskyy"
+            }
+          ]
+        },
+        {
+          "identifier": "Klgaouv",
+          "type": "Link",
+          "title": "Improving the UX when loading data in Xamarin Forms",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/improving-the-ux-when-loading-data-in-xamarin-forms/",
+          "description": "<p>Loading data is one of the most common tasks that we do in a mobile application. Make it more enjoyable for your users by using some of these techniques.</p>\n\n<p><a href=\"https://xamgirl.com/improving-the-ux-when-loading-data-in-xamarin-forms/\"><strong>Improving the UX when loading data in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "Loading data is one of the most common tasks that we do in a mobile application. Make it more enjoyable for your users by using some of these techniques.\r\n\r\n[**Improving the UX when loading data in Xamarin Forms**](https://xamgirl.com/improving-the-ux-when-loading-data-in-xamarin-forms/) by [Charlin Agramonte](https://twitter.com/chard003)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "eYUOuBL",
+              "title": "**Improving the UX when loading data in Xamarin Forms**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/improving-the-ux-when-loading-data-in-xamarin-forms/"
+            },
+            {
+              "identifier": "S30BJLk",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "DeTFNzo",
+          "type": "Link",
+          "title": "Understanding Paths in Data Binding",
+          "url_domain": "jesseliberty.com",
+          "url": "https://jesseliberty.com/2021/12/29/11531/",
+          "description": "<p>This is the first in a series on advanced data binding. This post focuses on understanding how paths are constructed and used in Data Binding.</p>\n\n<p><a href=\"https://jesseliberty.com/2021/12/29/11531/\"><strong>Advanced Data Binding Part 1</strong></a> by <a href=\"https://twitter.com/rodrigojuarez\">Rodrigo Juarez</a></p>",
+          "description_markdown": "This is the first in a series on advanced data binding. This post focuses on understanding how paths are constructed and used in Data Binding.\r\n\r\n[**Advanced Data Binding Part 1**](https://jesseliberty.com/2021/12/29/11531/) by [Rodrigo Juarez](https://twitter.com/rodrigojuarez)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "bDoqk5m",
+              "title": "**Advanced Data Binding Part 1**",
+              "url_domain": "jesseliberty.com",
+              "url": "https://jesseliberty.com/2021/12/29/11531/"
+            },
+            {
+              "identifier": "KSUw6du",
+              "title": "Rodrigo Juarez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rodrigojuarez"
+            }
+          ]
+        },
+        {
+          "identifier": "YLDsqPg",
+          "type": "Link",
+          "title": "Understanding Converters in Databinding",
+          "url_domain": "jesseliberty.com",
+          "url": "https://jesseliberty.com/2022/01/03/advanced-databinding-part-2-converters/",
+          "description": "<p>There are times when you need to bind to a source but the source is not in the right format or otherwise needs to be manipulated. This is where Converters shine.</p>\n\n<p><a href=\"https://jesseliberty.com/2022/01/03/advanced-databinding-part-2-converters/\"><strong>Advanced Databinding Part 2: Converters</strong></a> by <a href=\"https://twitter.com/rodrigojuarez\">Rodrigo Juarez</a></p>",
+          "description_markdown": "There are times when you need to bind to a source but the source is not in the right format or otherwise needs to be manipulated. This is where Converters shine.\r\n\r\n[**Advanced Databinding Part 2: Converters**](https://jesseliberty.com/2022/01/03/advanced-databinding-part-2-converters/) by [Rodrigo Juarez](https://twitter.com/rodrigojuarez)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "TtO7nUi",
+              "title": "**Advanced Databinding Part 2: Converters**",
+              "url_domain": "jesseliberty.com",
+              "url": "https://jesseliberty.com/2022/01/03/advanced-databinding-part-2-converters/"
+            },
+            {
+              "identifier": "IZhhgvu",
+              "title": "Rodrigo Juarez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rodrigojuarez"
+            }
+          ]
+        },
+        {
+          "identifier": "QCsXUHw",
+          "type": "Link",
+          "title": "Getting Xamarin.Forms Prism navigation service to throw exceptions",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/make-xamarin-forms-prism-navigation-service-raise-exceptions/",
+          "description": "<p>Prism stopped raising exceptions on navigation at some point and now returns a INavigationResult which has a Exception property. Maybe you want to change that, well, this post will show you how.</p>\n\n<p><a href=\"https://www.sharpnado.com/make-xamarin-forms-prism-navigation-service-raise-exceptions/\"><strong>Getting Xamarin.Forms Prism navigation service to throw exceptions</strong></a> by <a href=\"https://twitter.com/Piskariov\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "Prism stopped raising exceptions on navigation at some point and now returns a INavigationResult which has a Exception property. Maybe you want to change that, well, this post will show you how.\r\n\r\n[**Getting Xamarin.Forms Prism navigation service to throw exceptions**](https://www.sharpnado.com/make-xamarin-forms-prism-navigation-service-raise-exceptions/) by [Jean-Marie Alfonsi](https://twitter.com/Piskariov)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "XRxX87E",
+              "title": "**Getting Xamarin.Forms Prism navigation service to throw exceptions**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/make-xamarin-forms-prism-navigation-service-raise-exceptions/"
+            },
+            {
+              "identifier": "Z8orNb2",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Piskariov"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "cqPFLLT",
+          "type": "Link",
+          "title": "Getting started with Font Scaling in .NET MAUI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/getting-started-with-font-scaling-in-net-maui/",
+          "description": "<p>Having your application adapt to the font size settings configured in the Operating System makes  for a good user experience. This can be achieved by using Font Scaling. Learn how to use this feature in .NET MAUI.</p>\n\n<p><a href=\"https://askxammy.com/getting-started-with-font-scaling-in-net-maui/\"><strong>Getting started with Font Scaling in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Having your application adapt to the font size settings configured in the Operating System makes  for a good user experience. This can be achieved by using Font Scaling. Learn how to use this feature in .NET MAUI.\r\n\r\n[**Getting started with Font Scaling in .NET MAUI**](https://askxammy.com/getting-started-with-font-scaling-in-net-maui/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "vlGQSvc",
+              "title": "**Getting started with Font Scaling in .NET MAUI**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/getting-started-with-font-scaling-in-net-maui/"
+            },
+            {
+              "identifier": "DfgOZ9T",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "wI4hSVQ",
+          "type": "Link",
+          "title": "MAUI Preview 11 is here!",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-preview-11",
+          "description": "<p>.NET MAUI Preview 11 continues to stabilize controls and layouts, and introduces multi-window and Fluent updates for Windows.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-preview-11\"><strong>Announcing .NET MAUI Preview 11</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": ".NET MAUI Preview 11 continues to stabilize controls and layouts, and introduces multi-window and Fluent updates for Windows.\r\n\r\n[**Announcing .NET MAUI Preview 11**](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-preview-11) by [David Ortinau](https://twitter.com/davidortinau)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "DqjoPu2",
+              "title": "**Announcing .NET MAUI Preview 11**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-preview-11"
+            },
+            {
+              "identifier": "nYa19hU",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        },
+        {
+          "identifier": "wJfzDjn",
+          "type": "Link",
+          "title": "Building .NET MAUI apps with GitHub Actions",
+          "url_domain": "taranissoftware.com",
+          "url": "https://blog.taranissoftware.com/building-net-maui-apps-with-github-actions",
+          "description": "<p>Using GitHub Actions to build a cross platform .NET MAUI app for Android, iOS, MacCatalyst and Windows is complicated. Dave explains each step in the process.</p>\n\n<p><a href=\"https://blog.taranissoftware.com/building-net-maui-apps-with-github-actions\"><strong>Building .NET MAUI apps with GitHub Actions</strong></a> by <a href=\"https://github.com/irongut\">Dave Murray</a></p>",
+          "description_markdown": "Using GitHub Actions to build a cross platform .NET MAUI app for Android, iOS, MacCatalyst and Windows is complicated. Dave explains each step in the process.\r\n\r\n[**Building .NET MAUI apps with GitHub Actions**](https://blog.taranissoftware.com/building-net-maui-apps-with-github-actions) by [Dave Murray](https://github.com/irongut)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "mJXu71O",
+              "title": "**Building .NET MAUI apps with GitHub Actions**",
+              "url_domain": "taranissoftware.com",
+              "url": "https://blog.taranissoftware.com/building-net-maui-apps-with-github-actions"
+            },
+            {
+              "identifier": "Ni47ZVc",
+              "title": "Dave Murray",
+              "url_domain": "github.com",
+              "url": "https://github.com/irongut"
+            }
+          ]
+        },
+        {
+          "identifier": "SQBxVMP",
+          "type": "Link",
+          "title": "Installing .NET MAUI on macOS",
+          "url_domain": "dev.to",
+          "url": "https://dev.to/davidortinau/installing-net-maui-on-macos-4mmc",
+          "description": "<p>In this post David covers how you can setup your macOS environment to build .NET MAUI apps even without VS2022.</p>\n\n<p><a href=\"https://dev.to/davidortinau/installing-net-maui-on-macos-4mmc\"><strong>Installing .NET MAUI on macOS</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": "In this post David covers how you can setup your macOS environment to build .NET MAUI apps even without VS2022.\r\n\r\n[**Installing .NET MAUI on macOS**](https://dev.to/davidortinau/installing-net-maui-on-macos-4mmc) by [David Ortinau](https://twitter.com/davidortinau)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "M8KSjOT",
+              "title": "**Installing .NET MAUI on macOS**",
+              "url_domain": "dev.to",
+              "url": "https://dev.to/davidortinau/installing-net-maui-on-macos-4mmc"
+            },
+            {
+              "identifier": "BPI10rI",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        },
+        {
+          "identifier": "nOGECSn",
+          "type": "Link",
+          "title": "The more things change, the more they stay the same",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/looking-for-things-to-start-migrating-from-xamarin-to-net-maui/",
+          "description": "<p>.NET MAUI has it's roots in Xamarin.Forms and as such, there are parts in Maui that are exactly the same. In this post, Leomaris looks at a few of those things.</p>\n\n<p><a href=\"https://askxammy.com/looking-for-things-to-start-migrating-from-xamarin-to-net-maui/\"><strong>Looking for things to start migrating from Xamarin to .NET MAUI?</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": ".NET MAUI has it's roots in Xamarin.Forms and as such, there are parts in Maui that are exactly the same. In this post, Leomaris looks at a few of those things.\r\n\r\n[**Looking for things to start migrating from Xamarin to .NET MAUI?**](https://askxammy.com/looking-for-things-to-start-migrating-from-xamarin-to-net-maui/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "VXuZEv5",
+              "title": "**Looking for things to start migrating from Xamarin to .NET MAUI?**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/looking-for-things-to-start-migrating-from-xamarin-to-net-maui/"
+            },
+            {
+              "identifier": "JQe4B8I",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "3g3sWxq",
+          "type": "Link",
+          "title": "Upgrading Xamarin.Forms projects to .NET MAUI with upgrade assistant",
+          "url_domain": "banditoth.hu",
+          "url": "https://www.banditoth.hu/2021/12/30/upgrading-xamarin-forms-projects-to-net-maui/",
+          "description": "<p>Using the Upgrade Assistant to migrate a Xamarin.Forms app to .NET MUAI.</p>\n\n<p><a href=\"https://www.banditoth.hu/2021/12/30/upgrading-xamarin-forms-projects-to-net-maui/\"><strong>Upgrading Xamarin.Forms projects to .NET MAUI with upgrade assistant</strong></a> by <a href=\"https://www.banditoth.hu/\">András Tóth</a></p>",
+          "description_markdown": "Using the Upgrade Assistant to migrate a Xamarin.Forms app to .NET MUAI.\r\n\r\n[**Upgrading Xamarin.Forms projects to .NET MAUI with upgrade assistant**](https://www.banditoth.hu/2021/12/30/upgrading-xamarin-forms-projects-to-net-maui/) by [András Tóth](https://www.banditoth.hu/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "SPhsBQB",
+              "title": "**Upgrading Xamarin.Forms projects to .NET MAUI with upgrade assistant**",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/2021/12/30/upgrading-xamarin-forms-projects-to-net-maui/"
+            },
+            {
+              "identifier": "Afh1PZu",
+              "title": "András Tóth",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/"
+            }
+          ]
+        },
+        {
+          "identifier": "JEvS7OF",
+          "type": "Link",
+          "title": "Setup .NET MAUI project on macOS",
+          "url_domain": "banditoth.hu",
+          "url": "https://www.banditoth.hu/2021/12/29/setup-net-maui-project-on-macos/",
+          "description": "<p>András looks into getting starting with creating .NET MAUI apps on macOS.</p>\n\n<p><a href=\"https://www.banditoth.hu/2021/12/29/setup-net-maui-project-on-macos/\"><strong>Setup .NET MAUI project on macOS</strong></a> by <a href=\"https://www.banditoth.hu/\">András Tóth</a></p>",
+          "description_markdown": "András looks into getting starting with creating .NET MAUI apps on macOS.\r\n\r\n[**Setup .NET MAUI project on macOS**](https://www.banditoth.hu/2021/12/29/setup-net-maui-project-on-macos/) by [András Tóth](https://www.banditoth.hu/)",
+          "embedded_links": [
+            {
+              "identifier": "4ImEts9",
+              "title": "**Setup .NET MAUI project on macOS**",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/2021/12/29/setup-net-maui-project-on-macos/"
+            },
+            {
+              "identifier": "BVy50Sv",
+              "title": "András Tóth",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/"
+            }
+          ]
+        },
+        {
+          "identifier": "XgfiGm4",
+          "type": "Link",
+          "title": "Some little tips to start studying .NET MAUI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/some-little-tips-to-start-studying-net-maui/",
+          "description": "<p>3 steps you can be taking to upskill and get ready for .NET MAUI</p>\n\n<p><a href=\"https://askxammy.com/some-little-tips-to-start-studying-net-maui/\"><strong>Some little tips to start studying .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "3 steps you can be taking to upskill and get ready for .NET MAUI\r\n\r\n[**Some little tips to start studying .NET MAUI**](https://askxammy.com/some-little-tips-to-start-studying-net-maui/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "A7RS9jj",
+              "title": "**Some little tips to start studying .NET MAUI**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/some-little-tips-to-start-studying-net-maui/"
+            },
+            {
+              "identifier": "85W93P0",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "2K25NAb",
+          "type": "Link",
+          "title": "Syncfusion .NET MAUI Radial Gauge Control",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/dotnet-maui-radial-gauge-control.aspx",
+          "description": "<p>Syncfusion's radial guage for .NET MAUI is looking pretty sweet. You can use this control to design speedometers, temperature monitors, sleep trackers, circular progress indicators, watches, compasses, and more.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/dotnet-maui-radial-gauge-control.aspx\"><strong>Everything You Need to Know About .NET MAUI Radial Gauge Control</strong></a> by <a href=\"https://twitter.com/Syncfusion\">Syncfusion</a></p>",
+          "description_markdown": "Syncfusion's radial guage for .NET MAUI is looking pretty sweet. You can use this control to design speedometers, temperature monitors, sleep trackers, circular progress indicators, watches, compasses, and more.\r\n\r\n[**Everything You Need to Know About .NET MAUI Radial Gauge Control**](https://www.syncfusion.com/blogs/post/dotnet-maui-radial-gauge-control.aspx) by [Syncfusion](https://twitter.com/Syncfusion)",
+          "embedded_links": [
+            {
+              "identifier": "82VWe70",
+              "title": "**Everything You Need to Know About .NET MAUI Radial Gauge Control**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/dotnet-maui-radial-gauge-control.aspx"
+            },
+            {
+              "identifier": "jpGXLlQ",
+              "title": "Syncfusion",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Syncfusion"
+            }
+          ]
+        },
+        {
+          "identifier": "eDnnM9m",
+          "type": "Link",
+          "title": "Horizontal & Vertical StackLayout in .NET MAUI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/horizontal-verticalstacklayout-in-net-maui/",
+          "description": "<p>StackLayout is one of the most useful layout types in Xamarin.Forms. In MAUI it has been replaced with a Vertical and a Horizontal StackLayout.</p>\n\n<p><a href=\"https://askxammy.com/horizontal-verticalstacklayout-in-net-maui/\"><strong>Horizontal &amp; VerticalStackLayout in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "StackLayout is one of the most useful layout types in Xamarin.Forms. In MAUI it has been replaced with a Vertical and a Horizontal StackLayout.\r\n\r\n[**Horizontal & VerticalStackLayout in .NET MAUI**](https://askxammy.com/horizontal-verticalstacklayout-in-net-maui/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "5tQKhdD",
+              "title": "**Horizontal & VerticalStackLayout in .NET MAUI**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/horizontal-verticalstacklayout-in-net-maui/"
+            },
+            {
+              "identifier": "eu4T7Am",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "cdSmH00",
+          "type": "Link",
+          "title": "Semantic focus with .NET MAUI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/semantic-focus-with-net-maui/",
+          "description": "<p>Accessibility features are one of the important design decisions of .NET MAUI.</p>\n\n<p><a href=\"https://askxammy.com/semantic-focus-with-net-maui/\"><strong>Semantic focus with .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Accessibility features are one of the important design decisions of .NET MAUI.\r\n\r\n[**Semantic focus with .NET MAUI**](https://askxammy.com/semantic-focus-with-net-maui/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "22tedO5",
+              "title": "**Semantic focus with .NET MAUI**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/semantic-focus-with-net-maui/"
+            },
+            {
+              "identifier": "hNl7GJj",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "Iqvuuqr",
+          "type": "Link",
+          "title": "Learn How to Use Dependency Injection in .NET MAUI",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/learn-how-to-use-dependency-injection-in-net-maui.aspx",
+          "description": "<p>As you know, .NET MAUI evolved from Xamarin.Forms with a better developer experience and better performance. Like adding a gem to a crown, .NET MAUI allows the use of dependency injection way easier than Xamarin.Forms.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/learn-how-to-use-dependency-injection-in-net-maui.aspx\"><strong>Learn How to Use Dependency Injection in .NET MAUI</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "As you know, .NET MAUI evolved from Xamarin.Forms with a better developer experience and better performance. Like adding a gem to a crown, .NET MAUI allows the use of dependency injection way easier than Xamarin.Forms.\r\n\r\n[**Learn How to Use Dependency Injection in .NET MAUI**](https://www.syncfusion.com/blogs/post/learn-how-to-use-dependency-injection-in-net-maui.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)",
+          "embedded_links": [
+            {
+              "identifier": "hiIdZsZ",
+              "title": "**Learn How to Use Dependency Injection in .NET MAUI**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/learn-how-to-use-dependency-injection-in-net-maui.aspx"
+            },
+            {
+              "identifier": "WrZlWHD",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        },
+        {
+          "identifier": "D8uMaX4",
+          "type": "Link",
+          "title": "Introduction to MAUI",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/introduction-to-dotnet-maui/",
+          "description": "<p>Damien gives an introduction to MAUI and some of it's capabilities and advantages.</p>\n\n<p><a href=\"https://doumer.me/introduction-to-dotnet-maui/\"><strong>Introduction to Dotnet MAUI - Cool Coders</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "Damien gives an introduction to MAUI and some of it's capabilities and advantages.\r\n\r\n[**Introduction to Dotnet MAUI - Cool Coders**](https://doumer.me/introduction-to-dotnet-maui/) by [Damien Doumer](https://twitter.com/damien_doumer)",
+          "embedded_links": [
+            {
+              "identifier": "9dDADat",
+              "title": "**Introduction to Dotnet MAUI - Cool Coders**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/introduction-to-dotnet-maui/"
+            },
+            {
+              "identifier": "7y2bYzf",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        },
+        {
+          "identifier": "LPqLJZ5",
+          "type": "Link",
+          "title": "Implicit usings in .NET MAUI",
+          "url_domain": "davidbritch.com",
+          "url": "https://www.davidbritch.com/2022/01/implicit-usings-in-net-maui.html",
+          "description": "<p>.NET 6 and C# 10 introduced Implicit usings - and as of Preview 11 you can take advantage of them in .NET MAUI.</p>\n\n<p><a href=\"https://www.davidbritch.com/2022/01/implicit-usings-in-net-maui.html\"><strong>Implicit usings in .NET MAUI</strong></a> by <a href=\"https://twitter.com/britchdavid\">David Britch</a></p>",
+          "description_markdown": ".NET 6 and C# 10 introduced Implicit usings - and as of Preview 11 you can take advantage of them in .NET MAUI.\r\n\r\n[**Implicit usings in .NET MAUI**](https://www.davidbritch.com/2022/01/implicit-usings-in-net-maui.html) by [David Britch](https://twitter.com/britchdavid)",
+          "embedded_links": [
+            {
+              "identifier": "E4Ubqdr",
+              "title": "**Implicit usings in .NET MAUI**",
+              "url_domain": "davidbritch.com",
+              "url": "https://www.davidbritch.com/2022/01/implicit-usings-in-net-maui.html"
+            },
+            {
+              "identifier": "6xLizSd",
+              "title": "David Britch",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/britchdavid"
+            }
+          ]
+        },
+        {
+          "identifier": "3ffP2FJ",
+          "type": "Link",
+          "title": "Announcing DevExpress Mobile UI for .NET MAUI Preview 11",
+          "url_domain": "devexpress.com",
+          "url": "https://community.devexpress.com/blogs/mobile/archive/2022/01/06/announcing-devexpress-mobile-ui-for-net-maui-preview-11.aspx",
+          "description": "<p>Deliver elegant and high-performance native mobile apps with the DevExpress Xamarin Forms and .NET Multi-platform App UI Controls.</p>\n\n<p><a href=\"https://community.devexpress.com/blogs/mobile/archive/2022/01/06/announcing-devexpress-mobile-ui-for-net-maui-preview-11.aspx\"><strong>Announcing DevExpress Mobile UI for .NET MAUI Preview 11</strong></a> by <a href=\"https://www.devexpress.com/\">DevExpress</a></p>",
+          "description_markdown": "Deliver elegant and high-performance native mobile apps with the DevExpress Xamarin Forms and .NET Multi-platform App UI Controls.\r\n\r\n[**Announcing DevExpress Mobile UI for .NET MAUI Preview 11**](https://community.devexpress.com/blogs/mobile/archive/2022/01/06/announcing-devexpress-mobile-ui-for-net-maui-preview-11.aspx) by [DevExpress](https://www.devexpress.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ESnTHqT",
+              "title": "**Announcing DevExpress Mobile UI for .NET MAUI Preview 11**",
+              "url_domain": "devexpress.com",
+              "url": "https://community.devexpress.com/blogs/mobile/archive/2022/01/06/announcing-devexpress-mobile-ui-for-net-maui-preview-11.aspx"
+            },
+            {
+              "identifier": "b9K4fSb",
+              "title": "DevExpress",
+              "url_domain": "devexpress.com",
+              "url": "https://www.devexpress.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "Qgc7TWH",
+          "type": "Link",
+          "title": ".NET MAUI Source Of Truth - Exploring IWindow",
+          "url_domain": "michaelridland.com",
+          "url": "https://michaelridland.com/net-maui/net-maui-source-of-truth-exploring-iwindow/",
+          "description": "<p>This is post #1 in a series called ‘.NET MAUI Source of Truth’ where Michael Ridland digs through source code to see how things actually work under the covers. In this post he looks at the concept of IWindows and the hope of multi window applications.</p>\n\n<p><a href=\"https://michaelridland.com/net-maui/net-maui-source-of-truth-exploring-iwindow/\"><strong>.NET MAUI Source Of Truth - Exploring IWindow</strong></a> by <a href=\"https://twitter.com/rid00z\">Michael Ridland</a></p>",
+          "description_markdown": "This is post #1 in a series called ‘.NET MAUI Source of Truth’ where Michael Ridland digs through source code to see how things actually work under the covers. In this post he looks at the concept of IWindows and the hope of multi window applications.\r\n\r\n[**.NET MAUI Source Of Truth - Exploring IWindow**](https://michaelridland.com/net-maui/net-maui-source-of-truth-exploring-iwindow/) by [Michael Ridland](https://twitter.com/rid00z)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "d31TriB",
+              "title": "**.NET MAUI Source Of Truth - Exploring IWindow**",
+              "url_domain": "michaelridland.com",
+              "url": "https://michaelridland.com/net-maui/net-maui-source-of-truth-exploring-iwindow/"
+            },
+            {
+              "identifier": "3ZeVS6n",
+              "title": "Michael Ridland",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rid00z"
+            }
+          ]
+        },
+        {
+          "identifier": "5dhF8pX",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #38",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-38",
+          "description": "<p>Sam keeps us up to date with .NET MAUI updates.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-38\"><strong>Sands of MAUI: Issue #38</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam keeps us up to date with .NET MAUI updates.\r\n\r\n[**Sands of MAUI: Issue #38**](https://www.telerik.com/blogs/sands-maui-issue-38) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "uxqcms5",
+              "title": "**Sands of MAUI: Issue #38**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-38"
+            },
+            {
+              "identifier": "OOCUcqr",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "I3RaF9f",
+          "type": "Link",
+          "title": "Merge Conflict: 286: is not null",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/285",
+          "description": "<p>More C# features coming at you! Ones that you totally need to know about!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/285\"><strong>Merge Conflict: 286: is not null</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "More C# features coming at you! Ones that you totally need to know about!\r\n\r\n[**Merge Conflict: 286: is not null**](https://www.mergeconflict.fm/285) by [Merge Conflict](https://twitter.com/mergeconflictfm)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "KbWUa4Q",
+              "title": "**Merge Conflict: 286: is not null**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/285"
+            },
+            {
+              "identifier": "a0ptEyU",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "bzbEbAu",
+          "type": "Link",
+          "title": ".NET MAUI Community Toolkit - Monthly Standup (January 2022)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=fp2tstk1_tw",
+          "description": "<p>The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, Effects, and Behaviors to help make your life as a .NET MAUI developer easier.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=fp2tstk1_tw\"><strong>.NET MAUI Community Toolkit - Monthly Standup (January 2022)</strong></a> by <a href=\"https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A\">.NET Foundation</a></p>",
+          "description_markdown": "The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, Effects, and Behaviors to help make your life as a .NET MAUI developer easier.\r\n\r\n[**.NET MAUI Community Toolkit - Monthly Standup (January 2022)**](https://www.youtube.com/watch?v=fp2tstk1_tw) by [.NET Foundation](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "hA6grna",
+              "title": "**.NET MAUI Community Toolkit - Monthly Standup (January 2022)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=fp2tstk1_tw"
+            },
+            {
+              "identifier": "PLWk4zW",
+              "title": ".NET Foundation",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A"
+            }
+          ]
+        },
+        {
+          "identifier": "9SCIxAv",
+          "type": "Link",
+          "title": ".NET MAUI Community Standup - Comet with Clancey",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=XfYkwYEl0-Y",
+          "description": "<p>Join Maddy Montaquila, David Ortinau, and special guest James Clancey to learn more about Comet - an MVU style cross-platform framework for building apps with .NET!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=XfYkwYEl0-Y\"><strong>.NET MAUI Community Standup - Comet with Clancey</strong></a> by <a href=\"https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw\">dotNet Youtube Channel</a></p>",
+          "description_markdown": "Join Maddy Montaquila, David Ortinau, and special guest James Clancey to learn more about Comet - an MVU style cross-platform framework for building apps with .NET!\r\n\r\n[**.NET MAUI Community Standup - Comet with Clancey**](https://www.youtube.com/watch?v=XfYkwYEl0-Y) by [dotNet Youtube Channel](https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw)",
+          "embedded_links": [
+            {
+              "identifier": "nMMflLR",
+              "title": "**.NET MAUI Community Standup - Comet with Clancey**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=XfYkwYEl0-Y"
+            },
+            {
+              "identifier": "UBw2BbL",
+              "title": "dotNet Youtube Channel",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw"
+            }
+          ]
+        },
+        {
+          "identifier": "CbweECG",
+          "type": "Link",
+          "title": "VS2022 17.1 Preview 2 and .NET MAUI Preview 11 Updates: For Real Now!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=N2wl-3ih9A8",
+          "description": "<p>There it is! Visual Studio 2022 17.1 Preview 2 was released and that should make it easier for you to use .NET MAUI Preview 11 as well! In this update about the update I will walk you through what is now and how to install things yourself and maybe look forward to .NET MAUI Preview 12 a bit already?</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=N2wl-3ih9A8\"><strong>VS2022 17.1 Preview 2 and .NET MAUI Preview 11 Updates: For Real Now!</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "There it is! Visual Studio 2022 17.1 Preview 2 was released and that should make it easier for you to use .NET MAUI Preview 11 as well! In this update about the update I will walk you through what is now and how to install things yourself and maybe look forward to .NET MAUI Preview 12 a bit already?\r\n\r\n[**VS2022 17.1 Preview 2 and .NET MAUI Preview 11 Updates: For Real Now!**](https://www.youtube.com/watch?v=N2wl-3ih9A8) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "exXhJ0Y",
+              "title": "**VS2022 17.1 Preview 2 and .NET MAUI Preview 11 Updates: For Real Now!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=N2wl-3ih9A8"
+            },
+            {
+              "identifier": "cbnvStJ",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "aeCtMQ6",
+          "type": "Link",
+          "title": "Create a Splash Screen For Your .NET MAUI App the Easy Way!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=-XG3ooVAA0w",
+          "description": "<p>For your .NET MAUI app it has never been easier to create or customize a cross-platform splash screen. In this video we will see how this magic works and how to implement your own splashscreen.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=-XG3ooVAA0w\"><strong>Create a Splash Screen For Your .NET MAUI App the Easy Way!</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "For your .NET MAUI app it has never been easier to create or customize a cross-platform splash screen. In this video we will see how this magic works and how to implement your own splashscreen.\r\n\r\n[**Create a Splash Screen For Your .NET MAUI App the Easy Way!**](https://www.youtube.com/watch?v=-XG3ooVAA0w) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "ovZJfZu",
+              "title": "**Create a Splash Screen For Your .NET MAUI App the Easy Way!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=-XG3ooVAA0w"
+            },
+            {
+              "identifier": "MR9Dcfi",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "s3fQF2u",
+          "type": "Link",
+          "title": "Merge Conflict: 286: Hacking 3D Holograms with .NET",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/286",
+          "description": "<p>It is time for our holiday hacks! Frank is building and printing awesome 3D holograms with .NET and James is building apps for his favorite cross-country ski sno-park!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/286\"><strong>Merge Conflict: 286: Hacking 3D Holograms with .NET</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "It is time for our holiday hacks! Frank is building and printing awesome 3D holograms with .NET and James is building apps for his favorite cross-country ski sno-park!\r\n\r\n[**Merge Conflict: 286: Hacking 3D Holograms with .NET**](https://www.mergeconflict.fm/286) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "uGz3uxt",
+              "title": "**Merge Conflict: 286: Hacking 3D Holograms with .NET**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/286"
+            },
+            {
+              "identifier": "ZdPUjPq",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "CQYq56G",
+          "type": "Link",
+          "title": "Merge Conflict: 287: Tech Highs and Lows of 2021",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/287",
+          "description": "<p>We break down the winners and laggers in tech from 2021 as we look forward to the excitement of what is to come in 2022.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/287\"><strong>Merge Conflict: 287: Tech Highs and Lows of 2021</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "We break down the winners and laggers in tech from 2021 as we look forward to the excitement of what is to come in 2022.\r\n\r\n[**Merge Conflict: 287: Tech Highs and Lows of 2021**](https://www.mergeconflict.fm/287) by [Merge Conflict](https://twitter.com/mergeconflictfm)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "idBqxPF",
+              "title": "**Merge Conflict: 287: Tech Highs and Lows of 2021**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/287"
+            },
+            {
+              "identifier": "vSiNpnH",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "8fWJAlp",
+          "type": "Link",
+          "title": "DevTalk 76: .NET MAUI Blazor. With Daniel Hindrikes",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-76-daniel-hindrikes/",
+          "description": "<p>On this episode of DevTalk Kerry speaks to Daniel Hindrikes about .NET MAUI Blazor.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-76-daniel-hindrikes/\"><strong>76: .NET MAUI Blazor. With Daniel Hindrikes</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk Kerry speaks to Daniel Hindrikes about .NET MAUI Blazor.\r\n\r\n[**76: .NET MAUI Blazor. With Daniel Hindrikes**](https://kerry.lothrop.de/devtalk-76-daniel-hindrikes/) by [Kerry Lothrop](https://twitter.com/kwlothrop)",
+          "embedded_links": [
+            {
+              "identifier": "13EKlps",
+              "title": "**76: .NET MAUI Blazor. With Daniel Hindrikes**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-76-daniel-hindrikes/"
+            },
+            {
+              "identifier": "wYLWyCs",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "InTqMwa",
+          "type": "Link",
+          "title": "Visual Studio 17.1 Preview 2 is now available!",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-17-1-preview-2-is-now-available",
+          "description": "<p>Visual Studio 2022 17.1 Preview 2 is out and focuses on enhancing existing features, bring new productivity improvements, and make it easier for you to make Visual Studio your own.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/visualstudio/visual-studio-17-1-preview-2-is-now-available\"><strong>Visual Studio 17.1 Preview 2 is now available!</strong></a> by <a href=\"https://twitter.com/DomsterFire\">Dominic Nahous</a></p>",
+          "description_markdown": "Visual Studio 2022 17.1 Preview 2 is out and focuses on enhancing existing features, bring new productivity improvements, and make it easier for you to make Visual Studio your own.\r\n\r\n[**Visual Studio 17.1 Preview 2 is now available!**](https://devblogs.microsoft.com/visualstudio/visual-studio-17-1-preview-2-is-now-available) by [Dominic Nahous](https://twitter.com/DomsterFire)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "GxsZQFL",
+              "title": "**Visual Studio 17.1 Preview 2 is now available!**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-17-1-preview-2-is-now-available"
+            },
+            {
+              "identifier": "HjQEVVJ",
+              "title": "Dominic Nahous",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/DomsterFire"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "Id": "334",
+  "Name": "Issue 334",
+  "UpdatedTimeStamp": "2022-01-09T21:54:34Z",
+  "Summary": "It's 2022 - Let's Gooooo!",
+  "Introduction": "G'day everyone, welcome to issue #334 of Weekly Xamarin - a weekly overview of what happened this past week in the Xamarin and MAUI communities. It's now 2022 and we here at Weekly Xamarin hope everyone has had a refreshing break over the new year period and are now ready to start the new year.  This weeks edition is overflowing with articles published during the New Years  break when everyone was supposed to be on holidays. I'm playing catchup, so sorry about the number of articles. ❤  Kym",
+  "PublishDate": "2022-01-09T21:54:29Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Useful UX Guidelines, Tools And Resources ",
+      "Url": "https://www.smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
+      "Description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
+      "EditionId": "334",
+      "Author": "Cosima Mielke",
+      "Id": "334-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Converting Xamarin Native templates to .NET 6",
+      "Url": "https://www.andreasnesheim.no/converting-xamarin-native-templates-to-net-6/",
+      "Description": "Andreas is impatient and wants the Xamarin Native templates to be updated to the new SDK-Style projects. And here is how.",
+      "EditionId": "334",
+      "Author": "Andreas Nesheim",
+      "Id": "334-2",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Using SVG files as App Icons in iOS & Android Xamarin apps",
+      "Url": "https://prototypemakers.medium.com/using-svg-files-as-your-app-icon-in-your-ios-android-xamarin-apps-22a747a5144e",
+      "Description": "Using ResizetizerNT to generate all the tedious Xcassets, PNGs & XMLs files, including adaptive and round icons.",
+      "EditionId": "334",
+      "Author": "Saamer Mansoor",
+      "Id": "334-3",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Xamarin.Forms and Draggable View",
+      "Url": "https://medium.com/nerd-for-tech/xamarin-forms-and-draggable-view-the-new-year-tale-446632aa18d9",
+      "Description": "It’s New Year Tale about how to make Draggable View in Xamarin.Forms Application.",
+      "EditionId": "334",
+      "Author": "Bohdan Benetskyi",
+      "Id": "334-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Improving the UX when loading data in Xamarin Forms",
+      "Url": "https://xamgirl.com/improving-the-ux-when-loading-data-in-xamarin-forms/",
+      "Description": "Loading data is one of the most common tasks that we do in a mobile application. Make it more enjoyable for your users by using some of these techniques.",
+      "EditionId": "334",
+      "Author": "Charlin Agramonte",
+      "Id": "334-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Understanding Paths in Data Binding",
+      "Url": "https://jesseliberty.com/2021/12/29/11531/",
+      "Description": "This is the first in a series on advanced data binding. This post focuses on understanding how paths are constructed and used in Data Binding.",
+      "EditionId": "334",
+      "Author": "Rodrigo Juarez",
+      "Id": "334-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Understanding Converters in Databinding",
+      "Url": "https://jesseliberty.com/2022/01/03/advanced-databinding-part-2-converters/",
+      "Description": "There are times when you need to bind to a source but the source is not in the right format or otherwise needs to be manipulated. This is where Converters shine.",
+      "EditionId": "334",
+      "Author": "Rodrigo Juarez",
+      "Id": "334-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Getting Xamarin.Forms Prism navigation service to throw exceptions",
+      "Url": "https://www.sharpnado.com/make-xamarin-forms-prism-navigation-service-raise-exceptions/",
+      "Description": "Prism stopped raising exceptions on navigation at some point and now returns a INavigationResult which has a Exception property. Maybe you want to change that, well, this post will show you how.",
+      "EditionId": "334",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "334-8",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Getting started with Font Scaling in .NET MAUI",
+      "Url": "https://askxammy.com/getting-started-with-font-scaling-in-net-maui/",
+      "Description": "Having your application adapt to the font size settings configured in the Operating System makes  for a good user experience. This can be achieved by using Font Scaling. Learn how to use this feature in .NET MAUI.",
+      "EditionId": "334",
+      "Author": "Leomaris Reyes",
+      "Id": "334-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "MAUI Preview 11 is here!",
+      "Url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-preview-11",
+      "Description": ".NET MAUI Preview 11 continues to stabilize controls and layouts, and introduces multi-window and Fluent updates for Windows.",
+      "EditionId": "334",
+      "Author": "David Ortinau",
+      "Id": "334-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Building .NET MAUI apps with GitHub Actions",
+      "Url": "https://blog.taranissoftware.com/building-net-maui-apps-with-github-actions",
+      "Description": "Using GitHub Actions to build a cross platform .NET MAUI app for Android, iOS, MacCatalyst and Windows is complicated. Dave explains each step in the process.",
+      "EditionId": "334",
+      "Author": "Dave Murray",
+      "Id": "334-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Installing .NET MAUI on macOS",
+      "Url": "https://dev.to/davidortinau/installing-net-maui-on-macos-4mmc",
+      "Description": "In this post David covers how you can setup your macOS environment to build .NET MAUI apps even without VS2022.",
+      "EditionId": "334",
+      "Author": "David Ortinau",
+      "Id": "334-12",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "The more things change, the more they stay the same",
+      "Url": "https://askxammy.com/looking-for-things-to-start-migrating-from-xamarin-to-net-maui/",
+      "Description": ".NET MAUI has it's roots in Xamarin.Forms and as such, there are parts in Maui that are exactly the same. In this post, Leomaris looks at a few of those things.",
+      "EditionId": "334",
+      "Author": "Leomaris Reyes",
+      "Id": "334-13",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Upgrading Xamarin.Forms projects to .NET MAUI with upgrade assistant",
+      "Url": "https://www.banditoth.hu/2021/12/30/upgrading-xamarin-forms-projects-to-net-maui/",
+      "Description": "Using the Upgrade Assistant to migrate a Xamarin.Forms app to .NET MUAI.",
+      "EditionId": "334",
+      "Author": "András Tóth",
+      "Id": "334-14",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Setup .NET MAUI project on macOS",
+      "Url": "https://www.banditoth.hu/2021/12/29/setup-net-maui-project-on-macos/",
+      "Description": "András looks into getting starting with creating .NET MAUI apps on macOS.",
+      "EditionId": "334",
+      "Author": "András Tóth",
+      "Id": "334-15",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Some little tips to start studying .NET MAUI",
+      "Url": "https://askxammy.com/some-little-tips-to-start-studying-net-maui/",
+      "Description": "3 steps you can be taking to upskill and get ready for .NET MAUI",
+      "EditionId": "334",
+      "Author": "Leomaris Reyes",
+      "Id": "334-16",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Syncfusion .NET MAUI Radial Gauge Control",
+      "Url": "https://www.syncfusion.com/blogs/post/dotnet-maui-radial-gauge-control.aspx",
+      "Description": "Syncfusion's radial guage for .NET MAUI is looking pretty sweet. You can use this control to design speedometers, temperature monitors, sleep trackers, circular progress indicators, watches, compasses, and more.",
+      "EditionId": "334",
+      "Author": "Syncfusion",
+      "Id": "334-17",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Horizontal & Vertical StackLayout in .NET MAUI",
+      "Url": "https://askxammy.com/horizontal-verticalstacklayout-in-net-maui/",
+      "Description": "StackLayout is one of the most useful layout types in Xamarin.Forms. In MAUI it has been replaced with a Vertical and a Horizontal StackLayout.",
+      "EditionId": "334",
+      "Author": "Leomaris Reyes",
+      "Id": "334-18",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Semantic focus with .NET MAUI",
+      "Url": "https://askxammy.com/semantic-focus-with-net-maui/",
+      "Description": "Accessibility features are one of the important design decisions of .NET MAUI.",
+      "EditionId": "334",
+      "Author": "Leomaris Reyes",
+      "Id": "334-19",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Learn How to Use Dependency Injection in .NET MAUI",
+      "Url": "https://www.syncfusion.com/blogs/post/learn-how-to-use-dependency-injection-in-net-maui.aspx",
+      "Description": "As you know, .NET MAUI evolved from Xamarin.Forms with a better developer experience and better performance. Like adding a gem to a crown, .NET MAUI allows the use of dependency injection way easier than Xamarin.Forms.",
+      "EditionId": "334",
+      "Author": "Selva Ganapathy Kathiresan",
+      "Id": "334-20",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Introduction to MAUI",
+      "Url": "https://doumer.me/introduction-to-dotnet-maui/",
+      "Description": "Damien gives an introduction to MAUI and some of it's capabilities and advantages.",
+      "EditionId": "334",
+      "Author": "Damien Doumer",
+      "Id": "334-21",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Implicit usings in .NET MAUI",
+      "Url": "https://www.davidbritch.com/2022/01/implicit-usings-in-net-maui.html",
+      "Description": ".NET 6 and C# 10 introduced Implicit usings - and as of Preview 11 you can take advantage of them in .NET MAUI.",
+      "EditionId": "334",
+      "Author": "David Britch",
+      "Id": "334-22",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Announcing DevExpress Mobile UI for .NET MAUI Preview 11",
+      "Url": "https://community.devexpress.com/blogs/mobile/archive/2022/01/06/announcing-devexpress-mobile-ui-for-net-maui-preview-11.aspx",
+      "Description": "Deliver elegant and high-performance native mobile apps with the DevExpress Xamarin Forms and .NET Multi-platform App UI Controls.",
+      "EditionId": "334",
+      "Author": "DevExpress",
+      "Id": "334-23",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Source Of Truth - Exploring IWindow",
+      "Url": "https://michaelridland.com/net-maui/net-maui-source-of-truth-exploring-iwindow/",
+      "Description": "This is post #1 in a series called ‘.NET MAUI Source of Truth’ where Michael Ridland digs through source code to see how things actually work under the covers. In this post he looks at the concept of IWindows and the hope of multi window applications.",
+      "EditionId": "334",
+      "Author": "Michael Ridland",
+      "Id": "334-24",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #38",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-38",
+      "Description": "Sam keeps us up to date with .NET MAUI updates.",
+      "EditionId": "334",
+      "Author": "Sam Basu",
+      "Id": "334-25",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Merge Conflict: 286: is not null",
+      "Url": "https://www.mergeconflict.fm/285",
+      "Description": "More C# features coming at you! Ones that you totally need to know about!",
+      "EditionId": "334",
+      "Author": "Merge Conflict",
+      "Id": "334-26",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Toolkit - Monthly Standup (January 2022)",
+      "Url": "https://www.youtube.com/watch?v=fp2tstk1_tw",
+      "Description": "The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, Effects, and Behaviors to help make your life as a .NET MAUI developer easier.",
+      "EditionId": "334",
+      "Author": ".NET Foundation",
+      "Id": "334-27",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Standup - Comet with Clancey",
+      "Url": "https://www.youtube.com/watch?v=XfYkwYEl0-Y",
+      "Description": "Join Maddy Montaquila, David Ortinau, and special guest James Clancey to learn more about Comet - an MVU style cross-platform framework for building apps with .NET!",
+      "EditionId": "334",
+      "Author": "dotNet Youtube Channel",
+      "Id": "334-28",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "VS2022 17.1 Preview 2 and .NET MAUI Preview 11 Updates: For Real Now!",
+      "Url": "https://www.youtube.com/watch?v=N2wl-3ih9A8",
+      "Description": "There it is! Visual Studio 2022 17.1 Preview 2 was released and that should make it easier for you to use .NET MAUI Preview 11 as well! In this update about the update I will walk you through what is now and how to install things yourself and maybe look forward to .NET MAUI Preview 12 a bit already?",
+      "EditionId": "334",
+      "Author": "Gerald Versluis",
+      "Id": "334-29",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Create a Splash Screen For Your .NET MAUI App the Easy Way!",
+      "Url": "https://www.youtube.com/watch?v=-XG3ooVAA0w",
+      "Description": "For your .NET MAUI app it has never been easier to create or customize a cross-platform splash screen. In this video we will see how this magic works and how to implement your own splashscreen.",
+      "EditionId": "334",
+      "Author": "Gerald Versluis",
+      "Id": "334-30",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 286: Hacking 3D Holograms with .NET",
+      "Url": "https://www.mergeconflict.fm/286",
+      "Description": "It is time for our holiday hacks! Frank is building and printing awesome 3D holograms with .NET and James is building apps for his favorite cross-country ski sno-park!",
+      "EditionId": "334",
+      "Author": "Merge Conflict",
+      "Id": "334-31",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 287: Tech Highs and Lows of 2021",
+      "Url": "https://www.mergeconflict.fm/287",
+      "Description": "We break down the winners and laggers in tech from 2021 as we look forward to the excitement of what is to come in 2022.",
+      "EditionId": "334",
+      "Author": "Merge Conflict",
+      "Id": "334-32",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 76: .NET MAUI Blazor. With Daniel Hindrikes",
+      "Url": "https://kerry.lothrop.de/devtalk-76-daniel-hindrikes/",
+      "Description": "On this episode of DevTalk Kerry speaks to Daniel Hindrikes about .NET MAUI Blazor.",
+      "EditionId": "334",
+      "Author": "Kerry Lothrop",
+      "Id": "334-33",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Visual Studio 17.1 Preview 2 is now available!",
+      "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-17-1-preview-2-is-now-available",
+      "Description": "Visual Studio 2022 17.1 Preview 2 is out and focuses on enhancing existing features, bring new productivity improvements, and make it easier for you to make Visual Studio your own.",
+      "EditionId": "334",
+      "Author": "Dominic Nahous",
+      "Id": "334-34",
+      "Category": "RELEASES"
+    }
+  ]
+}
