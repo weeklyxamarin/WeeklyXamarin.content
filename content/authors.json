@@ -1224,6 +1224,16 @@
       "Website": "https://www.ionixjunior.com.br"
     },
     {
+      "Name": "Israel Soto",
+      "Id": "07876fad-6d14-4248-9c50-359681ec8094",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://devblogs.microsoft.com/xamarin/author/issoto/"
+        }
+      ]
+    },
+    {
       "Name": "Issara Willenskomer",
       "Id": "380ef0bf-e460-4ba6-9311-09bea6ad28bf",
       "Aliases": [
@@ -1511,6 +1521,12 @@
           "Name": "https://devblogs.microsoft.com/visualstudio/author/jongalloway/"
         }
       ]
+    },
+    {
+      "Name": "Jon Nichols",
+      "TwitterHandle": "nichojo89",
+      "Id": "44be899b-e723-401d-a254-247304212e7b",
+      "Aliases": []
     },
     {
       "Name": "Jon Peppers",

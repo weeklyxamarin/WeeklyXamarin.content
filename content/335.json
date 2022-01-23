@@ -1,0 +1,217 @@
+{
+  "Id": "335",
+  "Name": "Issue 335",
+  "UpdatedTimeStamp": "2022-01-23T22:46:06Z",
+  "Summary": "MAUI Preview 12 Woo!",
+  "Introduction": "G'day everyone, welcome to issue #335 of Weekly Xamarin - an wrap-up of what's happening in the Xamarin and MAUI communities. As we all settle into the new year, there has been a MAUI preview 12 release! Time to get stuck into that and investigate all the goodness.  Have a app-tastic week. Kym",
+  "PublishDate": "2022-01-23T22:46:02Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Managing State in Comet",
+      "Url": "https://dev.to/davidortinau/managing-state-in-comet-4gpo",
+      "Description": "2nd part of the Comet series by David - this time digging into managing state in Comet with an overview of MVU.",
+      "EditionId": "335",
+      "Author": "David Ortinau",
+      "Id": "335-1",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Lottie Animations by Iconscout",
+      "Url": "https://iconscout.com/l/lottie-animations",
+      "Description": "A library of over 10,000 Lottie Animations for you to enhance your designs. Not free, but a good collection.",
+      "EditionId": "335",
+      "Id": "335-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Replicating an App Login Screen in Xamarin.Forms",
+      "Url": "https://www.syncfusion.com/blogs/post/replicating-an-app-login-screen-in-xamarin-forms.aspx",
+      "Description": "In this UI design, we have two separate pages for validating email and password.",
+      "EditionId": "335",
+      "Author": "Leomaris Reyes",
+      "Id": "335-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Scanning and analyzing invoices using Xamarin.Forms and Azure",
+      "Url": "https://www.andreasnesheim.no/scanning-and-analyzing-invoices-using-xamarin-forms-and-azure/",
+      "Description": "How to easily scan and extract data from invoices using Azure Form Recognizer and Xamarin.Forms.",
+      "EditionId": "335",
+      "Author": "Andreas Nesheim",
+      "Id": "335-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "What Is Single Project in .NET MAUI?",
+      "Url": "https://www.telerik.com/blogs/what-is-single-project-dotnet-maui",
+      "Description": "The .NET MAUI single project makes resource management across platforms a breeze—upload in one place, and it takes care of the rest!",
+      "EditionId": "335",
+      "Author": "Leomaris Reyes",
+      "Id": "335-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "MAUI: Hello World",
+      "Url": "https://boguslawblonski.medium.com/maui-hello-world-a6589dbf19e8",
+      "Description": "This blog post covers getting up and running with a new MAUI project.",
+      "EditionId": "335",
+      "Author": "Boguslaw Blonski",
+      "Id": "335-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Deep Introduction to .NET MAUI Handlers Architecture",
+      "Url": "https://doumer.me/introduction-to-net-maui-handlers/",
+      "Description": "One of the greatest improvements MAUI brings is to replace renderers by handlers. Here is an introduction to .NET MAUI handlers.",
+      "EditionId": "335",
+      "Author": "Damien Doumer",
+      "Id": "335-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Edit Local Images/Text from a .NET MAUI Blazor Hybrid App",
+      "Url": "https://visualstudiomagazine.com/articles/2022/01/18/blazor-hybrid.aspx",
+      "Description": "With .NET 6 and the latest Visual Studio 2022 preview, developers can create a hybrid Blazor/.NET MAUI app that can work with local machines in ways that ordinary Blazor (web) apps can't. Blazor code can now browse local file systems and open up local files and edit them in native Windows apps, for example.",
+      "EditionId": "335",
+      "Author": "David Ramel",
+      "Id": "335-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #40",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-40",
+      "Description": "Sam breaks down all the MAUI News",
+      "EditionId": "335",
+      "Author": "Sam Basu",
+      "Id": "335-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Exploring Multi-window Apps in .NET MAUI Preview 11",
+      "Url": "https://michaelridland.com/net-maui/exploring-multi-window-apps-in-net-maui-preview-11/",
+      "Description": "Continuing to explore the Multi-Window aspects of .NET MAUI, Michael looks into opening and closing windows programmatically.",
+      "EditionId": "335",
+      "Author": "Michael Ridland",
+      "Id": "335-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Build a game like Space Invaders using .NET Maui",
+      "Url": "https://app-trap.com/2022/01/build-a-game-like-space-invaders-using-net-maui/",
+      "Description": "Learn how to build a game like Space Invaders using .NET Maui preview. You will learn about new components an some differences between Maui.Graphics.Skia verses SkiaSharp in Xamarin.Forms.",
+      "EditionId": "335",
+      "Author": "Jon Nichols",
+      "Id": "335-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Prism and Other Client Technologies with Brian Lagunas",
+      "Url": "https://www.dotnetrocks.com/default.aspx?ShowNum=1777",
+      "Description": "What's your UX strategy? Carl and Richard talk to Brian Lagunas about his work on Prism, the UX framework that works WPF, Xamarin, and now the Uno Platform to build good-looking, consistent UX experiences. Brian talks about the challenges around simplifying the UX experience enough to make it easy to do the right thing, while still having enough functionality to not limit what your applications can do. The conversation also dives into web UX challenges and some of the tools that Brian has been working on for Infragistics in the same space.",
+      "EditionId": "335",
+      "Author": ".NET Rocks!",
+      "Id": "335-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 289: App Publishing Road Blocks",
+      "Url": "https://www.mergeconflict.fm/289",
+      "Description": "Frank is in a rush to try to get out an app into the app store in record time, but he runs up against those bumps that we have talked about so many times. We discuss his biggest road blocks.",
+      "EditionId": "335",
+      "Author": "Merge Conflict",
+      "Id": "335-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The .NET MAUI Podcast Episode 104: ScreenMedia",
+      "Url": "https://www.dotnetmauipodcast.com/104",
+      "Description": "Another customer success story! ScreenMedia develops apps for a multitude of customers and find out how much fun they're having.",
+      "EditionId": "335",
+      "Author": ".NET MAUI Podcast",
+      "Id": "335-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The .NET MAUI Podcast Episode 105: Not One But Two .NET MAUI Previews!",
+      "Url": "https://www.dotnetmauipodcast.com/105",
+      "Description": "Can you believe there were 2 .NET MAUI previews since our last episode? Come on in and listen and David Ortinau breaks all of the newness down.",
+      "EditionId": "335",
+      "Author": ".NET MAUI Podcast",
+      "Id": "335-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI MVU With Comet: Getting Started in VS Code",
+      "Url": "https://www.youtube.com/watch?v=52RmT2MIFzg",
+      "Description": "MVU (Model-View-Update) is a (new) design pattern that became popular because of SwiftUI and Flutter. Now it's also available for C# and .NET. More specifically, you can use it with .NET MAUI and build great cross-platform apps with it. Want to learn more and see how to get started? Watch this! [**.NET MAUI MVU With Comet: Getting Started in VS Code**](https://www.youtube.com/watch?v=52RmT2MIFzg) by [Gerald Versluis](https://twitter.com/jfversluis)",
+      "EditionId": "335",
+      "Author": "Gerald Versluis",
+      "Id": "335-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "gRPC in MAUI apps part 2.",
+      "Url": "https://www.youtube.com/watch?v=AWzgtWGu6g0",
+      "Description": "Use gRPC in MAUI XAML Android and iOS Apps",
+      "EditionId": "335",
+      "Author": "Carl Franklin",
+      "Id": "335-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Push Notifications: The Big Picture",
+      "Url": "https://www.youtube.com/watch?v=AKYebqOCAzY",
+      "Description": "When I made the videos on how to implement push notifications, a lot of people had questions about how push notifications actually work. So I made a little video to talk about the logistics of push notifications; how they work and what to take into account. Hope this helps!",
+      "EditionId": "335",
+      "Author": "Gerald Versluis",
+      "Id": "335-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Animating Controls in .NET MAUI & Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=48qN1h0DUjs",
+      "Description": "Have you been looking to add some pizzaz to your .NET MAUI & Xamarin.Forms apps? Look no further than the built in animation system in these frameworks. You can easily add simple animations in code in just a few lines of code, you can chain multiple animations together, or create your own custom animation and synchronize it with your MVVM code.",
+      "EditionId": "335",
+      "Author": "James Montemagno",
+      "Id": "335-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Shell for .NET MAUI & Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=dM4PhZAUhzU",
+      "Description": "Today we look at exactly what Xamarin.Forms & .NET MAUI Shell are and why you may want to consider it for your application. We explain the history of shell, the structure it brings to your app, and features including simplified navigation with urls, and much more. [**🐚 Shell for .NET MAUI & Xamarin.Forms - What, why, and how?!?!**](https://www.youtube.com/watch?v=dM4PhZAUhzU) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+      "EditionId": "335",
+      "Author": "James Montemagno",
+      "Id": "335-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 77: Creating Games with Xamarin Forms",
+      "Url": "https://nullpointers.io/77/",
+      "Description": "In this weeks episode we talk about making stunning mobile apps. Shaun tells us how he created Super Wordsearch with the help of tools like Skia Sharp and Lottie while using Xamarin Forms.",
+      "EditionId": "335",
+      "Author": "Null Pointers",
+      "Id": "335-21",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Announcing .NET MAUI Preview 12",
+      "Url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-12",
+      "Description": ".NET MAUI Preview 12 has shipped with lots of quality improvements, plus new features for Shell and dependency injection.",
+      "EditionId": "335",
+      "Author": "David Ortinau",
+      "Id": "335-22",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "Facebook SDK v12.2 for Xamarin.iOS Now Available",
+      "Url": "https://devblogs.microsoft.com/xamarin/facebook-sdk-v12-2-for-xamarin-ios-now-available/",
+      "Description": "Facebook SDK is now available for Xamarin developers offering updates to CoreKit, LoginKit, ShareKit, GamingServiceKit, and AudienceNetwork.",
+      "EditionId": "335",
+      "Author": "Israel Soto",
+      "Id": "335-23",
+      "Category": "RELEASES"
+    }
+  ]
+}
