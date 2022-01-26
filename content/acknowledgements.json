@@ -1,5 +1,8 @@
 {
     "Data": [
+      { "Person": "AdenEarnshaw", "Activity": "Bitties" },
+      { "Person": "r2_au", "Activity": "Subscribe" },
+      { "Person": "vortexcdn", "Activity": "Subscribe" },
       { "Person": "SteveMooreNG", "Activity": "Host" },
       { "Person": "exectivemadoka", "Activity": "Follow" },
       { "Person": "lumbarjam", "Activity": "Follow" },
