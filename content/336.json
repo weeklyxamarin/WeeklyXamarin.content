@@ -1,0 +1,155 @@
+{
+  "Id": "336",
+  "Name": "Issue 336",
+  "UpdatedTimeStamp": "2022-01-28T10:49:21Z",
+  "Summary": ".NET MAUI creeping up on us.",
+  "Introduction": "G'day everyone, welcome to issue #336 of Weekly Xamarin - a snapshot of what's been happening in the Xamarin and MAUI communities over the last week.",
+  "PublishDate": "2022-01-28T10:49:18Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Announcing .NET Community Toolkit v8.0.0 Preview 1",
+      "Url": "https://devblogs.microsoft.com/ifdef-windows/announcing-net-community-toolkit-v8-0-0-preview-1/",
+      "Description": "Another community toolkit? Sure, why not!?! This one looks great, with lots of MVVM style enhancements you would have needed to use things like FODY for in the past. Definitely worth a look.",
+      "EditionId": "336",
+      "Author": "Sergio Pedri",
+      "Id": "336-1",
+      "Category": "OPEN SOURCE"
+    },
+    {
+      "Title": "C# 10 with Xamarin.Forms",
+      "Url": "https://johnnys.news/2022/01/C-10-with-Xamarin-Forms",
+      "Description": "Want to use some of those cool new things like file-scoped namespaces and global usings in your Xamarin.Forms app?  Sure.",
+      "EditionId": "336",
+      "Author": "Joachim Leonfellner",
+      "Id": "336-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Boarding Pass UI",
+      "Url": "https://askxammy.com/replicating-boarding-pass-ui-in-xamarin-forms/",
+      "Description": "How to replicate a boarding pass layout from Dribbble in Xamarin.Forms.",
+      "EditionId": "336",
+      "Author": "Leomaris Reyes",
+      "Id": "336-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Simple Onboarding",
+      "Url": "https://prototypemakers.medium.com/simple-onboarding-or-walkthrough-pages-in-xamarin-ios-android-d56b1d4fb634",
+      "Description": "Improve UX using Intro, Tutorial, or Getting Started Screens",
+      "EditionId": "336",
+      "Author": "Saamer Mansoor",
+      "Id": "336-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Draw and Save Signatures in Xamarin.Forms applications",
+      "Url": "https://www.telerik.com/blogs/draw-save-signatures-telerik-signaturepad-xamarin",
+      "Description": "Draw signature, change its stroke color and thickness, export high quality image as PNG or JPEG.",
+      "EditionId": "336",
+      "Author": "Dobrinka Yordanova",
+      "Id": "336-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Building a mobile game in Xamarin Forms - Shapes, Paths and Converters",
+      "Url": "https://blog.bijington.com/c#/xamarin/xamarin.forms/shapes/paths/converters/2021/12/09/building-a-mobile-game-in-xamarin-forms-part-six.html",
+      "Description": "Shaun continues his blog about building a game in Xamarin.Forms, this time digging into Converters.",
+      "EditionId": "336",
+      "Author": "Shaun Lawrence",
+      "Id": "336-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Learning about Clipboard in Xamarin Forms",
+      "Url": "https://askxammy.com/learning-about-clipboard-in-xamarin-forms/",
+      "Description": "Clipboard is something we don't often think about, but something we use all the time and a great way for users to transfer data between applications.",
+      "EditionId": "336",
+      "Author": "Leomaris Reyes",
+      "Id": "336-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Exploring Overlays",
+      "Url": "https://michaelridland.com/net-maui/net-maui-exploring-overlays/",
+      "Description": "In this post Michael digs into WindowOverlays. What are they? How is it implemented natively? How does it maintain state, including during page navigation? When should I use them? How is it related to the traditional navigation style and Shell? What can we use it for?",
+      "EditionId": "336",
+      "Author": "Michael Ridland",
+      "Id": "336-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Organize your .NET MAUI MauiProgram / Startup file",
+      "Url": "https://luismts.com/organize-your-net-maui-mauiprogram-startup-file/",
+      "Description": "This post discusses best practices for startup/program organization files while developing the .NET Multi-platform App UI (.NET MAUI) project. How we can make it better and how to make it more maintainable.",
+      "EditionId": "336",
+      "Author": "Luis Matos",
+      "Id": "336-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Closer Than Ever",
+      "Url": "https://dev.to/dotnetsafer/net-maui-closer-than-ever-discover-5-new-features-bp4",
+      "Description": "An update to some of the newer features of .NET MAUI.",
+      "EditionId": "336",
+      "Author": "Dotnetsafer",
+      "Id": "336-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Calculating distance between your device and a location",
+      "Url": "https://www.andreasnesheim.no/calculating-distance-between-your-device-and-a-location-with-net-maui/",
+      "Description": "In Xamarin.Forms showing the distance between two points can be done with Xamarin.Essentials, but in .NET MAUI it’s even easier. The .NET MAUI essentials are built into the framework itself and doesn’t rely on an external package.",
+      "EditionId": "336",
+      "Author": "Andreas Nesheim",
+      "Id": "336-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #41",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-41",
+      "Description": "Hey Sam! What's been happening in MAUI this week?",
+      "EditionId": "336",
+      "Author": "Sam Basu",
+      "Id": "336-12",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Preview 12: Shell Dependency Injection is Here!",
+      "Url": "https://www.youtube.com/watch?v=4kWSgwn9VSY",
+      "Description": "As we're getting closer to GA, the updates get a bit less exciting, but for preview 12 we got some cool Shell features! In this video we will go over what is new in .NET MAUI Preview 12 and specifically I will show you how to work with the new .NET MAUI Shell Dependency Injection!",
+      "EditionId": "336",
+      "Author": "Gerald Versluis",
+      "Id": "336-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 290: The .NET MAUI Episode",
+      "Url": "https://www.mergeconflict.fm/290",
+      "Description": "We answer all of your questions! Which seem to mostly be about .NET MAUI :)",
+      "EditionId": "336",
+      "Author": "Merge Conflict",
+      "Id": "336-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Preview 12 - Constructor & Dependency Injection Everywhere!",
+      "Url": "https://www.youtube.com/watch?v=ugem4UbAtC0",
+      "Description": ".NET MAUI Preview 12 is here along with Visual Studio 2022 17.1 Preview 3 and there are some awesome new features including built in support for constructor injection when using Shell! There is also the .NET 6 unification for iOS, new handlers, Windows extended toolbar, and more!",
+      "EditionId": "336",
+      "Author": "James Montemagno",
+      "Id": "336-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Null Pointers 78: Winter Musings",
+      "Url": "https://nullpointers.io/78/",
+      "Description": "Today we cover a lot of different things going on in our lives and the tech world. What kind of gadget did Mark get from his wife for Christmas? Find out!",
+      "EditionId": "336",
+      "Author": "Null Pointers",
+      "Id": "336-16",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

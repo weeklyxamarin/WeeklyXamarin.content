@@ -1,0 +1,419 @@
+{
+  "number": 336,
+  "title": "Issue 336",
+  "summary": ".NET MAUI creeping up on us.",
+  "url": "https://weeklyxamarin.com/issues/336",
+  "publication_status": "published",
+  "published_at": "2022-01-28T10:49:18+00:00",
+  "updated_at": "2022-01-28T10:49:21+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #336 of Weekly Xamarin - a snapshot of what's been happening in the Xamarin and MAUI communities over the last week.</p>",
+          "description_markdown": "G'day everyone, welcome to issue #336 of Weekly Xamarin - a snapshot of what's been happening in the Xamarin and MAUI communities over the last week.",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "opensource",
+      "name": "OPEN SOURCE",
+      "items": [
+        {
+          "identifier": "B6G72Yq",
+          "type": "Link",
+          "title": "Announcing .NET Community Toolkit v8.0.0 Preview 1",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/ifdef-windows/announcing-net-community-toolkit-v8-0-0-preview-1/",
+          "description": "<p>Another community toolkit? Sure, why not!?! This one looks great, with lots of MVVM style enhancements you would have needed to use things like FODY for in the past. Definitely worth a look.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/ifdef-windows/announcing-net-community-toolkit-v8-0-0-preview-1/\"><strong>Announcing .NET Community Toolkit v8.0.0 Preview 1</strong></a> by <a href=\"https://github.com/Sergio0694\">Sergio Pedri</a></p>",
+          "description_markdown": "Another community toolkit? Sure, why not!?! This one looks great, with lots of MVVM style enhancements you would have needed to use things like FODY for in the past. Definitely worth a look.\r\n\r\n[**Announcing .NET Community Toolkit v8.0.0 Preview 1**](https://devblogs.microsoft.com/ifdef-windows/announcing-net-community-toolkit-v8-0-0-preview-1/) by [Sergio Pedri](https://github.com/Sergio0694)",
+          "embedded_links": [
+            {
+              "identifier": "CO2Ihy4",
+              "title": "**Announcing .NET Community Toolkit v8.0.0 Preview 1**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/ifdef-windows/announcing-net-community-toolkit-v8-0-0-preview-1/"
+            },
+            {
+              "identifier": "KBfDt7c",
+              "title": "Sergio Pedri",
+              "url_domain": "github.com",
+              "url": "https://github.com/Sergio0694"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "CmwSrp9",
+          "type": "Link",
+          "title": "C# 10 with Xamarin.Forms",
+          "url_domain": "johnnys.news",
+          "url": "https://johnnys.news/2022/01/C-10-with-Xamarin-Forms",
+          "description": "<p>Want to use some of those cool new things like file-scoped namespaces and global usings in your Xamarin.Forms app?  Sure.</p>\n\n<p><a href=\"https://johnnys.news/2022/01/C-10-with-Xamarin-Forms\"><strong>C# 10 with Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/johnny_leo\">Joachim Leonfellner</a></p>",
+          "description_markdown": "Want to use some of those cool new things like file-scoped namespaces and global usings in your Xamarin.Forms app?  Sure. \r\n\r\n[**C# 10 with Xamarin.Forms**](https://johnnys.news/2022/01/C-10-with-Xamarin-Forms) by [Joachim Leonfellner](https://twitter.com/johnny_leo)",
+          "embedded_links": [
+            {
+              "identifier": "LZRDyhS",
+              "title": "**C# 10 with Xamarin.Forms**",
+              "url_domain": "johnnys.news",
+              "url": "https://johnnys.news/2022/01/C-10-with-Xamarin-Forms"
+            },
+            {
+              "identifier": "Y41QCZz",
+              "title": "Joachim Leonfellner",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/johnny_leo"
+            }
+          ]
+        },
+        {
+          "identifier": "ttSN8TR",
+          "type": "Link",
+          "title": "Boarding Pass UI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-boarding-pass-ui-in-xamarin-forms/",
+          "description": "<p>How to replicate a boarding pass layout from Dribbble in Xamarin.Forms.</p>\n\n<p><a href=\"https://askxammy.com/replicating-boarding-pass-ui-in-xamarin-forms/\"><strong>Replicating Boarding Pass UI in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "How to replicate a boarding pass layout from Dribbble in Xamarin.Forms.\r\n\r\n[**Replicating Boarding Pass UI in Xamarin Forms**](https://askxammy.com/replicating-boarding-pass-ui-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "w2ndNgP",
+              "title": "**Replicating Boarding Pass UI in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-boarding-pass-ui-in-xamarin-forms/"
+            },
+            {
+              "identifier": "fRtrZEv",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "R0NRS0d",
+          "type": "Link",
+          "title": "Simple Onboarding",
+          "url_domain": "medium.com",
+          "url": "https://prototypemakers.medium.com/simple-onboarding-or-walkthrough-pages-in-xamarin-ios-android-d56b1d4fb634",
+          "description": "<p>Improve UX using Intro, Tutorial, or Getting Started Screens</p>\n\n<p><a href=\"https://prototypemakers.medium.com/simple-onboarding-or-walkthrough-pages-in-xamarin-ios-android-d56b1d4fb634\"><strong>Simple Onboarding or Walkthrough Pages in Xamarin iOS &amp; Android</strong></a> by <a href=\"https://twitter.com/saamerm\">Saamer Mansoor</a></p>",
+          "description_markdown": "Improve UX using Intro, Tutorial, or Getting Started Screens\r\n\r\n[**Simple Onboarding or Walkthrough Pages in Xamarin iOS & Android**](https://prototypemakers.medium.com/simple-onboarding-or-walkthrough-pages-in-xamarin-ios-android-d56b1d4fb634) by [Saamer Mansoor](https://twitter.com/saamerm)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Vhv4Isx",
+              "title": "**Simple Onboarding or Walkthrough Pages in Xamarin iOS & Android**",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com/simple-onboarding-or-walkthrough-pages-in-xamarin-ios-android-d56b1d4fb634"
+            },
+            {
+              "identifier": "lrEI6Rv",
+              "title": "Saamer Mansoor",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/saamerm"
+            }
+          ]
+        },
+        {
+          "identifier": "Hzoo94R",
+          "type": "Link",
+          "title": "Draw and Save Signatures in Xamarin.Forms applications",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/draw-save-signatures-telerik-signaturepad-xamarin",
+          "description": "<p>Draw signature, change its stroke color and thickness, export high quality image as PNG or JPEG.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/draw-save-signatures-telerik-signaturepad-xamarin\"><strong>Draw and Save Signatures in Xamarin.Forms applications</strong></a> by <a href=\"https://www.telerik.com/blogs/author/dobrinka-yordanova\">Dobrinka Yordanova</a></p>",
+          "description_markdown": "Draw signature, change its stroke color and thickness, export high quality image as PNG or JPEG.\r\n\r\n[**Draw and Save Signatures in Xamarin.Forms applications**](https://www.telerik.com/blogs/draw-save-signatures-telerik-signaturepad-xamarin) by [Dobrinka Yordanova](https://www.telerik.com/blogs/author/dobrinka-yordanova)",
+          "embedded_links": [
+            {
+              "identifier": "EeekmPK",
+              "title": "**Draw and Save Signatures in Xamarin.Forms applications**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/draw-save-signatures-telerik-signaturepad-xamarin"
+            },
+            {
+              "identifier": "3etNsYH",
+              "title": "Dobrinka Yordanova",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/dobrinka-yordanova"
+            }
+          ]
+        },
+        {
+          "identifier": "EyvUoXD",
+          "type": "Link",
+          "title": "Building a mobile game in Xamarin Forms - Shapes, Paths and Converters",
+          "url_domain": "bijington.com",
+          "url": "https://blog.bijington.com/c#/xamarin/xamarin.forms/shapes/paths/converters/2021/12/09/building-a-mobile-game-in-xamarin-forms-part-six.html",
+          "description": "<p>Shaun continues his blog about building a game in Xamarin.Forms, this time digging into Converters.</p>\n\n<p><a href=\"https://blog.bijington.com/c#/xamarin/xamarin.forms/shapes/paths/converters/2021/12/09/building-a-mobile-game-in-xamarin-forms-part-six.html\"><strong>Building a mobile game in Xamarin Forms - Shapes, Paths and Converters</strong></a> by <a href=\"https://twitter.com/bijington\">Shaun Lawrence</a></p>",
+          "description_markdown": "Shaun continues his blog about building a game in Xamarin.Forms, this time digging into Converters.\r\n\r\n[**Building a mobile game in Xamarin Forms - Shapes, Paths and Converters**](https://blog.bijington.com/c#/xamarin/xamarin.forms/shapes/paths/converters/2021/12/09/building-a-mobile-game-in-xamarin-forms-part-six.html) by [Shaun Lawrence](https://twitter.com/bijington)",
+          "embedded_links": [
+            {
+              "identifier": "hCDUWVD",
+              "title": "**Building a mobile game in Xamarin Forms - Shapes, Paths and Converters**",
+              "url_domain": "bijington.com",
+              "url": "https://blog.bijington.com/c#/xamarin/xamarin.forms/shapes/paths/converters/2021/12/09/building-a-mobile-game-in-xamarin-forms-part-six.html"
+            },
+            {
+              "identifier": "lNvbjEw",
+              "title": "Shaun Lawrence",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bijington"
+            }
+          ]
+        },
+        {
+          "identifier": "ceB4c30",
+          "type": "Link",
+          "title": "Learning about Clipboard in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/learning-about-clipboard-in-xamarin-forms/",
+          "description": "<p>Clipboard is something we don't often think about, but something we use all the time and a great way for users to transfer data between applications.</p>\n\n<p><a href=\"https://askxammy.com/learning-about-clipboard-in-xamarin-forms/\"><strong>Learning about Clipboard in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Clipboard is something we don't often think about, but something we use all the time and a great way for users to transfer data between applications.\r\n\r\n[**Learning about Clipboard in Xamarin Forms**](https://askxammy.com/learning-about-clipboard-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "RFcRbDC",
+              "title": "**Learning about Clipboard in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/learning-about-clipboard-in-xamarin-forms/"
+            },
+            {
+              "identifier": "D8fh2Uh",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "3aMJ7L",
+          "type": "Link",
+          "title": "Exploring Overlays",
+          "url_domain": "michaelridland.com",
+          "url": "https://michaelridland.com/net-maui/net-maui-exploring-overlays/",
+          "description": "<p>In this post Michael digs into WindowOverlays. What are they? How is it implemented natively? How does it maintain state, including during page navigation? When should I use them? How is it related to the traditional navigation style and Shell? What can we use it for?</p>\n\n<p><a href=\"https://michaelridland.com/net-maui/net-maui-exploring-overlays/\"><strong>.NET MAUI - Exploring Overlays - Michael Ridland</strong></a> by <a href=\"https://twitter.com/rid00z\">Michael Ridland</a></p>",
+          "description_markdown": "In this post Michael digs into WindowOverlays. What are they? How is it implemented natively? How does it maintain state, including during page navigation? When should I use them? How is it related to the traditional navigation style and Shell? What can we use it for?\r\n\r\n[**.NET MAUI - Exploring Overlays - Michael Ridland**](https://michaelridland.com/net-maui/net-maui-exploring-overlays/) by [Michael Ridland](https://twitter.com/rid00z)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "y56aGfz",
+              "title": "**.NET MAUI - Exploring Overlays - Michael Ridland**",
+              "url_domain": "michaelridland.com",
+              "url": "https://michaelridland.com/net-maui/net-maui-exploring-overlays/"
+            },
+            {
+              "identifier": "S2ax60s",
+              "title": "Michael Ridland",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rid00z"
+            }
+          ]
+        },
+        {
+          "identifier": "5wscZZv",
+          "type": "Link",
+          "title": "Organize your .NET MAUI MauiProgram / Startup file",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/organize-your-net-maui-mauiprogram-startup-file/",
+          "description": "<p>This post discusses best practices for startup/program organization files while developing the .NET Multi-platform App UI (.NET MAUI) project. How we can make it better and how to make it more maintainable.</p>\n\n<p><a href=\"https://luismts.com/organize-your-net-maui-mauiprogram-startup-file/\"><strong>Organize your .NET MAUI MauiProgram / Startup file</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "This post discusses best practices for startup/program organization files while developing the .NET Multi-platform App UI (.NET MAUI) project. How we can make it better and how to make it more maintainable.\r\n\r\n[**Organize your .NET MAUI MauiProgram / Startup file**](https://luismts.com/organize-your-net-maui-mauiprogram-startup-file/) by [Luis Matos](https://twitter.com/luismatosluna)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "MoC7TrP",
+              "title": "**Organize your .NET MAUI MauiProgram / Startup file**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/organize-your-net-maui-mauiprogram-startup-file/"
+            },
+            {
+              "identifier": "FhtasfS",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "8vdHNs5",
+          "type": "Link",
+          "title": ".NET MAUI Closer Than Ever",
+          "url_domain": "dev.to",
+          "url": "https://dev.to/dotnetsafer/net-maui-closer-than-ever-discover-5-new-features-bp4",
+          "description": "<p>An update to some of the newer features of .NET MAUI.</p>\n\n<p><a href=\"https://dev.to/dotnetsafer/net-maui-closer-than-ever-discover-5-new-features-bp4\"><strong>.NET MAUI Closer Than Ever (Discover +5 New Features)</strong></a> by <a href=\"https://twitter.com/dotnetsafer\">Dotnetsafer</a></p>",
+          "description_markdown": "An update to some of the newer features of .NET MAUI.\r\n\r\n[**.NET MAUI Closer Than Ever (Discover +5 New Features)**](https://dev.to/dotnetsafer/net-maui-closer-than-ever-discover-5-new-features-bp4) by [Dotnetsafer](https://twitter.com/dotnetsafer)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "AKuHZP7",
+              "title": "**.NET MAUI Closer Than Ever (Discover +5 New Features)**",
+              "url_domain": "dev.to",
+              "url": "https://dev.to/dotnetsafer/net-maui-closer-than-ever-discover-5-new-features-bp4"
+            },
+            {
+              "identifier": "6GSlz6w",
+              "title": "Dotnetsafer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/dotnetsafer"
+            }
+          ]
+        },
+        {
+          "identifier": "Pn0qzz7",
+          "type": "Link",
+          "title": "Calculating distance between your device and a location",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/calculating-distance-between-your-device-and-a-location-with-net-maui/",
+          "description": "<p>In Xamarin.Forms showing the distance between two points can be done with Xamarin.Essentials, but in .NET MAUI it’s even easier. The .NET MAUI essentials are built into the framework itself and doesn’t rely on an external package.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/calculating-distance-between-your-device-and-a-location-with-net-maui/\"><strong>Calculating distance between your device and a location with .NET MAUI</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "In Xamarin.Forms showing the distance between two points can be done with Xamarin.Essentials, but in .NET MAUI it’s even easier. The .NET MAUI essentials are built into the framework itself and doesn’t rely on an external package.\r\n\r\n[**Calculating distance between your device and a location with .NET MAUI**](https://www.andreasnesheim.no/calculating-distance-between-your-device-and-a-location-with-net-maui/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "K1dB9t7",
+              "title": "**Calculating distance between your device and a location with .NET MAUI**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/calculating-distance-between-your-device-and-a-location-with-net-maui/"
+            },
+            {
+              "identifier": "luNkt4p",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "k19lBI",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #41",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-41",
+          "description": "<p>Hey Sam! What's been happening in MAUI this week?</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-41\"><strong>Sands of MAUI: Issue #41</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Hey Sam! What's been happening in MAUI this week?\r\n\r\n[**Sands of MAUI: Issue #41**](https://www.telerik.com/blogs/sands-maui-issue-41) by [Sam Basu](https://twitter.com/samidip)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "XhAs2w3",
+              "title": "**Sands of MAUI: Issue #41**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-41"
+            },
+            {
+              "identifier": "3qLqNZD",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "RcyCNrh",
+          "type": "Link",
+          "title": ".NET MAUI Preview 12: Shell Dependency Injection is Here!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=4kWSgwn9VSY",
+          "description": "<p>As we're getting closer to GA, the updates get a bit less exciting, but for preview 12 we got some cool Shell features! In this video we will go over what is new in .NET MAUI Preview 12 and specifically I will show you how to work with the new .NET MAUI Shell Dependency Injection!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=4kWSgwn9VSY\"><strong>.NET MAUI Preview 12: Shell Dependency Injection is Here!</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "As we're getting closer to GA, the updates get a bit less exciting, but for preview 12 we got some cool Shell features! In this video we will go over what is new in .NET MAUI Preview 12 and specifically I will show you how to work with the new .NET MAUI Shell Dependency Injection!\r\n\r\n[**.NET MAUI Preview 12: Shell Dependency Injection is Here!**](https://www.youtube.com/watch?v=4kWSgwn9VSY) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "SQUK761",
+              "title": "**.NET MAUI Preview 12: Shell Dependency Injection is Here!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=4kWSgwn9VSY"
+            },
+            {
+              "identifier": "IzRl18X",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "eUv5Hnr",
+          "type": "Link",
+          "title": "Merge Conflict: 290: The .NET MAUI Episode",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/290",
+          "description": "<p>We answer all of your questions! Which seem to mostly be about .NET MAUI :)</p>\n\n<p><a href=\"https://www.mergeconflict.fm/290\"><strong>Merge Conflict: 290: The .NET MAUI Episode</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "We answer all of your questions! Which seem to mostly be about .NET MAUI :)\r\n\r\n[**Merge Conflict: 290: The .NET MAUI Episode**](https://www.mergeconflict.fm/290) by [Merge Conflict](https://twitter.com/mergeconflictfm)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Le9nFSF",
+              "title": "**Merge Conflict: 290: The .NET MAUI Episode**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/290"
+            },
+            {
+              "identifier": "UnfJgJD",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "brm6sFV",
+          "type": "Link",
+          "title": ".NET MAUI Preview 12 - Constructor & Dependency Injection Everywhere!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=ugem4UbAtC0",
+          "description": "<p>.NET MAUI Preview 12 is here along with Visual Studio 2022 17.1 Preview 3 and there are some awesome new features including built in support for constructor injection when using Shell! There is also the .NET 6 unification for iOS, new handlers, Windows extended toolbar, and more!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=ugem4UbAtC0\"><strong>.NET MAUI Preview 12 - Constructor &amp; Dependency Injection Everywhere!</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": ".NET MAUI Preview 12 is here along with Visual Studio 2022 17.1 Preview 3 and there are some awesome new features including built in support for constructor injection when using Shell! There is also the .NET 6 unification for iOS, new handlers, Windows extended toolbar, and more!\r\n\r\n[**.NET MAUI Preview 12 - Constructor & Dependency Injection Everywhere!**](https://www.youtube.com/watch?v=ugem4UbAtC0) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "fJiEJOv",
+              "title": "**.NET MAUI Preview 12 - Constructor & Dependency Injection Everywhere!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=ugem4UbAtC0"
+            },
+            {
+              "identifier": "qg0Keew",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "boXbDub",
+          "type": "Link",
+          "title": "Null Pointers 78: Winter Musings",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/78/",
+          "description": "<p>Today we cover a lot of different things going on in our lives and the tech world. What kind of gadget did Mark get from his wife for Christmas? Find out!</p>\n\n<p><a href=\"https://nullpointers.io/78/\"><strong>78: Winter Musings</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "Today we cover a lot of different things going on in our lives and the tech world. What kind of gadget did Mark get from his wife for Christmas? Find out!\r\n\r\n[**78: Winter Musings**](https://nullpointers.io/78/) by [Null Pointers](https://twitter.com/nullpointersio)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "LB44oTf",
+              "title": "**78: Winter Musings**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/78/"
+            },
+            {
+              "identifier": "2zvusKJ",
+              "title": "Null Pointers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

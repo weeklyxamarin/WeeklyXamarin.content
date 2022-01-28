@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "336",
+      "Name": "Issue 336",
+      "UpdatedTimeStamp": "2022-01-28T10:49:21Z",
+      "Summary": ".NET MAUI creeping up on us.",
+      "PublishDate": "2022-01-28T10:49:18Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "335",
       "Name": "Issue 335",
       "UpdatedTimeStamp": "2022-01-23T22:46:06Z",

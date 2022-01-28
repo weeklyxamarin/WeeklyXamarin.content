@@ -960,6 +960,12 @@
       ]
     },
     {
+      "Name": "Dotnetsafer",
+      "TwitterHandle": "dotnetsafer",
+      "Id": "f8a4ae8f-2e52-4ae6-8778-cfade4b55473",
+      "Aliases": []
+    },
+    {
       "Name": "Dylan Berry",
       "TwitterHandle": "dylbot9000",
       "GitHubHandle": "dylanberry",
@@ -2672,6 +2678,12 @@
           "Name": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
         }
       ]
+    },
+    {
+      "Name": "Sergio Pedri",
+      "GitHubHandle": "Sergio0694",
+      "Id": "c807dd44-4a64-4582-b83f-b607afa2dbb4",
+      "Aliases": []
     },
     {
       "Name": "Sermet",
