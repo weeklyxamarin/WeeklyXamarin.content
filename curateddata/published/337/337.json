@@ -1,0 +1,563 @@
+{
+  "number": 337,
+  "title": "Issue 337",
+  "summary": "Is it monday again?",
+  "url": "https://weeklyxamarin.com/issues/337",
+  "publication_status": "published",
+  "published_at": "2022-02-07T01:00:08+00:00",
+  "updated_at": "2022-02-07T01:00:09+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #337 of Weekly Xamarin - a snapshot of what's been happening in the Xamarin and MAUI communities over the last week.</p>\n\n<p>Recently one .net friend pointed out that Weekly Xamarins are coming out more and more often on a Monday. Oops, I did it again, sorry about that!</p>\n\n<p>Anyway, I hope you have a great week and enjoy all the articles.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #337 of Weekly Xamarin - a snapshot of what's been happening in the Xamarin and MAUI communities over the last week.\r\n\r\nRecently one .net friend pointed out that Weekly Xamarins are coming out more and more often on a Monday. Oops, I did it again, sorry about that!\r\n\r\nAnyway, I hope you have a great week and enjoy all the articles.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "NIh78Fj",
+          "type": "Link",
+          "title": "Unlisted app distribution",
+          "url_domain": "apple.com",
+          "url": "https://developer.apple.com/support/unlisted-app-distribution/",
+          "description": "<p>This was a little unexpected but it turns out Apple is supporting Unlisted apps. They are still published through the App Store, but are discoverable only with a direct link. Unlisted apps don’t appear in any App Store categories, recommendations, charts, search results, or other listings.</p>\n\n<p><a href=\"https://developer.apple.com/support/unlisted-app-distribution/\"><strong>Unlisted app distribution</strong></a> by <a href=\"https://developer.apple.com/\">Apple Developer</a></p>",
+          "description_markdown": "This was a little unexpected but it turns out Apple is supporting Unlisted apps. They are still published through the App Store, but are discoverable only with a direct link. Unlisted apps don’t appear in any App Store categories, recommendations, charts, search results, or other listings.\r\n\r\n[**Unlisted app distribution**](https://developer.apple.com/support/unlisted-app-distribution/) by [Apple Developer](https://developer.apple.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "uMv7OsT",
+              "title": "**Unlisted app distribution**",
+              "url_domain": "apple.com",
+              "url": "https://developer.apple.com/support/unlisted-app-distribution/"
+            },
+            {
+              "identifier": "ItXyBdL",
+              "title": "Apple Developer",
+              "url_domain": "apple.com",
+              "url": "https://developer.apple.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "DSjSXVr",
+          "type": "Link",
+          "title": "Wordle UX: Sometimes a game just feels good",
+          "url_domain": "uxdesign.cc",
+          "url": "https://uxdesign.cc/wordle-ux-sometimes-a-game-just-feels-good-8749b26834ef",
+          "description": "<p>As app developers, it can be super helpful to dive into the experience that makes something so simple yet so popular.</p>\n\n<p><a href=\"https://uxdesign.cc/wordle-ux-sometimes-a-game-just-feels-good-8749b26834ef\"><strong>Wordle UX: Sometimes a game just feels good</strong></a> by <a href=\"https://twitter.com/joebernux\">Joe Bernstein</a></p>",
+          "description_markdown": "As app developers, it can be super helpful to dive into the experience that makes something so simple yet so popular.\r\n\r\n[**Wordle UX: Sometimes a game just feels good**](https://uxdesign.cc/wordle-ux-sometimes-a-game-just-feels-good-8749b26834ef) by [Joe Bernstein](https://twitter.com/joebernux)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "P9Ev6g0",
+              "title": "**Wordle UX: Sometimes a game just feels good**",
+              "url_domain": "uxdesign.cc",
+              "url": "https://uxdesign.cc/wordle-ux-sometimes-a-game-just-feels-good-8749b26834ef"
+            },
+            {
+              "identifier": "Y6PX81",
+              "title": "Joe Bernstein",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/joebernux"
+            }
+          ]
+        },
+        {
+          "identifier": "tQ6lEDA",
+          "type": "Link",
+          "title": "Prevent dark mode on iOS, Android",
+          "url_domain": "banditoth.hu",
+          "url": "https://www.banditoth.hu/2022/02/04/xamarin-forms-prevent-dark-mode-on-ios-android/",
+          "description": "<p>To foil the efforts of all the cool kids who love Dark mode you can prevent it using this simple technique. ;-)</p>\n\n<p><a href=\"https://www.banditoth.hu/2022/02/04/xamarin-forms-prevent-dark-mode-on-ios-android/\"><strong>Prevent dark mode on iOS, Android</strong></a> by <a href=\"https://www.banditoth.hu/\">András Tóth</a></p>",
+          "description_markdown": "To foil the efforts of all the cool kids who love Dark mode you can prevent it using this simple technique. ;-)\r\n\r\n[**Prevent dark mode on iOS, Android**](https://www.banditoth.hu/2022/02/04/xamarin-forms-prevent-dark-mode-on-ios-android/) by [András Tóth](https://www.banditoth.hu/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "7OoSUS7",
+              "title": "**Prevent dark mode on iOS, Android**",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/2022/02/04/xamarin-forms-prevent-dark-mode-on-ios-android/"
+            },
+            {
+              "identifier": "7otmjWU",
+              "title": "András Tóth",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "xKM4Bta",
+          "type": "Link",
+          "title": "Uber Clone App using State Machine",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2022/01/28/uber-clone-app-using-state-machine-in-xamarin-forms/",
+          "description": "<p>Rendy shows how to the State Machine his building to implement an clone of the Uber App.</p>\n\n<p><a href=\"https://www.xamboy.com/2022/01/28/uber-clone-app-using-state-machine-in-xamarin-forms/\"><strong>Uber Clone App using State Machine</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "Rendy shows how to the State Machine his building to implement an clone of the Uber App.\r\n\r\n[**Uber Clone App using State Machine**](https://www.xamboy.com/2022/01/28/uber-clone-app-using-state-machine-in-xamarin-forms/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "6GKyYO7",
+              "title": "**Uber Clone App using State Machine**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2022/01/28/uber-clone-app-using-state-machine-in-xamarin-forms/"
+            },
+            {
+              "identifier": "hORPKno",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        },
+        {
+          "identifier": "gZn4R4p",
+          "type": "Link",
+          "title": "Advanced Databinding: Part 0 - BASICS",
+          "url_domain": "jesseliberty.com",
+          "url": "https://jesseliberty.com/2022/02/01/advanced-databinding-part-0-basics/",
+          "description": "<p>If you are looking to dive into data binding in a bit more depth, this is the first in a series of blog posts.</p>\n\n<p><a href=\"https://jesseliberty.com/2022/02/01/advanced-databinding-part-0-basics/\"><strong>Advanced Databinding: Part 0 - BASICS</strong></a> by <a href=\"https://twitter.com/rodrigojuarez\">Rodrigo Juarez</a></p>",
+          "description_markdown": "If you are looking to dive into data binding in a bit more depth, this is the first in a series of blog posts.\r\n\r\n[**Advanced Databinding: Part 0 - BASICS**](https://jesseliberty.com/2022/02/01/advanced-databinding-part-0-basics/) by [Rodrigo Juarez](https://twitter.com/rodrigojuarez)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "IgaZLcV",
+              "title": "**Advanced Databinding: Part 0 - BASICS**",
+              "url_domain": "jesseliberty.com",
+              "url": "https://jesseliberty.com/2022/02/01/advanced-databinding-part-0-basics/"
+            },
+            {
+              "identifier": "yrvc09E",
+              "title": "Rodrigo Juarez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rodrigojuarez"
+            }
+          ]
+        },
+        {
+          "identifier": "OhO0xW0",
+          "type": "Link",
+          "title": "Firebase Dynamic Links with Xamarin Forms and .NET Backend",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/firebase-dynamic-links-with-xamarin-forms-and-net-backend/",
+          "description": "<p>This article is about using Firebase Dynamic Links with Xamarin Forms and we how to create dynamic links from your C# back-end. FWIW, Dynamic Links are where you click on a link, it takes you to an app store to download the app, and then takes you to the content within the app.</p>\n\n<p><a href=\"https://doumer.me/firebase-dynamic-links-with-xamarin-forms-and-net-backend/\"><strong>Firebase Dynamic Links with Xamarin Forms and .NET Backend</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "This article is about using Firebase Dynamic Links with Xamarin Forms and we how to create dynamic links from your C# back-end. FWIW, Dynamic Links are where you click on a link, it takes you to an app store to download the app, and then takes you to the content within the app.\r\n\r\n[**Firebase Dynamic Links with Xamarin Forms and .NET Backend**](https://doumer.me/firebase-dynamic-links-with-xamarin-forms-and-net-backend/) by [Damien Doumer](https://twitter.com/damien_doumer)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "UcPOvsy",
+              "title": "**Firebase Dynamic Links with Xamarin Forms and .NET Backend**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/firebase-dynamic-links-with-xamarin-forms-and-net-backend/"
+            },
+            {
+              "identifier": "5vtTTtJ",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        },
+        {
+          "identifier": "t3nllas",
+          "type": "Link",
+          "title": "Xamarin.Forms MVVM DataTemplate with IndicatorView",
+          "url_domain": "xamarinhowto.com",
+          "url": "https://xamarinhowto.com/xamarin-forms-mvvm-datatemplate-with-indicatorview/",
+          "description": "<p>Using an MVVM Pattern and DataTemplate to create a 'setup up wizard' using a standard Xamarin.Forms CarouselView and IndicatorView.</p>\n\n<p><a href=\"https://xamarinhowto.com/xamarin-forms-mvvm-datatemplate-with-indicatorview/\"><strong>Xamarin.Forms MVVM DataTemplate with IndicatorView</strong></a> by <a href=\"https://www.linkedin.com/in/toby-field-589a46205/\">Toby Field</a></p>",
+          "description_markdown": "Using an MVVM Pattern and DataTemplate to create a 'setup up wizard' using a standard Xamarin.Forms CarouselView and IndicatorView. \r\n\r\n[**Xamarin.Forms MVVM DataTemplate with IndicatorView**](https://xamarinhowto.com/xamarin-forms-mvvm-datatemplate-with-indicatorview/) by [Toby Field](https://www.linkedin.com/in/toby-field-589a46205/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "GQa5Uyf",
+              "title": "**Xamarin.Forms MVVM DataTemplate with IndicatorView**",
+              "url_domain": "xamarinhowto.com",
+              "url": "https://xamarinhowto.com/xamarin-forms-mvvm-datatemplate-with-indicatorview/"
+            },
+            {
+              "identifier": "ShSssV5",
+              "title": "Toby Field",
+              "url_domain": "linkedin.com",
+              "url": "https://www.linkedin.com/in/toby-field-589a46205/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "Mhhh9Q0",
+          "type": "Link",
+          "title": "Adopting the .NET Generic Host",
+          "url_domain": "thewissen.io",
+          "url": "https://thewissen.io/adopting-the-generic-host/",
+          "description": "<p>Coming from the ASP.NET Core space, you may already be aware of the .NET Generic Host model. The reason you should care as a Xamarin/MAUI developer is that .NET MAUI will also use the .NET Generic Host model.</p>\n\n<p><a href=\"https://thewissen.io/adopting-the-generic-host/\"><strong>Adopting the .NET Generic Host</strong></a> by <a href=\"https://twitter.com/devnl\">Steven Thewissen</a></p>",
+          "description_markdown": "Coming from the ASP.NET Core space, you may already be aware of the .NET Generic Host model. The reason you should care as a Xamarin/MAUI developer is that .NET MAUI will also use the .NET Generic Host model.\r\n\r\n[**Adopting the .NET Generic Host**](https://thewissen.io/adopting-the-generic-host/) by [Steven Thewissen](https://twitter.com/devnl)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "7tarvJl",
+              "title": "**Adopting the .NET Generic Host**",
+              "url_domain": "thewissen.io",
+              "url": "https://thewissen.io/adopting-the-generic-host/"
+            },
+            {
+              "identifier": "HE6MlLK",
+              "title": "Steven Thewissen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/devnl"
+            }
+          ]
+        },
+        {
+          "identifier": "SPoguWi",
+          "type": "Link",
+          "title": "Platform Specific Code using Partial Classes in .NET MAUI",
+          "url_domain": "taranissoftware.com",
+          "url": "https://blog.taranissoftware.com/platform-specific-code-using-partial-classes-in-net-maui",
+          "description": "<p>.NET MAUI provides several ways to write platform specific code, in this article I demonstrate using partial classes to retrieve device information.</p>\n\n<p><a href=\"https://blog.taranissoftware.com/platform-specific-code-using-partial-classes-in-net-maui\"><strong>Platform Specific Code using Partial Classes in .NET MAUI</strong></a> by <a href=\"https://github.com/irongut\">Dave Murray</a></p>",
+          "description_markdown": ".NET MAUI provides several ways to write platform specific code, in this article I demonstrate using partial classes to retrieve device information.\r\n\r\n[**Platform Specific Code using Partial Classes in .NET MAUI**](https://blog.taranissoftware.com/platform-specific-code-using-partial-classes-in-net-maui) by [Dave Murray](https://github.com/irongut)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "PeoYzdv",
+              "title": "**Platform Specific Code using Partial Classes in .NET MAUI**",
+              "url_domain": "taranissoftware.com",
+              "url": "https://blog.taranissoftware.com/platform-specific-code-using-partial-classes-in-net-maui"
+            },
+            {
+              "identifier": "oFhD6JJ",
+              "title": "Dave Murray",
+              "url_domain": "github.com",
+              "url": "https://github.com/irongut"
+            }
+          ]
+        },
+        {
+          "identifier": "ZZ4L1QR",
+          "type": "Link",
+          "title": "Ordering elements with ZIndex in .NET MAUI",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/ordering-elements-with-zindex-in-net-maui/",
+          "description": "<p>Preview 12 of .NET MAUI introduced the ZIndex property on all elements that inherits from the IView interface. That means you can practically order all view elements on the Z-axis as you want.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/ordering-elements-with-zindex-in-net-maui/\"><strong>Ordering elements with ZIndex in .NET MAUI</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "Preview 12 of .NET MAUI introduced the ZIndex property on all elements that inherits from the IView interface. That means you can practically order all view elements on the Z-axis as you want.\r\n\r\n[**Ordering elements with ZIndex in .NET MAUI**](https://www.andreasnesheim.no/ordering-elements-with-zindex-in-net-maui/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "SWhbHYj",
+              "title": "**Ordering elements with ZIndex in .NET MAUI**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/ordering-elements-with-zindex-in-net-maui/"
+            },
+            {
+              "identifier": "xoIkDmL",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "H0oYJko",
+          "type": "Link",
+          "title": "Updates in .NET MAUI - Summary 2021",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/updates-net-maui-summary-2021/",
+          "description": "<p>If you’re wondering what were the last changes/updates made in .NET MAUI, you’ve landed in the right place.</p>\n\n<p><a href=\"https://luismts.com/updates-net-maui-summary-2021/\"><strong>Updates in .NET MAUI - Summary 2021</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "If you’re wondering what were the last changes/updates made in .NET MAUI, you’ve landed in the right place.\r\n\r\n[**Updates in .NET MAUI - Summary 2021**](https://luismts.com/updates-net-maui-summary-2021/) by [Luis Matos](https://twitter.com/luismatosluna)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "bWZxE4j",
+              "title": "**Updates in .NET MAUI - Summary 2021**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/updates-net-maui-summary-2021/"
+            },
+            {
+              "identifier": "NE1CMiu",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "tTm3bpj",
+          "type": "Link",
+          "title": "Announcing DevExpress Mobile UI for .NET MAUI Preview 12",
+          "url_domain": "devexpress.com",
+          "url": "https://community.devexpress.com/blogs/mobile/archive/2022/02/03/announcing-devexpress-mobile-ui-for-net-maui-preview-12.aspx",
+          "description": "<p>Deliver elegant and high-performance native mobile apps with the DevExpress Xamarin Forms and .NET Multi-platform App UI Controls.</p>\n\n<p><a href=\"https://community.devexpress.com/blogs/mobile/archive/2022/02/03/announcing-devexpress-mobile-ui-for-net-maui-preview-12.aspx\"><strong>Announcing DevExpress Mobile UI for .NET MAUI Preview 12</strong></a> by <a href=\"https://www.devexpress.com/\">DevExpress</a></p>",
+          "description_markdown": "Deliver elegant and high-performance native mobile apps with the DevExpress Xamarin Forms and .NET Multi-platform App UI Controls.\r\n\r\n[**Announcing DevExpress Mobile UI for .NET MAUI Preview 12**](https://community.devexpress.com/blogs/mobile/archive/2022/02/03/announcing-devexpress-mobile-ui-for-net-maui-preview-12.aspx) by [DevExpress](https://www.devexpress.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "4f9lgao",
+              "title": "**Announcing DevExpress Mobile UI for .NET MAUI Preview 12**",
+              "url_domain": "devexpress.com",
+              "url": "https://community.devexpress.com/blogs/mobile/archive/2022/02/03/announcing-devexpress-mobile-ui-for-net-maui-preview-12.aspx"
+            },
+            {
+              "identifier": "ey9OPOE",
+              "title": "DevExpress",
+              "url_domain": "devexpress.com",
+              "url": "https://www.devexpress.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "Bi1OfUP",
+          "type": "Link",
+          "title": "Crypto Tracker App with Telerik .NET MAUI Controls",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/build-cross-platform-crypto-app-telerik-ui-net-maui-part-1",
+          "description": "<p>A real use-case sample crypto application that tracks the cryptocurrency market build with Telerik .NET MAUI</p>\n\n<p><a href=\"https://www.telerik.com/blogs/build-cross-platform-crypto-app-telerik-ui-net-maui-part-1\"><strong>Crypto Tracker App with Telerik .NET MAUI Controls</strong></a> by <a href=\"https://www.telerik.com/blogs/author/deyan-terziyski\">Deyan Terziyski</a></p>",
+          "description_markdown": "A real use-case sample crypto application that tracks the cryptocurrency market build with Telerik .NET MAUI\r\n\r\n[**Crypto Tracker App with Telerik .NET MAUI Controls**](https://www.telerik.com/blogs/build-cross-platform-crypto-app-telerik-ui-net-maui-part-1) by [Deyan Terziyski](https://www.telerik.com/blogs/author/deyan-terziyski)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "LCSF6Wm",
+              "title": "**Crypto Tracker App with Telerik .NET MAUI Controls**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/build-cross-platform-crypto-app-telerik-ui-net-maui-part-1"
+            },
+            {
+              "identifier": "LCZkulk",
+              "title": "Deyan Terziyski",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/deyan-terziyski"
+            }
+          ]
+        },
+        {
+          "identifier": "eOYUmK8",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #42",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-42",
+          "description": "<p>Weekly roundup of MAUI news.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-42\"><strong>Sands of MAUI: Issue #42</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Weekly roundup of MAUI news.\r\n\r\n[**Sands of MAUI: Issue #42**](https://www.telerik.com/blogs/sands-maui-issue-42) by [Sam Basu](https://twitter.com/samidip)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "B5Dk3hb",
+              "title": "**Sands of MAUI: Issue #42**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-42"
+            },
+            {
+              "identifier": "mB5CIWR",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "C8aMT76",
+          "type": "Link",
+          "title": "Get Started with Shell Using .NET MAUI Preview 12",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/get-started-with-shell-using-net-maui-preview-12.aspx",
+          "description": "<p>This blog shows how easy it is to integrate Shell in a .NET MAUI application with Preview 12.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/get-started-with-shell-using-net-maui-preview-12.aspx\"><strong>Get Started with Shell Using .NET MAUI Preview 12</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "This blog shows how easy it is to integrate Shell in a .NET MAUI application with Preview 12.\r\n\r\n[**Get Started with Shell Using .NET MAUI Preview 12**](https://www.syncfusion.com/blogs/post/get-started-with-shell-using-net-maui-preview-12.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ETSbxGA",
+              "title": "**Get Started with Shell Using .NET MAUI Preview 12**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/get-started-with-shell-using-net-maui-preview-12.aspx"
+            },
+            {
+              "identifier": "LLwRBt5",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "rJa2s9K",
+          "type": "Link",
+          "title": ".NET MAUI Community Standup - ONNX Runtime with Mike Parker",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=NroxHNQLIQ8",
+          "description": "<p>Join Maddy Montaquila, David Ortinau, and special guest Mike Parker to learn about using the ONNX Runtime in your Xamarin app for Machine Learning!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=NroxHNQLIQ8\"><strong>.NET MAUI Community Standup - ONNX Runtime with Mike Parker</strong></a> by <a href=\"https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg\">Xamarin Developers</a></p>",
+          "description_markdown": "Join Maddy Montaquila, David Ortinau, and special guest Mike Parker to learn about using the ONNX Runtime in your Xamarin app for Machine Learning!\r\n\r\n[**.NET MAUI Community Standup - ONNX Runtime with Mike Parker**](https://www.youtube.com/watch?v=NroxHNQLIQ8) by [Xamarin Developers](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "ZPwPk6c",
+              "title": "**.NET MAUI Community Standup - ONNX Runtime with Mike Parker**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=NroxHNQLIQ8"
+            },
+            {
+              "identifier": "ggDUCRf",
+              "title": "Xamarin Developers",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg"
+            }
+          ]
+        },
+        {
+          "identifier": "zdEXTTD",
+          "type": "Link",
+          "title": "Merge Conflict: 291: GitHub Actions All The Things",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/291",
+          "description": "<p>Frank is finally all in on continuous integration and continuous delivery with .NET 6 and he did it all with GitHub actions!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/291\"><strong>Merge Conflict: 291: GitHub Actions All The Things</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Frank is finally all in on continuous integration and continuous delivery with .NET 6 and he did it all with GitHub actions! \r\n\r\n[**Merge Conflict: 291: GitHub Actions All The Things**](https://www.mergeconflict.fm/291) by [Merge Conflict](https://twitter.com/mergeconflictfm)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "Py1BKYI",
+              "title": "**Merge Conflict: 291: GitHub Actions All The Things**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/291"
+            },
+            {
+              "identifier": "FIm1UZO",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "wXQxBSl",
+          "type": "Link",
+          "title": "No Dogma Podcast - 160 Brandon Minnick, .NET MAUI",
+          "url_domain": "bryanhogan.net",
+          "url": "https://nodogmapodcast.bryanhogan.net/160-brandon-minnick-net-maui/",
+          "description": "<p>Brandon Minnick of Microsoft talks about the upcoming release of .NET MAUI.</p>\n\n<p><a href=\"https://nodogmapodcast.bryanhogan.net/160-brandon-minnick-net-maui/\"><strong>No Dogma Podcast - 160 Brandon Minnick, .NET MAUI</strong></a> by <a href=\"https://twitter.com/bryanjhogan\">Bryan Hogan</a></p>",
+          "description_markdown": "Brandon Minnick of Microsoft talks about the upcoming release of .NET MAUI.\r\n\r\n[**No Dogma Podcast - 160 Brandon Minnick, .NET MAUI**](https://nodogmapodcast.bryanhogan.net/160-brandon-minnick-net-maui/) by [Bryan Hogan](https://twitter.com/bryanjhogan)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "r583xNK",
+              "title": "**No Dogma Podcast - 160 Brandon Minnick, .NET MAUI**",
+              "url_domain": "bryanhogan.net",
+              "url": "https://nodogmapodcast.bryanhogan.net/160-brandon-minnick-net-maui/"
+            },
+            {
+              "identifier": "HAZlodX",
+              "title": "Bryan Hogan",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bryanjhogan"
+            }
+          ]
+        },
+        {
+          "identifier": "ytXELSW",
+          "type": "Link",
+          "title": ".NET Rocks - Twenty Years of .NET with Miguel de Icaza",
+          "url_domain": "dotnetrocks.com",
+          "url": "https://www.dotnetrocks.com/default.aspx?ShowNum=1779",
+          "description": "<p>Twenty years of .NET! Carl and Richard talk to Miguel de Icaza about his experiences working with .NET, going all the way back to 2001 with the announcement of the Mono Project. Miguel talks about those early days of Mono, creating MonoTouch to make C# run on iOS, Xamarin, and more! The conversation also dives into the evolution of open source, and the impact that tech companies have on open source projects, and what the future might hold for open source maintainers.</p>\n\n<p><a href=\"https://www.dotnetrocks.com/default.aspx?ShowNum=1779\"><strong>.NET Rocks - Twenty Years of .NET with Miguel de Icaza</strong></a> by <a href=\"https://dotnetrocks.com/\">.NET Rocks!</a></p>",
+          "description_markdown": "Twenty years of .NET! Carl and Richard talk to Miguel de Icaza about his experiences working with .NET, going all the way back to 2001 with the announcement of the Mono Project. Miguel talks about those early days of Mono, creating MonoTouch to make C# run on iOS, Xamarin, and more! The conversation also dives into the evolution of open source, and the impact that tech companies have on open source projects, and what the future might hold for open source maintainers.\r\n\r\n[**.NET Rocks - Twenty Years of .NET with Miguel de Icaza**](https://www.dotnetrocks.com/default.aspx?ShowNum=1779) by [.NET Rocks!](https://dotnetrocks.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "VzXHsfO",
+              "title": "**.NET Rocks - Twenty Years of .NET with Miguel de Icaza**",
+              "url_domain": "dotnetrocks.com",
+              "url": "https://www.dotnetrocks.com/default.aspx?ShowNum=1779"
+            },
+            {
+              "identifier": "aINNwqe",
+              "title": ".NET Rocks!",
+              "url_domain": "dotnetrocks.com",
+              "url": "https://dotnetrocks.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "oUG7QXh",
+          "type": "Link",
+          "title": ".NET MAUI Community Toolkit - Monthly Standup (February 2022)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=3QWbItph7jI",
+          "description": "<p>Join us for our monthly standup for the .NET MAUI Community Toolkit!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=3QWbItph7jI\"><strong>.NET MAUI Community Toolkit - Monthly Standup (February 2022)</strong></a> by <a href=\"https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A\">.NET Foundation</a></p>",
+          "description_markdown": "Join us for our monthly standup for the .NET MAUI Community Toolkit!\r\n\r\n[**.NET MAUI Community Toolkit - Monthly Standup (February 2022)**](https://www.youtube.com/watch?v=3QWbItph7jI) by [.NET Foundation](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "EUB1v3q",
+              "title": "**.NET MAUI Community Toolkit - Monthly Standup (February 2022)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=3QWbItph7jI"
+            },
+            {
+              "identifier": "iiE9ulA",
+              "title": ".NET Foundation",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A"
+            }
+          ]
+        },
+        {
+          "identifier": "uC3F1uy",
+          "type": "Link",
+          "title": "The .NET MAUI Podcast Episode 106: Customer Success Stories: ONNX",
+          "url_domain": "dotnetmauipodcast.com",
+          "url": "https://www.dotnetmauipodcast.com/106",
+          "description": "<p>Hear how you can add some on-device machine learning to your apps using the ONNX Runtime!</p>\n\n<p><a href=\"https://www.dotnetmauipodcast.com/106\"><strong>The .NET MAUI Podcast Episode 106: Customer Success Stories: ONNX</strong></a> by <a href=\"https://www.dotnetmauipodcast.com/\">.NET MAUI Podcast</a></p>",
+          "description_markdown": "Hear how you can add some on-device machine learning to your apps using the ONNX Runtime!\r\n\r\n[**The .NET MAUI Podcast Episode 106: Customer Success Stories: ONNX**](https://www.dotnetmauipodcast.com/106) by [.NET MAUI Podcast](https://www.dotnetmauipodcast.com/)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "8T69Mbb",
+              "title": "**The .NET MAUI Podcast Episode 106: Customer Success Stories: ONNX**",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/106"
+            },
+            {
+              "identifier": "U4sAJ96",
+              "title": ".NET MAUI Podcast",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "ZczFAgs",
+          "type": "Link",
+          "title": "Beautiful, Extensive and FREE Calendar Control for Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=aw7b_Xt1fng",
+          "description": "<p>In this video Gerald introduce you to the XCalendar plugin for Xamarin.Forms. This brand new control allows you to add a beautiful calendar to your app and has very extensive functionalities!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=aw7b_Xt1fng\"><strong>Beautiful, Extensive and FREE Calendar Control for Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "In this video Gerald introduce you to the XCalendar plugin for Xamarin.Forms. This brand new control allows you to add a beautiful calendar to your app and has very extensive functionalities!\r\n\r\n[**Beautiful, Extensive and FREE Calendar Control for Xamarin.Forms**](https://www.youtube.com/watch?v=aw7b_Xt1fng) by [Gerald Versluis](https://twitter.com/jfversluis)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "IiiPVFV",
+              "title": "**Beautiful, Extensive and FREE Calendar Control for Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=aw7b_Xt1fng"
+            },
+            {
+              "identifier": "RUAJjRZ",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "337",
+      "Name": "Issue 337",
+      "UpdatedTimeStamp": "2022-02-07T01:00:09Z",
+      "Summary": "Is it monday again?",
+      "PublishDate": "2022-02-07T01:00:08Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "336",
       "Name": "Issue 336",
       "UpdatedTimeStamp": "2022-01-28T10:49:21Z",

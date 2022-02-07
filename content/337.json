@@ -1,0 +1,209 @@
+{
+  "Id": "337",
+  "Name": "Issue 337",
+  "UpdatedTimeStamp": "2022-02-07T01:00:09Z",
+  "Summary": "Is it monday again?",
+  "Introduction": "G'day everyone, welcome to issue #337 of Weekly Xamarin - a snapshot of what's been happening in the Xamarin and MAUI communities over the last week. Recently one .net friend pointed out that Weekly Xamarins are coming out more and more often on a Monday. Oops, I did it again, sorry about that! Anyway, I hope you have a great week and enjoy all the articles. ❤ Kym",
+  "PublishDate": "2022-02-07T01:00:08Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Unlisted app distribution",
+      "Url": "https://developer.apple.com/support/unlisted-app-distribution/",
+      "Description": "This was a little unexpected but it turns out Apple is supporting Unlisted apps. They are still published through the App Store, but are discoverable only with a direct link. Unlisted apps don’t appear in any App Store categories, recommendations, charts, search results, or other listings.",
+      "EditionId": "337",
+      "Author": "Apple Developer",
+      "Id": "337-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Wordle UX: Sometimes a game just feels good",
+      "Url": "https://uxdesign.cc/wordle-ux-sometimes-a-game-just-feels-good-8749b26834ef",
+      "Description": "As app developers, it can be super helpful to dive into the experience that makes something so simple yet so popular.",
+      "EditionId": "337",
+      "Author": "Joe Bernstein",
+      "Id": "337-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Prevent dark mode on iOS, Android",
+      "Url": "https://www.banditoth.hu/2022/02/04/xamarin-forms-prevent-dark-mode-on-ios-android/",
+      "Description": "To foil the efforts of all the cool kids who love Dark mode you can prevent it using this simple technique. ;-)",
+      "EditionId": "337",
+      "Author": "András Tóth",
+      "Id": "337-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Uber Clone App using State Machine",
+      "Url": "https://www.xamboy.com/2022/01/28/uber-clone-app-using-state-machine-in-xamarin-forms/",
+      "Description": "Rendy shows how to the State Machine his building to implement an clone of the Uber App.",
+      "EditionId": "337",
+      "Author": "Rendy Del Rosario",
+      "Id": "337-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Advanced Databinding: Part 0 - BASICS",
+      "Url": "https://jesseliberty.com/2022/02/01/advanced-databinding-part-0-basics/",
+      "Description": "If you are looking to dive into data binding in a bit more depth, this is the first in a series of blog posts.",
+      "EditionId": "337",
+      "Author": "Rodrigo Juarez",
+      "Id": "337-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Firebase Dynamic Links with Xamarin Forms and .NET Backend",
+      "Url": "https://doumer.me/firebase-dynamic-links-with-xamarin-forms-and-net-backend/",
+      "Description": "This article is about using Firebase Dynamic Links with Xamarin Forms and we how to create dynamic links from your C# back-end. FWIW, Dynamic Links are where you click on a link, it takes you to an app store to download the app, and then takes you to the content within the app.",
+      "EditionId": "337",
+      "Author": "Damien Doumer",
+      "Id": "337-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Xamarin.Forms MVVM DataTemplate with IndicatorView",
+      "Url": "https://xamarinhowto.com/xamarin-forms-mvvm-datatemplate-with-indicatorview/",
+      "Description": "Using an MVVM Pattern and DataTemplate to create a 'setup up wizard' using a standard Xamarin.Forms CarouselView and IndicatorView.",
+      "EditionId": "337",
+      "Author": "Toby Field",
+      "Id": "337-7",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Adopting the .NET Generic Host",
+      "Url": "https://thewissen.io/adopting-the-generic-host/",
+      "Description": "Coming from the ASP.NET Core space, you may already be aware of the .NET Generic Host model. The reason you should care as a Xamarin/MAUI developer is that .NET MAUI will also use the .NET Generic Host model.",
+      "EditionId": "337",
+      "Author": "Steven Thewissen",
+      "Id": "337-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Platform Specific Code using Partial Classes in .NET MAUI",
+      "Url": "https://blog.taranissoftware.com/platform-specific-code-using-partial-classes-in-net-maui",
+      "Description": ".NET MAUI provides several ways to write platform specific code, in this article I demonstrate using partial classes to retrieve device information.",
+      "EditionId": "337",
+      "Author": "Dave Murray",
+      "Id": "337-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Ordering elements with ZIndex in .NET MAUI",
+      "Url": "https://www.andreasnesheim.no/ordering-elements-with-zindex-in-net-maui/",
+      "Description": "Preview 12 of .NET MAUI introduced the ZIndex property on all elements that inherits from the IView interface. That means you can practically order all view elements on the Z-axis as you want.",
+      "EditionId": "337",
+      "Author": "Andreas Nesheim",
+      "Id": "337-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Updates in .NET MAUI - Summary 2021",
+      "Url": "https://luismts.com/updates-net-maui-summary-2021/",
+      "Description": "If you’re wondering what were the last changes/updates made in .NET MAUI, you’ve landed in the right place.",
+      "EditionId": "337",
+      "Author": "Luis Matos",
+      "Id": "337-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Announcing DevExpress Mobile UI for .NET MAUI Preview 12",
+      "Url": "https://community.devexpress.com/blogs/mobile/archive/2022/02/03/announcing-devexpress-mobile-ui-for-net-maui-preview-12.aspx",
+      "Description": "Deliver elegant and high-performance native mobile apps with the DevExpress Xamarin Forms and .NET Multi-platform App UI Controls.",
+      "EditionId": "337",
+      "Author": "DevExpress",
+      "Id": "337-12",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Crypto Tracker App with Telerik .NET MAUI Controls",
+      "Url": "https://www.telerik.com/blogs/build-cross-platform-crypto-app-telerik-ui-net-maui-part-1",
+      "Description": "A real use-case sample crypto application that tracks the cryptocurrency market build with Telerik .NET MAUI",
+      "EditionId": "337",
+      "Author": "Deyan Terziyski",
+      "Id": "337-13",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #42",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-42",
+      "Description": "Weekly roundup of MAUI news.",
+      "EditionId": "337",
+      "Author": "Sam Basu",
+      "Id": "337-14",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Get Started with Shell Using .NET MAUI Preview 12",
+      "Url": "https://www.syncfusion.com/blogs/post/get-started-with-shell-using-net-maui-preview-12.aspx",
+      "Description": "This blog shows how easy it is to integrate Shell in a .NET MAUI application with Preview 12.",
+      "EditionId": "337",
+      "Author": "Selva Ganapathy Kathiresan",
+      "Id": "337-15",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Community Standup - ONNX Runtime with Mike Parker",
+      "Url": "https://www.youtube.com/watch?v=NroxHNQLIQ8",
+      "Description": "Join Maddy Montaquila, David Ortinau, and special guest Mike Parker to learn about using the ONNX Runtime in your Xamarin app for Machine Learning!",
+      "EditionId": "337",
+      "Author": "Xamarin Developers",
+      "Id": "337-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 291: GitHub Actions All The Things",
+      "Url": "https://www.mergeconflict.fm/291",
+      "Description": "Frank is finally all in on continuous integration and continuous delivery with .NET 6 and he did it all with GitHub actions!",
+      "EditionId": "337",
+      "Author": "Merge Conflict",
+      "Id": "337-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "No Dogma Podcast - 160 Brandon Minnick, .NET MAUI",
+      "Url": "https://nodogmapodcast.bryanhogan.net/160-brandon-minnick-net-maui/",
+      "Description": "Brandon Minnick of Microsoft talks about the upcoming release of .NET MAUI.",
+      "EditionId": "337",
+      "Author": "Bryan Hogan",
+      "Id": "337-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET Rocks - Twenty Years of .NET with Miguel de Icaza",
+      "Url": "https://www.dotnetrocks.com/default.aspx?ShowNum=1779",
+      "Description": "Twenty years of .NET! Carl and Richard talk to Miguel de Icaza about his experiences working with .NET, going all the way back to 2001 with the announcement of the Mono Project. Miguel talks about those early days of Mono, creating MonoTouch to make C# run on iOS, Xamarin, and more! The conversation also dives into the evolution of open source, and the impact that tech companies have on open source projects, and what the future might hold for open source maintainers.",
+      "EditionId": "337",
+      "Author": ".NET Rocks!",
+      "Id": "337-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Toolkit - Monthly Standup (February 2022)",
+      "Url": "https://www.youtube.com/watch?v=3QWbItph7jI",
+      "Description": "Join us for our monthly standup for the .NET MAUI Community Toolkit!",
+      "EditionId": "337",
+      "Author": ".NET Foundation",
+      "Id": "337-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The .NET MAUI Podcast Episode 106: Customer Success Stories: ONNX",
+      "Url": "https://www.dotnetmauipodcast.com/106",
+      "Description": "Hear how you can add some on-device machine learning to your apps using the ONNX Runtime!",
+      "EditionId": "337",
+      "Author": ".NET MAUI Podcast",
+      "Id": "337-21",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Beautiful, Extensive and FREE Calendar Control for Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=aw7b_Xt1fng",
+      "Description": "In this video Gerald introduce you to the XCalendar plugin for Xamarin.Forms. This brand new control allows you to add a beautiful calendar to your app and has very extensive functionalities!",
+      "EditionId": "337",
+      "Author": "Gerald Versluis",
+      "Id": "337-22",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

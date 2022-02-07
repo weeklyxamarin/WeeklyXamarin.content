@@ -487,6 +487,12 @@
       "Website": "https://mindofai.github.io/"
     },
     {
+      "Name": "Bryan Hogan",
+      "TwitterHandle": "bryanjhogan",
+      "Id": "c0306609-10cd-4977-9786-fc4cefdc3d1f",
+      "Aliases": []
+    },
+    {
       "Name": "Can Bilgin",
       "TwitterHandle": "can_bilgin",
       "GitHubHandle": "canbilgin",
@@ -885,6 +891,16 @@
         {
           "Type": "blog",
           "Name": "https://www.devexpress.com/"
+        }
+      ]
+    },
+    {
+      "Name": "Deyan Terziyski",
+      "Id": "599ce23b-663d-453f-8db6-e7d1d9dfadbd",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.telerik.com/blogs/author/deyan-terziyski"
         }
       ]
     },
@@ -1451,6 +1467,12 @@
       "Name": "Joachim Leonfellner",
       "TwitterHandle": "johnny_leo",
       "Id": "93016590-0f5b-433d-af5d-194c346a1ad1",
+      "Aliases": []
+    },
+    {
+      "Name": "Joe Bernstein",
+      "TwitterHandle": "joebernux",
+      "Id": "dbe1205a-7732-45a9-a448-735f3b823200",
       "Aliases": []
     },
     {
