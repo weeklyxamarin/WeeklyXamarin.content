@@ -11,6 +11,12 @@
       ]
     },
     {
+      "Name": ".NET Frontend Day",
+      "TwitterHandle": "dotnet_frontend",
+      "Id": "3f3fe7e0-4615-4fd5-ac0a-97e4ddc21d35",
+      "Aliases": []
+    },
+    {
       "Name": ".NET MAUI Podcast",
       "Id": "920a4c8c-e1e9-46c5-a4c9-6b22cdad9b87",
       "Aliases": [
@@ -1397,6 +1403,12 @@
       "GitHubHandle": "balivo",
       "Id": "190ffce5-dcb5-453c-8dbc-f915a43764c0",
       "Website": "https://balivo.com.br/"
+    },
+    {
+      "Name": "Jeremi Przeorek",
+      "GitHubHandle": "jeremi-przeorek",
+      "Id": "9eb70205-fceb-463f-b8c4-735208d8fb6e",
+      "Aliases": []
     },
     {
       "Name": "Jérôme Giacomini",

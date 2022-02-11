@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "338",
+      "Name": "Issue 338",
+      "UpdatedTimeStamp": "2022-02-11T08:49:49Z",
+      "Summary": "Learn about deploying apps and in app subscriptions",
+      "PublishDate": "2022-02-11T08:49:46Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "337",
       "Name": "Issue 337",
       "UpdatedTimeStamp": "2022-02-07T01:00:09Z",

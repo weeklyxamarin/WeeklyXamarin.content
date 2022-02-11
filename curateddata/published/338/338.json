@@ -1,0 +1,338 @@
+{
+  "number": 338,
+  "title": "Issue 338",
+  "summary": "Learn about deploying apps and in app subscriptions",
+  "url": "https://weeklyxamarin.com/issues/338",
+  "publication_status": "published",
+  "published_at": "2022-02-11T08:49:46+00:00",
+  "updated_at": "2022-02-11T08:49:49+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #338 of Weekly Xamarin - a snapshot of what's been happening in the Xamarin and MAUI communities over the last week.</p>\n\n<p>I've managed to get back onto a Friday release cadence, so my weekend is going to be wonderfully guilt free. I think I might catch up with the .NET Frontend Day 2022 recordings (see later for links)!</p>\n\n<p>Hope you enjoy your weekend as well.</p>\n\n<p>Cheers,\nKym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #338 of Weekly Xamarin - a snapshot of what's been happening in the Xamarin and MAUI communities over the last week.\r\n\r\nI've managed to get back onto a Friday release cadence, so my weekend is going to be wonderfully guilt free. I think I might catch up with the .NET Frontend Day 2022 recordings (see later for links)!\r\n\r\nHope you enjoy your weekend as well. \r\n\r\nCheers,\r\nKym\r\n\r\n\r\n",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "businessandmarketing",
+      "name": "BUSINESS & MARKETING",
+      "items": [
+        {
+          "identifier": "Aq14ZeV",
+          "type": "Link",
+          "title": "Implementing In-App Subscriptions in iOS and Android",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/ios-android-subscription-implemenation-strategies/",
+          "description": "<p>Subscriptions can be tricky to implement on iOS and Android. James shows how to implement this and also discusses an interesting monetization strategy for apps (that doesn't suck).</p>\n\n<p><a href=\"https://montemagno.com/ios-android-subscription-implemenation-strategies/\"><strong>Implementing In-App Subscriptions in iOS and Android</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Subscriptions can be tricky to implement on iOS and Android. James shows how to implement this and also discusses an interesting monetization strategy for apps (that doesn't suck).\r\n\r\n[**Implementing In-App Subscriptions in iOS and Android**](https://montemagno.com/ios-android-subscription-implemenation-strategies/) by [James Montemagno](https://twitter.com/jamesmontemagno)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "zVRCspm",
+              "title": "**Implementing In-App Subscriptions in iOS and Android**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/ios-android-subscription-implemenation-strategies/"
+            },
+            {
+              "identifier": "sPjCbaw",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "52PqRuI",
+          "type": "Link",
+          "title": "Telerik Xamarin DataGrid Now Supports DataTable Source",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/display-data-quickly-telerik-ui-xamarin-datagrid-control-datatable-source",
+          "description": "<p>The first release of Telerik UI for Xamarin for the year is out, enriching our Xamarin suite with new useful functionalities and components. Among the new goodies is the long-awaited DataTable support for our DataGrid control.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/display-data-quickly-telerik-ui-xamarin-datagrid-control-datatable-source\"><strong>Telerik Xamarin DataGrid Now Supports DataTable Source</strong></a> by <a href=\"\">Yana Kerpecheva</a></p>",
+          "description_markdown": "The first release of Telerik UI for Xamarin for the year is out, enriching our Xamarin suite with new useful functionalities and components. Among the new goodies is the long-awaited DataTable support for our DataGrid control.\r\n\r\n[**Telerik Xamarin DataGrid Now Supports DataTable Source**](https://www.telerik.com/blogs/display-data-quickly-telerik-ui-xamarin-datagrid-control-datatable-source) by [Yana Kerpecheva]()",
+          "embedded_links": [
+            {
+              "identifier": "t3FSPL8",
+              "title": "**Telerik Xamarin DataGrid Now Supports DataTable Source**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/display-data-quickly-telerik-ui-xamarin-datagrid-control-datatable-source"
+            }
+          ]
+        },
+        {
+          "identifier": "3CK265e",
+          "type": "Link",
+          "title": "Xamarin.Forms - Sharing Files And Documents",
+          "url_domain": "c-sharpcorner.com",
+          "url": "https://www.c-sharpcorner.com/article/xamarin-forms-sharing-files-and-documents/",
+          "description": "<p>Sharing content in mobile apps is one of the most important features in terms of app usability and goes beyond the concept of sharing on social media. In this article, you will learn how to share files and documents.</p>\n\n<p><a href=\"https://www.c-sharpcorner.com/article/xamarin-forms-sharing-files-and-documents/\"><strong>Xamarin.Forms - Sharing Files And Documents</strong></a> by <a href=\"\">Alessandro Del Sole</a></p>",
+          "description_markdown": "Sharing content in mobile apps is one of the most important features in terms of app usability and goes beyond the concept of sharing on social media. In this article, you will learn how to share files and documents.\r\n\r\n[**Xamarin.Forms - Sharing Files And Documents**](https://www.c-sharpcorner.com/article/xamarin-forms-sharing-files-and-documents/) by [Alessandro Del Sole]()",
+          "embedded_links": [
+            {
+              "identifier": "UGqfxw7",
+              "title": "**Xamarin.Forms - Sharing Files And Documents**",
+              "url_domain": "c-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/xamarin-forms-sharing-files-and-documents/"
+            }
+          ]
+        },
+        {
+          "identifier": "Roe5SuX",
+          "type": "Link",
+          "title": "Using SignalR in ASP.NET Core 6 & Xamarin.Forms with Firebase and Google as a Auth provider (Part 1)",
+          "url_domain": "git-commit.net",
+          "url": "https://git-commit.net/using-signalr-in-asp-net-core-6-xamarin-forms-with-google-provider-in-firebase-auth/",
+          "description": "<p>Tutorial how to utilize SignalR in ASP.NET Core 6 with a Xamarin.Forms client app together with with Firebase and Google as the Authentication provider.</p>\n\n<p><a href=\"https://git-commit.net/using-signalr-in-asp-net-core-6-xamarin-forms-with-google-provider-in-firebase-auth/\"><strong>Using SignalR in ASP.NET Core 6 &amp; Xamarin.Forms with Firebase and Google as a Auth provider (Part 1)</strong></a> by <a href=\"https://github.com/jeremi-przeorek\">Jeremi Przeorek</a></p>",
+          "description_markdown": "Tutorial how to utilize SignalR in ASP.NET Core 6 with a Xamarin.Forms client app together with with Firebase and Google as the Authentication provider.\r\n\r\n[**Using SignalR in ASP.NET Core 6 & Xamarin.Forms with Firebase and Google as a Auth provider (Part 1)**](https://git-commit.net/using-signalr-in-asp-net-core-6-xamarin-forms-with-google-provider-in-firebase-auth/) by [Jeremi Przeorek](https://github.com/jeremi-przeorek)",
+          "embedded_links": [
+            {
+              "identifier": "LC7rXNw",
+              "title": "**Using SignalR in ASP.NET Core 6 & Xamarin.Forms with Firebase and Google as a Auth provider (Part 1)**",
+              "url_domain": "git-commit.net",
+              "url": "https://git-commit.net/using-signalr-in-asp-net-core-6-xamarin-forms-with-google-provider-in-firebase-auth/"
+            },
+            {
+              "identifier": "XCFV6hG",
+              "title": "Jeremi Przeorek",
+              "url_domain": "github.com",
+              "url": "https://github.com/jeremi-przeorek"
+            }
+          ]
+        },
+        {
+          "identifier": "Pm9tOKu",
+          "type": "Link",
+          "title": "Using Extensions.DependencyInjection package",
+          "url_domain": "msicc.net",
+          "url": "https://msicc.net/using-microsofts-extensions-dependencyinjection-package-in-xamarin-forms-mvvm-applications-part-1/",
+          "description": "<p>Marco looks at how you can use Microsoft.Toolkit.Mvvm in existing Xamarin.Forms apps.</p>\n\n<p><a href=\"https://msicc.net/using-microsofts-extensions-dependencyinjection-package-in-xamarin-forms-mvvm-applications-part-1/\"><strong>Using Extensions.DependencyInjection package</strong></a> by <a href=\"https://twitter.com/msicc\">Marco Siccardi</a></p>",
+          "description_markdown": "Marco looks at how you can use Microsoft.Toolkit.Mvvm in existing Xamarin.Forms apps.\r\n\r\n[**Using Extensions.DependencyInjection package**](https://msicc.net/using-microsofts-extensions-dependencyinjection-package-in-xamarin-forms-mvvm-applications-part-1/) by [Marco Siccardi](https://twitter.com/msicc)",
+          "embedded_links": [
+            {
+              "identifier": "GsPMrxo",
+              "title": "**Using Extensions.DependencyInjection package**",
+              "url_domain": "msicc.net",
+              "url": "https://msicc.net/using-microsofts-extensions-dependencyinjection-package-in-xamarin-forms-mvvm-applications-part-1/"
+            },
+            {
+              "identifier": "zvAA4Fj",
+              "title": "Marco Siccardi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/msicc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "gDFZaAL",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #43",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-43",
+          "description": "<p>Sam gives his weekly update.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-43\"><strong>Sands of MAUI: Issue #43</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam gives his weekly update.\r\n\r\n[**Sands of MAUI: Issue #43**](https://www.telerik.com/blogs/sands-maui-issue-43) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "6lF1uWv",
+              "title": "**Sands of MAUI: Issue #43**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-43"
+            },
+            {
+              "identifier": "2K3CpIs",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "C7nuiMw",
+          "type": "Link",
+          "title": "Getting Started With Brushes in .NET MAUI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/getting-started-brushes-dotnet-maui",
+          "description": "<p>.NET MAUI has added a set of brushes that will allow you to color an area in a way you define. Let’s take a look.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/getting-started-brushes-dotnet-maui\"><strong>Getting Started With Brushes in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": ".NET MAUI has added a set of brushes that will allow you to color an area in a way you define. Let’s take a look.\r\n\r\n[**Getting Started With Brushes in .NET MAUI**](https://www.telerik.com/blogs/getting-started-brushes-dotnet-maui) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "C6tXUye",
+              "title": "**Getting Started With Brushes in .NET MAUI**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/getting-started-brushes-dotnet-maui"
+            },
+            {
+              "identifier": "OLT0cAE",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "ZkQONOM",
+          "type": "Link",
+          "title": "Things you don't have to worry about in .NET MAUI (compared to Xamarin)",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/things-you-dont-have-to-worry-about-in-net-maui-compared-to-xamarin/",
+          "description": "<p>Andreas covers some high level examples of things that used to be (or are) a hassle in Xamarin that won’t be in .NET MAUI.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/things-you-dont-have-to-worry-about-in-net-maui-compared-to-xamarin/\"><strong>Things you don't have to worry about in .NET MAUI (compared to Xamarin)</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "Andreas covers some high level examples of things that used to be (or are) a hassle in Xamarin that won’t be in .NET MAUI.\r\n\r\n[**Things you don't have to worry about in .NET MAUI (compared to Xamarin)**](https://www.andreasnesheim.no/things-you-dont-have-to-worry-about-in-net-maui-compared-to-xamarin/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "PW7r9Kj",
+              "title": "**Things you don't have to worry about in .NET MAUI (compared to Xamarin)**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/things-you-dont-have-to-worry-about-in-net-maui-compared-to-xamarin/"
+            },
+            {
+              "identifier": "CbxFc3O",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "vGiPM2z",
+          "type": "Link",
+          "title": ".NET Frontend Day 2022 Recordings",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Vaubu_Q9pyE",
+          "description": "<p>If you missed .NET Front End Day, then all is not lost, you can catch up with the recordings here.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Vaubu_Q9pyE\"><strong>.NET Frontend Day 2022 Recordings</strong></a> by <a href=\"https://twitter.com/dotnet_frontend\">.NET Frontend Day</a></p>",
+          "description_markdown": "If you missed .NET Front End Day, then all is not lost, you can catch up with the recordings here.\r\n\r\n[**.NET Frontend Day 2022 Recordings**](https://www.youtube.com/watch?v=Vaubu_Q9pyE) by [.NET Frontend Day](https://twitter.com/dotnet_frontend)",
+          "embedded_links": [
+            {
+              "identifier": "qTlFVRi",
+              "title": "**.NET Frontend Day 2022 Recordings**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Vaubu_Q9pyE"
+            },
+            {
+              "identifier": "fYEYkXR",
+              "title": ".NET Frontend Day",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/dotnet_frontend"
+            }
+          ]
+        },
+        {
+          "identifier": "ATaTNHP",
+          "type": "Link",
+          "title": "Create a Signed and Publishable .NET MAUI Android App in VS2022",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=jfSVb_RR7X0",
+          "description": "<p>You have developed your app and now it's time to publish it to the Google Play Store! In this video I will walk you through how to generate a signed .NET MAUI Android App Bundle (AAB) file that can be sent to the Google Play Store, ready for publishing! In this video: Android keystore explained, how you to generate signed bundle or apk from Visual Studio 2022, as well as how to integrate it in your build pipeline.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=jfSVb_RR7X0\"><strong>Create a Signed and Publishable .NET MAUI Android App in VS2022</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "You have developed your app and now it's time to publish it to the Google Play Store! In this video I will walk you through how to generate a signed .NET MAUI Android App Bundle (AAB) file that can be sent to the Google Play Store, ready for publishing! In this video: Android keystore explained, how you to generate signed bundle or apk from Visual Studio 2022, as well as how to integrate it in your build pipeline.\r\n\r\n[**Create a Signed and Publishable .NET MAUI Android App in VS2022**](https://www.youtube.com/watch?v=jfSVb_RR7X0) by [Gerald Versluis](https://twitter.com/jfversluis)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "bslU5kX",
+              "title": "**Create a Signed and Publishable .NET MAUI Android App in VS2022**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=jfSVb_RR7X0"
+            },
+            {
+              "identifier": "P1O5GLe",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "hRHa0no",
+          "type": "Link",
+          "title": "XAML Data Binding and MVVM Basics",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=sAn4RVsroF4",
+          "description": "<p>Today, we attempt to fix up some code that was submitted by a viewer. They were having issues with some data binding in their XAML application and sent me some source code to look at. We diagnose the application to understand what is going wrong with the application including commands, two-way data binding, and some best practices to bind to objects.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=sAn4RVsroF4\"><strong>XAML Data Binding and MVVM Basics</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Today, we attempt to fix up some code that was submitted by a viewer. They were having issues with some data binding in their XAML application and sent me some source code to look at. We diagnose the application to understand what is going wrong with the application including commands, two-way data binding, and some best practices to bind to objects. \r\n\r\n[**XAML Data Binding and MVVM Basics**](https://www.youtube.com/watch?v=sAn4RVsroF4) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "TjnuI6g",
+              "title": "**XAML Data Binding and MVVM Basics**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=sAn4RVsroF4"
+            },
+            {
+              "identifier": "LFNerWd",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "johmxdq",
+          "type": "Link",
+          "title": "Merge Conflict: 292: Developer Guide to In-App Subscriptions",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/292",
+          "description": "<p>James is back on in-app purchases and this time has a complete deep dive into all things in-app subscriptions!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/292\"><strong>Merge Conflict: 292: Developer Guide to In-App Subscriptions</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "James is back on in-app purchases and this time has a complete deep dive into all things in-app subscriptions!\r\n\r\n[**Merge Conflict: 292: Developer Guide to In-App Subscriptions**](https://www.mergeconflict.fm/292) by [Merge Conflict](https://twitter.com/mergeconflictfm)\r\n",
+          "embedded_links": [
+            {
+              "identifier": "1VcKnaU",
+              "title": "**Merge Conflict: 292: Developer Guide to In-App Subscriptions**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/292"
+            },
+            {
+              "identifier": "SiTzhM8",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "laKARQM",
+          "type": "Link",
+          "title": "Null Pointers79: Visiting Blazor with Daniel Hindrikes",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/79/",
+          "description": "<p>This week we are joined by our good friend Daniel Hindrikes. Daniel shares his experiences writing Blazor apps. We talk about Web Assembly vs Server hosting, integration into .NET MAUI apps, bindings in Blazor and using Razor Pages to write your UI. Does Daniel miss XAML? Tune in and find out.</p>\n\n<p><a href=\"https://nullpointers.io/79/\"><strong>79: Visiting Blazor with Daniel Hindrikes</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "This week we are joined by our good friend Daniel Hindrikes. Daniel shares his experiences writing Blazor apps. We talk about Web Assembly vs Server hosting, integration into .NET MAUI apps, bindings in Blazor and using Razor Pages to write your UI. Does Daniel miss XAML? Tune in and find out.\r\n\r\n[**79: Visiting Blazor with Daniel Hindrikes**](https://nullpointers.io/79/) by [Null Pointers](https://twitter.com/nullpointersio)",
+          "embedded_links": [
+            {
+              "identifier": "OyIXzEd",
+              "title": "**79: Visiting Blazor with Daniel Hindrikes**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/79/"
+            },
+            {
+              "identifier": "SEsMzBf",
+              "title": "Null Pointers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
