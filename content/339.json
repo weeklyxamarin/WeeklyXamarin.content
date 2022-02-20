@@ -1,0 +1,144 @@
+{
+  "Id": "339",
+  "Name": "Issue 339",
+  "UpdatedTimeStamp": "2022-02-18T11:24:55Z",
+  "Summary": "MAUI Preview 13 and VSMac - Let's gooo!",
+  "Introduction": "G'day everyone, welcome to issue #339 of Weekly Xamarin - a snapshot of what's been happening in the Xamarin and MAUI communities over the last week. Some great releases this week with MAUI Preview 13 coming out and also a new VS Mac release. Good things to keep you busy for the weekend. Have a great one, Kym",
+  "PublishDate": "2022-02-18T11:24:51Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Harmonic Interfaces with MonettelliUIKIT in Xamarin.Forms Vol 1",
+      "Url": "http://danielmonettelli.me/posts/harmonic-interfaces-with-monettelliuikit-in-xamarin-forms-vol-1/",
+      "Description": "Daniel discusses numerous design concepts and plugs his UI Kit.",
+      "EditionId": "339",
+      "Author": "Daniel Monettelli",
+      "Id": "339-1",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Streaming videos to your Chromecast using Xamarin.Forms - Andreas Nesheim",
+      "Url": "https://www.andreasnesheim.no/streaming-videos-to-your-chromecast-using-xamarin-forms/",
+      "Description": "How you can use a Xamarin.Forms app to stream videos to your Chromecast.",
+      "EditionId": "339",
+      "Author": "Andreas Nesheim",
+      "Id": "339-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Setting up a basic MVVM architecture in .NET MAUI",
+      "Url": "https://blog.pieeatingninjas.be/2022/02/11/setting-up-a-basic-mvvm-architecture-in-net-maui/",
+      "Description": "Pieter creates a basic MVVM architecture for his future MAUI apps to how different this would be from Xamarin.Forms.",
+      "EditionId": "339",
+      "Author": "Pieter Nijs",
+      "Id": "339-3",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #44",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-44",
+      "Description": "Sam gives the MAUI news of the week.",
+      "EditionId": "339",
+      "Author": "Sam Basu",
+      "Id": "339-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI – Exploring Overlays - Part 2 - Michael Ridland",
+      "Url": "https://michaelridland.com/net-maui/net-maui-exploring-overlays-part-2/",
+      "Description": "This is post #4 in a series called ‘.NET MAUI Source of Truth’. More investigation into overlays.",
+      "EditionId": "339",
+      "Author": "Michael Ridland",
+      "Id": "339-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Implement Folder Picker with .NET MAUI, WinUI and macOS",
+      "Url": "https://blog.verslu.is/maui/folder-picker-with-dotnet-maui/",
+      "Description": "In this post Gerald show us how to implement a folder picker with .NET MAUI by using dependency injection and implementing platform code.",
+      "EditionId": "339",
+      "Author": "Gerald Versluis",
+      "Id": "339-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "All-in-One .NET MAUI App Project Template",
+      "Url": "https://egvijayanand.in/2022/02/17/all-in-one-dotnet-maui-app-project-template/",
+      "Description": "Celebrate .NET’s 20th Birthday in style with a unified .NET MAUI App project template.",
+      "EditionId": "339",
+      "Author": "Vijay Anand EG",
+      "Id": "339-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Getting started with .NET MAUI - Pedro Jesus",
+      "Url": "https://www.youtube.com/watch?v=Gowr_23aIkw",
+      "Description": "NYC Mobile .NET Developers Group recording of a session with Pedro Jesus on how to build a small cross platform .net maui app for android and iOS.",
+      "EditionId": "339",
+      "Id": "339-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI - How to use with Mac",
+      "Url": "https://www.youtube.com/watch?v=4DmpY9looao",
+      "Description": "Visual Studio for Mac doesn't have official support for .NET MAUI. But you can still use it. In this video Daniel Hindrikes will show you how.",
+      "EditionId": "339",
+      "Author": "Daniel Hindrikes",
+      "Id": "339-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The .NET MAUI Podcast Episode 107: .NET MAUI Preview ... Number 13!",
+      "Url": "https://www.dotnetmauipodcast.com/107",
+      "Description": "Can you believe we're on .NET MAUI Preview 13? As David says, we're getting so close to release he can almost taste it!",
+      "EditionId": "339",
+      "Id": "339-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 293: dotnet-trace with dotnet-monitor through dotnet-dsrouter",
+      "Url": "https://www.mergeconflict.fm/293",
+      "Description": "Measure, measure, measure with dotnet-trace a &quot;new&quot; tool that Frank has been exploring to make apps super performant.",
+      "EditionId": "339",
+      "Author": "Merge Conflict",
+      "Id": "339-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Release Your .NET MAUI iOS App to the Apple App Store",
+      "Url": "https://www.youtube.com/watch?v=kpZi5xAvpZA",
+      "Description": "Hooray! You have your .NET MAUI iOS app ready, and want to publish it to the Apple App Store. In this video I will walk you through ALL THE STEPS (there is a lot…) needed to generate a signed .NET MAUI iOS IPA file that can be sent to the App Store, ready for publishing! In addition to showing you how to do this from Visual Studio 2022, I will also tell you how you can do it from your automated build pipeline.",
+      "EditionId": "339",
+      "Author": "Gerald Versluis",
+      "Id": "339-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "2022 New Hot Xamarin UI Implementations",
+      "Url": "https://www.youtube.com/watch?v=SQ1HLBkS0Ew",
+      "Description": "A discussion of new design trends and implementations of UI Dribbble Designs with Xamarin.Forms",
+      "EditionId": "339",
+      "Author": "Bohdan Benetskyi",
+      "Id": "339-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Announcing .NET MAUI Preview 13",
+      "Url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-13/",
+      "Description": "The 13th preview of .NET Multi-platform App UI is now available in Visual Studio 17.2 Preview 1. In addition to quality improvements, this release includes several implementations such as Label.FormattedText as we close in on feature complete for the upcoming release.",
+      "EditionId": "339",
+      "Author": "David Ortinau",
+      "Id": "339-14",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "Visual Studio 2022 for Mac Preview 6",
+      "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-6/",
+      "Description": "Visual Studio 2022 for Mac Preview 6 is now available; this release focuses on addressing top issues from Preview 5 release as well as continuing the move of the IDE to native macOS UI.",
+      "EditionId": "339",
+      "Author": "Jordan Matthiesen",
+      "Id": "339-15",
+      "Category": "RELEASES"
+    }
+  ]
+}

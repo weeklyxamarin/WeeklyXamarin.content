@@ -1,0 +1,384 @@
+{
+  "number": 339,
+  "title": "Issue 339",
+  "summary": "MAUI Preview 13 and VSMac - Let's gooo!",
+  "url": "https://weeklyxamarin.com/issues/339",
+  "publication_status": "published",
+  "published_at": "2022-02-18T11:24:51+00:00",
+  "updated_at": "2022-02-18T11:24:55+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #339 of Weekly Xamarin - a snapshot of what's been happening in the Xamarin and MAUI communities over the last week.</p>\n\n<p>Some great releases this week with MAUI Preview 13 coming out and also a new VS Mac release. Good things to keep you busy for the weekend.</p>\n\n<p>Have a great one,</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #339 of Weekly Xamarin - a snapshot of what's been happening in the Xamarin and MAUI communities over the last week.\r\n\r\nSome great releases this week with MAUI Preview 13 coming out and also a new VS Mac release. Good things to keep you busy for the weekend.\r\n\r\nHave a great one,\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "De2mvzb",
+          "type": "Link",
+          "title": "Harmonic Interfaces with MonettelliUIKIT in Xamarin.Forms Vol 1",
+          "url_domain": "danielmonettelli.me",
+          "url": "http://danielmonettelli.me/posts/harmonic-interfaces-with-monettelliuikit-in-xamarin-forms-vol-1/",
+          "description": "<p>Daniel discusses numerous design concepts and plugs his UI Kit.</p>\n\n<p><a href=\"http://danielmonettelli.me/posts/harmonic-interfaces-with-monettelliuikit-in-xamarin-forms-vol-1/\"><strong>Harmonic Interfaces with MonettelliUIKIT in Xamarin.Forms Vol 1</strong></a> by <a href=\"https://twitter.com/danielmonetelli\">Daniel Monettelli</a></p>",
+          "description_markdown": "Daniel discusses numerous design concepts and plugs his UI Kit.\r\n\r\n[**Harmonic Interfaces with MonettelliUIKIT in Xamarin.Forms Vol 1**](http://danielmonettelli.me/posts/harmonic-interfaces-with-monettelliuikit-in-xamarin-forms-vol-1/) by [Daniel Monettelli](https://twitter.com/danielmonetelli)",
+          "embedded_links": [
+            {
+              "identifier": "agBIOg6",
+              "title": "**Harmonic Interfaces with MonettelliUIKIT in Xamarin.Forms Vol 1**",
+              "url_domain": "danielmonettelli.me",
+              "url": "http://danielmonettelli.me/posts/harmonic-interfaces-with-monettelliuikit-in-xamarin-forms-vol-1/"
+            },
+            {
+              "identifier": "RmJoP61",
+              "title": "Daniel Monettelli",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/danielmonetelli"
+            }
+          ]
+        },
+        {
+          "identifier": "2yFWmOB",
+          "type": "Link",
+          "title": "Streaming videos to your Chromecast using Xamarin.Forms - Andreas Nesheim",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/streaming-videos-to-your-chromecast-using-xamarin-forms/",
+          "description": "<p>How you can use a Xamarin.Forms app to stream videos to your Chromecast.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/streaming-videos-to-your-chromecast-using-xamarin-forms/\"><strong>Streaming videos to your Chromecast using Xamarin.Forms - Andreas Nesheim</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "How you can use a Xamarin.Forms app to stream videos to your Chromecast.\r\n\r\n[**Streaming videos to your Chromecast using Xamarin.Forms - Andreas Nesheim**](https://www.andreasnesheim.no/streaming-videos-to-your-chromecast-using-xamarin-forms/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "Z9SG2dZ",
+              "title": "**Streaming videos to your Chromecast using Xamarin.Forms - Andreas Nesheim**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/streaming-videos-to-your-chromecast-using-xamarin-forms/"
+            },
+            {
+              "identifier": "J0Ot5ix",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "TcAvr3F",
+          "type": "Link",
+          "title": "Setting up a basic MVVM architecture in .NET MAUI",
+          "url_domain": "pieeatingninjas.be",
+          "url": "https://blog.pieeatingninjas.be/2022/02/11/setting-up-a-basic-mvvm-architecture-in-net-maui/",
+          "description": "<p>Pieter creates a basic MVVM architecture for his future MAUI apps to how different this would be from Xamarin.Forms.</p>\n\n<p><a href=\"https://blog.pieeatingninjas.be/2022/02/11/setting-up-a-basic-mvvm-architecture-in-net-maui/\"><strong>Setting up a basic MVVM architecture in .NET MAUI</strong></a> by <a href=\"https://twitter.com/nijspieter\">Pieter Nijs</a></p>",
+          "description_markdown": "Pieter creates a basic MVVM architecture for his future MAUI apps to how different this would be from Xamarin.Forms.\r\n\r\n[**Setting up a basic MVVM architecture in .NET MAUI**](https://blog.pieeatingninjas.be/2022/02/11/setting-up-a-basic-mvvm-architecture-in-net-maui/) by [Pieter Nijs](https://twitter.com/nijspieter)",
+          "embedded_links": [
+            {
+              "identifier": "9JrDU39",
+              "title": "**Setting up a basic MVVM architecture in .NET MAUI**",
+              "url_domain": "pieeatingninjas.be",
+              "url": "https://blog.pieeatingninjas.be/2022/02/11/setting-up-a-basic-mvvm-architecture-in-net-maui/"
+            },
+            {
+              "identifier": "PRMsw0A",
+              "title": "Pieter Nijs",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nijspieter"
+            }
+          ]
+        },
+        {
+          "identifier": "pZzSHMy",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #44",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-44",
+          "description": "<p>Sam gives the MAUI news of the week.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-44\"><strong>Sands of MAUI: Issue #44</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam gives the MAUI news of the week.\r\n\r\n[**Sands of MAUI: Issue #44**](https://www.telerik.com/blogs/sands-maui-issue-44) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "mak35V",
+              "title": "**Sands of MAUI: Issue #44**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-44"
+            },
+            {
+              "identifier": "2pq4dpJ",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "OBUphGk",
+          "type": "Link",
+          "title": ".NET MAUI – Exploring Overlays - Part 2 - Michael Ridland",
+          "url_domain": "michaelridland.com",
+          "url": "https://michaelridland.com/net-maui/net-maui-exploring-overlays-part-2/",
+          "description": "<p>This is post #4 in a series called ‘.NET MAUI Source of Truth’. More investigation into overlays.</p>\n\n<p><a href=\"https://michaelridland.com/net-maui/net-maui-exploring-overlays-part-2/\"><strong>.NET MAUI – Exploring Overlays - Part 2 - Michael Ridland</strong></a> by <a href=\"https://twitter.com/rid00z\">Michael Ridland</a></p>",
+          "description_markdown": "This is post #4 in a series called ‘.NET MAUI Source of Truth’. More investigation into overlays.\r\n\r\n[**.NET MAUI – Exploring Overlays - Part 2 - Michael Ridland**](https://michaelridland.com/net-maui/net-maui-exploring-overlays-part-2/) by [Michael Ridland](https://twitter.com/rid00z)",
+          "embedded_links": [
+            {
+              "identifier": "S6uIx2o",
+              "title": "**.NET MAUI – Exploring Overlays - Part 2 - Michael Ridland**",
+              "url_domain": "michaelridland.com",
+              "url": "https://michaelridland.com/net-maui/net-maui-exploring-overlays-part-2/"
+            },
+            {
+              "identifier": "qu57zmE",
+              "title": "Michael Ridland",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rid00z"
+            }
+          ]
+        },
+        {
+          "identifier": "XsuWVjz",
+          "type": "Link",
+          "title": "Implement Folder Picker with .NET MAUI, WinUI and macOS",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/maui/folder-picker-with-dotnet-maui/",
+          "description": "<p>In this post Gerald show us how to implement a folder picker with .NET MAUI by using dependency injection and implementing platform code.</p>\n\n<p><a href=\"https://blog.verslu.is/maui/folder-picker-with-dotnet-maui/\"><strong>Implement Folder Picker with .NET MAUI, WinUI and macOS</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "In this post Gerald show us how to implement a folder picker with .NET MAUI by using dependency injection and implementing platform code.\r\n\r\n[**Implement Folder Picker with .NET MAUI, WinUI and macOS**](https://blog.verslu.is/maui/folder-picker-with-dotnet-maui/) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "MyqqU8p",
+              "title": "**Implement Folder Picker with .NET MAUI, WinUI and macOS**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/maui/folder-picker-with-dotnet-maui/"
+            },
+            {
+              "identifier": "Q2rKCEK",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "Gj42Emg",
+          "type": "Link",
+          "title": "All-in-One .NET MAUI App Project Template",
+          "url_domain": "egvijayanand.in",
+          "url": "https://egvijayanand.in/2022/02/17/all-in-one-dotnet-maui-app-project-template/",
+          "description": "<p>Celebrate .NET’s 20th Birthday in style with a unified .NET MAUI App project template.</p>\n\n<p><a href=\"https://egvijayanand.in/2022/02/17/all-in-one-dotnet-maui-app-project-template/\"><strong>All-in-One .NET MAUI App Project Template</strong></a> by <a href=\"https://twitter.com/egvijayanand\">Vijay Anand EG</a></p>",
+          "description_markdown": "Celebrate .NET’s 20th Birthday in style with a unified .NET MAUI App project template.\r\n\r\n[**All-in-One .NET MAUI App Project Template**](https://egvijayanand.in/2022/02/17/all-in-one-dotnet-maui-app-project-template/) by [Vijay Anand EG](https://twitter.com/egvijayanand)",
+          "embedded_links": [
+            {
+              "identifier": "k9MjQiW",
+              "title": "**All-in-One .NET MAUI App Project Template**",
+              "url_domain": "egvijayanand.in",
+              "url": "https://egvijayanand.in/2022/02/17/all-in-one-dotnet-maui-app-project-template/"
+            },
+            {
+              "identifier": "mUCwy43",
+              "title": "Vijay Anand EG",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/egvijayanand"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "UWhK0UF",
+          "type": "Link",
+          "title": "Getting started with .NET MAUI - Pedro Jesus",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Gowr_23aIkw",
+          "description": "<p>NYC Mobile .NET Developers Group recording of a session with Pedro Jesus on how to build a small cross platform .net maui app for android and iOS.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Gowr_23aIkw\"><strong>Getting started with .NET MAUI - Pedro Jesus</strong></a> by <a href=\"\">.NET Foundation</a></p>",
+          "description_markdown": "NYC Mobile .NET Developers Group recording of a session with Pedro Jesus on how to build a small cross platform .net maui app for android and iOS.\r\n\r\n[**Getting started with .NET MAUI - Pedro Jesus**](https://www.youtube.com/watch?v=Gowr_23aIkw) by [.NET Foundation]()",
+          "embedded_links": [
+            {
+              "identifier": "uPLxfrA",
+              "title": "**Getting started with .NET MAUI - Pedro Jesus**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Gowr_23aIkw"
+            }
+          ]
+        },
+        {
+          "identifier": "Hm90qPI",
+          "type": "Link",
+          "title": ".NET MAUI - How to use with Mac",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=4DmpY9looao",
+          "description": "<p>Visual Studio for Mac doesn't have official support for .NET MAUI. But you can still use it. In this video Daniel Hindrikes will show you how.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=4DmpY9looao\"><strong>.NET MAUI - How to use with Mac</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "Visual Studio for Mac doesn't have official support for .NET MAUI. But you can still use it. In this video Daniel Hindrikes will show you how.\r\n\r\n[**.NET MAUI - How to use with Mac**](https://www.youtube.com/watch?v=4DmpY9looao) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "VTut36r",
+              "title": "**.NET MAUI - How to use with Mac**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=4DmpY9looao"
+            },
+            {
+              "identifier": "sIcQMDh",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        },
+        {
+          "identifier": "bJFJqDW",
+          "type": "Link",
+          "title": "The .NET MAUI Podcast Episode 107: .NET MAUI Preview ... Number 13!",
+          "url_domain": "dotnetmauipodcast.com",
+          "url": "https://www.dotnetmauipodcast.com/107",
+          "description": "<p>Can you believe we're on .NET MAUI Preview 13? As David says, we're getting so close to release he can almost taste it!</p>\n\n<p><a href=\"https://www.dotnetmauipodcast.com/107\"><strong>The .NET MAUI Podcast Episode 107: .NET MAUI Preview ... Number 13!</strong></a> by <a href=\"\">.NET MAUI Podcast</a></p>",
+          "description_markdown": "Can you believe we're on .NET MAUI Preview 13? As David says, we're getting so close to release he can almost taste it!\r\n\r\n[**The .NET MAUI Podcast Episode 107: .NET MAUI Preview ... Number 13!**](https://www.dotnetmauipodcast.com/107) by [.NET MAUI Podcast]()",
+          "embedded_links": [
+            {
+              "identifier": "cLPWtWY",
+              "title": "**The .NET MAUI Podcast Episode 107: .NET MAUI Preview ... Number 13!**",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/107"
+            }
+          ]
+        },
+        {
+          "identifier": "8Vjupij",
+          "type": "Link",
+          "title": "Merge Conflict: 293: dotnet-trace with dotnet-monitor through dotnet-dsrouter",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/293",
+          "description": "<p>Measure, measure, measure with dotnet-trace a &quot;new&quot; tool that Frank has been exploring to make apps super performant.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/293\"><strong>Merge Conflict: 293: dotnet-trace with dotnet-monitor through dotnet-dsrouter</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Measure, measure, measure with dotnet-trace a &quot;new&quot; tool that Frank has been exploring to make apps super performant.\r\n\r\n[**Merge Conflict: 293: dotnet-trace with dotnet-monitor through dotnet-dsrouter**](https://www.mergeconflict.fm/293) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "XjFRLIA",
+              "title": "**Merge Conflict: 293: dotnet-trace with dotnet-monitor through dotnet-dsrouter**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/293"
+            },
+            {
+              "identifier": "2a96V1I",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "vpNbMnN",
+          "type": "Link",
+          "title": "Release Your .NET MAUI iOS App to the Apple App Store",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=kpZi5xAvpZA",
+          "description": "<p>Hooray! You have your .NET MAUI iOS app ready, and want to publish it to the Apple App Store. In this video I will walk you through ALL THE STEPS (there is a lot…) needed to generate a signed .NET MAUI iOS IPA file that can be sent to the App Store, ready for publishing! In addition to showing you how to do this from Visual Studio 2022, I will also tell you how you can do it from your automated build pipeline.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=kpZi5xAvpZA\"><strong>Release Your .NET MAUI iOS App to the Apple App Store</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Hooray! You have your .NET MAUI iOS app ready, and want to publish it to the Apple App Store. In this video I will walk you through ALL THE STEPS (there is a lot…) needed to generate a signed .NET MAUI iOS IPA file that can be sent to the App Store, ready for publishing! In addition to showing you how to do this from Visual Studio 2022, I will also tell you how you can do it from your automated build pipeline.\r\n\r\n[**Release Your .NET MAUI iOS App to the Apple App Store**](https://www.youtube.com/watch?v=kpZi5xAvpZA) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "oVuC098",
+              "title": "**Release Your .NET MAUI iOS App to the Apple App Store**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=kpZi5xAvpZA"
+            },
+            {
+              "identifier": "UOZRXNR",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "hzdwvUl",
+          "type": "Link",
+          "title": "2022 New Hot Xamarin UI Implementations",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=SQ1HLBkS0Ew",
+          "description": "<p>A discussion of new design trends and implementations of UI Dribbble Designs with Xamarin.Forms</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=SQ1HLBkS0Ew\"><strong>2022 New Hot Xamarin UI Implementations</strong></a> by <a href=\"https://twitter.com/bbenetskyy\">Bohdan Benetskyi</a></p>",
+          "description_markdown": "A discussion of new design trends and implementations of UI Dribbble Designs with Xamarin.Forms\r\n\r\n[**2022 New Hot Xamarin UI Implementations**](https://www.youtube.com/watch?v=SQ1HLBkS0Ew) by [Bohdan Benetskyi](https://twitter.com/bbenetskyy)",
+          "embedded_links": [
+            {
+              "identifier": "GJZ2vxF",
+              "title": "**2022 New Hot Xamarin UI Implementations**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=SQ1HLBkS0Ew"
+            },
+            {
+              "identifier": "SSF6Yyj",
+              "title": "Bohdan Benetskyi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bbenetskyy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "Y9fFcEn",
+          "type": "Link",
+          "title": "Announcing .NET MAUI Preview 13",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-13/",
+          "description": "<p>The 13th preview of .NET Multi-platform App UI is now available in Visual Studio 17.2 Preview 1. In addition to quality improvements, this release includes several implementations such as Label.FormattedText as we close in on feature complete for the upcoming release.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-13/\"><strong>Announcing .NET MAUI Preview 13</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": "The 13th preview of .NET Multi-platform App UI is now available in Visual Studio 17.2 Preview 1. In addition to quality improvements, this release includes several implementations such as Label.FormattedText as we close in on feature complete for the upcoming release.\r\n\r\n[**Announcing .NET MAUI Preview 13**](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-13/) by [David Ortinau](https://twitter.com/davidortinau)",
+          "embedded_links": [
+            {
+              "identifier": "ejmTw0k",
+              "title": "**Announcing .NET MAUI Preview 13**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-13/"
+            },
+            {
+              "identifier": "ykc2STR",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        },
+        {
+          "identifier": "sGwYrkn",
+          "type": "Link",
+          "title": "Visual Studio 2022 for Mac Preview 6",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-6/",
+          "description": "<p>Visual Studio 2022 for Mac Preview 6 is now available; this release focuses on addressing top issues from Preview 5 release as well as continuing the move of the IDE to native macOS UI.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-6/\"><strong>Visual Studio 2022 for Mac Preview 6</strong></a> by <a href=\"https://twitter.com/jmatthiesen\">Jordan Matthiesen</a></p>",
+          "description_markdown": "Visual Studio 2022 for Mac Preview 6 is now available; this release focuses on addressing top issues from Preview 5 release as well as continuing the move of the IDE to native macOS UI.\r\n\r\n[**Visual Studio 2022 for Mac Preview 6**](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-6/) by [Jordan Matthiesen](https://twitter.com/jmatthiesen)",
+          "embedded_links": [
+            {
+              "identifier": "oQOV9Gc",
+              "title": "**Visual Studio 2022 for Mac Preview 6**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-6/"
+            },
+            {
+              "identifier": "Nqcnx21",
+              "title": "Jordan Matthiesen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jmatthiesen"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
