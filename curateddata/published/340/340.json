@@ -1,0 +1,615 @@
+{
+  "number": 340,
+  "title": "Issue 340",
+  "summary": "Cool Code, Useful Tools, More MAUI!",
+  "url": "https://weeklyxamarin.com/issues/340",
+  "publication_status": "published",
+  "published_at": "2022-02-25T07:59:40+00:00",
+  "updated_at": "2022-02-25T07:59:44+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #340 of Weekly Xamarin - a snapshot of the Xamarin and MAUI communities this week.</p>\n\n<p>There is a lot happening in the world right now (because a pandemic wasn't enough), so If you are looking for a break then you are in the right place - kick back and enjoy the latest mobile developer nerd news.</p>\n\n<p>Take care everyone, and be kind to each other!</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #340 of Weekly Xamarin - a snapshot of the Xamarin and MAUI communities this week.\r\n\r\nThere is a lot happening in the world right now (because a pandemic wasn't enough), so If you are looking for a break then you are in the right place - kick back and enjoy the latest mobile developer nerd news.\r\n\r\nTake care everyone, and be kind to each other!\r\n\r\n❤\r\n\r\nKym\r\n",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "gaYTvYU",
+          "type": "Link",
+          "title": "Practical Guide to Solving Hard Problems",
+          "url_domain": "praeclarum.org",
+          "url": "https://praeclarum.org/2022/02/19/hard-problems.html",
+          "description": "<p>Anyone involved in the Xamarin community will be familiar with Frank's work. He has written some of the most amazing libraries and tools available. So when he talks about solving hard problems, it's probably good to pay attention.</p>\n\n<p><a href=\"https://praeclarum.org/2022/02/19/hard-problems.html\"><strong>Practical Guide to Solving Hard Problems</strong></a> by <a href=\"https://twitter.com/praeclarum\">Frank Krueger</a></p>",
+          "description_markdown": "Anyone involved in the Xamarin community will be familiar with Frank's work. He has written some of the most amazing libraries and tools available. So when he talks about solving hard problems, it's probably good to pay attention.\r\n\r\n[**Practical Guide to Solving Hard Problems**](https://praeclarum.org/2022/02/19/hard-problems.html) by [Frank Krueger](https://twitter.com/praeclarum)",
+          "embedded_links": [
+            {
+              "identifier": "J2kQBpI",
+              "title": "**Practical Guide to Solving Hard Problems**",
+              "url_domain": "praeclarum.org",
+              "url": "https://praeclarum.org/2022/02/19/hard-problems.html"
+            },
+            {
+              "identifier": "zJ2iq9p",
+              "title": "Frank Krueger",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/praeclarum"
+            }
+          ]
+        },
+        {
+          "identifier": "6XIdkJc",
+          "type": "Link",
+          "title": "Convert Country Name To Flag Emoji",
+          "url_domain": "medium.com",
+          "url": "https://prototypemakers.medium.com/convert-country-name-to-flag-emoji-in-c-the-net-ecosystem-115f714d3ef9",
+          "description": "<p>Let’s improve the User Experience of our apps today by showing flag emojis instead of the plain old country names or country codes. Using emojis over country image files significantly improves performance and dev efficiency. It is surprisingly easy and safe to implement in your applications.</p>\n\n<p><a href=\"https://prototypemakers.medium.com/convert-country-name-to-flag-emoji-in-c-the-net-ecosystem-115f714d3ef9\"><strong>Convert Country Name To Flag Emoji</strong></a> by <a href=\"https://twitter.com/saamerm\">Saamer Mansoor</a></p>",
+          "description_markdown": "Let’s improve the User Experience of our apps today by showing flag emojis instead of the plain old country names or country codes. Using emojis over country image files significantly improves performance and dev efficiency. It is surprisingly easy and safe to implement in your applications.\r\n\r\n[**Convert Country Name To Flag Emoji**](https://prototypemakers.medium.com/convert-country-name-to-flag-emoji-in-c-the-net-ecosystem-115f714d3ef9) by [Saamer Mansoor](https://twitter.com/saamerm)",
+          "embedded_links": [
+            {
+              "identifier": "zKdgT61",
+              "title": "**Convert Country Name To Flag Emoji**",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com/convert-country-name-to-flag-emoji-in-c-the-net-ecosystem-115f714d3ef9"
+            },
+            {
+              "identifier": "unXPcdH",
+              "title": "Saamer Mansoor",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/saamerm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "yFW0SqU",
+          "type": "Link",
+          "title": "Hue.Tools",
+          "url_domain": "hue.tools",
+          "url": "https://hue.tools/",
+          "description": "<p>A free color mixer, blender, info and modifier tool. Mix multiple colors, get links for design inspiration and stock images based on a color, view various color combinations and modify colors in an intuitive interface.</p>\n\n<p><a href=\"https://hue.tools/\"><strong>hue.tools</strong></a> by <a href=\"https://github.com/pabueco\">Pascal Bürkle</a></p>",
+          "description_markdown": "A free color mixer, blender, info and modifier tool. Mix multiple colors, get links for design inspiration and stock images based on a color, view various color combinations and modify colors in an intuitive interface.\r\n\r\n[**hue.tools**](https://hue.tools/) by [Pascal Bürkle](https://github.com/pabueco)",
+          "embedded_links": [
+            {
+              "identifier": "IIqFGro",
+              "title": "**hue.tools**",
+              "url_domain": "hue.tools",
+              "url": "https://hue.tools/"
+            },
+            {
+              "identifier": "PHuuSUI",
+              "title": "Pascal Bürkle",
+              "url_domain": "github.com",
+              "url": "https://github.com/pabueco"
+            }
+          ]
+        },
+        {
+          "identifier": "N2hZk6d",
+          "type": "Link",
+          "title": "UI and UX Micro-Tips: Volume Thirteen",
+          "url_domain": "marcandrew.me",
+          "url": "https://www.marcandrew.me/ui-ux-micro-tips-volume-thirteen/",
+          "description": "<p>Always a good series of easy-to-implement UI and UX micro-tips to help improve your designs. This time: color theory, selected items, font weights and visual hierarchies.</p>\n\n<p><a href=\"https://www.marcandrew.me/ui-ux-micro-tips-volume-thirteen/\"><strong>UI and UX Micro-Tips: Volume Thirteen</strong></a> by <a href=\"https://twitter.com/mrcndrw\">Marc Andrew</a></p>",
+          "description_markdown": "Always a good series of easy-to-implement UI and UX micro-tips to help improve your designs. This time: color theory, selected items, font weights and visual hierarchies.\r\n\r\n[**UI and UX Micro-Tips: Volume Thirteen**](https://www.marcandrew.me/ui-ux-micro-tips-volume-thirteen/) by [Marc Andrew](https://twitter.com/mrcndrw)",
+          "embedded_links": [
+            {
+              "identifier": "64o3X3o",
+              "title": "**UI and UX Micro-Tips: Volume Thirteen**",
+              "url_domain": "marcandrew.me",
+              "url": "https://www.marcandrew.me/ui-ux-micro-tips-volume-thirteen/"
+            },
+            {
+              "identifier": "pZ82QIf",
+              "title": "Marc Andrew",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mrcndrw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "TOSnlMt",
+          "type": "Link",
+          "title": "Setting up CI for your .NET MAUI Android app in Azure DevOps",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-android-app-in-azure-devops/",
+          "description": "<p>Learn how to set up continuous integration (CI) in Azure DevOps for your .NET MAUI Android app. This means that your .NET MAUI project will be built in Azure DevOps each time you push your code.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-android-app-in-azure-devops/\"><strong>Setting up CI for your .NET MAUI Android app in Azure DevOps</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "Learn how to set up continuous integration (CI) in Azure DevOps for your .NET MAUI Android app. This means that your .NET MAUI project will be built in Azure DevOps each time you push your code.\r\n\r\n[**Setting up CI for your .NET MAUI Android app in Azure DevOps**](https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-android-app-in-azure-devops/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "ThGklXR",
+              "title": "**Setting up CI for your .NET MAUI Android app in Azure DevOps**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-android-app-in-azure-devops/"
+            },
+            {
+              "identifier": "i0CU9R4",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "NqXpNiX",
+          "type": "Link",
+          "title": "Using Microsoft’s Extensions.DependencyInjection package in (Xamarin.Forms) MVVM applications (Part 2)",
+          "url_domain": "msicc.net",
+          "url": "https://msicc.net/using-microsofts-extensions-dependencyinjection-package-in-xamarin-forms-mvvm-applications-part-2/",
+          "description": "<p>Learn how use IServiceCollection to add multiple registrations of the same ViewModel type and make them accessible with a key.</p>\n\n<p><a href=\"https://msicc.net/using-microsofts-extensions-dependencyinjection-package-in-xamarin-forms-mvvm-applications-part-2/\"><strong>Using Microsoft’s Extensions.DependencyInjection package in (Xamarin.Forms) MVVM applications (Part 2)</strong></a> by <a href=\"https://twitter.com/msicc\">Marco Siccardi</a></p>",
+          "description_markdown": "Learn how use IServiceCollection to add multiple registrations of the same ViewModel type and make them accessible with a key.\r\n\r\n[**Using Microsoft’s Extensions.DependencyInjection package in (Xamarin.Forms) MVVM applications (Part 2)**](https://msicc.net/using-microsofts-extensions-dependencyinjection-package-in-xamarin-forms-mvvm-applications-part-2/) by [Marco Siccardi](https://twitter.com/msicc)",
+          "embedded_links": [
+            {
+              "identifier": "nm5q38X",
+              "title": "**Using Microsoft’s Extensions.DependencyInjection package in (Xamarin.Forms) MVVM applications (Part 2)**",
+              "url_domain": "msicc.net",
+              "url": "https://msicc.net/using-microsofts-extensions-dependencyinjection-package-in-xamarin-forms-mvvm-applications-part-2/"
+            },
+            {
+              "identifier": "29dWSfn",
+              "title": "Marco Siccardi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/msicc"
+            }
+          ]
+        },
+        {
+          "identifier": "q92cWDO",
+          "type": "Link",
+          "title": "Xamarin Forms - Multi Language",
+          "url_domain": "medium.com",
+          "url": "https://bertuzzi.medium.com/o-x-do-xamarin-forms-multi-linguagem-95ccbfe699f8",
+          "description": "<p>Learn how easy it is to create multi language apps in Xamarin Forms.</p>\n\n<p>NOTE: Post is in Portuguese</p>\n\n<p><a href=\"https://bertuzzi.medium.com/o-x-do-xamarin-forms-multi-linguagem-95ccbfe699f8\"><strong>Xamarin Forms - Multi Language</strong></a> by <a href=\"https://twitter.com/tbertuzzi\">Thiago Bertuzzi</a></p>",
+          "description_markdown": "Learn how easy it is to create multi language apps in Xamarin Forms.\r\n\r\nNOTE: Post is in Portuguese \r\n\r\n[**Xamarin Forms - Multi Language**](https://bertuzzi.medium.com/o-x-do-xamarin-forms-multi-linguagem-95ccbfe699f8) by [Thiago Bertuzzi](https://twitter.com/tbertuzzi)",
+          "embedded_links": [
+            {
+              "identifier": "huxS6n2",
+              "title": "**Xamarin Forms - Multi Language**",
+              "url_domain": "medium.com",
+              "url": "https://bertuzzi.medium.com/o-x-do-xamarin-forms-multi-linguagem-95ccbfe699f8"
+            },
+            {
+              "identifier": "o4Gwd97",
+              "title": "Thiago Bertuzzi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/tbertuzzi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "SxHXk2V",
+          "type": "Link",
+          "title": ".NET Frontend Day 2022: Xamarin & MAUI Recap",
+          "url_domain": "taranissoftware.com",
+          "url": "https://blog.taranissoftware.com/net-frontend-day-2022-xamarin-and-maui-recap",
+          "description": "<p>.NET Frontend Day 2022 had a great line-up of speakers and topics. I highlight the sessions that were of most interest to Xamarin and .NET MAUI developers.</p>\n\n<p><a href=\"https://blog.taranissoftware.com/net-frontend-day-2022-xamarin-and-maui-recap\"><strong>.NET Frontend Day 2022: Xamarin &amp; MAUI Recap</strong></a> by <a href=\"https://github.com/irongut\">Dave Murray</a></p>",
+          "description_markdown": ".NET Frontend Day 2022 had a great line-up of speakers and topics. I highlight the sessions that were of most interest to Xamarin and .NET MAUI developers.\r\n\r\n[**.NET Frontend Day 2022: Xamarin & MAUI Recap**](https://blog.taranissoftware.com/net-frontend-day-2022-xamarin-and-maui-recap) by [Dave Murray](https://github.com/irongut)",
+          "embedded_links": [
+            {
+              "identifier": "m0EVkca",
+              "title": "**.NET Frontend Day 2022: Xamarin & MAUI Recap**",
+              "url_domain": "taranissoftware.com",
+              "url": "https://blog.taranissoftware.com/net-frontend-day-2022-xamarin-and-maui-recap"
+            },
+            {
+              "identifier": "VY41EvK",
+              "title": "Dave Murray",
+              "url_domain": "github.com",
+              "url": "https://github.com/irongut"
+            }
+          ]
+        },
+        {
+          "identifier": "cpD6QWZ",
+          "type": "Link",
+          "title": "Fundamental changes from Xamarin.Forms to MAUI",
+          "url_domain": "app-trap.com",
+          "url": "https://app-trap.com/2022/02/fundamental-changes-from-xamarin-forms-to-net-maui/",
+          "description": "<p>Learn about some of the core changes in the MAUI framework and how Xamarin has evolved.</p>\n\n<p><a href=\"https://app-trap.com/2022/02/fundamental-changes-from-xamarin-forms-to-net-maui/\"><strong>Fundamental changes from Xamarin.Forms to MAUI</strong></a> by <a href=\"https://twitter.com/nichojo89\">Jon Nichols</a></p>",
+          "description_markdown": "Learn about some of the core changes in the MAUI framework and how Xamarin has evolved.\r\n\r\n[**Fundamental changes from Xamarin.Forms to MAUI**](https://app-trap.com/2022/02/fundamental-changes-from-xamarin-forms-to-net-maui/) by [Jon Nichols](https://twitter.com/nichojo89)",
+          "embedded_links": [
+            {
+              "identifier": "tDMJy6N",
+              "title": "**Fundamental changes from Xamarin.Forms to MAUI**",
+              "url_domain": "app-trap.com",
+              "url": "https://app-trap.com/2022/02/fundamental-changes-from-xamarin-forms-to-net-maui/"
+            },
+            {
+              "identifier": "zZ4BnzO",
+              "title": "Jon Nichols",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nichojo89"
+            }
+          ]
+        },
+        {
+          "identifier": "ch1jnFy",
+          "type": "Link",
+          "title": "Replicating Course Profile UI in .NET MAUI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-course-profile-ui-in-net-maui/",
+          "description": "<p>Learn how to create a profile screen using .NET Maui</p>\n\n<p><a href=\"https://askxammy.com/replicating-course-profile-ui-in-net-maui/\"><strong>Replicating Course Profile UI in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Learn how to create a profile screen using .NET Maui\r\n\r\n[**Replicating Course Profile UI in .NET MAUI**](https://askxammy.com/replicating-course-profile-ui-in-net-maui/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "kzYQ5S3",
+              "title": "**Replicating Course Profile UI in .NET MAUI**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-course-profile-ui-in-net-maui/"
+            },
+            {
+              "identifier": "PMv6uCn",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "beFk8k4",
+          "type": "Link",
+          "title": "Splash Screen in .NET MAUI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/splash-screen-in-net-maui-%f0%9f%92%9a/",
+          "description": "<p>Learn a super simple way to integrate it into .NET MAUI Apps. This post covers creating the images, setting colors and platform specific rules.,</p>\n\n<p><a href=\"https://askxammy.com/splash-screen-in-net-maui-%f0%9f%92%9a/\"><strong>Splash Screen in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Learn a super simple way to integrate it into .NET MAUI Apps. This post covers creating the images, setting colors and platform specific rules.,\r\n\r\n[**Splash Screen in .NET MAUI**](https://askxammy.com/splash-screen-in-net-maui-%f0%9f%92%9a/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "FFh1Smw",
+              "title": "**Splash Screen in .NET MAUI**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/splash-screen-in-net-maui-%f0%9f%92%9a/"
+            },
+            {
+              "identifier": "cqAObD5",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "7ig6HYZ",
+          "type": "Link",
+          "title": "More MAUI bits!",
+          "url_domain": "thewissen.io",
+          "url": "https://thewissen.io/more-maui-bits/",
+          "description": "<p>This post covers a few different topics, namely single project, the Xamarin Community Toolkit and migrating from Xamarin.Forms to MAUI.</p>\n\n<p><a href=\"https://thewissen.io/more-maui-bits/\"><strong>More MAUI bits!</strong></a> by <a href=\"https://twitter.com/devnl\">Steven Thewissen</a></p>",
+          "description_markdown": "This post covers a few different topics, namely single project, the Xamarin Community Toolkit and migrating from Xamarin.Forms to MAUI.\r\n\r\n[**More MAUI bits!**](https://thewissen.io/more-maui-bits/) by [Steven Thewissen](https://twitter.com/devnl)",
+          "embedded_links": [
+            {
+              "identifier": "HxqpKpw",
+              "title": "**More MAUI bits!**",
+              "url_domain": "thewissen.io",
+              "url": "https://thewissen.io/more-maui-bits/"
+            },
+            {
+              "identifier": "3q8DN9b",
+              "title": "Steven Thewissen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/devnl"
+            }
+          ]
+        },
+        {
+          "identifier": "OoXOym3",
+          "type": "Link",
+          "title": "5 Important Things to Make Your Cross-Platform (.NET MAUI) App Accessible",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/5-important-things-to-make-your-cross-platform-net-maui-app-accessible.aspx",
+          "description": "<p>A good mobile app should be accessible to everyone. This blog post covers the 5 most important points to make sure your .NET MAUI mobile app is easily accessible to all.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/5-important-things-to-make-your-cross-platform-net-maui-app-accessible.aspx\"><strong>5 Important Things to Make Your Cross-Platform (.NET MAUI) App Accessible</strong></a> by <a href=\"\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "A good mobile app should be accessible to everyone. This blog post covers the 5 most important points to make sure your .NET MAUI mobile app is easily accessible to all.\r\n\r\n[**5 Important Things to Make Your Cross-Platform (.NET MAUI) App Accessible**](https://www.syncfusion.com/blogs/post/5-important-things-to-make-your-cross-platform-net-maui-app-accessible.aspx) by [Selva Ganapathy Kathiresan]()",
+          "embedded_links": [
+            {
+              "identifier": "JGyyrPo",
+              "title": "**5 Important Things to Make Your Cross-Platform (.NET MAUI) App Accessible**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/5-important-things-to-make-your-cross-platform-net-maui-app-accessible.aspx"
+            }
+          ]
+        },
+        {
+          "identifier": "MI6EEp5",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #45",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-45",
+          "description": "<p>Weekly review of what's happening in the MAUI world.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-45\"><strong>Sands of MAUI: Issue #45</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Weekly review of what's happening in the MAUI world.\r\n\r\n[**Sands of MAUI: Issue #45**](https://www.telerik.com/blogs/sands-maui-issue-45) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "gMgaigp",
+              "title": "**Sands of MAUI: Issue #45**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-45"
+            },
+            {
+              "identifier": "HoYrC4Q",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "5FGVtId",
+          "type": "Link",
+          "title": ".NET MAUI Preview 13 - All Things MauiProgram, Essentials, & Extensions",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=2Dkk-74x-V8",
+          "description": "<p>.NET MAUI Preview 13 has shipped with more controls, layout updates, and performance improvements. I break down everything you need to know about this release and updates to .NET MAUI Essentials and the templates.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=2Dkk-74x-V8\"><strong>.NET MAUI Preview 13 - All Things MauiProgram, Essentials, &amp; Extensions</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": ".NET MAUI Preview 13 has shipped with more controls, layout updates, and performance improvements. I break down everything you need to know about this release and updates to .NET MAUI Essentials and the templates.\r\n\r\n\r\n[**.NET MAUI Preview 13 - All Things MauiProgram, Essentials, & Extensions**](https://www.youtube.com/watch?v=2Dkk-74x-V8) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "Jn5AxZp",
+              "title": "**.NET MAUI Preview 13 - All Things MauiProgram, Essentials, & Extensions**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=2Dkk-74x-V8"
+            },
+            {
+              "identifier": "waFyRmD",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "zhoUc6J",
+          "type": "Link",
+          "title": "Create a .NET MAUI Windows MSIX to Sideload Or Publish to the Microsoft Store",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=FNwv_W3TtSU",
+          "description": "<p>You're ready to show your .NET MAUI Windows app to the world, but how do you get it there? In this video I will walk you through the steps to take to create an MSIX installer from Visual Studio 2022 that you can distribute through the Microsoft Store or sideload on any Windows machine.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=FNwv_W3TtSU\"><strong>Create a .NET MAUI Windows MSIX to Sideload Or Publish to the Microsoft Store</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "You're ready to show your .NET MAUI Windows app to the world, but how do you get it there? In this video I will walk you through the steps to take to create an MSIX installer from Visual Studio 2022 that you can distribute through the Microsoft Store or sideload on any Windows machine.\r\n\r\n[**Create a .NET MAUI Windows MSIX to Sideload Or Publish to the Microsoft Store**](https://www.youtube.com/watch?v=FNwv_W3TtSU) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "7DCcH3G",
+              "title": "**Create a .NET MAUI Windows MSIX to Sideload Or Publish to the Microsoft Store**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=FNwv_W3TtSU"
+            },
+            {
+              "identifier": "TZyE97j",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "sfhZ8ne",
+          "type": "Link",
+          "title": "Building a Wordle Clone LIVE with .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=mrLOubYJm2Q",
+          "description": "<p>Inspired by Naweed's \"Wordle\" clone, James to attempts to build out and clone the Wordle main user interface with .NET MAUI! Join in on this live stream adventure.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=mrLOubYJm2Q\"><strong>Building a Wordle Clone LIVE with .NET MAUI</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Inspired by Naweed's \"Wordle\" clone, James to attempts to build out and clone the Wordle main user interface with .NET MAUI! Join in on this live stream adventure.\r\n\r\n[**Building a Wordle Clone LIVE with .NET MAUI**](https://www.youtube.com/watch?v=mrLOubYJm2Q) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "kj0IMtl",
+              "title": "**Building a Wordle Clone LIVE with .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=mrLOubYJm2Q"
+            },
+            {
+              "identifier": "dXBO49d",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "mJCGTXa",
+          "type": "Link",
+          "title": "Crop Image and get final result",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Lk9P_wuGEOw",
+          "description": "<p>This video shows how to crop an image and get the resulting image back using Xamarin.Forms.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Lk9P_wuGEOw\"><strong>Crop Image and get final result</strong></a> by <a href=\"\">Xamarin Guy</a></p>",
+          "description_markdown": "This video shows how to crop an image and get the resulting image back using Xamarin.Forms.\r\n\r\n[**Crop Image and get final result**](https://www.youtube.com/watch?v=Lk9P_wuGEOw) by [Xamarin Guy]()",
+          "embedded_links": [
+            {
+              "identifier": "IWmUftH",
+              "title": "**Crop Image and get final result**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Lk9P_wuGEOw"
+            }
+          ]
+        },
+        {
+          "identifier": "cdzrKVP",
+          "type": "Link",
+          "title": "MAUI on Mac. The .NET Show with Carl Franklin Ep 19",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=CYoNWt57C5k",
+          "description": "<p>This video covers building and deploying MAUI apps on a local device (without a mac), but also how to use MacInCloud if you don't have a mac as a build machine.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=CYoNWt57C5k\"><strong>MAUI on Mac. The .NET Show with Carl Franklin Ep 19</strong></a> by <a href=\"https://twitter.com/carlfranklin\">Carl Franklin</a></p>",
+          "description_markdown": "This video covers building and deploying MAUI apps on a local device (without a mac), but also how to use MacInCloud if you don't have a mac as a build machine.\r\n\r\n[**MAUI on Mac. The .NET Show with Carl Franklin Ep 19**](https://www.youtube.com/watch?v=CYoNWt57C5k) by [Carl Franklin](https://twitter.com/carlfranklin)",
+          "embedded_links": [
+            {
+              "identifier": "JURqmIY",
+              "title": "**MAUI on Mac. The .NET Show with Carl Franklin Ep 19**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=CYoNWt57C5k"
+            },
+            {
+              "identifier": "yDx352O",
+              "title": "Carl Franklin",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/carlfranklin"
+            }
+          ]
+        },
+        {
+          "identifier": "JO9nlIu",
+          "type": "Link",
+          "title": "DevTalk 78: Improving the UX of Xamarin apps.",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-78-charlin-agramonte-rendy-del-rosario/",
+          "description": "<p>On this episode DevTalk Kerry speaks to Charlin Agramonte and Rendy del Rosario about improving the UX of Xamarin apps.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-78-charlin-agramonte-rendy-del-rosario/\"><strong>DevTalk 78: Improving the UX of Xamarin apps.</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode DevTalk Kerry speaks to Charlin Agramonte and Rendy del Rosario about improving the UX of Xamarin apps.\r\n\r\n[**DevTalk 78: Improving the UX of Xamarin apps.**](https://kerry.lothrop.de/devtalk-78-charlin-agramonte-rendy-del-rosario/) by [Kerry Lothrop](https://twitter.com/kwlothrop)",
+          "embedded_links": [
+            {
+              "identifier": "YXqV6ZF",
+              "title": "**DevTalk 78: Improving the UX of Xamarin apps.**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-78-charlin-agramonte-rendy-del-rosario/"
+            },
+            {
+              "identifier": "cnTbymc",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        },
+        {
+          "identifier": "zpqVEtq",
+          "type": "Link",
+          "title": "Null Pointers 80: Anything and everything",
+          "url_domain": "nullpointers.io",
+          "url": "https://nullpointers.io/80/",
+          "description": "<p>War of the keyboards?! .NET turned 20?! A new movie coming out?! This episode is packed with things to talk about!</p>\n\n<p><a href=\"https://nullpointers.io/80/\"><strong>Null Pointers 80: Anything and everything</strong></a> by <a href=\"https://twitter.com/nullpointersio\">Null Pointers</a></p>",
+          "description_markdown": "War of the keyboards?! .NET turned 20?! A new movie coming out?! This episode is packed with things to talk about!\r\n\r\n[**Null Pointers 80: Anything and everything**](https://nullpointers.io/80/) by [Null Pointers](https://twitter.com/nullpointersio)",
+          "embedded_links": [
+            {
+              "identifier": "dXrvk7P",
+              "title": "**Null Pointers 80: Anything and everything**",
+              "url_domain": "nullpointers.io",
+              "url": "https://nullpointers.io/80/"
+            },
+            {
+              "identifier": "bX0AszE",
+              "title": "Null Pointers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nullpointersio"
+            }
+          ]
+        },
+        {
+          "identifier": "dj8HKyl",
+          "type": "Link",
+          "title": "Merge Conflict: 294: Hello .NET 7, C# 11, and !!",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/294",
+          "description": "<p>It’s here already…!!!??!!!! That’s right, .NET 7 is on its way with awesome new features.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/294\"><strong>Merge Conflict: 294: Hello .NET 7, C# 11, and !!</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "It’s here already…!!!??!!!! That’s right, .NET 7 is on its way with awesome new features.\r\n\r\n[**Merge Conflict: 294: Hello .NET 7, C# 11, and !!**](https://www.mergeconflict.fm/294) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "LoAnuDT",
+              "title": "**Merge Conflict: 294: Hello .NET 7, C# 11, and !!**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/294"
+            },
+            {
+              "identifier": "BZmRwL3",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "kb46YeR",
+          "type": "Link",
+          "title": "Validating Lists with Plugin.ValidationRules 1.4 - All new features",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/validating-lists-plugin-validationrules-1-4/",
+          "description": "<p>We have a new update Plugin.ValidationRules now with its version 1.4 has a lot of new features to speed up our work. This release has many quality improvements and new features added, including a new Errors support for ValidationUnit, among other things.</p>\n\n<p><a href=\"https://luismts.com/validating-lists-plugin-validationrules-1-4/\"><strong>Validating Lists with Plugin.ValidationRules 1.4 - All new features</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "We have a new update Plugin.ValidationRules now with its version 1.4 has a lot of new features to speed up our work. This release has many quality improvements and new features added, including a new Errors support for ValidationUnit, among other things.\r\n\r\n[**Validating Lists with Plugin.ValidationRules 1.4 - All new features**](https://luismts.com/validating-lists-plugin-validationrules-1-4/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "pJp3QBK",
+              "title": "**Validating Lists with Plugin.ValidationRules 1.4 - All new features**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/validating-lists-plugin-validationrules-1-4/"
+            },
+            {
+              "identifier": "FOxeukQ",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "identifier": "rSYKU3v",
+          "type": "Link",
+          "title": "Mechanics of Mobile Operating Systems",
+          "url_domain": "app-trap.com",
+          "url": "https://app-trap.com/2022/02/mobile-operating-system-architectures/",
+          "description": "<p>In this article, you will learn how Android OS and iOS work today. You will discover the different layers of architecture that enable applications to access hardware sensors like GPS through code. The difference between the two operating systems is extensive but they generally accomplish the same goals; Provide users with super-human capabilities using hardware components in an energy-efficient secure manner.</p>\n\n<p><a href=\"https://app-trap.com/2022/02/mobile-operating-system-architectures/\"><strong>Mechanics of Mobile Operating Systems</strong></a> by <a href=\"https://twitter.com/nichojo89\">Jon Nichols</a></p>",
+          "description_markdown": "In this article, you will learn how Android OS and iOS work today. You will discover the different layers of architecture that enable applications to access hardware sensors like GPS through code. The difference between the two operating systems is extensive but they generally accomplish the same goals; Provide users with super-human capabilities using hardware components in an energy-efficient secure manner.\r\n\r\n[**Mechanics of Mobile Operating Systems**](https://app-trap.com/2022/02/mobile-operating-system-architectures/) by [Jon Nichols](https://twitter.com/nichojo89)",
+          "embedded_links": [
+            {
+              "identifier": "vmW441A",
+              "title": "**Mechanics of Mobile Operating Systems**",
+              "url_domain": "app-trap.com",
+              "url": "https://app-trap.com/2022/02/mobile-operating-system-architectures/"
+            },
+            {
+              "identifier": "Eqd7BFw",
+              "title": "Jon Nichols",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nichojo89"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
