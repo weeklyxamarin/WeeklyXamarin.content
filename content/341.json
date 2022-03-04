@@ -1,0 +1,144 @@
+{
+  "Id": "341",
+  "Name": "Issue 341",
+  "UpdatedTimeStamp": "2022-03-04T02:27:17Z",
+  "Summary": "MAUI, Design, Github Actions, Charting, Monetization - so much!",
+  "Introduction": "G'day everyone, welcome to issue #341 of Weekly Xamarin - a wrapup of the Xamarin and MAUI communities this  week. Some interesting posts on Github Actions, design topics, and charting in MAUI.  Wishing everyone a safe week. ❤ Kym",
+  "PublishDate": "2022-03-04T02:27:15Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "19 Best Practices for Faster UI Mockups",
+      "Url": "https://www.uxpin.com/studio/blog/19-best-practices-for-faster-ui-mockups/",
+      "Description": "Get practical tips for faster and cleaner UI mockups. A compilation of 19 best practices to speed up your design process.",
+      "EditionId": "341",
+      "Id": "341-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Setting up CI for your .NET MAUI iOS app in Azure DevOps",
+      "Url": "https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-ios-app-in-azure-devops/",
+      "Description": "Continuing the posts about setting up Azure DevOps continuous integration (CI) for your .NET MAUI app - but this time the focus is on iOS apps.",
+      "EditionId": "341",
+      "Author": "Andreas Nesheim",
+      "Id": "341-2",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Intro to GitHub Actions for .NET",
+      "Url": "https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/",
+      "Description": "Developers that use GitHub for managing their git repositories have a powerful continuous integration (CI) and continuous delivery (CD) feature with the help of GitHub Actions. In this post, you’ll learn how GitHub Actions can improve your .NET development experience and team productivity to automate common .NET app dev scenarios.",
+      "EditionId": "341",
+      "Author": "David Pine",
+      "Id": "341-3",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Properly Manage Background Tasks in Xamarin Forms",
+      "Url": "https://doumer.me/properly-manage-background-tasks-in-xamarin-forms/",
+      "Description": "Have a long running task in your app? Android and iOS have built-in mechanisms to properly manage background tasks in Xamarin Forms.",
+      "EditionId": "341",
+      "Author": "Damien Doumer",
+      "Id": "341-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Learn to Draw 2D Charts in .NET Maui",
+      "Url": "https://app-trap.com/2022/02/how-to-draw-2d-charts-in-net-maui/",
+      "Description": "In this tutorial you will learn how to draw customizable 2D charts using .NET Maui.Graphics.",
+      "EditionId": "341",
+      "Author": "Jon Nichols",
+      "Id": "341-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Touching Base with .NET MAUI Essentials",
+      "Url": "https://www.syncfusion.com/blogs/post/touching-base-with-net-maui-essentials.aspx",
+      "Description": "In .NET MAUI, we are going to continue working with the wonderful set of APIs provided by Xamarin Essentials, but it will be called .NET MAUI Essentials.",
+      "EditionId": "341",
+      "Author": "Leomaris Reyes",
+      "Id": "341-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "App Configuration Settings in .NET MAUI (appsettings.json)",
+      "Url": "https://montemagno.com/dotnet-maui-appsettings-json-configuration/",
+      "Description": "Learn how easy it is to use an appsettings.json in your .NET MAUI app for complete control over configuration.",
+      "EditionId": "341",
+      "Author": "James Montemagno",
+      "Id": "341-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Change .NET MAUI iOS Status Bar Color ",
+      "Url": "https://blog.verslu.is/maui/change-maui-ios-status-bar-color/",
+      "Description": "Learn you how to customize the status bar color for a .NET MAUI iOS app, even when rotating the device!",
+      "EditionId": "341",
+      "Author": "Gerald Versluis",
+      "Id": "341-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Create a Hyperlink UI in .NET MAUI Preview 13",
+      "Url": "https://www.syncfusion.com/blogs/post/create-a-hyperlink-ui-in-net-maui-preview-13.aspx",
+      "Description": "In this blog, let’s see how the formatted text feature helps create labels with a hyperlink UI in .NET MAUI Preview 13 apps.",
+      "EditionId": "341",
+      "Id": "341-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #46",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-46",
+      "Description": "Sam wraps up the week in MAUI!",
+      "EditionId": "341",
+      "Author": "Sam Basu",
+      "Id": "341-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "The Biggest (Overlooked) .NET MAUI Feature: Single-Project",
+      "Url": "https://www.youtube.com/watch?v=shj53JXbgb8",
+      "Description": "It's easy to forget that maybe the best feature of .NET MAUI apps is the single project approach. You still have all the power to write platform-specific code, but things like managing your image resources becomes so much easier. In this video I will give you an overview of what the single-project approach means and how it will help you!",
+      "EditionId": "341",
+      "Author": "Gerald Versluis",
+      "Id": "341-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The many ways to monetize your mobile & desktop apps",
+      "Url": "https://www.youtube.com/watch?v=d2hKN_VZmig",
+      "Description": "James talks about making money with your mobile and desktop applications for iOS, Android, macOS, and Windows. He breaks down paid apps, non-consumables, consumables, subscriptions, and some tips and  tricks!",
+      "EditionId": "341",
+      "Author": "James Montemagno",
+      "Id": "341-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI WebView",
+      "Url": "https://www.youtube.com/watch?v=1qsZ-BpaJ4U",
+      "Description": "How to implement WebViews within a MAUI Project.",
+      "EditionId": "341",
+      "Author": "Karl Searl",
+      "Id": "341-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 295: Two ways to do the same thing",
+      "Url": "https://www.mergeconflict.fm/295",
+      "Description": "What to do when there are new APIs that improve but don&#39;t deprecate old ones? Do you throw away your old code? Write compatibility layers? Or do you just keep on with what you have? We discuss.",
+      "EditionId": "341",
+      "Author": "Merge Conflict",
+      "Id": "341-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET Frontend Days 2022 recordings",
+      "Url": "https://danielhindrikes.se/index.php/2022/03/01/net-frontend-days-2022-recordings/",
+      "Description": "All videos from .NET Frontend Day 2022 are now uploaded as individual videos on YouTube.",
+      "EditionId": "341",
+      "Author": "Daniel Hindrikes",
+      "Id": "341-15",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

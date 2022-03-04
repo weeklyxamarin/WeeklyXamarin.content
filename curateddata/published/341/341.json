@@ -1,0 +1,390 @@
+{
+  "number": 341,
+  "title": "Issue 341",
+  "summary": "MAUI, Design, Github Actions, Charting, Monetization - so much!",
+  "url": "https://weeklyxamarin.com/issues/341",
+  "publication_status": "published",
+  "published_at": "2022-03-04T02:27:15+00:00",
+  "updated_at": "2022-03-04T02:27:17+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #341 of Weekly Xamarin - a wrapup of the Xamarin and MAUI communities this  week. Some interesting posts on Github Actions, design topics, and charting in MAUI.</p>\n\n<p>Wishing everyone a safe week.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #341 of Weekly Xamarin - a wrapup of the Xamarin and MAUI communities this  week. Some interesting posts on Github Actions, design topics, and charting in MAUI. \r\n\r\nWishing everyone a safe week.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "fOzlpxA",
+          "type": "Link",
+          "title": "19 Best Practices for Faster UI Mockups",
+          "url_domain": "uxpin.com",
+          "url": "https://www.uxpin.com/studio/blog/19-best-practices-for-faster-ui-mockups/",
+          "description": "<p>Get practical tips for faster and cleaner UI mockups. A compilation of 19 best practices to speed up your design process.</p>\n\n<p><a href=\"https://www.uxpin.com/studio/blog/19-best-practices-for-faster-ui-mockups/\"><strong>19 Best Practices for Faster UI Mockups</strong></a> by <a href=\"\">UXPin</a></p>",
+          "description_markdown": "Get practical tips for faster and cleaner UI mockups. A compilation of 19 best practices to speed up your design process.\r\n\r\n[**19 Best Practices for Faster UI Mockups**](https://www.uxpin.com/studio/blog/19-best-practices-for-faster-ui-mockups/) by [UXPin]()",
+          "embedded_links": [
+            {
+              "identifier": "vnLJHBH",
+              "title": "**19 Best Practices for Faster UI Mockups**",
+              "url_domain": "uxpin.com",
+              "url": "https://www.uxpin.com/studio/blog/19-best-practices-for-faster-ui-mockups/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "6tnrrK7",
+          "type": "Link",
+          "title": "Setting up CI for your .NET MAUI iOS app in Azure DevOps",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-ios-app-in-azure-devops/",
+          "description": "<p>Continuing the posts about setting up Azure DevOps continuous integration (CI) for your .NET MAUI app - but this time the focus is on iOS apps.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-ios-app-in-azure-devops/\"><strong>Setting up CI for your .NET MAUI iOS app in Azure DevOps</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "Continuing the posts about setting up Azure DevOps continuous integration (CI) for your .NET MAUI app - but this time the focus is on iOS apps.\r\n\r\n[**Setting up CI for your .NET MAUI iOS app in Azure DevOps**](https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-ios-app-in-azure-devops/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "XVKndHg",
+              "title": "**Setting up CI for your .NET MAUI iOS app in Azure DevOps**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-ios-app-in-azure-devops/"
+            },
+            {
+              "identifier": "Z6aja1t",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "jOU3TOb",
+          "type": "Link",
+          "title": "Intro to GitHub Actions for .NET",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/",
+          "description": "<p>Developers that use GitHub for managing their git repositories have a powerful continuous integration (CI) and continuous delivery (CD) feature with the help of GitHub Actions. In this post, you’ll learn how GitHub Actions can improve your .NET development experience and team productivity to automate common .NET app dev scenarios.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/\"><strong>Intro to GitHub Actions for .NET</strong></a> by <a href=\"https://twitter.com/davidpine7\">David Pine</a></p>",
+          "description_markdown": "Developers that use GitHub for managing their git repositories have a powerful continuous integration (CI) and continuous delivery (CD) feature with the help of GitHub Actions. In this post, you’ll learn how GitHub Actions can improve your .NET development experience and team productivity to automate common .NET app dev scenarios.\r\n\r\n[**Intro to GitHub Actions for .NET**](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/) by [David Pine](https://twitter.com/davidpine7)",
+          "embedded_links": [
+            {
+              "identifier": "i1GQwFT",
+              "title": "**Intro to GitHub Actions for .NET**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/"
+            },
+            {
+              "identifier": "ANhAij1",
+              "title": "David Pine",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidpine7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "D9xqVWd",
+          "type": "Link",
+          "title": "Properly Manage Background Tasks in Xamarin Forms",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/properly-manage-background-tasks-in-xamarin-forms/",
+          "description": "<p>Have a long running task in your app? Android and iOS have built-in mechanisms to properly manage background tasks in Xamarin Forms.</p>\n\n<p><a href=\"https://doumer.me/properly-manage-background-tasks-in-xamarin-forms/\"><strong>Properly Manage Background Tasks in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "Have a long running task in your app? Android and iOS have built-in mechanisms to properly manage background tasks in Xamarin Forms.\r\n\r\n[**Properly Manage Background Tasks in Xamarin Forms**](https://doumer.me/properly-manage-background-tasks-in-xamarin-forms/) by [Damien Doumer](https://twitter.com/damien_doumer)",
+          "embedded_links": [
+            {
+              "identifier": "RuE9mkd",
+              "title": "**Properly Manage Background Tasks in Xamarin Forms**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/properly-manage-background-tasks-in-xamarin-forms/"
+            },
+            {
+              "identifier": "suMnvGf",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "f96cOby",
+          "type": "Link",
+          "title": "Learn to Draw 2D Charts in .NET Maui",
+          "url_domain": "app-trap.com",
+          "url": "https://app-trap.com/2022/02/how-to-draw-2d-charts-in-net-maui/",
+          "description": "<p>In this tutorial you will learn how to draw customizable 2D charts using .NET Maui.Graphics.</p>\n\n<p><a href=\"https://app-trap.com/2022/02/how-to-draw-2d-charts-in-net-maui/\"><strong>Learn to Draw 2D Charts in .NET Maui</strong></a> by <a href=\"https://twitter.com/nichojo89\">Jon Nichols</a></p>",
+          "description_markdown": "In this tutorial you will learn how to draw customizable 2D charts using .NET Maui.Graphics.\r\n\r\n[**Learn to Draw 2D Charts in .NET Maui**](https://app-trap.com/2022/02/how-to-draw-2d-charts-in-net-maui/) by [Jon Nichols](https://twitter.com/nichojo89)",
+          "embedded_links": [
+            {
+              "identifier": "fDi8lms",
+              "title": "**Learn to Draw 2D Charts in .NET Maui**",
+              "url_domain": "app-trap.com",
+              "url": "https://app-trap.com/2022/02/how-to-draw-2d-charts-in-net-maui/"
+            },
+            {
+              "identifier": "UFcJ5Yk",
+              "title": "Jon Nichols",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nichojo89"
+            }
+          ]
+        },
+        {
+          "identifier": "CSQmDGV",
+          "type": "Link",
+          "title": "Touching Base with .NET MAUI Essentials",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/touching-base-with-net-maui-essentials.aspx",
+          "description": "<p>In .NET MAUI, we are going to continue working with the wonderful set of APIs provided by Xamarin Essentials, but it will be called .NET MAUI Essentials.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/touching-base-with-net-maui-essentials.aspx\"><strong>Touching Base with .NET MAUI Essentials</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "In .NET MAUI, we are going to continue working with the wonderful set of APIs provided by Xamarin Essentials, but it will be called .NET MAUI Essentials.\r\n\r\n[**Touching Base with .NET MAUI Essentials**](https://www.syncfusion.com/blogs/post/touching-base-with-net-maui-essentials.aspx) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "C6Gc6zd",
+              "title": "**Touching Base with .NET MAUI Essentials**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/touching-base-with-net-maui-essentials.aspx"
+            },
+            {
+              "identifier": "pq5K0Fr",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "XmhPowH",
+          "type": "Link",
+          "title": "App Configuration Settings in .NET MAUI (appsettings.json)",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/dotnet-maui-appsettings-json-configuration/",
+          "description": "<p>Learn how easy it is to use an appsettings.json in your .NET MAUI app for complete control over configuration.</p>\n\n<p><a href=\"https://montemagno.com/dotnet-maui-appsettings-json-configuration/\"><strong>App Configuration Settings in .NET MAUI (appsettings.json)</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Learn how easy it is to use an appsettings.json in your .NET MAUI app for complete control over configuration.\r\n\r\n[**App Configuration Settings in .NET MAUI (appsettings.json)**](https://montemagno.com/dotnet-maui-appsettings-json-configuration/) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "2pfvGA4",
+              "title": "**App Configuration Settings in .NET MAUI (appsettings.json)**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/dotnet-maui-appsettings-json-configuration/"
+            },
+            {
+              "identifier": "lsXuEeK",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "SZtssiV",
+          "type": "Link",
+          "title": "Change .NET MAUI iOS Status Bar Color ",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/maui/change-maui-ios-status-bar-color/",
+          "description": "<p>Learn you how to customize the status bar color for a .NET MAUI iOS app, even when rotating the device!</p>\n\n<p><a href=\"https://blog.verslu.is/maui/change-maui-ios-status-bar-color/\"><strong>Change .NET MAUI iOS Status Bar Color </strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Learn you how to customize the status bar color for a .NET MAUI iOS app, even when rotating the device!\r\n\r\n[**Change .NET MAUI iOS Status Bar Color **](https://blog.verslu.is/maui/change-maui-ios-status-bar-color/) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "n53aNbY",
+              "title": "**Change .NET MAUI iOS Status Bar Color **",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/maui/change-maui-ios-status-bar-color/"
+            },
+            {
+              "identifier": "6zAYh2B",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "lo1jrmm",
+          "type": "Link",
+          "title": "Create a Hyperlink UI in .NET MAUI Preview 13",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/create-a-hyperlink-ui-in-net-maui-preview-13.aspx",
+          "description": "<p>In this blog, let’s see how the formatted text feature helps create labels with a hyperlink UI in .NET MAUI Preview 13 apps.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/create-a-hyperlink-ui-in-net-maui-preview-13.aspx\"><strong>Create a Hyperlink UI in .NET MAUI Preview 13</strong></a> by <a href=\"\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "In this blog, let’s see how the formatted text feature helps create labels with a hyperlink UI in .NET MAUI Preview 13 apps.\r\n\r\n[**Create a Hyperlink UI in .NET MAUI Preview 13**](https://www.syncfusion.com/blogs/post/create-a-hyperlink-ui-in-net-maui-preview-13.aspx) by [Selva Ganapathy Kathiresan]()",
+          "embedded_links": [
+            {
+              "identifier": "7bg4lYU",
+              "title": "**Create a Hyperlink UI in .NET MAUI Preview 13**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/create-a-hyperlink-ui-in-net-maui-preview-13.aspx"
+            }
+          ]
+        },
+        {
+          "identifier": "tBGxLzM",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #46",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-46",
+          "description": "<p>Sam wraps up the week in MAUI!</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-46\"><strong>Sands of MAUI: Issue #46</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam wraps up the week in MAUI!\r\n\r\n[**Sands of MAUI: Issue #46**](https://www.telerik.com/blogs/sands-maui-issue-46) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "FFl5Ev6",
+              "title": "**Sands of MAUI: Issue #46**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-46"
+            },
+            {
+              "identifier": "gaYX9CX",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "M23B7mU",
+          "type": "Link",
+          "title": "The Biggest (Overlooked) .NET MAUI Feature: Single-Project",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=shj53JXbgb8",
+          "description": "<p>It's easy to forget that maybe the best feature of .NET MAUI apps is the single project approach. You still have all the power to write platform-specific code, but things like managing your image resources becomes so much easier. In this video I will give you an overview of what the single-project approach means and how it will help you!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=shj53JXbgb8\"><strong>The Biggest (Overlooked) .NET MAUI Feature: Single-Project</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "It's easy to forget that maybe the best feature of .NET MAUI apps is the single project approach. You still have all the power to write platform-specific code, but things like managing your image resources becomes so much easier. In this video I will give you an overview of what the single-project approach means and how it will help you!\r\n\r\n[**The Biggest (Overlooked) .NET MAUI Feature: Single-Project**](https://www.youtube.com/watch?v=shj53JXbgb8) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "aSBcXLk",
+              "title": "**The Biggest (Overlooked) .NET MAUI Feature: Single-Project**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=shj53JXbgb8"
+            },
+            {
+              "identifier": "kt6rINw",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "PZYLKcu",
+          "type": "Link",
+          "title": "The many ways to monetize your mobile & desktop apps",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=d2hKN_VZmig",
+          "description": "<p>James talks about making money with your mobile and desktop applications for iOS, Android, macOS, and Windows. He breaks down paid apps, non-consumables, consumables, subscriptions, and some tips and  tricks!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=d2hKN_VZmig\"><strong>The many ways to monetize your mobile &amp; desktop apps</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James talks about making money with your mobile and desktop applications for iOS, Android, macOS, and Windows. He breaks down paid apps, non-consumables, consumables, subscriptions, and some tips and  tricks!\r\n\r\n[**The many ways to monetize your mobile & desktop apps**](https://www.youtube.com/watch?v=d2hKN_VZmig) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "NNha3T6",
+              "title": "**The many ways to monetize your mobile & desktop apps**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=d2hKN_VZmig"
+            },
+            {
+              "identifier": "dnXXP7W",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "GLDlVOm",
+          "type": "Link",
+          "title": ".NET MAUI WebView",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=1qsZ-BpaJ4U",
+          "description": "<p>How to implement WebViews within a MAUI Project.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=1qsZ-BpaJ4U\"><strong>.NET MAUI WebView (CollectionView, Compiled Bindings, MVVM, Dependency Injection)</strong></a> by <a href=\"https://twitter.com/KarlSearl\">Karl Searl</a></p>",
+          "description_markdown": "How to implement WebViews within a MAUI Project.\r\n\r\n[**.NET MAUI WebView (CollectionView, Compiled Bindings, MVVM, Dependency Injection)**](https://www.youtube.com/watch?v=1qsZ-BpaJ4U) by [Karl Searl](https://twitter.com/KarlSearl)",
+          "embedded_links": [
+            {
+              "identifier": "EBDry0q",
+              "title": "**.NET MAUI WebView (CollectionView, Compiled Bindings, MVVM, Dependency Injection)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=1qsZ-BpaJ4U"
+            },
+            {
+              "identifier": "MidjFDf",
+              "title": "Karl Searl",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/KarlSearl"
+            }
+          ]
+        },
+        {
+          "identifier": "UPhhZLH",
+          "type": "Link",
+          "title": "Merge Conflict: 295: Two ways to do the same thing",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/295",
+          "description": "<p>What to do when there are new APIs that improve but don&#39;t deprecate old ones? Do you throw away your old code? Write compatibility layers? Or do you just keep on with what you have? We discuss.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/295\"><strong>Merge Conflict: 295: Two ways to do the same thing</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "What to do when there are new APIs that improve but don&#39;t deprecate old ones? Do you throw away your old code? Write compatibility layers? Or do you just keep on with what you have? We discuss.\r\n\r\n[**Merge Conflict: 295: Two ways to do the same thing**](https://www.mergeconflict.fm/295) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "86ssYB7",
+              "title": "**Merge Conflict: 295: Two ways to do the same thing**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/295"
+            },
+            {
+              "identifier": "9lL8pv6",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "WzARXFR",
+          "type": "Link",
+          "title": ".NET Frontend Days 2022 recordings",
+          "url_domain": "danielhindrikes.se",
+          "url": "https://danielhindrikes.se/index.php/2022/03/01/net-frontend-days-2022-recordings/",
+          "description": "<p>All videos from .NET Frontend Day 2022 are now uploaded as individual videos on YouTube.</p>\n\n<p><a href=\"https://danielhindrikes.se/index.php/2022/03/01/net-frontend-days-2022-recordings/\"><strong>.NET Frontend Days 2022 recordings</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "All videos from .NET Frontend Day 2022 are now uploaded as individual videos on YouTube. \r\n\r\n[**.NET Frontend Days 2022 recordings**](https://danielhindrikes.se/index.php/2022/03/01/net-frontend-days-2022-recordings/) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "9gz3YOS",
+              "title": "**.NET Frontend Days 2022 recordings**",
+              "url_domain": "danielhindrikes.se",
+              "url": "https://danielhindrikes.se/index.php/2022/03/01/net-frontend-days-2022-recordings/"
+            },
+            {
+              "identifier": "DPTKCMN",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

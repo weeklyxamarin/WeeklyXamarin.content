@@ -818,6 +818,12 @@
       ]
     },
     {
+      "Name": "David Pine",
+      "TwitterHandle": "davidpine7",
+      "Id": "5de10d1b-30ad-4033-9b47-aa710116f6c2",
+      "Aliases": []
+    },
+    {
       "Name": "David Ramel",
       "TwitterHandle": "dramel",
       "Id": "9452c985-a9d7-4959-966c-3c6a3f6ae767",
@@ -1615,6 +1621,12 @@
           "Name": "https://de.linkedin.com/in/kaiwilzer"
         }
       ]
+    },
+    {
+      "Name": "Karl Searl",
+      "TwitterHandle": "KarlSearl",
+      "Id": "d1291611-a53a-4ef2-a610-c469aad28fcc",
+      "Aliases": []
     },
     {
       "Name": "Keith Harrison",

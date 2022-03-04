@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "341",
+      "Name": "Issue 341",
+      "UpdatedTimeStamp": "2022-03-04T02:27:17Z",
+      "Summary": "MAUI, Design, Github Actions, Charting, Monetization - so much!",
+      "PublishDate": "2022-03-04T02:27:15Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "340",
       "Name": "Issue 340",
       "UpdatedTimeStamp": "2022-02-25T07:59:44Z",
