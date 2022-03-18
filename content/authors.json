@@ -112,6 +112,16 @@
       ]
     },
     {
+      "Name": "Aleksei Starkov",
+      "Id": "5cca7c80-1671-4e22-bc2f-4d5c450804d1",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://medium.com/@alekseistarkov_59313"
+        }
+      ]
+    },
+    {
       "Name": "Alessandro Caliaro",
       "TwitterHandle": "acaliaro",
       "GitHubHandle": "acaliaro",
@@ -1569,6 +1579,12 @@
       ]
     },
     {
+      "Name": "Jon Hilton",
+      "TwitterHandle": "jonhilt",
+      "Id": "934ac9fb-0ebf-44c4-84d1-64a9d58a3276",
+      "Aliases": []
+    },
+    {
       "Name": "Jon Nichols",
       "TwitterHandle": "nichojo89",
       "Id": "44be899b-e723-401d-a254-247304212e7b",
@@ -1971,6 +1987,12 @@
       "Name": "Matt Goldman",
       "TwitterHandle": "mattgoldman",
       "Id": "f9167ede-e285-4c44-9823-87ff1a82425a",
+      "Aliases": []
+    },
+    {
+      "Name": "Matt Lacey",
+      "TwitterHandle": "mrlacey",
+      "Id": "837c62d3-b100-4595-a5ad-663d3f6b9142",
       "Aliases": []
     },
     {

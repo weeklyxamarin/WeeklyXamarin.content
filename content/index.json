@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "343",
+      "Name": "Issue 343",
+      "UpdatedTimeStamp": "2022-03-18T08:56:17Z",
+      "Summary": "MAUI Preview 14. Get ready for that GA!",
+      "PublishDate": "2022-03-18T08:56:15Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "342",
       "Name": "Issue 342",
       "UpdatedTimeStamp": "2022-03-12T04:39:25Z",

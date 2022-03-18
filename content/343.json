@@ -1,0 +1,146 @@
+{
+  "Id": "343",
+  "Name": "Issue 343",
+  "UpdatedTimeStamp": "2022-03-18T08:56:17Z",
+  "Summary": "MAUI Preview 14. Get ready for that GA!",
+  "Introduction": "G'day everyone, welcome to issue #343 of Weekly Xamarin - a wrapup of the Xamarin and MAUI communities this week. This week we have the release of MAUI Preview 14 as well as new Visual Studio Mac previews. Have a great weekend everyone. ♥️ Kym",
+  "PublishDate": "2022-03-18T08:56:15Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Announcing .NET MAUI Preview 14",
+      "Url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-preview-14/",
+      "Description": ".NET MAUI Preview 14 has shipped with plenty of great new features to try out including a hefty volume of issue resolutions and features, including the MenuBar!",
+      "EditionId": "343",
+      "Author": "David Ortinau",
+      "Id": "343-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "How you should be using (and naming) resources in XAML",
+      "Url": "https://www.mrlacey.com/2022/03/how-you-should-be-using-and-naming.html",
+      "Description": "Naming things is hard. This is true of code, but also XAML resources. Here are a couple of tips and best practices.",
+      "EditionId": "343",
+      "Author": "Matt Lacey",
+      "Id": "343-2",
+      "Category": "CODE"
+    },
+    {
+      "Title": "Setting up CI for your .NET MAUI iOS app with GitHub Actions",
+      "Url": "https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-ios-app-with-github-actions/",
+      "Description": "This post shows how to set up CI for your .NET MAUI iOS app using GitHub Actions.",
+      "EditionId": "343",
+      "Author": "Andreas Nesheim",
+      "Id": "343-3",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Using SVGs as an iOS image asset in Xamarin",
+      "Url": "https://levelup.gitconnected.com/how-to-svg-as-an-ios-image-asset-in-xamarin-8bcb9d7f901a",
+      "Description": "This article covers a no-dependency way to use an SVG image as an iOS image asset in Xamarin mobile application.",
+      "EditionId": "343",
+      "Author": "Aleksei Starkov",
+      "Id": "343-4",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Signup Form Design in Xamarin Forms",
+      "Url": "https://www.telerik.com/blogs/lets-replicate-signup-xamarin-forms",
+      "Description": "Building a signup UI in Xamarin Forms.",
+      "EditionId": "343",
+      "Author": "Leomaris Reyes",
+      "Id": "343-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Replicating a Fashion UI in Xamarin.Forms",
+      "Url": "https://www.syncfusion.com/blogs/post/replicating-a-fashion-ui-in-xamarin-forms.aspx",
+      "Description": "This post replicates a fashion app UI based on this Dribbble design.",
+      "EditionId": "343",
+      "Author": "Leomaris Reyes",
+      "Id": "343-6",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Blazor for .NET MAUI: What, How and When",
+      "Url": "https://www.telerik.com/blogs/blazor-dotnet-maui-what-how-when",
+      "Description": ".NET MAUI promises to make native development much easier, especially if you already know how to build for the web.",
+      "EditionId": "343",
+      "Author": "Jon Hilton",
+      "Id": "343-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Playing With New .NET MAUI Views: Border, Shadow & GraphicsView",
+      "Url": "https://doumer.me/playing-with-new-net-maui-views-border-shadow-graphicsview/",
+      "Description": "Shadow, Border & GraphicsView - Want to see what these .NET MAUI Views have in terms of functionality? Check out this post.",
+      "EditionId": "343",
+      "Author": "Damien Doumer",
+      "Id": "343-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #48",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-48",
+      "Description": "The week in MAUI with Sam.",
+      "EditionId": "343",
+      "Author": "Sam Basu",
+      "Id": "343-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Hello, .NET MAUI Preview 14 with Essential Interfaces and Desktop MenuBars!",
+      "Url": "https://www.youtube.com/watch?v=OfzAbxC7m6s",
+      "Description": "That is right, .NET MAUI Preview 14 is here and is so close to Release Candidate state! Preview 14 of .NET Multi-platform App UI (MAUI) is now available in Visual Studio 2022 17.2 Preview 2 and includes a hefty volume of issue resolutions and completed features, and one new feature that will be a welcome addition for desktop developers: the MenuBar.",
+      "EditionId": "343",
+      "Author": "James Montemagno",
+      "Id": "343-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Easily Show Platform-Specific Dialogs with .NET MAUI Blazor",
+      "Url": "https://www.youtube.com/watch?v=gTLEIe0SWpI",
+      "Description": "Need to show prompts or dialogs from your Blazor application? With .NET MAUI it almost couldn't be easier! Write a little wrapper leveraging dependency injection and you can access all the power of .NET MAUI and the underlaying platforms straight from your Blazor application.",
+      "EditionId": "343",
+      "Author": "Gerald Versluis",
+      "Id": "343-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Preview 14: Essentials Interfaces and MenuBarItems Party!",
+      "Url": "https://www.youtube.com/watch?v=n48MiBh_SxM",
+      "Description": "Time for another release party! .NET MAUI Preview 14 has landed! Whoop! In this video Gerald updates you on all the things.",
+      "EditionId": "343",
+      "Author": "Gerald Versluis",
+      "Id": "343-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 297: The Ultra Apple Event Recap",
+      "Url": "https://www.mergeconflict.fm/297",
+      "Description": "We have a full breakdown of the latest Apple event with M1 Ultra, new Mac Studio, iPhone SE 3rd gen, and a new iPad!",
+      "EditionId": "343",
+      "Author": "Merge Conflict",
+      "Id": "343-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Visual Studio 2022 for Mac Preview 7",
+      "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-7",
+      "Description": "Visual Studio 2022 for Mac 17.0 Preview 7 is here and continues the focus on addressing top issues and driving forward to a high-quality GA (general availability) release. In addition to many fixes, this release brings back Xamarin mobile tooling as a supported experience and introduces Azure Functions V4 tooling which supports running on .NET 6 & M1 processors.",
+      "EditionId": "343",
+      "Author": "Jordan Matthiesen",
+      "Id": "343-14",
+      "Category": "RELEASES"
+    },
+    {
+      "Title": "MFractor Now Available For Visual Studio Windows 2022",
+      "Url": "https://www.mfractor.com/blogs/news/mfractor-now-available-for-visual-studio-windows-2022",
+      "Description": "MFractor is now available for Visual Studio Windows 2022!",
+      "EditionId": "343",
+      "Author": "Matthew Robbins",
+      "Id": "343-15",
+      "Category": "RELEASES"
+    }
+  ]
+}

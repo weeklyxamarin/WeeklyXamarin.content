@@ -1,0 +1,420 @@
+{
+  "number": 343,
+  "title": "Issue 343",
+  "summary": "MAUI Preview 14. Get ready for that GA!",
+  "url": "https://weeklyxamarin.com/issues/343",
+  "publication_status": "published",
+  "published_at": "2022-03-18T08:56:15+00:00",
+  "updated_at": "2022-03-18T08:56:17+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #343 of Weekly Xamarin - a wrapup of the Xamarin and MAUI communities this week.</p>\n\n<p>This week we have the release of MAUI Preview 14 as well as new Visual Studio Mac previews.</p>\n\n<p>Have a great weekend everyone.</p>\n\n<p>♥️</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #343 of Weekly Xamarin - a wrapup of the Xamarin and MAUI communities this week.\r\n\r\nThis week we have the release of MAUI Preview 14 as well as new Visual Studio Mac previews.\r\n\r\nHave a great weekend everyone.\r\n\r\n♥️\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "OnyZm9e",
+          "type": "Link",
+          "title": "Announcing .NET MAUI Preview 14",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-preview-14/",
+          "description": "<p>.NET MAUI Preview 14 has shipped with plenty of great new features to try out including a hefty volume of issue resolutions and features, including the MenuBar!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/dotnet-maui-preview-14/\"><strong>Announcing .NET MAUI Preview 14</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": ".NET MAUI Preview 14 has shipped with plenty of great new features to try out including a hefty volume of issue resolutions and features, including the MenuBar!\r\n\r\n[**Announcing .NET MAUI Preview 14**](https://devblogs.microsoft.com/dotnet/dotnet-maui-preview-14/) by [David Ortinau](https://twitter.com/davidortinau)",
+          "embedded_links": [
+            {
+              "identifier": "ez9IPP6",
+              "title": "**Announcing .NET MAUI Preview 14**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-preview-14/"
+            },
+            {
+              "identifier": "Rtyqr2z",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "code",
+      "name": "CODE",
+      "items": [
+        {
+          "identifier": "bFJSRlB",
+          "type": "Link",
+          "title": "How you should be using (and naming) resources in XAML",
+          "url_domain": "mrlacey.com",
+          "url": "https://www.mrlacey.com/2022/03/how-you-should-be-using-and-naming.html",
+          "description": "<p>Naming things is hard. This is true of code, but also XAML resources. Here are a couple of tips and best practices.</p>\n\n<p><a href=\"https://www.mrlacey.com/2022/03/how-you-should-be-using-and-naming.html\"><strong>How you should be using (and naming) resources in XAML</strong></a> by <a href=\"https://twitter.com/mrlacey\">Matt Lacey</a></p>",
+          "description_markdown": "Naming things is hard. This is true of code, but also XAML resources. Here are a couple of tips and best practices.\r\n\r\n[**How you should be using (and naming) resources in XAML**](https://www.mrlacey.com/2022/03/how-you-should-be-using-and-naming.html) by [Matt Lacey](https://twitter.com/mrlacey)",
+          "embedded_links": [
+            {
+              "identifier": "9vDdSPQ",
+              "title": "**How you should be using (and naming) resources in XAML**",
+              "url_domain": "mrlacey.com",
+              "url": "https://www.mrlacey.com/2022/03/how-you-should-be-using-and-naming.html"
+            },
+            {
+              "identifier": "fuHEUvm",
+              "title": "Matt Lacey",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mrlacey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "jFdgZwD",
+          "type": "Link",
+          "title": "Setting up CI for your .NET MAUI iOS app with GitHub Actions",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-ios-app-with-github-actions/",
+          "description": "<p>This post shows how to set up CI for your .NET MAUI iOS app using GitHub Actions.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-ios-app-with-github-actions/\"><strong>Setting up CI for your .NET MAUI iOS app with GitHub Actions</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "This post shows how to set up CI for your .NET MAUI iOS app using GitHub Actions.\r\n\r\n[**Setting up CI for your .NET MAUI iOS app with GitHub Actions**](https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-ios-app-with-github-actions/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "rkRKyxN",
+              "title": "**Setting up CI for your .NET MAUI iOS app with GitHub Actions**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-ios-app-with-github-actions/"
+            },
+            {
+              "identifier": "Ejl2Tpv",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "VtJybdF",
+          "type": "Link",
+          "title": "Using SVGs as an iOS image asset in Xamarin",
+          "url_domain": "gitconnected.com",
+          "url": "https://levelup.gitconnected.com/how-to-svg-as-an-ios-image-asset-in-xamarin-8bcb9d7f901a",
+          "description": "<p>This article covers a no-dependency way to use an SVG image as an iOS image asset in Xamarin mobile application.</p>\n\n<p><a href=\"https://levelup.gitconnected.com/how-to-svg-as-an-ios-image-asset-in-xamarin-8bcb9d7f901a\"><strong>How To: SVG as an iOS image asset in Xamarin</strong></a> by <a href=\"https://medium.com/@alekseistarkov_59313\">Aleksei Starkov</a></p>",
+          "description_markdown": "This article covers a no-dependency way to use an SVG image as an iOS image asset in Xamarin mobile application.\r\n\r\n[**How To: SVG as an iOS image asset in Xamarin**](https://levelup.gitconnected.com/how-to-svg-as-an-ios-image-asset-in-xamarin-8bcb9d7f901a) by [Aleksei Starkov](https://medium.com/@alekseistarkov_59313)",
+          "embedded_links": [
+            {
+              "identifier": "lhBiaPo",
+              "title": "**How To: SVG as an iOS image asset in Xamarin**",
+              "url_domain": "gitconnected.com",
+              "url": "https://levelup.gitconnected.com/how-to-svg-as-an-ios-image-asset-in-xamarin-8bcb9d7f901a"
+            },
+            {
+              "identifier": "HdmN2Oq",
+              "title": "Aleksei Starkov",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@alekseistarkov_59313"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "PZKivTK",
+          "type": "Link",
+          "title": "Signup Form Design in Xamarin Forms",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/lets-replicate-signup-xamarin-forms",
+          "description": "<p>Building a signup UI in Xamarin Forms.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/lets-replicate-signup-xamarin-forms\"><strong>Let’s Replicate a Signup in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Building a signup UI in Xamarin Forms.\r\n\r\n[**Let’s Replicate a Signup in Xamarin Forms**](https://www.telerik.com/blogs/lets-replicate-signup-xamarin-forms) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "nUzFrYC",
+              "title": "**Let’s Replicate a Signup in Xamarin Forms**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/lets-replicate-signup-xamarin-forms"
+            },
+            {
+              "identifier": "XcqnrSe",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "hU6b7wU",
+          "type": "Link",
+          "title": "Replicating a Fashion UI in Xamarin.Forms",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/replicating-a-fashion-ui-in-xamarin-forms.aspx",
+          "description": "<p>This post replicates a fashion app UI based on this Dribbble design.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/replicating-a-fashion-ui-in-xamarin-forms.aspx\"><strong>Replicating a Fashion UI in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "This post replicates a fashion app UI based on this Dribbble design.\r\n\r\n[**Replicating a Fashion UI in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/replicating-a-fashion-ui-in-xamarin-forms.aspx) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "Geejhf0",
+              "title": "**Replicating a Fashion UI in Xamarin.Forms**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/replicating-a-fashion-ui-in-xamarin-forms.aspx"
+            },
+            {
+              "identifier": "p38kBFe",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "uTFNhZ1",
+          "type": "Link",
+          "title": "Blazor for .NET MAUI: What, How and When",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/blazor-dotnet-maui-what-how-when",
+          "description": "<p>.NET MAUI promises to make native development much easier, especially if you already know how to build for the web.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/blazor-dotnet-maui-what-how-when\"><strong>Blazor for .NET MAUI: What, How and When</strong></a> by <a href=\"https://twitter.com/jonhilt\">Jon Hilton</a></p>",
+          "description_markdown": ".NET MAUI promises to make native development much easier, especially if you already know how to build for the web.\r\n\r\n[**Blazor for .NET MAUI: What, How and When**](https://www.telerik.com/blogs/blazor-dotnet-maui-what-how-when) by [Jon Hilton](https://twitter.com/jonhilt)",
+          "embedded_links": [
+            {
+              "identifier": "oL8OBFo",
+              "title": "**Blazor for .NET MAUI: What, How and When**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/blazor-dotnet-maui-what-how-when"
+            },
+            {
+              "identifier": "CSnSuF7",
+              "title": "Jon Hilton",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jonhilt"
+            }
+          ]
+        },
+        {
+          "identifier": "qaqNiQb",
+          "type": "Link",
+          "title": "Playing With New .NET MAUI Views: Border, Shadow & GraphicsView",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/playing-with-new-net-maui-views-border-shadow-graphicsview/",
+          "description": "<p>Shadow, Border &amp; GraphicsView - Want to see what these .NET MAUI Views have in terms of functionality? Check out this post.</p>\n\n<p><a href=\"https://doumer.me/playing-with-new-net-maui-views-border-shadow-graphicsview/\"><strong>Playing With New .NET MAUI Views: Border, Shadow &amp; GraphicsView</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "Shadow, Border & GraphicsView - Want to see what these .NET MAUI Views have in terms of functionality? Check out this post.\r\n\r\n[**Playing With New .NET MAUI Views: Border, Shadow & GraphicsView**](https://doumer.me/playing-with-new-net-maui-views-border-shadow-graphicsview/) by [Damien Doumer](https://twitter.com/damien_doumer)",
+          "embedded_links": [
+            {
+              "identifier": "Mm47gcS",
+              "title": "**Playing With New .NET MAUI Views: Border, Shadow & GraphicsView**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/playing-with-new-net-maui-views-border-shadow-graphicsview/"
+            },
+            {
+              "identifier": "ezrt7UO",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        },
+        {
+          "identifier": "mPJZ3NV",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #48",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-48",
+          "description": "<p>The week in MAUI with Sam.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-48\"><strong>Sands of MAUI: Issue #48</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "The week in MAUI with Sam.\r\n\r\n[**Sands of MAUI: Issue #48**](https://www.telerik.com/blogs/sands-maui-issue-48) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "lthAVji",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            },
+            {
+              "identifier": "5Uf01mM",
+              "title": "**Sands of MAUI: Issue #48**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-48"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "9o7FZFF",
+          "type": "Link",
+          "title": "Hello, .NET MAUI Preview 14 with Essential Interfaces and Desktop MenuBars!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=OfzAbxC7m6s",
+          "description": "<p>That is right, .NET MAUI Preview 14 is here and is so close to Release Candidate state! Preview 14 of .NET Multi-platform App UI (MAUI) is now available in Visual Studio 2022 17.2 Preview 2 and includes a hefty volume of issue resolutions and completed features, and one new feature that will be a welcome addition for desktop developers: the MenuBar.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=OfzAbxC7m6s\"><strong>Hello, .NET MAUI Preview 14 with Essential Interfaces and Desktop MenuBars!</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "That is right, .NET MAUI Preview 14 is here and is so close to Release Candidate state! Preview 14 of .NET Multi-platform App UI (MAUI) is now available in Visual Studio 2022 17.2 Preview 2 and includes a hefty volume of issue resolutions and completed features, and one new feature that will be a welcome addition for desktop developers: the MenuBar. \r\n\r\n[**Hello, .NET MAUI Preview 14 with Essential Interfaces and Desktop MenuBars!**](https://www.youtube.com/watch?v=OfzAbxC7m6s) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "3yYxhe1",
+              "title": "**Hello, .NET MAUI Preview 14 with Essential Interfaces and Desktop MenuBars!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=OfzAbxC7m6s"
+            },
+            {
+              "identifier": "2of6fNo",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "DFyktaG",
+          "type": "Link",
+          "title": "Easily Show Platform-Specific Dialogs with .NET MAUI Blazor",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=gTLEIe0SWpI",
+          "description": "<p>Need to show prompts or dialogs from your Blazor application? With .NET MAUI it almost couldn't be easier! Write a little wrapper leveraging dependency injection and you can access all the power of .NET MAUI and the underlaying platforms straight from your Blazor application.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=gTLEIe0SWpI\"><strong>Easily Show Platform-Specific Dialogs with .NET MAUI Blazor</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Need to show prompts or dialogs from your Blazor application? With .NET MAUI it almost couldn't be easier! Write a little wrapper leveraging dependency injection and you can access all the power of .NET MAUI and the underlaying platforms straight from your Blazor application.\r\n\r\n\r\n[**Easily Show Platform-Specific Dialogs with .NET MAUI Blazor**](https://www.youtube.com/watch?v=gTLEIe0SWpI) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "6GogrX9",
+              "title": "**Easily Show Platform-Specific Dialogs with .NET MAUI Blazor**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=gTLEIe0SWpI"
+            },
+            {
+              "identifier": "2HTBK4t",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "zPRpkaJ",
+          "type": "Link",
+          "title": ".NET MAUI Preview 14: Essentials Interfaces and MenuBarItems Party!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=n48MiBh_SxM",
+          "description": "<p>Time for another release party! .NET MAUI Preview 14 has landed! Whoop! In this video Gerald updates you on all the things.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=n48MiBh_SxM\"><strong>.NET MAUI Preview 14: Essentials Interfaces and MenuBarItems Party!</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Time for another release party! .NET MAUI Preview 14 has landed! Whoop! In this video Gerald updates you on all the things. \r\n\r\n[**.NET MAUI Preview 14: Essentials Interfaces and MenuBarItems Party!**](https://www.youtube.com/watch?v=n48MiBh_SxM) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "YgF2NFO",
+              "title": "**.NET MAUI Preview 14: Essentials Interfaces and MenuBarItems Party!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=n48MiBh_SxM"
+            },
+            {
+              "identifier": "tFrPSTp",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "C1Yowxs",
+          "type": "Link",
+          "title": "Merge Conflict: 297: The Ultra Apple Event Recap",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/297",
+          "description": "<p>We have a full breakdown of the latest Apple event with M1 Ultra, new Mac Studio, iPhone SE 3rd gen, and a new iPad!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/297\"><strong>Merge Conflict: 297: The Ultra Apple Event Recap</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "We have a full breakdown of the latest Apple event with M1 Ultra, new Mac Studio, iPhone SE 3rd gen, and a new iPad!\r\n\r\n[**Merge Conflict: 297: The Ultra Apple Event Recap**](https://www.mergeconflict.fm/297) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "yAFBWkw",
+              "title": "**Merge Conflict: 297: The Ultra Apple Event Recap**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/297"
+            },
+            {
+              "identifier": "QKWrFim",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "aAOx41J",
+          "type": "Link",
+          "title": "Visual Studio 2022 for Mac Preview 7",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-7",
+          "description": "<p>Visual Studio 2022 for Mac 17.0 Preview 7 is here and continues the focus on addressing top issues and driving forward to a high-quality GA (general availability) release. In addition to many fixes, this release brings back Xamarin mobile tooling as a supported experience and introduces Azure Functions V4 tooling which supports running on .NET 6 &amp; M1 processors.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-7\"><strong>Visual Studio 2022 for Mac Preview 7</strong></a> by <a href=\"https://twitter.com/jmatthiesen\">Jordan Matthiesen</a></p>",
+          "description_markdown": "Visual Studio 2022 for Mac 17.0 Preview 7 is here and continues the focus on addressing top issues and driving forward to a high-quality GA (general availability) release. In addition to many fixes, this release brings back Xamarin mobile tooling as a supported experience and introduces Azure Functions V4 tooling which supports running on .NET 6 & M1 processors.\r\n\r\n[**Visual Studio 2022 for Mac Preview 7**](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-7) by [Jordan Matthiesen](https://twitter.com/jmatthiesen)",
+          "embedded_links": [
+            {
+              "identifier": "UgfgLQW",
+              "title": "**Visual Studio 2022 for Mac Preview 7**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-preview-7"
+            },
+            {
+              "identifier": "MiCGAph",
+              "title": "Jordan Matthiesen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jmatthiesen"
+            }
+          ]
+        },
+        {
+          "identifier": "tJvzCtt",
+          "type": "Link",
+          "title": "MFractor Now Available For Visual Studio Windows 2022",
+          "url_domain": "mfractor.com",
+          "url": "https://www.mfractor.com/blogs/news/mfractor-now-available-for-visual-studio-windows-2022",
+          "description": "<p>MFractor is now available for Visual Studio Windows 2022!</p>\n\n<p><a href=\"https://www.mfractor.com/blogs/news/mfractor-now-available-for-visual-studio-windows-2022\"><strong>MFractor Now Available For Visual Studio Windows 2022</strong></a> by <a href=\"https://twitter.com/matthewrdev\">Matthew Robbins</a></p>",
+          "description_markdown": "MFractor is now available for Visual Studio Windows 2022!\r\n\r\n[**MFractor Now Available For Visual Studio Windows 2022**](https://www.mfractor.com/blogs/news/mfractor-now-available-for-visual-studio-windows-2022) by [Matthew Robbins](https://twitter.com/matthewrdev)",
+          "embedded_links": [
+            {
+              "identifier": "qr5LOwF",
+              "title": "**MFractor Now Available For Visual Studio Windows 2022**",
+              "url_domain": "mfractor.com",
+              "url": "https://www.mfractor.com/blogs/news/mfractor-now-available-for-visual-studio-windows-2022"
+            },
+            {
+              "identifier": "fyPF16G",
+              "title": "Matthew Robbins",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/matthewrdev"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
