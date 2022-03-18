@@ -1,0 +1,378 @@
+{
+  "number": 342,
+  "title": "Issue 342",
+  "summary": "XAML Styler, UI Designs, CI with Github Actions!",
+  "url": "https://weeklyxamarin.com/issues/342",
+  "publication_status": "published",
+  "published_at": "2022-03-12T04:39:22+00:00",
+  "updated_at": "2022-03-12T04:39:25+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #342 of Weekly Xamarin - a wrapup of the Xamarin and MAUI communities this week.</p>\n\n<p>It's been quite a week and as Rhys James says \"<a href=\"https://twitter.com/rhysjamesy/status/1502255394500059142\">Genuinely humiliating to contract the novel coronavirus is March 2022. Feel like I just bought a Dreamcast.</a>\". That was my week.</p>\n\n<p>Looking forward to getting back into action and the next release of MAUI.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #342 of Weekly Xamarin - a wrapup of the Xamarin and MAUI communities this week. \r\n\r\nIt's been quite a week and as Rhys James says \"[Genuinely humiliating to contract the novel coronavirus is March 2022. Feel like I just bought a Dreamcast.](https://twitter.com/rhysjamesy/status/1502255394500059142)\". That was my week.\r\n\r\nLooking forward to getting back into action and the next release of MAUI.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "xA02RTp",
+              "title": "Genuinely humiliating to contract the novel coronavirus is March 2022. Feel like I just bought a Dreamcast.",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rhysjamesy/status/1502255394500059142"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "fg1dHea",
+          "type": "Link",
+          "title": "XAML Styler",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=S-eqInTiy7E",
+          "description": "<p>Dave Grochocki and Nico Vermeir show off XAML Styler, a Visual Studio extension that formats XAML source code based on a set of styling rules.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=S-eqInTiy7E\"><strong>XAML Styler</strong></a> by <a href=\"https://www.youtube.com/channel/ucsmica-v34irf9kvth6xx-g\">Microsoft Developer</a></p>",
+          "description_markdown": "Dave Grochocki and Nico Vermeir show off XAML Styler, a Visual Studio extension that formats XAML source code based on a set of styling rules.\r\n\r\n[**XAML Styler**](https://www.youtube.com/watch?v=S-eqInTiy7E) by [Microsoft Developer](https://www.youtube.com/channel/ucsmica-v34irf9kvth6xx-g)",
+          "embedded_links": [
+            {
+              "identifier": "ahX8dsK",
+              "title": "**XAML Styler**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=S-eqInTiy7E"
+            },
+            {
+              "identifier": "2zAaDRM",
+              "title": "Microsoft Developer",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/ucsmica-v34irf9kvth6xx-g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "L7wzeei",
+          "type": "Link",
+          "title": "Building a mobile game in Xamarin Forms - Lottie",
+          "url_domain": "bijington.com",
+          "url": "https://blog.bijington.com/2022/03/10/building-a-mobile-game-in-xamarin-forms-part-seven.html",
+          "description": "<p>Lottie is an animation library for Android and iOS that parses Adobe After Effects animations exported to JSON files with Bodymovin and renders them natively on mobile!</p>\n\n<p><a href=\"https://blog.bijington.com/2022/03/10/building-a-mobile-game-in-xamarin-forms-part-seven.html\"><strong>Building a mobile game in Xamarin Forms - Lottie</strong></a> by <a href=\"https://twitter.com/bijington\">Shaun Lawrence</a></p>",
+          "description_markdown": "Lottie is an animation library for Android and iOS that parses Adobe After Effects animations exported to JSON files with Bodymovin and renders them natively on mobile!\r\n\r\n[**Building a mobile game in Xamarin Forms - Lottie**](https://blog.bijington.com/2022/03/10/building-a-mobile-game-in-xamarin-forms-part-seven.html) by [Shaun Lawrence](https://twitter.com/bijington)",
+          "embedded_links": [
+            {
+              "identifier": "qaJcWk4",
+              "title": "**Building a mobile game in Xamarin Forms - Lottie**",
+              "url_domain": "bijington.com",
+              "url": "https://blog.bijington.com/2022/03/10/building-a-mobile-game-in-xamarin-forms-part-seven.html"
+            },
+            {
+              "identifier": "oYkTjDP",
+              "title": "Shaun Lawrence",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bijington"
+            }
+          ]
+        },
+        {
+          "identifier": "kApT3XU",
+          "type": "Link",
+          "title": "StateLayout with Collections in Xamarin Forms/MAUI",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/statelayout-with-collections-in-xamarin-forms-maui/",
+          "description": "<p>StateSquid was a plugin which allowed displaying a specific view when a page is in a specific state. It has evolved and now it’s part of the Xamarin Community Toolkit. This article covers how to use and integrate it to load data into your collections.</p>\n\n<p><a href=\"https://xamgirl.com/statelayout-with-collections-in-xamarin-forms-maui/\"><strong>StateLayout with Collections in Xamarin Forms/MAUI</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "StateSquid was a plugin which allowed displaying a specific view when a page is in a specific state. It has evolved and now it’s part of the Xamarin Community Toolkit. This article covers how to use and integrate it to load data into your collections.\r\n\r\n[**StateLayout with Collections in Xamarin Forms/MAUI**](https://xamgirl.com/statelayout-with-collections-in-xamarin-forms-maui/) by [Charlin Agramonte](https://twitter.com/chard003)",
+          "embedded_links": [
+            {
+              "identifier": "he4axRG",
+              "title": "**StateLayout with Collections in Xamarin Forms/MAUI**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/statelayout-with-collections-in-xamarin-forms-maui/"
+            },
+            {
+              "identifier": "qxIoldf",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "vwpIRmY",
+          "type": "Link",
+          "title": "Drop Shadow Effect",
+          "url_domain": "c-sharpcorner.com",
+          "url": "https://www.c-sharpcorner.com/article/adding-the-drop-shadow-effect-to-a-xamarin-forms-application/",
+          "description": "<p>Easy add add shadows to your Xamarin.Forms applications without using Frames, but rather using Xamarin Community Toolkit</p>\n\n<p><a href=\"https://www.c-sharpcorner.com/article/adding-the-drop-shadow-effect-to-a-xamarin-forms-application/\"><strong>Drop Shadow Effect</strong></a> by <a href=\"https://twitter.com/LucioMSP\">Vicente Guzman</a></p>",
+          "description_markdown": "Easy add add shadows to your Xamarin.Forms applications without using Frames, but rather using Xamarin Community Toolkit\r\n\r\n[**Drop Shadow Effect**](https://www.c-sharpcorner.com/article/adding-the-drop-shadow-effect-to-a-xamarin-forms-application/) by [Vicente Guzman](https://twitter.com/LucioMSP)",
+          "embedded_links": [
+            {
+              "identifier": "7ZNwoiZ",
+              "title": "**Drop Shadow Effect**",
+              "url_domain": "c-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/adding-the-drop-shadow-effect-to-a-xamarin-forms-application/"
+            },
+            {
+              "identifier": "FKFp3bb",
+              "title": "Vicente Guzman",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/LucioMSP"
+            }
+          ]
+        },
+        {
+          "identifier": "XVkh33X",
+          "type": "Link",
+          "title": "Replicating Contact & Message UI in Xamarin Forms",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/replicating-contact-message-ui-in-xamarin-forms/",
+          "description": "<p>This article replicates a clean messaging UI from Dribbble.</p>\n\n<p><a href=\"https://askxammy.com/replicating-contact-message-ui-in-xamarin-forms/\"><strong>Replicating Contact &amp; Message UI in Xamarin Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "This article replicates a clean messaging UI from Dribbble.\r\n\r\n[**Replicating Contact & Message UI in Xamarin Forms**](https://askxammy.com/replicating-contact-message-ui-in-xamarin-forms/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "J1Ob7iA",
+              "title": "**Replicating Contact & Message UI in Xamarin Forms**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/replicating-contact-message-ui-in-xamarin-forms/"
+            },
+            {
+              "identifier": "eeNf3du",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "gnpqaNr",
+          "type": "Link",
+          "title": "Setting up CI for your .NET MAUI Android app with GitHub Actions",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-android-app-with-github-actions/",
+          "description": "<p>How to setup CI for your .NET MAUI Android Apps using Github Actions.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-android-app-with-github-actions/\"><strong>Setting up CI for your .NET MAUI Android app with GitHub Actions</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "How to setup CI for your .NET MAUI Android Apps using Github Actions.\r\n\r\n[**Setting up CI for your .NET MAUI Android app with GitHub Actions**](https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-android-app-with-github-actions/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "wu1d4em",
+              "title": "**Setting up CI for your .NET MAUI Android app with GitHub Actions**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-android-app-with-github-actions/"
+            },
+            {
+              "identifier": "T2xGEy9",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "w22RMPq",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #47",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-47",
+          "description": "<p>A wrap up of the weekly MAUI news with Sam Basu.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-47\"><strong>Sands of MAUI: Issue #47</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "A wrap up of the weekly MAUI news with Sam Basu.\r\n\r\n[**Sands of MAUI: Issue #47**](https://www.telerik.com/blogs/sands-maui-issue-47) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "yGuBGwH",
+              "title": "**Sands of MAUI: Issue #47**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-47"
+            },
+            {
+              "identifier": "hhXOTV8",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "dQUpSC7",
+          "type": "Link",
+          "title": "Configuring Life Cycle Events in .NET MAUI Apps",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/configuring-life-cycle-events-in-net-maui-apps.aspx",
+          "description": "<p>Managing app life cycle events is one of the most common requirements when developing an application. Likewise, it’s necessary to handle the app life cycle in a cross-platform application like a .NET Multi-platform App UI (MAUI) app to make it more efficient.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/configuring-life-cycle-events-in-net-maui-apps.aspx\"><strong>Configuring Life Cycle Events in .NET MAUI Apps</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "Managing app life cycle events is one of the most common requirements when developing an application. Likewise, it’s necessary to handle the app life cycle in a cross-platform application like a .NET Multi-platform App UI (MAUI) app to make it more efficient.\r\n\r\n[**Configuring Life Cycle Events in .NET MAUI Apps**](https://www.syncfusion.com/blogs/post/configuring-life-cycle-events-in-net-maui-apps.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)",
+          "embedded_links": [
+            {
+              "identifier": "4ZGkRQa",
+              "title": "**Configuring Life Cycle Events in .NET MAUI Apps**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/configuring-life-cycle-events-in-net-maui-apps.aspx"
+            },
+            {
+              "identifier": "fs6WYOe",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        },
+        {
+          "identifier": "i5KYiHv",
+          "type": "Link",
+          "title": "Syncfusion .NET MAUI 2022 Roadmap",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/syncfusion-net-maui-2022-roadmap.aspx",
+          "description": "<p>This explains the Syncfusion strategy and commitments toward the .NET MAUI platform.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/syncfusion-net-maui-2022-roadmap.aspx\"><strong>Syncfusion .NET MAUI 2022 Roadmap</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "This explains the Syncfusion strategy and commitments toward the .NET MAUI platform.\r\n\r\n[**Syncfusion .NET MAUI 2022 Roadmap**](https://www.syncfusion.com/blogs/post/syncfusion-net-maui-2022-roadmap.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)",
+          "embedded_links": [
+            {
+              "identifier": "1ZNxyDj",
+              "title": "**Syncfusion .NET MAUI 2022 Roadmap**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/syncfusion-net-maui-2022-roadmap.aspx"
+            },
+            {
+              "identifier": "1Xmv31r",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "6trzDtX",
+          "type": "Link",
+          "title": "Merge Conflict: 296: NSUrl, Security Scope, &amp; Bookmarks ",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/296",
+          "description": "<p>Who doesn't love security? Who doesn't love security inside of the app sandbox?!?! We break down file-access and all of its complexity when building sandboxed apps for iOS, macOS, Android, and Windows!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/296\"><strong>Merge Conflict: 296: NSUrl, Security Scope, &amp; Bookmarks </strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Who doesn't love security? Who doesn't love security inside of the app sandbox?!?! We break down file-access and all of its complexity when building sandboxed apps for iOS, macOS, Android, and Windows!\r\n\r\n[**Merge Conflict: 296: NSUrl, Security Scope, &amp; Bookmarks **](https://www.mergeconflict.fm/296) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "HmOsoye",
+              "title": "**Merge Conflict: 296: NSUrl, Security Scope, &amp; Bookmarks **",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/296"
+            },
+            {
+              "identifier": "O42vMF8",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "7ZcCHJn",
+          "type": "Link",
+          "title": "Never write MVVM boilerplate code again! MVVM source generators are here!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=aCxl0z04BN8",
+          "description": "<p>Imagine a world where you never had to raise another property changed event or write another IComand. Well, those days are here with the new .NET Community Toolkit, which introduces brand new source generators and helper classes to enable you to write super minimal code.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=aCxl0z04BN8\"><strong>Never write MVVM boilerplate code again! MVVM source generators are here!</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Imagine a world where you never had to raise another property changed event or write another IComand. Well, those days are here with the new .NET Community Toolkit, which introduces brand new source generators and helper classes to enable you to write super minimal code.\r\n\r\n[**Never write MVVM boilerplate code again! MVVM source generators are here!**](https://www.youtube.com/watch?v=aCxl0z04BN8) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "27tFYzy",
+              "title": "**Never write MVVM boilerplate code again! MVVM source generators are here!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=aCxl0z04BN8"
+            },
+            {
+              "identifier": "GL35sM8",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "2RM52Al",
+          "type": "Link",
+          "title": "How To Use an Existing SQLite Database with Xamarin and .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=ftDq-leq5OM",
+          "description": "<p>You might want to supply a prebuilt SQLite db file with your app but you're wondering how to do that. Say no more! In this video we will learn how to add the SQLite database file to your app, copy it to the device and actually use it to query data.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=ftDq-leq5OM\"><strong>How To Use an Existing SQLite Database with Xamarin and .NET MAUI</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "You might want to supply a prebuilt SQLite db file with your app but you're wondering how to do that. Say no more! In this video we will learn how to add the SQLite database file to your app, copy it to the device and actually use it to query data.\r\n\r\n[**How To Use an Existing SQLite Database with Xamarin and .NET MAUI**](https://www.youtube.com/watch?v=ftDq-leq5OM) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "XEyT9qk",
+              "title": "**How To Use an Existing SQLite Database with Xamarin and .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=ftDq-leq5OM"
+            },
+            {
+              "identifier": "WKEnb1R",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "dIdPBsm",
+          "type": "Link",
+          "title": ".NET MAUI Preview 13, Just In Time Before Preview 14",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=8FbvM9PowJ8",
+          "description": "<p>More cool features coming to .NET MAUI with Preview 13. What about more performance gains? Or more Docs? And, more features in the controls to work with! In this video I'll give you an overview but also show you what to look out for when migrating between .NET MAUI preview versions.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=8FbvM9PowJ8\"><strong>.NET MAUI Preview 13, Just In Time Before Preview 14</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "More cool features coming to .NET MAUI with Preview 13. What about more performance gains? Or more Docs? And, more features in the controls to work with! In this video I'll give you an overview but also show you what to look out for when migrating between .NET MAUI preview versions.\r\n\r\n[**.NET MAUI Preview 13, Just In Time Before Preview 14**](https://www.youtube.com/watch?v=8FbvM9PowJ8) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "Bpml1rO",
+              "title": "**.NET MAUI Preview 13, Just In Time Before Preview 14**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=8FbvM9PowJ8"
+            },
+            {
+              "identifier": "LNKWnNR",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "lNfJpdR",
+          "type": "Link",
+          "title": "The .NET MAUI Podcast Episode 108: Buddy App",
+          "url_domain": "dotnetmauipodcast.com",
+          "url": "https://www.dotnetmauipodcast.com/108",
+          "description": "<p>Another customer success story - this time a Xamarin app that helps those in the construction industry with mental health.</p>\n\n<p><a href=\"https://www.dotnetmauipodcast.com/108\"><strong>The .NET MAUI Podcast Episode 108: Buddy App</strong></a> by <a href=\"https://www.dotnetmauipodcast.com/\">.NET MAUI Podcast</a></p>",
+          "description_markdown": "Another customer success story - this time a Xamarin app that helps those in the construction industry with mental health.\r\n\r\n[**The .NET MAUI Podcast Episode 108: Buddy App**](https://www.dotnetmauipodcast.com/108) by [.NET MAUI Podcast](https://www.dotnetmauipodcast.com/)",
+          "embedded_links": [
+            {
+              "identifier": "p5acF7k",
+              "title": "**The .NET MAUI Podcast Episode 108: Buddy App**",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/108"
+            },
+            {
+              "identifier": "iu1OqHn",
+              "title": ".NET MAUI Podcast",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

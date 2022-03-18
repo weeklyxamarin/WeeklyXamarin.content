@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "342",
+      "Name": "Issue 342",
+      "UpdatedTimeStamp": "2022-03-12T04:39:25Z",
+      "Summary": "XAML Styler, UI Designs, CI with Github Actions!",
+      "PublishDate": "2022-03-12T04:39:22Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "341",
       "Name": "Issue 341",
       "UpdatedTimeStamp": "2022-03-04T02:27:17Z",

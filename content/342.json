@@ -1,0 +1,137 @@
+{
+  "Id": "342",
+  "Name": "Issue 342",
+  "UpdatedTimeStamp": "2022-03-12T04:39:25Z",
+  "Summary": "XAML Styler, UI Designs, CI with Github Actions!",
+  "Introduction": "G'day everyone, welcome to issue #342 of Weekly Xamarin - a wrapup of the Xamarin and MAUI communities this week.  It's been quite a week and as Rhys James says \"[Genuinely humiliating to contract the novel coronavirus is March 2022. Feel like I just bought a Dreamcast.](https://twitter.com/rhysjamesy/status/1502255394500059142)\". That was my week. Looking forward to getting back into action and the next release of MAUI. ❤ Kym",
+  "PublishDate": "2022-03-12T04:39:22Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "XAML Styler",
+      "Url": "https://www.youtube.com/watch?v=S-eqInTiy7E",
+      "Description": "Dave Grochocki and Nico Vermeir show off XAML Styler, a Visual Studio extension that formats XAML source code based on a set of styling rules.",
+      "EditionId": "342",
+      "Author": "Microsoft Developer",
+      "Id": "342-1",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Building a mobile game in Xamarin Forms - Lottie",
+      "Url": "https://blog.bijington.com/2022/03/10/building-a-mobile-game-in-xamarin-forms-part-seven.html",
+      "Description": "Lottie is an animation library for Android and iOS that parses Adobe After Effects animations exported to JSON files with Bodymovin and renders them natively on mobile!",
+      "EditionId": "342",
+      "Author": "Shaun Lawrence",
+      "Id": "342-2",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "StateLayout with Collections in Xamarin Forms/MAUI",
+      "Url": "https://xamgirl.com/statelayout-with-collections-in-xamarin-forms-maui/",
+      "Description": "StateSquid was a plugin which allowed displaying a specific view when a page is in a specific state. It has evolved and now it’s part of the Xamarin Community Toolkit. This article covers how to use and integrate it to load data into your collections.",
+      "EditionId": "342",
+      "Author": "Charlin Agramonte",
+      "Id": "342-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Drop Shadow Effect",
+      "Url": "https://www.c-sharpcorner.com/article/adding-the-drop-shadow-effect-to-a-xamarin-forms-application/",
+      "Description": "Easy add add shadows to your Xamarin.Forms applications without using Frames, but rather using Xamarin Community Toolkit",
+      "EditionId": "342",
+      "Author": "Vicente Guzman",
+      "Id": "342-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Replicating Contact & Message UI in Xamarin Forms",
+      "Url": "https://askxammy.com/replicating-contact-message-ui-in-xamarin-forms/",
+      "Description": "This article replicates a clean messaging UI from Dribbble.",
+      "EditionId": "342",
+      "Author": "Leomaris Reyes",
+      "Id": "342-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Setting up CI for your .NET MAUI Android app with GitHub Actions",
+      "Url": "https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-android-app-with-github-actions/",
+      "Description": "How to setup CI for your .NET MAUI Android Apps using Github Actions.",
+      "EditionId": "342",
+      "Author": "Andreas Nesheim",
+      "Id": "342-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #47",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-47",
+      "Description": "A wrap up of the weekly MAUI news with Sam Basu.",
+      "EditionId": "342",
+      "Author": "Sam Basu",
+      "Id": "342-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Configuring Life Cycle Events in .NET MAUI Apps",
+      "Url": "https://www.syncfusion.com/blogs/post/configuring-life-cycle-events-in-net-maui-apps.aspx",
+      "Description": "Managing app life cycle events is one of the most common requirements when developing an application. Likewise, it’s necessary to handle the app life cycle in a cross-platform application like a .NET Multi-platform App UI (MAUI) app to make it more efficient.",
+      "EditionId": "342",
+      "Author": "Selva Ganapathy Kathiresan",
+      "Id": "342-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Syncfusion .NET MAUI 2022 Roadmap",
+      "Url": "https://www.syncfusion.com/blogs/post/syncfusion-net-maui-2022-roadmap.aspx",
+      "Description": "This explains the Syncfusion strategy and commitments toward the .NET MAUI platform.",
+      "EditionId": "342",
+      "Author": "Selva Ganapathy Kathiresan",
+      "Id": "342-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Merge Conflict: 296: NSUrl, Security Scope, &amp; Bookmarks ",
+      "Url": "https://www.mergeconflict.fm/296",
+      "Description": "Who doesn't love security? Who doesn't love security inside of the app sandbox?!?! We break down file-access and all of its complexity when building sandboxed apps for iOS, macOS, Android, and Windows!",
+      "EditionId": "342",
+      "Author": "Merge Conflict",
+      "Id": "342-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Never write MVVM boilerplate code again! MVVM source generators are here!",
+      "Url": "https://www.youtube.com/watch?v=aCxl0z04BN8",
+      "Description": "Imagine a world where you never had to raise another property changed event or write another IComand. Well, those days are here with the new .NET Community Toolkit, which introduces brand new source generators and helper classes to enable you to write super minimal code.",
+      "EditionId": "342",
+      "Author": "James Montemagno",
+      "Id": "342-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "How To Use an Existing SQLite Database with Xamarin and .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=ftDq-leq5OM",
+      "Description": "You might want to supply a prebuilt SQLite db file with your app but you're wondering how to do that. Say no more! In this video we will learn how to add the SQLite database file to your app, copy it to the device and actually use it to query data.",
+      "EditionId": "342",
+      "Author": "Gerald Versluis",
+      "Id": "342-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Preview 13, Just In Time Before Preview 14",
+      "Url": "https://www.youtube.com/watch?v=8FbvM9PowJ8",
+      "Description": "More cool features coming to .NET MAUI with Preview 13. What about more performance gains? Or more Docs? And, more features in the controls to work with! In this video I'll give you an overview but also show you what to look out for when migrating between .NET MAUI preview versions.",
+      "EditionId": "342",
+      "Author": "Gerald Versluis",
+      "Id": "342-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "The .NET MAUI Podcast Episode 108: Buddy App",
+      "Url": "https://www.dotnetmauipodcast.com/108",
+      "Description": "Another customer success story - this time a Xamarin app that helps those in the construction industry with mental health.",
+      "EditionId": "342",
+      "Author": ".NET MAUI Podcast",
+      "Id": "342-14",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
