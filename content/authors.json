@@ -1268,6 +1268,12 @@
       "Website": "https://www.ionixjunior.com.br"
     },
     {
+      "Name": "Iris Lješnjanin",
+      "TwitterHandle": "smash_it_on",
+      "Id": "b011971e-ca1c-4c00-965c-8c32103cfedf",
+      "Aliases": []
+    },
+    {
       "Name": "Israel Soto",
       "Id": "07876fad-6d14-4248-9c50-359681ec8094",
       "Aliases": [
@@ -2070,6 +2076,12 @@
       "GitHubHandle": "mfractor",
       "Id": "ebf8f8dc-b400-4ac4-9545-9d0af37ab0c4",
       "Website": "https://www.mfractor.com/"
+    },
+    {
+      "Name": "Michael Amundsen",
+      "TwitterHandle": "Cordavi",
+      "Id": "b9c98096-7b7a-4908-9a08-e03e5add36c3",
+      "Aliases": []
     },
     {
       "Name": "Michael Dimoudis",

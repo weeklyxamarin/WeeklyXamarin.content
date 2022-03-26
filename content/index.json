@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "344",
+      "Name": "Issue 344",
+      "UpdatedTimeStamp": "2022-03-26T23:37:42Z",
+      "Summary": "All About SVGs and Apps built with MAUI!",
+      "PublishDate": "2022-03-26T23:37:37Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "343",
       "Name": "Issue 343",
       "UpdatedTimeStamp": "2022-03-18T08:56:17Z",

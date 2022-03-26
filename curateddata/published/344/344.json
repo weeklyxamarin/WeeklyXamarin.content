@@ -1,0 +1,343 @@
+{
+  "number": 344,
+  "title": "Issue 344",
+  "summary": "All About SVGs and Apps built with MAUI!",
+  "url": "https://weeklyxamarin.com/issues/344",
+  "publication_status": "published",
+  "published_at": "2022-03-26T23:37:37+00:00",
+  "updated_at": "2022-03-26T23:37:42+00:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #344 of Weekly Xamarin - a wrap-up of the community articles around  Xamarin and MAUI communities this week.</p>\n\n<p>Some great design articles this week as well as more articles about apps built with MAUI. The future is looking bright.</p>\n\n<p>Have a great week everyone</p>\n\n<p>♥️</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #344 of Weekly Xamarin - a wrap-up of the community articles around  Xamarin and MAUI communities this week.\r\n\r\nSome great design articles this week as well as more articles about apps built with MAUI. The future is looking bright.\r\n\r\nHave a great week everyone\r\n\r\n♥️\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "jdmDDQy",
+          "type": "Link",
+          "title": "SVG Generators",
+          "url_domain": "smashingmagazine.com",
+          "url": "https://www.smashingmagazine.com/2021/03/svg-generators/",
+          "description": "<p>A complete guide to SVG generators: everything from SVG shapes and cropping tools to SVG filters, color matrix mixers and SVG to JSX generators. Given how easy it is to work with SVGs in MAUI this could be a useful resource.</p>\n\n<p><a href=\"https://www.smashingmagazine.com/2021/03/svg-generators/\"><strong>SVG Generators</strong></a> by <a href=\"https://twitter.com/smash_it_on\">Iris Lješnjanin</a></p>",
+          "description_markdown": "A complete guide to SVG generators: everything from SVG shapes and cropping tools to SVG filters, color matrix mixers and SVG to JSX generators. Given how easy it is to work with SVGs in MAUI this could be a useful resource.\r\n\r\n[**SVG Generators**](https://www.smashingmagazine.com/2021/03/svg-generators/) by [Iris Lješnjanin](https://twitter.com/smash_it_on)",
+          "embedded_links": [
+            {
+              "identifier": "6l6c0Tk",
+              "title": "**SVG Generators**",
+              "url_domain": "smashingmagazine.com",
+              "url": "https://www.smashingmagazine.com/2021/03/svg-generators/"
+            },
+            {
+              "identifier": "swnwIJ3",
+              "title": "Iris Lješnjanin",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/smash_it_on"
+            }
+          ]
+        },
+        {
+          "identifier": "f5zfWkR",
+          "type": "Link",
+          "title": "Every Screen in Your App Should Be a Scrolling View",
+          "url_domain": "lickability.com",
+          "url": "https://lickability.com/blog/every-screen-in-your-app-should-be-a-scrolling-view",
+          "description": "<p>This is not technically a Xamarin article, but it is a good discussion of design decisions in your UI hierarchy especially in regard to creating responsive UIs.</p>\n\n<p><a href=\"https://lickability.com/blog/every-screen-in-your-app-should-be-a-scrolling-view\"><strong>Every Screen in Your App Should Be a Scrolling View</strong></a> by <a href=\"https://twitter.com/Cordavi\">Michael Amundsen</a></p>",
+          "description_markdown": "This is not technically a Xamarin article, but it is a good discussion of design decisions in your UI hierarchy especially in regard to creating responsive UIs. \r\n\r\n[**Every Screen in Your App Should Be a Scrolling View**](https://lickability.com/blog/every-screen-in-your-app-should-be-a-scrolling-view) by [Michael Amundsen](https://twitter.com/Cordavi)",
+          "embedded_links": [
+            {
+              "identifier": "2rZvGwu",
+              "title": "**Every Screen in Your App Should Be a Scrolling View**",
+              "url_domain": "lickability.com",
+              "url": "https://lickability.com/blog/every-screen-in-your-app-should-be-a-scrolling-view"
+            },
+            {
+              "identifier": "WAFJ4cw",
+              "title": "Michael Amundsen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Cordavi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "3TrvnBT",
+          "type": "Link",
+          "title": "An OpenSea downloader built with .NET MAUI",
+          "url_domain": "johnnys.news",
+          "url": "https://johnnys.news/2022/03/OpenSee-an-OpenSea-downloader-built-with-NET-MAUI",
+          "description": "<p>This is an interesting discussion of building a Windows app with .NET MAUI</p>\n\n<p><a href=\"https://johnnys.news/2022/03/OpenSee-an-OpenSea-downloader-built-with-NET-MAUI\"><strong>An OpenSea downloader built with .NET MAUI</strong></a> by <a href=\"https://twitter.com/johnny_leo\">Joachim Leonfellner</a></p>",
+          "description_markdown": "This is an interesting discussion of building a Windows app with .NET MAUI\r\n\r\n[**An OpenSea downloader built with .NET MAUI**](https://johnnys.news/2022/03/OpenSee-an-OpenSea-downloader-built-with-NET-MAUI) by [Joachim Leonfellner](https://twitter.com/johnny_leo)",
+          "embedded_links": [
+            {
+              "identifier": "2M4Zq9W",
+              "title": "**An OpenSea downloader built with .NET MAUI**",
+              "url_domain": "johnnys.news",
+              "url": "https://johnnys.news/2022/03/OpenSee-an-OpenSea-downloader-built-with-NET-MAUI"
+            },
+            {
+              "identifier": "RQMtK1j",
+              "title": "Joachim Leonfellner",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/johnny_leo"
+            }
+          ]
+        },
+        {
+          "identifier": "YBAHQCI",
+          "type": "Link",
+          "title": "Crypto Tracker App With Telerik .NET MAUI Controls",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/build-cross-platform-crypto-app-telerik-ui-for-net-maui-part-2",
+          "description": "<p>A real use-case sample crypto application that tracks the cryptocurrency market build with Telerik .NET MAUI</p>\n\n<p><a href=\"https://www.telerik.com/blogs/build-cross-platform-crypto-app-telerik-ui-for-net-maui-part-2\"><strong>Crypto Tracker App With Telerik .NET MAUI Controls</strong></a> by <a href=\"https://www.telerik.com/blogs/author/deyan-terziyski\">Deyan Terziyski</a></p>",
+          "description_markdown": "A real use-case sample crypto application that tracks the cryptocurrency market build with Telerik .NET MAUI\r\n\r\n[**Crypto Tracker App With Telerik .NET MAUI Controls**](https://www.telerik.com/blogs/build-cross-platform-crypto-app-telerik-ui-for-net-maui-part-2) by [Deyan Terziyski](https://www.telerik.com/blogs/author/deyan-terziyski)",
+          "embedded_links": [
+            {
+              "identifier": "iOiKb3l",
+              "title": "**Crypto Tracker App With Telerik .NET MAUI Controls**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/build-cross-platform-crypto-app-telerik-ui-for-net-maui-part-2"
+            },
+            {
+              "identifier": "qrPDB9K",
+              "title": "Deyan Terziyski",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/author/deyan-terziyski"
+            }
+          ]
+        },
+        {
+          "identifier": "OwjLU93",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #49",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-49",
+          "description": "<p>Sam covers the weeks news in Maui</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-49\"><strong>Sands of MAUI: Issue #49</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam covers the weeks news in Maui\r\n\r\n[**Sands of MAUI: Issue #49**](https://www.telerik.com/blogs/sands-maui-issue-49) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "Czwr09J",
+              "title": "**Sands of MAUI: Issue #49**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-49"
+            },
+            {
+              "identifier": "9hL5kMO",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "dXUoVVj",
+          "type": "Link",
+          "title": "How to Add an Alert Notification UI to Your .NET MAUI App",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/how-to-add-an-alert-notification-ui-to-your-net-maui-app.aspx",
+          "description": "<p>This blog covers the use case scenarios for the alert notification UI and how to add it to your app using the Syncfusion .NET MAUI Badge View control.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/how-to-add-an-alert-notification-ui-to-your-net-maui-app.aspx\"><strong>How to Add an Alert Notification UI to Your .NET MAUI App</strong></a> by <a href=\"\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "This blog covers the use case scenarios for the alert notification UI and how to add it to your app using the Syncfusion .NET MAUI Badge View control.\r\n\r\n[**How to Add an Alert Notification UI to Your .NET MAUI App**](https://www.syncfusion.com/blogs/post/how-to-add-an-alert-notification-ui-to-your-net-maui-app.aspx) by [Selva Ganapathy Kathiresan]()",
+          "embedded_links": [
+            {
+              "identifier": "81jGOGF",
+              "title": "**How to Add an Alert Notification UI to Your .NET MAUI App**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/how-to-add-an-alert-notification-ui-to-your-net-maui-app.aspx"
+            }
+          ]
+        },
+        {
+          "identifier": "i0Xtevi",
+          "type": "Link",
+          "title": "Creating a Menu Bar UI with .NET MAUI Preview 14",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/creating-a-menu-bar-ui-with-net-maui-preview-14.aspx",
+          "description": "<p>This blog covers creating a photo viewer and editor .NET MAUI desktop application and integrate the menu bar in it.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/creating-a-menu-bar-ui-with-net-maui-preview-14.aspx\"><strong>Creating a Menu Bar UI with .NET MAUI Preview 14</strong></a> by <a href=\"\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "This blog covers creating a photo viewer and editor .NET MAUI desktop application and integrate the menu bar in it.\r\n\r\n[**Creating a Menu Bar UI with .NET MAUI Preview 14**](https://www.syncfusion.com/blogs/post/creating-a-menu-bar-ui-with-net-maui-preview-14.aspx) by [Selva Ganapathy Kathiresan]()",
+          "embedded_links": [
+            {
+              "identifier": "bfP7XaS",
+              "title": "**Creating a Menu Bar UI with .NET MAUI Preview 14**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/creating-a-menu-bar-ui-with-net-maui-preview-14.aspx"
+            }
+          ]
+        },
+        {
+          "identifier": "S5UinvB",
+          "type": "Link",
+          "title": "The easiest and best MVVM toolkit also for .NET MAUI",
+          "url_domain": "banditoth.hu",
+          "url": "https://www.banditoth.hu/2022/03/19/the-easiest-and-best-mvvm-toolkit-also-for-net-maui/",
+          "description": "<p>András get's excited about CommunityToolkit.Mvvm, which is understandable because it's pretty cool.</p>\n\n<p><a href=\"https://www.banditoth.hu/2022/03/19/the-easiest-and-best-mvvm-toolkit-also-for-net-maui/\"><strong>The easiest and best MVVM toolkit also for .NET MAUI</strong></a> by <a href=\"\">András Tóth</a></p>",
+          "description_markdown": "András get's excited about CommunityToolkit.Mvvm, which is understandable because it's pretty cool.\r\n\r\n[**The easiest and best MVVM toolkit also for .NET MAUI**](https://www.banditoth.hu/2022/03/19/the-easiest-and-best-mvvm-toolkit-also-for-net-maui/) by [András Tóth]()",
+          "embedded_links": [
+            {
+              "identifier": "LKKxkqq",
+              "title": "**The easiest and best MVVM toolkit also for .NET MAUI**",
+              "url_domain": "banditoth.hu",
+              "url": "https://www.banditoth.hu/2022/03/19/the-easiest-and-best-mvvm-toolkit-also-for-net-maui/"
+            }
+          ]
+        },
+        {
+          "identifier": "ZNACYAJ",
+          "type": "Link",
+          "title": "The Application Can't Be Opened on MacOS with .NET MAUI",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/maui/application-cant-be-opened-macos/",
+          "description": "<p>Having trouble opening \"app\" files on macOS? Check out this post to see what might be wrong and how you can fix it</p>\n\n<p><a href=\"https://blog.verslu.is/maui/application-cant-be-opened-macos/\"><strong>The Application Can't Be Opened on MacOS with .NET MAUI</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Having trouble opening \"app\" files on macOS? Check out this post to see what might be wrong and how you can fix it\r\n\r\n[**The Application Can't Be Opened on MacOS with .NET MAUI**](https://blog.verslu.is/maui/application-cant-be-opened-macos/) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "nBud1L7",
+              "title": "**The Application Can't Be Opened on MacOS with .NET MAUI**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/maui/application-cant-be-opened-macos/"
+            },
+            {
+              "identifier": "wjuaB8R",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "9eAnghi",
+          "type": "Link",
+          "title": "Using .NET MAUI Community Toolkit",
+          "url_domain": "codetraveler.io",
+          "url": "https://codetraveler.io/using-net-maui-community-toolkit/",
+          "description": "<p>The .NET Community Toolkit recently debuted. Let's take a look at how to use some of it's features, and how we can contribute more!</p>\n\n<p><a href=\"https://codetraveler.io/using-net-maui-community-toolkit/\"><strong>Using .NET MAUI Community Toolkit</strong></a> by <a href=\"https://twitter.com/TheCodeTraveler\">Brandon Minnick</a></p>",
+          "description_markdown": "The .NET Community Toolkit recently debuted. Let's take a look at how to use some of it's features, and how we can contribute more!\r\n\r\n[**Using .NET MAUI Community Toolkit**](https://codetraveler.io/using-net-maui-community-toolkit/) by [Brandon Minnick](https://twitter.com/TheCodeTraveler)",
+          "embedded_links": [
+            {
+              "identifier": "ZqfWwSn",
+              "title": "Brandon Minnick",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/TheCodeTraveler"
+            },
+            {
+              "identifier": "UBljZHK",
+              "title": "**Using .NET MAUI Community Toolkit**",
+              "url_domain": "codetraveler.io",
+              "url": "https://codetraveler.io/using-net-maui-community-toolkit/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "4c2uYq2",
+          "type": "Link",
+          "title": "The .NET MAUI Podcast Episode 109: .NET MAUI (preview 14) is Released!",
+          "url_domain": "dotnetmauipodcast.com",
+          "url": "https://www.dotnetmauipodcast.com/109",
+          "description": "<p>Another month, another step closer to the .NET MAUI GA! Join James, David and Matt to hear about the latest bits being added to .NET MAUI.</p>\n\n<p><a href=\"https://www.dotnetmauipodcast.com/109\"><strong>The .NET MAUI Podcast Episode 109: .NET MAUI (preview 14) is Released!</strong></a> by <a href=\"\">.NET MAUI Podcast</a></p>",
+          "description_markdown": "Another month, another step closer to the .NET MAUI GA! Join James, David and Matt to hear about the latest bits being added to .NET MAUI.\r\n\r\n[**The .NET MAUI Podcast Episode 109: .NET MAUI (preview 14) is Released!**](https://www.dotnetmauipodcast.com/109) by [.NET MAUI Podcast]()",
+          "embedded_links": [
+            {
+              "identifier": "J3QQGQs",
+              "title": "**The .NET MAUI Podcast Episode 109: .NET MAUI (preview 14) is Released!**",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/109"
+            }
+          ]
+        },
+        {
+          "identifier": "sRn1KCl",
+          "type": "Link",
+          "title": "DevTalk 79: The state of mobile development. With Mohsen Ramezanpoor",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-79-mohsen-ramezanpoor/",
+          "description": "<p>On this episode of DevTalk Kerry Speaks to Mohsen Ramezanpoor about the state of mobile development.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-79-mohsen-ramezanpoor/\"><strong>DevTalk 79: The state of mobile development. With Mohsen Ramezanpoor</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk Kerry Speaks to Mohsen Ramezanpoor about the state of mobile development.\r\n\r\n[**DevTalk 79: The state of mobile development. With Mohsen Ramezanpoor**](https://kerry.lothrop.de/devtalk-79-mohsen-ramezanpoor/) by [Kerry Lothrop](https://twitter.com/kwlothrop)",
+          "embedded_links": [
+            {
+              "identifier": "vPVMaZ7",
+              "title": "**DevTalk 79: The state of mobile development. With Mohsen Ramezanpoor**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-79-mohsen-ramezanpoor/"
+            },
+            {
+              "identifier": "BUicHrG",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        },
+        {
+          "identifier": "lFxN90b",
+          "type": "Link",
+          "title": "Merge Conflict: 298: The Great M1 Conspiracy",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/298",
+          "description": "<p>Frank has a grand conspiracy theory when it comes to what is going on with the M1 Ultra and M2. We discuss why they glued two chips together.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/298\"><strong>Merge Conflict: 298: The Great M1 Conspiracy</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Frank has a grand conspiracy theory when it comes to what is going on with the M1 Ultra and M2. We discuss why they glued two chips together.\r\n\r\n[**Merge Conflict: 298: The Great M1 Conspiracy**](https://www.mergeconflict.fm/298) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "srS6MDV",
+              "title": "**Merge Conflict: 298: The Great M1 Conspiracy**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/298"
+            },
+            {
+              "identifier": "RLtHlsj",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "GZun5nK",
+          "type": "Link",
+          "title": "Multi-Language Apps with .NET MAUI Blazor Localization",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=EHoO9hG-Uzo",
+          "description": "<p>Localization is a great way to let your app reach a broader audience and be more inclusive! In this video we will learn how to add localization to your .NET MAUI Blazor app with Microsoft.Extensions.Localization. With the help of the IStringLocalizer and resx files we will see how to add translations for different languages to our app in minutes!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=EHoO9hG-Uzo\"><strong>Multi-Language Apps with .NET MAUI Blazor Localization</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Localization is a great way to let your app reach a broader audience and be more inclusive! In this video we will learn how to add localization to your .NET MAUI Blazor app with Microsoft.Extensions.Localization. With the help of the IStringLocalizer and resx files we will see how to add translations for different languages to our app in minutes!\r\n\r\n[**Multi-Language Apps with .NET MAUI Blazor Localization**](https://www.youtube.com/watch?v=EHoO9hG-Uzo) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "EH9PWuj",
+              "title": "**Multi-Language Apps with .NET MAUI Blazor Localization**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=EHoO9hG-Uzo"
+            },
+            {
+              "identifier": "9ZwtqVM",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

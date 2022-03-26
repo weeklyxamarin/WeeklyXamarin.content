@@ -1,0 +1,133 @@
+{
+  "Id": "344",
+  "Name": "Issue 344",
+  "UpdatedTimeStamp": "2022-03-26T23:37:42Z",
+  "Summary": "All About SVGs and Apps built with MAUI!",
+  "Introduction": "G'day everyone, welcome to issue #344 of Weekly Xamarin - a wrap-up of the community articles around  Xamarin and MAUI communities this week. Some great design articles this week as well as more articles about apps built with MAUI. The future is looking bright. Have a great week everyone ♥️ Kym",
+  "PublishDate": "2022-03-26T23:37:37Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "SVG Generators",
+      "Url": "https://www.smashingmagazine.com/2021/03/svg-generators/",
+      "Description": "A complete guide to SVG generators: everything from SVG shapes and cropping tools to SVG filters, color matrix mixers and SVG to JSX generators. Given how easy it is to work with SVGs in MAUI this could be a useful resource.",
+      "EditionId": "344",
+      "Author": "Iris Lješnjanin",
+      "Id": "344-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Every Screen in Your App Should Be a Scrolling View",
+      "Url": "https://lickability.com/blog/every-screen-in-your-app-should-be-a-scrolling-view",
+      "Description": "This is not technically a Xamarin article, but it is a good discussion of design decisions in your UI hierarchy especially in regard to creating responsive UIs.",
+      "EditionId": "344",
+      "Author": "Michael Amundsen",
+      "Id": "344-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "An OpenSea downloader built with .NET MAUI",
+      "Url": "https://johnnys.news/2022/03/OpenSee-an-OpenSea-downloader-built-with-NET-MAUI",
+      "Description": "This is an interesting discussion of building a Windows app with .NET MAUI",
+      "EditionId": "344",
+      "Author": "Joachim Leonfellner",
+      "Id": "344-3",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Crypto Tracker App With Telerik .NET MAUI Controls",
+      "Url": "https://www.telerik.com/blogs/build-cross-platform-crypto-app-telerik-ui-for-net-maui-part-2",
+      "Description": "A real use-case sample crypto application that tracks the cryptocurrency market build with Telerik .NET MAUI",
+      "EditionId": "344",
+      "Author": "Deyan Terziyski",
+      "Id": "344-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #49",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-49",
+      "Description": "Sam covers the weeks news in Maui",
+      "EditionId": "344",
+      "Author": "Sam Basu",
+      "Id": "344-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "How to Add an Alert Notification UI to Your .NET MAUI App",
+      "Url": "https://www.syncfusion.com/blogs/post/how-to-add-an-alert-notification-ui-to-your-net-maui-app.aspx",
+      "Description": "This blog covers the use case scenarios for the alert notification UI and how to add it to your app using the Syncfusion .NET MAUI Badge View control.",
+      "EditionId": "344",
+      "Id": "344-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Creating a Menu Bar UI with .NET MAUI Preview 14",
+      "Url": "https://www.syncfusion.com/blogs/post/creating-a-menu-bar-ui-with-net-maui-preview-14.aspx",
+      "Description": "This blog covers creating a photo viewer and editor .NET MAUI desktop application and integrate the menu bar in it.",
+      "EditionId": "344",
+      "Id": "344-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "The easiest and best MVVM toolkit also for .NET MAUI",
+      "Url": "https://www.banditoth.hu/2022/03/19/the-easiest-and-best-mvvm-toolkit-also-for-net-maui/",
+      "Description": "András get's excited about CommunityToolkit.Mvvm, which is understandable because it's pretty cool.",
+      "EditionId": "344",
+      "Id": "344-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "The Application Can't Be Opened on MacOS with .NET MAUI",
+      "Url": "https://blog.verslu.is/maui/application-cant-be-opened-macos/",
+      "Description": "Having trouble opening \"app\" files on macOS? Check out this post to see what might be wrong and how you can fix it",
+      "EditionId": "344",
+      "Author": "Gerald Versluis",
+      "Id": "344-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Using .NET MAUI Community Toolkit",
+      "Url": "https://codetraveler.io/using-net-maui-community-toolkit/",
+      "Description": "The .NET Community Toolkit recently debuted. Let's take a look at how to use some of it's features, and how we can contribute more!",
+      "EditionId": "344",
+      "Author": "Brandon Minnick",
+      "Id": "344-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "The .NET MAUI Podcast Episode 109: .NET MAUI (preview 14) is Released!",
+      "Url": "https://www.dotnetmauipodcast.com/109",
+      "Description": "Another month, another step closer to the .NET MAUI GA! Join James, David and Matt to hear about the latest bits being added to .NET MAUI.",
+      "EditionId": "344",
+      "Id": "344-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 79: The state of mobile development. With Mohsen Ramezanpoor",
+      "Url": "https://kerry.lothrop.de/devtalk-79-mohsen-ramezanpoor/",
+      "Description": "On this episode of DevTalk Kerry Speaks to Mohsen Ramezanpoor about the state of mobile development.",
+      "EditionId": "344",
+      "Author": "Kerry Lothrop",
+      "Id": "344-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 298: The Great M1 Conspiracy",
+      "Url": "https://www.mergeconflict.fm/298",
+      "Description": "Frank has a grand conspiracy theory when it comes to what is going on with the M1 Ultra and M2. We discuss why they glued two chips together.",
+      "EditionId": "344",
+      "Author": "Merge Conflict",
+      "Id": "344-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Multi-Language Apps with .NET MAUI Blazor Localization",
+      "Url": "https://www.youtube.com/watch?v=EHoO9hG-Uzo",
+      "Description": "Localization is a great way to let your app reach a broader audience and be more inclusive! In this video we will learn how to add localization to your .NET MAUI Blazor app with Microsoft.Extensions.Localization. With the help of the IStringLocalizer and resx files we will see how to add translations for different languages to our app in minutes!",
+      "EditionId": "344",
+      "Author": "Gerald Versluis",
+      "Id": "344-14",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
