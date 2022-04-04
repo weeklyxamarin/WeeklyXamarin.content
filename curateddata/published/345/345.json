@@ -1,0 +1,327 @@
+{
+  "number": 345,
+  "title": "Issue 345",
+  "summary": "You need to check out this MAUI workshop!",
+  "url": "https://weeklyxamarin.com/issues/345",
+  "publication_status": "published",
+  "published_at": "2022-04-04T01:58:26+01:00",
+  "updated_at": "2022-04-04T01:58:32+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #345 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.</p>\n\n<p>It is a fairly slow week in news, but maybe that's because we are so close to a GA release of Maui. Speaking of MAUI and releases, there is a link to a full day self-paced MAUI workshop in this weeks edition, which you should check out.</p>\n\n<p>Have a great week everyone.</p>\n\n<p>❤</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #345 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.\r\n\r\nIt is a fairly slow week in news, but maybe that's because we are so close to a GA release of Maui. Speaking of MAUI and releases, there is a link to a full day self-paced MAUI workshop in this weeks edition, which you should check out.\r\n\r\nHave a great week everyone.\r\n\r\n❤\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "gettingstarted",
+      "name": "GETTING STARTED",
+      "items": [
+        {
+          "identifier": "2RjpOvy",
+          "type": "Link",
+          "title": "Open-source .NET MAUI Workshop - Multi-platform apps with C#",
+          "url_domain": "dev.to",
+          "url": "https://dev.to/dotnet/open-source-net-maui-workshop-multi-platform-apps-with-c-nle",
+          "description": "<p>This full day workshop walks through everything .NET MAUI and has you building a full application from scratch that grabs and displays information from web API, navigates to details, and adds native platform features.</p>\n\n<p><a href=\"https://dev.to/dotnet/open-source-net-maui-workshop-multi-platform-apps-with-c-nle\"><strong>Open-source .NET MAUI Workshop - Multi-platform apps with C#</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This full day workshop walks through everything .NET MAUI and has you building a full application from scratch that grabs and displays information from web API, navigates to details, and adds native platform features.\r\n\r\n[**Open-source .NET MAUI Workshop - Multi-platform apps with C#**](https://dev.to/dotnet/open-source-net-maui-workshop-multi-platform-apps-with-c-nle) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "RQ6RI1s",
+              "title": "**Open-source .NET MAUI Workshop - Multi-platform apps with C#**",
+              "url_domain": "dev.to",
+              "url": "https://dev.to/dotnet/open-source-net-maui-workshop-multi-platform-apps-with-c-nle"
+            },
+            {
+              "identifier": "hkbKtio",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "ojSNsPR",
+          "type": "Link",
+          "title": "Getting started with Xamarin.Native vs Xamarin.Forms/MAUI for iOS & Android",
+          "url_domain": "medium.com",
+          "url": "https://prototypemakers.medium.com/getting-started-xamarin-native-vs-xamarin-forms-maui-for-ios-android-d07139737722",
+          "description": "<p>101 Tutorial on the art of Xamarin Native iOS &amp; Android</p>\n\n<p><a href=\"https://prototypemakers.medium.com/getting-started-xamarin-native-vs-xamarin-forms-maui-for-ios-android-d07139737722\"><strong>Getting started with Xamarin.Native vs Xamarin.Forms/MAUI for iOS &amp; Android</strong></a> by <a href=\"https://twitter.com/saamerm\">Saamer Mansoor</a></p>",
+          "description_markdown": "101 Tutorial on the art of Xamarin Native iOS & Android\r\n\r\n[**Getting started with Xamarin.Native vs Xamarin.Forms/MAUI for iOS & Android**](https://prototypemakers.medium.com/getting-started-xamarin-native-vs-xamarin-forms-maui-for-ios-android-d07139737722) by [Saamer Mansoor](https://twitter.com/saamerm)",
+          "embedded_links": [
+            {
+              "identifier": "yyo2Gg7",
+              "title": "**Getting started with Xamarin.Native vs Xamarin.Forms/MAUI for iOS & Android**",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com/getting-started-xamarin-native-vs-xamarin-forms-maui-for-ios-android-d07139737722"
+            },
+            {
+              "identifier": "1AKDLVh",
+              "title": "Saamer Mansoor",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/saamerm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "hODO00b",
+          "type": "Link",
+          "title": "Interactive Quick Tour in Xamarin Forms/MAUI",
+          "url_domain": "xamgirl.com",
+          "url": "https://xamgirl.com/interactive-quick-tour-in-xamarin-forms-maui/",
+          "description": "<p>A quick tour flow allows you to understand what’s an application about and how it works before using it. The most common way is by creating an Onboarding screen (Which is an independent screen that shows some instructive images on how to use the application), but that’s not the only way to do this. This article shows you how to create an interactive quick tour onboarding flow in Xamarin Forms.</p>\n\n<p><a href=\"https://xamgirl.com/interactive-quick-tour-in-xamarin-forms-maui/\"><strong>Interactive Quick Tour in Xamarin Forms/MAUI</strong></a> by <a href=\"https://twitter.com/chard003\">Charlin Agramonte</a></p>",
+          "description_markdown": "A quick tour flow allows you to understand what’s an application about and how it works before using it. The most common way is by creating an Onboarding screen (Which is an independent screen that shows some instructive images on how to use the application), but that’s not the only way to do this. This article shows you how to create an interactive quick tour onboarding flow in Xamarin Forms.\r\n\r\n[**Interactive Quick Tour in Xamarin Forms/MAUI**](https://xamgirl.com/interactive-quick-tour-in-xamarin-forms-maui/) by [Charlin Agramonte](https://twitter.com/chard003)",
+          "embedded_links": [
+            {
+              "identifier": "5qIs1zs",
+              "title": "**Interactive Quick Tour in Xamarin Forms/MAUI**",
+              "url_domain": "xamgirl.com",
+              "url": "https://xamgirl.com/interactive-quick-tour-in-xamarin-forms-maui/"
+            },
+            {
+              "identifier": "FzJs9yT",
+              "title": "Charlin Agramonte",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chard003"
+            }
+          ]
+        },
+        {
+          "identifier": "PCaColG",
+          "type": "Link",
+          "title": "Building a Task Sequence in Xamarin Forms/ MAUI (Part 1)",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2022/03/26/building-a-task-sequence-in-xamarin-forms-maui-part-1/",
+          "description": "<p>A task sequence is the concept of having a task flow that the application can run sequentially. One common scenario to use this is running several tasks while showing the splash screen. This is the first post in a series</p>\n\n<p><a href=\"https://www.xamboy.com/2022/03/26/building-a-task-sequence-in-xamarin-forms-maui-part-1/\"><strong>Building a Task Sequence in Xamarin Forms/ MAUI (Part 1)</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "A task sequence is the concept of having a task flow that the application can run sequentially. One common scenario to use this is running several tasks while showing the splash screen. This is the first post in a series\r\n\r\n[**Building a Task Sequence in Xamarin Forms/ MAUI (Part 1)**](https://www.xamboy.com/2022/03/26/building-a-task-sequence-in-xamarin-forms-maui-part-1/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "FevKUL3",
+              "title": "**Building a Task Sequence in Xamarin Forms/ MAUI (Part 1)**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2022/03/26/building-a-task-sequence-in-xamarin-forms-maui-part-1/"
+            },
+            {
+              "identifier": "eb78S8A",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "eN3kVnT",
+          "type": "Link",
+          "title": "App Actions in .NET MAUI",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/app-actions-in-net-maui/",
+          "description": "<p>This post covers implementing app actions in .NET MAUI apps.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/app-actions-in-net-maui/\"><strong>App Actions in .NET MAUI</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "This post covers implementing app actions in .NET MAUI apps.\r\n\r\n[**App Actions in .NET MAUI**](https://www.andreasnesheim.no/app-actions-in-net-maui/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "Nci2LO9",
+              "title": "**App Actions in .NET MAUI**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/app-actions-in-net-maui/"
+            },
+            {
+              "identifier": "SMP6IFW",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "FABcfya",
+          "type": "Link",
+          "title": "Xamarin MAUI: Pair to Mac M1 chip from Windows machine for iOS development using Visual Studio 2022 Preview ",
+          "url_domain": "msdevbuild.com",
+          "url": "https://www.msdevbuild.com/2022/03/Xamarin%20MAUI-Pair-to-Mac-M1-chip-from-Windows-machine-for-iOS-development-using-Visual-Studio-2022-Preview%20.html",
+          "description": "<p>This article shows how to pair to a Mac M1 Chip from windows machine for MAUI iOS app using Visual Studio 2022 preview.</p>\n\n<p><a href=\"https://www.msdevbuild.com/2022/03/Xamarin%20MAUI-Pair-to-Mac-M1-chip-from-Windows-machine-for-iOS-development-using-Visual-Studio-2022-Preview%20.html\"><strong>Xamarin MAUI: Pair to Mac M1 chip from Windows machine for iOS development using Visual Studio 2022 Preview </strong></a> by <a href=\"https://twitter.com/jssuthahar\">Suthahar Jegatheesan</a></p>",
+          "description_markdown": "This article shows how to pair to a Mac M1 Chip from windows machine for MAUI iOS app using Visual Studio 2022 preview.\r\n\r\n[**Xamarin MAUI: Pair to Mac M1 chip from Windows machine for iOS development using Visual Studio 2022 Preview **](https://www.msdevbuild.com/2022/03/Xamarin%20MAUI-Pair-to-Mac-M1-chip-from-Windows-machine-for-iOS-development-using-Visual-Studio-2022-Preview%20.html) by [Suthahar Jegatheesan](https://twitter.com/jssuthahar)",
+          "embedded_links": [
+            {
+              "identifier": "vOIYXvz",
+              "title": "**Xamarin MAUI: Pair to Mac M1 chip from Windows machine for iOS development using Visual Studio 2022 Preview **",
+              "url_domain": "msdevbuild.com",
+              "url": "https://www.msdevbuild.com/2022/03/Xamarin%20MAUI-Pair-to-Mac-M1-chip-from-Windows-machine-for-iOS-development-using-Visual-Studio-2022-Preview%20.html"
+            },
+            {
+              "identifier": "ccR0eFl",
+              "title": "Suthahar Jegatheesan",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jssuthahar"
+            }
+          ]
+        },
+        {
+          "identifier": "RMs1YWF",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #50",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-50",
+          "description": "<p>News and events around MAUI</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-50\"><strong>Sands of MAUI: Issue #50</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "News and events around MAUI\r\n\r\n[**Sands of MAUI: Issue #50**](https://www.telerik.com/blogs/sands-maui-issue-50) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "Ik0Hae9",
+              "title": "**Sands of MAUI: Issue #50**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-50"
+            },
+            {
+              "identifier": "TTLi2aD",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "security",
+      "name": "SECURITY",
+      "items": [
+        {
+          "identifier": "RBuODFU",
+          "type": "Link",
+          "title": ".NET MAUI Blazor Hybrid - Custom Authentication Implementation",
+          "url_domain": "mitchelsellers.com",
+          "url": "https://www.mitchelsellers.com/blog/article/net-maui-blazor-hybrid-custom-authentication-implementation",
+          "description": "<p>Not all projects will utilize OAuth or Azure AD, and .NET MAUI Blazor Hybrid is no different!  This post looks under the covers at how you can implement you own custom solution for authentication within MAUI Blazor and take control of your application without ripping your hair out.</p>\n\n<p><a href=\"https://www.mitchelsellers.com/blog/article/net-maui-blazor-hybrid-custom-authentication-implementation\"><strong>.NET MAUI Blazor Hybrid - Custom Authentication Implementation</strong></a> by <a href=\"https://twitter.com/mitchelsellers\">Mitchel Sellers</a></p>",
+          "description_markdown": "Not all projects will utilize OAuth or Azure AD, and .NET MAUI Blazor Hybrid is no different!  This post looks under the covers at how you can implement you own custom solution for authentication within MAUI Blazor and take control of your application without ripping your hair out.\r\n\r\n[**.NET MAUI Blazor Hybrid - Custom Authentication Implementation**](https://www.mitchelsellers.com/blog/article/net-maui-blazor-hybrid-custom-authentication-implementation) by [Mitchel Sellers](https://twitter.com/mitchelsellers)",
+          "embedded_links": [
+            {
+              "identifier": "60GcRC",
+              "title": "**.NET MAUI Blazor Hybrid - Custom Authentication Implementation**",
+              "url_domain": "mitchelsellers.com",
+              "url": "https://www.mitchelsellers.com/blog/article/net-maui-blazor-hybrid-custom-authentication-implementation"
+            },
+            {
+              "identifier": "WIMKh4m",
+              "title": "Mitchel Sellers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mitchelsellers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "idSY1pm",
+          "type": "Link",
+          "title": ".NET MAUI Blazor Switch Language In-App",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=_ZFXk3vbxwQ",
+          "description": "<p>You implemented localization on your .NET MAUI app, but are now wondering: how do I switch the language dynamically in app? This video got you covered! We will learn how to show a list of the supported languages, how to switch between the languages and how to persist the configured language with .NET MAUI Essentials.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=_ZFXk3vbxwQ\"><strong>.NET MAUI Blazor Switch Language In-App</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "You implemented localization on your .NET MAUI app, but are now wondering: how do I switch the language dynamically in app? This video got you covered! We will learn how to show a list of the supported languages, how to switch between the languages and how to persist the configured language with .NET MAUI Essentials.\r\n\r\n[**.NET MAUI Blazor Switch Language In-App**](https://www.youtube.com/watch?v=_ZFXk3vbxwQ) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "6X46IW7",
+              "title": "**.NET MAUI Blazor Switch Language In-App**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=_ZFXk3vbxwQ"
+            },
+            {
+              "identifier": "9LJdV8o",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "pF2a9YI",
+          "type": "Link",
+          "title": "Introducing the .NET Community Toolkit - MVVM, Performance, Diagnostics, & More",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=oKMZiDA9ogM",
+          "description": "<p>This week James is joined by Sergio Pedri, a software engineer on the Microsoft Store client team and contributor to the .NET Community Toolkit to talk about the most recent preview of the toolkit!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=oKMZiDA9ogM\"><strong>Introducing the .NET Community Toolkit - MVVM, Performance, Diagnostics, &amp; More</strong></a> by <a href=\"\">dotNet Youtube Channel</a></p>",
+          "description_markdown": "This week James is joined by Sergio Pedri, a software engineer on the Microsoft Store client team and contributor to the .NET Community Toolkit to talk about the most recent preview of the toolkit! \r\n\r\n[**Introducing the .NET Community Toolkit - MVVM, Performance, Diagnostics, & More**](https://www.youtube.com/watch?v=oKMZiDA9ogM) by [dotNet Youtube Channel]()",
+          "embedded_links": [
+            {
+              "identifier": "GzPSufy",
+              "title": "**Introducing the .NET Community Toolkit - MVVM, Performance, Diagnostics, & More**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=oKMZiDA9ogM"
+            }
+          ]
+        },
+        {
+          "identifier": "XuCKDjv",
+          "type": "Link",
+          "title": "Merge Conflict: 299: Databases shouldn’t allow delete",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/299",
+          "description": "<p>Frank explains to James why and how he is doing databases all wrong!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/299\"><strong>Merge Conflict: 299: Databases shouldn’t allow delete</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Frank explains to James why and how he is doing databases all wrong!\r\n\r\n[**Merge Conflict: 299: Databases shouldn’t allow delete**](https://www.mergeconflict.fm/299) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "4c74JEz",
+              "title": "**Merge Conflict: 299: Databases shouldn’t allow delete**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/299"
+            },
+            {
+              "identifier": "jqcI2tl",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "yHyMerM",
+          "type": "Link",
+          "title": "Merge Conflict #300 Live!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=LIyENBHwRX0",
+          "description": "<p>Join Frank and James LIVE for episode #300 of Merge Conflict!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=LIyENBHwRX0\"><strong>Merge Conflict #300 Live!</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Join Frank and James LIVE for episode #300 of Merge Conflict! \r\n\r\n[**Merge Conflict #300 Live!**](https://www.youtube.com/watch?v=LIyENBHwRX0) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "lPQoKr2",
+              "title": "**Merge Conflict #300 Live!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=LIyENBHwRX0"
+            },
+            {
+              "identifier": "Bd6S2Vh",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

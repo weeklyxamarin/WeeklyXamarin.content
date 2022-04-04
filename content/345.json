@@ -1,0 +1,118 @@
+{
+  "Id": "345",
+  "Name": "Issue 345",
+  "UpdatedTimeStamp": "2022-04-04T00:58:32Z",
+  "Summary": "You need to check out this MAUI workshop!",
+  "Introduction": "G'day everyone, welcome to issue #345 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week. It is a fairly slow week in news, but maybe that's because we are so close to a GA release of Maui. Speaking of MAUI and releases, there is a link to a full day self-paced MAUI workshop in this weeks edition, which you should check out. Have a great week everyone. ❤ Kym",
+  "PublishDate": "2022-04-04T00:58:26Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Open-source .NET MAUI Workshop - Multi-platform apps with C#",
+      "Url": "https://dev.to/dotnet/open-source-net-maui-workshop-multi-platform-apps-with-c-nle",
+      "Description": "This full day workshop walks through everything .NET MAUI and has you building a full application from scratch that grabs and displays information from web API, navigates to details, and adds native platform features.",
+      "EditionId": "345",
+      "Author": "James Montemagno",
+      "Id": "345-1",
+      "Category": "GETTING STARTED"
+    },
+    {
+      "Title": "Getting started with Xamarin.Native vs Xamarin.Forms/MAUI for iOS & Android",
+      "Url": "https://prototypemakers.medium.com/getting-started-xamarin-native-vs-xamarin-forms-maui-for-ios-android-d07139737722",
+      "Description": "101 Tutorial on the art of Xamarin Native iOS & Android",
+      "EditionId": "345",
+      "Author": "Saamer Mansoor",
+      "Id": "345-2",
+      "Category": "GETTING STARTED"
+    },
+    {
+      "Title": "Interactive Quick Tour in Xamarin Forms/MAUI",
+      "Url": "https://xamgirl.com/interactive-quick-tour-in-xamarin-forms-maui/",
+      "Description": "A quick tour flow allows you to understand what’s an application about and how it works before using it. The most common way is by creating an Onboarding screen (Which is an independent screen that shows some instructive images on how to use the application), but that’s not the only way to do this. This article shows you how to create an interactive quick tour onboarding flow in Xamarin Forms.",
+      "EditionId": "345",
+      "Author": "Charlin Agramonte",
+      "Id": "345-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Building a Task Sequence in Xamarin Forms/ MAUI (Part 1)",
+      "Url": "https://www.xamboy.com/2022/03/26/building-a-task-sequence-in-xamarin-forms-maui-part-1/",
+      "Description": "A task sequence is the concept of having a task flow that the application can run sequentially. One common scenario to use this is running several tasks while showing the splash screen. This is the first post in a series",
+      "EditionId": "345",
+      "Author": "Rendy Del Rosario",
+      "Id": "345-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "App Actions in .NET MAUI",
+      "Url": "https://www.andreasnesheim.no/app-actions-in-net-maui/",
+      "Description": "This post covers implementing app actions in .NET MAUI apps.",
+      "EditionId": "345",
+      "Author": "Andreas Nesheim",
+      "Id": "345-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Xamarin MAUI: Pair to Mac M1 chip from Windows machine for iOS development using Visual Studio 2022 Preview ",
+      "Url": "https://www.msdevbuild.com/2022/03/Xamarin MAUI-Pair-to-Mac-M1-chip-from-Windows-machine-for-iOS-development-using-Visual-Studio-2022-Preview .html",
+      "Description": "This article shows how to pair to a Mac M1 Chip from windows machine for MAUI iOS app using Visual Studio 2022 preview.",
+      "EditionId": "345",
+      "Author": "Suthahar Jegatheesan",
+      "Id": "345-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #50",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-50",
+      "Description": "News and events around MAUI",
+      "EditionId": "345",
+      "Author": "Sam Basu",
+      "Id": "345-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Blazor Hybrid - Custom Authentication Implementation",
+      "Url": "https://www.mitchelsellers.com/blog/article/net-maui-blazor-hybrid-custom-authentication-implementation",
+      "Description": "Not all projects will utilize OAuth or Azure AD, and .NET MAUI Blazor Hybrid is no different!  This post looks under the covers at how you can implement you own custom solution for authentication within MAUI Blazor and take control of your application without ripping your hair out.",
+      "EditionId": "345",
+      "Author": "Mitchel Sellers",
+      "Id": "345-8",
+      "Category": "SECURITY"
+    },
+    {
+      "Title": ".NET MAUI Blazor Switch Language In-App",
+      "Url": "https://www.youtube.com/watch?v=_ZFXk3vbxwQ",
+      "Description": "You implemented localization on your .NET MAUI app, but are now wondering: how do I switch the language dynamically in app? This video got you covered! We will learn how to show a list of the supported languages, how to switch between the languages and how to persist the configured language with .NET MAUI Essentials.",
+      "EditionId": "345",
+      "Author": "Gerald Versluis",
+      "Id": "345-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Introducing the .NET Community Toolkit - MVVM, Performance, Diagnostics, & More",
+      "Url": "https://www.youtube.com/watch?v=oKMZiDA9ogM",
+      "Description": "This week James is joined by Sergio Pedri, a software engineer on the Microsoft Store client team and contributor to the .NET Community Toolkit to talk about the most recent preview of the toolkit!",
+      "EditionId": "345",
+      "Id": "345-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 299: Databases shouldn’t allow delete",
+      "Url": "https://www.mergeconflict.fm/299",
+      "Description": "Frank explains to James why and how he is doing databases all wrong!",
+      "EditionId": "345",
+      "Author": "Merge Conflict",
+      "Id": "345-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict #300 Live!",
+      "Url": "https://www.youtube.com/watch?v=LIyENBHwRX0",
+      "Description": "Join Frank and James LIVE for episode #300 of Merge Conflict!",
+      "EditionId": "345",
+      "Author": "Merge Conflict",
+      "Id": "345-12",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
