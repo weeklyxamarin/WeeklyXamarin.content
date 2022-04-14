@@ -1,0 +1,327 @@
+{
+  "number": 346,
+  "title": "Issue 346",
+  "summary": "OMG. Release Candidate 1",
+  "url": "https://weeklyxamarin.com/issues/346",
+  "publication_status": "published",
+  "published_at": "2022-04-14T15:07:01+01:00",
+  "updated_at": "2022-04-14T15:07:07+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #346 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.</p>\n\n<p>Sorry for the late edition last week, but this week I have come through with the goods and released a day early ;-)  Mostly because I'm going away camping with the family over the weekend!</p>\n\n<p>Exciting news this week though - Maui Release Candidate has been released! So stop reading this and go download it.</p>\n\n<p>Until next week, take care.</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #346 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.\r\n\r\nSorry for the late edition last week, but this week I have come through with the goods and released a day early ;-)  Mostly because I'm going away camping with the family over the weekend!\r\n\r\nExciting news this week though - Maui Release Candidate has been released! So stop reading this and go download it.\r\n\r\nUntil next week, take care.\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "vlqXnlP",
+          "type": "Link",
+          "title": ".NET MAUI Release Candidate - Ready for cross-platform app development",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-1",
+          "description": "<p>.NET MAUI Release Candidate is now feature complete, API stable for the upcoming GA release. Get started today to build app for Android, Windows, iOS, and macOS.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-1\"><strong>.NET MAUI Release Candidate - Ready for cross-platform app development</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": ".NET MAUI Release Candidate is now feature complete, API stable for the upcoming GA release. Get started today to build app for Android, Windows, iOS, and macOS.\r\n\r\n[**.NET MAUI Release Candidate - Ready for cross-platform app development**](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-1) by [David Ortinau](https://twitter.com/davidortinau)",
+          "embedded_links": [
+            {
+              "identifier": "oqRbfdQ",
+              "title": "**.NET MAUI Release Candidate - Ready for cross-platform app development**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-1"
+            },
+            {
+              "identifier": "tEnI900",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "lwD7A9n",
+          "type": "Link",
+          "title": "Enable continuous integration and delivery for Xamarin/.NET MAUI",
+          "url_domain": "app-trap.com",
+          "url": "https://app-trap.com/2022/04/net-maui-xamarin-azure-devops-app-center/",
+          "description": "<p>To create a rapidly scaling mobile solution you will need to enable continuous delivery &amp; continuous integration. The goal is to fully automate a build that kicks off every time a change is merged in, then ship the build to testers.</p>\n\n<p><a href=\"https://app-trap.com/2022/04/net-maui-xamarin-azure-devops-app-center/\"><strong>Enable continuous integration and delivery for Xamarin/.NET MAUI</strong></a> by <a href=\"https://twitter.com/nichojo89\">Jon Nichols</a></p>",
+          "description_markdown": "To create a rapidly scaling mobile solution you will need to enable continuous delivery & continuous integration. The goal is to fully automate a build that kicks off every time a change is merged in, then ship the build to testers.\r\n\r\n[**Enable continuous integration and delivery for Xamarin/.NET MAUI**](https://app-trap.com/2022/04/net-maui-xamarin-azure-devops-app-center/) by [Jon Nichols](https://twitter.com/nichojo89)",
+          "embedded_links": [
+            {
+              "identifier": "lyeRmmL",
+              "title": "**Enable continuous integration and delivery for Xamarin/.NET MAUI**",
+              "url_domain": "app-trap.com",
+              "url": "https://app-trap.com/2022/04/net-maui-xamarin-azure-devops-app-center/"
+            },
+            {
+              "identifier": "KC0WVYB",
+              "title": "Jon Nichols",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/nichojo89"
+            }
+          ]
+        },
+        {
+          "identifier": "Am2xPYs",
+          "type": "Link",
+          "title": "Using Android Tiramisu Preview Workloads in Azure Pipelines",
+          "url_domain": "ostebaronen.dk",
+          "url": "https://blog.ostebaronen.dk/2022/04/want-to-build-with-preview-dotnet-workloads.html",
+          "description": "<p>Had the pleasure of hitting a bug in the net6.0-android TFM when targeting Android 31. This bug had been fixed in a preview version of the net6.0-android workload, targeting Android 32 or higher.</p>\n\n<p><a href=\"https://blog.ostebaronen.dk/2022/04/want-to-build-with-preview-dotnet-workloads.html\"><strong>Using Android Tiramisu Preview Workloads in Azure Pipelines</strong></a> by <a href=\"https://twitter.com/cheesebaron\">Tomasz Cielecki</a></p>",
+          "description_markdown": "Had the pleasure of hitting a bug in the net6.0-android TFM when targeting Android 31. This bug had been fixed in a preview version of the net6.0-android workload, targeting Android 32 or higher.\r\n\r\n[**Using Android Tiramisu Preview Workloads in Azure Pipelines**](https://blog.ostebaronen.dk/2022/04/want-to-build-with-preview-dotnet-workloads.html) by [Tomasz Cielecki](https://twitter.com/cheesebaron)",
+          "embedded_links": [
+            {
+              "identifier": "40NQ413",
+              "title": "**Using Android Tiramisu Preview Workloads in Azure Pipelines**",
+              "url_domain": "ostebaronen.dk",
+              "url": "https://blog.ostebaronen.dk/2022/04/want-to-build-with-preview-dotnet-workloads.html"
+            },
+            {
+              "identifier": "s7slcuf",
+              "title": "Tomasz Cielecki",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/cheesebaron"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "TPyRyAH",
+          "type": "Link",
+          "title": "Validation Rules for .NET MAUI",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/validation-rules-dotnet-maui/",
+          "description": "<p>Improve the quality of your application data using validation rules for .NET MAUI now it's available for your projects.</p>\n\n<p><a href=\"https://luismts.com/validation-rules-dotnet-maui/\"><strong>Validation Rules for .NET MAUI</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "Improve the quality of your application data using validation rules for .NET MAUI now it's available for your projects.\r\n\r\n[**Validation Rules for .NET MAUI**](https://luismts.com/validation-rules-dotnet-maui/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "8IB2rze",
+              "title": "**Validation Rules for .NET MAUI**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/validation-rules-dotnet-maui/"
+            },
+            {
+              "identifier": "og1rOi6",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "vFoYeqq",
+          "type": "Link",
+          "title": "Replicating Foodora UI in .NET MAUI",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-1/",
+          "description": "<p>This multipart series looks at testing out .NET MAUI’s capabilities by replicating a UI for an existing application.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-1/\"><strong>Replicating Foodora UI in .NET MAUI</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "This multipart series looks at testing out .NET MAUI’s capabilities by replicating a UI for an existing application.\r\n\r\n[**Replicating Foodora UI in .NET MAUI**](https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-1/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "WokZQg9",
+              "title": "**Replicating Foodora UI in .NET MAUI**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-1/"
+            },
+            {
+              "identifier": "u6aTY9k",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "d2Zmtxp",
+          "type": "Link",
+          "title": "Introducing the New .NET MAUI Linear Gauge Control",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/introducing-the-new-net-maui-linear-gauge-control.aspx",
+          "description": "<p>Syncfusion announces it's .NET MAUI Linear Gauge which is a multipurpose data visualization control. It shows numerical values on a linear scale in horizontal or vertical orientations.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/introducing-the-new-net-maui-linear-gauge-control.aspx\"><strong>Introducing the New .NET MAUI Linear Gauge Control</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/sheiksyedmsyncfusion-com\">Sheik Syed</a></p>",
+          "description_markdown": "Syncfusion announces it's .NET MAUI Linear Gauge which is a multipurpose data visualization control. It shows numerical values on a linear scale in horizontal or vertical orientations. \r\n\r\n[**Introducing the New .NET MAUI Linear Gauge Control**](https://www.syncfusion.com/blogs/post/introducing-the-new-net-maui-linear-gauge-control.aspx) by [Sheik Syed](https://www.syncfusion.com/blogs/author/sheiksyedmsyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "9dcEbYm",
+              "title": "**Introducing the New .NET MAUI Linear Gauge Control**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/introducing-the-new-net-maui-linear-gauge-control.aspx"
+            },
+            {
+              "identifier": "P0M65Iw",
+              "title": "Sheik Syed",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/sheiksyedmsyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "M7qeWxv",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #52",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-52",
+          "description": "<p>Sam's update of MAUI related news.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-52\"><strong>Sands of MAUI: Issue #52</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam's update of MAUI related news.\r\n\r\n[**Sands of MAUI: Issue #52**](https://www.telerik.com/blogs/sands-maui-issue-52) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "xuK0rpZ",
+              "title": "**Sands of MAUI: Issue #52**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-52"
+            },
+            {
+              "identifier": "6hgGJRK",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "T5iPc7n",
+          "type": "Link",
+          "title": ".NET MAUI Release Candidate (RC) 1",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=D81pWbt9x2s",
+          "description": "<p>A new release of .NET MAUI bring us at Release Candidate 1 (RC1). This means all APIs are finalized and we're getting ready for the final release! But one thing at a time, let me first tell you all about this release of .NET MAUI.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=D81pWbt9x2s\"><strong>.NET MAUI Release Candidate (RC) 1</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "A new release of .NET MAUI bring us at Release Candidate 1 (RC1). This means all APIs are finalized and we're getting ready for the final release! But one thing at a time, let me first tell you all about this release of .NET MAUI.\r\n\r\n\r\n[**.NET MAUI Release Candidate (RC) 1**](https://www.youtube.com/watch?v=D81pWbt9x2s) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "1EmlKoE",
+              "title": "**.NET MAUI Release Candidate (RC) 1**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=D81pWbt9x2s"
+            },
+            {
+              "identifier": "fNBS6Q8",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "my8WzuB",
+          "type": "Link",
+          "title": ".NET MAUI Community Standup - One month till MAUI! It's go time!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=s0eipXNjLTY",
+          "description": "<p>Join Maddy and David for the latest roundup of news and PRs as we inch closer to shipping .NET MAUI!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=s0eipXNjLTY\"><strong>.NET MAUI Community Standup - One month till MAUI! It's go time!</strong></a> by <a href=\"https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg\">Xamarin Developers</a></p>",
+          "description_markdown": "Join Maddy and David for the latest roundup of news and PRs as we inch closer to shipping .NET MAUI!\r\n\r\n\r\n[**.NET MAUI Community Standup - One month till MAUI! It's go time!**](https://www.youtube.com/watch?v=s0eipXNjLTY) by [Xamarin Developers](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)",
+          "embedded_links": [
+            {
+              "identifier": "qo0DxwR",
+              "title": "**.NET MAUI Community Standup - One month till MAUI! It's go time!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=s0eipXNjLTY"
+            },
+            {
+              "identifier": "lTqIhji",
+              "title": "Xamarin Developers",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg"
+            }
+          ]
+        },
+        {
+          "identifier": "p2Z06iG",
+          "type": "Link",
+          "title": ".NET MAUI Community Toolkit Monthly Standup (April 2022)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=sUBu4hqSGJw",
+          "description": "<p>Recent updates and upcoming changes to the .NET MAUI Community Toolkit!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=sUBu4hqSGJw\"><strong>.NET MAUI Community Toolkit Monthly Standup (April 2022)</strong></a> by <a href=\"https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A\">.NET Foundation</a></p>",
+          "description_markdown": "Recent updates and upcoming changes to the .NET MAUI Community Toolkit! \r\n\r\n[**.NET MAUI Community Toolkit Monthly Standup (April 2022)**](https://www.youtube.com/watch?v=sUBu4hqSGJw) by [.NET Foundation](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)",
+          "embedded_links": [
+            {
+              "identifier": "YATDrrC",
+              "title": "**.NET MAUI Community Toolkit Monthly Standup (April 2022)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=sUBu4hqSGJw"
+            },
+            {
+              "identifier": "zi5EGrC",
+              "title": ".NET Foundation",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A"
+            }
+          ]
+        },
+        {
+          "identifier": "1ngDlvK",
+          "type": "Link",
+          "title": "Encrypt Database with SQLite-net and .NET MAUI (or Xamarin.Forms!)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=O1UQfoh4710",
+          "description": "<p>In this video we will see how to create and work with a SQLCipher encrypted database in .NET MAUI. The code that is shown will also still work with Xamarin.Forms. I will walk you through the existing code I created in a previous video with the CRUD actions for SQLite and then proceed with how to encrypt your database with sqlite-net-sqlcipher.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=O1UQfoh4710\"><strong>Encrypt Database with SQLite-net and .NET MAUI (or Xamarin.Forms!)</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "In this video we will see how to create and work with a SQLCipher encrypted database in .NET MAUI. The code that is shown will also still work with Xamarin.Forms. I will walk you through the existing code I created in a previous video with the CRUD actions for SQLite and then proceed with how to encrypt your database with sqlite-net-sqlcipher.\r\n\r\n[**Encrypt Database with SQLite-net and .NET MAUI (or Xamarin.Forms!)**](https://www.youtube.com/watch?v=O1UQfoh4710) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "4X8CnKv",
+              "title": "**Encrypt Database with SQLite-net and .NET MAUI (or Xamarin.Forms!)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=O1UQfoh4710"
+            },
+            {
+              "identifier": "PKMiHWl",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "kTy5bNX",
+          "type": "Link",
+          "title": "Track Users Location in the Background with Android and Xamarin.Forms",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Q_renpfnbk4",
+          "description": "<p>Learn how to track a users or device location in the background on Android. Using Xamarin.Forms and Essentials, we will see how to implement a foreground service on Android that tracks the users location even when the app is in the background, killed or even when the device is restarted!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Q_renpfnbk4\"><strong>Track Users Location in the Background with Android and Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Learn how to track a users or device location in the background on Android. Using Xamarin.Forms and Essentials, we will see how to implement a foreground service on Android that tracks the users location even when the app is in the background, killed or even when the device is restarted!\r\n\r\n\r\n[**Track Users Location in the Background with Android and Xamarin.Forms**](https://www.youtube.com/watch?v=Q_renpfnbk4) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "LjH4hqE",
+              "title": "**Track Users Location in the Background with Android and Xamarin.Forms**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Q_renpfnbk4"
+            },
+            {
+              "identifier": "pOaQyb7",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

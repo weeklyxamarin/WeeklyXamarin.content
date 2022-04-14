@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "346",
+      "Name": "Issue 346",
+      "UpdatedTimeStamp": "2022-04-14T14:07:07Z",
+      "Summary": "OMG. Release Candidate 1",
+      "PublishDate": "2022-04-14T14:07:01Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "345",
       "Name": "Issue 345",
       "UpdatedTimeStamp": "2022-04-04T00:58:32Z",

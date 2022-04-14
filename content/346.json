@@ -1,0 +1,119 @@
+{
+  "Id": "346",
+  "Name": "Issue 346",
+  "UpdatedTimeStamp": "2022-04-14T14:07:07Z",
+  "Summary": "OMG. Release Candidate 1",
+  "Introduction": "G'day everyone, welcome to issue #346 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week. Sorry for the late edition last week, but this week I have come through with the goods and released a day early ;-)  Mostly because I'm going away camping with the family over the weekend! Exciting news this week though - Maui Release Candidate has been released! So stop reading this and go download it. Until next week, take care. Kym",
+  "PublishDate": "2022-04-14T14:07:01Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": ".NET MAUI Release Candidate - Ready for cross-platform app development",
+      "Url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-1",
+      "Description": ".NET MAUI Release Candidate is now feature complete, API stable for the upcoming GA release. Get started today to build app for Android, Windows, iOS, and macOS.",
+      "EditionId": "346",
+      "Author": "David Ortinau",
+      "Id": "346-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Enable continuous integration and delivery for Xamarin/.NET MAUI",
+      "Url": "https://app-trap.com/2022/04/net-maui-xamarin-azure-devops-app-center/",
+      "Description": "To create a rapidly scaling mobile solution you will need to enable continuous delivery & continuous integration. The goal is to fully automate a build that kicks off every time a change is merged in, then ship the build to testers.",
+      "EditionId": "346",
+      "Author": "Jon Nichols",
+      "Id": "346-2",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Using Android Tiramisu Preview Workloads in Azure Pipelines",
+      "Url": "https://blog.ostebaronen.dk/2022/04/want-to-build-with-preview-dotnet-workloads.html",
+      "Description": "Had the pleasure of hitting a bug in the net6.0-android TFM when targeting Android 31. This bug had been fixed in a preview version of the net6.0-android workload, targeting Android 32 or higher.",
+      "EditionId": "346",
+      "Author": "Tomasz Cielecki",
+      "Id": "346-3",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Validation Rules for .NET MAUI",
+      "Url": "https://luismts.com/validation-rules-dotnet-maui/",
+      "Description": "Improve the quality of your application data using validation rules for .NET MAUI now it's available for your projects.",
+      "EditionId": "346",
+      "Author": "Luis Matos",
+      "Id": "346-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Replicating Foodora UI in .NET MAUI",
+      "Url": "https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-1/",
+      "Description": "This multipart series looks at testing out .NET MAUI’s capabilities by replicating a UI for an existing application.",
+      "EditionId": "346",
+      "Author": "Andreas Nesheim",
+      "Id": "346-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Introducing the New .NET MAUI Linear Gauge Control",
+      "Url": "https://www.syncfusion.com/blogs/post/introducing-the-new-net-maui-linear-gauge-control.aspx",
+      "Description": "Syncfusion announces it's .NET MAUI Linear Gauge which is a multipurpose data visualization control. It shows numerical values on a linear scale in horizontal or vertical orientations.",
+      "EditionId": "346",
+      "Author": "Sheik Syed",
+      "Id": "346-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #52",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-52",
+      "Description": "Sam's update of MAUI related news.",
+      "EditionId": "346",
+      "Author": "Sam Basu",
+      "Id": "346-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Release Candidate (RC) 1",
+      "Url": "https://www.youtube.com/watch?v=D81pWbt9x2s",
+      "Description": "A new release of .NET MAUI bring us at Release Candidate 1 (RC1). This means all APIs are finalized and we're getting ready for the final release! But one thing at a time, let me first tell you all about this release of .NET MAUI.",
+      "EditionId": "346",
+      "Author": "Gerald Versluis",
+      "Id": "346-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Standup - One month till MAUI! It's go time!",
+      "Url": "https://www.youtube.com/watch?v=s0eipXNjLTY",
+      "Description": "Join Maddy and David for the latest roundup of news and PRs as we inch closer to shipping .NET MAUI!",
+      "EditionId": "346",
+      "Author": "Xamarin Developers",
+      "Id": "346-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Toolkit Monthly Standup (April 2022)",
+      "Url": "https://www.youtube.com/watch?v=sUBu4hqSGJw",
+      "Description": "Recent updates and upcoming changes to the .NET MAUI Community Toolkit!",
+      "EditionId": "346",
+      "Author": ".NET Foundation",
+      "Id": "346-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Encrypt Database with SQLite-net and .NET MAUI (or Xamarin.Forms!)",
+      "Url": "https://www.youtube.com/watch?v=O1UQfoh4710",
+      "Description": "In this video we will see how to create and work with a SQLCipher encrypted database in .NET MAUI. The code that is shown will also still work with Xamarin.Forms. I will walk you through the existing code I created in a previous video with the CRUD actions for SQLite and then proceed with how to encrypt your database with sqlite-net-sqlcipher.",
+      "EditionId": "346",
+      "Author": "Gerald Versluis",
+      "Id": "346-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Track Users Location in the Background with Android and Xamarin.Forms",
+      "Url": "https://www.youtube.com/watch?v=Q_renpfnbk4",
+      "Description": "Learn how to track a users or device location in the background on Android. Using Xamarin.Forms and Essentials, we will see how to implement a foreground service on Android that tracks the users location even when the app is in the background, killed or even when the device is restarted!",
+      "EditionId": "346",
+      "Author": "Gerald Versluis",
+      "Id": "346-12",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
