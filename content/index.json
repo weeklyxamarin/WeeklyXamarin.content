@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "347",
+      "Name": "Issue 347",
+      "UpdatedTimeStamp": "2022-04-22T12:34:17Z",
+      "Summary": "Even more news around the MAUI RC",
+      "PublishDate": "2022-04-22T12:34:13Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "346",
       "Name": "Issue 346",
       "UpdatedTimeStamp": "2022-04-14T14:07:07Z",

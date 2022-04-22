@@ -1,0 +1,145 @@
+{
+  "Id": "347",
+  "Name": "Issue 347",
+  "UpdatedTimeStamp": "2022-04-22T12:34:17Z",
+  "Summary": "Even more news around the MAUI RC",
+  "Introduction": "G'day everyone, welcome to issue #347 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week. Lots of articles about the MAUI Release Candidate this week and some good information if you are looking migrate your libraries across. Interestingly, Jon Skeet has been having a bit of a dig into the framework too. Until next week, take care. Kym",
+  "PublishDate": "2022-04-22T12:34:13Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Figma Config 2022",
+      "Url": "https://config.figma.com/events/figma-config-2022/home",
+      "Description": "Config is Figma’s annual conference where users come together to learn from each other. This year, it’ll take place virtually over a 24 hour period. It's totally free to tune in, so if you enjoy good design you should check it out.",
+      "EditionId": "347",
+      "Author": "Figma",
+      "Id": "347-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Background Work in Xamarin.Forms. Part #1 — Xamarin.Android",
+      "Url": "https://benetskyybogdan.medium.com/background-work-in-xamarin-forms-part-1-xamarin-android-63f629e73f9",
+      "Description": "What should we select if we need to run some work in the background? Should it be a Worker, Service or simple Task Run from .Net?",
+      "EditionId": "347",
+      "Author": "Bohdan Benetskyi",
+      "Id": "347-2",
+      "Category": "ANDROID"
+    },
+    {
+      "Title": "Replicating a Game Store UI in Xamarin.Forms",
+      "Url": "https://www.syncfusion.com/blogs/post/replicating-a-game-store-ui-in-xamarin-forms.aspx",
+      "Description": "This blog post discusses replicating a game store UI based on a Dribbble design.",
+      "EditionId": "347",
+      "Author": "Leomaris Reyes",
+      "Id": "347-3",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Porting your Xamarin.Forms library to .NET MAUI",
+      "Url": "https://luismts.com/porting-to-net-maui-xamarin-forms-library/",
+      "Description": "If you need to port to a .NET MAUI library your Xamarin.Forms library, you are in the right place.",
+      "EditionId": "347",
+      "Author": "Luis Matos",
+      "Id": "347-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Taking .NET MAUI for a spin",
+      "Url": "https://codeblog.jonskeet.uk/2022/04/16/taking-net-maui-for-a-spin/",
+      "Description": "Stack Overflow sensation takes .NET MAUI for a spin and gives his impressions.",
+      "EditionId": "347",
+      "Author": "Jon Skeet",
+      "Id": "347-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Handling Overlay Elements in .NET MAUI with ZIndex | Syncfusion Blogs",
+      "Url": "https://www.syncfusion.com/blogs/post/handling-overlay-elements-in-net-maui-with-zindex.aspx",
+      "Description": "If you’re working in .NET MAUI, and you have two or more controls on top of each other that need to be revealed based on certain conditions, this article will undoubtedly assist you in handling that problem. The order in which an element appears on the z-axis is represented by ZIndex.",
+      "EditionId": "347",
+      "Author": "Jayaleshwari N",
+      "Id": "347-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI RC1 is available with VS for Mac support",
+      "Url": "https://www.banditoth.net/2022/04/21/net-maui-rc1-is-available-with-vs-for-mac-support/",
+      "Description": "If you have issues with VS for Mac 2022 and the new MAUI RC this might help you out.",
+      "EditionId": "347",
+      "Id": "347-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Xamarin.Forms, .NET Maui and the Uno Platform",
+      "Url": "https://nicksnettravels.builttoroam.com/multi-platform-comparison/",
+      "Description": "Nick Randolph takes a quick look at MAUI and how it compares to both it’s predecessor, Xamarin.Forms, and the Uno Platform.",
+      "EditionId": "347",
+      "Author": "Nick Randolph",
+      "Id": "347-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Replicating Foodora UI in .NET MAUI - Part 3",
+      "Url": "https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-3/",
+      "Description": "Continuing the UI design for the Foodora app, Andreas replicates the third page, where they list all the dishes for a specific restaurant.",
+      "EditionId": "347",
+      "Author": "Andreas Nesheim",
+      "Id": "347-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "All-in-One .NET MAUI App Project Template",
+      "Url": "https://egvijayanand.in/2022/04/20/all-in-one-dotnet-maui-app-project-template-what-is-new/",
+      "Description": "An update to the All-in-One .NET MAUI App Project Templates. Celebrate .NET MAUI RC1 release in style with more features.",
+      "EditionId": "347",
+      "Author": "Vijay Anand EG",
+      "Id": "347-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #53",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-53",
+      "Description": "This week in MAUI News",
+      "EditionId": "347",
+      "Author": "Sam Basu",
+      "Id": "347-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "The .NET MAUI Podcast Episode 110: RELEASE CANDIDATE!",
+      "Url": "https://www.dotnetmauipodcast.com/110",
+      "Description": "Join James, Matt and David discussing the .NET MAUI RC.",
+      "EditionId": "347",
+      "Author": ".NET MAUI Podcast",
+      "Id": "347-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 302: .NET MAUI Release Candidate Is Here!",
+      "Url": "https://www.mergeconflict.fm/302",
+      "Description": "It is go time with the .NET MAUI RC!!",
+      "EditionId": "347",
+      "Author": "Merge Conflict",
+      "Id": "347-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "DevTalk 80: Best practices for XAML. With Leomaris Reyes",
+      "Url": "https://kerry.lothrop.de/devtalk-80-leomaris-reyes/",
+      "Description": "On this episode of DevTalk Kerry speaks to Leomaris Reyes about best practices for XAML for Xamarin.Forms and .NET MAUI.",
+      "EditionId": "347",
+      "Author": "Kerry Lothrop",
+      "Id": "347-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Release Candidates!",
+      "Url": "https://www.youtube.com/watch?v=dIjF3bwEmgU",
+      "Description": ".NET MAUI Release Candidate is here! With a \"go live\" license to boot! This means it is time to start building cross-platform native apps across iOS, Android, macOS, and Windows from a shared C# codebase! Today, I walkthrough everything you need to know to get started with the .NET MAUI Release Candidate on both Windows and on Mac with Visual Studio 2022.",
+      "EditionId": "347",
+      "Author": "James Montemagno",
+      "Id": "347-15",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

@@ -1070,6 +1070,12 @@
       "Aliases": []
     },
     {
+      "Name": "Figma",
+      "TwitterHandle": "figma",
+      "Id": "0feb7d3c-7aad-4490-ad96-a43ae4d6af8e",
+      "Aliases": []
+    },
+    {
       "Name": "Francois Raminosona",
       "TwitterHandle": "framinosona",
       "GitHubHandle": "framinosona",
@@ -1387,6 +1393,16 @@
       ]
     },
     {
+      "Name": "Jayaleshwari N",
+      "Id": "29337633-9eb3-4c78-9679-6e18efe3b256",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.syncfusion.com/blogs/author/jayaleshwarinsyncfusion-com"
+        }
+      ]
+    },
+    {
       "Name": "Jayme Singleton",
       "Id": "8e09bd36-9e5a-4537-9fcc-b31794763860",
       "Aliases": [
@@ -1608,6 +1624,12 @@
         }
       ],
       "Website": "https://jonathanpeppers.com/"
+    },
+    {
+      "Name": "Jon Skeet",
+      "TwitterHandle": "jonskeet",
+      "Id": "30e95052-6818-43b1-8cb7-417a309fa9b4",
+      "Aliases": []
     },
     {
       "Name": "Jordan Bowman",

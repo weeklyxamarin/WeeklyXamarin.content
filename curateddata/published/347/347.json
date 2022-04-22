@@ -1,0 +1,396 @@
+{
+  "number": 347,
+  "title": "Issue 347",
+  "summary": "Even more news around the MAUI RC",
+  "url": "https://weeklyxamarin.com/issues/347",
+  "publication_status": "published",
+  "published_at": "2022-04-22T13:34:13+01:00",
+  "updated_at": "2022-04-22T13:34:17+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #347 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.</p>\n\n<p>Lots of articles about the MAUI Release Candidate this week and some good information if you are looking migrate your libraries across. Interestingly, Jon Skeet has been having a bit of a dig into the framework too.</p>\n\n<p>Until next week, take care.</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #347 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.\r\n\r\nLots of articles about the MAUI Release Candidate this week and some good information if you are looking migrate your libraries across. Interestingly, Jon Skeet has been having a bit of a dig into the framework too.\r\n\r\nUntil next week, take care.\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "Okg3dax",
+          "type": "Link",
+          "title": "Figma Config 2022",
+          "url_domain": "figma.com",
+          "url": "https://config.figma.com/events/figma-config-2022/home",
+          "description": "<p>Config is Figma’s annual conference where users come together to learn from each other. This year, it’ll take place virtually over a 24 hour period. It's totally free to tune in, so if you enjoy good design you should check it out.</p>\n\n<p><a href=\"https://config.figma.com/events/figma-config-2022/home\"><strong>Figma Config 2022</strong></a> by <a href=\"https://twitter.com/figma\">Figma</a></p>",
+          "description_markdown": "Config is Figma’s annual conference where users come together to learn from each other. This year, it’ll take place virtually over a 24 hour period. It's totally free to tune in, so if you enjoy good design you should check it out.\r\n\r\n[**Figma Config 2022**](https://config.figma.com/events/figma-config-2022/home) by [Figma](https://twitter.com/figma)",
+          "embedded_links": [
+            {
+              "identifier": "ji75HJ1",
+              "title": "**Figma Config 2022**",
+              "url_domain": "figma.com",
+              "url": "https://config.figma.com/events/figma-config-2022/home"
+            },
+            {
+              "identifier": "jYss6JD",
+              "title": "Figma",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/figma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "android",
+      "name": "ANDROID",
+      "items": [
+        {
+          "identifier": "jCJoT3D",
+          "type": "Link",
+          "title": "Background Work in Xamarin.Forms. Part #1 — Xamarin.Android",
+          "url_domain": "medium.com",
+          "url": "https://benetskyybogdan.medium.com/background-work-in-xamarin-forms-part-1-xamarin-android-63f629e73f9",
+          "description": "<p>What should we select if we need to run some work in the background? Should it be a Worker, Service or simple Task Run from .Net?</p>\n\n<p><a href=\"https://benetskyybogdan.medium.com/background-work-in-xamarin-forms-part-1-xamarin-android-63f629e73f9\"><strong>Background Work in Xamarin.Forms. Part #1 — Xamarin.Android</strong></a> by <a href=\"https://twitter.com/bbenetskyy\">Bohdan Benetskyi</a></p>",
+          "description_markdown": "What should we select if we need to run some work in the background? Should it be a Worker, Service or simple Task Run from .Net? \r\n\r\n[**Background Work in Xamarin.Forms. Part #1 — Xamarin.Android**](https://benetskyybogdan.medium.com/background-work-in-xamarin-forms-part-1-xamarin-android-63f629e73f9) by [Bohdan Benetskyi](https://twitter.com/bbenetskyy)",
+          "embedded_links": [
+            {
+              "identifier": "ng0PA6L",
+              "title": "**Background Work in Xamarin.Forms. Part #1 — Xamarin.Android**",
+              "url_domain": "medium.com",
+              "url": "https://benetskyybogdan.medium.com/background-work-in-xamarin-forms-part-1-xamarin-android-63f629e73f9"
+            },
+            {
+              "identifier": "ckrP15Q",
+              "title": "Bohdan Benetskyi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bbenetskyy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "qI5Dy2",
+          "type": "Link",
+          "title": "Replicating a Game Store UI in Xamarin.Forms",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/replicating-a-game-store-ui-in-xamarin-forms.aspx",
+          "description": "<p>This blog post discusses replicating a game store UI based on a Dribbble design.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/replicating-a-game-store-ui-in-xamarin-forms.aspx\"><strong>Replicating a Game Store UI in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "This blog post discusses replicating a game store UI based on a Dribbble design. \r\n\r\n[**Replicating a Game Store UI in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/replicating-a-game-store-ui-in-xamarin-forms.aspx) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "wrcAS3B",
+              "title": "**Replicating a Game Store UI in Xamarin.Forms**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/replicating-a-game-store-ui-in-xamarin-forms.aspx"
+            },
+            {
+              "identifier": "9LtL2iH",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "KOGkweZ",
+          "type": "Link",
+          "title": "Porting your Xamarin.Forms library to .NET MAUI",
+          "url_domain": "luismts.com",
+          "url": "https://luismts.com/porting-to-net-maui-xamarin-forms-library/",
+          "description": "<p>If you need to port to a .NET MAUI library your Xamarin.Forms library, you are in the right place.</p>\n\n<p><a href=\"https://luismts.com/porting-to-net-maui-xamarin-forms-library/\"><strong>Porting to .NET MAUI your Xamarin.Forms library</strong></a> by <a href=\"https://twitter.com/luismatosluna\">Luis Matos</a></p>",
+          "description_markdown": "If you need to port to a .NET MAUI library your Xamarin.Forms library, you are in the right place.\r\n\r\n[**Porting to .NET MAUI your Xamarin.Forms library**](https://luismts.com/porting-to-net-maui-xamarin-forms-library/) by [Luis Matos](https://twitter.com/luismatosluna)",
+          "embedded_links": [
+            {
+              "identifier": "AdfD8RI",
+              "title": "**Porting to .NET MAUI your Xamarin.Forms library**",
+              "url_domain": "luismts.com",
+              "url": "https://luismts.com/porting-to-net-maui-xamarin-forms-library/"
+            },
+            {
+              "identifier": "235H7Wv",
+              "title": "Luis Matos",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/luismatosluna"
+            }
+          ]
+        },
+        {
+          "identifier": "DKBcGzF",
+          "type": "Link",
+          "title": "Taking .NET MAUI for a spin",
+          "url_domain": "codeblog.jonskeet.uk",
+          "url": "https://codeblog.jonskeet.uk/2022/04/16/taking-net-maui-for-a-spin/",
+          "description": "<p>Stack Overflow sensation takes .NET MAUI for a spin and gives his impressions.</p>\n\n<p><a href=\"https://codeblog.jonskeet.uk/2022/04/16/taking-net-maui-for-a-spin/\"><strong>Taking .NET MAUI for a spin</strong></a> by <a href=\"https://twitter.com/jonskeet\">Jon Skeet</a></p>",
+          "description_markdown": "Stack Overflow sensation takes .NET MAUI for a spin and gives his impressions.\r\n\r\n[**Taking .NET MAUI for a spin**](https://codeblog.jonskeet.uk/2022/04/16/taking-net-maui-for-a-spin/) by [Jon Skeet](https://twitter.com/jonskeet)",
+          "embedded_links": [
+            {
+              "identifier": "LLjDOu3",
+              "title": "**Taking .NET MAUI for a spin**",
+              "url_domain": "codeblog.jonskeet.uk",
+              "url": "https://codeblog.jonskeet.uk/2022/04/16/taking-net-maui-for-a-spin/"
+            },
+            {
+              "identifier": "qkLByTO",
+              "title": "Jon Skeet",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jonskeet"
+            }
+          ]
+        },
+        {
+          "identifier": "80XUIu8",
+          "type": "Link",
+          "title": "Handling Overlay Elements in .NET MAUI with ZIndex | Syncfusion Blogs",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/handling-overlay-elements-in-net-maui-with-zindex.aspx",
+          "description": "<p>If you’re working in .NET MAUI, and you have two or more controls on top of each other that need to be revealed based on certain conditions, this article will undoubtedly assist you in handling that problem. The order in which an element appears on the z-axis is represented by ZIndex.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/handling-overlay-elements-in-net-maui-with-zindex.aspx\"><strong>Handling Overlay Elements in .NET MAUI with ZIndex | Syncfusion Blogs</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/jayaleshwarinsyncfusion-com\">Jayaleshwari N</a></p>",
+          "description_markdown": "If you’re working in .NET MAUI, and you have two or more controls on top of each other that need to be revealed based on certain conditions, this article will undoubtedly assist you in handling that problem. The order in which an element appears on the z-axis is represented by ZIndex.\r\n\r\n[**Handling Overlay Elements in .NET MAUI with ZIndex | Syncfusion Blogs**](https://www.syncfusion.com/blogs/post/handling-overlay-elements-in-net-maui-with-zindex.aspx) by [Jayaleshwari N](https://www.syncfusion.com/blogs/author/jayaleshwarinsyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "I7L4qBN",
+              "title": "**Handling Overlay Elements in .NET MAUI with ZIndex | Syncfusion Blogs**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/handling-overlay-elements-in-net-maui-with-zindex.aspx"
+            },
+            {
+              "identifier": "IYbwKO8",
+              "title": "Jayaleshwari N",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/jayaleshwarinsyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "xyN7tLM",
+          "type": "Link",
+          "title": ".NET MAUI RC1 is available with VS for Mac support",
+          "url_domain": "banditoth.net",
+          "url": "https://www.banditoth.net/2022/04/21/net-maui-rc1-is-available-with-vs-for-mac-support/",
+          "description": "<p>If you have issues with VS for Mac 2022 and the new MAUI RC this might help you out.</p>\n\n<p><a href=\"https://www.banditoth.net/2022/04/21/net-maui-rc1-is-available-with-vs-for-mac-support/\"><strong>.NET MAUI RC1 is available with VS for Mac support</strong></a> by <a href=\"\">András Tóth</a></p>",
+          "description_markdown": "If you have issues with VS for Mac 2022 and the new MAUI RC this might help you out.\r\n\r\n[**.NET MAUI RC1 is available with VS for Mac support**](https://www.banditoth.net/2022/04/21/net-maui-rc1-is-available-with-vs-for-mac-support/) by [András Tóth]()",
+          "embedded_links": [
+            {
+              "identifier": "P66OzIl",
+              "title": "**.NET MAUI RC1 is available with VS for Mac support**",
+              "url_domain": "banditoth.net",
+              "url": "https://www.banditoth.net/2022/04/21/net-maui-rc1-is-available-with-vs-for-mac-support/"
+            }
+          ]
+        },
+        {
+          "identifier": "52cayDh",
+          "type": "Link",
+          "title": "Xamarin.Forms, .NET Maui and the Uno Platform",
+          "url_domain": "builttoroam.com",
+          "url": "https://nicksnettravels.builttoroam.com/multi-platform-comparison/",
+          "description": "<p>Nick Randolph takes a quick look at MAUI and how it compares to both it’s predecessor, Xamarin.Forms, and the Uno Platform.</p>\n\n<p><a href=\"https://nicksnettravels.builttoroam.com/multi-platform-comparison/\"><strong>Xamarin.Forms, .NET Maui and the Uno Platform</strong></a> by <a href=\"https://twitter.com/thenickrandolph\">Nick Randolph</a></p>",
+          "description_markdown": "Nick Randolph takes a quick look at MAUI and how it compares to both it’s predecessor, Xamarin.Forms, and the Uno Platform.\r\n\r\n[**Xamarin.Forms, .NET Maui and the Uno Platform**](https://nicksnettravels.builttoroam.com/multi-platform-comparison/) by [Nick Randolph](https://twitter.com/thenickrandolph)",
+          "embedded_links": [
+            {
+              "identifier": "DHm5kBK",
+              "title": "**Xamarin.Forms, .NET Maui and the Uno Platform**",
+              "url_domain": "builttoroam.com",
+              "url": "https://nicksnettravels.builttoroam.com/multi-platform-comparison/"
+            },
+            {
+              "identifier": "t7nGbAg",
+              "title": "Nick Randolph",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/thenickrandolph"
+            }
+          ]
+        },
+        {
+          "identifier": "EcvoNAZ",
+          "type": "Link",
+          "title": "Replicating Foodora UI in .NET MAUI - Part 3",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-3/",
+          "description": "<p>Continuing the UI design for the Foodora app, Andreas replicates the third page, where they list all the dishes for a specific restaurant.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-3/\"><strong>Replicating Foodora UI in .NET MAUI - Part 3</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "Continuing the UI design for the Foodora app, Andreas replicates the third page, where they list all the dishes for a specific restaurant.\r\n\r\n[**Replicating Foodora UI in .NET MAUI - Part 3**](https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-3/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "fohnhvY",
+              "title": "**Replicating Foodora UI in .NET MAUI - Part 3**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-3/"
+            },
+            {
+              "identifier": "RQ1xXd6",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "tDo7jMM",
+          "type": "Link",
+          "title": "All-in-One .NET MAUI App Project Template",
+          "url_domain": "egvijayanand.in",
+          "url": "https://egvijayanand.in/2022/04/20/all-in-one-dotnet-maui-app-project-template-what-is-new/",
+          "description": "<p>An update to the All-in-One .NET MAUI App Project Templates. Celebrate .NET MAUI RC1 release in style with more features.</p>\n\n<p><a href=\"https://egvijayanand.in/2022/04/20/all-in-one-dotnet-maui-app-project-template-what-is-new/\"><strong>All-in-One .NET MAUI App Project Template</strong></a> by <a href=\"https://twitter.com/egvijayanand\">Vijay Anand EG</a></p>",
+          "description_markdown": "An update to the All-in-One .NET MAUI App Project Templates. Celebrate .NET MAUI RC1 release in style with more features.\r\n\r\n[**All-in-One .NET MAUI App Project Template**](https://egvijayanand.in/2022/04/20/all-in-one-dotnet-maui-app-project-template-what-is-new/) by [Vijay Anand EG](https://twitter.com/egvijayanand)",
+          "embedded_links": [
+            {
+              "identifier": "x1AD9Gy",
+              "title": "**All-in-One .NET MAUI App Project Template**",
+              "url_domain": "egvijayanand.in",
+              "url": "https://egvijayanand.in/2022/04/20/all-in-one-dotnet-maui-app-project-template-what-is-new/"
+            },
+            {
+              "identifier": "YEKBGQy",
+              "title": "Vijay Anand EG",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/egvijayanand"
+            }
+          ]
+        },
+        {
+          "identifier": "gW2AdpG",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #53",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-53",
+          "description": "<p>This week in MAUI News</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-53\"><strong>Sands of MAUI: Issue #53</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "This week in MAUI News\r\n\r\n[**Sands of MAUI: Issue #53**](https://www.telerik.com/blogs/sands-of-maui-issue-53) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "346FYUK",
+              "title": "**Sands of MAUI: Issue #53**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-53"
+            },
+            {
+              "identifier": "R3xFM4j",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "x6hUynb",
+          "type": "Link",
+          "title": "The .NET MAUI Podcast Episode 110: RELEASE CANDIDATE!",
+          "url_domain": "dotnetmauipodcast.com",
+          "url": "https://www.dotnetmauipodcast.com/110",
+          "description": "<p>Join James, Matt and David discussing the .NET MAUI RC.</p>\n\n<p><a href=\"https://www.dotnetmauipodcast.com/110\"><strong>The .NET MAUI Podcast Episode 110: RELEASE CANDIDATE!</strong></a> by <a href=\"https://www.dotnetmauipodcast.com/\">.NET MAUI Podcast</a></p>",
+          "description_markdown": "Join James, Matt and David discussing the .NET MAUI RC.\r\n\r\n[**The .NET MAUI Podcast Episode 110: RELEASE CANDIDATE!**](https://www.dotnetmauipodcast.com/110) by [.NET MAUI Podcast](https://www.dotnetmauipodcast.com/)",
+          "embedded_links": [
+            {
+              "identifier": "1jGNGuF",
+              "title": "**The .NET MAUI Podcast Episode 110: RELEASE CANDIDATE!**",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/110"
+            },
+            {
+              "identifier": "mu2HXER",
+              "title": ".NET MAUI Podcast",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "qUhGVMF",
+          "type": "Link",
+          "title": "Merge Conflict: 302: .NET MAUI Release Candidate Is Here!",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/302",
+          "description": "<p>It is go time with the .NET MAUI RC!!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/302\"><strong>Merge Conflict: 302: .NET MAUI Release Candidate Is Here!</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "It is go time with the .NET MAUI RC!!\r\n\r\n[**Merge Conflict: 302: .NET MAUI Release Candidate Is Here!**](https://www.mergeconflict.fm/302) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "JVKZ4Qi",
+              "title": "**Merge Conflict: 302: .NET MAUI Release Candidate Is Here!**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/302"
+            },
+            {
+              "identifier": "ir50xVg",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "hDGCH9s",
+          "type": "Link",
+          "title": "DevTalk 80: Best practices for XAML. With Leomaris Reyes",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-80-leomaris-reyes/",
+          "description": "<p>On this episode of DevTalk Kerry speaks to Leomaris Reyes about best practices for XAML for Xamarin.Forms and .NET MAUI.</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-80-leomaris-reyes/\"><strong>DevTalk 80: Best practices for XAML. With Leomaris Reyes</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk Kerry speaks to Leomaris Reyes about best practices for XAML for Xamarin.Forms and .NET MAUI.\r\n\r\n[**DevTalk 80: Best practices for XAML. With Leomaris Reyes**](https://kerry.lothrop.de/devtalk-80-leomaris-reyes/) by [Kerry Lothrop](https://twitter.com/kwlothrop)",
+          "embedded_links": [
+            {
+              "identifier": "WuVxqnS",
+              "title": "**DevTalk 80: Best practices for XAML. With Leomaris Reyes**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-80-leomaris-reyes/"
+            },
+            {
+              "identifier": "zxSj1zx",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        },
+        {
+          "identifier": "tbTznwi",
+          "type": "Link",
+          "title": ".NET MAUI Release Candidates!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=dIjF3bwEmgU",
+          "description": "<p>.NET MAUI Release Candidate is here! With a \"go live\" license to boot! This means it is time to start building cross-platform native apps across iOS, Android, macOS, and Windows from a shared C# codebase! Today, I walkthrough everything you need to know to get started with the .NET MAUI Release Candidate on both Windows and on Mac with Visual Studio 2022.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=dIjF3bwEmgU\"><strong>.NET MAUI Release Candidates!</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": ".NET MAUI Release Candidate is here! With a \"go live\" license to boot! This means it is time to start building cross-platform native apps across iOS, Android, macOS, and Windows from a shared C# codebase! Today, I walkthrough everything you need to know to get started with the .NET MAUI Release Candidate on both Windows and on Mac with Visual Studio 2022.\r\n\r\n[**.NET MAUI Release Candidates!**](https://www.youtube.com/watch?v=dIjF3bwEmgU) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "XLE1wnT",
+              "title": "**.NET MAUI Release Candidates!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=dIjF3bwEmgU"
+            },
+            {
+              "identifier": "sYeaxap",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
