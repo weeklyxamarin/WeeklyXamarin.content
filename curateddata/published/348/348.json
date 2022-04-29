@@ -1,0 +1,280 @@
+{
+  "number": 348,
+  "title": "Issue 348",
+  "summary": "Release Candidate 2 - wow, that happened fast!",
+  "url": "https://weeklyxamarin.com/issues/348",
+  "publication_status": "published",
+  "published_at": "2022-04-29T09:49:25+01:00",
+  "updated_at": "2022-04-29T09:49:29+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #348 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.</p>\n\n<p>The big news this week is the release of RC2 of MAUI. Speaking of Release Candidates, Mac people can now have fun with the VS2022 for Mac Release Candidate too!</p>\n\n<p>If you live in the right time zones on May 3 there looks to be some really cool sessions happening live over on twitch at the <a href=\"https://twitter.com/Telerik/status/1519322630200901632\">Snorkelling in MAUI event</a> hosted by Sam Basu and Friends. Unfortunately, it will be the middle of the night here in Australia so I sure hope they record the sessions. But if you can make it to the sessions this should be amazing!</p>\n\n<p>Anyway, I hope you all have a lovely weekend and great week ahead,</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #348 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.\r\n\r\nThe big news this week is the release of RC2 of MAUI. Speaking of Release Candidates, Mac people can now have fun with the VS2022 for Mac Release Candidate too!\r\n\r\nIf you live in the right time zones on May 3 there looks to be some really cool sessions happening live over on twitch at the [Snorkelling in MAUI event](https://twitter.com/Telerik/status/1519322630200901632) hosted by Sam Basu and Friends. Unfortunately, it will be the middle of the night here in Australia so I sure hope they record the sessions. But if you can make it to the sessions this should be amazing!\r\n\r\nAnyway, I hope you all have a lovely weekend and great week ahead,\r\n\r\nKym\r\n\r\n",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "TvL6nLT",
+              "title": "Snorkelling in MAUI event",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Telerik/status/1519322630200901632"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "eujHRyu",
+          "type": "Link",
+          "title": ".NET MAUI Release Candidate 2 - With 100% More Tizen",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-2",
+          "description": "<p>.NET MAUI Release Candidate 2 is now available with bug fixes and full support for Tizen.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-2\"><strong>.NET MAUI Release Candidate 2 - With 100% More Tizen</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": ".NET MAUI Release Candidate 2 is now available with bug fixes and full support for Tizen. \r\n\r\n[**.NET MAUI Release Candidate 2 - With 100% More Tizen**](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-2) by [David Ortinau](https://twitter.com/davidortinau)",
+          "embedded_links": [
+            {
+              "identifier": "hPldqEz",
+              "title": "**.NET MAUI Release Candidate 2 - With 100% More Tizen**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-2"
+            },
+            {
+              "identifier": "PzaMPFi",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        },
+        {
+          "identifier": "yNgNknp",
+          "type": "Link",
+          "title": "Visual Studio 2022 for Mac Release Candidate",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-release-candidate",
+          "description": "<p>The Visual Studio 2022 for Mac 17.0 Release Candidate (RC) is ready for you to download now and includes a go-live license that allows you to develop in production environments.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-release-candidate\"><strong>Visual Studio 2022 for Mac Release Candidate</strong></a> by <a href=\"https://twitter.com/jmatthiesen\">Jordan Matthiesen</a></p>",
+          "description_markdown": "The Visual Studio 2022 for Mac 17.0 Release Candidate (RC) is ready for you to download now and includes a go-live license that allows you to develop in production environments.\r\n\r\n[**Visual Studio 2022 for Mac Release Candidate**](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-release-candidate) by [Jordan Matthiesen](https://twitter.com/jmatthiesen)",
+          "embedded_links": [
+            {
+              "identifier": "33vfluN",
+              "title": "**Visual Studio 2022 for Mac Release Candidate**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-release-candidate"
+            },
+            {
+              "identifier": "bVKVo9w",
+              "title": "Jordan Matthiesen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jmatthiesen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "cBgWChL",
+          "type": "Link",
+          "title": "The Ultimate Guide To Push Notifications For Developers",
+          "url_domain": "smashingmagazine.com",
+          "url": "https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/",
+          "description": "<p>What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.</p>\n\n<p><a href=\"https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/\"><strong>The Ultimate Guide To Push Notifications For Developers</strong></a> by <a href=\"https://twitter.com/leemunroe\">Lee Munroe</a></p>",
+          "description_markdown": "What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.\r\n\r\n[**The Ultimate Guide To Push Notifications For Developers**](https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/) by [Lee Munroe](https://twitter.com/leemunroe)",
+          "embedded_links": [
+            {
+              "identifier": "z5kFnHA",
+              "title": "**The Ultimate Guide To Push Notifications For Developers**",
+              "url_domain": "smashingmagazine.com",
+              "url": "https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/"
+            },
+            {
+              "identifier": "vSRSxX3",
+              "title": "Lee Munroe",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leemunroe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "i0MLAbq",
+          "type": "Link",
+          "title": "Replicating Foodora UI in .NET MAUI - Part 4",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-4/",
+          "description": "<p>This is the final post in the series of replicating the UI for the Foodora app using .NET MAUI.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-4/\"><strong>Replicating Foodora UI in .NET MAUI - Part 4</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "This is the final post in the series of replicating the UI for the Foodora app using .NET MAUI.\r\n\r\n[**Replicating Foodora UI in .NET MAUI - Part 4**](https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-4/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "ERSxNOh",
+              "title": "**Replicating Foodora UI in .NET MAUI - Part 4**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-4/"
+            },
+            {
+              "identifier": "LUfutu4",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "5ueYs3F",
+          "type": "Link",
+          "title": "Top 10 Features of .NET MAUI Scheduler",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/top-10-features-of-net-maui-scheduler.aspx",
+          "description": "<p>Syncfusion’s .NET MAUI Scheduler component has nine built-in configurable view modes that provide all the common scheduling functionalities. This blog post highlights some of it's top features.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/top-10-features-of-net-maui-scheduler.aspx\"><strong>Top 10 Features of .NET MAUI Scheduler</strong></a> by <a href=\"\">Jeyasri Murugan</a></p>",
+          "description_markdown": "Syncfusion’s .NET MAUI Scheduler component has nine built-in configurable view modes that provide all the common scheduling functionalities. This blog post highlights some of it's top features.\r\n\r\n[**Top 10 Features of .NET MAUI Scheduler**](https://www.syncfusion.com/blogs/post/top-10-features-of-net-maui-scheduler.aspx) by [Jeyasri Murugan]()",
+          "embedded_links": [
+            {
+              "identifier": "IMt6bJU",
+              "title": "**Top 10 Features of .NET MAUI Scheduler**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/top-10-features-of-net-maui-scheduler.aspx"
+            }
+          ]
+        },
+        {
+          "identifier": "dQF6q7J",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #54",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-54",
+          "description": "<p>A roundup of the latest happenings this week in the .NET MAUI world</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-54\"><strong>Sands of MAUI: Issue #54</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "A roundup of the latest happenings this week in the .NET MAUI world\r\n\r\n[**Sands of MAUI: Issue #54**](https://www.telerik.com/blogs/sands-of-maui-issue-54) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "RrT8geM",
+              "title": "**Sands of MAUI: Issue #54**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-54"
+            },
+            {
+              "identifier": "6QiatKr",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "x5dsTzu",
+          "type": "Link",
+          "title": "The .NET MAUI Community Toolkit: Converters, Controls and More!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=wwG0BVMkDb8",
+          "description": "<p>The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Converters, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier! In this video we will learn about the history of the .NET MAUI Community Toolkit and how to get started yourself!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=wwG0BVMkDb8\"><strong>The .NET MAUI Community Toolkit: Converters, Controls and More!</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Converters, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier! In this video we will learn about the history of the .NET MAUI Community Toolkit and how to get started yourself!\r\n\r\n[**The .NET MAUI Community Toolkit: Converters, Controls and More!**](https://www.youtube.com/watch?v=wwG0BVMkDb8) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "18rXWuK",
+              "title": "**The .NET MAUI Community Toolkit: Converters, Controls and More!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=wwG0BVMkDb8"
+            },
+            {
+              "identifier": "CzJLZMF",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "zCLJk7M",
+          "type": "Link",
+          "title": "What is .NET MAUI? How does it work? What about Blazor Hybrid?",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=KmLQLSKqvvI",
+          "description": "<p>It is time to answer that question that you all have been asking.. What exactly is .NET MAUI, how is it architected, how do I get started, and how does it differ from other frameworks. I break down each and every aspect of .NET MAUI and how you can build apps and also blend in Blazor Hybrid to leverage more code across iOS, Android, macOS, and Windows with C#.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=KmLQLSKqvvI\"><strong>What is .NET MAUI? How does it work? What about Blazor Hybrid?</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "It is time to answer that question that you all have been asking.. What exactly is .NET MAUI, how is it architected, how do I get started, and how does it differ from other frameworks. I break down each and every aspect of .NET MAUI and how you can build apps and also blend in Blazor Hybrid to leverage more code across iOS, Android, macOS, and Windows with C#.\r\n\r\n[**What is .NET MAUI? How does it work? What about Blazor Hybrid?**](https://www.youtube.com/watch?v=KmLQLSKqvvI) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "GBknV1G",
+              "title": "**What is .NET MAUI? How does it work? What about Blazor Hybrid?**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=KmLQLSKqvvI"
+            },
+            {
+              "identifier": "t8SotMS",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "Tkex8WL",
+          "type": "Link",
+          "title": "MAUI Animation. The .NET Show with Carl Franklin Ep 20",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=EMXjaSHlvXs",
+          "description": "<p>Learn the basics of how to do simple animation of UI elements.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=EMXjaSHlvXs\"><strong>MAUI Animation. The .NET Show with Carl Franklin Ep 20</strong></a> by <a href=\"https://twitter.com/carlfranklin\">Carl Franklin</a></p>",
+          "description_markdown": "Learn the basics of how to do simple animation of UI elements. \r\n\r\n[**MAUI Animation. The .NET Show with Carl Franklin Ep 20**](https://www.youtube.com/watch?v=EMXjaSHlvXs) by [Carl Franklin](https://twitter.com/carlfranklin)",
+          "embedded_links": [
+            {
+              "identifier": "ngY8Q5R",
+              "title": "**MAUI Animation. The .NET Show with Carl Franklin Ep 20**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=EMXjaSHlvXs"
+            },
+            {
+              "identifier": "XvxiCVt",
+              "title": "Carl Franklin",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/carlfranklin"
+            }
+          ]
+        },
+        {
+          "identifier": "l1UJDQY",
+          "type": "Link",
+          "title": "Merge Conflict: Episode 303",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/303",
+          "description": "<p>C# 11 is coming in hot with some awesome new previews and we break down our favorite features.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/303\"><strong>Merge Conflict: Episode 303</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "C# 11 is coming in hot with some awesome new previews and we break down our favorite features.\r\n\r\n[**Merge Conflict: Episode 303**](https://www.mergeconflict.fm/303) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "rgUxIj2",
+              "title": "**Merge Conflict: Episode 303**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/303"
+            },
+            {
+              "identifier": "QtImdxQ",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "Id": "348",
+  "Name": "Issue 348",
+  "UpdatedTimeStamp": "2022-04-29T08:49:29Z",
+  "Summary": "Release Candidate 2 - wow, that happened fast!",
+  "Introduction": "G'day everyone, welcome to issue #348 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week. The big news this week is the release of RC2 of MAUI. Speaking of Release Candidates, Mac people can now have fun with the VS2022 for Mac Release Candidate too! If you live in the right time zones on May 3 there looks to be some really cool sessions happening live over on twitch at the [Snorkelling in MAUI event](https://twitter.com/Telerik/status/1519322630200901632) hosted by Sam Basu and Friends. Unfortunately, it will be the middle of the night here in Australia so I sure hope they record the sessions. But if you can make it to the sessions this should be amazing! Anyway, I hope you all have a lovely weekend and great week ahead, Kym",
+  "PublishDate": "2022-04-29T08:49:25Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": ".NET MAUI Release Candidate 2 - With 100% More Tizen",
+      "Url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-2",
+      "Description": ".NET MAUI Release Candidate 2 is now available with bug fixes and full support for Tizen.",
+      "EditionId": "348",
+      "Author": "David Ortinau",
+      "Id": "348-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Visual Studio 2022 for Mac Release Candidate",
+      "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-release-candidate",
+      "Description": "The Visual Studio 2022 for Mac 17.0 Release Candidate (RC) is ready for you to download now and includes a go-live license that allows you to develop in production environments.",
+      "EditionId": "348",
+      "Author": "Jordan Matthiesen",
+      "Id": "348-2",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "The Ultimate Guide To Push Notifications For Developers",
+      "Url": "https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/",
+      "Description": "What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.",
+      "EditionId": "348",
+      "Author": "Lee Munroe",
+      "Id": "348-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Replicating Foodora UI in .NET MAUI - Part 4",
+      "Url": "https://www.andreasnesheim.no/replicating-foodora-ui-in-net-maui-part-4/",
+      "Description": "This is the final post in the series of replicating the UI for the Foodora app using .NET MAUI.",
+      "EditionId": "348",
+      "Author": "Andreas Nesheim",
+      "Id": "348-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Top 10 Features of .NET MAUI Scheduler",
+      "Url": "https://www.syncfusion.com/blogs/post/top-10-features-of-net-maui-scheduler.aspx",
+      "Description": "Syncfusion’s .NET MAUI Scheduler component has nine built-in configurable view modes that provide all the common scheduling functionalities. This blog post highlights some of it's top features.",
+      "EditionId": "348",
+      "Id": "348-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #54",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-54",
+      "Description": "A roundup of the latest happenings this week in the .NET MAUI world",
+      "EditionId": "348",
+      "Author": "Sam Basu",
+      "Id": "348-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "The .NET MAUI Community Toolkit: Converters, Controls and More!",
+      "Url": "https://www.youtube.com/watch?v=wwG0BVMkDb8",
+      "Description": "The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Converters, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier! In this video we will learn about the history of the .NET MAUI Community Toolkit and how to get started yourself!",
+      "EditionId": "348",
+      "Author": "Gerald Versluis",
+      "Id": "348-7",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "What is .NET MAUI? How does it work? What about Blazor Hybrid?",
+      "Url": "https://www.youtube.com/watch?v=KmLQLSKqvvI",
+      "Description": "It is time to answer that question that you all have been asking.. What exactly is .NET MAUI, how is it architected, how do I get started, and how does it differ from other frameworks. I break down each and every aspect of .NET MAUI and how you can build apps and also blend in Blazor Hybrid to leverage more code across iOS, Android, macOS, and Windows with C#.",
+      "EditionId": "348",
+      "Author": "James Montemagno",
+      "Id": "348-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "MAUI Animation. The .NET Show with Carl Franklin Ep 20",
+      "Url": "https://www.youtube.com/watch?v=EMXjaSHlvXs",
+      "Description": "Learn the basics of how to do simple animation of UI elements.",
+      "EditionId": "348",
+      "Author": "Carl Franklin",
+      "Id": "348-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: Episode 303",
+      "Url": "https://www.mergeconflict.fm/303",
+      "Description": "C# 11 is coming in hot with some awesome new previews and we break down our favorite features.",
+      "EditionId": "348",
+      "Author": "Merge Conflict",
+      "Id": "348-10",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
