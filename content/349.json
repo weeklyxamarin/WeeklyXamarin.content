@@ -1,0 +1,116 @@
+{
+  "Id": "349",
+  "Name": "Issue 349",
+  "UpdatedTimeStamp": "2022-05-08T11:44:50Z",
+  "Summary": "Happy MAUI Mothers Day!",
+  "Introduction": "G'day everyone, welcome to issue #349 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week. A happy Mother's Day to all the mothers out there! Hope you have had an amazing day and have been shown lots of love and appreciation today (and for the rest of the year). This week in the newsletter you've got to catch up on the recordings from the \"Snorkling in MAUI\" event held by Telerik and hosted by Sam Basu! Have a great week everyone Kym",
+  "PublishDate": "2022-05-08T11:44:46Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "What’s New in .NET MAUI RC2",
+      "Url": "https://egvijayanand.in/2022/05/02/whats-new-in-dotnet-maui-rc2/",
+      "Description": "Yes, another RC in such a short span of two weeks’ time. A more polished version and most importantly Samsung Tizen joins the .NET MAUI bandwagon. And it seems one more RC to follow before the GA release later this month. In this post, we’re going the see what’s got changed in .NET MAUI RC2 in detail.",
+      "EditionId": "349",
+      "Author": "Vijay Anand EG",
+      "Id": "349-1",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Handling Light and Dark Mode With .NET MAUI",
+      "Url": "https://www.telerik.com/blogs/handling-light-dark-mode-dotnet-maui",
+      "Description": "Learn how to adapt your .NET MAUI applications’ appearance configuration (system theme) to show light or dark mode based on user preference.",
+      "EditionId": "349",
+      "Author": "Leomaris Reyes",
+      "Id": "349-2",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Controlling your Philips Hue lights with .NET MAUI",
+      "Url": "https://www.andreasnesheim.no/controlling-your-philips-hue-lights-with-net-maui/",
+      "Description": "Andreas updates his Philips Hue app to MAUI.",
+      "EditionId": "349",
+      "Author": "Andreas Nesheim",
+      "Id": "349-3",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #55",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-55",
+      "Description": "Catch up with the latest MAUI updates with Sam Basu",
+      "EditionId": "349",
+      "Author": "Sam Basu",
+      "Id": "349-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Easily Create and Bind Custom Event Objects in .NET MAUI Scheduler",
+      "Url": "https://www.syncfusion.com/blogs/post/easily-create-and-bind-custom-event-objects-in-net-maui-scheduler.aspx",
+      "Description": "The .NET MAUI Scheduler control has nine types of built-in configurable view modes that provide basic functionalities for scheduling, managing, and representing appointments efficiently. It allows you to schedule events from any database. You can also easily bind any custom event (business) objects",
+      "EditionId": "349",
+      "Id": "349-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "The Journey to .NET MAUI GA",
+      "Url": "https://www.youtube.com/watch?v=iJTn_sHCaac",
+      "Description": "The awesome David Ortinau came to chat about The Journey to .NET MAUI GA. If you're interested in learning all that's new and upcoming in .NET MAUI, just dive right in!",
+      "EditionId": "349",
+      "Author": "David Ortinau",
+      "Id": "349-6",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Animations in .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=AqnSh7yxyMQ",
+      "Description": "If Animations in .NET MAUI sound exceptionally exciting to you, you're in the right place! Join Shawn Lawrence and Sam Basu for a .NET MAUI deep dive!",
+      "EditionId": "349",
+      "Author": "Shaun Lawrence",
+      "Id": "349-7",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Single Project Architecture in .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=JGBPKikc2pk",
+      "Description": "The wonderful Leomaris Reyes came to give her talk on Single Project Architecture in .NET MAUI. If you're interested in learning all that's new and upcoming in .NET MAUI, just dive right in the show with host Sam Basu!",
+      "EditionId": "349",
+      "Author": "Leomaris Reyes",
+      "Id": "349-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Standup - It's MAUI month!",
+      "Url": "https://www.youtube.com/watch?v=ajjYb4aFkqc",
+      "Description": "Join Maddy Montaquila, David Ortinau, and special guest Brandon Minnick for the final community standup before .NET MAUI ships GA!!!! Brandon will share how him and the Xamarin Community Toolkit team got their libraries ready for .NET MAUI!",
+      "EditionId": "349",
+      "Id": "349-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Toolkit Monthly Standup (May 2022)",
+      "Url": "https://www.youtube.com/watch?v=IgeeSkSjZNk",
+      "Description": "Join us as we review recent updates and upcoming changes to the .NET MAUI Community Toolkit!",
+      "EditionId": "349",
+      "Id": "349-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "No XAML? No Problem! Create Your .NET. MAUI UI in Code with C# Markup!",
+      "Url": "https://www.youtube.com/watch?v=nCNh9G-Q688",
+      "Description": "C# Markup is a set of fluent helper methods and classes designed to simplify the process of building declarative .NET MAUI user interfaces in code. The C# Markup extensions are available through the .NET MAUI Community Toolkit and in this video we are going to see how to recreate the default template page in C# code!",
+      "EditionId": "349",
+      "Author": "Gerald Versluis",
+      "Id": "349-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Why You NEED .NET MAUI's new Dependency Injection",
+      "Url": "https://www.youtube.com/watch?v=xx1mve2AQr4",
+      "Description": ".NET MAUI supports the dependency injection (DI) software design pattern, which is a technique for achieving Inversion of Control (IoC) between classes and their dependencies. On top of that it fully supports constructor injection and full dependency resolution when navigating when using Shell. James break down every little thing you need to know about DI, IoC, and constructor injection with .NET MAUI.",
+      "EditionId": "349",
+      "Author": "James Montemagno",
+      "Id": "349-12",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

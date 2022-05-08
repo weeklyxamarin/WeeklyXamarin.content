@@ -1,0 +1,297 @@
+{
+  "number": 349,
+  "title": "Issue 349",
+  "summary": "Happy MAUI Mothers Day!",
+  "url": "https://weeklyxamarin.com/issues/349",
+  "publication_status": "published",
+  "published_at": "2022-05-08T12:44:46+01:00",
+  "updated_at": "2022-05-08T12:44:50+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #349 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.</p>\n\n<p>A happy Mother's Day to all the mothers out there! Hope you have had an amazing day and have been shown lots of love and appreciation today (and for the rest of the year).</p>\n\n<p>This week in the newsletter you've got to catch up on the recordings from the \"Snorkling in MAUI\" event held by Telerik and hosted by Sam Basu!</p>\n\n<p>Have a great week everyone</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #349 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.\r\n\r\nA happy Mother's Day to all the mothers out there! Hope you have had an amazing day and have been shown lots of love and appreciation today (and for the rest of the year).\r\n\r\nThis week in the newsletter you've got to catch up on the recordings from the \"Snorkling in MAUI\" event held by Telerik and hosted by Sam Basu!\r\n\r\nHave a great week everyone\r\n\r\nKym\r\n",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "YxehQnF",
+          "type": "Link",
+          "title": "What’s New in .NET MAUI RC2",
+          "url_domain": "egvijayanand.in",
+          "url": "https://egvijayanand.in/2022/05/02/whats-new-in-dotnet-maui-rc2/",
+          "description": "<p>Yes, another RC in such a short span of two weeks’ time. A more polished version and most importantly Samsung Tizen joins the .NET MAUI bandwagon. And it seems one more RC to follow before the GA release later this month.</p>\n\n<p>In this post, we’re going the see what’s got changed in .NET MAUI RC2 in detail.</p>\n\n<p><a href=\"https://egvijayanand.in/2022/05/02/whats-new-in-dotnet-maui-rc2/\"><strong>What’s New in .NET MAUI RC2</strong></a> by <a href=\"https://twitter.com/egvijayanand\">Vijay Anand EG</a></p>",
+          "description_markdown": "Yes, another RC in such a short span of two weeks’ time. A more polished version and most importantly Samsung Tizen joins the .NET MAUI bandwagon. And it seems one more RC to follow before the GA release later this month.\r\n\r\nIn this post, we’re going the see what’s got changed in .NET MAUI RC2 in detail.\r\n\r\n[**What’s New in .NET MAUI RC2**](https://egvijayanand.in/2022/05/02/whats-new-in-dotnet-maui-rc2/) by [Vijay Anand EG](https://twitter.com/egvijayanand)",
+          "embedded_links": [
+            {
+              "identifier": "xvyGhGT",
+              "title": "**What’s New in .NET MAUI RC2**",
+              "url_domain": "egvijayanand.in",
+              "url": "https://egvijayanand.in/2022/05/02/whats-new-in-dotnet-maui-rc2/"
+            },
+            {
+              "identifier": "1IXbnap",
+              "title": "Vijay Anand EG",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/egvijayanand"
+            }
+          ]
+        },
+        {
+          "identifier": "XZEFQWk",
+          "type": "Link",
+          "title": "Handling Light and Dark Mode With .NET MAUI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/handling-light-dark-mode-dotnet-maui",
+          "description": "<p>Learn how to adapt your .NET MAUI applications’ appearance configuration (system theme) to show light or dark mode based on user preference.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/handling-light-dark-mode-dotnet-maui\"><strong>Handling Light and Dark Mode With .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Learn how to adapt your .NET MAUI applications’ appearance configuration (system theme) to show light or dark mode based on user preference.\r\n\r\n[**Handling Light and Dark Mode With .NET MAUI**](https://www.telerik.com/blogs/handling-light-dark-mode-dotnet-maui) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "JfXgM3u",
+              "title": "**Handling Light and Dark Mode With .NET MAUI**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/handling-light-dark-mode-dotnet-maui"
+            },
+            {
+              "identifier": "lu2sjLN",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "Oqxbdpf",
+          "type": "Link",
+          "title": "Controlling your Philips Hue lights with .NET MAUI",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/controlling-your-philips-hue-lights-with-net-maui/",
+          "description": "<p>Andreas updates his Philips Hue app to MAUI.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/controlling-your-philips-hue-lights-with-net-maui/\"><strong>Controlling your Philips Hue lights with .NET MAUI</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "Andreas updates his Philips Hue app to MAUI.\r\n\r\n[**Controlling your Philips Hue lights with .NET MAUI**](https://www.andreasnesheim.no/controlling-your-philips-hue-lights-with-net-maui/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "rNFSooW",
+              "title": "**Controlling your Philips Hue lights with .NET MAUI**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/controlling-your-philips-hue-lights-with-net-maui/"
+            },
+            {
+              "identifier": "2mfD3XN",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "ioXTQ2J",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #55",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-55",
+          "description": "<p>Catch up with the latest MAUI updates with Sam Basu</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-55\"><strong>Sands of MAUI: Issue #55</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Catch up with the latest MAUI updates with Sam Basu\r\n\r\n[**Sands of MAUI: Issue #55**](https://www.telerik.com/blogs/sands-of-maui-issue-55) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "95LVtSJ",
+              "title": "**Sands of MAUI: Issue #55**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-55"
+            },
+            {
+              "identifier": "QLE3n0i",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "akFu3Oi",
+          "type": "Link",
+          "title": "Easily Create and Bind Custom Event Objects in .NET MAUI Scheduler",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/easily-create-and-bind-custom-event-objects-in-net-maui-scheduler.aspx",
+          "description": "<p>The .NET MAUI Scheduler control has nine types of built-in configurable view modes that provide basic functionalities for scheduling, managing, and representing appointments efficiently. It allows you to schedule events from any database. You can also easily bind any custom event (business) objects</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/easily-create-and-bind-custom-event-objects-in-net-maui-scheduler.aspx\"><strong>Easily Create and Bind Custom Event Objects in .NET MAUI Scheduler</strong></a> by <a href=\"\">Jeyasri Murugan</a></p>",
+          "description_markdown": "The .NET MAUI Scheduler control has nine types of built-in configurable view modes that provide basic functionalities for scheduling, managing, and representing appointments efficiently. It allows you to schedule events from any database. You can also easily bind any custom event (business) objects\r\n\r\n[**Easily Create and Bind Custom Event Objects in .NET MAUI Scheduler**](https://www.syncfusion.com/blogs/post/easily-create-and-bind-custom-event-objects-in-net-maui-scheduler.aspx) by [Jeyasri Murugan]()",
+          "embedded_links": [
+            {
+              "identifier": "WjKo9nB",
+              "title": "**Easily Create and Bind Custom Event Objects in .NET MAUI Scheduler**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/easily-create-and-bind-custom-event-objects-in-net-maui-scheduler.aspx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "1nhDgHQ",
+          "type": "Link",
+          "title": "The Journey to .NET MAUI GA",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=iJTn_sHCaac",
+          "description": "<p>The awesome David Ortinau came to chat about The Journey to .NET MAUI GA. If you're interested in learning all that's new and upcoming in .NET MAUI, just dive right in!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=iJTn_sHCaac\"><strong>The Journey to .NET MAUI GA with David Ortinau | Snorkeling in MAUI</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": "The awesome David Ortinau came to chat about The Journey to .NET MAUI GA. If you're interested in learning all that's new and upcoming in .NET MAUI, just dive right in!\r\n\r\n[**The Journey to .NET MAUI GA with David Ortinau | Snorkeling in MAUI**](https://www.youtube.com/watch?v=iJTn_sHCaac) by [David Ortinau](https://twitter.com/davidortinau)",
+          "embedded_links": [
+            {
+              "identifier": "B1xvN4C",
+              "title": "**The Journey to .NET MAUI GA with David Ortinau | Snorkeling in MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=iJTn_sHCaac"
+            },
+            {
+              "identifier": "yT2UBly",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        },
+        {
+          "identifier": "AuUQsUA",
+          "type": "Link",
+          "title": "Animations in .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=AqnSh7yxyMQ",
+          "description": "<p>If Animations in .NET MAUI sound exceptionally exciting to you, you're in the right place! Join Shawn Lawrence and Sam Basu for a .NET MAUI deep dive!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=AqnSh7yxyMQ\"><strong>Animations in .NET MAUI with Shawn Lawrence | Snorkeling in MAUI</strong></a> by <a href=\"https://twitter.com/bijington\">Shaun Lawrence</a></p>",
+          "description_markdown": "If Animations in .NET MAUI sound exceptionally exciting to you, you're in the right place! Join Shawn Lawrence and Sam Basu for a .NET MAUI deep dive!\r\n\r\n[**Animations in .NET MAUI with Shawn Lawrence | Snorkeling in MAUI**](https://www.youtube.com/watch?v=AqnSh7yxyMQ) by [Shaun Lawrence](https://twitter.com/bijington)",
+          "embedded_links": [
+            {
+              "identifier": "3E7PUc6",
+              "title": "**Animations in .NET MAUI with Shawn Lawrence | Snorkeling in MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=AqnSh7yxyMQ"
+            },
+            {
+              "identifier": "HEi1JFr",
+              "title": "Shaun Lawrence",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bijington"
+            }
+          ]
+        },
+        {
+          "identifier": "hJIj1ZN",
+          "type": "Link",
+          "title": "Single Project Architecture in .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=JGBPKikc2pk",
+          "description": "<p>The wonderful Leomaris Reyes came to give her talk on Single Project Architecture in .NET MAUI. If you're interested in learning all that's new and upcoming in .NET MAUI, just dive right in the show with host Sam Basu!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=JGBPKikc2pk\"><strong>Single Project Architecture in .NET MAUI with Leomaris Reyes | Snorkeling in MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "The wonderful Leomaris Reyes came to give her talk on Single Project Architecture in .NET MAUI. If you're interested in learning all that's new and upcoming in .NET MAUI, just dive right in the show with host Sam Basu!\r\n\r\n[**Single Project Architecture in .NET MAUI with Leomaris Reyes | Snorkeling in MAUI**](https://www.youtube.com/watch?v=JGBPKikc2pk) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "OnfP4Zq",
+              "title": "**Single Project Architecture in .NET MAUI with Leomaris Reyes | Snorkeling in MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=JGBPKikc2pk"
+            },
+            {
+              "identifier": "E078Z7x",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "93NegNa",
+          "type": "Link",
+          "title": ".NET MAUI Community Standup - It's MAUI month!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=ajjYb4aFkqc",
+          "description": "<p>Join Maddy Montaquila, David Ortinau, and special guest Brandon Minnick for the final community standup before .NET MAUI ships GA!!!! Brandon will share how him and the Xamarin Community Toolkit team got their libraries ready for .NET MAUI!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=ajjYb4aFkqc\"><strong>.NET MAUI Community Standup - It's MAUI month! Stories from migrating the Xamarin Community Toolkit</strong></a> by <a href=\"\">Xamarin Developers</a></p>",
+          "description_markdown": "Join Maddy Montaquila, David Ortinau, and special guest Brandon Minnick for the final community standup before .NET MAUI ships GA!!!! Brandon will share how him and the Xamarin Community Toolkit team got their libraries ready for .NET MAUI!\r\n\r\n[**.NET MAUI Community Standup - It's MAUI month! Stories from migrating the Xamarin Community Toolkit**](https://www.youtube.com/watch?v=ajjYb4aFkqc) by [Xamarin Developers]()",
+          "embedded_links": [
+            {
+              "identifier": "SbJiwWi",
+              "title": "**.NET MAUI Community Standup - It's MAUI month! Stories from migrating the Xamarin Community Toolkit**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=ajjYb4aFkqc"
+            }
+          ]
+        },
+        {
+          "identifier": "G6hBj9J",
+          "type": "Link",
+          "title": ".NET MAUI Community Toolkit Monthly Standup (May 2022)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=IgeeSkSjZNk",
+          "description": "<p>Join us as we review recent updates and upcoming changes to the .NET MAUI Community Toolkit!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=IgeeSkSjZNk\"><strong>.NET MAUI Community Toolkit Monthly Standup (May 2022)</strong></a> by <a href=\"\">.NET Foundation</a></p>",
+          "description_markdown": "Join us as we review recent updates and upcoming changes to the .NET MAUI Community Toolkit!\r\n\r\n[**.NET MAUI Community Toolkit Monthly Standup (May 2022)**](https://www.youtube.com/watch?v=IgeeSkSjZNk) by [.NET Foundation]()",
+          "embedded_links": [
+            {
+              "identifier": "2kLqDw4",
+              "title": "**.NET MAUI Community Toolkit Monthly Standup (May 2022)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=IgeeSkSjZNk"
+            }
+          ]
+        },
+        {
+          "identifier": "IVbumlG",
+          "type": "Link",
+          "title": "No XAML? No Problem! Create Your .NET. MAUI UI in Code with C# Markup!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=nCNh9G-Q688",
+          "description": "<p>C# Markup is a set of fluent helper methods and classes designed to simplify the process of building declarative .NET MAUI user interfaces in code. The C# Markup extensions are available through the .NET MAUI Community Toolkit and in this video we are going to see how to recreate the default template page in C# code!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=nCNh9G-Q688\"><strong>No XAML? No Problem! Create Your .NET. MAUI UI in Code with C# Markup!</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "C# Markup is a set of fluent helper methods and classes designed to simplify the process of building declarative .NET MAUI user interfaces in code. The C# Markup extensions are available through the .NET MAUI Community Toolkit and in this video we are going to see how to recreate the default template page in C# code!\r\n\r\n[**No XAML? No Problem! Create Your .NET. MAUI UI in Code with C# Markup!**](https://www.youtube.com/watch?v=nCNh9G-Q688) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "TDfR4k0",
+              "title": "**No XAML? No Problem! Create Your .NET. MAUI UI in Code with C# Markup!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=nCNh9G-Q688"
+            },
+            {
+              "identifier": "ZU1rC4A",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "yZPU9e8",
+          "type": "Link",
+          "title": "Why You NEED .NET MAUI's new Dependency Injection",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=xx1mve2AQr4",
+          "description": "<p>.NET MAUI supports the dependency injection (DI) software design pattern, which is a technique for achieving Inversion of Control (IoC) between classes and their dependencies. On top of that it fully supports constructor injection and full dependency resolution when navigating when using Shell. James break down every little thing you need to know about DI, IoC, and constructor injection with .NET MAUI.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=xx1mve2AQr4\"><strong>Why You NEED .NET MAUI's new Dependency Injection</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": ".NET MAUI supports the dependency injection (DI) software design pattern, which is a technique for achieving Inversion of Control (IoC) between classes and their dependencies. On top of that it fully supports constructor injection and full dependency resolution when navigating when using Shell. James break down every little thing you need to know about DI, IoC, and constructor injection with .NET MAUI.\r\n\r\n[**Why You NEED .NET MAUI's new Dependency Injection**](https://www.youtube.com/watch?v=xx1mve2AQr4) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "yLLqg7F",
+              "title": "**Why You NEED .NET MAUI's new Dependency Injection**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=xx1mve2AQr4"
+            },
+            {
+              "identifier": "qDp4hXh",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
