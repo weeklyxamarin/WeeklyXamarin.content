@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "350",
+      "Name": "Issue 350",
+      "UpdatedTimeStamp": "2022-05-14T07:50:03Z",
+      "Summary": "MAUI RC3, The .NET Maui Crash Course and even more Snorkeling",
+      "PublishDate": "2022-05-14T07:50:00Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "349",
       "Name": "Issue 349",
       "UpdatedTimeStamp": "2022-05-08T11:44:50Z",

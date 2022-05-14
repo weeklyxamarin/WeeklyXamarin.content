@@ -2445,6 +2445,16 @@
       ]
     },
     {
+      "Name": "Petar Marchev",
+      "Id": "dc45149e-afef-4353-be51-ef32f87bac04",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.telerik.com/blogs/author/petar-marchev"
+        }
+      ]
+    },
+    {
       "Name": "Peter Foot",
       "TwitterHandle": "peterfoot",
       "GitHubHandle": "peterfoot",
