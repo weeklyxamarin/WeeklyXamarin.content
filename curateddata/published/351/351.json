@@ -1,0 +1,585 @@
+{
+  "number": 351,
+  "title": "Issue 351",
+  "summary": "//Build, MAUI Crash Course, and UI July!",
+  "url": "https://weeklyxamarin.com/issues/351",
+  "publication_status": "published",
+  "published_at": "2022-05-23T04:07:24+01:00",
+  "updated_at": "2022-05-23T04:07:28+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #351 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.</p>\n\n<p>3 Big things for this week:</p>\n\n<p>1) We are getting so close to the <a href=\"https://mybuild.microsoft.com/\">Microsoft Build</a> which is going to be amazing, so make sure you register.</p>\n\n<p>2) Gerald has released all the videos for his <a href=\"https://www.youtube.com/playlist?list=PLfbOp004UaYVt1En4WW3pVuM-vm66OqZe\">MAUI crash course</a> - If you want to get started with MAUI, check this out!</p>\n\n<p>3) Matt Goldman is reviving <a href=\"https://goforgoldman.com/2022/05/19/maui-ui-july.html\">UI July but for MAUI</a> - can't wait to see all the great articles from this.</p>\n\n<p>All the best till next week,</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #351 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.\r\n\r\n3 Big things for this week:\r\n\r\n1) We are getting so close to the [Microsoft Build](https://mybuild.microsoft.com/) which is going to be amazing, so make sure you register.\r\n\r\n2) Gerald has released all the videos for his [MAUI crash course](https://www.youtube.com/playlist?list=PLfbOp004UaYVt1En4WW3pVuM-vm66OqZe) - If you want to get started with MAUI, check this out!\r\n\r\n3) Matt Goldman is reviving [UI July but for MAUI](https://goforgoldman.com/2022/05/19/maui-ui-july.html) - can't wait to see all the great articles from this.\r\n\r\nAll the best till next week,\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "rMGthjs",
+              "title": "Microsoft Build",
+              "url_domain": "microsoft.com",
+              "url": "https://mybuild.microsoft.com/"
+            },
+            {
+              "identifier": "p5I1aVX",
+              "title": "MAUI crash course",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/playlist?list=PLfbOp004UaYVt1En4WW3pVuM-vm66OqZe"
+            },
+            {
+              "identifier": "O8CyUev",
+              "title": "UI July but for MAUI",
+              "url_domain": "goforgoldman.com",
+              "url": "https://goforgoldman.com/2022/05/19/maui-ui-july.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "ykX28Gz",
+          "type": "Link",
+          "title": ".NET MAUI Finally Replaces Xamarin in Visual Studio 2022 17.3 Preview",
+          "url_domain": "visualstudiomagazine.com",
+          "url": "https://visualstudiomagazine.com/articles/2022/05/13/net-maui-vs.aspx",
+          "description": "<p>MAUI is now a project type among the five Desktop &amp; Mobile options in Visual Studio 2022 17.3 Preview 1, replacing the Xamarin-based option.</p>\n\n<p><a href=\"https://visualstudiomagazine.com/articles/2022/05/13/net-maui-vs.aspx\"><strong>.NET MAUI Finally Replaces Xamarin in Visual Studio 2022 17.3 Preview</strong></a> by <a href=\"https://twitter.com/dramel\">David Ramel</a></p>",
+          "description_markdown": "MAUI is now a project type among the five Desktop & Mobile options in Visual Studio 2022 17.3 Preview 1, replacing the Xamarin-based option.\r\n\r\n[**.NET MAUI Finally Replaces Xamarin in Visual Studio 2022 17.3 Preview**](https://visualstudiomagazine.com/articles/2022/05/13/net-maui-vs.aspx) by [David Ramel](https://twitter.com/dramel)",
+          "embedded_links": [
+            {
+              "identifier": "Bxfbkct",
+              "title": "**.NET MAUI Finally Replaces Xamarin in Visual Studio 2022 17.3 Preview**",
+              "url_domain": "visualstudiomagazine.com",
+              "url": "https://visualstudiomagazine.com/articles/2022/05/13/net-maui-vs.aspx"
+            },
+            {
+              "identifier": "sEDOn9r",
+              "title": "David Ramel",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/dramel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "tools",
+      "name": "TOOLS",
+      "items": [
+        {
+          "identifier": "Wk0ozmZ",
+          "type": "Link",
+          "title": "Code snippets for CommunityToolkit.Mvvm",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/code-snippets-for-communitytoolkit-mvvm/",
+          "description": "<p>Andreas shares a few Visual Studio code snippets for CommunityToolkit-MVVM.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/code-snippets-for-communitytoolkit-mvvm/\"><strong>Code snippets for CommunityToolkit.Mvvm</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "Andreas shares a few Visual Studio code snippets for CommunityToolkit-MVVM. \r\n\r\n[**Code snippets for CommunityToolkit.Mvvm**](https://www.andreasnesheim.no/code-snippets-for-communitytoolkit-mvvm/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "TGS4IFk",
+              "title": "**Code snippets for CommunityToolkit.Mvvm**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/code-snippets-for-communitytoolkit-mvvm/"
+            },
+            {
+              "identifier": "ljsKbFz",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "dGKKCAV",
+          "type": "Link",
+          "title": "Introducing .NET MAUI UI July",
+          "url_domain": "goforgoldman.com",
+          "url": "https://goforgoldman.com/2022/05/19/maui-ui-july.html",
+          "description": "<p>Matt Goldman is reviving Xamarin UI July (originally created back in 2019 by Steven Thewissen). But this time for .NET MAUI! Every day throughout July, a community-contributed blog post or video will be published showing some incredible UI magic in .NET MAUI. Reserve your spot!</p>\n\n<p><a href=\"https://goforgoldman.com/2022/05/19/maui-ui-july.html\"><strong>Introducing .NET MAUI UI July</strong></a> by <a href=\"https://twitter.com/mattgoldman\">Matt Goldman</a></p>",
+          "description_markdown": "Matt Goldman is reviving Xamarin UI July (originally created back in 2019 by Steven Thewissen). But this time for .NET MAUI! Every day throughout July, a community-contributed blog post or video will be published showing some incredible UI magic in .NET MAUI. Reserve your spot!\r\n\r\n[**Introducing .NET MAUI UI July**](https://goforgoldman.com/2022/05/19/maui-ui-july.html) by [Matt Goldman](https://twitter.com/mattgoldman)",
+          "embedded_links": [
+            {
+              "identifier": "OIhASjh",
+              "title": "**Introducing .NET MAUI UI July**",
+              "url_domain": "goforgoldman.com",
+              "url": "https://goforgoldman.com/2022/05/19/maui-ui-july.html"
+            },
+            {
+              "identifier": "wOT7QQU",
+              "title": "Matt Goldman",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mattgoldman"
+            }
+          ]
+        },
+        {
+          "identifier": "IP88ytE",
+          "type": "Link",
+          "title": "Migrating MR.Gestures from Xamarin.Forms to .NET MAUI",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/xamarin/migrating-mrgestures-to-dotnet-maui",
+          "description": "<p>In this guest blog post, Michael Rumpler shares how he ported his popular Xamarin.Forms library, MR.Gestures, to support .NET MAUI.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/xamarin/migrating-mrgestures-to-dotnet-maui\"><strong>Migrating MR.Gestures from Xamarin.Forms to .NET MAUI</strong></a> by <a href=\"https://twitter.com/mrumpler\">Michael Rumpler</a></p>",
+          "description_markdown": "In this guest blog post, Michael Rumpler shares how he ported his popular Xamarin.Forms library, MR.Gestures, to support .NET MAUI.\r\n\r\n[**Migrating MR.Gestures from Xamarin.Forms to .NET MAUI**](https://devblogs.microsoft.com/xamarin/migrating-mrgestures-to-dotnet-maui) by [Michael Rumpler](https://twitter.com/mrumpler)",
+          "embedded_links": [
+            {
+              "identifier": "F93JMlz",
+              "title": "**Migrating MR.Gestures from Xamarin.Forms to .NET MAUI**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/migrating-mrgestures-to-dotnet-maui"
+            },
+            {
+              "identifier": "8ILDQXK",
+              "title": "Michael Rumpler",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mrumpler"
+            }
+          ]
+        },
+        {
+          "identifier": "6RyrPsP",
+          "type": "Link",
+          "title": "Essential .NET Maui Resources",
+          "url_domain": "learndotnetmaui.com",
+          "url": "https://learndotnetmaui.com/2021/12/04/example-post-3/",
+          "description": "<p>Here are some useful links to get started learning and developing with .Net Maui</p>\n\n<p><a href=\"https://learndotnetmaui.com/2021/12/04/example-post-3/\"><strong>Essential .NET Maui Resources</strong></a> by <a href=\"https://learndotnetmaui.com/\">Paramjit Singh</a></p>",
+          "description_markdown": "Here are some useful links to get started learning and developing with .Net Maui\r\n\r\n[**Essential .NET Maui Resources**](https://learndotnetmaui.com/2021/12/04/example-post-3/) by [Paramjit Singh](https://learndotnetmaui.com/)",
+          "embedded_links": [
+            {
+              "identifier": "Ezl6tP7",
+              "title": "**Essential .NET Maui Resources**",
+              "url_domain": "learndotnetmaui.com",
+              "url": "https://learndotnetmaui.com/2021/12/04/example-post-3/"
+            },
+            {
+              "identifier": "NLoaRVZ",
+              "title": "Paramjit Singh",
+              "url_domain": "learndotnetmaui.com",
+              "url": "https://learndotnetmaui.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "lm88zaD",
+          "type": "Link",
+          "title": "8 Very Useful Markup Extensions in .NET MAUI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/8-very-useful-markup-extensions-dotnet-maui",
+          "description": "<p>Learn 8 of the most common and useful XAML markup extensions for .NET MAUI.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/8-very-useful-markup-extensions-dotnet-maui\"><strong>8 Very Useful Markup Extensions in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Learn 8 of the most common and useful XAML markup extensions for .NET MAUI.\r\n\r\n[**8 Very Useful Markup Extensions in .NET MAUI**](https://www.telerik.com/blogs/8-very-useful-markup-extensions-dotnet-maui) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "Ud1kjFd",
+              "title": "**8 Very Useful Markup Extensions in .NET MAUI**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/8-very-useful-markup-extensions-dotnet-maui"
+            },
+            {
+              "identifier": "37QMEfp",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "4JefLJL",
+          "type": "Link",
+          "title": "Design Different Styles of Radial Sliders Using the .NET MAUI Radial Gauge",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/design-different-styles-of-radial-sliders-using-the-net-maui-radial-gauge.aspx",
+          "description": "<p>This article looks at how to utilize the Syncfusion .NET MAUI Radial Gauge control to design different styles of radial sliders.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/design-different-styles-of-radial-sliders-using-the-net-maui-radial-gauge.aspx\"><strong>Design Different Styles of Radial Sliders Using the .NET MAUI Radial Gauge</strong></a> by <a href=\"\">Sheik Syed</a></p>",
+          "description_markdown": "This article looks at how to utilize the Syncfusion .NET MAUI Radial Gauge control to design different styles of radial sliders.\r\n\r\n[**Design Different Styles of Radial Sliders Using the .NET MAUI Radial Gauge**](https://www.syncfusion.com/blogs/post/design-different-styles-of-radial-sliders-using-the-net-maui-radial-gauge.aspx) by [Sheik Syed]()",
+          "embedded_links": [
+            {
+              "identifier": "8oFm6QJ",
+              "title": "**Design Different Styles of Radial Sliders Using the .NET MAUI Radial Gauge**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/design-different-styles-of-radial-sliders-using-the-net-maui-radial-gauge.aspx"
+            }
+          ]
+        },
+        {
+          "identifier": "5Jh9W0T",
+          "type": "Link",
+          "title": "Getting Offline Country Data",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/getting-offline-country-data-in-dotnet-maui/",
+          "description": "<p>This article describes getting Offline Country Data in MAUI using a nuget called CountryData.Net.</p>\n\n<p><a href=\"https://doumer.me/getting-offline-country-data-in-dotnet-maui/\"><strong>Getting Offline Country Data in Dotnet MAUI or Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "This article describes getting Offline Country Data in MAUI using a nuget called CountryData.Net.\r\n\r\n[**Getting Offline Country Data in Dotnet MAUI or Xamarin.Forms**](https://doumer.me/getting-offline-country-data-in-dotnet-maui/) by [Damien Doumer](https://twitter.com/damien_doumer)",
+          "embedded_links": [
+            {
+              "identifier": "gfPzFfQ",
+              "title": "**Getting Offline Country Data in Dotnet MAUI or Xamarin.Forms**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/getting-offline-country-data-in-dotnet-maui/"
+            },
+            {
+              "identifier": "exW8kgk",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        },
+        {
+          "identifier": "LJtIu0I",
+          "type": "Link",
+          "title": "Building a Task Sequence in Xamarin Forms/ MAUI (Part 2)",
+          "url_domain": "xamboy.com",
+          "url": "https://www.xamboy.com/2022/05/10/building-a-task-sequence-in-xamarin-forms-maui-part-2/",
+          "description": "<p>Second part of the task sequence blog which shows you how to start the sequence from a specific task, run tasks conditionally and pass parameters between tasks.</p>\n\n<p><a href=\"https://www.xamboy.com/2022/05/10/building-a-task-sequence-in-xamarin-forms-maui-part-2/\"><strong>Building a Task Sequence in Xamarin Forms/ MAUI (Part 2)</strong></a> by <a href=\"https://twitter.com/rdelrosario\">Rendy Del Rosario</a></p>",
+          "description_markdown": "Second part of the task sequence blog which shows you how to start the sequence from a specific task, run tasks conditionally and pass parameters between tasks.\r\n\r\n[**Building a Task Sequence in Xamarin Forms/ MAUI (Part 2)**](https://www.xamboy.com/2022/05/10/building-a-task-sequence-in-xamarin-forms-maui-part-2/) by [Rendy Del Rosario](https://twitter.com/rdelrosario)",
+          "embedded_links": [
+            {
+              "identifier": "SLHhILW",
+              "title": "**Building a Task Sequence in Xamarin Forms/ MAUI (Part 2)**",
+              "url_domain": "xamboy.com",
+              "url": "https://www.xamboy.com/2022/05/10/building-a-task-sequence-in-xamarin-forms-maui-part-2/"
+            },
+            {
+              "identifier": "jsfycKL",
+              "title": "Rendy Del Rosario",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/rdelrosario"
+            }
+          ]
+        },
+        {
+          "identifier": "Qcyzp3I",
+          "type": "Link",
+          "title": "How to use biometric authentication in .NET MAUI",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/how-to-use-biometric-authentication-in-net-maui/",
+          "description": "<p>Here’s how you can authenticate via Face ID (iOS) or fingerprint (Android / iOS) in your .NET MAUI app.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/how-to-use-biometric-authentication-in-net-maui/\"><strong>How to use biometric authentication in .NET MAUI</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "Here’s how you can authenticate via Face ID (iOS) or fingerprint (Android / iOS) in your .NET MAUI app.\r\n\r\n[**How to use biometric authentication in .NET MAUI**](https://www.andreasnesheim.no/how-to-use-biometric-authentication-in-net-maui/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "BbXZJDZ",
+              "title": "**How to use biometric authentication in .NET MAUI**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/how-to-use-biometric-authentication-in-net-maui/"
+            },
+            {
+              "identifier": "jwy8c4b",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "e0Lfz3b",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #57",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-57",
+          "description": "<p>The weekly coming-and-goings in the MAUI Community</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-57\"><strong>Sands of MAUI: Issue #57</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "The weekly coming-and-goings in the MAUI Community\r\n\r\n[**Sands of MAUI: Issue #57**](https://www.telerik.com/blogs/sands-of-maui-issue-57) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "qnDOuiX",
+              "title": "**Sands of MAUI: Issue #57**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-57"
+            },
+            {
+              "identifier": "mAQuNvb",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "DQloVtM",
+          "type": "Link",
+          "title": "DevTalk 81: Building mobile games with .NET MAUI. With Shaun Lawrence",
+          "url_domain": "lothrop.de",
+          "url": "https://kerry.lothrop.de/devtalk-81-shaun-lawrence/",
+          "description": "<p>On this episode of DevTalk Kerry speaks to Shaun Lawrence about building mobile games with .NET MAUI.</p>\n\n<p>Links</p>\n\n<p>Building a Mobile Game with Xamarin.Forms – XamExpertDay 2021</p>\n\n<p><a href=\"https://kerry.lothrop.de/devtalk-81-shaun-lawrence/\"><strong>DevTalk 81: Building mobile games with .NET MAUI. With Shaun Lawrence</strong></a> by <a href=\"https://twitter.com/kwlothrop\">Kerry Lothrop</a></p>",
+          "description_markdown": "On this episode of DevTalk Kerry speaks to Shaun Lawrence about building mobile games with .NET MAUI.\r\n\r\n\r\n\r\nLinks\r\n\r\n\r\n\r\nBuilding a Mobile Game with Xamarin.Forms – XamExpertDay 2021\r\n\r\n[**DevTalk 81: Building mobile games with .NET MAUI. With Shaun Lawrence**](https://kerry.lothrop.de/devtalk-81-shaun-lawrence/) by [Kerry Lothrop](https://twitter.com/kwlothrop)",
+          "embedded_links": [
+            {
+              "identifier": "CsYOWZ1",
+              "title": "**DevTalk 81: Building mobile games with .NET MAUI. With Shaun Lawrence**",
+              "url_domain": "lothrop.de",
+              "url": "https://kerry.lothrop.de/devtalk-81-shaun-lawrence/"
+            },
+            {
+              "identifier": "z09hhFI",
+              "title": "Kerry Lothrop",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kwlothrop"
+            }
+          ]
+        },
+        {
+          "identifier": "9cc4blm",
+          "type": "Link",
+          "title": "JS Girl in a .NET World  - .NET MAUI with Maddy Montaquila",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=HY30oKIC_Hc",
+          "description": "<p>The allure of .NET MAUI spreads far and wide, and Alyssa is on a mission to get the coolest .NET MAUI devs on JS Girl in a .NET World to teach her the secrets of the framework. In this episode, she welcomed the amazing Maddy Montaquila! They're chatting all things .NET MAUI, building PWA apps as native applications using .NET MAUI and so much more!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=HY30oKIC_Hc\"><strong>JS Girl in a .NET World  - .NET MAUI with Maddy Montaquila</strong></a> by <a href=\"https://twitter.com/AlyssaNicoll\">Alyssa Nicoll</a></p>",
+          "description_markdown": "The allure of .NET MAUI spreads far and wide, and Alyssa is on a mission to get the coolest .NET MAUI devs on JS Girl in a .NET World to teach her the secrets of the framework. In this episode, she welcomed the amazing Maddy Montaquila! They're chatting all things .NET MAUI, building PWA apps as native applications using .NET MAUI and so much more!\r\n\r\n[**JS Girl in a .NET World  - .NET MAUI with Maddy Montaquila**](https://www.youtube.com/watch?v=HY30oKIC_Hc) by [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)",
+          "embedded_links": [
+            {
+              "identifier": "uCs5p0Y",
+              "title": "**JS Girl in a .NET World  - .NET MAUI with Maddy Montaquila**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=HY30oKIC_Hc"
+            },
+            {
+              "identifier": "Ede5BQb",
+              "title": "Alyssa Nicoll",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/AlyssaNicoll"
+            }
+          ]
+        },
+        {
+          "identifier": "DUWbb1k",
+          "type": "Link",
+          "title": "Xamarin Forms  beautiful Carousel",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=elH6XyTFqKc",
+          "description": "<p>A quick video showing how to do fancy carousel view effects in Xamarin.Forms</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=elH6XyTFqKc\"><strong>Xamarin Forms  beautiful Carousel</strong></a> by <a href=\"\">Xamarin Guy</a></p>",
+          "description_markdown": "A quick video showing how to do fancy carousel view effects in Xamarin.Forms\r\n\r\n[**Xamarin Forms  beautiful Carousel**](https://www.youtube.com/watch?v=elH6XyTFqKc) by [Xamarin Guy]()",
+          "embedded_links": [
+            {
+              "identifier": "3hmSh3F",
+              "title": "**Xamarin Forms  beautiful Carousel**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=elH6XyTFqKc"
+            }
+          ]
+        },
+        {
+          "identifier": "LHzgJ0A",
+          "type": "Link",
+          "title": "Merge Conflict: 306: How to Contribute to OSS",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/306",
+          "description": "<p>Frank had his first PR merged into iOS and macOS for .NET! We explore his journey to getting it accepted</p>\n\n<p><a href=\"https://www.mergeconflict.fm/306\"><strong>Merge Conflict: 306: How to Contribute to OSS</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Frank had his first PR merged into iOS and macOS for .NET! We explore his journey to getting it accepted\r\n\r\n[**Merge Conflict: 306: How to Contribute to OSS**](https://www.mergeconflict.fm/306) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "1K3Aetp",
+              "title": "**Merge Conflict: 306: How to Contribute to OSS**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/306"
+            },
+            {
+              "identifier": "GAgaZKY",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "JDrbc8m",
+          "type": "Link",
+          "title": "Platform Hardware Access in MAUI: The .NET Show with Carl Franklin Ep 23",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=g0S6ic7pVN4",
+          "description": "<p>Access native hardware in MAUI Xaml and MAUI Blazor apps.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=g0S6ic7pVN4\"><strong>Platform Hardware Access in MAUI: The .NET Show with Carl Franklin Ep 23</strong></a> by <a href=\"https://twitter.com/carlfranklin\">Carl Franklin</a></p>",
+          "description_markdown": "Access native hardware in MAUI Xaml and MAUI Blazor apps.\r\n\r\n[**Platform Hardware Access in MAUI: The .NET Show with Carl Franklin Ep 23**](https://www.youtube.com/watch?v=g0S6ic7pVN4) by [Carl Franklin](https://twitter.com/carlfranklin)",
+          "embedded_links": [
+            {
+              "identifier": "6hhxFyS",
+              "title": "**Platform Hardware Access in MAUI: The .NET Show with Carl Franklin Ep 23**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=g0S6ic7pVN4"
+            },
+            {
+              "identifier": "QXLns7W",
+              "title": "Carl Franklin",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/carlfranklin"
+            }
+          ]
+        },
+        {
+          "identifier": "45abmKN",
+          "type": "Link",
+          "title": "Display Rich Data with CollectionView - .NET Maui Crash Course #3",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=dlnNzjc7a60",
+          "description": "<p>This video is part of a crash course to build your first .NET MAUI app. No time to monkey around, in this video we will dive right in! You will see how to turn JSON into a C# model and with that model we will populate a CollectionView and make sure we display data nicely by using a DataTemplate.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=dlnNzjc7a60\"><strong>Display Rich Data with CollectionView - .NET Maui Crash Course #3</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "This video is part of a crash course to build your first .NET MAUI app. No time to monkey around, in this video we will dive right in! You will see how to turn JSON into a C# model and with that model we will populate a CollectionView and make sure we display data nicely by using a DataTemplate.\r\n\r\n\r\n[**Display Rich Data with CollectionView - .NET Maui Crash Course #3**](https://www.youtube.com/watch?v=dlnNzjc7a60) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "NPcBu9K",
+              "title": "**Display Rich Data with CollectionView - .NET Maui Crash Course #3**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=dlnNzjc7a60"
+            },
+            {
+              "identifier": "ofralxI",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "CvtnZfN",
+          "type": "Link",
+          "title": "Implement MVVM and Databinding - .NET Maui Crash Course #4",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=XmdBXuNPShs",
+          "description": "<p>This video is part of a crash course to build your first .NET MAUI app. In the previous video we populated our CollectionView with static data. Time to change that! In this video we will get JSON data from a remote source, deserialize that and while doing we will learn all about MVVM, data binding and dependency injection so that our code stays clean and perfectly maintainable!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=XmdBXuNPShs\"><strong>Implement MVVM and Databinding - .NET Maui Crash Course #4</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "This video is part of a crash course to build your first .NET MAUI app. In the previous video we populated our CollectionView with static data. Time to change that! In this video we will get JSON data from a remote source, deserialize that and while doing we will learn all about MVVM, data binding and dependency injection so that our code stays clean and perfectly maintainable!\r\n\r\n\r\n[**Implement MVVM and Databinding - .NET Maui Crash Course #4**](https://www.youtube.com/watch?v=XmdBXuNPShs) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "OxOqNnG",
+              "title": "**Implement MVVM and Databinding - .NET Maui Crash Course #4**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=XmdBXuNPShs"
+            },
+            {
+              "identifier": "CC2za1H",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "Qhp4wJA",
+          "type": "Link",
+          "title": "Navigation with .NET MAUI Shell - .NET Maui Crash Course #5",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=pBh5SXVSwXw",
+          "description": "<p>This video is part of a crash course to build your first .NET MAUI app. With our overview of monkeys in place, we now want to see the details of 1 monkey. For this we are going to implement navigation in our app and also see how to pass complex objects from one page to another.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=pBh5SXVSwXw\"><strong>Navigation with .NET MAUI Shell - .NET Maui Crash Course #5</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "This video is part of a crash course to build your first .NET MAUI app. With our overview of monkeys in place, we now want to see the details of 1 monkey. For this we are going to implement navigation in our app and also see how to pass complex objects from one page to another. \r\n\r\n\r\n[**Navigation with .NET MAUI Shell - .NET Maui Crash Course #5**](https://www.youtube.com/watch?v=pBh5SXVSwXw) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "jylBbWL",
+              "title": "**Navigation with .NET MAUI Shell - .NET Maui Crash Course #5**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=pBh5SXVSwXw"
+            },
+            {
+              "identifier": "z46NYmv",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "ZlHO1oJ",
+          "type": "Link",
+          "title": "Using Platform Features and Device Sensors - .NET Maui Crash Course #6",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=eRXiiy800XY",
+          "description": "<p>This video is part of a crash course to build your first .NET MAUI app. For this video we will be looking at using platform features and accessing device sensors. More specifically: we will be using the .NET MAUI Geolocation APIs to determine our users location and open the default Maps app.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=eRXiiy800XY\"><strong>Using Platform Features and Device Sensors - .NET Maui Crash Course #6</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "This video is part of a crash course to build your first .NET MAUI app. For this video we will be looking at using platform features and accessing device sensors. More specifically: we will be using the .NET MAUI Geolocation APIs to determine our users location and open the default Maps app.\r\n\r\n\r\n[**Using Platform Features and Device Sensors - .NET Maui Crash Course #6**](https://www.youtube.com/watch?v=eRXiiy800XY) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "x9DSVpR",
+              "title": "**Using Platform Features and Device Sensors - .NET Maui Crash Course #6**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=eRXiiy800XY"
+            },
+            {
+              "identifier": "UM2lwJR",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "GU6gmVS",
+          "type": "Link",
+          "title": "Pull-To-Refresh, EmptyView and Layouts with CollectionView - .NET Maui Crash Course #7",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=invsT4ST1SI",
+          "description": "<p>This video is part of a crash course to build your first .NET MAUI app. In an earlier video we already implemented the CollectionView, but it's time to have a closer look. For this video, we will learn how to implement pull-to-refresh, see how to make clear to the users there is no data with EmptyView and explore different layouts that are available to CollectionView.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=invsT4ST1SI\"><strong>Pull-To-Refresh, EmptyView and Layouts with CollectionView - .NET Maui Crash Course #7</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "This video is part of a crash course to build your first .NET MAUI app. In an earlier video we already implemented the CollectionView, but it's time to have a closer look. For this video, we will learn how to implement pull-to-refresh, see how to make clear to the users there is no data with EmptyView and explore different layouts that are available to CollectionView.\r\n\r\n\r\n[**Pull-To-Refresh, EmptyView and Layouts with CollectionView - .NET Maui Crash Course #7**](https://www.youtube.com/watch?v=invsT4ST1SI) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "ElD8e6Z",
+              "title": "**Pull-To-Refresh, EmptyView and Layouts with CollectionView - .NET Maui Crash Course #7**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=invsT4ST1SI"
+            },
+            {
+              "identifier": "4G6dLG0",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "RtgZu8",
+          "type": "Link",
+          "title": "Styling, Theming and Dark Mode support - .NET Maui Crash Course #8",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=-PPwwJvfyI0",
+          "description": "<p>This video is part of a crash course to build your first .NET MAUI app. Our app is pretty much complete, except for 1 important thing: Dark Mode support! In this video we will learn about all the different styling and theming options in .NET MAUI. What are StaticResources, DynamicResources, how to define styles and how to implement light theme and dark theme support. You'll learn all this and more!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=-PPwwJvfyI0\"><strong>Styling, Theming and Dark Mode support - .NET Maui Crash Course #8</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "This video is part of a crash course to build your first .NET MAUI app. Our app is pretty much complete, except for 1 important thing: Dark Mode support! In this video we will learn about all the different styling and theming options in .NET MAUI. What are StaticResources, DynamicResources, how to define styles and how to implement light theme and dark theme support. You'll learn all this and more!\r\n\r\n\r\n[**Styling, Theming and Dark Mode support - .NET Maui Crash Course #8**](https://www.youtube.com/watch?v=-PPwwJvfyI0) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "xRu5AjW",
+              "title": "**Styling, Theming and Dark Mode support - .NET Maui Crash Course #8**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=-PPwwJvfyI0"
+            },
+            {
+              "identifier": "G9vY6Iv",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "md8cAPP",
+          "type": "Link",
+          "title": "Final Tips, Pointers and How To Learn More - .NET Maui Crash Course #9",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=gL1QWoFq1hA",
+          "description": "<p>This video is part of a crash course to build your first .NET MAUI app. You have done it! Congratulations! You have built your very first .NET MAUI app and have grasped the basics of mobile and desktop development. Before you go, let me give you some hints on where to learn more and also, don't forget to pick up your very special surprise!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=gL1QWoFq1hA\"><strong>Final Tips, Pointers and How To Learn More - .NET Maui Crash Course #9</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "This video is part of a crash course to build your first .NET MAUI app. You have done it! Congratulations! You have built your very first .NET MAUI app and have grasped the basics of mobile and desktop development. Before you go, let me give you some hints on where to learn more and also, don't forget to pick up your very special surprise!\r\n\r\n[**Final Tips, Pointers and How To Learn More - .NET Maui Crash Course #9**](https://www.youtube.com/watch?v=gL1QWoFq1hA) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "erscS1S",
+              "title": "**Final Tips, Pointers and How To Learn More - .NET Maui Crash Course #9**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=gL1QWoFq1hA"
+            },
+            {
+              "identifier": "jFtoBRB",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

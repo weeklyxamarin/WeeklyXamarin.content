@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "351",
+      "Name": "Issue 351",
+      "UpdatedTimeStamp": "2022-05-23T03:07:28Z",
+      "Summary": "//Build, MAUI Crash Course, and UI July!",
+      "PublishDate": "2022-05-23T03:07:24Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "350",
       "Name": "Issue 350",
       "UpdatedTimeStamp": "2022-05-14T07:50:03Z",

@@ -214,6 +214,12 @@
       ]
     },
     {
+      "Name": "Alyssa Nicoll",
+      "TwitterHandle": "AlyssaNicoll",
+      "Id": "50cfff8e-3ef2-4e62-a204-218d71586ff3",
+      "Aliases": []
+    },
+    {
       "Name": "Amanda Silver",
       "Id": "641c75d0-bf00-46c8-8361-454b0fbda83b",
       "Aliases": [
@@ -2135,6 +2141,12 @@
       "Website": "https://michaelridland.com"
     },
     {
+      "Name": "Michael Rumpler",
+      "TwitterHandle": "mrumpler",
+      "Id": "32cf1bd3-c232-4955-a828-0286651b2622",
+      "Aliases": []
+    },
+    {
       "Name": "Michael Scherotter",
       "Id": "7338b4c4-e154-488e-a158-f68934ec98ee",
       "Aliases": [
@@ -2369,6 +2381,16 @@
         {
           "Type": "blog",
           "Name": "https://www.youtube.com/channel/ucfc6inysz2wom2qv89bgswa"
+        }
+      ]
+    },
+    {
+      "Name": "Paramjit Singh",
+      "Id": "352c648a-050c-4e57-adc7-5901f7d8d29a",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://learndotnetmaui.com/"
         }
       ]
     },

@@ -1,0 +1,216 @@
+{
+  "Id": "351",
+  "Name": "Issue 351",
+  "UpdatedTimeStamp": "2022-05-23T03:07:28Z",
+  "Summary": "//Build, MAUI Crash Course, and UI July!",
+  "Introduction": "G'day everyone, welcome to issue #351 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week. 3 Big things for this week: 1) We are getting so close to the [Microsoft Build](https://mybuild.microsoft.com/) which is going to be amazing, so make sure you register. 2) Gerald has released all the videos for his [MAUI crash course](https://www.youtube.com/playlist?list=PLfbOp004UaYVt1En4WW3pVuM-vm66OqZe) - If you want to get started with MAUI, check this out! 3) Matt Goldman is reviving [UI July but for MAUI](https://goforgoldman.com/2022/05/19/maui-ui-july.html) - can't wait to see all the great articles from this. All the best till next week, Kym",
+  "PublishDate": "2022-05-23T03:07:24Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": ".NET MAUI Finally Replaces Xamarin in Visual Studio 2022 17.3 Preview",
+      "Url": "https://visualstudiomagazine.com/articles/2022/05/13/net-maui-vs.aspx",
+      "Description": "MAUI is now a project type among the five Desktop & Mobile options in Visual Studio 2022 17.3 Preview 1, replacing the Xamarin-based option.",
+      "EditionId": "351",
+      "Author": "David Ramel",
+      "Id": "351-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Code snippets for CommunityToolkit.Mvvm",
+      "Url": "https://www.andreasnesheim.no/code-snippets-for-communitytoolkit-mvvm/",
+      "Description": "Andreas shares a few Visual Studio code snippets for CommunityToolkit-MVVM.",
+      "EditionId": "351",
+      "Author": "Andreas Nesheim",
+      "Id": "351-2",
+      "Category": "TOOLS"
+    },
+    {
+      "Title": "Introducing .NET MAUI UI July",
+      "Url": "https://goforgoldman.com/2022/05/19/maui-ui-july.html",
+      "Description": "Matt Goldman is reviving Xamarin UI July (originally created back in 2019 by Steven Thewissen). But this time for .NET MAUI! Every day throughout July, a community-contributed blog post or video will be published showing some incredible UI magic in .NET MAUI. Reserve your spot!",
+      "EditionId": "351",
+      "Author": "Matt Goldman",
+      "Id": "351-3",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Migrating MR.Gestures from Xamarin.Forms to .NET MAUI",
+      "Url": "https://devblogs.microsoft.com/xamarin/migrating-mrgestures-to-dotnet-maui",
+      "Description": "In this guest blog post, Michael Rumpler shares how he ported his popular Xamarin.Forms library, MR.Gestures, to support .NET MAUI.",
+      "EditionId": "351",
+      "Author": "Michael Rumpler",
+      "Id": "351-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Essential .NET Maui Resources",
+      "Url": "https://learndotnetmaui.com/2021/12/04/example-post-3/",
+      "Description": "Here are some useful links to get started learning and developing with .Net Maui",
+      "EditionId": "351",
+      "Author": "Paramjit Singh",
+      "Id": "351-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "8 Very Useful Markup Extensions in .NET MAUI",
+      "Url": "https://www.telerik.com/blogs/8-very-useful-markup-extensions-dotnet-maui",
+      "Description": "Learn 8 of the most common and useful XAML markup extensions for .NET MAUI.",
+      "EditionId": "351",
+      "Author": "Leomaris Reyes",
+      "Id": "351-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Design Different Styles of Radial Sliders Using the .NET MAUI Radial Gauge",
+      "Url": "https://www.syncfusion.com/blogs/post/design-different-styles-of-radial-sliders-using-the-net-maui-radial-gauge.aspx",
+      "Description": "This article looks at how to utilize the Syncfusion .NET MAUI Radial Gauge control to design different styles of radial sliders.",
+      "EditionId": "351",
+      "Id": "351-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Getting Offline Country Data",
+      "Url": "https://doumer.me/getting-offline-country-data-in-dotnet-maui/",
+      "Description": "This article describes getting Offline Country Data in MAUI using a nuget called CountryData.Net.",
+      "EditionId": "351",
+      "Author": "Damien Doumer",
+      "Id": "351-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Building a Task Sequence in Xamarin Forms/ MAUI (Part 2)",
+      "Url": "https://www.xamboy.com/2022/05/10/building-a-task-sequence-in-xamarin-forms-maui-part-2/",
+      "Description": "Second part of the task sequence blog which shows you how to start the sequence from a specific task, run tasks conditionally and pass parameters between tasks.",
+      "EditionId": "351",
+      "Author": "Rendy Del Rosario",
+      "Id": "351-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "How to use biometric authentication in .NET MAUI",
+      "Url": "https://www.andreasnesheim.no/how-to-use-biometric-authentication-in-net-maui/",
+      "Description": "Here’s how you can authenticate via Face ID (iOS) or fingerprint (Android / iOS) in your .NET MAUI app.",
+      "EditionId": "351",
+      "Author": "Andreas Nesheim",
+      "Id": "351-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #57",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-57",
+      "Description": "The weekly coming-and-goings in the MAUI Community",
+      "EditionId": "351",
+      "Author": "Sam Basu",
+      "Id": "351-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "DevTalk 81: Building mobile games with .NET MAUI. With Shaun Lawrence",
+      "Url": "https://kerry.lothrop.de/devtalk-81-shaun-lawrence/",
+      "Description": "On this episode of DevTalk Kerry speaks to Shaun Lawrence about building mobile games with .NET MAUI.   Links   Building a Mobile Game with Xamarin.Forms – XamExpertDay 2021",
+      "EditionId": "351",
+      "Author": "Kerry Lothrop",
+      "Id": "351-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "JS Girl in a .NET World  - .NET MAUI with Maddy Montaquila",
+      "Url": "https://www.youtube.com/watch?v=HY30oKIC_Hc",
+      "Description": "The allure of .NET MAUI spreads far and wide, and Alyssa is on a mission to get the coolest .NET MAUI devs on JS Girl in a .NET World to teach her the secrets of the framework. In this episode, she welcomed the amazing Maddy Montaquila! They're chatting all things .NET MAUI, building PWA apps as native applications using .NET MAUI and so much more!",
+      "EditionId": "351",
+      "Author": "Alyssa Nicoll",
+      "Id": "351-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Xamarin Forms  beautiful Carousel",
+      "Url": "https://www.youtube.com/watch?v=elH6XyTFqKc",
+      "Description": "A quick video showing how to do fancy carousel view effects in Xamarin.Forms",
+      "EditionId": "351",
+      "Id": "351-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 306: How to Contribute to OSS",
+      "Url": "https://www.mergeconflict.fm/306",
+      "Description": "Frank had his first PR merged into iOS and macOS for .NET! We explore his journey to getting it accepted",
+      "EditionId": "351",
+      "Author": "Merge Conflict",
+      "Id": "351-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Platform Hardware Access in MAUI: The .NET Show with Carl Franklin Ep 23",
+      "Url": "https://www.youtube.com/watch?v=g0S6ic7pVN4",
+      "Description": "Access native hardware in MAUI Xaml and MAUI Blazor apps.",
+      "EditionId": "351",
+      "Author": "Carl Franklin",
+      "Id": "351-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Display Rich Data with CollectionView - .NET Maui Crash Course #3",
+      "Url": "https://www.youtube.com/watch?v=dlnNzjc7a60",
+      "Description": "This video is part of a crash course to build your first .NET MAUI app. No time to monkey around, in this video we will dive right in! You will see how to turn JSON into a C# model and with that model we will populate a CollectionView and make sure we display data nicely by using a DataTemplate.",
+      "EditionId": "351",
+      "Author": "Gerald Versluis",
+      "Id": "351-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Implement MVVM and Databinding - .NET Maui Crash Course #4",
+      "Url": "https://www.youtube.com/watch?v=XmdBXuNPShs",
+      "Description": "This video is part of a crash course to build your first .NET MAUI app. In the previous video we populated our CollectionView with static data. Time to change that! In this video we will get JSON data from a remote source, deserialize that and while doing we will learn all about MVVM, data binding and dependency injection so that our code stays clean and perfectly maintainable!",
+      "EditionId": "351",
+      "Author": "Gerald Versluis",
+      "Id": "351-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Navigation with .NET MAUI Shell - .NET Maui Crash Course #5",
+      "Url": "https://www.youtube.com/watch?v=pBh5SXVSwXw",
+      "Description": "This video is part of a crash course to build your first .NET MAUI app. With our overview of monkeys in place, we now want to see the details of 1 monkey. For this we are going to implement navigation in our app and also see how to pass complex objects from one page to another.",
+      "EditionId": "351",
+      "Author": "Gerald Versluis",
+      "Id": "351-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Using Platform Features and Device Sensors - .NET Maui Crash Course #6",
+      "Url": "https://www.youtube.com/watch?v=eRXiiy800XY",
+      "Description": "This video is part of a crash course to build your first .NET MAUI app. For this video we will be looking at using platform features and accessing device sensors. More specifically: we will be using the .NET MAUI Geolocation APIs to determine our users location and open the default Maps app.",
+      "EditionId": "351",
+      "Author": "Gerald Versluis",
+      "Id": "351-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Pull-To-Refresh, EmptyView and Layouts with CollectionView - .NET Maui Crash Course #7",
+      "Url": "https://www.youtube.com/watch?v=invsT4ST1SI",
+      "Description": "This video is part of a crash course to build your first .NET MAUI app. In an earlier video we already implemented the CollectionView, but it's time to have a closer look. For this video, we will learn how to implement pull-to-refresh, see how to make clear to the users there is no data with EmptyView and explore different layouts that are available to CollectionView.",
+      "EditionId": "351",
+      "Author": "Gerald Versluis",
+      "Id": "351-21",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Styling, Theming and Dark Mode support - .NET Maui Crash Course #8",
+      "Url": "https://www.youtube.com/watch?v=-PPwwJvfyI0",
+      "Description": "This video is part of a crash course to build your first .NET MAUI app. Our app is pretty much complete, except for 1 important thing: Dark Mode support! In this video we will learn about all the different styling and theming options in .NET MAUI. What are StaticResources, DynamicResources, how to define styles and how to implement light theme and dark theme support. You'll learn all this and more!",
+      "EditionId": "351",
+      "Author": "Gerald Versluis",
+      "Id": "351-22",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Final Tips, Pointers and How To Learn More - .NET Maui Crash Course #9",
+      "Url": "https://www.youtube.com/watch?v=gL1QWoFq1hA",
+      "Description": "This video is part of a crash course to build your first .NET MAUI app. You have done it! Congratulations! You have built your very first .NET MAUI app and have grasped the basics of mobile and desktop development. Before you go, let me give you some hints on where to learn more and also, don't forget to pick up your very special surprise!",
+      "EditionId": "351",
+      "Author": "Gerald Versluis",
+      "Id": "351-23",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
