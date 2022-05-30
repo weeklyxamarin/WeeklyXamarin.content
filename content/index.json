@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "352",
+      "Name": "Issue 352",
+      "UpdatedTimeStamp": "2022-05-30T12:37:57Z",
+      "Summary": "MAUI General Availability",
+      "PublishDate": "2022-05-30T12:37:53Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "351",
       "Name": "Issue 351",
       "UpdatedTimeStamp": "2022-05-23T03:07:28Z",

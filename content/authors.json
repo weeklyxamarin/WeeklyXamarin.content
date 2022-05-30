@@ -586,6 +586,12 @@
       "Website": "https://medium.com/@donblas"
     },
     {
+      "Name": "Chris Hardy",
+      "TwitterHandle": "chrisntr",
+      "Id": "f1c330ef-e777-44f9-b2b6-9e4a7e793630",
+      "Aliases": []
+    },
+    {
       "Name": "Chris Miller",
       "TwitterHandle": "anotherlab",
       "Id": "862b93c4-c7fe-410e-891f-36c9e90cdf67",
@@ -2169,6 +2175,16 @@
         {
           "Type": "blog",
           "Name": "https://www.youtube.com/channel/ucsmica-v34irf9kvth6xx-g"
+        }
+      ]
+    },
+    {
+      "Name": "Microsoft Learn",
+      "Id": "77e9aecb-1253-4f3d-8755-2f7ceae5350a",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://docs.microsoft.com/learn/"
         }
       ]
     },

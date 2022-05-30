@@ -1,0 +1,419 @@
+{
+  "number": 352,
+  "title": "Issue 352",
+  "summary": "MAUI General Availability",
+  "url": "https://weeklyxamarin.com/issues/352",
+  "publication_status": "published",
+  "published_at": "2022-05-30T13:37:53+01:00",
+  "updated_at": "2022-05-30T13:37:57+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #352 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.</p>\n\n<p>It's finally happened - .NET Maui has finally gone General Availability (GA). That's a massive achievement! A big congratulations to the MAUI team for all their hard work. If you are getting started there are some great resources linked out in this weeks edition.</p>\n\n<p>Now go have fun with MAUI, and have a fantastic week.</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #352 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.\r\n\r\nIt's finally happened - .NET Maui has finally gone General Availability (GA). That's a massive achievement! A big congratulations to the MAUI team for all their hard work. If you are getting started there are some great resources linked out in this weeks edition.\r\n\r\nNow go have fun with MAUI, and have a fantastic week.\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "xtPQWgx",
+          "type": "Link",
+          "title": "Introducing .NET MAUI - One Codebase, Many Platforms",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms",
+          "description": "<p>MAUI is GA! - Welcome to .NET Multi-platform App UI. This release marks a new milestone in the multi-year journey to unify the .NET platform.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms\"><strong>Introducing .NET MAUI - One Codebase, Many Platforms</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": "MAUI is GA! - Welcome to .NET Multi-platform App UI. This release marks a new milestone in the multi-year journey to unify the .NET platform.\r\n\r\n[**Introducing .NET MAUI - One Codebase, Many Platforms**](https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms) by [David Ortinau](https://twitter.com/davidortinau)",
+          "embedded_links": [
+            {
+              "identifier": "87xjDEI",
+              "title": "**Introducing .NET MAUI - One Codebase, Many Platforms**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms"
+            },
+            {
+              "identifier": "nSS4N0B",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        },
+        {
+          "identifier": "TZmpMb1",
+          "type": "Link",
+          "title": "Visual Studio at Microsoft Build 2022",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-at-microsoft-build-2022",
+          "description": "<p>Roundup of the news related to Visual Studio at Build 2022</p>\n\n<p><a href=\"https://devblogs.microsoft.com/visualstudio/visual-studio-at-microsoft-build-2022\"><strong>Visual Studio at Microsoft Build 2022</strong></a> by <a href=\"https://twitter.com/chrisntr\">Chris Hardy</a></p>",
+          "description_markdown": "Roundup of the news related to Visual Studio at Build 2022\r\n\r\n[**Visual Studio at Microsoft Build 2022**](https://devblogs.microsoft.com/visualstudio/visual-studio-at-microsoft-build-2022) by [Chris Hardy](https://twitter.com/chrisntr)",
+          "embedded_links": [
+            {
+              "identifier": "1nh8tye",
+              "title": "**Visual Studio at Microsoft Build 2022**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-at-microsoft-build-2022"
+            },
+            {
+              "identifier": "ahT9gG8",
+              "title": "Chris Hardy",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/chrisntr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "gettingstarted",
+      "name": "GETTING STARTED",
+      "items": [
+        {
+          "identifier": "KiRQEA0",
+          "type": "Link",
+          "title": "Build mobile and desktop apps with .NET MAUI - Learn",
+          "url_domain": "microsoft.com",
+          "url": "https://docs.microsoft.com/en-us/learn/paths/build-apps-with-dotnet-maui/",
+          "description": "<p>This is the Microsoft self-paced training on .NET MAUI. In this learning path, use C# and Visual Studio with .NET MAUI to create an app that runs across iOS, Android, and Windows.</p>\n\n<p><a href=\"https://docs.microsoft.com/en-us/learn/paths/build-apps-with-dotnet-maui/\"><strong>Build mobile and desktop apps with .NET MAUI - Learn</strong></a> by <a href=\"https://docs.microsoft.com/learn/\">Microsoft Learn</a></p>",
+          "description_markdown": "This is the Microsoft self-paced training on .NET MAUI. In this learning path, use C# and Visual Studio with .NET MAUI to create an app that runs across iOS, Android, and Windows.\r\n\r\n[**Build mobile and desktop apps with .NET MAUI - Learn**](https://docs.microsoft.com/en-us/learn/paths/build-apps-with-dotnet-maui/) by [Microsoft Learn](https://docs.microsoft.com/learn/)",
+          "embedded_links": [
+            {
+              "identifier": "keiJRWf",
+              "title": "**Build mobile and desktop apps with .NET MAUI - Learn**",
+              "url_domain": "microsoft.com",
+              "url": "https://docs.microsoft.com/en-us/learn/paths/build-apps-with-dotnet-maui/"
+            },
+            {
+              "identifier": "uPVT1m1",
+              "title": "Microsoft Learn",
+              "url_domain": "microsoft.com",
+              "url": "https://docs.microsoft.com/learn/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "U6pKAaj",
+          "type": "Link",
+          "title": "Page Navigation in .NET MAUI: An Overview",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/page-navigation-in-net-maui-an-overview.aspx",
+          "description": "<p>Let’s see how we can integrate page navigation in your .NET MAUI application with code examples.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/page-navigation-in-net-maui-an-overview.aspx\"><strong>Page Navigation in .NET MAUI: An Overview</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "Let’s see how we can integrate page navigation in your .NET MAUI application with code examples.\r\n\r\n[**Page Navigation in .NET MAUI: An Overview**](https://www.syncfusion.com/blogs/post/page-navigation-in-net-maui-an-overview.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)",
+          "embedded_links": [
+            {
+              "identifier": "d75Tf0v",
+              "title": "**Page Navigation in .NET MAUI: An Overview**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/page-navigation-in-net-maui-an-overview.aspx"
+            },
+            {
+              "identifier": "TzbKOCm",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        },
+        {
+          "identifier": "WMJBkg9",
+          "type": "Link",
+          "title": "macOS Environment Setup For MAUI Development",
+          "url_domain": "jetbrains.com",
+          "url": "https://blog.jetbrains.com/dotnet/2022/05/25/macos-environment-setup-for-maui-development/",
+          "description": "<p>This post will walk you through all the steps you need to take to prepare your environment for MAUI development on macOS. If you follow the steps, you’ll have a development environment ready to write MAUI apps targeting macOS, iOS, and Android.</p>\n\n<p><a href=\"https://blog.jetbrains.com/dotnet/2022/05/25/macos-environment-setup-for-maui-development/\"><strong>macOS Environment Setup For MAUI Development</strong></a> by <a href=\"https://twitter.com/buhakmeh\">Khalid Abuhakmeh</a></p>",
+          "description_markdown": "This post will walk you through all the steps you need to take to prepare your environment for MAUI development on macOS. If you follow the steps, you’ll have a development environment ready to write MAUI apps targeting macOS, iOS, and Android.\r\n\r\n[**macOS Environment Setup For MAUI Development**](https://blog.jetbrains.com/dotnet/2022/05/25/macos-environment-setup-for-maui-development/) by [Khalid Abuhakmeh](https://twitter.com/buhakmeh)",
+          "embedded_links": [
+            {
+              "identifier": "nhZsm6O",
+              "title": "**macOS Environment Setup For MAUI Development**",
+              "url_domain": "jetbrains.com",
+              "url": "https://blog.jetbrains.com/dotnet/2022/05/25/macos-environment-setup-for-maui-development/"
+            },
+            {
+              "identifier": "9NWOHzq",
+              "title": "Khalid Abuhakmeh",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/buhakmeh"
+            }
+          ]
+        },
+        {
+          "identifier": "Iphx79M",
+          "type": "Link",
+          "title": "#7DaysChallenge – .NET MAUI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/7dayschallenge-with-xammy/",
+          "description": "<p>Leomaris Reyes is sharing seven challenges which will be divided into one challenge for each day of this week which will help you continue practicing and reinforcing your knowledge of Xamarin Forms and .NET MAUI!</p>\n\n<p><a href=\"https://askxammy.com/7dayschallenge-with-xammy/\"><strong>#7DaysChallenge – .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Leomaris Reyes is sharing seven challenges which will be divided into one challenge for each day of this week which will help you continue practicing and reinforcing your knowledge of Xamarin Forms and .NET MAUI!\r\n\r\n[**#7DaysChallenge – .NET MAUI**](https://askxammy.com/7dayschallenge-with-xammy/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "Sj8J1mL",
+              "title": "**#7DaysChallenge – .NET MAUI**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/7dayschallenge-with-xammy/"
+            },
+            {
+              "identifier": "Lic3pft",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "Vjqnix9",
+          "type": "Link",
+          "title": "Multi-target Xamarin.Forms and .NET MAUI from a single project",
+          "url_domain": "egvijayanand.in",
+          "url": "https://egvijayanand.in/2022/05/25/introducing-shared-class-library-multi-target-xamarin-forms-and-dotnet-maui-from-a-single-project/",
+          "description": "<p>Share more code between Xamarin.Forms and .NET MAUI. Migrate effortlessly to the latest and greatest.</p>\n\n<p><a href=\"https://egvijayanand.in/2022/05/25/introducing-shared-class-library-multi-target-xamarin-forms-and-dotnet-maui-from-a-single-project/\"><strong>Introducing Shared Class Library – Multi-target Xamarin.Forms and .NET MAUI from a single project</strong></a> by <a href=\"https://twitter.com/egvijayanand\">Vijay Anand EG</a></p>",
+          "description_markdown": "Share more code between Xamarin.Forms and .NET MAUI. Migrate effortlessly to the latest and greatest.\r\n\r\n[**Introducing Shared Class Library – Multi-target Xamarin.Forms and .NET MAUI from a single project**](https://egvijayanand.in/2022/05/25/introducing-shared-class-library-multi-target-xamarin-forms-and-dotnet-maui-from-a-single-project/) by [Vijay Anand EG](https://twitter.com/egvijayanand)",
+          "embedded_links": [
+            {
+              "identifier": "hUEKVc1",
+              "title": "**Introducing Shared Class Library – Multi-target Xamarin.Forms and .NET MAUI from a single project**",
+              "url_domain": "egvijayanand.in",
+              "url": "https://egvijayanand.in/2022/05/25/introducing-shared-class-library-multi-target-xamarin-forms-and-dotnet-maui-from-a-single-project/"
+            },
+            {
+              "identifier": "sC5W2fw",
+              "title": "Vijay Anand EG",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/egvijayanand"
+            }
+          ]
+        },
+        {
+          "identifier": "5wI0uxm",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #58",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-58",
+          "description": "<p>All the happenings this week in the MAUI community</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-58\"><strong>Sands of MAUI: Issue #58</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "All the happenings this week in the MAUI community\r\n\r\n[**Sands of MAUI: Issue #58**](https://www.telerik.com/blogs/sands-maui-issue-58) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "JVEYfLj",
+              "title": "**Sands of MAUI: Issue #58**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-58"
+            },
+            {
+              "identifier": "yb2veM3",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "azure",
+      "name": "AZURE",
+      "items": [
+        {
+          "identifier": "Cvgbp9t",
+          "type": "Link",
+          "title": "Why so serious? Smile analysis with Azure and .NET MAUI - Andreas Nesheim",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/why-so-serious-smile-analysis-with-azure-and-net-maui/",
+          "description": "<p>This post shows you how you can use Face API in Azure and .NET MAUI to create an app where you can take a picture of yourself and get an objective result of how much you’re smiling!</p>\n\n<p><a href=\"https://www.andreasnesheim.no/why-so-serious-smile-analysis-with-azure-and-net-maui/\"><strong>Why so serious? Smile analysis with Azure and .NET MAUI - Andreas Nesheim</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "This post shows you how you can use Face API in Azure and .NET MAUI to create an app where you can take a picture of yourself and get an objective result of how much you’re smiling!\r\n\r\n[**Why so serious? Smile analysis with Azure and .NET MAUI - Andreas Nesheim**](https://www.andreasnesheim.no/why-so-serious-smile-analysis-with-azure-and-net-maui/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "miVngbv",
+              "title": "**Why so serious? Smile analysis with Azure and .NET MAUI - Andreas Nesheim**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/why-so-serious-smile-analysis-with-azure-and-net-maui/"
+            },
+            {
+              "identifier": "vapPHrG",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "F3zMTD9",
+          "type": "Link",
+          "title": "Merge Conflict: 308: James & Frank Go To Build 2022!",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/308",
+          "description": "<p>Frank and James cover all the great developer bits from Build 2022 including Win UI 3, Project Voleterra, Arm64, .NET MAUI Launch, and so much more.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/308\"><strong>Merge Conflict: 308: James &amp; Frank Go To Build 2022!</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Frank and James cover all the great developer bits from Build 2022 including Win UI 3, Project Voleterra, Arm64, .NET MAUI Launch, and so much more. \r\n\r\n[**Merge Conflict: 308: James & Frank Go To Build 2022!**](https://www.mergeconflict.fm/308) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "cfsVkQf",
+              "title": "**Merge Conflict: 308: James & Frank Go To Build 2022!**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/308"
+            },
+            {
+              "identifier": "d667h6h",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "xUADoxK",
+          "type": "Link",
+          "title": "Learn .NET MAUI - Full Course for Beginners | Build cross-platform apps in C#",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=DuNLR_NJv8U",
+          "description": "<p>James walks through the full day workshop (.NET MAUI Workshop in a Box) showing how to build apps with .NET MAUI for iOS, Android, macOS, and Windows</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=DuNLR_NJv8U\"><strong>Learn .NET MAUI - Full Course for Beginners | Build cross-platform apps in C#</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James walks through the full day workshop (.NET MAUI Workshop in a Box) showing how to build apps with .NET MAUI for iOS, Android, macOS, and Windows\r\n\r\n[**Learn .NET MAUI - Full Course for Beginners | Build cross-platform apps in C#**](https://www.youtube.com/watch?v=DuNLR_NJv8U) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "Z5miLIh",
+              "title": "**Learn .NET MAUI - Full Course for Beginners | Build cross-platform apps in C#**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=DuNLR_NJv8U"
+            },
+            {
+              "identifier": "t0u7WI1",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "XrfbXuF",
+          "type": "Link",
+          "title": "The .NET MAUI Podcast Episode 111: Aloha .NET MAUI",
+          "url_domain": "dotnetmauipodcast.com",
+          "url": "https://www.dotnetmauipodcast.com/111",
+          "description": "<p>It's out - it's GA - move all your apps now. .NET MAUI is released.</p>\n\n<p><a href=\"https://www.dotnetmauipodcast.com/111\"><strong>The .NET MAUI Podcast Episode 111: Aloha .NET MAUI</strong></a> by <a href=\"\">.NET MAUI Podcast</a></p>",
+          "description_markdown": "It's out - it's GA - move all your apps now. .NET MAUI is released.\r\n\r\n[**The .NET MAUI Podcast Episode 111: Aloha .NET MAUI**](https://www.dotnetmauipodcast.com/111) by [.NET MAUI Podcast]()",
+          "embedded_links": [
+            {
+              "identifier": "8by2nGm",
+              "title": "**The .NET MAUI Podcast Episode 111: Aloha .NET MAUI**",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/111"
+            }
+          ]
+        },
+        {
+          "identifier": "lgvAKvI",
+          "type": "Link",
+          "title": "Merge Conflict: 307: All in on .NET MAUI",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/307",
+          "description": "<p>.NET MAUI is here, and Frank is all in on building apps with it! He has started to migrate his apps and shares his journey!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/307\"><strong>Merge Conflict: 307: All in on .NET MAUI</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": ".NET MAUI is here, and Frank is all in on building apps with it! He has started to migrate his apps and shares his journey!\r\n\r\n[**Merge Conflict: 307: All in on .NET MAUI**](https://www.mergeconflict.fm/307) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "IlCJboy",
+              "title": "**Merge Conflict: 307: All in on .NET MAUI**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/307"
+            },
+            {
+              "identifier": "poCQVsr",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "WH1M1HZ",
+          "type": "Link",
+          "title": "Intro to Shell in .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Fzchi1FOY9A",
+          "description": "<p>In this video, Daniel will give you an intro to .NET MAUI Shell and how to use that to create the main layout and navigation in an app.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Fzchi1FOY9A\"><strong>Intro to Shell in .NET MAUI</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "In this video, Daniel will give you an intro to .NET MAUI Shell and how to use that to create the main layout and navigation in an app.\r\n\r\n[**Intro to Shell in .NET MAUI**](https://www.youtube.com/watch?v=Fzchi1FOY9A) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "HnwAKm0",
+              "title": "**Intro to Shell in .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Fzchi1FOY9A"
+            },
+            {
+              "identifier": "1JUDsmB",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "EeUh1jZ",
+          "type": "Link",
+          "title": "Visual Studio 2022 for Mac is now available",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-is-now-available",
+          "description": "<p>Now available: the general availability (GA) release of Visual Studio 2022 for Mac v17.0 . This is the fastest Visual Studio for Mac version yet with an all new native macOS UI, fully running on .NET 6, and optimized for Apple Silicon (ARM64) processors.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-is-now-available\"><strong>Visual Studio 2022 for Mac is now available</strong></a> by <a href=\"https://twitter.com/jmatthiesen\">Jordan Matthiesen</a></p>",
+          "description_markdown": "Now available: the general availability (GA) release of Visual Studio 2022 for Mac v17.0 . This is the fastest Visual Studio for Mac version yet with an all new native macOS UI, fully running on .NET 6, and optimized for Apple Silicon (ARM64) processors.\r\n\r\n[**Visual Studio 2022 for Mac is now available**](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-is-now-available) by [Jordan Matthiesen](https://twitter.com/jmatthiesen)",
+          "embedded_links": [
+            {
+              "identifier": "tVoBBSa",
+              "title": "**Visual Studio 2022 for Mac is now available**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-for-mac-is-now-available"
+            },
+            {
+              "identifier": "zxJTkRy",
+              "title": "Jordan Matthiesen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jmatthiesen"
+            }
+          ]
+        },
+        {
+          "identifier": "Q16m5Gm",
+          "type": "Link",
+          "title": "Telerik UI for .NET MAUI Goes GA: 50+ Controls!",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/telerik-ui-dotnet-maui-ga-50-ui-controls-build-cross-platform-apps",
+          "description": "<p>Telerik UI for .NET MAUI is officially out of the preview and experimental stage and a production-ready UI component library: Telerik UI for .NET MAUI 1.0.0!</p>\n\n<p><a href=\"https://www.telerik.com/blogs/telerik-ui-dotnet-maui-ga-50-ui-controls-build-cross-platform-apps\"><strong>Telerik UI for .NET MAUI Goes GA: 50+ Controls!</strong></a> by <a href=\"\">Yoan Krumov</a></p>",
+          "description_markdown": "Telerik UI for .NET MAUI is officially out of the preview and experimental stage and a production-ready UI component library: Telerik UI for .NET MAUI 1.0.0!\r\n\r\n[**Telerik UI for .NET MAUI Goes GA: 50+ Controls!**](https://www.telerik.com/blogs/telerik-ui-dotnet-maui-ga-50-ui-controls-build-cross-platform-apps) by [Yoan Krumov]()",
+          "embedded_links": [
+            {
+              "identifier": "xs9nGrG",
+              "title": "**Telerik UI for .NET MAUI Goes GA: 50+ Controls!**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/telerik-ui-dotnet-maui-ga-50-ui-controls-build-cross-platform-apps"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
