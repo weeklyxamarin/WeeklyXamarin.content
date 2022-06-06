@@ -1,0 +1,101 @@
+{
+  "Id": "353",
+  "Name": "Issue 353",
+  "UpdatedTimeStamp": "2022-06-06T03:38:43Z",
+  "Summary": "Launch Party!",
+  "Introduction": "G'day everyone, welcome to issue #353 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week. A pretty quiet week after the announcement of GA last week, but you absolutely must catch up on the MAUI Luanch Party! Have a great week! Kym",
+  "PublishDate": "2022-06-06T03:38:36Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Microsoft Build 2022: Xamarin & MAUI Recap",
+      "Url": "https://blog.taranissoftware.com/microsoft-build-2022-xamarin-and-maui-recap",
+      "Description": "Microsoft Build 2022 was a recent online conference. In this post Dave Murray recaps sessions for .NET MAUI, Xamarin and React Native developers building cross platform native apps.",
+      "EditionId": "353",
+      "Author": "Dave Murray",
+      "Id": "353-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Prism for .NET MAUI - Public Beta",
+      "Url": "https://dansiegel.net/post/2022/06/02/prism-for-net-maui-public-beta",
+      "Description": "The very popular Xamarin.Forms library has made it's way to .NET MAUI!  This is the announcement of the public beta of Prism for .NET MAUI",
+      "EditionId": "353",
+      "Author": "Dan Siegel",
+      "Id": "353-2",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Embedding .NET MAUI pages into your .NET Android/iOS application",
+      "Url": "https://www.andreasnesheim.no/embedding-net-maui-pages-into-your-net-android-ios-application/",
+      "Description": "Discussion of how embedding pages with MAUI/.NET 6 compared to Xamarin.",
+      "EditionId": "353",
+      "Author": "Andreas Nesheim",
+      "Id": "353-3",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI GA Release: Syncfusion Updates",
+      "Url": "https://www.syncfusion.com/blogs/post/net-maui-ga-release-syncfusion-updates.aspx",
+      "Description": "A little wrap up of resources to get you started with MAUI and the Syncfusion controls.",
+      "EditionId": "353",
+      "Author": "Selva Ganapathy Kathiresan",
+      "Id": "353-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #59",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-59",
+      "Description": "Latest wrap up of MAUI news from Sam",
+      "EditionId": "353",
+      "Author": "Sam Basu",
+      "Id": "353-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Community Standup - .NET MAUI LAUNCH PARTY!!!!",
+      "Url": "https://www.youtube.com/watch?v=TCvZPwkvNH4",
+      "Description": "Come celebrate the release of .NET MAUI with David, Maddy, and folks from the engineering team!",
+      "EditionId": "353",
+      "Author": "dotNet Youtube Channel",
+      "Id": "353-6",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Toolkit Monthly Standup (June 2022)",
+      "Url": "https://www.youtube.com/watch?v=t3g_NrQfE8g",
+      "Description": "Join us as we review recent updates and upcoming changes to the .NET MAUI Community Toolkit!",
+      "EditionId": "353",
+      "Author": ".NET Foundation",
+      "Id": "353-7",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Let's Learn .NET - .NET MAUI (cross-platform apps in C#)",
+      "Url": "https://www.youtube.com/watch?v=pi9WnBeN8Mk",
+      "Description": "In this month’s .NET beginner series, get a full introduction to build native, cross-platform desktop and mobile apps with .NET! Come to learn something new and leave with something that we all built, together, live with experts! Streaming LIVE on Learn TV!",
+      "EditionId": "353",
+      "Author": "dotNet Youtube Channel",
+      "Id": "353-8",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Creating .NET MAUI UIs in C# Markup",
+      "Url": "https://www.youtube.com/watch?v=vTtIhUCc2sU",
+      "Description": "Have you ever wanted to create your UI in .NET MAUI using C# instead of XAML? You can, using the .NET MAUI Community Toolkit C# Markup Extensions! Learn how to use the official open-source .NET MAUI C# Markup Extensions library to streamline your UI building process.",
+      "EditionId": "353",
+      "Author": "dotNet Youtube Channel",
+      "Id": "353-9",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "VS2022 17.3 Preview 1.1 - Missing Xamarin SDKs",
+      "Url": "https://blog.taranissoftware.com/vs2022-173-preview-11-missing-xamarin-sdks",
+      "Description": "This is a public service announcement from Dave Murray that the latest VS2022 preview Visual Studio 2022 17.3 Preview has gone all-in for MAUI. Which means, if you are looking to do some Xamarin work, you are going to have to install those components.",
+      "EditionId": "353",
+      "Author": "Dave Murray",
+      "Id": "353-10",
+      "Category": "AND FINALLY..."
+    }
+  ]
+}

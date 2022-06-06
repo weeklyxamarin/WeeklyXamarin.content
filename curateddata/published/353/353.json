@@ -1,0 +1,281 @@
+{
+  "number": 353,
+  "title": "Issue 353",
+  "summary": "Launch Party!",
+  "url": "https://weeklyxamarin.com/issues/353",
+  "publication_status": "published",
+  "published_at": "2022-06-06T04:38:36+01:00",
+  "updated_at": "2022-06-06T04:38:43+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #353 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.</p>\n\n<p>A pretty quiet week after the announcement of GA last week, but you absolutely must catch up on the MAUI Luanch Party!</p>\n\n<p>Have a great week!</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #353 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.\r\n\r\nA pretty quiet week after the announcement of GA last week, but you absolutely must catch up on the MAUI Luanch Party!\r\n\r\nHave a great week!\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "DOatvXK",
+          "type": "Link",
+          "title": "Microsoft Build 2022: Xamarin & MAUI Recap",
+          "url_domain": "taranissoftware.com",
+          "url": "https://blog.taranissoftware.com/microsoft-build-2022-xamarin-and-maui-recap",
+          "description": "<p>Microsoft Build 2022 was a recent online conference. In this post Dave Murray recaps sessions for .NET MAUI, Xamarin and React Native developers building cross platform native apps.</p>\n\n<p><a href=\"https://blog.taranissoftware.com/microsoft-build-2022-xamarin-and-maui-recap\"><strong>Microsoft Build 2022: Xamarin &amp; MAUI Recap</strong></a> by <a href=\"https://github.com/irongut\">Dave Murray</a></p>",
+          "description_markdown": "Microsoft Build 2022 was a recent online conference. In this post Dave Murray recaps sessions for .NET MAUI, Xamarin and React Native developers building cross platform native apps.\r\n\r\n[**Microsoft Build 2022: Xamarin & MAUI Recap**](https://blog.taranissoftware.com/microsoft-build-2022-xamarin-and-maui-recap) by [Dave Murray](https://github.com/irongut)",
+          "embedded_links": [
+            {
+              "identifier": "mNQSD3A",
+              "title": "**Microsoft Build 2022: Xamarin & MAUI Recap**",
+              "url_domain": "taranissoftware.com",
+              "url": "https://blog.taranissoftware.com/microsoft-build-2022-xamarin-and-maui-recap"
+            },
+            {
+              "identifier": "3ClYR39",
+              "title": "Dave Murray",
+              "url_domain": "github.com",
+              "url": "https://github.com/irongut"
+            }
+          ]
+        },
+        {
+          "identifier": "zOx4VvE",
+          "type": "Link",
+          "title": "Prism for .NET MAUI - Public Beta",
+          "url_domain": "dansiegel.net",
+          "url": "https://dansiegel.net/post/2022/06/02/prism-for-net-maui-public-beta",
+          "description": "<p>The very popular Xamarin.Forms library has made it's way to .NET MAUI!  This is the announcement of the public beta of Prism for .NET MAUI</p>\n\n<p><a href=\"https://dansiegel.net/post/2022/06/02/prism-for-net-maui-public-beta\"><strong>Prism for .NET MAUI - Public Beta</strong></a> by <a href=\"https://twitter.com/danjsiegel\">Dan Siegel</a></p>",
+          "description_markdown": "The very popular Xamarin.Forms library has made it's way to .NET MAUI!  This is the announcement of the public beta of Prism for .NET MAUI\r\n\r\n[**Prism for .NET MAUI - Public Beta**](https://dansiegel.net/post/2022/06/02/prism-for-net-maui-public-beta) by [Dan Siegel](https://twitter.com/danjsiegel)",
+          "embedded_links": [
+            {
+              "identifier": "awwAjVX",
+              "title": "**Prism for .NET MAUI - Public Beta**",
+              "url_domain": "dansiegel.net",
+              "url": "https://dansiegel.net/post/2022/06/02/prism-for-net-maui-public-beta"
+            },
+            {
+              "identifier": "Psfr0Br",
+              "title": "Dan Siegel",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/danjsiegel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "hMAIvSO",
+          "type": "Link",
+          "title": "Embedding .NET MAUI pages into your .NET Android/iOS application",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/embedding-net-maui-pages-into-your-net-android-ios-application/",
+          "description": "<p>Discussion of how embedding pages with MAUI/.NET 6 compared to Xamarin.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/embedding-net-maui-pages-into-your-net-android-ios-application/\"><strong>Embedding .NET MAUI pages into your .NET Android/iOS application</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "Discussion of how embedding pages with MAUI/.NET 6 compared to Xamarin.\r\n\r\n[**Embedding .NET MAUI pages into your .NET Android/iOS application**](https://www.andreasnesheim.no/embedding-net-maui-pages-into-your-net-android-ios-application/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "PbEelZd",
+              "title": "**Embedding .NET MAUI pages into your .NET Android/iOS application**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/embedding-net-maui-pages-into-your-net-android-ios-application/"
+            },
+            {
+              "identifier": "emb1obM",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "W03OUGi",
+          "type": "Link",
+          "title": ".NET MAUI GA Release: Syncfusion Updates",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/net-maui-ga-release-syncfusion-updates.aspx",
+          "description": "<p>A little wrap up of resources to get you started with MAUI and the Syncfusion controls.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/net-maui-ga-release-syncfusion-updates.aspx\"><strong>.NET MAUI GA Release: Syncfusion Updates</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "A little wrap up of resources to get you started with MAUI and the Syncfusion controls.\r\n\r\n[**.NET MAUI GA Release: Syncfusion Updates**](https://www.syncfusion.com/blogs/post/net-maui-ga-release-syncfusion-updates.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)",
+          "embedded_links": [
+            {
+              "identifier": "oM64VvW",
+              "title": "**.NET MAUI GA Release: Syncfusion Updates**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/net-maui-ga-release-syncfusion-updates.aspx"
+            },
+            {
+              "identifier": "lHnrcMn",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        },
+        {
+          "identifier": "MVHlcrs",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #59",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-59",
+          "description": "<p>Latest wrap up of MAUI news from Sam</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-59\"><strong>Sands of MAUI: Issue #59</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Latest wrap up of MAUI news from Sam\r\n\r\n[**Sands of MAUI: Issue #59**](https://www.telerik.com/blogs/sands-maui-issue-59) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "fcXCpEC",
+              "title": "**Sands of MAUI: Issue #59**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-59"
+            },
+            {
+              "identifier": "QNXD5jB",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "cerqTUF",
+          "type": "Link",
+          "title": ".NET MAUI Community Standup - .NET MAUI LAUNCH PARTY!!!!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=TCvZPwkvNH4",
+          "description": "<p>Come celebrate the release of .NET MAUI with David, Maddy, and folks from the engineering team!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=TCvZPwkvNH4\"><strong>.NET MAUI Community Standup - .NET MAUI LAUNCH PARTY!!!!</strong></a> by <a href=\"https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw\">dotNet Youtube Channel</a></p>",
+          "description_markdown": "Come celebrate the release of .NET MAUI with David, Maddy, and folks from the engineering team!\r\n\r\n[**.NET MAUI Community Standup - .NET MAUI LAUNCH PARTY!!!!**](https://www.youtube.com/watch?v=TCvZPwkvNH4) by [dotNet Youtube Channel](https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw)",
+          "embedded_links": [
+            {
+              "identifier": "zLK2als",
+              "title": "**.NET MAUI Community Standup - .NET MAUI LAUNCH PARTY!!!!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=TCvZPwkvNH4"
+            },
+            {
+              "identifier": "qyysTXY",
+              "title": "dotNet Youtube Channel",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw"
+            }
+          ]
+        },
+        {
+          "identifier": "CBErhE5",
+          "type": "Link",
+          "title": ".NET MAUI Community Toolkit Monthly Standup (June 2022)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=t3g_NrQfE8g",
+          "description": "<p>Join us as we review recent updates and upcoming changes to the .NET MAUI Community Toolkit!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=t3g_NrQfE8g\"><strong>.NET MAUI Community Toolkit Monthly Standup (June 2022)</strong></a> by <a href=\"https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A\">.NET Foundation</a></p>",
+          "description_markdown": "Join us as we review recent updates and upcoming changes to the .NET MAUI Community Toolkit!\r\n\r\n[**.NET MAUI Community Toolkit Monthly Standup (June 2022)**](https://www.youtube.com/watch?v=t3g_NrQfE8g) by [.NET Foundation](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)",
+          "embedded_links": [
+            {
+              "identifier": "nvqbL8P",
+              "title": "**.NET MAUI Community Toolkit Monthly Standup (June 2022)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=t3g_NrQfE8g"
+            },
+            {
+              "identifier": "XC8FsqE",
+              "title": ".NET Foundation",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A"
+            }
+          ]
+        },
+        {
+          "identifier": "FSa7Kol",
+          "type": "Link",
+          "title": "Let's Learn .NET - .NET MAUI (cross-platform apps in C#)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=pi9WnBeN8Mk",
+          "description": "<p>In this month’s .NET beginner series, get a full introduction to build native, cross-platform desktop and mobile apps with .NET! Come to learn something new and leave with something that we all built, together, live with experts! Streaming LIVE on Learn TV!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=pi9WnBeN8Mk\"><strong>Let's Learn .NET - .NET MAUI (cross-platform apps in C#)</strong></a> by <a href=\"https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw\">dotNet Youtube Channel</a></p>",
+          "description_markdown": "In this month’s .NET beginner series, get a full introduction to build native, cross-platform desktop and mobile apps with .NET! Come to learn something new and leave with something that we all built, together, live with experts! Streaming LIVE on Learn TV!\r\n\r\n[**Let's Learn .NET - .NET MAUI (cross-platform apps in C#)**](https://www.youtube.com/watch?v=pi9WnBeN8Mk) by [dotNet Youtube Channel](https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw)",
+          "embedded_links": [
+            {
+              "identifier": "RxZZJen",
+              "title": "**Let's Learn .NET - .NET MAUI (cross-platform apps in C#)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=pi9WnBeN8Mk"
+            },
+            {
+              "identifier": "E5DByQ8",
+              "title": "dotNet Youtube Channel",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw"
+            }
+          ]
+        },
+        {
+          "identifier": "Fd02qs0",
+          "type": "Link",
+          "title": "Creating .NET MAUI UIs in C# Markup",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=vTtIhUCc2sU",
+          "description": "<p>Have you ever wanted to create your UI in .NET MAUI using C# instead of XAML? You can, using the .NET MAUI Community Toolkit C# Markup Extensions! Learn how to use the official open-source .NET MAUI C# Markup Extensions library to streamline your UI building process.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=vTtIhUCc2sU\"><strong>Creating .NET MAUI UIs in C# Markup</strong></a> by <a href=\"https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw\">dotNet Youtube Channel</a></p>",
+          "description_markdown": "Have you ever wanted to create your UI in .NET MAUI using C# instead of XAML? You can, using the .NET MAUI Community Toolkit C# Markup Extensions! Learn how to use the official open-source .NET MAUI C# Markup Extensions library to streamline your UI building process.\r\n\r\n[**Creating .NET MAUI UIs in C# Markup**](https://www.youtube.com/watch?v=vTtIhUCc2sU) by [dotNet Youtube Channel](https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw)",
+          "embedded_links": [
+            {
+              "identifier": "FxWg8Vo",
+              "title": "**Creating .NET MAUI UIs in C# Markup**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=vTtIhUCc2sU"
+            },
+            {
+              "identifier": "n31xH6l",
+              "title": "dotNet Youtube Channel",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "andfinally",
+      "name": "AND FINALLY...",
+      "items": [
+        {
+          "identifier": "BnXd3Td",
+          "type": "Link",
+          "title": "VS2022 17.3 Preview 1.1 - Missing Xamarin SDKs",
+          "url_domain": "taranissoftware.com",
+          "url": "https://blog.taranissoftware.com/vs2022-173-preview-11-missing-xamarin-sdks",
+          "description": "<p>This is a public service announcement from Dave Murray that the latest VS2022 preview Visual Studio 2022 17.3 Preview has gone all-in for MAUI. Which means, if you are looking to do some Xamarin work, you are going to have to install those components.</p>\n\n<p><a href=\"https://blog.taranissoftware.com/vs2022-173-preview-11-missing-xamarin-sdks\"><strong>VS2022 17.3 Preview 1.1 - Missing Xamarin SDKs</strong></a> by <a href=\"https://github.com/irongut\">Dave Murray</a></p>",
+          "description_markdown": "This is a public service announcement from Dave Murray that the latest VS2022 preview Visual Studio 2022 17.3 Preview has gone all-in for MAUI. Which means, if you are looking to do some Xamarin work, you are going to have to install those components.\r\n\r\n[**VS2022 17.3 Preview 1.1 - Missing Xamarin SDKs**](https://blog.taranissoftware.com/vs2022-173-preview-11-missing-xamarin-sdks) by [Dave Murray](https://github.com/irongut)",
+          "embedded_links": [
+            {
+              "identifier": "EkqOcO0",
+              "title": "**VS2022 17.3 Preview 1.1 - Missing Xamarin SDKs**",
+              "url_domain": "taranissoftware.com",
+              "url": "https://blog.taranissoftware.com/vs2022-173-preview-11-missing-xamarin-sdks"
+            },
+            {
+              "identifier": "E0O39gr",
+              "title": "Dave Murray",
+              "url_domain": "github.com",
+              "url": "https://github.com/irongut"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
