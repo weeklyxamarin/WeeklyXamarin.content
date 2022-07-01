@@ -1,0 +1,488 @@
+{
+  "number": 354,
+  "title": "Issue 354",
+  "summary": "Getting Started and MAUI Fest",
+  "url": "https://weeklyxamarin.com/issues/354",
+  "publication_status": "published",
+  "published_at": "2022-06-20T05:13:55+01:00",
+  "updated_at": "2022-06-20T05:13:57+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #354 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.</p>\n\n<p>This week there are some great resources for getting started with .NET MAUI and as always so many great videos to help you develop MAUI Apps.</p>\n\n<p>Have a great week developing apps!</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #354 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.\r\n\r\nThis week there are some great resources for getting started with .NET MAUI and as always so many great videos to help you develop MAUI Apps.\r\n\r\nHave a great week developing apps!\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "gettingstarted",
+      "name": "GETTING STARTED",
+      "items": [
+        {
+          "identifier": "20FuWFV",
+          "type": "Link",
+          "title": "New Resources to Get Started with .NET MAUI",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/learn-dotnet-maui",
+          "description": "<p>If you are getting started with .NET MAUI then Matt has collected a bunch of links to get you started on the learning journey.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/learn-dotnet-maui\"><strong>New Resources to Get Started with .NET MAUI</strong></a> by <a href=\"https://twitter.com/CodeMillMatt\">Matt Soucoup</a></p>",
+          "description_markdown": "If you are getting started with .NET MAUI then Matt has collected a bunch of links to get you started on the learning journey.\r\n\r\n[**New Resources to Get Started with .NET MAUI**](https://devblogs.microsoft.com/dotnet/learn-dotnet-maui) by [Matt Soucoup](https://twitter.com/CodeMillMatt)",
+          "embedded_links": [
+            {
+              "identifier": "VnBdZXo",
+              "title": "**New Resources to Get Started with .NET MAUI**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/learn-dotnet-maui"
+            },
+            {
+              "identifier": "JmQoncE",
+              "title": "Matt Soucoup",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/CodeMillMatt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "kPQSQUA",
+          "type": "Link",
+          "title": "UI/UX Design: Something BIG just happened to Apple’s HIG",
+          "url_domain": "uxplanet.org",
+          "url": "https://uxplanet.org/ui-ux-design-something-big-just-happened-to-apples-hig-e59633df0b79",
+          "description": "<p>Apple’s Human Interface Guidelines just got updated and there’s been some really nice, long overdue changes.</p>\n\n<p><a href=\"https://uxplanet.org/ui-ux-design-something-big-just-happened-to-apples-hig-e59633df0b79\"><strong>UI/UX Design: Something BIG just happened to Apple’s HIG</strong></a> by <a href=\"https://twitter.com/NickLaw87646112\">Nick Lawrence</a></p>",
+          "description_markdown": "Apple’s Human Interface Guidelines just got updated and there’s been some really nice, long overdue changes.\r\n\r\n[**UI/UX Design: Something BIG just happened to Apple’s HIG**](https://uxplanet.org/ui-ux-design-something-big-just-happened-to-apples-hig-e59633df0b79) by [Nick Lawrence](https://twitter.com/NickLaw87646112)",
+          "embedded_links": [
+            {
+              "identifier": "WeHODXg",
+              "title": "**UI/UX Design: Something BIG just happened to Apple’s HIG**",
+              "url_domain": "uxplanet.org",
+              "url": "https://uxplanet.org/ui-ux-design-something-big-just-happened-to-apples-hig-e59633df0b79"
+            },
+            {
+              "identifier": "k2WHQF1",
+              "title": "Nick Lawrence",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/NickLaw87646112"
+            }
+          ]
+        },
+        {
+          "identifier": "Csva0rc",
+          "type": "Link",
+          "title": "Crayon - Animate your SVGs",
+          "url_domain": "designstripe.com",
+          "url": "https://designstripe.com/crayon",
+          "description": "<p>An interesting site that will take a SVG and animate it with cartoon style animation.</p>\n\n<p><a href=\"https://designstripe.com/crayon\"><strong>Crayon</strong></a> by <a href=\"https://twitter.com/designstripeapp\">Designstripe</a></p>",
+          "description_markdown": "An interesting site that will take a SVG and animate it with cartoon style animation. \r\n\r\n[**Crayon**](https://designstripe.com/crayon) by [Designstripe](https://twitter.com/designstripeapp)",
+          "embedded_links": [
+            {
+              "identifier": "MeDic4g",
+              "title": "**Crayon**",
+              "url_domain": "designstripe.com",
+              "url": "https://designstripe.com/crayon"
+            },
+            {
+              "identifier": "7qaiTeE",
+              "title": "Designstripe",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/designstripeapp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "z51aF3K",
+          "type": "Link",
+          "title": "Push Notification using Firebase",
+          "url_domain": "blogspot.com",
+          "url": "https://xamarinuidesigns.blogspot.com/2022/06/push-notification-using-firebase-in.html",
+          "description": "<p>This post and video cover Enabling Push Notifications using Firebase</p>\n\n<p><a href=\"https://xamarinuidesigns.blogspot.com/2022/06/push-notification-using-firebase-in.html\"><strong>Push Notification using Firebase</strong></a> by <a href=\"https://xamarinuidesigns.blogspot.com/\">Xamarin UI Designs</a></p>",
+          "description_markdown": "This post and video cover Enabling Push Notifications using Firebase\r\n\r\n[**Push Notification using Firebase**](https://xamarinuidesigns.blogspot.com/2022/06/push-notification-using-firebase-in.html) by [Xamarin UI Designs](https://xamarinuidesigns.blogspot.com/)",
+          "embedded_links": [
+            {
+              "identifier": "zVx32Ts",
+              "title": "**Push Notification using Firebase**",
+              "url_domain": "blogspot.com",
+              "url": "https://xamarinuidesigns.blogspot.com/2022/06/push-notification-using-firebase-in.html"
+            },
+            {
+              "identifier": "s6XF0fl",
+              "title": "Xamarin UI Designs",
+              "url_domain": "blogspot.com",
+              "url": "https://xamarinuidesigns.blogspot.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "u0cXhhV",
+          "type": "Link",
+          "title": "Let's Replicate an Online Store UI in Xamarin.Forms",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/lets-replicate-an-online-store-ui-in-xamarin-forms.aspx",
+          "description": "<p>This blog discusses replicating an online store UI based on this Dribbble design.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/lets-replicate-an-online-store-ui-in-xamarin-forms.aspx\"><strong>Let's Replicate an Online Store UI in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "This blog discusses replicating an online store UI based on this Dribbble design.\r\n\r\n[**Let's Replicate an Online Store UI in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/lets-replicate-an-online-store-ui-in-xamarin-forms.aspx) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "48OiDh5",
+              "title": "**Let's Replicate an Online Store UI in Xamarin.Forms**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/lets-replicate-an-online-store-ui-in-xamarin-forms.aspx"
+            },
+            {
+              "identifier": "AtarEMe",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "T3WMMoV",
+          "type": "Link",
+          "title": "Performance Improvements in .NET MAUI",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui",
+          "description": "<p>Want to know why .NET MAUI apps boot faster, run smoother, and are smaller? This post break down how we made .NET MAUI fast!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui\"><strong>Performance Improvements in .NET MAUI</strong></a> by <a href=\"https://twitter.com/jonathanpeppers\">Jon Peppers</a></p>",
+          "description_markdown": "Want to know why .NET MAUI apps boot faster, run smoother, and are smaller? This post break down how we made .NET MAUI fast!\r\n\r\n[**Performance Improvements in .NET MAUI**](https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui) by [Jon Peppers](https://twitter.com/jonathanpeppers)",
+          "embedded_links": [
+            {
+              "identifier": "AhLKDHt",
+              "title": "**Performance Improvements in .NET MAUI**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui"
+            },
+            {
+              "identifier": "1cr21PR",
+              "title": "Jon Peppers",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jonathanpeppers"
+            }
+          ]
+        },
+        {
+          "identifier": "skwLGfk",
+          "type": "Link",
+          "title": "Evolution of Platform API Access With .NET MAUI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/evolution-platform-api-access-dotnet-maui",
+          "description": "<p>Mobile platform API access is a happy story for .NET developers—let’s take a trip down memory lane on how we got here.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/evolution-platform-api-access-dotnet-maui\"><strong>Evolution of Platform API Access With .NET MAUI</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Mobile platform API access is a happy story for .NET developers—let’s take a trip down memory lane on how we got here.\r\n\r\n[**Evolution of Platform API Access With .NET MAUI**](https://www.telerik.com/blogs/evolution-platform-api-access-dotnet-maui) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "2oQkO6M",
+              "title": "**Evolution of Platform API Access With .NET MAUI**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/evolution-platform-api-access-dotnet-maui"
+            },
+            {
+              "identifier": "3qeWvCj",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "oUpMXCn",
+          "type": "Link",
+          "title": "Invoke platform code in a MAUI app using the built-in Dependency Injection",
+          "url_domain": "msicc.net",
+          "url": "https://msicc.net/invoke-platform-code-in-a-maui-app-using-the-built-in-dependency-injection/",
+          "description": "<p>Marco discusses techniques to invoke platform code with MAUI.</p>\n\n<p><a href=\"https://msicc.net/invoke-platform-code-in-a-maui-app-using-the-built-in-dependency-injection/\"><strong>Invoke platform code in a MAUI app using the built-in Dependency Injection</strong></a> by <a href=\"https://twitter.com/msicc\">Marco Siccardi</a></p>",
+          "description_markdown": "Marco discusses techniques to invoke platform code with MAUI.\r\n\r\n[**Invoke platform code in a MAUI app using the built-in Dependency Injection**](https://msicc.net/invoke-platform-code-in-a-maui-app-using-the-built-in-dependency-injection/) by [Marco Siccardi](https://twitter.com/msicc)",
+          "embedded_links": [
+            {
+              "identifier": "HoPgDgz",
+              "title": "**Invoke platform code in a MAUI app using the built-in Dependency Injection**",
+              "url_domain": "msicc.net",
+              "url": "https://msicc.net/invoke-platform-code-in-a-maui-app-using-the-built-in-dependency-injection/"
+            },
+            {
+              "identifier": "aQ1zPJQ",
+              "title": "Marco Siccardi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/msicc"
+            }
+          ]
+        },
+        {
+          "identifier": "gSxPl4S",
+          "type": "Link",
+          "title": "Displaying Pop-Up in .NET MAUI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/displaying-pop-up-in-net-maui/",
+          "description": "<p>Need to show alerts, pop ups, action sheets in Maui, look no further.</p>\n\n<p><a href=\"https://askxammy.com/displaying-pop-up-in-net-maui/\"><strong>Displaying Pop-Up in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Need to show alerts, pop ups, action sheets in Maui, look no further.\r\n\r\n[**Displaying Pop-Up in .NET MAUI**](https://askxammy.com/displaying-pop-up-in-net-maui/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "5LlLm8t",
+              "title": "**Displaying Pop-Up in .NET MAUI**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/displaying-pop-up-in-net-maui/"
+            },
+            {
+              "identifier": "EYQ1uOO",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "nwTsKgb",
+          "type": "Link",
+          "title": "Easy Steps to Create an Investment (SIP) Calculator in .NET MAUI",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/easy-steps-to-create-an-investment-sip-calculator-in-net-maui.aspx",
+          "description": "<p>Discussing building out a simple calculator with Syncfusion controls .NET MAUI Slider and Radial Guage</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/easy-steps-to-create-an-investment-sip-calculator-in-net-maui.aspx\"><strong>Easy Steps to Create an Investment (SIP) Calculator in .NET MAUI</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/meikandaisyncfusion-com\">Meikanda Nayanar I</a></p>",
+          "description_markdown": "Discussing building out a simple calculator with Syncfusion controls .NET MAUI Slider and Radial Guage\r\n\r\n[**Easy Steps to Create an Investment (SIP) Calculator in .NET MAUI**](https://www.syncfusion.com/blogs/post/easy-steps-to-create-an-investment-sip-calculator-in-net-maui.aspx) by [Meikanda Nayanar I](https://www.syncfusion.com/blogs/author/meikandaisyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "tTNwE7k",
+              "title": "**Easy Steps to Create an Investment (SIP) Calculator in .NET MAUI**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/easy-steps-to-create-an-investment-sip-calculator-in-net-maui.aspx"
+            },
+            {
+              "identifier": "KDV7IX0",
+              "title": "Meikanda Nayanar I",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/meikandaisyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "z7kFoCt",
+          "type": "Link",
+          "title": "Telerik UI's new Xamarin ProgressBar",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/keep-users-know-new-xamarin-progressbar",
+          "description": "<p>Use this Xamarin Progress Bar to track the progress of various tasks such as loading images, data, submitting forms and more.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/keep-users-know-new-xamarin-progressbar\"><strong>Telerik UI's new Xamarin ProgressBar</strong></a> by <a href=\"\">Dobrinka Yordanova</a></p>",
+          "description_markdown": "Use this Xamarin Progress Bar to track the progress of various tasks such as loading images, data, submitting forms and more.\r\n\r\n[**Telerik UI's new Xamarin ProgressBar**](https://www.telerik.com/blogs/keep-users-know-new-xamarin-progressbar) by [Dobrinka Yordanova]()",
+          "embedded_links": [
+            {
+              "identifier": "sl5YP72",
+              "title": "**Telerik UI's new Xamarin ProgressBar**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/keep-users-know-new-xamarin-progressbar"
+            }
+          ]
+        },
+        {
+          "identifier": "kSMIFVF",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #61",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-61",
+          "description": "<p>The weekly happenings in the MAUI world</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-61\"><strong>Sands of MAUI: Issue #61</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "The weekly happenings in the MAUI world\r\n\r\n[**Sands of MAUI: Issue #61**](https://www.telerik.com/blogs/sands-of-maui-issue-61) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "qN9OTSx",
+              "title": "**Sands of MAUI: Issue #61**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-61"
+            },
+            {
+              "identifier": "9TkMvLh",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "1904hPB",
+          "type": "Link",
+          "title": "Roundup of .NET MAUI Libraries - Week of June 13, 2022",
+          "url_domain": "dev.to",
+          "url": "https://dev.to/davidortinau/roundup-of-net-maui-libraries-3kof",
+          "description": "<p>David Ortinau has listed out a roundup of .NET MAUI Libraries for the week.</p>\n\n<p><a href=\"https://dev.to/davidortinau/roundup-of-net-maui-libraries-3kof\"><strong>Roundup of .NET MAUI Libraries - Week of June 13, 2022</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": "David Ortinau has listed out a roundup of .NET MAUI Libraries for the week.\r\n\r\n[**Roundup of .NET MAUI Libraries - Week of June 13, 2022**](https://dev.to/davidortinau/roundup-of-net-maui-libraries-3kof) by [David Ortinau](https://twitter.com/davidortinau)",
+          "embedded_links": [
+            {
+              "identifier": "DVTOJ4x",
+              "title": "**Roundup of .NET MAUI Libraries - Week of June 13, 2022**",
+              "url_domain": "dev.to",
+              "url": "https://dev.to/davidortinau/roundup-of-net-maui-libraries-3kof"
+            },
+            {
+              "identifier": "6egpbLK",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        },
+        {
+          "identifier": "E5I3bkq",
+          "type": "Link",
+          "title": "Roundup of .NET MAUI Videos - Week of June 13, 2022",
+          "url_domain": "dev.to",
+          "url": "https://dev.to/davidortinau/roundup-of-net-maui-videos-week-of-june-13-2022-4nf0",
+          "description": "<p>David links out .NET MAUI videos of the week.</p>\n\n<p><a href=\"https://dev.to/davidortinau/roundup-of-net-maui-videos-week-of-june-13-2022-4nf0\"><strong>Roundup of .NET MAUI Videos - Week of June 13, 2022</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": "David links out .NET MAUI videos of the week.\r\n\r\n[**Roundup of .NET MAUI Videos - Week of June 13, 2022**](https://dev.to/davidortinau/roundup-of-net-maui-videos-week-of-june-13-2022-4nf0) by [David Ortinau](https://twitter.com/davidortinau)",
+          "embedded_links": [
+            {
+              "identifier": "6mqm8SP",
+              "title": "**Roundup of .NET MAUI Videos - Week of June 13, 2022**",
+              "url_domain": "dev.to",
+              "url": "https://dev.to/davidortinau/roundup-of-net-maui-videos-week-of-june-13-2022-4nf0"
+            },
+            {
+              "identifier": "VaIX1A8",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "UXHU0dW",
+          "type": "Link",
+          "title": "Maui Fest 2022 Videos",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=UOBOsBbmmTw",
+          "description": "<p>MauiFest 2022 is a free online community event to celebrate the launch of .NET MAUI. This is a link to the full stream which covered MAUI Blazor, Platform code in MAUI, Customizing Controls, Integrating AD B2C and Prism.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=UOBOsBbmmTw\"><strong>Maui Fest 2022 Videos</strong></a> by <a href=\"https://javiersuarezruiz.wordpress.com\">Javier Suárez</a></p>",
+          "description_markdown": "MauiFest 2022 is a free online community event to celebrate the launch of .NET MAUI. This is a link to the full stream which covered MAUI Blazor, Platform code in MAUI, Customizing Controls, Integrating AD B2C and Prism.\r\n\r\n[**Maui Fest 2022 Videos**](https://www.youtube.com/watch?v=UOBOsBbmmTw) by [Javier Suárez](https://javiersuarezruiz.wordpress.com)",
+          "embedded_links": [
+            {
+              "identifier": "OmuXxuH",
+              "title": "**Maui Fest 2022 Videos**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=UOBOsBbmmTw"
+            },
+            {
+              "identifier": "iKoUJNP",
+              "title": "Javier Suárez",
+              "url_domain": "wordpress.com",
+              "url": "https://javiersuarezruiz.wordpress.com"
+            }
+          ]
+        },
+        {
+          "identifier": "a5far1h",
+          "type": "Link",
+          "title": "Debug Android Apps with WSA and Visual Studio 2022",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=ABua3pB3RGc",
+          "description": "<p>James is joined by Jonathan Dick, Engineering Lead for .NET MAUI, who talks about his new extension for Visual Studio 2022 that will automatically configure and connect to WSA, the Windows Subsystem for Android. This extension will automatically install, configure, and connect Visual Studio in seconds!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=ABua3pB3RGc\"><strong>Debug Android Apps with WSA and Visual Studio 2022</strong></a> by <a href=\"https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw\">dotNet Youtube Channel</a></p>",
+          "description_markdown": "James is joined by Jonathan Dick, Engineering Lead for .NET MAUI, who talks about his new extension for Visual Studio 2022 that will automatically configure and connect to WSA, the Windows Subsystem for Android. This extension will automatically install, configure, and connect Visual Studio in seconds!\r\n\r\n[**Debug Android Apps with WSA and Visual Studio 2022**](https://www.youtube.com/watch?v=ABua3pB3RGc) by [dotNet Youtube Channel](https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw)",
+          "embedded_links": [
+            {
+              "identifier": "hoDXnkK",
+              "title": "**Debug Android Apps with WSA and Visual Studio 2022**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=ABua3pB3RGc"
+            },
+            {
+              "identifier": "fuGHOwx",
+              "title": "dotNet Youtube Channel",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw"
+            }
+          ]
+        },
+        {
+          "identifier": "NZiwjdl",
+          "type": "Link",
+          "title": "Working with .NET MAUI Styles - .NET MAUI 101",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Tcat1scCxVs",
+          "description": "<p>With Styles you can easily style your whole .NET MAUI app. In this video you will learn about implicit styles, explicit styles and how to apply styles to just one page or your whole application!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Tcat1scCxVs\"><strong>Working with .NET MAUI Styles - .NET MAUI 101</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "With Styles you can easily style your whole .NET MAUI app. In this video you will learn about implicit styles, explicit styles and how to apply styles to just one page or your whole application!\r\n\r\n[**Working with .NET MAUI Styles - .NET MAUI 101**](https://www.youtube.com/watch?v=Tcat1scCxVs) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "Rs9EP8N",
+              "title": "**Working with .NET MAUI Styles - .NET MAUI 101**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Tcat1scCxVs"
+            },
+            {
+              "identifier": "QxTfX8W",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "gxtBAGv",
+          "type": "Link",
+          "title": "Light & Dark Mode with AppThemeBinding",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=mao-oXFua5g",
+          "description": "<p>Whether you're on team light theme or team dark mode, as a developer you're going to have to support both. Luckily, with .NET MAUI implementing support for both is a breeze! Using the AppThemeBinding you can easily specify values to use for light- and dark theme for any type of object!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=mao-oXFua5g\"><strong>Light &amp; Dark Mode with AppThemeBinding</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Whether you're on team light theme or team dark mode, as a developer you're going to have to support both. Luckily, with .NET MAUI implementing support for both is a breeze! Using the AppThemeBinding you can easily specify values to use for light- and dark theme for any type of object!\r\n\r\n[**Light & Dark Mode with AppThemeBinding**](https://www.youtube.com/watch?v=mao-oXFua5g) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "SyWzmL3",
+              "title": "**Light & Dark Mode with AppThemeBinding**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=mao-oXFua5g"
+            },
+            {
+              "identifier": "w9SCSGn",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "5uYuLME",
+          "type": "Link",
+          "title": "Merge Conflict: 310: WWDC 2022 Recap",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/310",
+          "description": "<p>Everything you need to know about the latest in iOS, macOS, tvOS, watchOS, iPadOS, and so much more from WWDC 2022!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/310\"><strong>Merge Conflict: 310: WWDC 2022 Recap</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Everything you need to know about the latest in iOS, macOS, tvOS, watchOS, iPadOS, and so much more from WWDC 2022!\r\n\r\n[**Merge Conflict: 310: WWDC 2022 Recap**](https://www.mergeconflict.fm/310) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "SHzT904",
+              "title": "**Merge Conflict: 310: WWDC 2022 Recap**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/310"
+            },
+            {
+              "identifier": "4Hx4KZG",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "Id": "354",
+  "Name": "Issue 354",
+  "UpdatedTimeStamp": "2022-06-20T04:13:57Z",
+  "Summary": "Getting Started and MAUI Fest",
+  "Introduction": "G'day everyone, welcome to issue #354 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week. This week there are some great resources for getting started with .NET MAUI and as always so many great videos to help you develop MAUI Apps. Have a great week developing apps! Kym",
+  "PublishDate": "2022-06-20T04:13:55Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "New Resources to Get Started with .NET MAUI",
+      "Url": "https://devblogs.microsoft.com/dotnet/learn-dotnet-maui",
+      "Description": "If you are getting started with .NET MAUI then Matt has collected a bunch of links to get you started on the learning journey.",
+      "EditionId": "354",
+      "Author": "Matt Soucoup",
+      "Id": "354-1",
+      "Category": "GETTING STARTED"
+    },
+    {
+      "Title": "UI/UX Design: Something BIG just happened to Apple’s HIG",
+      "Url": "https://uxplanet.org/ui-ux-design-something-big-just-happened-to-apples-hig-e59633df0b79",
+      "Description": "Apple’s Human Interface Guidelines just got updated and there’s been some really nice, long overdue changes.",
+      "EditionId": "354",
+      "Author": "Nick Lawrence",
+      "Id": "354-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Crayon - Animate your SVGs",
+      "Url": "https://designstripe.com/crayon",
+      "Description": "An interesting site that will take a SVG and animate it with cartoon style animation.",
+      "EditionId": "354",
+      "Author": "Designstripe",
+      "Id": "354-3",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Push Notification using Firebase",
+      "Url": "https://xamarinuidesigns.blogspot.com/2022/06/push-notification-using-firebase-in.html",
+      "Description": "This post and video cover Enabling Push Notifications using Firebase",
+      "EditionId": "354",
+      "Author": "Xamarin UI Designs",
+      "Id": "354-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Let's Replicate an Online Store UI in Xamarin.Forms",
+      "Url": "https://www.syncfusion.com/blogs/post/lets-replicate-an-online-store-ui-in-xamarin-forms.aspx",
+      "Description": "This blog discusses replicating an online store UI based on this Dribbble design.",
+      "EditionId": "354",
+      "Author": "Leomaris Reyes",
+      "Id": "354-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Performance Improvements in .NET MAUI",
+      "Url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui",
+      "Description": "Want to know why .NET MAUI apps boot faster, run smoother, and are smaller? This post break down how we made .NET MAUI fast!",
+      "EditionId": "354",
+      "Author": "Jon Peppers",
+      "Id": "354-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Evolution of Platform API Access With .NET MAUI",
+      "Url": "https://www.telerik.com/blogs/evolution-platform-api-access-dotnet-maui",
+      "Description": "Mobile platform API access is a happy story for .NET developers—let’s take a trip down memory lane on how we got here.",
+      "EditionId": "354",
+      "Author": "Sam Basu",
+      "Id": "354-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Invoke platform code in a MAUI app using the built-in Dependency Injection",
+      "Url": "https://msicc.net/invoke-platform-code-in-a-maui-app-using-the-built-in-dependency-injection/",
+      "Description": "Marco discusses techniques to invoke platform code with MAUI.",
+      "EditionId": "354",
+      "Author": "Marco Siccardi",
+      "Id": "354-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Displaying Pop-Up in .NET MAUI",
+      "Url": "https://askxammy.com/displaying-pop-up-in-net-maui/",
+      "Description": "Need to show alerts, pop ups, action sheets in Maui, look no further.",
+      "EditionId": "354",
+      "Author": "Leomaris Reyes",
+      "Id": "354-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Easy Steps to Create an Investment (SIP) Calculator in .NET MAUI",
+      "Url": "https://www.syncfusion.com/blogs/post/easy-steps-to-create-an-investment-sip-calculator-in-net-maui.aspx",
+      "Description": "Discussing building out a simple calculator with Syncfusion controls .NET MAUI Slider and Radial Guage",
+      "EditionId": "354",
+      "Author": "Meikanda Nayanar",
+      "Id": "354-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Telerik UI's new Xamarin ProgressBar",
+      "Url": "https://www.telerik.com/blogs/keep-users-know-new-xamarin-progressbar",
+      "Description": "Use this Xamarin Progress Bar to track the progress of various tasks such as loading images, data, submitting forms and more.",
+      "EditionId": "354",
+      "Id": "354-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #61",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-61",
+      "Description": "The weekly happenings in the MAUI world",
+      "EditionId": "354",
+      "Author": "Sam Basu",
+      "Id": "354-12",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Roundup of .NET MAUI Libraries - Week of June 13, 2022",
+      "Url": "https://dev.to/davidortinau/roundup-of-net-maui-libraries-3kof",
+      "Description": "David Ortinau has listed out a roundup of .NET MAUI Libraries for the week.",
+      "EditionId": "354",
+      "Author": "David Ortinau",
+      "Id": "354-13",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Roundup of .NET MAUI Videos - Week of June 13, 2022",
+      "Url": "https://dev.to/davidortinau/roundup-of-net-maui-videos-week-of-june-13-2022-4nf0",
+      "Description": "David links out .NET MAUI videos of the week.",
+      "EditionId": "354",
+      "Author": "David Ortinau",
+      "Id": "354-14",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Maui Fest 2022 Videos",
+      "Url": "https://www.youtube.com/watch?v=UOBOsBbmmTw",
+      "Description": "MauiFest 2022 is a free online community event to celebrate the launch of .NET MAUI. This is a link to the full stream which covered MAUI Blazor, Platform code in MAUI, Customizing Controls, Integrating AD B2C and Prism.",
+      "EditionId": "354",
+      "Author": "Javier Suárez",
+      "Id": "354-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Debug Android Apps with WSA and Visual Studio 2022",
+      "Url": "https://www.youtube.com/watch?v=ABua3pB3RGc",
+      "Description": "James is joined by Jonathan Dick, Engineering Lead for .NET MAUI, who talks about his new extension for Visual Studio 2022 that will automatically configure and connect to WSA, the Windows Subsystem for Android. This extension will automatically install, configure, and connect Visual Studio in seconds!",
+      "EditionId": "354",
+      "Author": "dotNet Youtube Channel",
+      "Id": "354-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Working with .NET MAUI Styles - .NET MAUI 101",
+      "Url": "https://www.youtube.com/watch?v=Tcat1scCxVs",
+      "Description": "With Styles you can easily style your whole .NET MAUI app. In this video you will learn about implicit styles, explicit styles and how to apply styles to just one page or your whole application!",
+      "EditionId": "354",
+      "Author": "Gerald Versluis",
+      "Id": "354-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Light & Dark Mode with AppThemeBinding",
+      "Url": "https://www.youtube.com/watch?v=mao-oXFua5g",
+      "Description": "Whether you're on team light theme or team dark mode, as a developer you're going to have to support both. Luckily, with .NET MAUI implementing support for both is a breeze! Using the AppThemeBinding you can easily specify values to use for light- and dark theme for any type of object!",
+      "EditionId": "354",
+      "Author": "Gerald Versluis",
+      "Id": "354-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 310: WWDC 2022 Recap",
+      "Url": "https://www.mergeconflict.fm/310",
+      "Description": "Everything you need to know about the latest in iOS, macOS, tvOS, watchOS, iPadOS, and so much more from WWDC 2022!",
+      "EditionId": "354",
+      "Author": "Merge Conflict",
+      "Id": "354-19",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

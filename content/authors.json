@@ -899,6 +899,12 @@
       ]
     },
     {
+      "Name": "Designstripe",
+      "TwitterHandle": "designstripeapp",
+      "Id": "f361114e-8e0e-4b99-8552-028ce875f80f",
+      "Aliases": []
+    },
+    {
       "Name": "DevCrux Technologies",
       "Id": "69b2566c-5483-4615-a3f1-54bbd0dde2b0",
       "Aliases": [
@@ -2307,6 +2313,12 @@
       ]
     },
     {
+      "Name": "Nick Lawrence",
+      "TwitterHandle": "NickLaw87646112",
+      "Id": "12fc2d26-cc10-4277-84a0-c59fe077df0e",
+      "Aliases": []
+    },
+    {
       "Name": "Nick Randolph",
       "TwitterHandle": "thenickrandolph",
       "GitHubHandle": "nickrandolph",
@@ -3475,6 +3487,16 @@
         {
           "Type": "blog",
           "Name": "https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ"
+        }
+      ]
+    },
+    {
+      "Name": "Xamarin UI Designs",
+      "Id": "ae45e9c1-985f-4cb2-b42d-f5e2dcd7e85f",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://xamarinuidesigns.blogspot.com/"
         }
       ]
     },

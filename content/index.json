@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "354",
+      "Name": "Issue 354",
+      "UpdatedTimeStamp": "2022-06-20T04:13:57Z",
+      "Summary": "Getting Started and MAUI Fest",
+      "PublishDate": "2022-06-20T04:13:55Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "353",
       "Name": "Issue 353",
       "UpdatedTimeStamp": "2022-06-06T03:38:43Z",
