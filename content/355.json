@@ -1,0 +1,253 @@
+{
+  "Id": "355",
+  "Name": "Issue 355",
+  "UpdatedTimeStamp": "2022-07-01T05:40:23Z",
+  "Summary": "So much content - oops, did I say weekly xamarin?",
+  "Introduction": "G'day everyone, welcome to issue #355 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week. This is a bumper issue full of great articles and video resources to make up for having missed last week's edition due to unforeseen circumstances. I hope you enjoy it. For those in the U.S. I also hope you have a safe and relaxing 4th of July! Kym",
+  "PublishDate": "2022-07-01T05:40:20Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "iOS 16 UI Kit for Figma",
+      "Url": "https://www.figma.com/community/file/1121065701252736567",
+      "Description": "This file contains hundreds of components, templates, demos, and everything else needed to help you start designing for iOS. Each component has been created with the latest version of Auto Layout, supports Component Properties, variants, Light and Dark Mode, and much more.",
+      "EditionId": "355",
+      "Author": "Joey Banks",
+      "Id": "355-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Eva Icons",
+      "Url": "https://akveo.github.io/eva-icons/#/",
+      "Description": "Eva Icons is a pack of 480 delightful icons available for free. Download Eva Icons to use them in your products for mobile and web apps. Available as SVG, PNG, Web Font and Sketch. Open Source, built by the Nebular team.",
+      "EditionId": "355",
+      "Author": "Mary Akveo",
+      "Id": "355-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "4 Steps To Improve HTTP Request",
+      "Url": "https://doumer.me/improve-http-request-performance-in-dotnet-maui-xamarin/",
+      "Description": "This articles shows how to improve HTTP Request Performance in Dotnet MAUI / Xamarin Make your mobile app consume less resources.",
+      "EditionId": "355",
+      "Author": "Damien Doumer",
+      "Id": "355-3",
+      "Category": "PERFORMANCE"
+    },
+    {
+      "Title": "Getting Started with DevOps and .NET MAUI",
+      "Url": "https://devblogs.microsoft.com/dotnet/devops-for-dotnet-maui/",
+      "Description": "Want to add DevOps to your .NET MAUI project? This post shows how to implement a starter pipeline using GitHub Actions and Azure DevOps.",
+      "EditionId": "355",
+      "Author": "Sweekriti Satpathy",
+      "Id": "355-4",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Replicating a CV Mobile App in Xamarin.Forms",
+      "Url": "https://www.syncfusion.com/blogs/post/replicating-a-cv-mobile-app-in-xamarin-forms.aspx",
+      "Description": "This article shows how to replicate a CV mobile app in Xamarin.Forms based on a Dribbble design.",
+      "EditionId": "355",
+      "Author": "Leomaris Reyes",
+      "Id": "355-5",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": ".NET MAUI UI July: Outlook Clone",
+      "Url": "https://goforgoldman.com/2022/06/30/outlook-clone.html",
+      "Description": "In the first post for .NET MAUI UI July, Matt Goldman shows how we can use a combination of .NET MAUI’s built in layouts and controls to replicate a familiar UI: the Microsoft Outlook mobile app.",
+      "EditionId": "355",
+      "Author": "Matt Goldman",
+      "Id": "355-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Flyout and Tab Icon States in .NET MAUI",
+      "Url": "https://dev.to/davidortinau/flyout-and-tab-icon-states-in-net-maui-4k0k",
+      "Description": "David provides a nice tip on using State Triggers within a Style to change images on a flyout when it's selected.",
+      "EditionId": "355",
+      "Author": "David Ortinau",
+      "Id": "355-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Progressing From a Default Project Part 1 - Adding the View Model",
+      "Url": "https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_1_-_adding_the_view_model/",
+      "Description": "This series looks interesting, it is for people familiar with .NET MAUI. This first part looks into putting a View Model behind the default MAUI starter app and some tips to get your environment working.",
+      "EditionId": "355",
+      "Author": "Charles Flatt",
+      "Id": "355-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "NET MAUI Progressing From a Default Project Part 2 - (The Problem With) Basic Unit Testing",
+      "Url": "https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_2_-__the_problem_with__basic_unit_testing/",
+      "Description": "This follow up article looks at adding unit tests to the view model in a MAUI application",
+      "EditionId": "355",
+      "Author": "Charles Flatt",
+      "Id": "355-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Migrating a Xamarin lib to MAUI: TaskLoaderView (1/2)",
+      "Url": "https://www.sharpnado.com/migrating-a-xamarin-lib-to-maui-taskloaderview/",
+      "Description": "Sharknado looks at taking the TaskLoaderView from Xamarin.Forms to the brave new world of .NET MAUI. What does it take? What is the strategy?",
+      "EditionId": "355",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "355-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Running a .NET MAUI Windows App as Administrator (Elevated)",
+      "Url": "https://blog.verslu.is/maui/net-maui-windows-app-as-administrator-elevated/",
+      "Description": "In this post you will learn how to run your .NET MAUI Windows app as administrator. We will learn how to setup your app to run elevated.",
+      "EditionId": "355",
+      "Author": "Gerald Versluis",
+      "Id": "355-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Exploring Layout Options in .NET MAUI",
+      "Url": "https://www.telerik.com/blogs/exploring-layout-options-dotnet-maui",
+      "Description": ".NET MAUI has four layout classes to help you organize the user interface of your app. Let’s look at them!",
+      "EditionId": "355",
+      "Author": "Leomaris Reyes",
+      "Id": "355-12",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".Net MAUI : Mobile local Storage Preferences using .NET MAUI",
+      "Url": "https://www.msdevbuild.com/2022/06/net-maui-store-local-data-with.html",
+      "Description": "In .Net MAUI Preferences stores data in key-value pairs and can be easily managed via the Preferences class from Microsoft.Maui.Storage namespace. This article will help you get started with using the namespace.",
+      "EditionId": "355",
+      "Author": "Suthahar Jegatheesan",
+      "Id": "355-13",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Converting Xamarin.Android template to .NET 6",
+      "Url": "https://www.andreasnesheim.no/converting-xamarin-android-template-to-net-6/",
+      "Description": "Tips and tricks for how you can upgrade your Xamarin.Android application to a .NET 6 Android application.",
+      "EditionId": "355",
+      "Author": "Andreas Nesheim",
+      "Id": "355-14",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Converting Xamarin.iOS template to .NET 6",
+      "Url": "https://www.andreasnesheim.no/converting-xamarin-ios-template-to-net-6/",
+      "Description": "Tips and tricks for how you can upgrade your Xamarin.iOS application to a .NET 6 iOS application.",
+      "EditionId": "355",
+      "Author": "Andreas Nesheim",
+      "Id": "355-15",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Add Effects Like a Pro Using .NET MAUI Effects View",
+      "Url": "https://www.syncfusion.com/blogs/post/add-effects-like-a-pro-using-net-maui-effects-view.aspx",
+      "Description": "Adding effects to an application can enhance an app’s appearance and user experience. This blog shows you how to use the Effects View control from SyncFusion to do this.",
+      "EditionId": "355",
+      "Id": "355-16",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Roundup of .NET MAUI Videos - Week of June 20, 2022",
+      "Url": "https://dev.to/davidortinau/roundup-of-net-maui-videos-week-of-june-20-2022-4okj",
+      "Description": "Another week, and round of new content for .NET MAUI learners!",
+      "EditionId": "355",
+      "Author": "David Ortinau",
+      "Id": "355-17",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #63",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-63",
+      "Description": "The weekly MAUI happenings.",
+      "EditionId": "355",
+      "Author": "Sam Basu",
+      "Id": "355-18",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI is here! AMA + Explore cross-platform development",
+      "Url": "https://www.youtube.com/watch?v=5cFZJGEmji0",
+      "Description": "James streamed a .NET MAUI session to answer questions about the platform.",
+      "EditionId": "355",
+      "Author": "James Montemagno",
+      "Id": "355-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Using Dynamic Resources - .NET MAUI 101",
+      "Url": "https://www.youtube.com/watch?v=yMhoht9VaTM",
+      "Description": "Dynamic resources allow you to update the values at runtime. That in it's turn, allows you to change the complete look of your .NET MAUI app while running 🤯 In this video I walk you through what it is, and how to do it!",
+      "EditionId": "355",
+      "Author": "Gerald Versluis",
+      "Id": "355-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Control Reference Bindings (view-to-view) - .NET MAUI 101",
+      "Url": "https://www.youtube.com/watch?v=PH9_bPu-ImQ",
+      "Description": "With .NET MAUI you can directly bind to another control in XAML. For example if you want to create view-to-view dependencies. Use the x:Reference attribute on a Binding, to reach the control you want and bind to the right property. Sounds hard? Check out the video on how to do it!",
+      "EditionId": "355",
+      "Author": "Gerald Versluis",
+      "Id": "355-21",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Build Your .NET MAUI Android App with GitHub Actions",
+      "Url": "https://www.youtube.com/watch?v=GQuQPm40kys",
+      "Description": "GitHub has the ability to do all kinds of automation. One of which is to set up automated builds of your .NET MAUI app! In this video we will learn about how to setup builds for you .NET MAUI Android app with GitHub Actions!",
+      "EditionId": "355",
+      "Author": "Gerald Versluis",
+      "Id": "355-22",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Build Your .NET MAUI Windows App with GitHub Actions",
+      "Url": "https://www.youtube.com/watch?v=8lvdLa0v8zY",
+      "Description": "GitHub has the ability to do all kinds of automation. One of which is to set up automated builds of your .NET MAUI app! In this video we will learn about how to setup builds for you .NET MAUI Windows app with GitHub Actions!",
+      "EditionId": "355",
+      "Author": "Gerald Versluis",
+      "Id": "355-23",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI and Data Bindings",
+      "Url": "https://www.youtube.com/watch?v=AgrYTEKxxoo",
+      "Description": "In this video, Daniel will talk about .NET MAUI, MVVM, and Data Bindings.",
+      "EditionId": "355",
+      "Author": "Daniel Hindrikes",
+      "Id": "355-24",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "TinyMvvm for .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=XnBmvOu3MO4",
+      "Description": "TinyMvvm is a MvvmLibrary created by Daniel Hindrikes. Daniel has now updated it so it can be used with .NET MAUI.",
+      "EditionId": "355",
+      "Author": "Daniel Hindrikes",
+      "Id": "355-25",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "What is the MVVM pattern, What benefits does MVVM have?",
+      "Url": "https://www.youtube.com/watch?v=AXpTeiWtbC8",
+      "Description": "Do you really need to learn MVVM to start developing apps with XAML frameworks like .NET MAUI, Uno, Avalonia, WPF, or WinUI 3? James breaks down what you know about MVVM, what it is, what it looks like to code without it, why you should learn and use it, and finally, how to take advantage of MVVM in your app!",
+      "EditionId": "355",
+      "Author": "James Montemagno",
+      "Id": "355-26",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 312: dotnet workload",
+      "Url": "https://www.mergeconflict.fm/312",
+      "Description": "This week try to demystify the new workload system in .NET! .NET MAUI, Blazor WASM, Source Control, Continuous Integration, and more!",
+      "EditionId": "355",
+      "Author": "Merge Conflict",
+      "Id": "355-27",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

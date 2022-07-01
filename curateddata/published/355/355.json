@@ -1,0 +1,678 @@
+{
+  "number": 355,
+  "title": "Issue 355",
+  "summary": "So much content - oops, did I say weekly xamarin?",
+  "url": "https://weeklyxamarin.com/issues/355",
+  "publication_status": "published",
+  "published_at": "2022-07-01T06:40:20+01:00",
+  "updated_at": "2022-07-01T06:40:23+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #355 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.</p>\n\n<p>This is a bumper issue full of great articles and video resources to make up for having missed last week's edition due to unforeseen circumstances.</p>\n\n<p>I hope you enjoy it.</p>\n\n<p>For those in the U.S. I also hope you have a safe and relaxing 4th of July!</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #355 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities this week.\r\n\r\nThis is a bumper issue full of great articles and video resources to make up for having missed last week's edition due to unforeseen circumstances.\r\n\r\nI hope you enjoy it.\r\n\r\nFor those in the U.S. I also hope you have a safe and relaxing 4th of July!\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "yLheCNL",
+          "type": "Link",
+          "title": "iOS 16 UI Kit for Figma",
+          "url_domain": "figma.com",
+          "url": "https://www.figma.com/community/file/1121065701252736567",
+          "description": "<p>This file contains hundreds of components, templates, demos, and everything else needed to help you start designing for iOS. Each component has been created with the latest version of Auto Layout, supports Component Properties, variants, Light and Dark Mode, and much more.</p>\n\n<p><a href=\"https://www.figma.com/community/file/1121065701252736567\"><strong>iOS 16 UI Kit for Figma</strong></a> by <a href=\"https://twitter.com/joeyabanks\">Joey Banks</a></p>",
+          "description_markdown": "This file contains hundreds of components, templates, demos, and everything else needed to help you start designing for iOS. Each component has been created with the latest version of Auto Layout, supports Component Properties, variants, Light and Dark Mode, and much more.\r\n\r\n[**iOS 16 UI Kit for Figma**](https://www.figma.com/community/file/1121065701252736567) by [Joey Banks](https://twitter.com/joeyabanks)",
+          "embedded_links": [
+            {
+              "identifier": "rc2gwNB",
+              "title": "**iOS 16 UI Kit for Figma**",
+              "url_domain": "figma.com",
+              "url": "https://www.figma.com/community/file/1121065701252736567"
+            },
+            {
+              "identifier": "LC6bQUN",
+              "title": "Joey Banks",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/joeyabanks"
+            }
+          ]
+        },
+        {
+          "identifier": "FPEvdvS",
+          "type": "Link",
+          "title": "Eva Icons",
+          "url_domain": "github.io",
+          "url": "https://akveo.github.io/eva-icons/#/",
+          "description": "<p>Eva Icons is a pack of 480 delightful icons available for free. Download Eva Icons to use them in your products for mobile and web apps. Available as SVG, PNG, Web Font and Sketch. Open Source, built by the Nebular team.</p>\n\n<p><a href=\"https://akveo.github.io/eva-icons/#/\"><strong>Eva Icons</strong></a> by <a href=\"https://twitter.com/akveo_inc\">Mary Akveo</a></p>",
+          "description_markdown": "Eva Icons is a pack of 480 delightful icons available for free. Download Eva Icons to use them in your products for mobile and web apps. Available as SVG, PNG, Web Font and Sketch. Open Source, built by the Nebular team.\r\n\r\n[**Eva Icons**](https://akveo.github.io/eva-icons/#/) by [Mary Akveo](https://twitter.com/akveo_inc)",
+          "embedded_links": [
+            {
+              "identifier": "I1xwq8Y",
+              "title": "**Eva Icons**",
+              "url_domain": "github.io",
+              "url": "https://akveo.github.io/eva-icons/#/"
+            },
+            {
+              "identifier": "jkO9iSR",
+              "title": "Mary Akveo",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/akveo_inc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "performance",
+      "name": "PERFORMANCE",
+      "items": [
+        {
+          "identifier": "hjRxrXL",
+          "type": "Link",
+          "title": "4 Steps To Improve HTTP Request",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/improve-http-request-performance-in-dotnet-maui-xamarin/",
+          "description": "<p>This articles shows how to improve HTTP Request Performance in Dotnet MAUI / Xamarin Make your mobile app consume less resources.</p>\n\n<p><a href=\"https://doumer.me/improve-http-request-performance-in-dotnet-maui-xamarin/\"><strong>4 Steps To Improve HTTP Request</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "This articles shows how to improve HTTP Request Performance in Dotnet MAUI / Xamarin Make your mobile app consume less resources.\r\n\r\n[**4 Steps To Improve HTTP Request**](https://doumer.me/improve-http-request-performance-in-dotnet-maui-xamarin/) by [Damien Doumer](https://twitter.com/damien_doumer)",
+          "embedded_links": [
+            {
+              "identifier": "dyAedkd",
+              "title": "**4 Steps To Improve HTTP Request**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/improve-http-request-performance-in-dotnet-maui-xamarin/"
+            },
+            {
+              "identifier": "uVMHlAi",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "RHodmuW",
+          "type": "Link",
+          "title": "Getting Started with DevOps and .NET MAUI",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/devops-for-dotnet-maui/",
+          "description": "<p>Want to add DevOps to your .NET MAUI project? This post shows how to implement a starter pipeline using GitHub Actions and Azure DevOps.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/devops-for-dotnet-maui/\"><strong>Getting Started with DevOps and .NET MAUI</strong></a> by <a href=\"https://twitter.com/sweekritis\">Sweekriti Satpathy</a></p>",
+          "description_markdown": "Want to add DevOps to your .NET MAUI project? This post shows how to implement a starter pipeline using GitHub Actions and Azure DevOps.\r\n\r\n[**Getting Started with DevOps and .NET MAUI**](https://devblogs.microsoft.com/dotnet/devops-for-dotnet-maui/) by [Sweekriti Satpathy](https://twitter.com/sweekritis)",
+          "embedded_links": [
+            {
+              "identifier": "a6cHGWs",
+              "title": "**Getting Started with DevOps and .NET MAUI**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/devops-for-dotnet-maui/"
+            },
+            {
+              "identifier": "OzLNqqo",
+              "title": "Sweekriti Satpathy",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/sweekritis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "xOOqPD1",
+          "type": "Link",
+          "title": "Replicating a CV Mobile App in Xamarin.Forms",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/replicating-a-cv-mobile-app-in-xamarin-forms.aspx",
+          "description": "<p>This article shows how to replicate a CV mobile app in Xamarin.Forms based on a Dribbble design.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/replicating-a-cv-mobile-app-in-xamarin-forms.aspx\"><strong>Replicating a CV Mobile App in Xamarin.Forms</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "This article shows how to replicate a CV mobile app in Xamarin.Forms based on a Dribbble design. \r\n\r\n[**Replicating a CV Mobile App in Xamarin.Forms**](https://www.syncfusion.com/blogs/post/replicating-a-cv-mobile-app-in-xamarin-forms.aspx) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "Fb3cTNe",
+              "title": "**Replicating a CV Mobile App in Xamarin.Forms**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/replicating-a-cv-mobile-app-in-xamarin-forms.aspx"
+            },
+            {
+              "identifier": "INxJAgj",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "cxIPMBr",
+          "type": "Link",
+          "title": ".NET MAUI UI July: Outlook Clone",
+          "url_domain": "goforgoldman.com",
+          "url": "https://goforgoldman.com/2022/06/30/outlook-clone.html",
+          "description": "<p>In the first post for .NET MAUI UI July, Matt Goldman shows how we can use a combination of .NET MAUI’s built in layouts and controls to replicate a familiar UI: the Microsoft Outlook mobile app.</p>\n\n<p><a href=\"https://goforgoldman.com/2022/06/30/outlook-clone.html\"><strong>.NET MAUI UI July: Outlook Clone</strong></a> by <a href=\"https://twitter.com/mattgoldman\">Matt Goldman</a></p>",
+          "description_markdown": "In the first post for .NET MAUI UI July, Matt Goldman shows how we can use a combination of .NET MAUI’s built in layouts and controls to replicate a familiar UI: the Microsoft Outlook mobile app.\r\n\r\n[**.NET MAUI UI July: Outlook Clone**](https://goforgoldman.com/2022/06/30/outlook-clone.html) by [Matt Goldman](https://twitter.com/mattgoldman)",
+          "embedded_links": [
+            {
+              "identifier": "Z8GnzDJ",
+              "title": "**.NET MAUI UI July: Outlook Clone**",
+              "url_domain": "goforgoldman.com",
+              "url": "https://goforgoldman.com/2022/06/30/outlook-clone.html"
+            },
+            {
+              "identifier": "ouEh4Cd",
+              "title": "Matt Goldman",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mattgoldman"
+            }
+          ]
+        },
+        {
+          "identifier": "IfOlHWg",
+          "type": "Link",
+          "title": "Flyout and Tab Icon States in .NET MAUI",
+          "url_domain": "dev.to",
+          "url": "https://dev.to/davidortinau/flyout-and-tab-icon-states-in-net-maui-4k0k",
+          "description": "<p>David provides a nice tip on using State Triggers within a Style to change images on a flyout when it's selected.</p>\n\n<p><a href=\"https://dev.to/davidortinau/flyout-and-tab-icon-states-in-net-maui-4k0k\"><strong>Flyout and Tab Icon States in .NET MAUI</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": "David provides a nice tip on using State Triggers within a Style to change images on a flyout when it's selected.\r\n\r\n[**Flyout and Tab Icon States in .NET MAUI**](https://dev.to/davidortinau/flyout-and-tab-icon-states-in-net-maui-4k0k) by [David Ortinau](https://twitter.com/davidortinau)",
+          "embedded_links": [
+            {
+              "identifier": "yBUQsvw",
+              "title": "**Flyout and Tab Icon States in .NET MAUI**",
+              "url_domain": "dev.to",
+              "url": "https://dev.to/davidortinau/flyout-and-tab-icon-states-in-net-maui-4k0k"
+            },
+            {
+              "identifier": "o5RjKr7",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        },
+        {
+          "identifier": "XAmOKxW",
+          "type": "Link",
+          "title": ".NET MAUI Progressing From a Default Project Part 1 - Adding the View Model",
+          "url_domain": "softwaremeadows.com",
+          "url": "https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_1_-_adding_the_view_model/",
+          "description": "<p>This series looks interesting, it is for people familiar with .NET MAUI. This first part looks into putting a View Model behind the default MAUI starter app and some tips to get your environment working.</p>\n\n<p><a href=\"https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_1_-_adding_the_view_model/\"><strong>.NET MAUI Progressing From a Default Project Part 1 - Adding the View Model</strong></a> by <a href=\"https://github.com/bladewolf55\">Charles Flatt</a></p>",
+          "description_markdown": "This series looks interesting, it is for people familiar with .NET MAUI. This first part looks into putting a View Model behind the default MAUI starter app and some tips to get your environment working.\r\n\r\n[**.NET MAUI Progressing From a Default Project Part 1 - Adding the View Model**](https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_1_-_adding_the_view_model/) by [Charles Flatt](https://github.com/bladewolf55)",
+          "embedded_links": [
+            {
+              "identifier": "hCoXF4c",
+              "title": "**.NET MAUI Progressing From a Default Project Part 1 - Adding the View Model**",
+              "url_domain": "softwaremeadows.com",
+              "url": "https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_1_-_adding_the_view_model/"
+            },
+            {
+              "identifier": "MEf9186",
+              "title": "Charles Flatt",
+              "url_domain": "github.com",
+              "url": "https://github.com/bladewolf55"
+            }
+          ]
+        },
+        {
+          "identifier": "HJG9ggY",
+          "type": "Link",
+          "title": "NET MAUI Progressing From a Default Project Part 2 - (The Problem With) Basic Unit Testing",
+          "url_domain": "softwaremeadows.com",
+          "url": "https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_2_-__the_problem_with__basic_unit_testing/",
+          "description": "<p>This follow up article looks at adding unit tests to the view model in a MAUI application</p>\n\n<p><a href=\"https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_2_-__the_problem_with__basic_unit_testing/\"><strong>NET MAUI Progressing From a Default Project Part 2 - (The Problem With) Basic Unit Testing</strong></a> by <a href=\"https://github.com/bladewolf55\">Charles Flatt</a></p>",
+          "description_markdown": "This follow up article looks at adding unit tests to the view model in a MAUI application\r\n\r\n[**NET MAUI Progressing From a Default Project Part 2 - (The Problem With) Basic Unit Testing**](https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_2_-__the_problem_with__basic_unit_testing/) by [Charles Flatt](https://github.com/bladewolf55)",
+          "embedded_links": [
+            {
+              "identifier": "MCJi3fu",
+              "title": "**NET MAUI Progressing From a Default Project Part 2 - (The Problem With) Basic Unit Testing**",
+              "url_domain": "softwaremeadows.com",
+              "url": "https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_2_-__the_problem_with__basic_unit_testing/"
+            },
+            {
+              "identifier": "ynEbaxB",
+              "title": "Charles Flatt",
+              "url_domain": "github.com",
+              "url": "https://github.com/bladewolf55"
+            }
+          ]
+        },
+        {
+          "identifier": "J7DLDYA",
+          "type": "Link",
+          "title": "Migrating a Xamarin lib to MAUI: TaskLoaderView (1/2)",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/migrating-a-xamarin-lib-to-maui-taskloaderview/",
+          "description": "<p>Sharknado looks at taking the TaskLoaderView from Xamarin.Forms to the brave new world of .NET MAUI. What does it take? What is the strategy?</p>\n\n<p><a href=\"https://www.sharpnado.com/migrating-a-xamarin-lib-to-maui-taskloaderview/\"><strong>Migrating a Xamarin lib to MAUI: TaskLoaderView (1/2)</strong></a> by <a href=\"https://twitter.com/Piskariov\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "Sharknado looks at taking the TaskLoaderView from Xamarin.Forms to the brave new world of .NET MAUI. What does it take? What is the strategy?\r\n\r\n[**Migrating a Xamarin lib to MAUI: TaskLoaderView (1/2)**](https://www.sharpnado.com/migrating-a-xamarin-lib-to-maui-taskloaderview/) by [Jean-Marie Alfonsi](https://twitter.com/Piskariov)",
+          "embedded_links": [
+            {
+              "identifier": "2MeAsiQ",
+              "title": "**Migrating a Xamarin lib to MAUI: TaskLoaderView (1/2)**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/migrating-a-xamarin-lib-to-maui-taskloaderview/"
+            },
+            {
+              "identifier": "1PTWiCK",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Piskariov"
+            }
+          ]
+        },
+        {
+          "identifier": "PLy0uiT",
+          "type": "Link",
+          "title": "Running a .NET MAUI Windows App as Administrator (Elevated)",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/maui/net-maui-windows-app-as-administrator-elevated/",
+          "description": "<p>In this post you will learn how to run your .NET MAUI Windows app as administrator. We will learn how to setup your app to run elevated.</p>\n\n<p><a href=\"https://blog.verslu.is/maui/net-maui-windows-app-as-administrator-elevated/\"><strong>Running a .NET MAUI Windows App as Administrator (Elevated)</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "In this post you will learn how to run your .NET MAUI Windows app as administrator. We will learn how to setup your app to run elevated.\r\n\r\n[**Running a .NET MAUI Windows App as Administrator (Elevated)**](https://blog.verslu.is/maui/net-maui-windows-app-as-administrator-elevated/) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "c5SyxMc",
+              "title": "**Running a .NET MAUI Windows App as Administrator (Elevated)**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/maui/net-maui-windows-app-as-administrator-elevated/"
+            },
+            {
+              "identifier": "RCqDmwX",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "KLXl00H",
+          "type": "Link",
+          "title": "Exploring Layout Options in .NET MAUI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/exploring-layout-options-dotnet-maui",
+          "description": "<p>.NET MAUI has four layout classes to help you organize the user interface of your app. Let’s look at them!</p>\n\n<p><a href=\"https://www.telerik.com/blogs/exploring-layout-options-dotnet-maui\"><strong>Exploring Layout Options in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": ".NET MAUI has four layout classes to help you organize the user interface of your app. Let’s look at them!\r\n\r\n[**Exploring Layout Options in .NET MAUI**](https://www.telerik.com/blogs/exploring-layout-options-dotnet-maui) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "gIFln7E",
+              "title": "**Exploring Layout Options in .NET MAUI**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/exploring-layout-options-dotnet-maui"
+            },
+            {
+              "identifier": "8K1dEeV",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "LzqycSJ",
+          "type": "Link",
+          "title": ".Net MAUI : Mobile local Storage Preferences using .NET MAUI",
+          "url_domain": "msdevbuild.com",
+          "url": "https://www.msdevbuild.com/2022/06/net-maui-store-local-data-with.html",
+          "description": "<p>In .Net MAUI Preferences stores data in key-value pairs and can be easily managed via the Preferences class from Microsoft.Maui.Storage namespace. This article will help you get started with using the namespace.</p>\n\n<p><a href=\"https://www.msdevbuild.com/2022/06/net-maui-store-local-data-with.html\"><strong>.Net MAUI : Mobile local Storage Preferences using .NET MAUI</strong></a> by <a href=\"https://twitter.com/jssuthahar\">Suthahar Jegatheesan</a></p>",
+          "description_markdown": "In .Net MAUI Preferences stores data in key-value pairs and can be easily managed via the Preferences class from Microsoft.Maui.Storage namespace. This article will help you get started with using the namespace.\r\n\r\n[**.Net MAUI : Mobile local Storage Preferences using .NET MAUI**](https://www.msdevbuild.com/2022/06/net-maui-store-local-data-with.html) by [Suthahar Jegatheesan](https://twitter.com/jssuthahar)",
+          "embedded_links": [
+            {
+              "identifier": "nU0lvu7",
+              "title": "**.Net MAUI : Mobile local Storage Preferences using .NET MAUI**",
+              "url_domain": "msdevbuild.com",
+              "url": "https://www.msdevbuild.com/2022/06/net-maui-store-local-data-with.html"
+            },
+            {
+              "identifier": "7r1Wjdr",
+              "title": "Suthahar Jegatheesan",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jssuthahar"
+            }
+          ]
+        },
+        {
+          "identifier": "pBCeRM0",
+          "type": "Link",
+          "title": "Converting Xamarin.Android template to .NET 6",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/converting-xamarin-android-template-to-net-6/",
+          "description": "<p>Tips and tricks for how you can upgrade your Xamarin.Android application to a .NET 6 Android application.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/converting-xamarin-android-template-to-net-6/\"><strong>Converting Xamarin.Android template to .NET 6</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "Tips and tricks for how you can upgrade your Xamarin.Android application to a .NET 6 Android application.\r\n\r\n[**Converting Xamarin.Android template to .NET 6**](https://www.andreasnesheim.no/converting-xamarin-android-template-to-net-6/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "pUZIzcJ",
+              "title": "**Converting Xamarin.Android template to .NET 6**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/converting-xamarin-android-template-to-net-6/"
+            },
+            {
+              "identifier": "iS9255h",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "6Imbz5c",
+          "type": "Link",
+          "title": "Converting Xamarin.iOS template to .NET 6",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/converting-xamarin-ios-template-to-net-6/",
+          "description": "<p>Tips and tricks for how you can upgrade your Xamarin.iOS application to a .NET 6 iOS application.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/converting-xamarin-ios-template-to-net-6/\"><strong>Converting Xamarin.iOS template to .NET 6</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "Tips and tricks for how you can upgrade your Xamarin.iOS application to a .NET 6 iOS application.\r\n\r\n[**Converting Xamarin.iOS template to .NET 6**](https://www.andreasnesheim.no/converting-xamarin-ios-template-to-net-6/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "Q1M6wXv",
+              "title": "**Converting Xamarin.iOS template to .NET 6**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/converting-xamarin-ios-template-to-net-6/"
+            },
+            {
+              "identifier": "Eaku1Ub",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "pilMtnA",
+          "type": "Link",
+          "title": "Add Effects Like a Pro Using .NET MAUI Effects View",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/add-effects-like-a-pro-using-net-maui-effects-view.aspx",
+          "description": "<p>Adding effects to an application can enhance an app’s appearance and user experience. This blog shows you how to use the Effects View control from SyncFusion to do this.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/add-effects-like-a-pro-using-net-maui-effects-view.aspx\"><strong>Add Effects Like a Pro Using .NET MAUI Effects View</strong></a> by <a href=\"\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "Adding effects to an application can enhance an app’s appearance and user experience. This blog shows you how to use the Effects View control from SyncFusion to do this.\r\n\r\n[**Add Effects Like a Pro Using .NET MAUI Effects View**](https://www.syncfusion.com/blogs/post/add-effects-like-a-pro-using-net-maui-effects-view.aspx) by [Selva Ganapathy Kathiresan]()",
+          "embedded_links": [
+            {
+              "identifier": "dXhp9CV",
+              "title": "**Add Effects Like a Pro Using .NET MAUI Effects View**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/add-effects-like-a-pro-using-net-maui-effects-view.aspx"
+            }
+          ]
+        },
+        {
+          "identifier": "22OJboR",
+          "type": "Link",
+          "title": "Roundup of .NET MAUI Videos - Week of June 20, 2022",
+          "url_domain": "dev.to",
+          "url": "https://dev.to/davidortinau/roundup-of-net-maui-videos-week-of-june-20-2022-4okj",
+          "description": "<p>Another week, and round of new content for .NET MAUI learners!</p>\n\n<p><a href=\"https://dev.to/davidortinau/roundup-of-net-maui-videos-week-of-june-20-2022-4okj\"><strong>Roundup of .NET MAUI Videos - Week of June 20, 2022</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": "Another week, and round of new content for .NET MAUI learners!\r\n\r\n[**Roundup of .NET MAUI Videos - Week of June 20, 2022**](https://dev.to/davidortinau/roundup-of-net-maui-videos-week-of-june-20-2022-4okj) by [David Ortinau](https://twitter.com/davidortinau)",
+          "embedded_links": [
+            {
+              "identifier": "Nr1O23L",
+              "title": "**Roundup of .NET MAUI Videos - Week of June 20, 2022**",
+              "url_domain": "dev.to",
+              "url": "https://dev.to/davidortinau/roundup-of-net-maui-videos-week-of-june-20-2022-4okj"
+            },
+            {
+              "identifier": "9BmlbPR",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        },
+        {
+          "identifier": "hHEmjaH",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #63",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-63",
+          "description": "<p>The weekly MAUI happenings.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-63\"><strong>Sands of MAUI: Issue #63</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "The weekly MAUI happenings.\r\n\r\n[**Sands of MAUI: Issue #63**](https://www.telerik.com/blogs/sands-of-maui-issue-63) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "ShXVXdB",
+              "title": "**Sands of MAUI: Issue #63**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-63"
+            },
+            {
+              "identifier": "kkj8Nzt",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "I8l9G6I",
+          "type": "Link",
+          "title": ".NET MAUI is here! AMA + Explore cross-platform development",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=5cFZJGEmji0",
+          "description": "<p>James streamed a .NET MAUI session to answer questions about the platform.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=5cFZJGEmji0\"><strong>.NET MAUI is here! AMA + Explore cross-platform development</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James streamed a .NET MAUI session to answer questions about the platform.\r\n\r\n[**.NET MAUI is here! AMA + Explore cross-platform development**](https://www.youtube.com/watch?v=5cFZJGEmji0) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "zCB05jQ",
+              "title": "**.NET MAUI is here! AMA + Explore cross-platform development**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=5cFZJGEmji0"
+            },
+            {
+              "identifier": "BipKpfF",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "RblLPKD",
+          "type": "Link",
+          "title": "Using Dynamic Resources - .NET MAUI 101",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=yMhoht9VaTM",
+          "description": "<p>Dynamic resources allow you to update the values at runtime. That in it's turn, allows you to change the complete look of your .NET MAUI app while running 🤯 In this video I walk you through what it is, and how to do it!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=yMhoht9VaTM\"><strong>Using Dynamic Resources - .NET MAUI 101</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Dynamic resources allow you to update the values at runtime. That in it's turn, allows you to change the complete look of your .NET MAUI app while running 🤯 In this video I walk you through what it is, and how to do it!\r\n\r\n[**Using Dynamic Resources - .NET MAUI 101**](https://www.youtube.com/watch?v=yMhoht9VaTM) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "93MnLh5",
+              "title": "**Using Dynamic Resources - .NET MAUI 101**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=yMhoht9VaTM"
+            },
+            {
+              "identifier": "V7Me2Ra",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "DZDCAx5",
+          "type": "Link",
+          "title": "Control Reference Bindings (view-to-view) - .NET MAUI 101",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=PH9_bPu-ImQ",
+          "description": "<p>With .NET MAUI you can directly bind to another control in XAML. For example if you want to create view-to-view dependencies. Use the x:Reference attribute on a Binding, to reach the control you want and bind to the right property. Sounds hard? Check out the video on how to do it!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=PH9_bPu-ImQ\"><strong>Control Reference Bindings (view-to-view) - .NET MAUI 101</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "With .NET MAUI you can directly bind to another control in XAML. For example if you want to create view-to-view dependencies. Use the x:Reference attribute on a Binding, to reach the control you want and bind to the right property. Sounds hard? Check out the video on how to do it!\r\n\r\n[**Control Reference Bindings (view-to-view) - .NET MAUI 101**](https://www.youtube.com/watch?v=PH9_bPu-ImQ) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "XuahBuK",
+              "title": "**Control Reference Bindings (view-to-view) - .NET MAUI 101**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=PH9_bPu-ImQ"
+            },
+            {
+              "identifier": "z0u2Hlk",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "VnwBuUc",
+          "type": "Link",
+          "title": "Build Your .NET MAUI Android App with GitHub Actions",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=GQuQPm40kys",
+          "description": "<p>GitHub has the ability to do all kinds of automation. One of which is to set up automated builds of your .NET MAUI app! In this video we will learn about how to setup builds for you .NET MAUI Android app with GitHub Actions!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=GQuQPm40kys\"><strong>Build Your .NET MAUI Android App with GitHub Actions</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "GitHub has the ability to do all kinds of automation. One of which is to set up automated builds of your .NET MAUI app! In this video we will learn about how to setup builds for you .NET MAUI Android app with GitHub Actions!\r\n\r\n[**Build Your .NET MAUI Android App with GitHub Actions**](https://www.youtube.com/watch?v=GQuQPm40kys) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "Mj7e8iz",
+              "title": "**Build Your .NET MAUI Android App with GitHub Actions**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=GQuQPm40kys"
+            },
+            {
+              "identifier": "NSboxOT",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "PWcxtMC",
+          "type": "Link",
+          "title": "Build Your .NET MAUI Windows App with GitHub Actions",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=8lvdLa0v8zY",
+          "description": "<p>GitHub has the ability to do all kinds of automation. One of which is to set up automated builds of your .NET MAUI app! In this video we will learn about how to setup builds for you .NET MAUI Windows app with GitHub Actions!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=8lvdLa0v8zY\"><strong>Build Your .NET MAUI Windows App with GitHub Actions</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "GitHub has the ability to do all kinds of automation. One of which is to set up automated builds of your .NET MAUI app! In this video we will learn about how to setup builds for you .NET MAUI Windows app with GitHub Actions!\r\n\r\n[**Build Your .NET MAUI Windows App with GitHub Actions**](https://www.youtube.com/watch?v=8lvdLa0v8zY) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "Be99LyX",
+              "title": "**Build Your .NET MAUI Windows App with GitHub Actions**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=8lvdLa0v8zY"
+            },
+            {
+              "identifier": "KU8bXeN",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "EEAlDne",
+          "type": "Link",
+          "title": ".NET MAUI and Data Bindings",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=AgrYTEKxxoo",
+          "description": "<p>In this video, Daniel will talk about .NET MAUI, MVVM, and Data Bindings.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=AgrYTEKxxoo\"><strong>.NET MAUI and Data Bindings</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "In this video, Daniel will talk about .NET MAUI, MVVM, and Data Bindings.\r\n\r\n[**.NET MAUI and Data Bindings**](https://www.youtube.com/watch?v=AgrYTEKxxoo) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "8jrGKO3",
+              "title": "**.NET MAUI and Data Bindings**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=AgrYTEKxxoo"
+            },
+            {
+              "identifier": "eojNSiO",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        },
+        {
+          "identifier": "30T9Y08",
+          "type": "Link",
+          "title": "TinyMvvm for .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=XnBmvOu3MO4",
+          "description": "<p>TinyMvvm is a MvvmLibrary created by Daniel Hindrikes. Daniel has now updated it so it can be used with .NET MAUI.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=XnBmvOu3MO4\"><strong>TinyMvvm for .NET MAUI</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "TinyMvvm is a MvvmLibrary created by Daniel Hindrikes. Daniel has now updated it so it can be used with .NET MAUI.\r\n\r\n[**TinyMvvm for .NET MAUI**](https://www.youtube.com/watch?v=XnBmvOu3MO4) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "qTX7zIf",
+              "title": "**TinyMvvm for .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=XnBmvOu3MO4"
+            },
+            {
+              "identifier": "nD7vgDC",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        },
+        {
+          "identifier": "qnDUhR7",
+          "type": "Link",
+          "title": "What is the MVVM pattern, What benefits does MVVM have?",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=AXpTeiWtbC8",
+          "description": "<p>Do you really need to learn MVVM to start developing apps with XAML frameworks like .NET MAUI, Uno, Avalonia, WPF, or WinUI 3? James breaks down what you know about MVVM, what it is, what it looks like to code without it, why you should learn and use it, and finally, how to take advantage of MVVM in your app!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=AXpTeiWtbC8\"><strong>What is the MVVM pattern, What benefits does MVVM have?</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Do you really need to learn MVVM to start developing apps with XAML frameworks like .NET MAUI, Uno, Avalonia, WPF, or WinUI 3? James breaks down what you know about MVVM, what it is, what it looks like to code without it, why you should learn and use it, and finally, how to take advantage of MVVM in your app!\r\n\r\n[**What is the MVVM pattern, What benefits does MVVM have?**](https://www.youtube.com/watch?v=AXpTeiWtbC8) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "P7m3Y3u",
+              "title": "**What is the MVVM pattern, What benefits does MVVM have?**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=AXpTeiWtbC8"
+            },
+            {
+              "identifier": "rChF9M1",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "tb5hpHm",
+          "type": "Link",
+          "title": "Merge Conflict: 312: dotnet workload",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/312",
+          "description": "<p>This week try to demystify the new workload system in .NET! .NET MAUI, Blazor WASM, Source Control, Continuous Integration, and more!</p>\n\n<p><a href=\"https://www.mergeconflict.fm/312\"><strong>Merge Conflict: 312: dotnet workload</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "This week try to demystify the new workload system in .NET! .NET MAUI, Blazor WASM, Source Control, Continuous Integration, and more!\r\n\r\n[**Merge Conflict: 312: dotnet workload**](https://www.mergeconflict.fm/312) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "e5jAhn8",
+              "title": "**Merge Conflict: 312: dotnet workload**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/312"
+            },
+            {
+              "identifier": "Xw4NiZK",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "355",
+      "Name": "Issue 355",
+      "UpdatedTimeStamp": "2022-07-01T05:40:23Z",
+      "Summary": "So much content - oops, did I say weekly xamarin?",
+      "PublishDate": "2022-07-01T05:40:20Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "354",
       "Name": "Issue 354",
       "UpdatedTimeStamp": "2022-06-20T04:13:57Z",

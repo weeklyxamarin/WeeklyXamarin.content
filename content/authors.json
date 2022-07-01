@@ -545,6 +545,12 @@
       ]
     },
     {
+      "Name": "Charles Flatt",
+      "GitHubHandle": "bladewolf55",
+      "Id": "a8f576f0-0821-4137-aed8-e9b17625cb5d",
+      "Aliases": []
+    },
+    {
       "Name": "Charlin Agramonte",
       "TwitterHandle": "chard003",
       "GitHubHandle": "char0394",
@@ -1551,6 +1557,12 @@
       "Website": "https://iwritecodesometimes.net"
     },
     {
+      "Name": "Joey Banks",
+      "TwitterHandle": "joeyabanks",
+      "Id": "2d268275-5c56-4a64-891a-45657871d4d0",
+      "Aliases": []
+    },
+    {
       "Name": "John Taubensee",
       "TwitterHandle": "jtaubensee",
       "GitHubHandle": "jtaubensee",
@@ -2011,6 +2023,12 @@
       "GitHubHandle": "Martynnw",
       "Id": "cd7c4ad9-7518-4029-90a5-82cdb5a8904b",
       "Website": "https://martynnw.wordpress.com"
+    },
+    {
+      "Name": "Mary Akveo",
+      "TwitterHandle": "akveo_inc",
+      "Id": "77a0bd28-e057-4eb6-85e5-65be0a0a7f98",
+      "Aliases": []
     },
     {
       "Name": "Masha Altukhova",
