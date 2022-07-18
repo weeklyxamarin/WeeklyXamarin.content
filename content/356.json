@@ -1,0 +1,280 @@
+{
+  "Id": "356",
+  "Name": "Issue 356",
+  "UpdatedTimeStamp": "2022-07-18T01:47:31Z",
+  "Summary": "MAUI UI July is in full swing!",
+  "Introduction": "G'day everyone, welcome to issue #356 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities. In this issue there are some great blogs from the MAUI UI July series. People are also creating great guidance in regard to CI/CD for all the various MUAI Platforms. Also don't forget to keep an eye out for the [.NET Conf \"Focus on MAUI\"](https://focus.dotnetconf.net/) event which is heading up in a couple of weeks. Hope you have a code-worthy week, Kym",
+  "PublishDate": "2022-07-18T01:47:28Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "CollectionView performance: it's your own damn fault.",
+      "Url": "https://www.sharpnado.com/xamarin-forms-maui-collectionview-performance-the-10-golden-rule/",
+      "Description": "4 Rules to live by with CollectionView",
+      "EditionId": "356",
+      "Author": "Jean-Marie Alfonsi",
+      "Id": "356-1",
+      "Category": "PERFORMANCE"
+    },
+    {
+      "Title": "Setting up CI for your .NET MAUI Windows app",
+      "Url": "https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-windows-app-in-azure-devops/",
+      "Description": "Andreas continues looking at CI solutions for all the MAUI platforms. This time he looks at setting up continuous integration (CI) for your .NET MAUI Windows app in Azure DevOps",
+      "EditionId": "356",
+      "Author": "Andreas Nesheim",
+      "Id": "356-2",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": ".NET MAUI in Space - Part 1",
+      "Url": "https://blogs.xgenoapps.com/post/2022/07/08/maui-planets",
+      "Description": "The first part of a fantastic UI Challenge by Naweed Akram where he looks at creating an onboarding page with animations",
+      "EditionId": "356",
+      "Author": "Naweed Akram",
+      "Id": "356-3",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI in Space - Part 2",
+      "Url": "https://blogs.xgenoapps.com/post/2022/07/15/maui-planets-part-2",
+      "Description": "The second part of the fantastic Space app reconstruction by Naweed Akram.",
+      "EditionId": "356",
+      "Author": "Naweed Akram",
+      "Id": "356-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Binding Lottie (or any other Swift framework with UI) in MAUI",
+      "Url": "https://dev.to/csaba8472/binding-lottie-or-any-other-swift-framework-with-ui-in-maui-543m",
+      "Description": "This post covers creating bindings to Swift Frameworks in MAUI.",
+      "EditionId": "356",
+      "Author": "Csaba Huszár",
+      "Id": "356-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Creating a TreeView control in .NET MAUI",
+      "Url": "https://dev.to/icebeam7/creating-a-treeview-control-in-net-maui-49mp",
+      "Description": "This post covers creating a hierarchical and expandable tree view in .NET MAUI.",
+      "EditionId": "356",
+      "Author": "Luis Beltran",
+      "Id": "356-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Catering to Desktop & Mobile with .NET MAUI",
+      "Url": "https://www.telerik.com/blogs/catering-desktop-mobile-dotnet-maui",
+      "Description": ".NET MAUI enables developers to target both desktop & mobile from a single codebase, but with varying user experiences. But how do you customize the layout based on the platform?",
+      "EditionId": "356",
+      "Author": "Sam Basu",
+      "Id": "356-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Combining Lottie Animations with Gestures and Scrolling",
+      "Url": "https://www.cayas.de/blog/lottie-animations-gestures-and-scrolling",
+      "Description": "Learn how to add Lottie animations to your .NET MAUI App and combine them with gestures and scrollable containers.",
+      "EditionId": "356",
+      "Author": "Flavio Goncalves",
+      "Id": "356-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Discord UI in .NET MAUI",
+      "Url": "https://kapa.dev/blog/discord-ui-in-net-maui",
+      "Description": "Let's take a look at making a mockup of Discord's UI in .NET MAUI",
+      "EditionId": "356",
+      "Author": "Tylah Kapa",
+      "Id": "356-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Progressing From a Default Project Part 5 - Restyling From Scratch",
+      "Url": "https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_5_-_restyling_from_scratch/",
+      "Description": "Charles continues taking the default app template through its paces, this time looking at styles. Make sure to check out all the others blog posts in this series as well.",
+      "EditionId": "356",
+      "Author": "Charles Flatt",
+      "Id": "356-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Replicating Pet Adoption UI in .NET MAUI",
+      "Url": "https://askxammy.com/replicating-pet-adoption-ui-in-net-maui/",
+      "Description": "Leomaris replicates a Pet Adoption UI obtained from Dribble for .NET MAUI UI July.",
+      "EditionId": "356",
+      "Author": "Leomaris Reyes",
+      "Id": "356-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Customizing Controls in .NET MAUI",
+      "Url": "https://devblogs.microsoft.com/dotnet/customizing-dotnet-maui-controls/",
+      "Description": "This post discusses the possibilities for customizing a control in .NET MAUI and some dragons that you may found in the way.",
+      "EditionId": "356",
+      "Author": "Pedro Jesus",
+      "Id": "356-12",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "MAUI UI July - Replicating F1TV app",
+      "Url": "https://www.andreasnesheim.no/maui-ui-july-replicating-f1tv-app/",
+      "Description": "For .NET MAUI UI July, Andreas Nesheim decided to replicate the F1TV App",
+      "EditionId": "356",
+      "Author": "Andreas Nesheim",
+      "Id": "356-13",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Make the IServiceProvider of your MAUI application accessible with the MVVM CommunityToolkit",
+      "Url": "https://msicc.net/make-the-iserviceprovider-of-your-maui-application-accessible-with-the-mvvm-communitytoolkit/",
+      "Description": "This post shows you how you can make the default IServiceProvider of your MAUI application accessible via the MVVM CommunityToolkit's Ioc.Default implementation.",
+      "EditionId": "356",
+      "Author": "Marco Siccardi",
+      "Id": "356-14",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "How to use Secure storage with .Net MAUI",
+      "Url": "https://www.msdevbuild.com/2022/07/How-to-use-Net-MAUI-Secure-storage-in-your-Mobile-application-iOS-Android-Windows.html",
+      "Description": "Secure storage allows you to store data encrypted with a unique device key to encrypt and decrypt the data stored.",
+      "EditionId": "356",
+      "Author": "Suthahar Jegatheesan",
+      "Id": "356-15",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Refit with .NET MAUI",
+      "Url": "https://checox.com/refit-with-net-maui-prism/",
+      "Description": "This article shows how to consume API endpoints in .NET MAUI using Refit and Prism.",
+      "EditionId": "356",
+      "Author": "Steven Checo",
+      "Id": "356-16",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "MAUI Beach - Updating to .NET MAUI GA",
+      "Url": "https://blog.taranissoftware.com/maui-beach-updating-to-net-maui-ga",
+      "Description": "Dave updates his .NET MAUI playground app from Preview 11 to the GA version. A lot has changed, he explains his process and issues he ran into.",
+      "EditionId": "356",
+      "Author": "Dave Murray",
+      "Id": "356-17",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "The new SyncFusion .NET MAUI Maps Control",
+      "Url": "https://www.syncfusion.com/blogs/post/introducing-the-new-net-maui-maps-control.aspx",
+      "Description": "The .NET MAUI Maps control is a powerful data visualization component that displays statistical information for a geographical area.",
+      "EditionId": "356",
+      "Id": "356-18",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #64",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-64",
+      "Description": "Sam covers the weekly news in MAUI.",
+      "EditionId": "356",
+      "Author": "Sam Basu",
+      "Id": "356-19",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Add Authentication to .NET MAUI Apps with Auth0",
+      "Url": "https://auth0.com/blog/add-authentication-to-dotnet-maui-apps-with-auth0/",
+      "Description": "Learn how to authenticate users of your .NET MAUI application using OpenID Connect and Auth0.",
+      "EditionId": "356",
+      "Author": "Andrea Chiarelli",
+      "Id": "356-20",
+      "Category": "SECURITY"
+    },
+    {
+      "Title": "Ways to create controls in .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=8d7xLErPm9o",
+      "Description": "This session at .NET MAUI Developer Day in GCR 2022 covers alternate ways to create controls in MAUI as well as the advantages and disadvantages of each.",
+      "EditionId": "356",
+      "Author": "Javier Suárez",
+      "Id": "356-21",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI CollectionView Grouping: Show Groups of Data",
+      "Url": "https://www.youtube.com/watch?v=SK8u3MmXnjE",
+      "Description": "Showing groups of data can easily be done with the CollectionView in .NET MAUI. But it helps if someone shows you how to do it the first time. That's exactly what we'll do in this video! I will walk you through setting up a CollectionView with ItemTemplate, a template for the header and setting up grouping.",
+      "EditionId": "356",
+      "Author": "Gerald Versluis",
+      "Id": "356-22",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Getting Started with .NET MAUI and SignalR: Real-Time Chat App",
+      "Url": "https://www.youtube.com/watch?v=pDr0Hx67guk",
+      "Description": "SignalR is a great way to enable real-time connections between server and clients. Also for .NET MAUI! In this video we will learn how to get started with .NET MAUI and SignalR by creating a very simple chat app.",
+      "EditionId": "356",
+      "Author": "Gerald Versluis",
+      "Id": "356-23",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "MVVMS... A Better MVVM? Model-View-ViewModel-Services Explained",
+      "Url": "https://www.youtube.com/watch?v=ve0DFu-arD8",
+      "Description": "If you are a C# and XAML developer you probably know about MVVM, but have you ever heard of MVVMS? It is the architecture pattern I have used in every application I have ever built since my first job at Canon years upon years ago! It is a simple but effective way of structing your code and going beyond MVVM to decouple logic into small services. This makes code more re-usable and testable. I break it all down!",
+      "EditionId": "356",
+      "Author": "James Montemagno",
+      "Id": "356-24",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Singleton vs Transient - What's the Difference in .NET Dependency Injection?",
+      "Url": "https://www.youtube.com/watch?v=oC5zpEbwViE",
+      "Description": "Singleton... Transient... When should you use what when building client apps and web apps with .NET? Registering your dependencies correctly has import implications when it comes to lifecycle events and how you users will interact with your application. I break down what you need to know.",
+      "EditionId": "356",
+      "Author": "James Montemagno",
+      "Id": "356-25",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Image Button C#",
+      "Url": "https://www.youtube.com/watch?v=_LcMbKZ56lY",
+      "Description": "Get started with using the Image Button using C# and Community Toolkit.",
+      "EditionId": "356",
+      "Author": "Xamarin Guy",
+      "Id": "356-26",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Error Monitoring for .NET MAUI with Sentry",
+      "Url": "https://www.youtube.com/watch?v=8YmEC4iKD2I",
+      "Description": "James is joined by Matt Johnson-Pint from Sentry to show off their brand new error monitoring solution for .NET MAUI! Sentry for  .NET MAUI give developers actionable insights to solve errors in their app. With just a few lines of code you are ready to go and Matt walks us through the entire setup and takes a look at the output to help diagnose issues.",
+      "EditionId": "356",
+      "Author": "dotNet Youtube Channel",
+      "Id": "356-27",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Toolkit Monthly Standup (July 2022)",
+      "Url": "https://www.youtube.com/watch?v=ly3uhliVywU",
+      "Description": "July updates and current happenings in the .NET MAUI Community Toolkit!",
+      "EditionId": "356",
+      "Author": ".NET Foundation",
+      "Id": "356-28",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Standup - Check your Window's app's accessibility",
+      "Url": "https://www.youtube.com/watch?v=C4PHRWzCyFE",
+      "Description": "Join Maddy Montaquila, David Ortinau, and special guest summer intern Antonella Avogadro to see her summer project - an accessibility checker built into hot reload!",
+      "EditionId": "356",
+      "Author": "Xamarin Developers",
+      "Id": "356-29",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 313: Stop Using Junk In Your Apps",
+      "Url": "https://www.mergeconflict.fm/313",
+      "Description": "It is a random topic week because we don't know what to talk about in-depth, so we chat up iOS 16 Beta, C# partial methods, scoped keyword, and running python inside of C# on an iPhone with IronPython!",
+      "EditionId": "356",
+      "Author": "Merge Conflict",
+      "Id": "356-30",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

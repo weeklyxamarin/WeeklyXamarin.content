@@ -695,6 +695,12 @@
       ]
     },
     {
+      "Name": "Csaba Huszár",
+      "TwitterHandle": "h_csaba",
+      "Id": "51350b6a-4515-4a8a-b184-193527a26989",
+      "Aliases": []
+    },
+    {
       "Name": "Damian Antonowicz",
       "TwitterHandle": "d_antonowicz",
       "Id": "b286e2b0-89a5-4f75-a589-cf8d1fdb312d",
@@ -1097,6 +1103,12 @@
       "Name": "Figma",
       "TwitterHandle": "figma",
       "Id": "0feb7d3c-7aad-4490-ad96-a43ae4d6af8e",
+      "Aliases": []
+    },
+    {
+      "Name": "Flavio Goncalves",
+      "TwitterHandle": "f_goncalves_",
+      "Id": "a74ff53a-cd9a-4394-b35f-d32b3d3ce899",
       "Aliases": []
     },
     {
@@ -2513,6 +2525,12 @@
       ]
     },
     {
+      "Name": "Pedro Jesus",
+      "TwitterHandle": "pj_souz",
+      "Id": "c52685a7-4f53-492e-8478-1b1e99a4e2c3",
+      "Aliases": []
+    },
+    {
       "Name": "Petar Marchev",
       "Id": "dc45149e-afef-4353-be51-ef32f87bac04",
       "Aliases": [
@@ -2987,6 +3005,12 @@
       "Aliases": []
     },
     {
+      "Name": "Steven Checo",
+      "TwitterHandle": "steven1909",
+      "Id": "e2d6a567-dccf-4582-bfde-04c4a311e200",
+      "Aliases": []
+    },
+    {
       "Name": "Steven Thewissen",
       "TwitterHandle": "devnl",
       "GitHubHandle": "sthewissen",
@@ -3254,6 +3278,12 @@
         }
       ],
       "Website": "https://www.trailheadtechnology.com/"
+    },
+    {
+      "Name": "Tylah Kapa",
+      "TwitterHandle": "JadeKapa",
+      "Id": "69a851ef-f88a-41b8-981a-de26a0b1c501",
+      "Aliases": []
     },
     {
       "Name": "Udara Alwis",
