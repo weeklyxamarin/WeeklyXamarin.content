@@ -1,0 +1,839 @@
+{
+  "number": 357,
+  "title": "Issue 357",
+  "summary": "MAUI UI July, what  a month! .NET Conf Focus on MAUI incomming!",
+  "url": "https://weeklyxamarin.com/issues/357",
+  "publication_status": "published",
+  "published_at": "2022-08-01T10:48:07+01:00",
+  "updated_at": "2022-08-01T10:48:10+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #357 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities.</p>\n\n<p>Over 30 crackingly good links in this weeks issue, which is what happens when I skip a week.  So many great articles coming from MAUI UI July and a special call out to .NET Conf Focus on MAUI coming up soon as well!</p>\n\n<p>Enjoy the links and until next time, have a wonderful week!</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #357 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities.\r\n\r\nOver 30 crackingly good links in this weeks issue, which is what happens when I skip a week.  So many great articles coming from MAUI UI July and a special call out to .NET Conf Focus on MAUI coming up soon as well!\r\n\r\nEnjoy the links and until next time, have a wonderful week!\r\n\r\nKym ",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "sAWCPoC",
+          "type": "Link",
+          "title": "Announcing .NET Conf - Focus on .NET MAUI, Reactor, and Community Events",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-focus-reactor-community-events/",
+          "description": "<p>Ready to get building with .NET MAUI? Join us for .NET Conf - Focus on MAUI, worldwide Reactor events, and local community event opportunities.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-focus-reactor-community-events/\"><strong>Announcing .NET Conf - Focus on .NET MAUI, Reactor, and Community Events</strong></a> by <a href=\"https://twitter.com/jongalloway\">Jon Galloway</a></p>",
+          "description_markdown": "Ready to get building with .NET MAUI? Join us for .NET Conf - Focus on MAUI, worldwide Reactor events, and local community event opportunities.\r\n\r\n[**Announcing .NET Conf - Focus on .NET MAUI, Reactor, and Community Events**](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-focus-reactor-community-events/) by [Jon Galloway](https://twitter.com/jongalloway)",
+          "embedded_links": [
+            {
+              "identifier": "kDxePN5",
+              "title": "**Announcing .NET Conf - Focus on .NET MAUI, Reactor, and Community Events**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-focus-reactor-community-events/"
+            },
+            {
+              "identifier": "cmQmZPA",
+              "title": "Jon Galloway",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jongalloway"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "mShVZHT",
+          "type": "Link",
+          "title": "Free Figma Component Library",
+          "url_domain": "figmacomponents.com",
+          "url": "https://figmacomponents.com/",
+          "description": "<p>We've curated the best Figma components in one place. Discover, copy and paste UI components in Figma with the most efficient way to build designs. Get all the essentials for any design project in one place. From buttons to data visualizations, you'll find the perfect component here with a few clicks.</p>\n\n<p><a href=\"https://figmacomponents.com/\"><strong>Free Figma Component Library</strong></a> by <a href=\"https://twitter.com/dannypostmaa\">Danny Postma</a></p>",
+          "description_markdown": "We've curated the best Figma components in one place. Discover, copy and paste UI components in Figma with the most efficient way to build designs. Get all the essentials for any design project in one place. From buttons to data visualizations, you'll find the perfect component here with a few clicks.\r\n\r\n[**Free Figma Component Library**](https://figmacomponents.com/) by [Danny Postma](https://twitter.com/dannypostmaa)",
+          "embedded_links": [
+            {
+              "identifier": "yCG14mz",
+              "title": "**Free Figma Component Library**",
+              "url_domain": "figmacomponents.com",
+              "url": "https://figmacomponents.com/"
+            },
+            {
+              "identifier": "52eNSX6",
+              "title": "Danny Postma",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/dannypostmaa"
+            }
+          ]
+        },
+        {
+          "identifier": "Oh20zpc",
+          "type": "Link",
+          "title": "Humbleicons – free icons for your better UI",
+          "url_domain": "humbleicons.com",
+          "url": "https://humbleicons.com/",
+          "description": "<p>A pack of beautiful, neutral, carefully crafted icons that you can use in your personal and commercial projects for free.</p>\n\n<p><a href=\"https://humbleicons.com/\"><strong>Humbleicons – free icons for your better UI</strong></a> by <a href=\"https://github.com/zraly/humbleicons\">HumbleIcons</a></p>",
+          "description_markdown": "A pack of beautiful, neutral, carefully crafted icons that you can use in your personal and commercial projects for free.\r\n\r\n[**Humbleicons – free icons for your better UI**](https://humbleicons.com/) by [HumbleIcons](https://github.com/zraly/humbleicons)",
+          "embedded_links": [
+            {
+              "identifier": "n4SjWWw",
+              "title": "**Humbleicons – free icons for your better UI**",
+              "url_domain": "humbleicons.com",
+              "url": "https://humbleicons.com/"
+            },
+            {
+              "identifier": "X7g7FWq",
+              "title": "HumbleIcons",
+              "url_domain": "github.com",
+              "url": "https://github.com/zraly/humbleicons"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "MbdMbJn",
+          "type": "Link",
+          "title": "Setting up CI for your .NET MAUI Windows app with GitHub Actions",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-windows-app-with-github-actions/",
+          "description": "<p>This post will focus on how you can set up CI for your .NET MAUI Windows app with GitHub Actions.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-windows-app-with-github-actions/\"><strong>Setting up CI for your .NET MAUI Windows app with GitHub Actions</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "This post will focus on how you can set up CI for your .NET MAUI Windows app with GitHub Actions.\r\n\r\n[**Setting up CI for your .NET MAUI Windows app with GitHub Actions**](https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-windows-app-with-github-actions/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "MvpPdLP",
+              "title": "**Setting up CI for your .NET MAUI Windows app with GitHub Actions**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/setting-up-ci-for-your-net-maui-windows-app-with-github-actions/"
+            },
+            {
+              "identifier": "x7oR8rC",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "PYZ9aVl",
+          "type": "Link",
+          "title": "Build .NET MAUI apps with GitHub Actions",
+          "url_domain": "taranissoftware.com",
+          "url": "https://blog.taranissoftware.com/build-net-maui-apps-with-github-actions",
+          "description": "<p>In this post, Dave Murray builds a cross platform .NET MAUI app for Android, iOS, MacCatalyst and Windows using GitHub Actions, explaining each step.</p>\n\n<p><a href=\"https://blog.taranissoftware.com/build-net-maui-apps-with-github-actions\"><strong>Build .NET MAUI apps with GitHub Actions</strong></a> by <a href=\"https://github.com/irongut\">Dave Murray</a></p>",
+          "description_markdown": "In this post, Dave Murray builds a cross platform .NET MAUI app for Android, iOS, MacCatalyst and Windows using GitHub Actions, explaining each step.\r\n\r\n[**Build .NET MAUI apps with GitHub Actions**](https://blog.taranissoftware.com/build-net-maui-apps-with-github-actions) by [Dave Murray](https://github.com/irongut)",
+          "embedded_links": [
+            {
+              "identifier": "IXwyXwf",
+              "title": "**Build .NET MAUI apps with GitHub Actions**",
+              "url_domain": "taranissoftware.com",
+              "url": "https://blog.taranissoftware.com/build-net-maui-apps-with-github-actions"
+            },
+            {
+              "identifier": "re16xVd",
+              "title": "Dave Murray",
+              "url_domain": "github.com",
+              "url": "https://github.com/irongut"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "xhwqTBK",
+          "type": "Link",
+          "title": "Background Work in Xamarin.Forms. Part #2 — Xamarin.iOS",
+          "url_domain": "medium.com",
+          "url": "https://benetskyybogdan.medium.com/background-work-in-xamarin-forms-part-2-xamarin-ios-ff22037a7b60",
+          "description": "<p>Bohdan looks at Backgrounding in for iOS Devices. He looks at location updates and region monitoring because it’s the most common case.</p>\n\n<p><a href=\"https://benetskyybogdan.medium.com/background-work-in-xamarin-forms-part-2-xamarin-ios-ff22037a7b60\"><strong>Background Work in Xamarin.Forms. Part #2 — Xamarin.iOS</strong></a> by <a href=\"https://twitter.com/bbenetskyy\">Bohdan Benetskyi</a></p>",
+          "description_markdown": "Bohdan looks at Backgrounding in for iOS Devices. He looks at location updates and region monitoring because it’s the most common case.\r\n\r\n[**Background Work in Xamarin.Forms. Part #2 — Xamarin.iOS**](https://benetskyybogdan.medium.com/background-work-in-xamarin-forms-part-2-xamarin-ios-ff22037a7b60) by [Bohdan Benetskyi](https://twitter.com/bbenetskyy)",
+          "embedded_links": [
+            {
+              "identifier": "v70wkPo",
+              "title": "**Background Work in Xamarin.Forms. Part #2 — Xamarin.iOS**",
+              "url_domain": "medium.com",
+              "url": "https://benetskyybogdan.medium.com/background-work-in-xamarin-forms-part-2-xamarin-ios-ff22037a7b60"
+            },
+            {
+              "identifier": "mbykURU",
+              "title": "Bohdan Benetskyi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bbenetskyy"
+            }
+          ]
+        },
+        {
+          "identifier": "ZpfKYcX",
+          "type": "Link",
+          "title": "View PDF Annotations as a List and Navigate Using Xamarin.Forms PDF Viewer",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/view-pdf-annotations-as-a-list-and-navigate-using-xamarin-forms-pdf-viewer.aspx",
+          "description": "<p>This article covers viewing annotations in a list view and navigating to them based on selection using the Syncfusion Xamarin PDF Viewer control.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/view-pdf-annotations-as-a-list-and-navigate-using-xamarin-forms-pdf-viewer.aspx\"><strong>View PDF Annotations as a List and Navigate Using Xamarin.Forms PDF Viewer</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/ramkumarrsyncfusion-com\">Ramkumar Ravy</a></p>",
+          "description_markdown": "This article covers viewing annotations in a list view and navigating to them based on selection using the Syncfusion Xamarin PDF Viewer control.\r\n\r\n[**View PDF Annotations as a List and Navigate Using Xamarin.Forms PDF Viewer**](https://www.syncfusion.com/blogs/post/view-pdf-annotations-as-a-list-and-navigate-using-xamarin-forms-pdf-viewer.aspx) by [Ramkumar Ravy](https://www.syncfusion.com/blogs/author/ramkumarrsyncfusion-com)",
+          "embedded_links": [
+            {
+              "identifier": "xLWnWyw",
+              "title": "**View PDF Annotations as a List and Navigate Using Xamarin.Forms PDF Viewer**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/view-pdf-annotations-as-a-list-and-navigate-using-xamarin-forms-pdf-viewer.aspx"
+            },
+            {
+              "identifier": "4dmbVLW",
+              "title": "Ramkumar Ravy",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/ramkumarrsyncfusion-com"
+            }
+          ]
+        },
+        {
+          "identifier": "Tg3lzkq",
+          "type": "Link",
+          "title": "Debug Google Play Billing in Xamarin Android Apps",
+          "url_domain": "doumer.me",
+          "url": "https://doumer.me/debug-google-play-billing-in-xamarin-android-apps/",
+          "description": "<p>Quick tip about Debug Google Play Billing in Xamarin Android Apps. Short and straight to the point, this article will give you your solution.</p>\n\n<p><a href=\"https://doumer.me/debug-google-play-billing-in-xamarin-android-apps/\"><strong>Quick Tips: Debug Google Play Billing in Xamarin Android Apps - Cool Coders</strong></a> by <a href=\"https://twitter.com/damien_doumer\">Damien Doumer</a></p>",
+          "description_markdown": "Quick tip about Debug Google Play Billing in Xamarin Android Apps. Short and straight to the point, this article will give you your solution.\r\n\r\n[**Quick Tips: Debug Google Play Billing in Xamarin Android Apps - Cool Coders**](https://doumer.me/debug-google-play-billing-in-xamarin-android-apps/) by [Damien Doumer](https://twitter.com/damien_doumer)",
+          "embedded_links": [
+            {
+              "identifier": "tDWhVtF",
+              "title": "**Quick Tips: Debug Google Play Billing in Xamarin Android Apps - Cool Coders**",
+              "url_domain": "doumer.me",
+              "url": "https://doumer.me/debug-google-play-billing-in-xamarin-android-apps/"
+            },
+            {
+              "identifier": "u29jiXJ",
+              "title": "Damien Doumer",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/damien_doumer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "ZgWPAox",
+          "type": "Link",
+          "title": "MetroLog.Maui: logging taylor-made for Maui",
+          "url_domain": "sharpnado.com",
+          "url": "https://www.sharpnado.com/metrolog-maui/",
+          "description": "<p>The amazing performance-driven MetroLog logging library was finally ported to .net 6 and MAUI!</p>\n\n<p><a href=\"https://www.sharpnado.com/metrolog-maui/\"><strong>MetroLog.Maui: logging taylor-made for Maui</strong></a> by <a href=\"https://twitter.com/Piskariov\">Jean-Marie Alfonsi</a></p>",
+          "description_markdown": "The amazing performance-driven MetroLog logging library was finally ported to .net 6 and MAUI!\r\n\r\n[**MetroLog.Maui: logging taylor-made for Maui**](https://www.sharpnado.com/metrolog-maui/) by [Jean-Marie Alfonsi](https://twitter.com/Piskariov)",
+          "embedded_links": [
+            {
+              "identifier": "zGet2Nk",
+              "title": "**MetroLog.Maui: logging taylor-made for Maui**",
+              "url_domain": "sharpnado.com",
+              "url": "https://www.sharpnado.com/metrolog-maui/"
+            },
+            {
+              "identifier": "d8j2swG",
+              "title": "Jean-Marie Alfonsi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Piskariov"
+            }
+          ]
+        },
+        {
+          "identifier": "fpSQQ2r",
+          "type": "Link",
+          "title": "Playing video with .NET MAUI",
+          "url_domain": "davidbritch.com",
+          "url": "https://www.davidbritch.com/2022/07/playing-video-with-net-maui_28.html",
+          "description": "<p>Many apps, whether mobile or desktop, require the ability to play video. That video may be remote, stored in the app bundle, or be chosen from the user’s device. However, .NET MAUI currently doesn’t have a view (control) capable of playing video. So, David Britch went head and created a cross-platform Video view.</p>\n\n<p><a href=\"https://www.davidbritch.com/2022/07/playing-video-with-net-maui_28.html\"><strong>Playing video with .NET MAUI</strong></a> by <a href=\"https://twitter.com/britchdavid\">David Britch</a></p>",
+          "description_markdown": "Many apps, whether mobile or desktop, require the ability to play video. That video may be remote, stored in the app bundle, or be chosen from the user’s device. However, .NET MAUI currently doesn’t have a view (control) capable of playing video. So, David Britch went head and created a cross-platform Video view.\r\n\r\n[**Playing video with .NET MAUI**](https://www.davidbritch.com/2022/07/playing-video-with-net-maui_28.html) by [David Britch](https://twitter.com/britchdavid)",
+          "embedded_links": [
+            {
+              "identifier": "9FlfZaq",
+              "title": "**Playing video with .NET MAUI**",
+              "url_domain": "davidbritch.com",
+              "url": "https://www.davidbritch.com/2022/07/playing-video-with-net-maui_28.html"
+            },
+            {
+              "identifier": "8Jg89FK",
+              "title": "David Britch",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/britchdavid"
+            }
+          ]
+        },
+        {
+          "identifier": "l4mECna",
+          "type": "Link",
+          "title": "Exploring Multi-Windows in .NET MAUI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/exploring-multi-windows-dotnet-maui",
+          "description": "<p>Multi-windows are a nice feature in .NET MAUI, and we can give their desktop version extra TLC.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/exploring-multi-windows-dotnet-maui\"><strong>Exploring Multi-Windows in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Multi-windows are a nice feature in .NET MAUI, and we can give their desktop version extra TLC.\r\n\r\n[**Exploring Multi-Windows in .NET MAUI**](https://www.telerik.com/blogs/exploring-multi-windows-dotnet-maui) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "PBWO07K",
+              "title": "**Exploring Multi-Windows in .NET MAUI**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/exploring-multi-windows-dotnet-maui"
+            },
+            {
+              "identifier": "uDlfydC",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "8TyCxZK",
+          "type": "Link",
+          "title": "ClassFly UI - XAML vs Blazor - Part 1 - XAML",
+          "url_domain": "kymphillpotts.com",
+          "url": "https://kymphillpotts.com/maui-ui-july.html",
+          "description": "<p>The first part of a 2 part blog post of building a simple UI in XAML and Blazor to compare the differences.</p>\n\n<p><a href=\"https://kymphillpotts.com/maui-ui-july.html\"><strong>ClassFly UI - XAML vs Blazor - Part 1 - XAML</strong></a> by <a href=\"https://twitter.com/kphillpotts\">Kym Phillpotts</a></p>",
+          "description_markdown": "The first part of a 2 part blog post of building a simple UI in XAML and Blazor to compare the differences. \r\n\r\n[**ClassFly UI - XAML vs Blazor - Part 1 - XAML**](https://kymphillpotts.com/maui-ui-july.html) by [Kym Phillpotts](https://twitter.com/kphillpotts)",
+          "embedded_links": [
+            {
+              "identifier": "GiUa4Ey",
+              "title": "**ClassFly UI - XAML vs Blazor - Part 1 - XAML**",
+              "url_domain": "kymphillpotts.com",
+              "url": "https://kymphillpotts.com/maui-ui-july.html"
+            },
+            {
+              "identifier": "5QcQ2MV",
+              "title": "Kym Phillpotts",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/kphillpotts"
+            }
+          ]
+        },
+        {
+          "identifier": "IYnNU8W",
+          "type": "Link",
+          "title": "Add Busy Notifications to Your .NET MAUI Application",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/add-busy-notifications-to-your-net-maui-application.aspx",
+          "description": "<p>Busy notifications are essential to enhance the app's appearance, user interaction, and experience.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/add-busy-notifications-to-your-net-maui-application.aspx\"><strong>Add Busy Notifications to Your .NET MAUI Application | Syncfusion Blogs</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "Busy notifications are essential to enhance the app's appearance, user interaction, and experience. \r\n\r\n[**Add Busy Notifications to Your .NET MAUI Application | Syncfusion Blogs**](https://www.syncfusion.com/blogs/post/add-busy-notifications-to-your-net-maui-application.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)",
+          "embedded_links": [
+            {
+              "identifier": "mQ6O7H",
+              "title": "**Add Busy Notifications to Your .NET MAUI Application | Syncfusion Blogs**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/add-busy-notifications-to-your-net-maui-application.aspx"
+            },
+            {
+              "identifier": "DScMD9V",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        },
+        {
+          "identifier": "2rOHc8i",
+          "type": "Link",
+          "title": ".NET MAUI Progressing From a Default Project Part 6 - Revisiting Unit Testing",
+          "url_domain": "softwaremeadows.com",
+          "url": "https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_6_-_revisiting_unit_testing/",
+          "description": "<p>Charles continues his series and this time revisits unit testing .NET MAUI apps.</p>\n\n<p><a href=\"https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_6_-_revisiting_unit_testing/\"><strong>.NET MAUI Progressing From a Default Project Part 6 - Revisiting Unit Testing</strong></a> by <a href=\"https://github.com/bladewolf55\">Charles Flatt</a></p>",
+          "description_markdown": "Charles continues his series and this time revisits unit testing .NET MAUI apps.\r\n\r\n[**.NET MAUI Progressing From a Default Project Part 6 - Revisiting Unit Testing**](https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_6_-_revisiting_unit_testing/) by [Charles Flatt](https://github.com/bladewolf55)",
+          "embedded_links": [
+            {
+              "identifier": "hFXf72u",
+              "title": "**.NET MAUI Progressing From a Default Project Part 6 - Revisiting Unit Testing**",
+              "url_domain": "softwaremeadows.com",
+              "url": "https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_6_-_revisiting_unit_testing/"
+            },
+            {
+              "identifier": "N6AMtfr",
+              "title": "Charles Flatt",
+              "url_domain": "github.com",
+              "url": "https://github.com/bladewolf55"
+            }
+          ]
+        },
+        {
+          "identifier": "Xu7lvMt",
+          "type": "Link",
+          "title": ".NET MAUI Progressing From a Default Project Part 7 - Deploying",
+          "url_domain": "softwaremeadows.com",
+          "url": "https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_7_deploying_the_other_peoples_links_edition/",
+          "description": "<p>In this, the last of the series, Charles points towards some resources to wrapping some DevOps around your .NET MAUI Apps.</p>\n\n<p><a href=\"https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_7_deploying_the_other_peoples_links_edition/\"><strong>.NET MAUI Progressing From a Default Project Part 7 - Deploying, the Other People's Links Edition</strong></a> by <a href=\"https://github.com/bladewolf55\">Charles Flatt</a></p>",
+          "description_markdown": "In this, the last of the series, Charles points towards some resources to wrapping some DevOps around your .NET MAUI Apps.\r\n\r\n[**.NET MAUI Progressing From a Default Project Part 7 - Deploying, the Other People's Links Edition**](https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_7_deploying_the_other_peoples_links_edition/) by [Charles Flatt](https://github.com/bladewolf55)",
+          "embedded_links": [
+            {
+              "identifier": "VTyuyJ9",
+              "title": "**.NET MAUI Progressing From a Default Project Part 7 - Deploying, the Other People's Links Edition**",
+              "url_domain": "softwaremeadows.com",
+              "url": "https://www.softwaremeadows.com/posts/net_maui_progressing_from_a_default_project_part_7_deploying_the_other_peoples_links_edition/"
+            },
+            {
+              "identifier": "KJnmTcA",
+              "title": "Charles Flatt",
+              "url_domain": "github.com",
+              "url": "https://github.com/bladewolf55"
+            }
+          ]
+        },
+        {
+          "identifier": "iLDfqU",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #65",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-65",
+          "description": "<p>Sam wraps up the latest .NET MAUI News.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-65\"><strong>Sands of MAUI: Issue #65</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam wraps up the latest .NET MAUI News.\r\n\r\n[**Sands of MAUI: Issue #65**](https://www.telerik.com/blogs/sands-of-maui-issue-65) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "51i9B4S",
+              "title": "**Sands of MAUI: Issue #65**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-65"
+            },
+            {
+              "identifier": "6Agu5wv",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "imaHJaK",
+          "type": "Link",
+          "title": "Building a Draw Something clone in .NET MAUI",
+          "url_domain": "bijington.com",
+          "url": "https://blog.bijington.com/2022/07/20/draw-something-clone.html",
+          "description": "<p>This post shows how we can build a clone of the drawing game “Draw Something”.</p>\n\n<p><a href=\"https://blog.bijington.com/2022/07/20/draw-something-clone.html\"><strong>Building a Draw Something clone in .NET MAUI</strong></a> by <a href=\"https://twitter.com/bijington\">Shaun Lawrence</a></p>",
+          "description_markdown": "This post shows how we can build a clone of the drawing game “Draw Something”.\r\n\r\n[**Building a Draw Something clone in .NET MAUI**](https://blog.bijington.com/2022/07/20/draw-something-clone.html) by [Shaun Lawrence](https://twitter.com/bijington)",
+          "embedded_links": [
+            {
+              "identifier": "HYMsCLd",
+              "title": "**Building a Draw Something clone in .NET MAUI**",
+              "url_domain": "bijington.com",
+              "url": "https://blog.bijington.com/2022/07/20/draw-something-clone.html"
+            },
+            {
+              "identifier": "yIKyJ01",
+              "title": "Shaun Lawrence",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bijington"
+            }
+          ]
+        },
+        {
+          "identifier": "6BwwLKn",
+          "type": "Link",
+          "title": "Display a map with .NET MAUI",
+          "url_domain": "davidbritch.com",
+          "url": "https://www.davidbritch.com/2022/07/display-map-with-net-maui.html",
+          "description": "<p>This blog post covers creating a very simple cross-platform Map view. It displays a map, lets you scroll it, zoom it, show your location, show traffic data, and change the map imagery.</p>\n\n<p><a href=\"https://www.davidbritch.com/2022/07/display-map-with-net-maui.html\"><strong>Display a map with .NET MAUI</strong></a> by <a href=\"https://twitter.com/britchdavid\">David Britch</a></p>",
+          "description_markdown": "This blog post covers creating a very simple cross-platform Map view. It displays a map, lets you scroll it, zoom it, show your location, show traffic data, and change the map imagery.\r\n\r\n[**Display a map with .NET MAUI**](https://www.davidbritch.com/2022/07/display-map-with-net-maui.html) by [David Britch](https://twitter.com/britchdavid)",
+          "embedded_links": [
+            {
+              "identifier": "iVtMkFW",
+              "title": "**Display a map with .NET MAUI**",
+              "url_domain": "davidbritch.com",
+              "url": "https://www.davidbritch.com/2022/07/display-map-with-net-maui.html"
+            },
+            {
+              "identifier": "7scnR2I",
+              "title": "David Britch",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/britchdavid"
+            }
+          ]
+        },
+        {
+          "identifier": "vbR8IFU",
+          "type": "Link",
+          "title": "My new app doesn't use .NET MAUI! Why?",
+          "url_domain": "taranissoftware.com",
+          "url": "https://blog.taranissoftware.com/my-new-app-doesnt-use-net-maui-why",
+          "description": "<p>Dave has decided to use Xamarin.Forms rather than .NET MAUI for his new app. Why did he decide this, and should you?</p>\n\n<p><a href=\"https://blog.taranissoftware.com/my-new-app-doesnt-use-net-maui-why\"><strong>My new app doesn't use .NET MAUI! Why?</strong></a> by <a href=\"https://github.com/irongut\">Dave Murray</a></p>",
+          "description_markdown": "Dave has decided to use Xamarin.Forms rather than .NET MAUI for his new app. Why did he decide this, and should you?\r\n\r\n[**My new app doesn't use .NET MAUI! Why?**](https://blog.taranissoftware.com/my-new-app-doesnt-use-net-maui-why) by [Dave Murray](https://github.com/irongut)",
+          "embedded_links": [
+            {
+              "identifier": "Iz5KsNb",
+              "title": "**My new app doesn't use .NET MAUI! Why?**",
+              "url_domain": "taranissoftware.com",
+              "url": "https://blog.taranissoftware.com/my-new-app-doesnt-use-net-maui-why"
+            },
+            {
+              "identifier": "TNsvEFu",
+              "title": "Dave Murray",
+              "url_domain": "github.com",
+              "url": "https://github.com/irongut"
+            }
+          ]
+        },
+        {
+          "identifier": "1AFT2v7",
+          "type": "Link",
+          "title": "Creating a countdown button for .NET MAUI",
+          "url_domain": "mallibone.com",
+          "url": "https://mallibone.com/post/dotnetmaui-countdown-button",
+          "description": "<p>As part of UI July Mark is creating a countdown button for .NET MAUI.</p>\n\n<p><a href=\"https://mallibone.com/post/dotnetmaui-countdown-button\"><strong>Creating a countdown button for .NET MAUI</strong></a> by <a href=\"https://twitter.com/mallibone\">Mark Allibone</a></p>",
+          "description_markdown": "As part of UI July Mark is creating a countdown button for .NET MAUI.\r\n\r\n[**Creating a countdown button for .NET MAUI**](https://mallibone.com/post/dotnetmaui-countdown-button) by [Mark Allibone](https://twitter.com/mallibone)",
+          "embedded_links": [
+            {
+              "identifier": "8R3exBL",
+              "title": "**Creating a countdown button for .NET MAUI**",
+              "url_domain": "mallibone.com",
+              "url": "https://mallibone.com/post/dotnetmaui-countdown-button"
+            },
+            {
+              "identifier": "MxqienK",
+              "title": "Mark Allibone",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mallibone"
+            }
+          ]
+        },
+        {
+          "identifier": "JEemiDg",
+          "type": "Link",
+          "title": "Introduction to .NET MAUI Community Toolkit",
+          "url_domain": "liamelliott.me",
+          "url": "https://liamelliott.me/coding/maui-community-toolkit/",
+          "description": "<p>The purpose of this post is to help shine a light on the wonderful work the community is putting in to help grow the .NET MAUI ecosystem.</p>\n\n<p><a href=\"https://liamelliott.me/coding/maui-community-toolkit/\"><strong>.NET MAUI Community Toolkit</strong></a> by <a href=\"https://twitter.com/LiamElliott_au\">Liam Elliott</a></p>",
+          "description_markdown": "The purpose of this post is to help shine a light on the wonderful work the community is putting in to help grow the .NET MAUI ecosystem.\r\n\r\n[**.NET MAUI Community Toolkit**](https://liamelliott.me/coding/maui-community-toolkit/) by [Liam Elliott](https://twitter.com/LiamElliott_au)",
+          "embedded_links": [
+            {
+              "identifier": "7sssYLM",
+              "title": "**.NET MAUI Community Toolkit**",
+              "url_domain": "liamelliott.me",
+              "url": "https://liamelliott.me/coding/maui-community-toolkit/"
+            },
+            {
+              "identifier": "dRZXQUo",
+              "title": "Liam Elliott",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/LiamElliott_au"
+            }
+          ]
+        },
+        {
+          "identifier": "kenaqoX",
+          "type": "Link",
+          "title": "MAUI Blazor template",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@bradystroud/maui-blazor-template-84cb6b8db97",
+          "description": "<p>Brady Stroud decided to build a template for MAUI Blazor as part of UI July.</p>\n\n<p><a href=\"https://medium.com/@bradystroud/maui-blazor-template-84cb6b8db97\"><strong>MAUI Blazor template</strong></a> by <a href=\"https://twitter.com/bradystroud_\">Brady Stroud</a></p>",
+          "description_markdown": "Brady Stroud decided to build a template for MAUI Blazor as part of UI July.\r\n\r\n[**MAUI Blazor template**](https://medium.com/@bradystroud/maui-blazor-template-84cb6b8db97) by [Brady Stroud](https://twitter.com/bradystroud_)",
+          "embedded_links": [
+            {
+              "identifier": "kIFWld0",
+              "title": "**MAUI Blazor template**",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@bradystroud/maui-blazor-template-84cb6b8db97"
+            },
+            {
+              "identifier": "O5NgPQr",
+              "title": "Brady Stroud",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bradystroud_"
+            }
+          ]
+        },
+        {
+          "identifier": "KcEDYqF",
+          "type": "Link",
+          "title": "Using Maui.Graphics to build charts",
+          "url_domain": "grialkit.com",
+          "url": "https://grialkit.com/blog/using-maui-graphics-to-build-charts",
+          "description": "<p>Let's check how to use Maui.Graphics to create data visualization controls.</p>\n\n<p><a href=\"https://grialkit.com/blog/using-maui-graphics-to-build-charts\"><strong>Using Maui.Graphics to build charts</strong></a> by <a href=\"https://twitter.com/dirivero\">Diego Rivero</a></p>",
+          "description_markdown": "Let's check how to use Maui.Graphics to create data visualization controls.\r\n\r\n[**Using Maui.Graphics to build charts**](https://grialkit.com/blog/using-maui-graphics-to-build-charts) by [Diego Rivero](https://twitter.com/dirivero)",
+          "embedded_links": [
+            {
+              "identifier": "nGBcVii",
+              "title": "**Using Maui.Graphics to build charts**",
+              "url_domain": "grialkit.com",
+              "url": "https://grialkit.com/blog/using-maui-graphics-to-build-charts"
+            },
+            {
+              "identifier": "Xdzy8m5",
+              "title": "Diego Rivero",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/dirivero"
+            }
+          ]
+        },
+        {
+          "identifier": "zvdhCZ2",
+          "type": "Link",
+          "title": "Bottom Sheet control in .NET MAUI",
+          "url_domain": "xgenoapps.com",
+          "url": "https://blogs.xgenoapps.com/post/2022/07/23/maui-bottom-sheet",
+          "description": "<p>An amazing article that shows how to create a XAML-based control which you can add to any MAUI page (or in fact multiple controls in the same page) and show additional content when requested by the user.</p>\n\n<p><a href=\"https://blogs.xgenoapps.com/post/2022/07/23/maui-bottom-sheet\"><strong>Bottom Sheet control in .NET MAUI</strong></a> by <a href=\"https://twitter.com/xgeno\">Naweed Akram</a></p>",
+          "description_markdown": "An amazing article that shows how to create a XAML-based control which you can add to any MAUI page (or in fact multiple controls in the same page) and show additional content when requested by the user.\r\n\r\n[**Bottom Sheet control in .NET MAUI**](https://blogs.xgenoapps.com/post/2022/07/23/maui-bottom-sheet) by [Naweed Akram](https://twitter.com/xgeno)",
+          "embedded_links": [
+            {
+              "identifier": "RiW0vhC",
+              "title": "**Bottom Sheet control in .NET MAUI**",
+              "url_domain": "xgenoapps.com",
+              "url": "https://blogs.xgenoapps.com/post/2022/07/23/maui-bottom-sheet"
+            },
+            {
+              "identifier": "iBknFFB",
+              "title": "Naweed Akram",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/xgeno"
+            }
+          ]
+        },
+        {
+          "identifier": "3urVTod",
+          "type": "Link",
+          "title": ".NET MAUI: Create a simple rating control ",
+          "url_domain": "medium.com",
+          "url": "https://medium.com/@tsjdevapps/net-maui-create-a-simple-rating-control-560566fa5014",
+          "description": "<p>Sometimes you need a simple control to show a rating inside of your app. This blog post shows you how you can easily create a simple rating control in .NET MAUI for all platforms.</p>\n\n<p><a href=\"https://medium.com/@tsjdevapps/net-maui-create-a-simple-rating-control-560566fa5014\"><strong>.NET MAUI: Create a simple rating control </strong></a> by <a href=\"https://twitter.com/tsjdevapps\">Sebastian Jensen</a></p>",
+          "description_markdown": "Sometimes you need a simple control to show a rating inside of your app. This blog post shows you how you can easily create a simple rating control in .NET MAUI for all platforms.\r\n\r\n[**.NET MAUI: Create a simple rating control **](https://medium.com/@tsjdevapps/net-maui-create-a-simple-rating-control-560566fa5014) by [Sebastian Jensen](https://twitter.com/tsjdevapps)",
+          "embedded_links": [
+            {
+              "identifier": "PMw3vZE",
+              "title": "**.NET MAUI: Create a simple rating control **",
+              "url_domain": "medium.com",
+              "url": "https://medium.com/@tsjdevapps/net-maui-create-a-simple-rating-control-560566fa5014"
+            },
+            {
+              "identifier": "ja1VlOn",
+              "title": "Sebastian Jensen",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/tsjdevapps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "vAG90eK",
+          "type": "Link",
+          "title": "Implement Lottie Animations in .NET MAUI Under 10 Minutes!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=o5X5yXdWpuc",
+          "description": "<p>The looks of your app can make of break it. To make your .NET MAUI app infinitely more beautiful you can use Lottie animations! Lottie is a lightweight animation format that can be used on all kinds of platforms, now also including .NET MAUI. Let's learn how easy it is to implement Lottie animations in .NET MAUI with the help of SkiaSharp!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=o5X5yXdWpuc\"><strong>Implement Lottie Animations in .NET MAUI Under 10 Minutes!</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "The looks of your app can make of break it. To make your .NET MAUI app infinitely more beautiful you can use Lottie animations! Lottie is a lightweight animation format that can be used on all kinds of platforms, now also including .NET MAUI. Let's learn how easy it is to implement Lottie animations in .NET MAUI with the help of SkiaSharp!\r\n\r\n[**Implement Lottie Animations in .NET MAUI Under 10 Minutes!**](https://www.youtube.com/watch?v=o5X5yXdWpuc) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "O5qub58",
+              "title": "**Implement Lottie Animations in .NET MAUI Under 10 Minutes!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=o5X5yXdWpuc"
+            },
+            {
+              "identifier": "7D2I5ws",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "HuX7zZI",
+          "type": "Link",
+          "title": "The .NET MAUI Podcast Episode 112: We're Back From Vacation!",
+          "url_domain": "dotnetmauipodcast.com",
+          "url": "https://www.dotnetmauipodcast.com/112",
+          "description": "<p>We may have missed a month out on vacation - but we're back better than ever with the latest installment of the .NET MAUI podcast!</p>\n\n<p><a href=\"https://www.dotnetmauipodcast.com/112\"><strong>The .NET MAUI Podcast Episode 112: We're Back From Vacation!</strong></a> by <a href=\"https://www.dotnetmauipodcast.com/\">.NET MAUI Podcast</a></p>",
+          "description_markdown": "We may have missed a month out on vacation - but we're back better than ever with the latest installment of the .NET MAUI podcast!\r\n\r\n[**The .NET MAUI Podcast Episode 112: We're Back From Vacation!**](https://www.dotnetmauipodcast.com/112) by [.NET MAUI Podcast](https://www.dotnetmauipodcast.com/)",
+          "embedded_links": [
+            {
+              "identifier": "OtYnrBD",
+              "title": "**The .NET MAUI Podcast Episode 112: We're Back From Vacation!**",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/112"
+            },
+            {
+              "identifier": "g4tEREL",
+              "title": ".NET MAUI Podcast",
+              "url_domain": "dotnetmauipodcast.com",
+              "url": "https://www.dotnetmauipodcast.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "CeTzjH",
+          "type": "Link",
+          "title": "Unit Testing .NET MAUI Apps with xUnit",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=C9vIDLQwc7M",
+          "description": "<p>Having trouble adding a xUnit project to your .NET MAUI solution? Then this video is for you! In this video we will see what it takes to add an xUnit Unit Testing project to your .NET MAUI solution and actually make it build. Sorry, you'll need to write the tests yourself... 😅</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=C9vIDLQwc7M\"><strong>Unit Testing .NET MAUI Apps with xUnit</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Having trouble adding a xUnit project to your .NET MAUI solution? Then this video is for you! In this video we will see what it takes to add an xUnit Unit Testing project to your .NET MAUI solution and actually make it build. Sorry, you'll need to write the tests yourself... 😅\r\n\r\n[**Unit Testing .NET MAUI Apps with xUnit**](https://www.youtube.com/watch?v=C9vIDLQwc7M) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "RE0Zdcp",
+              "title": "**Unit Testing .NET MAUI Apps with xUnit**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=C9vIDLQwc7M"
+            },
+            {
+              "identifier": "5oqNT83",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "sQUyHCC",
+          "type": "Link",
+          "title": "Let's Learn .NET - Blazor Hybrid",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=iI058EA_maE",
+          "description": "<p>In this month’s .NET beginner series, learn how to blend desktop and mobile native client frameworks with .NET and Blazor! We'll get you up to speed with building .NET MAUI apps that can take advantage of native capabilities, using your web skills. Come to learn something new and leave with something that we all built, together, live with experts!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=iI058EA_maE\"><strong>Let's Learn .NET - Blazor Hybrid</strong></a> by <a href=\"https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw\">dotNet Youtube Channel</a></p>",
+          "description_markdown": "In this month’s .NET beginner series, learn how to blend desktop and mobile native client frameworks with .NET and Blazor! We'll get you up to speed with building .NET MAUI apps that can take advantage of native capabilities, using your web skills. Come to learn something new and leave with something that we all built, together, live with experts! \r\n\r\n[**Let's Learn .NET - Blazor Hybrid**](https://www.youtube.com/watch?v=iI058EA_maE) by [dotNet Youtube Channel](https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw)",
+          "embedded_links": [
+            {
+              "identifier": "2zN4EgB",
+              "title": "**Let's Learn .NET - Blazor Hybrid**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=iI058EA_maE"
+            },
+            {
+              "identifier": "VFe3WH7",
+              "title": "dotNet Youtube Channel",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/ucvtt19mzw8dq5wwfu6b0oxw"
+            }
+          ]
+        },
+        {
+          "identifier": "FUroFOX",
+          "type": "Link",
+          "title": "What is a Scoped .NET Dependency, and Why You Should Use Them",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=HMN26wQ8J54",
+          "description": "<p>Just when you thought you knew everything about .NET Dependency Injection, Scoped dependencies comes along. James has covered transient and singleton, but what are scoped dependencies, when would you use them, and should you even care? James breaks it all down.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=HMN26wQ8J54\"><strong>What is a Scoped .NET Dependency, and Why You Should Use Them</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Just when you thought you knew everything about .NET Dependency Injection, Scoped dependencies comes along. James has covered transient and singleton, but what are scoped dependencies, when would you use them, and should you even care? James breaks it all down.\r\n\r\n\r\n[**What is a Scoped .NET Dependency, and Why You Should Use Them**](https://www.youtube.com/watch?v=HMN26wQ8J54) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "Qr6JxYL",
+              "title": "**What is a Scoped .NET Dependency, and Why You Should Use Them**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=HMN26wQ8J54"
+            },
+            {
+              "identifier": "F1K6Od2",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "ETpAlrZ",
+          "type": "Link",
+          "title": "Maddy Montaquila on .NET MAUI",
+          "url_domain": "jesseliberty.com",
+          "url": "https://jesseliberty.com/2022/07/26/maddy-montaquila-on-net-maui/",
+          "description": "<p>Jesse Liberty has Maddy back on Yet Another Podcast. Today we go beyond the basics to intermediate and advanced topics in .NET MAUI.</p>\n\n<p><a href=\"https://jesseliberty.com/2022/07/26/maddy-montaquila-on-net-maui/\"><strong>Maddy Montaquila on .NET MAUI</strong></a> by <a href=\"https://twitter.com/jesseliberty\">Jesse Liberty</a></p>",
+          "description_markdown": "Jesse Liberty has Maddy back on Yet Another Podcast. Today we go beyond the basics to intermediate and advanced topics in .NET MAUI.\r\n\r\n[**Maddy Montaquila on .NET MAUI**](https://jesseliberty.com/2022/07/26/maddy-montaquila-on-net-maui/) by [Jesse Liberty](https://twitter.com/jesseliberty)",
+          "embedded_links": [
+            {
+              "identifier": "lhF7hso",
+              "title": "**Maddy Montaquila on .NET MAUI**",
+              "url_domain": "jesseliberty.com",
+              "url": "https://jesseliberty.com/2022/07/26/maddy-montaquila-on-net-maui/"
+            },
+            {
+              "identifier": "HPEImdb",
+              "title": "Jesse Liberty",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jesseliberty"
+            }
+          ]
+        },
+        {
+          "identifier": "CE22zbR",
+          "type": "Link",
+          "title": ".NET MAUI Image Control",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=KVBy4Y1N45Y",
+          "description": "<p>Learn about using the Image Control in MAUI</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=KVBy4Y1N45Y\"><strong>DotNet MAUI http , https, gif, cached Image Control [Tutorial 4]</strong></a> by <a href=\"\">Xamarin Guy</a></p>",
+          "description_markdown": "Learn about using the Image Control in MAUI\r\n\r\n[**DotNet MAUI http , https, gif, cached Image Control [Tutorial 4]**](https://www.youtube.com/watch?v=KVBy4Y1N45Y) by [Xamarin Guy]()",
+          "embedded_links": [
+            {
+              "identifier": "DkQBv5P",
+              "title": "Tutorial 4]**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=KVBy4Y1N45Y"
+            }
+          ]
+        },
+        {
+          "identifier": "EYejjYV",
+          "type": "Link",
+          "title": "How to Add Tray Icon on Windows",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=TxgooETfJug",
+          "description": "<p>In this video we add the windows tray icon to a .NET MAUI application.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=TxgooETfJug\"><strong>NET MAUI How to Add Tray Icon on Windows</strong></a> by <a href=\"https://www.youtube.com/channel/UCjGgqULI1EX0VEoizrD6PYA\">Coding Flamingo</a></p>",
+          "description_markdown": "In this video we add the windows tray icon to a .NET MAUI application.\r\n\r\n[**NET MAUI How to Add Tray Icon on Windows**](https://www.youtube.com/watch?v=TxgooETfJug) by [Coding Flamingo](https://www.youtube.com/channel/UCjGgqULI1EX0VEoizrD6PYA)",
+          "embedded_links": [
+            {
+              "identifier": "9GvPU18",
+              "title": "**NET MAUI How to Add Tray Icon on Windows**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=TxgooETfJug"
+            },
+            {
+              "identifier": "Fuzcync",
+              "title": "Coding Flamingo",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCjGgqULI1EX0VEoizrD6PYA"
+            }
+          ]
+        },
+        {
+          "identifier": "RmDu0To",
+          "type": "Link",
+          "title": "Building a game engine with .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=CjIJh5p5twA",
+          "description": "<p>During this talk we will have the fantastic Shaun Lawrence - Microsoft MVP working with Xamarin and MAUI talking about his experience building a game in MAUI.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=CjIJh5p5twA\"><strong>Building a game engine with .NET MAUI with Shaun Lawrence (2022-07)</strong></a> by <a href=\"https://twitter.com/bijington\">Shaun Lawrence</a></p>",
+          "description_markdown": "During this talk we will have the fantastic Shaun Lawrence - Microsoft MVP working with Xamarin and MAUI talking about his experience building a game in MAUI.\r\n\r\n[**Building a game engine with .NET MAUI with Shaun Lawrence (2022-07)**](https://www.youtube.com/watch?v=CjIJh5p5twA) by [Shaun Lawrence](https://twitter.com/bijington)",
+          "embedded_links": [
+            {
+              "identifier": "bVD3Drg",
+              "title": "**Building a game engine with .NET MAUI with Shaun Lawrence (2022-07)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=CjIJh5p5twA"
+            },
+            {
+              "identifier": "TZxtdwu",
+              "title": "Shaun Lawrence",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bijington"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

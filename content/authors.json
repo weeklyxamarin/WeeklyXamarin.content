@@ -483,6 +483,12 @@
       "Aliases": []
     },
     {
+      "Name": "Brady Stroud",
+      "TwitterHandle": "bradystroud_",
+      "Id": "4b15c955-c1da-4697-a8e6-a5d6dcfd91e4",
+      "Aliases": []
+    },
+    {
       "Name": "Brandon Minnick",
       "TwitterHandle": "TheCodeTraveler",
       "GitHubHandle": "brminnick",
@@ -635,6 +641,16 @@
       "TwitterHandle": "chbernasconic",
       "Id": "046b3352-206d-4620-99bc-3e4baf5d1e7c",
       "Aliases": []
+    },
+    {
+      "Name": "Coding Flamingo",
+      "Id": "52e7a376-6b12-4536-99a0-6e1415b51ddc",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.youtube.com/channel/ucjggquli1ex0veoizrd6pya"
+        }
+      ]
     },
     {
       "Name": "Codrina Merigo",
@@ -815,6 +831,12 @@
       "Aliases": []
     },
     {
+      "Name": "Danny Postma",
+      "TwitterHandle": "dannypostmaa",
+      "Id": "92eaa55e-492b-4663-a536-b44bf4cb227e",
+      "Aliases": []
+    },
+    {
       "Name": "Dave Murray",
       "GitHubHandle": "irongut",
       "Id": "67240bc8-e99b-45d8-940b-72d1c83ae8f6",
@@ -955,6 +977,12 @@
           "Name": "https://www.telerik.com/blogs/author/deyan-terziyski"
         }
       ]
+    },
+    {
+      "Name": "Diego Rivero",
+      "TwitterHandle": "dirivero",
+      "Id": "ae9b0a4e-6f76-4715-97d5-e0adca454c4e",
+      "Aliases": []
     },
     {
       "Name": "Divikiran Ravela",
@@ -1274,6 +1302,12 @@
           "Name": "https://www.youtube.com/channel/UCN0yF6AaJmqiPYXDz0CDfxA"
         }
       ]
+    },
+    {
+      "Name": "HumbleIcons",
+      "GitHubHandle": "zraly/humbleicons",
+      "Id": "1f7185d4-bb91-4c3c-a388-6d3d2866b67b",
+      "Aliases": []
     },
     {
       "Name": "Hussain Abbasi",
@@ -1845,6 +1879,12 @@
           "Name": "https://www.linkedin.com/in/les-brown-93885424/"
         }
       ]
+    },
+    {
+      "Name": "Liam Elliott",
+      "TwitterHandle": "LiamElliott_au",
+      "Id": "2d0c82c9-a9c3-4973-8b72-a869a20204d2",
+      "Aliases": []
     },
     {
       "Name": "Logesh Palani",

@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "357",
+      "Name": "Issue 357",
+      "UpdatedTimeStamp": "2022-08-01T09:48:10Z",
+      "Summary": "MAUI UI July, what  a month! .NET Conf Focus on MAUI incomming!",
+      "PublishDate": "2022-08-01T09:48:07Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "356",
       "Name": "Issue 356",
       "UpdatedTimeStamp": "2022-07-18T01:47:31Z",
