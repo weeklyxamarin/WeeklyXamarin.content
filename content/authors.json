@@ -1749,6 +1749,12 @@
       "Aliases": []
     },
     {
+      "Name": "Katie Savage",
+      "TwitterHandle": "okatiesavage",
+      "Id": "d9cebabd-c1d9-4631-b567-3fe143799152",
+      "Aliases": []
+    },
+    {
       "Name": "Keith Harrison",
       "TwitterHandle": "kharrison",
       "Id": "6700868d-0072-48ba-829d-74c485b831cc",
@@ -2369,6 +2375,16 @@
         {
           "Type": "blog",
           "Name": "https://www.syncfusion.com/blogs/author/neelakandan-kannansyncfusion-com"
+        }
+      ]
+    },
+    {
+      "Name": "NET Foundation",
+      "Id": "20389ef8-cb03-465b-a7bb-92fc4f5c8c50",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://dotnetfoundation.org/"
         }
       ]
     },

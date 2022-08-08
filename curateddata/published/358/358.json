@@ -1,0 +1,407 @@
+{
+  "number": 358,
+  "title": "Issue 358",
+  "summary": "Don't miss dotNetConf focus on MAUI  this week!",
+  "url": "https://weeklyxamarin.com/issues/358",
+  "publication_status": "published",
+  "published_at": "2022-08-08T03:27:13+01:00",
+  "updated_at": "2022-08-08T03:27:18+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #358 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities.</p>\n\n<p>This week there is the very exciting <a href=\"https://focus.dotnetconf.net/\"> .NET Conf: Focus on MAUI</a> happening, so make sure you save the date and catchup on the recordings.</p>\n\n<p>Enjoy the links and until next time, have a wonderful week!</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #358 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities.\r\n\r\nThis week there is the very exciting [ .NET Conf: Focus on MAUI](https://focus.dotnetconf.net/) happening, so make sure you save the date and catchup on the recordings.\r\n\r\nEnjoy the links and until next time, have a wonderful week!\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+            {
+              "identifier": "8o9BaSG",
+              "title": " .NET Conf: Focus on MAUI",
+              "url_domain": "dotnetconf.net",
+              "url": "https://focus.dotnetconf.net/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "6NZI2ud",
+          "type": "Link",
+          "title": ".NET Conf 2022: Call for Speakers/Papers",
+          "url_domain": "sessionize.com",
+          "url": "https://sessionize.com/dotnetconf",
+          "description": "<p>.NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners. This year, .NET 7 launches at .NET Conf 2022. If you want to be a speaker then go ahead and register your interest.</p>\n\n<p><a href=\"https://sessionize.com/dotnetconf\"><strong>.NET Conf 2022: Call for Speakers/Papers</strong></a> by <a href=\"https://dotnetfoundation.org/\">NET Foundation</a></p>",
+          "description_markdown": ".NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners. This year, .NET 7 launches at .NET Conf 2022. If you want to be a speaker then go ahead and register your interest.\r\n\r\n[**.NET Conf 2022: Call for Speakers/Papers**](https://sessionize.com/dotnetconf) by [NET Foundation](https://dotnetfoundation.org/)",
+          "embedded_links": [
+            {
+              "identifier": "5MF2Gzm",
+              "title": "**.NET Conf 2022: Call for Speakers/Papers**",
+              "url_domain": "sessionize.com",
+              "url": "https://sessionize.com/dotnetconf"
+            },
+            {
+              "identifier": "8SlVjoC",
+              "title": "NET Foundation",
+              "url_domain": "dotnetfoundation.org",
+              "url": "https://dotnetfoundation.org/"
+            }
+          ]
+        },
+        {
+          "identifier": "D2xGcjK",
+          "type": "Link",
+          "title": "Local .NET MAUI events happening around the world!",
+          "url_domain": "dev.to",
+          "url": "https://dev.to/dotnet/local-net-maui-events-happening-around-the-world-2h8i",
+          "description": "<p>Join Microsoft team members and the community to hear all about .NET MAUI and learn how you can create your first .NET MAUI project.</p>\n\n<p><a href=\"https://dev.to/dotnet/local-net-maui-events-happening-around-the-world-2h8i\"><strong>Local .NET MAUI events happening around the world!</strong></a> by <a href=\"https://twitter.com/okatiesavage\">Katie Savage</a></p>",
+          "description_markdown": "Join Microsoft team members and the community to hear all about .NET MAUI and learn how you can create your first .NET MAUI project.\r\n\r\n[**Local .NET MAUI events happening around the world!**](https://dev.to/dotnet/local-net-maui-events-happening-around-the-world-2h8i) by [Katie Savage](https://twitter.com/okatiesavage)",
+          "embedded_links": [
+            {
+              "identifier": "5ztpuWY",
+              "title": "**Local .NET MAUI events happening around the world!**",
+              "url_domain": "dev.to",
+              "url": "https://dev.to/dotnet/local-net-maui-events-happening-around-the-world-2h8i"
+            },
+            {
+              "identifier": "hOWwWQe",
+              "title": "Katie Savage",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/okatiesavage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "b8Yxrrd",
+          "type": "Link",
+          "title": "Distribute your .NET MAUI apps with Firebase",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/distribute-your-net-maui-apps-with-firebase/",
+          "description": "<p>This post will focus on how you can integrate this into your release pipeline in Azure DevOps or GitHub Actions using the Firebase CLI.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/distribute-your-net-maui-apps-with-firebase/\"><strong>Distribute your .NET MAUI apps with Firebase</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "This post will focus on how you can integrate this into your release pipeline in Azure DevOps or GitHub Actions using the Firebase CLI.\r\n\r\n[**Distribute your .NET MAUI apps with Firebase**](https://www.andreasnesheim.no/distribute-your-net-maui-apps-with-firebase/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "DrBxFli",
+              "title": "**Distribute your .NET MAUI apps with Firebase**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/distribute-your-net-maui-apps-with-firebase/"
+            },
+            {
+              "identifier": "su9VTQI",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "5eypbHg",
+          "type": "Link",
+          "title": "Learning .NET MAUI – Part 15 – SQLite",
+          "url_domain": "jesseliberty.com",
+          "url": "https://jesseliberty.com/2022/08/01/learning-net-maui-part-15-sqlite/",
+          "description": "<p>Jesse continues his series looking at MAUI, this time hooking up a SQLite database.</p>\n\n<p><a href=\"https://jesseliberty.com/2022/08/01/learning-net-maui-part-15-sqlite/\"><strong>Learning .NET MAUI – Part 15 – SQLite</strong></a> by <a href=\"https://twitter.com/jesseliberty\">Jesse Liberty</a></p>",
+          "description_markdown": "Jesse continues his series looking at MAUI, this time hooking up a SQLite database.\r\n\r\n[**Learning .NET MAUI – Part 15 – SQLite**](https://jesseliberty.com/2022/08/01/learning-net-maui-part-15-sqlite/) by [Jesse Liberty](https://twitter.com/jesseliberty)",
+          "embedded_links": [
+            {
+              "identifier": "F9xdXhF",
+              "title": "**Learning .NET MAUI – Part 15 – SQLite**",
+              "url_domain": "jesseliberty.com",
+              "url": "https://jesseliberty.com/2022/08/01/learning-net-maui-part-15-sqlite/"
+            },
+            {
+              "identifier": "67mtoVz",
+              "title": "Jesse Liberty",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jesseliberty"
+            }
+          ]
+        },
+        {
+          "identifier": "JfyClW6",
+          "type": "Link",
+          "title": "Implementing Biometric Authentication In .NET MAUI",
+          "url_domain": "c-sharpcorner.com",
+          "url": "https://www.c-sharpcorner.com/article/implementing-biometric-authentication-in-net-maui/",
+          "description": "<p>This articles shows you how easy it is to add biometric authentication in .NET MAUI.</p>\n\n<p><a href=\"https://www.c-sharpcorner.com/article/implementing-biometric-authentication-in-net-maui/\"><strong>Implementing Biometric Authentication In .NET MAUI</strong></a> by <a href=\"https://twitter.com/LucioMSP\">Vicente Guzman</a></p>",
+          "description_markdown": "This articles shows you how easy it is to add biometric authentication in .NET MAUI.\r\n\r\n[**Implementing Biometric Authentication In .NET MAUI**](https://www.c-sharpcorner.com/article/implementing-biometric-authentication-in-net-maui/) by [Vicente Guzman](https://twitter.com/LucioMSP)",
+          "embedded_links": [
+            {
+              "identifier": "1H4OvPX",
+              "title": "**Implementing Biometric Authentication In .NET MAUI**",
+              "url_domain": "c-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/implementing-biometric-authentication-in-net-maui/"
+            },
+            {
+              "identifier": "W6XloKL",
+              "title": "Vicente Guzman",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/LucioMSP"
+            }
+          ]
+        },
+        {
+          "identifier": "Wujv0V1",
+          "type": "Link",
+          "title": "DevExpress .NET MAUI Update",
+          "url_domain": "devexpress.com",
+          "url": "https://community.devexpress.com/blogs/mobile/archive/2022/08/02/devexpress-net-maui-support-for-the-latest-net-6-updates-and-new-learning-materials-v22-1.aspx",
+          "description": "<p>DevExpress are happy to announce that they released our first official version of the DevExpress .NET MAUI Controls for mobile development (Android and iOS). They have  a deal to allow you to try their MAUI components for free until the end of 2022.</p>\n\n<p><a href=\"https://community.devexpress.com/blogs/mobile/archive/2022/08/02/devexpress-net-maui-support-for-the-latest-net-6-updates-and-new-learning-materials-v22-1.aspx\"><strong>.NET MAUI — Support for the Latest .NET 6 Updates &amp; New Learning Materials</strong></a> by <a href=\"https://www.devexpress.com/\">DevExpress</a></p>",
+          "description_markdown": "DevExpress are happy to announce that they released our first official version of the DevExpress .NET MAUI Controls for mobile development (Android and iOS). They have  a deal to allow you to try their MAUI components for free until the end of 2022.\r\n\r\n[**.NET MAUI — Support for the Latest .NET 6 Updates & New Learning Materials**](https://community.devexpress.com/blogs/mobile/archive/2022/08/02/devexpress-net-maui-support-for-the-latest-net-6-updates-and-new-learning-materials-v22-1.aspx) by [DevExpress](https://www.devexpress.com/)",
+          "embedded_links": [
+            {
+              "identifier": "FyGV6xk",
+              "title": "**.NET MAUI — Support for the Latest .NET 6 Updates & New Learning Materials**",
+              "url_domain": "devexpress.com",
+              "url": "https://community.devexpress.com/blogs/mobile/archive/2022/08/02/devexpress-net-maui-support-for-the-latest-net-6-updates-and-new-learning-materials-v22-1.aspx"
+            },
+            {
+              "identifier": "t0m3p92",
+              "title": "DevExpress",
+              "url_domain": "devexpress.com",
+              "url": "https://www.devexpress.com/"
+            }
+          ]
+        },
+        {
+          "identifier": "bIKxpHq",
+          "type": "Link",
+          "title": "Getting Started With Basic Bindings in .NET MAUI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/getting-started-basic-bindings-dotnet-maui",
+          "description": "<p>Bindings allow you to reflect data changes in your user interface. Let’s see how to bind data in .NET MAUI.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/getting-started-basic-bindings-dotnet-maui\"><strong>Getting Started With Basic Bindings in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Bindings allow you to reflect data changes in your user interface. Let’s see how to bind data in .NET MAUI.\r\n\r\n[**Getting Started With Basic Bindings in .NET MAUI**](https://www.telerik.com/blogs/getting-started-basic-bindings-dotnet-maui) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "jMDEGZ6",
+              "title": "**Getting Started With Basic Bindings in .NET MAUI**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/getting-started-basic-bindings-dotnet-maui"
+            },
+            {
+              "identifier": "JeqGvZP",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "WznZT0C",
+          "type": "Link",
+          "title": "Behaviors library for .NET MAUI",
+          "url_domain": "davidbritch.com",
+          "url": "https://www.davidbritch.com/2022/07/behaviors-library-for-net-maui.html",
+          "description": "<p>Behaviours are a great way to extend controls. The idea is that they are attached to a control and listen for something to happen. When the something happens, it triggers one or more actions in response.</p>\n\n<p>David wrote a library for these back in the Xamarin.Forms days and now he has migrated it over to MAUI.</p>\n\n<p><a href=\"https://www.davidbritch.com/2022/07/behaviors-library-for-net-maui.html\"><strong>Behaviors library for .NET MAUI</strong></a> by <a href=\"https://twitter.com/britchdavid\">David Britch</a></p>",
+          "description_markdown": "Behaviours are a great way to extend controls. The idea is that they are attached to a control and listen for something to happen. When the something happens, it triggers one or more actions in response. \r\n\r\nDavid wrote a library for these back in the Xamarin.Forms days and now he has migrated it over to MAUI.\r\n\r\n[**Behaviors library for .NET MAUI**](https://www.davidbritch.com/2022/07/behaviors-library-for-net-maui.html) by [David Britch](https://twitter.com/britchdavid)",
+          "embedded_links": [
+            {
+              "identifier": "9T92J6s",
+              "title": "**Behaviors library for .NET MAUI**",
+              "url_domain": "davidbritch.com",
+              "url": "https://www.davidbritch.com/2022/07/behaviors-library-for-net-maui.html"
+            },
+            {
+              "identifier": "kb2EUTI",
+              "title": "David Britch",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/britchdavid"
+            }
+          ]
+        },
+        {
+          "identifier": "t3U9X7K",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #66",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-of-maui-issue-66",
+          "description": "<p>The weekly MAUI news with Sam.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-of-maui-issue-66\"><strong>Sands of MAUI: Issue #66</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "The weekly MAUI news with Sam.\r\n\r\n[**Sands of MAUI: Issue #66**](https://www.telerik.com/blogs/sands-of-maui-issue-66) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "9TvjWkN",
+              "title": "**Sands of MAUI: Issue #66**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-of-maui-issue-66"
+            },
+            {
+              "identifier": "6HYRo5i",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "ru8pvNi",
+          "type": "Link",
+          "title": ".NET MAUI Community Toolkit Monthly Standup (August 2022)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=B6AJ3iXAw_0",
+          "description": "<p>Join the discussion around the current happenings in the .NET MAUI Community Toolkit!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=B6AJ3iXAw_0\"><strong>.NET MAUI Community Toolkit Monthly Standup (August 2022)</strong></a> by <a href=\"https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A\">.NET Foundation</a></p>",
+          "description_markdown": "Join the discussion around the current happenings in the .NET MAUI Community Toolkit! \r\n\r\n[**.NET MAUI Community Toolkit Monthly Standup (August 2022)**](https://www.youtube.com/watch?v=B6AJ3iXAw_0) by [.NET Foundation](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)",
+          "embedded_links": [
+            {
+              "identifier": "yRzVIpC",
+              "title": "**.NET MAUI Community Toolkit Monthly Standup (August 2022)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=B6AJ3iXAw_0"
+            },
+            {
+              "identifier": "Pu76upU",
+              "title": ".NET Foundation",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A"
+            }
+          ]
+        },
+        {
+          "identifier": "KDzMVUf",
+          "type": "Link",
+          "title": "Merge Conflict: 317: Performance Benchmarking Code",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/317",
+          "description": "<p>Measuring performance of our applications is one of those things which most people do enough of, but it's the basis for top tier apps.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/317\"><strong>Merge Conflict: 317: Performance Benchmarking Code</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Measuring performance of our applications is one of those things which most people do enough of, but it's the basis for top tier apps.\r\n\r\n[**Merge Conflict: 317: Performance Benchmarking Code**](https://www.mergeconflict.fm/317) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "PmssD73",
+              "title": "**Merge Conflict: 317: Performance Benchmarking Code**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/317"
+            },
+            {
+              "identifier": "nT5KdCm",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "srXG5UO",
+          "type": "Link",
+          "title": ".NET MAUI and Animations",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=80sinVHdCSQ",
+          "description": "<p>In this video, Daniel will show how animations work in .NET MAUI. Daniel will also show touch gesture recognizers and how to use them together with animations.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=80sinVHdCSQ\"><strong>.NET MAUI and Animations</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "In this video, Daniel will show how animations work in .NET MAUI. Daniel will also show touch gesture recognizers and how to use them together with animations.\r\n\r\n[**.NET MAUI and Animations**](https://www.youtube.com/watch?v=80sinVHdCSQ) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "p1Bzsha",
+              "title": "**.NET MAUI and Animations**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=80sinVHdCSQ"
+            },
+            {
+              "identifier": "MVYKzlO",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        },
+        {
+          "identifier": "HcYrZXh",
+          "type": "Link",
+          "title": "Using Conditional Attributes in MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=dmBqDcTOiOQ",
+          "description": "<p>What if you never had to conditionally compile your code with preprocessor directives again? What if you could simply add an attribute to any method and have it compiled in or out based on a specific condition? Well you can with the C# Conditional Attribute.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=dmBqDcTOiOQ\"><strong>Using Conditional Attributes in MAUI</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "What if you never had to conditionally compile your code with preprocessor directives again? What if you could simply add an attribute to any method and have it compiled in or out based on a specific condition? Well you can with the C# Conditional Attribute.\r\n\r\n[**Using Conditional Attributes in MAUI**](https://www.youtube.com/watch?v=dmBqDcTOiOQ) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "ehwo6lG",
+              "title": "**Using Conditional Attributes in MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=dmBqDcTOiOQ"
+            },
+            {
+              "identifier": "Kv4phRL",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "Sxmjmwl",
+          "type": "Link",
+          "title": "Client-Side Logging in .NET MAUI with MetroLog.Maui",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=WicmnH72kf0",
+          "description": "<p>Adding logging to your .NET MAUI application has never been easier with MetroLog.Maui! Enable the logging in your MauiProgram and you can start implementing those log statements which you can then send to in-memory or even text files. As a cherry on the cake we get the \"Shake to display logs\" functionality out of the box 🤯</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=WicmnH72kf0\"><strong>Client-Side Logging in .NET MAUI with MetroLog.Maui</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Adding logging to your .NET MAUI application has never been easier with MetroLog.Maui! Enable the logging in your MauiProgram and you can start implementing those log statements which you can then send to in-memory or even text files. As a cherry on the cake we get the \"Shake to display logs\" functionality out of the box 🤯\r\n\r\n[**Client-Side Logging in .NET MAUI with MetroLog.Maui**](https://www.youtube.com/watch?v=WicmnH72kf0) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "caz72Rc",
+              "title": "**Client-Side Logging in .NET MAUI with MetroLog.Maui**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=WicmnH72kf0"
+            },
+            {
+              "identifier": "JWOEtag",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "releases",
+      "name": "RELEASES",
+      "items": [
+        {
+          "identifier": "gnOVz5k",
+          "type": "Link",
+          "title": "Announcing .NET Community Toolkit 8.0! MVVM, Diagnostics, Performance, and more!",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-800/",
+          "description": "<p>It's the official launch of the new .NET Community Toolkit version 8.0! Including tons of new features such as MVVM source generators, diagnostics, performance helpers, and more!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-800/\"><strong>Announcing .NET Community Toolkit 8.0! MVVM, Diagnostics, Performance, and more!</strong></a> by <a href=\"https://github.com/Sergio0694\">Sergio Pedri</a></p>",
+          "description_markdown": "It's the official launch of the new .NET Community Toolkit version 8.0! Including tons of new features such as MVVM source generators, diagnostics, performance helpers, and more!\r\n\r\n[**Announcing .NET Community Toolkit 8.0! MVVM, Diagnostics, Performance, and more!**](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-800/) by [Sergio Pedri](https://github.com/Sergio0694)",
+          "embedded_links": [
+            {
+              "identifier": "NfeMCJq",
+              "title": "**Announcing .NET Community Toolkit 8.0! MVVM, Diagnostics, Performance, and more!**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-800/"
+            },
+            {
+              "identifier": "hIoIAAl",
+              "title": "Sergio Pedri",
+              "url_domain": "github.com",
+              "url": "https://github.com/Sergio0694"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

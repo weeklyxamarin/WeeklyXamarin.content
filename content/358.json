@@ -1,0 +1,146 @@
+{
+  "Id": "358",
+  "Name": "Issue 358",
+  "UpdatedTimeStamp": "2022-08-08T02:27:18Z",
+  "Summary": "Don't miss dotNetConf focus on MAUI  this week!",
+  "Introduction": "G'day everyone, welcome to issue #358 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI communities. This week there is the very exciting [ .NET Conf: Focus on MAUI](https://focus.dotnetconf.net/) happening, so make sure you save the date and catchup on the recordings. Enjoy the links and until next time, have a wonderful week! Kym",
+  "PublishDate": "2022-08-08T02:27:13Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": ".NET Conf 2022: Call for Speakers/Papers",
+      "Url": "https://sessionize.com/dotnetconf",
+      "Description": ".NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners. This year, .NET 7 launches at .NET Conf 2022. If you want to be a speaker then go ahead and register your interest.",
+      "EditionId": "358",
+      "Author": "NET Foundation",
+      "Id": "358-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Local .NET MAUI events happening around the world!",
+      "Url": "https://dev.to/dotnet/local-net-maui-events-happening-around-the-world-2h8i",
+      "Description": "Join Microsoft team members and the community to hear all about .NET MAUI and learn how you can create your first .NET MAUI project.",
+      "EditionId": "358",
+      "Author": "Katie Savage",
+      "Id": "358-2",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Distribute your .NET MAUI apps with Firebase",
+      "Url": "https://www.andreasnesheim.no/distribute-your-net-maui-apps-with-firebase/",
+      "Description": "This post will focus on how you can integrate this into your release pipeline in Azure DevOps or GitHub Actions using the Firebase CLI.",
+      "EditionId": "358",
+      "Author": "Andreas Nesheim",
+      "Id": "358-3",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Learning .NET MAUI – Part 15 – SQLite",
+      "Url": "https://jesseliberty.com/2022/08/01/learning-net-maui-part-15-sqlite/",
+      "Description": "Jesse continues his series looking at MAUI, this time hooking up a SQLite database.",
+      "EditionId": "358",
+      "Author": "Jesse Liberty",
+      "Id": "358-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Implementing Biometric Authentication In .NET MAUI",
+      "Url": "https://www.c-sharpcorner.com/article/implementing-biometric-authentication-in-net-maui/",
+      "Description": "This articles shows you how easy it is to add biometric authentication in .NET MAUI.",
+      "EditionId": "358",
+      "Author": "Vicente Guzman",
+      "Id": "358-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "DevExpress .NET MAUI Update",
+      "Url": "https://community.devexpress.com/blogs/mobile/archive/2022/08/02/devexpress-net-maui-support-for-the-latest-net-6-updates-and-new-learning-materials-v22-1.aspx",
+      "Description": "DevExpress are happy to announce that they released our first official version of the DevExpress .NET MAUI Controls for mobile development (Android and iOS). They have  a deal to allow you to try their MAUI components for free until the end of 2022.",
+      "EditionId": "358",
+      "Author": "DevExpress",
+      "Id": "358-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Getting Started With Basic Bindings in .NET MAUI",
+      "Url": "https://www.telerik.com/blogs/getting-started-basic-bindings-dotnet-maui",
+      "Description": "Bindings allow you to reflect data changes in your user interface. Let’s see how to bind data in .NET MAUI.",
+      "EditionId": "358",
+      "Author": "Leomaris Reyes",
+      "Id": "358-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Behaviors library for .NET MAUI",
+      "Url": "https://www.davidbritch.com/2022/07/behaviors-library-for-net-maui.html",
+      "Description": "Behaviours are a great way to extend controls. The idea is that they are attached to a control and listen for something to happen. When the something happens, it triggers one or more actions in response.  David wrote a library for these back in the Xamarin.Forms days and now he has migrated it over to MAUI.",
+      "EditionId": "358",
+      "Author": "David Britch",
+      "Id": "358-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #66",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-66",
+      "Description": "The weekly MAUI news with Sam.",
+      "EditionId": "358",
+      "Author": "Sam Basu",
+      "Id": "358-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Community Toolkit Monthly Standup (August 2022)",
+      "Url": "https://www.youtube.com/watch?v=B6AJ3iXAw_0",
+      "Description": "Join the discussion around the current happenings in the .NET MAUI Community Toolkit!",
+      "EditionId": "358",
+      "Author": ".NET Foundation",
+      "Id": "358-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 317: Performance Benchmarking Code",
+      "Url": "https://www.mergeconflict.fm/317",
+      "Description": "Measuring performance of our applications is one of those things which most people do enough of, but it's the basis for top tier apps.",
+      "EditionId": "358",
+      "Author": "Merge Conflict",
+      "Id": "358-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI and Animations",
+      "Url": "https://www.youtube.com/watch?v=80sinVHdCSQ",
+      "Description": "In this video, Daniel will show how animations work in .NET MAUI. Daniel will also show touch gesture recognizers and how to use them together with animations.",
+      "EditionId": "358",
+      "Author": "Daniel Hindrikes",
+      "Id": "358-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Using Conditional Attributes in MAUI",
+      "Url": "https://www.youtube.com/watch?v=dmBqDcTOiOQ",
+      "Description": "What if you never had to conditionally compile your code with preprocessor directives again? What if you could simply add an attribute to any method and have it compiled in or out based on a specific condition? Well you can with the C# Conditional Attribute.",
+      "EditionId": "358",
+      "Author": "James Montemagno",
+      "Id": "358-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Client-Side Logging in .NET MAUI with MetroLog.Maui",
+      "Url": "https://www.youtube.com/watch?v=WicmnH72kf0",
+      "Description": "Adding logging to your .NET MAUI application has never been easier with MetroLog.Maui! Enable the logging in your MauiProgram and you can start implementing those log statements which you can then send to in-memory or even text files. As a cherry on the cake we get the \"Shake to display logs\" functionality out of the box 🤯",
+      "EditionId": "358",
+      "Author": "Gerald Versluis",
+      "Id": "358-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Announcing .NET Community Toolkit 8.0! MVVM, Diagnostics, Performance, and more!",
+      "Url": "https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-800/",
+      "Description": "It's the official launch of the new .NET Community Toolkit version 8.0! Including tons of new features such as MVVM source generators, diagnostics, performance helpers, and more!",
+      "EditionId": "358",
+      "Author": "Sergio Pedri",
+      "Id": "358-15",
+      "Category": "RELEASES"
+    }
+  ]
+}
