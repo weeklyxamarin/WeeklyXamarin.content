@@ -1069,6 +1069,16 @@
       "Website": "https://www.dylanberry.com/"
     },
     {
+      "Name": "DynamSoft",
+      "Id": "95125b51-ac5f-43a8-8dda-1979bd79d09c",
+      "Aliases": [
+        {
+          "Type": "blog",
+          "Name": "https://www.dynamsoft.com/"
+        }
+      ]
+    },
+    {
       "Name": "Eduardo Rosas Osorno",
       "Id": "bd84cb85-b123-41ac-9191-af1fdd910b1a",
       "Aliases": [
@@ -1511,6 +1521,12 @@
       "GitHubHandle": "balivo",
       "Id": "190ffce5-dcb5-453c-8dbc-f915a43764c0",
       "Website": "https://balivo.com.br/"
+    },
+    {
+      "Name": "Jeffrey Fritz",
+      "TwitterHandle": "csharpfritz",
+      "Id": "d2d932b2-7a34-445e-b84e-47ac30465136",
+      "Aliases": []
     },
     {
       "Name": "Jeremi Przeorek",
@@ -2243,6 +2259,12 @@
           "Name": "https://kuula.co/profile/mscherotter"
         }
       ]
+    },
+    {
+      "Name": "Michael Stonis",
+      "TwitterHandle": "MichaelStonis",
+      "Id": "9a93a17c-f027-430f-8163-60146f87d33e",
+      "Aliases": []
     },
     {
       "Name": "Michal Zolnieruk",

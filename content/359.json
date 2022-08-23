@@ -1,0 +1,199 @@
+{
+  "Id": "359",
+  "Name": "Issue 359",
+  "UpdatedTimeStamp": "2022-08-22T12:51:55Z",
+  "Summary": "MAUI Books, Learning Resources and .NET Conf Focus on MAUI Videos!",
+  "Introduction": "G'day everyone, welcome to issue #359 of Weekly Xamarin - a wrap-up of the community articles around Xamarin and MAUI. Make sure to check out the recorded videos of .NET Conf MAUI sessions - so much good content that should keep you busy.  If not, Michael Stonis has released an Enterprise .NET MAUI Book and Gerald has compiled some learning resources for MAUI.   Don't forget, if you are looking for some sweet swag then jump on the NET MAUI Beautiful UI Challenge which is finishing soon! I know I won't be bored so until next time, take care. Kym",
+  "PublishDate": "2022-08-22T12:51:52Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "Announcing the .NET MAUI Beautiful UI Challenge",
+      "Url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-beautiful-ui-challenge/",
+      "Description": ".NET MAUI community challenge featuring Snppts and Good Looking UI community run repos! Simply submit to be eligible for swag!",
+      "EditionId": "359",
+      "Author": "Jon Galloway",
+      "Id": "359-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Productivity comes to .NET MAUI in Visual Studio 2022",
+      "Url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-visualstudio-2022-release/",
+      "Description": "Visual Studio 2022 17.3 is now available and delivers spectacular productivity features for .NET Multi-platform App UI (.NET MAUI).",
+      "EditionId": "359",
+      "Author": "Maddy Montaquila",
+      "Id": "359-2",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Learn MAUI Resources",
+      "Url": "https://github.com/jfversluis/learn-dotnet-maui",
+      "Description": "A repository filled with resources available to you to start learning or deepen your knowledge about .NET MAUI",
+      "EditionId": "359",
+      "Author": "Gerald Versluis",
+      "Id": "359-3",
+      "Category": "GETTING STARTED"
+    },
+    {
+      "Title": "Supporting Android v12+ Splash Screens in Xamarin.Forms",
+      "Url": "https://codetraveler.io/2022/08/16/supporting-android-splash-screens-in-xamarin-forms/",
+      "Description": "Android recently changed how splash screens work in Android v12.0 (API Level 31). Let's take a look at how to support it in our Xamarin.Forms apps!",
+      "EditionId": "359",
+      "Author": "Brandon Minnick",
+      "Id": "359-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": ".NET Conf Focus on MAUI - That's a wrap!",
+      "Url": "https://devblogs.microsoft.com/dotnet/dotnet-conf-focus-on-maui-recap/",
+      "Description": ".NET Conf: Focus on MAUI is a wrap!  The day was packed with sessions covering all topics of building beautiful multi-platform apps with .NET MAUI including designing UI, publishing apps, real-time apps, and so much more. In this post, Jeff covers some highlights from the event and give you all the information to get caught up on recordings and ongoing .NET MAUI activities that you can get involved with today.",
+      "EditionId": "359",
+      "Author": "Jeffrey Fritz",
+      "Id": "359-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Enterprise Application Patterns Using .NET MAUI",
+      "Url": "https://docs.microsoft.com/en-us/dotnet/architecture/maui/",
+      "Description": "Learn how to design adaptable, maintainable, and testable MAUI applications with this free ebook.",
+      "EditionId": "359",
+      "Author": "Michael Stonis",
+      "Id": "359-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Publishing a .NET MAUI App on Android",
+      "Url": "https://www.telerik.com/blogs/publishing-dotnet-maui-app-android",
+      "Description": "See how to publish your .NET MAUI app to Android in these few easy steps!",
+      "EditionId": "359",
+      "Author": "Leomaris Reyes",
+      "Id": "359-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Crashlytics for .NET MAUI with Sentry",
+      "Url": "https://www.andreasnesheim.no/crashlytics-for-net-maui-with-sentry/",
+      "Description": "Here’s a quick guide on how you can set up Sentry in your .NET MAUI app.",
+      "EditionId": "359",
+      "Author": "Andreas Nesheim",
+      "Id": "359-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "How to Build a NuGet Package for .NET MAUI Android and iOS Development",
+      "Url": "https://www.dynamsoft.com/codepool/dotnet-android-ios-nuget-package.html",
+      "Description": "This article demonstrates how to bind Dynamsoft Android and iOS mobile barcode QR code SDK into a NuGet package for .NET MAUI development.",
+      "EditionId": "359",
+      "Author": "DynamSoft",
+      "Id": "359-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #68",
+      "Url": "https://www.telerik.com/blogs/sands-of-maui-issue-68",
+      "Description": "Sam with the latest roundup of MAUI news.",
+      "EditionId": "359",
+      "Author": "Sam Basu",
+      "Id": "359-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Roundup of .NET MAUI. - Week of August 8, 2022",
+      "Url": "https://dev.to/davidortinau/roundup-of-net-maui-week-of-august-8-2022-pm",
+      "Description": "David's update of the latest MAUI events.",
+      "EditionId": "359",
+      "Author": "David Ortinau",
+      "Id": "359-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "BeautyShop App | .NET MAUI UI Challenge",
+      "Url": "https://www.youtube.com/watch?v=b8B7ZyksFyQ",
+      "Description": "Video of the creation of the BeautyShop App made with .NET MAUI.",
+      "EditionId": "359",
+      "Author": "Javier Suárez",
+      "Id": "359-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET Conf: Focus on MAUI recordings",
+      "Url": "https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWePZU3W162NJ9vcXqgpMVc",
+      "Description": "One-day livestream event that features speakers from the community and Microsoft teams working on and using .NET Multi-platform App UI. Learn how to build native apps for Android, iOS, macOS and Windows with a single codebase using .NET MAUI. Hear from the team building the .NET MAUI framework and tools in Visual Studio as well as experts from the community building .NET MAUI apps, libraries, components and controls.",
+      "EditionId": "359",
+      "Id": "359-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI - All you need to know about CollectionView",
+      "Url": "https://www.youtube.com/watch?v=J5wC87xE9Qg",
+      "Description": "In this video, Daniel Hindrikes talks about .NET MAUI and CollectionView.",
+      "EditionId": "359",
+      "Author": "Daniel Hindrikes",
+      "Id": "359-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Barcode Scanner in .NET MAUI with ZXing.Net.Maui",
+      "Url": "https://www.youtube.com/watch?v=ostgj2xB_ok",
+      "Description": "Barcodes or QR codes don't need any introduction. They are still everywhere and you are using barcode scanners in all of your apps. Have I got good news for you! With ZXing.Net.Maui you can now add a barcode scanner to your .NET MAUI app with ease, tune in to learn all about it.",
+      "EditionId": "359",
+      "Author": "Gerald Versluis",
+      "Id": "359-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Create a Shopping UI in .NET MAUI with SQLite",
+      "Url": "https://www.youtube.com/watch?v=EatS5vvo8OY",
+      "Description": "In this webinar, we will create a shopping UI in .NET MAUI using SQLite. This shopping app will include several essential modules. We will focus on login design and product page design and implementation. On the product page, we will display the product name, description, photos, and pricing information. We keep the login information and product details in an SQLite database.",
+      "EditionId": "359",
+      "Author": "Syncfusion",
+      "Id": "359-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI & Storage, Part 3 - Where to save application data",
+      "Url": "https://www.youtube.com/watch?v=3xqIXS1SBaU",
+      "Description": "In this video, Daniel will show you where to save/store application data depending on what type of data you want to save. Also make sure to check out the other parts in this video as well.",
+      "EditionId": "359",
+      "Author": "Daniel Hindrikes",
+      "Id": "359-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "A Better Pub/Sub Messenger for .NET Applications",
+      "Url": "https://www.youtube.com/watch?v=vD17OetzGXc",
+      "Description": "Sometimes you need to pass pieces of data to and from different parts of your application. This may be for communication between viewmodels or perhaps from your app startup class passing important information. With the .NET Community Toolkit you have a simple cross-platform way of sending and receiving messages no matter what type of app your are building. You can use it with .NET MAUI, WinUI, WPF, WinForms, ASP.NET Core, or just about any other .NET application!",
+      "EditionId": "359",
+      "Author": "James Montemagno",
+      "Id": "359-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Using .NET MAUI Community Toolkit DrawingView",
+      "Url": "https://www.youtube.com/watch?v=7rw13_a5GR0",
+      "Description": "Whether you are creating a Pictionary game or collecting signatures in your .NET MAUI app, the DrawingView will make your live much much easier! In this video we will learn what the .NET MAUI Community Toolkit DrawingView is, how to set it up and how to actually use it!",
+      "EditionId": "359",
+      "Author": "Gerald Versluis",
+      "Id": "359-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 318: Fixing Performance Issues",
+      "Url": "https://www.mergeconflict.fm/318",
+      "Description": "We diagnosed and fixed performance problems in the wild and we break down how we did it and what you need to know.",
+      "EditionId": "359",
+      "Author": "Merge Conflict",
+      "Id": "359-20",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Calling Secured APIs with MSAL Auth in MAU",
+      "Url": "https://www.youtube.com/watch?v=p8NRvakFW2M",
+      "Description": "Carl shows how to use MSAL.NET for Auth in a MAUI app, including calling Secured .NET Core Web APIs.",
+      "EditionId": "359",
+      "Author": "Carl Franklin",
+      "Id": "359-21",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
