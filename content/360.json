@@ -1,0 +1,153 @@
+{
+  "Id": "360",
+  "Name": "Issue 360",
+  "UpdatedTimeStamp": "2022-08-29T12:03:38Z",
+  "Summary": "More Learning Resources!",
+  "Introduction": "G'day everyone, welcome to issue #360 of Weekly Xamarin - a wrap-up of this weeks Xamarin and DotNet MAUI community news and articles.",
+  "PublishDate": "2022-08-29T12:03:34Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": "UI & UX Micro-Tips: Best of 2022",
+      "Url": "https://www.marcandrew.me/ui-ux-micro-tips-best-of-2022/",
+      "Description": "A compilation of useful User Experience tips, and tricks for any app.",
+      "EditionId": "360",
+      "Author": "Marc Andrew",
+      "Id": "360-1",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Bad App Design – What Mistakes Should You Avoid in a New App Design?",
+      "Url": "https://www.uxpin.com/studio/blog/bad-app-design/",
+      "Description": "Would you like to learn what UX and UI design experts call a \"bad app design\"?",
+      "EditionId": "360",
+      "Author": "UXPin",
+      "Id": "360-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Improving MAUI & Xamarin Code Quality with Pre Git Commit Linting",
+      "Url": "https://prototypemakers.medium.com/improving-maui-xamarin-code-quality-with-pre-git-commit-linting-e3e24ce585d9",
+      "Description": "This tutorial shows how easy it is to use tools common to other frameworks, to enforce coding standards across all developers on a MAUI/Xamarin mobile app project.",
+      "EditionId": "360",
+      "Author": "Saamer Mansoor",
+      "Id": "360-3",
+      "Category": "DEVOPS"
+    },
+    {
+      "Title": "Lazy Load JSON Data in Xamarin.Forms ListView: An Overview",
+      "Url": "https://www.syncfusion.com/blogs/post/lazy-load-json-data-in-xamarin-forms-listview-an-overview.aspx",
+      "Description": "This blog teaches you how to show a fixed amount of JSON data on initial loading (lazy load) and show a busy indicator while loading the remaining data on scrolling in the Xamarin.Forms ListView.",
+      "EditionId": "360",
+      "Id": "360-4",
+      "Category": "XAMARIN FORMS"
+    },
+    {
+      "Title": "Playing audio in .NET MAUI applications",
+      "Url": "https://blog.bijington.com/2022/08/23/playing-audio-in-dotnet-maui.html",
+      "Description": "This post covers how we can add the ability to play audio files in our .NET MAUI applications.",
+      "EditionId": "360",
+      "Author": "Shaun Lawrence",
+      "Id": "360-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Controlling your Sonos speaker with .NET MAUI",
+      "Url": "https://www.andreasnesheim.no/controlling-your-sonos-speaker-with-net-maui/",
+      "Description": "This post shows you how you can control your local Sonos speakers using a .NET MAUI application.… Why? Because you can.",
+      "EditionId": "360",
+      "Author": "Andreas Nesheim",
+      "Id": "360-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Capturing screenshots in .NET MAUI",
+      "Url": "https://askxammy.com/capturing-screenshots-in-net-maui/",
+      "Description": "Learn how to implement taking screenshots in your MAUI App.",
+      "EditionId": "360",
+      "Author": "Leomaris Reyes",
+      "Id": "360-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET Conf 2022 Focus on MAUI Recap",
+      "Url": "https://intelliabb.com/2022/08/24/net-conf-2022-focus-on-maui-recap/",
+      "Description": "If you are still catching up with the .NET Conf focus on MAUI recordings, maybe this blog post will help you out as it gives you a rundown of some of Hussain's favorite sessions",
+      "EditionId": "360",
+      "Author": "Hussain Abbasi",
+      "Id": "360-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Roundup of .NET MAUI. - Week of August 15, 2022",
+      "Url": "https://dev.to/davidortinau/roundup-of-net-maui-week-of-august-15-2022-48df",
+      "Description": "David rounds up the MAUI libraries and videos for the week",
+      "EditionId": "360",
+      "Author": "David Ortinau",
+      "Id": "360-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Say hello to Maui.ColorPicker",
+      "Url": "https://johnnys.news/2022/08/say-hello-to-Maui-ColorPicker",
+      "Description": "Maui.ColorPicker is the evolution of XFColorPickerControl - a SkiaSharp powered color picker for .NET MAUI.",
+      "EditionId": "360",
+      "Author": "Joachim Leonfellner",
+      "Id": "360-10",
+      "Category": "NUGET OF THE WEEK"
+    },
+    {
+      "Title": "Creating Device-Specific Views in .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=7oVrdUELuYA",
+      "Description": "In this tutorial, we will see how we can implement device specific views for mobile and desktop using #dotnetmaui.",
+      "EditionId": "360",
+      "Author": "Naweed Akram",
+      "Id": "360-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Welcome to .NET MAUI (Multi-platform App UI) | #SamosaChai.NET",
+      "Url": "https://www.youtube.com/watch?v=xZwNFB4hx5s",
+      "Description": "Somosa Chai.Net presentation with Nish Anil and James Montemagno with a welcome to MAUI - Covers Hybrid Blazor as well",
+      "EditionId": "360",
+      "Id": "360-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Surfing App | .NET MAUI UI Challenge",
+      "Url": "https://www.youtube.com/watch?v=_0hrgVV4C2I",
+      "Description": "Surfing App UI Challenge made with .NET MAUI.",
+      "EditionId": "360",
+      "Author": "Javier Suárez",
+      "Id": "360-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Beyond Monkey: Building Real-world .Net MAUI Apps",
+      "Url": "https://www.youtube.com/watch?v=v3RsMQJKdmo",
+      "Description": "Make sure to check out this video course by Naweed - This is Part 1 of the course \"Building Real-World Mobile Applications using .NET MAUI\", where you learn to create complex and practical apps using #dotnetmaui.",
+      "EditionId": "360",
+      "Author": "Naweed Akram",
+      "Id": "360-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Pub/Sub++ for .NET Apps with MediatR (Request AND Response)",
+      "Url": "https://www.youtube.com/watch?v=q0X8RwhMNK4",
+      "Description": "This video covers a library called MediatR which supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.",
+      "EditionId": "360",
+      "Author": "James Montemagno",
+      "Id": "360-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Generate Barcodes in 2 Lines of Code with .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=p4BRsdMc7OA",
+      "Description": "Generating barcodes has never been easier than with the ZXing.Net.Maui library! With just 2 lines of code you can generate QR codes and barcodes in all kinds of formats. Watch the video to learn how.",
+      "EditionId": "360",
+      "Author": "Gerald Versluis",
+      "Id": "360-16",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}

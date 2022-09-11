@@ -1,0 +1,419 @@
+{
+  "number": 360,
+  "title": "Issue 360",
+  "summary": "More Learning Resources!",
+  "url": "https://weeklyxamarin.com/issues/360",
+  "publication_status": "published",
+  "published_at": "2022-08-29T13:03:34+01:00",
+  "updated_at": "2022-08-29T13:03:38+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #360 of Weekly Xamarin - a wrap-up of this weeks Xamarin and DotNet MAUI community news and articles.</p>",
+          "description_markdown": "G'day everyone, welcome to issue #360 of Weekly Xamarin - a wrap-up of this weeks Xamarin and DotNet MAUI community news and articles.\r\n\r\n",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "glGRyUE",
+          "type": "Link",
+          "title": "UI & UX Micro-Tips: Best of 2022",
+          "url_domain": "marcandrew.me",
+          "url": "https://www.marcandrew.me/ui-ux-micro-tips-best-of-2022/",
+          "description": "<p>A compilation of useful User Experience tips, and tricks for any app.</p>\n\n<p><a href=\"https://www.marcandrew.me/ui-ux-micro-tips-best-of-2022/\"><strong>UI &amp; UX Micro-Tips: Best of 2022</strong></a> by <a href=\"https://twitter.com/mrcndrw\">Marc Andrew</a></p>",
+          "description_markdown": "A compilation of useful User Experience tips, and tricks for any app. \r\n\r\n[**UI & UX Micro-Tips: Best of 2022**](https://www.marcandrew.me/ui-ux-micro-tips-best-of-2022/) by [Marc Andrew](https://twitter.com/mrcndrw)",
+          "embedded_links": [
+            {
+              "identifier": "j7H5p6m",
+              "title": "**UI & UX Micro-Tips: Best of 2022**",
+              "url_domain": "marcandrew.me",
+              "url": "https://www.marcandrew.me/ui-ux-micro-tips-best-of-2022/"
+            },
+            {
+              "identifier": "dbGVWsm",
+              "title": "Marc Andrew",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mrcndrw"
+            }
+          ]
+        },
+        {
+          "identifier": "uE1FNMW",
+          "type": "Link",
+          "title": "Bad App Design – What Mistakes Should You Avoid in a New App Design?",
+          "url_domain": "uxpin.com",
+          "url": "https://www.uxpin.com/studio/blog/bad-app-design/",
+          "description": "<p>Would you like to learn what UX and UI design experts call a \"bad app design\"?</p>\n\n<p><a href=\"https://www.uxpin.com/studio/blog/bad-app-design/\"><strong>Bad App Design – What Mistakes Should You Avoid in a New App Design?</strong></a> by <a href=\"https://twitter.com/uxpin\">UXPin</a></p>",
+          "description_markdown": "Would you like to learn what UX and UI design experts call a \"bad app design\"?\r\n\r\n[**Bad App Design – What Mistakes Should You Avoid in a New App Design?**](https://www.uxpin.com/studio/blog/bad-app-design/) by [UXPin](https://twitter.com/uxpin)",
+          "embedded_links": [
+            {
+              "identifier": "lHdtv8o",
+              "title": "**Bad App Design – What Mistakes Should You Avoid in a New App Design?**",
+              "url_domain": "uxpin.com",
+              "url": "https://www.uxpin.com/studio/blog/bad-app-design/"
+            },
+            {
+              "identifier": "OULcuXS",
+              "title": "UXPin",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/uxpin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "devops",
+      "name": "DEVOPS",
+      "items": [
+        {
+          "identifier": "AeoAYVv",
+          "type": "Link",
+          "title": "Improving MAUI & Xamarin Code Quality with Pre Git Commit Linting",
+          "url_domain": "medium.com",
+          "url": "https://prototypemakers.medium.com/improving-maui-xamarin-code-quality-with-pre-git-commit-linting-e3e24ce585d9",
+          "description": "<p>This tutorial shows how easy it is to use tools common to other frameworks, to enforce coding standards across all developers on a MAUI/Xamarin mobile app project.</p>\n\n<p><a href=\"https://prototypemakers.medium.com/improving-maui-xamarin-code-quality-with-pre-git-commit-linting-e3e24ce585d9\"><strong>Improving MAUI &amp; Xamarin Code Quality with Pre Git Commit Linting</strong></a> by <a href=\"https://twitter.com/saamerm\">Saamer Mansoor</a></p>",
+          "description_markdown": "This tutorial shows how easy it is to use tools common to other frameworks, to enforce coding standards across all developers on a MAUI/Xamarin mobile app project. \r\n\r\n[**Improving MAUI & Xamarin Code Quality with Pre Git Commit Linting**](https://prototypemakers.medium.com/improving-maui-xamarin-code-quality-with-pre-git-commit-linting-e3e24ce585d9) by [Saamer Mansoor](https://twitter.com/saamerm)",
+          "embedded_links": [
+            {
+              "identifier": "zcKjjhV",
+              "title": "**Improving MAUI & Xamarin Code Quality with Pre Git Commit Linting**",
+              "url_domain": "medium.com",
+              "url": "https://prototypemakers.medium.com/improving-maui-xamarin-code-quality-with-pre-git-commit-linting-e3e24ce585d9"
+            },
+            {
+              "identifier": "qo7myMa",
+              "title": "Saamer Mansoor",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/saamerm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "xamarinforms",
+      "name": "XAMARIN FORMS",
+      "items": [
+        {
+          "identifier": "wxB2VyP",
+          "type": "Link",
+          "title": "Lazy Load JSON Data in Xamarin.Forms ListView: An Overview",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/lazy-load-json-data-in-xamarin-forms-listview-an-overview.aspx",
+          "description": "<p>This blog teaches you how to show a fixed amount of JSON data on initial loading (lazy load) and show a busy indicator while loading the remaining data on scrolling in the Xamarin.Forms ListView.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/lazy-load-json-data-in-xamarin-forms-listview-an-overview.aspx\"><strong>Lazy Load JSON Data in Xamarin.Forms ListView: An Overview</strong></a> by <a href=\"\">Jayaleshwari N</a></p>",
+          "description_markdown": "This blog teaches you how to show a fixed amount of JSON data on initial loading (lazy load) and show a busy indicator while loading the remaining data on scrolling in the Xamarin.Forms ListView.\r\n\r\n[**Lazy Load JSON Data in Xamarin.Forms ListView: An Overview**](https://www.syncfusion.com/blogs/post/lazy-load-json-data-in-xamarin-forms-listview-an-overview.aspx) by [Jayaleshwari N]()",
+          "embedded_links": [
+            {
+              "identifier": "hTlyNKD",
+              "title": "**Lazy Load JSON Data in Xamarin.Forms ListView: An Overview**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/lazy-load-json-data-in-xamarin-forms-listview-an-overview.aspx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "SeCBZe9",
+          "type": "Link",
+          "title": "Playing audio in .NET MAUI applications",
+          "url_domain": "bijington.com",
+          "url": "https://blog.bijington.com/2022/08/23/playing-audio-in-dotnet-maui.html",
+          "description": "<p>This post covers how we can add the ability to play audio files in our .NET MAUI applications.</p>\n\n<p><a href=\"https://blog.bijington.com/2022/08/23/playing-audio-in-dotnet-maui.html\"><strong>Playing audio in .NET MAUI applications</strong></a> by <a href=\"https://twitter.com/bijington\">Shaun Lawrence</a></p>",
+          "description_markdown": "This post covers how we can add the ability to play audio files in our .NET MAUI applications.\r\n\r\n[**Playing audio in .NET MAUI applications**](https://blog.bijington.com/2022/08/23/playing-audio-in-dotnet-maui.html) by [Shaun Lawrence](https://twitter.com/bijington)",
+          "embedded_links": [
+            {
+              "identifier": "7Z3kxCT",
+              "title": "**Playing audio in .NET MAUI applications**",
+              "url_domain": "bijington.com",
+              "url": "https://blog.bijington.com/2022/08/23/playing-audio-in-dotnet-maui.html"
+            },
+            {
+              "identifier": "kKkR44t",
+              "title": "Shaun Lawrence",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/bijington"
+            }
+          ]
+        },
+        {
+          "identifier": "qfJJeM8",
+          "type": "Link",
+          "title": "Controlling your Sonos speaker with .NET MAUI",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/controlling-your-sonos-speaker-with-net-maui/",
+          "description": "<p>This post shows you how you can control your local Sonos speakers using a .NET MAUI application.… Why? Because you can.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/controlling-your-sonos-speaker-with-net-maui/\"><strong>Controlling your Sonos speaker with .NET MAUI - Andreas Nesheim</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "This post shows you how you can control your local Sonos speakers using a .NET MAUI application.… Why? Because you can.\r\n\r\n[**Controlling your Sonos speaker with .NET MAUI - Andreas Nesheim**](https://www.andreasnesheim.no/controlling-your-sonos-speaker-with-net-maui/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "gWeSlAk",
+              "title": "**Controlling your Sonos speaker with .NET MAUI - Andreas Nesheim**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/controlling-your-sonos-speaker-with-net-maui/"
+            },
+            {
+              "identifier": "JqBO68C",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "9jOr2fG",
+          "type": "Link",
+          "title": "Capturing screenshots in .NET MAUI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/capturing-screenshots-in-net-maui/",
+          "description": "<p>Learn how to implement taking screenshots in your MAUI App.</p>\n\n<p><a href=\"https://askxammy.com/capturing-screenshots-in-net-maui/\"><strong>Capturing screenshots in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "Learn how to implement taking screenshots in your MAUI App.\r\n\r\n[**Capturing screenshots in .NET MAUI**](https://askxammy.com/capturing-screenshots-in-net-maui/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "pLYmjse",
+              "title": "**Capturing screenshots in .NET MAUI**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/capturing-screenshots-in-net-maui/"
+            },
+            {
+              "identifier": "Gwe776Z",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "Itc78zr",
+          "type": "Link",
+          "title": ".NET Conf 2022 Focus on MAUI Recap",
+          "url_domain": "intelliabb.com",
+          "url": "https://intelliabb.com/2022/08/24/net-conf-2022-focus-on-maui-recap/",
+          "description": "<p>If you are still catching up with the .NET Conf focus on MAUI recordings, maybe this blog post will help you out as it gives you a rundown of some of Hussain's favorite sessions</p>\n\n<p><a href=\"https://intelliabb.com/2022/08/24/net-conf-2022-focus-on-maui-recap/\"><strong>.NET Conf 2022 Focus on MAUI Recap</strong></a> by <a href=\"https://twitter.com/HussainNAbbasi\">Hussain Abbasi</a></p>",
+          "description_markdown": "If you are still catching up with the .NET Conf focus on MAUI recordings, maybe this blog post will help you out as it gives you a rundown of some of Hussain's favorite sessions\r\n\r\n[**.NET Conf 2022 Focus on MAUI Recap**](https://intelliabb.com/2022/08/24/net-conf-2022-focus-on-maui-recap/) by [Hussain Abbasi](https://twitter.com/HussainNAbbasi)",
+          "embedded_links": [
+            {
+              "identifier": "Bq3P3O6",
+              "title": "**.NET Conf 2022 Focus on MAUI Recap**",
+              "url_domain": "intelliabb.com",
+              "url": "https://intelliabb.com/2022/08/24/net-conf-2022-focus-on-maui-recap/"
+            },
+            {
+              "identifier": "3vYYA88",
+              "title": "Hussain Abbasi",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/HussainNAbbasi"
+            }
+          ]
+        },
+        {
+          "identifier": "I0DKXTB",
+          "type": "Link",
+          "title": "Roundup of .NET MAUI. - Week of August 15, 2022",
+          "url_domain": "dev.to",
+          "url": "https://dev.to/davidortinau/roundup-of-net-maui-week-of-august-15-2022-48df",
+          "description": "<p>David rounds up the MAUI libraries and videos for the week</p>\n\n<p><a href=\"https://dev.to/davidortinau/roundup-of-net-maui-week-of-august-15-2022-48df\"><strong>Roundup of .NET MAUI. - Week of August 15, 2022</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": "David rounds up the MAUI libraries and videos for the week\r\n\r\n[**Roundup of .NET MAUI. - Week of August 15, 2022**](https://dev.to/davidortinau/roundup-of-net-maui-week-of-august-15-2022-48df) by [David Ortinau](https://twitter.com/davidortinau)",
+          "embedded_links": [
+            {
+              "identifier": "tS9KnmC",
+              "title": "**Roundup of .NET MAUI. - Week of August 15, 2022**",
+              "url_domain": "dev.to",
+              "url": "https://dev.to/davidortinau/roundup-of-net-maui-week-of-august-15-2022-48df"
+            },
+            {
+              "identifier": "qNYxmCd",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "nuget",
+      "name": "NUGET OF THE WEEK",
+      "items": [
+        {
+          "identifier": "OxHZe11",
+          "type": "Link",
+          "title": "Say hello to Maui.ColorPicker",
+          "url_domain": "johnnys.news",
+          "url": "https://johnnys.news/2022/08/say-hello-to-Maui-ColorPicker",
+          "description": "<p>Maui.ColorPicker is the evolution of XFColorPickerControl - a SkiaSharp powered color picker for .NET MAUI.</p>\n\n<p><a href=\"https://johnnys.news/2022/08/say-hello-to-Maui-ColorPicker\"><strong>say hello to Maui.ColorPicker</strong></a> by <a href=\"https://twitter.com/johnny_leo\">Joachim Leonfellner</a></p>",
+          "description_markdown": "Maui.ColorPicker is the evolution of XFColorPickerControl - a SkiaSharp powered color picker for .NET MAUI. \r\n\r\n[**say hello to Maui.ColorPicker**](https://johnnys.news/2022/08/say-hello-to-Maui-ColorPicker) by [Joachim Leonfellner](https://twitter.com/johnny_leo)",
+          "embedded_links": [
+            {
+              "identifier": "OtkRct4",
+              "title": "**say hello to Maui.ColorPicker**",
+              "url_domain": "johnnys.news",
+              "url": "https://johnnys.news/2022/08/say-hello-to-Maui-ColorPicker"
+            },
+            {
+              "identifier": "ilpZyCS",
+              "title": "Joachim Leonfellner",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/johnny_leo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "ngxP5nt",
+          "type": "Link",
+          "title": "Creating Device-Specific Views in .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=7oVrdUELuYA",
+          "description": "<p>In this tutorial, we will see how we can implement device specific views for mobile and desktop using #dotnetmaui.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=7oVrdUELuYA\"><strong>Creating Device-Specific Views in .NET MAUI</strong></a> by <a href=\"https://twitter.com/xgeno\">Naweed Akram</a></p>",
+          "description_markdown": "In this tutorial, we will see how we can implement device specific views for mobile and desktop using #dotnetmaui.\r\n\r\n[**Creating Device-Specific Views in .NET MAUI**](https://www.youtube.com/watch?v=7oVrdUELuYA) by [Naweed Akram](https://twitter.com/xgeno)",
+          "embedded_links": [
+            {
+              "identifier": "sOq99nf",
+              "title": "**Creating Device-Specific Views in .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=7oVrdUELuYA"
+            },
+            {
+              "identifier": "dXGapPQ",
+              "title": "Naweed Akram",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/xgeno"
+            }
+          ]
+        },
+        {
+          "identifier": "fe3jKIJ",
+          "type": "Link",
+          "title": "Welcome to .NET MAUI (Multi-platform App UI) | #SamosaChai.NET",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=xZwNFB4hx5s",
+          "description": "<p>Somosa Chai.Net presentation with Nish Anil and James Montemagno with a welcome to MAUI - Covers Hybrid Blazor as well</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=xZwNFB4hx5s\"><strong>Welcome to .NET MAUI (Multi-platform App UI) | #SamosaChai.NET</strong></a> by <a href=\"\">Microsoft Developer</a></p>",
+          "description_markdown": "Somosa Chai.Net presentation with Nish Anil and James Montemagno with a welcome to MAUI - Covers Hybrid Blazor as well\r\n\r\n[**Welcome to .NET MAUI (Multi-platform App UI) | #SamosaChai.NET**](https://www.youtube.com/watch?v=xZwNFB4hx5s) by [Microsoft Developer]()",
+          "embedded_links": [
+            {
+              "identifier": "EnPE0Kv",
+              "title": "**Welcome to .NET MAUI (Multi-platform App UI) | #SamosaChai.NET**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=xZwNFB4hx5s"
+            }
+          ]
+        },
+        {
+          "identifier": "L81bw9x",
+          "type": "Link",
+          "title": "Surfing App | .NET MAUI UI Challenge",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=_0hrgVV4C2I",
+          "description": "<p>Surfing App UI Challenge made with .NET MAUI.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=_0hrgVV4C2I\"><strong>Surfing App | .NET MAUI UI Challenge</strong></a> by <a href=\"https://twitter.com/jsuarezruiz\">Javier Suárez</a></p>",
+          "description_markdown": "Surfing App UI Challenge made with .NET MAUI.\r\n\r\n[**Surfing App | .NET MAUI UI Challenge**](https://www.youtube.com/watch?v=_0hrgVV4C2I) by [Javier Suárez](https://twitter.com/jsuarezruiz)",
+          "embedded_links": [
+            {
+              "identifier": "ogMiBQ3",
+              "title": "**Surfing App | .NET MAUI UI Challenge**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=_0hrgVV4C2I"
+            },
+            {
+              "identifier": "eWZCz96",
+              "title": "Javier Suárez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jsuarezruiz"
+            }
+          ]
+        },
+        {
+          "identifier": "lBOGpgr",
+          "type": "Link",
+          "title": "Beyond Monkey: Building Real-world .Net MAUI Apps",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=v3RsMQJKdmo",
+          "description": "<p>Make sure to check out this video course by Naweed - This is Part 1 of the course \"Building Real-World Mobile Applications using .NET MAUI\", where you learn to create complex and practical apps using #dotnetmaui.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=v3RsMQJKdmo\"><strong>Beyond Monkey: Building Real-world .Net MAUI Apps</strong></a> by <a href=\"https://twitter.com/xgeno\">Naweed Akram</a></p>",
+          "description_markdown": "Make sure to check out this video course by Naweed - This is Part 1 of the course \"Building Real-World Mobile Applications using .NET MAUI\", where you learn to create complex and practical apps using #dotnetmaui.\r\n\r\n[**Beyond Monkey: Building Real-world .Net MAUI Apps**](https://www.youtube.com/watch?v=v3RsMQJKdmo) by [Naweed Akram](https://twitter.com/xgeno)",
+          "embedded_links": [
+            {
+              "identifier": "bPN5PFn",
+              "title": "**Beyond Monkey: Building Real-world .Net MAUI Apps**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=v3RsMQJKdmo"
+            },
+            {
+              "identifier": "WxyRdGA",
+              "title": "Naweed Akram",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/xgeno"
+            }
+          ]
+        },
+        {
+          "identifier": "fqYkUcJ",
+          "type": "Link",
+          "title": "Pub/Sub++ for .NET Apps with MediatR (Request AND Response)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=q0X8RwhMNK4",
+          "description": "<p>This video covers a library called MediatR which supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=q0X8RwhMNK4\"><strong>Pub/Sub++ for .NET Apps with MediatR (Request AND Response)</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "This video covers a library called MediatR which supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.\r\n\r\n\r\n[**Pub/Sub++ for .NET Apps with MediatR (Request AND Response)**](https://www.youtube.com/watch?v=q0X8RwhMNK4) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "r6rrT2L",
+              "title": "**Pub/Sub++ for .NET Apps with MediatR (Request AND Response)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=q0X8RwhMNK4"
+            },
+            {
+              "identifier": "FCE11VL",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "xruFNnv",
+          "type": "Link",
+          "title": "Generate Barcodes in 2 Lines of Code with .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=p4BRsdMc7OA",
+          "description": "<p>Generating barcodes has never been easier than with the ZXing.Net.Maui library! With just 2 lines of code you can generate QR codes and barcodes in all kinds of formats. Watch the video to learn how.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=p4BRsdMc7OA\"><strong>Generate Barcodes in 2 Lines of Code with .NET MAUI</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Generating barcodes has never been easier than with the ZXing.Net.Maui library! With just 2 lines of code you can generate QR codes and barcodes in all kinds of formats. Watch the video to learn how.\r\n\r\n[**Generate Barcodes in 2 Lines of Code with .NET MAUI**](https://www.youtube.com/watch?v=p4BRsdMc7OA) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "S4H8IDI",
+              "title": "**Generate Barcodes in 2 Lines of Code with .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=p4BRsdMc7OA"
+            },
+            {
+              "identifier": "YgfYfG0",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

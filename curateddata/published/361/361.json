@@ -1,0 +1,488 @@
+{
+  "number": 361,
+  "title": "Issue 361",
+  "summary": "Never been a better time to learn DotNet MAUI",
+  "url": "https://weeklyxamarin.com/issues/361",
+  "publication_status": "published",
+  "published_at": "2022-09-11T13:02:48+01:00",
+  "updated_at": "2022-09-11T13:02:54+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #361 of Weekly Xamarin - a wrap-up of this week's Xamarin and DotNet MAUI community news and articles.</p>\n\n<p>This week there are loads of introductory articles and videos for those getting started with MAUI, so if you haven't already dived in, it's probably a good time to dip your toes.</p>\n\n<p>Have a fantastic week,</p>\n\n<p>Kym</p>",
+          "description_markdown": "G'day everyone, welcome to issue #361 of Weekly Xamarin - a wrap-up of this week's Xamarin and DotNet MAUI community news and articles.\r\n\r\nThis week there are loads of introductory articles and videos for those getting started with MAUI, so if you haven't already dived in, it's probably a good time to dip your toes.\r\n\r\nHave a fantastic week,\r\n\r\nKym",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "Zcv2KRq",
+          "type": "Link",
+          "title": ".NET MAUI Cloud Skills Challenge - Learn .NET MAUI, Get Stickers!",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-cloud-skills-challenge/",
+          "description": "<p>Learn how to build multi-platform apps with .NET MAUI with Cloud Skills Challenge, register now, complete modules, and get some stickers!</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/dotnet-maui-cloud-skills-challenge/\"><strong>.NET MAUI Cloud Skills Challenge - Learn .NET MAUI, Get Stickers!</strong></a> by <a href=\"https://devblogs.microsoft.com/xamarin/author/matt-soucoup/\">Matt Soucoup</a></p>",
+          "description_markdown": "Learn how to build multi-platform apps with .NET MAUI with Cloud Skills Challenge, register now, complete modules, and get some stickers!\r\n\r\n[**.NET MAUI Cloud Skills Challenge - Learn .NET MAUI, Get Stickers!**](https://devblogs.microsoft.com/dotnet/dotnet-maui-cloud-skills-challenge/) by [Matt Soucoup](https://devblogs.microsoft.com/xamarin/author/matt-soucoup/)",
+          "embedded_links": [
+            {
+              "identifier": "6OMAo9P",
+              "title": "**.NET MAUI Cloud Skills Challenge - Learn .NET MAUI, Get Stickers!**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-cloud-skills-challenge/"
+            },
+            {
+              "identifier": "QsjpEkc",
+              "title": "Matt Soucoup",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/xamarin/author/matt-soucoup/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "NsGyCQc",
+          "type": "Link",
+          "title": "Creating Engaging Mobile App Design",
+          "url_domain": "uxpin.com",
+          "url": "https://www.uxpin.com/studio/blog/app-design-guide/",
+          "description": "<p>Tips on creating an engaging app design that will make your users fall in love with the experience you offer.</p>\n\n<p><a href=\"https://www.uxpin.com/studio/blog/app-design-guide/\"><strong>Creating Engaging Mobile App Design – All You Need to Know</strong></a> by <a href=\"https://www.uxpin.com/\">UXPin</a></p>",
+          "description_markdown": "Tips on creating an engaging app design that will make your users fall in love with the experience you offer.\r\n\r\n[**Creating Engaging Mobile App Design – All You Need to Know**](https://www.uxpin.com/studio/blog/app-design-guide/) by [UXPin](https://www.uxpin.com/)",
+          "embedded_links": [
+            {
+              "identifier": "rJIWoAf",
+              "title": "**Creating Engaging Mobile App Design – All You Need to Know**",
+              "url_domain": "uxpin.com",
+              "url": "https://www.uxpin.com/studio/blog/app-design-guide/"
+            },
+            {
+              "identifier": "5Qq98en",
+              "title": "UXPin",
+              "url_domain": "uxpin.com",
+              "url": "https://www.uxpin.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ios",
+      "name": "IOS",
+      "items": [
+        {
+          "identifier": "fv63QXx",
+          "type": "Link",
+          "title": "Looping iOS Remote Simulator Connection Issue with .NET MAUI",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/maui/looping-ios-remote-simulator-connection-issue-with-net-maui/",
+          "description": "<p>Having issues with the iOS Remote Simulator on Visual Studio? It's looping the connection status but never connects? Check this!</p>\n\n<p><a href=\"https://blog.verslu.is/maui/looping-ios-remote-simulator-connection-issue-with-net-maui/\"><strong>Looping iOS Remote Simulator Connection Issue with .NET MAUI</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Having issues with the iOS Remote Simulator on Visual Studio? It's looping the connection status but never connects? Check this!\r\n\r\n[**Looping iOS Remote Simulator Connection Issue with .NET MAUI**](https://blog.verslu.is/maui/looping-ios-remote-simulator-connection-issue-with-net-maui/) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "j4qB2IM",
+              "title": "**Looping iOS Remote Simulator Connection Issue with .NET MAUI**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/maui/looping-ios-remote-simulator-connection-issue-with-net-maui/"
+            },
+            {
+              "identifier": "bcnVHO5",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "YOVfhGD",
+          "type": "Link",
+          "title": "Learn Animation in .NET MAUI: Part 1",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/learn-performing-animation-in-net-maui-part-1.aspx",
+          "description": "<p>This blog posts looks into Animations within MUAI</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/learn-performing-animation-in-net-maui-part-1.aspx\"><strong>Learn Performing Animation in .NET MAUI: Part 1</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "This blog posts looks into Animations within MUAI\r\n\r\n[**Learn Performing Animation in .NET MAUI: Part 1**](https://www.syncfusion.com/blogs/post/learn-performing-animation-in-net-maui-part-1.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)",
+          "embedded_links": [
+            {
+              "identifier": "8ZKl65K",
+              "title": "**Learn Performing Animation in .NET MAUI: Part 1**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/learn-performing-animation-in-net-maui-part-1.aspx"
+            },
+            {
+              "identifier": "4IyRPdN",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        },
+        {
+          "identifier": "D6AUtx9",
+          "type": "Link",
+          "title": "Creating a Spinner Popup for .NET MAUI",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/creating-a-spinner-popup-for-net-maui/",
+          "description": "<p>Andreas looks into creating a spinner popup using the .NET MAUI Community Toolkit</p>\n\n<p><a href=\"https://www.andreasnesheim.no/creating-a-spinner-popup-for-net-maui/\"><strong>Creating a Spinner Popup for .NET MAUI</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "Andreas looks into creating a spinner popup using the .NET MAUI Community Toolkit\r\n\r\n[**Creating a Spinner Popup for .NET MAUI**](https://www.andreasnesheim.no/creating-a-spinner-popup-for-net-maui/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "yrXYBwB",
+              "title": "**Creating a Spinner Popup for .NET MAUI**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/creating-a-spinner-popup-for-net-maui/"
+            },
+            {
+              "identifier": "iynyoZB",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "JpVnEs9",
+          "type": "Link",
+          "title": ".NET MAUI Windows Unpackaged Apps",
+          "url_domain": "verslu.is",
+          "url": "https://blog.verslu.is/maui/dotnet-maui-windows-unpackaged-apps/",
+          "description": "<p>Want to learn how to distribute your .NET MAUI Windows app as an unpackaged app? AKA no MSIX? Just an exe? This post is for you!</p>\n\n<p><a href=\"https://blog.verslu.is/maui/dotnet-maui-windows-unpackaged-apps/\"><strong>.NET MAUI Windows Unpackaged Apps</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Want to learn how to distribute your .NET MAUI Windows app as an unpackaged app? AKA no MSIX? Just an exe? This post is for you!\r\n\r\n[**.NET MAUI Windows Unpackaged Apps**](https://blog.verslu.is/maui/dotnet-maui-windows-unpackaged-apps/) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "p97pjU7",
+              "title": "**.NET MAUI Windows Unpackaged Apps**",
+              "url_domain": "verslu.is",
+              "url": "https://blog.verslu.is/maui/dotnet-maui-windows-unpackaged-apps/"
+            },
+            {
+              "identifier": "oS7RCFo",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "t5VtXd4",
+          "type": "Link",
+          "title": "Sharing Code with Blazor & .NET MAUI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sharing-code-blazor-dotnet-maui",
+          "description": "<p>Shared Blazor components can power UI across web &amp; native apps, thanks to .NET MAUI.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sharing-code-blazor-dotnet-maui\"><strong>Sharing Code with Blazor &amp; .NET MAUI</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Shared Blazor components can power UI across web & native apps, thanks to .NET MAUI.\r\n\r\n[**Sharing Code with Blazor & .NET MAUI**](https://www.telerik.com/blogs/sharing-code-blazor-dotnet-maui) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "JWBNRZ0",
+              "title": "**Sharing Code with Blazor & .NET MAUI**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sharing-code-blazor-dotnet-maui"
+            },
+            {
+              "identifier": "zSYgs3g",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "GyCf6eH",
+          "type": "Link",
+          "title": "Learning To Use Menu Bar in .NET MAUI",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/learning-use-menu-bar-dotnet-maui",
+          "description": "<p>An investigation into how to use one of the primary tools for any app—a menu bar!</p>\n\n<p><a href=\"https://www.telerik.com/blogs/learning-use-menu-bar-dotnet-maui\"><strong>Learning To Use Menu Bar in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "An investigation into how to use one of the primary tools for any app—a menu bar!\r\n\r\n[**Learning To Use Menu Bar in .NET MAUI**](https://www.telerik.com/blogs/learning-use-menu-bar-dotnet-maui) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "LtmjPPw",
+              "title": "**Learning To Use Menu Bar in .NET MAUI**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/learning-use-menu-bar-dotnet-maui"
+            },
+            {
+              "identifier": "tWxe76y",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "RnGQtGe",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #71",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-71",
+          "description": "<p>Sam Basu provides a summary of the week in MAUI news</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-71\"><strong>Sands of MAUI: Issue #71</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam Basu provides a summary of the week in MAUI news\r\n\r\n[**Sands of MAUI: Issue #71**](https://www.telerik.com/blogs/sands-maui-issue-71) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "WaeYVjs",
+              "title": "**Sands of MAUI: Issue #71**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-71"
+            },
+            {
+              "identifier": "fi4xYkw",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "gRS0Jwg",
+          "type": "Link",
+          "title": "Learn Live - Create a cross-platform app with .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Z7V2DfT9KW4",
+          "description": "<p>Join James Montemagno and Matt Soucoup for this Learn Live session where you will learn how to use Visual Studio with .NET MAUI to create a cross-platform app.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Z7V2DfT9KW4\"><strong>Create a cross-platform app with .NET MAUI</strong></a> by <a href=\"https://www.youtube.com/c/MicrosoftDeveloper\">Microsoft Developer</a></p>",
+          "description_markdown": "Join James Montemagno and Matt Soucoup for this Learn Live session where you will learn how to use Visual Studio with .NET MAUI to create a cross-platform app.\r\n\r\n[**Create a cross-platform app with .NET MAUI**](https://www.youtube.com/watch?v=Z7V2DfT9KW4) by [Microsoft Developer](https://www.youtube.com/c/MicrosoftDeveloper)",
+          "embedded_links": [
+            {
+              "identifier": "QJB3sbR",
+              "title": "**Create a cross-platform app with .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Z7V2DfT9KW4"
+            },
+            {
+              "identifier": "lhLievl",
+              "title": "Microsoft Developer",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/c/MicrosoftDeveloper"
+            }
+          ]
+        },
+        {
+          "identifier": "voXSJ7P",
+          "type": "Link",
+          "title": "Visual Studio Live! - Native Cross-Platform Mobile & Desktop Apps with .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=X0M9t8o_ezQ",
+          "description": "<p>Join James Montemagno to get a first look of .NET MAUI in .NET 6 and learn how you can start using it today to build native apps with C# for iOS, Android, macOS, and Windows. James will break down every part of .NET MAUI that you need to know about and how you can leverage your existing C# and .NET skills, libraries, and tools to build awesome apps.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=X0M9t8o_ezQ\"><strong>Visual Studio Live! - Native Cross-Platform Mobile &amp; Desktop Apps with .NET MAUI</strong></a> by <a href=\"\">Microsoft Developer</a></p>",
+          "description_markdown": "Join James Montemagno to get a first look of .NET MAUI in .NET 6 and learn how you can start using it today to build native apps with C# for iOS, Android, macOS, and Windows. James will break down every part of .NET MAUI that you need to know about and how you can leverage your existing C# and .NET skills, libraries, and tools to build awesome apps.\r\n\r\n[**Visual Studio Live! - Native Cross-Platform Mobile & Desktop Apps with .NET MAUI**](https://www.youtube.com/watch?v=X0M9t8o_ezQ) by [Microsoft Developer]()",
+          "embedded_links": [
+            {
+              "identifier": "o5lpNI1",
+              "title": "**Visual Studio Live! - Native Cross-Platform Mobile & Desktop Apps with .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=X0M9t8o_ezQ"
+            }
+          ]
+        },
+        {
+          "identifier": "Hqc16Tq",
+          "type": "Link",
+          "title": ".NET MAUI & Blazor - Sharing code between app and web",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=A_C8X-b2qXE",
+          "description": "<p>In this video, Daniel will show you how to create a project for .NET MAUI and Blazor and how to structure the code so it can be shared between the app and the web.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=A_C8X-b2qXE\"><strong>.NET MAUI &amp; Blazor - Sharing code between app and web</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "In this video, Daniel will show you how to create a project for .NET MAUI and Blazor and how to structure the code so it can be shared between the app and the web.\r\n\r\n[**.NET MAUI & Blazor - Sharing code between app and web**](https://www.youtube.com/watch?v=A_C8X-b2qXE) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "wykUMHk",
+              "title": "**.NET MAUI & Blazor - Sharing code between app and web**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=A_C8X-b2qXE"
+            },
+            {
+              "identifier": "Fiz7lyF",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        },
+        {
+          "identifier": "BennuP1",
+          "type": "Link",
+          "title": "Build a .NET MAUI app from \"file, new project\"",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=SAhZCCQ052I",
+          "description": "<p>In this live stream, Daniel Hindrikes will build a .NET MAUI from scratch.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=SAhZCCQ052I\"><strong>Build a .NET MAUI app from \"file, new project\"</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "In this live stream, Daniel Hindrikes will build a .NET MAUI from scratch.\r\n\r\n[**Build a .NET MAUI app from \"file, new project\"**](https://www.youtube.com/watch?v=SAhZCCQ052I) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "xiONc8K",
+              "title": "**Build a .NET MAUI app from \"file, new project\"**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=SAhZCCQ052I"
+            },
+            {
+              "identifier": "lpCFCA",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        },
+        {
+          "identifier": "MeUPOnK",
+          "type": "Link",
+          "title": "Play Sound in .NET MAUI with Plugin.Maui.Audio",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=oIYnEuZ9oew",
+          "description": "<p>If you need to play a small sound effect or just a song this plugin is for you! With Plugin.Maui.Audio it's very easy to just add one or multiple sounds to your application. Ideal for your audio feedback whenever the user taps on something or maybe you're building a game PEW PEW!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=oIYnEuZ9oew\"><strong>Play Sound in .NET MAUI with Plugin.Maui.Audio</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "If you need to play a small sound effect or just a song this plugin is for you! With Plugin.Maui.Audio it's very easy to just add one or multiple sounds to your application. Ideal for your audio feedback whenever the user taps on something or maybe you're building a game PEW PEW!\r\n\r\n[**Play Sound in .NET MAUI with Plugin.Maui.Audio**](https://www.youtube.com/watch?v=oIYnEuZ9oew) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "QokaQi4",
+              "title": "**Play Sound in .NET MAUI with Plugin.Maui.Audio**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=oIYnEuZ9oew"
+            },
+            {
+              "identifier": "z8QXFq7",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "E1OiVTF",
+          "type": "Link",
+          "title": "Merge Conflict: 322: Making Money with Subscriptions",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/322",
+          "description": "<p>Subscriptions, love them or hate them, here is how you can make some money with them.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/322\"><strong>Merge Conflict: 322: Making Money with Subscriptions</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "Subscriptions, love them or hate them, here is how you can make some money with them.\r\n\r\n[**Merge Conflict: 322: Making Money with Subscriptions**](https://www.mergeconflict.fm/322) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "5YIFCT4",
+              "title": "**Merge Conflict: 322: Making Money with Subscriptions**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/322"
+            },
+            {
+              "identifier": "O4BmZCc",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        },
+        {
+          "identifier": "s0e5jGD",
+          "type": "Link",
+          "title": ".NET MAUI Maps: A First Look - Pins, Polygons and more!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=pjPou4xKrQo",
+          "description": "<p>It's finally here! .NET MAUI Maps is making its way into the .NET MAUI codebase so let's have a first look at what it can do. Can you keep a secret? I will also tell you how to get hold of the first bits to try .NET MAUI Maps out yourself... Today!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=pjPou4xKrQo\"><strong>.NET MAUI Maps: A First Look - Pins, Polygons and more!</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "It's finally here! .NET MAUI Maps is making its way into the .NET MAUI codebase so let's have a first look at what it can do. Can you keep a secret? I will also tell you how to get hold of the first bits to try .NET MAUI Maps out yourself... Today!\r\n\r\n[**.NET MAUI Maps: A First Look - Pins, Polygons and more!**](https://www.youtube.com/watch?v=pjPou4xKrQo) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "rZ11Dq6",
+              "title": "**.NET MAUI Maps: A First Look - Pins, Polygons and more!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=pjPou4xKrQo"
+            },
+            {
+              "identifier": "8WgSw4z",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "7esP38W",
+          "type": "Link",
+          "title": ".NET MAUI Tutorial for Beginners",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=rumfIg9qJ_Y",
+          "description": "<p>Let's start our journey together to build beautiful native multi-platform apps with .NET MAUI, C#, .NET, and Visual Studio! In this video I am going to guide you through the entire process and describe everything that is in File - New Project for .NET MAUI to build apps for iOS, Android, macOS, and Windows. We will explore what .NET MAUI is, how it works, what you need to get started, how to deploy and debug, navigate, style your app, and so much more.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=rumfIg9qJ_Y\"><strong>.NET MAUI Tutorial for Beginners</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Let's start our journey together to build beautiful native multi-platform apps with .NET MAUI, C#, .NET, and Visual Studio! In this video I am going to guide you through the entire process and describe everything that is in File - New Project for .NET MAUI to build apps for iOS, Android, macOS, and Windows. We will explore what .NET MAUI is, how it works, what you need to get started, how to deploy and debug, navigate, style your app, and so much more.\r\n\r\n[**.NET MAUI Tutorial for Beginners**](https://www.youtube.com/watch?v=rumfIg9qJ_Y) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "zNvnPlF",
+              "title": "**.NET MAUI Tutorial for Beginners**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=rumfIg9qJ_Y"
+            },
+            {
+              "identifier": "ai5Hn9l",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "J3PENwe",
+          "type": "Link",
+          "title": "Let's Build a Conference App with .NET MAUI Live!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=SAcv4nGDU_I",
+          "description": "<p>James Montemagno loves building conference apps! He built the Evolve 2014 and Evolve 2016 apps with Xamarin.Forms, but .NET MAUI is here and let's see how fast we can build out a full conference application with agenda, speakers, favorites, sponsors, and more!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=SAcv4nGDU_I\"><strong>Let's Build a Conference App with .NET MAUI Live!</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James Montemagno loves building conference apps! He built the Evolve 2014 and Evolve 2016 apps with Xamarin.Forms, but .NET MAUI is here and let's see how fast we can build out a full conference application with agenda, speakers, favorites, sponsors, and more!\r\n\r\n\r\n[**Let's Build a Conference App with .NET MAUI Live!**](https://www.youtube.com/watch?v=SAcv4nGDU_I) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "vdrdFzh",
+              "title": "**Let's Build a Conference App with .NET MAUI Live!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=SAcv4nGDU_I"
+            },
+            {
+              "identifier": "y6BFEVT",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "63siOA9",
+          "type": "Link",
+          "title": ".NET MAUI Community Toolkit Monthly Standup (September 2022)",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=Jehqf7B8zzQ",
+          "description": "<p>Join in for the discussions about the current happenings in the .NET MAUI Community Toolkit!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=Jehqf7B8zzQ\"><strong>.NET MAUI Community Toolkit Monthly Standup (September 2022)</strong></a> by <a href=\"https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A\">.NET Foundation</a></p>",
+          "description_markdown": "Join in for the discussions about the current happenings in the .NET MAUI Community Toolkit!\r\n\r\n[**.NET MAUI Community Toolkit Monthly Standup (September 2022)**](https://www.youtube.com/watch?v=Jehqf7B8zzQ) by [.NET Foundation](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)",
+          "embedded_links": [
+            {
+              "identifier": "t3Q3pMu",
+              "title": "**.NET MAUI Community Toolkit Monthly Standup (September 2022)**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=Jehqf7B8zzQ"
+            },
+            {
+              "identifier": "ypurvmI",
+              "title": ".NET Foundation",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,6 +2,24 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "361",
+      "Name": "Issue 361",
+      "UpdatedTimeStamp": "2022-09-11T12:02:54Z",
+      "Summary": "Never been a better time to learn DotNet MAUI",
+      "PublishDate": "2022-09-11T12:02:48Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
+      "Id": "360",
+      "Name": "Issue 360",
+      "UpdatedTimeStamp": "2022-08-29T12:03:38Z",
+      "Summary": "More Learning Resources!",
+      "PublishDate": "2022-08-29T12:03:34Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "359",
       "Name": "Issue 359",
       "UpdatedTimeStamp": "2022-08-22T12:51:55Z",

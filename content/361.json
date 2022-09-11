@@ -1,0 +1,181 @@
+{
+  "Id": "361",
+  "Name": "Issue 361",
+  "UpdatedTimeStamp": "2022-09-11T12:02:54Z",
+  "Summary": "Never been a better time to learn DotNet MAUI",
+  "Introduction": "G'day everyone, welcome to issue #361 of Weekly Xamarin - a wrap-up of this week's Xamarin and DotNet MAUI community news and articles. This week there are loads of introductory articles and videos for those getting started with MAUI, so if you haven't already dived in, it's probably a good time to dip your toes. Have a fantastic week, Kym",
+  "PublishDate": "2022-09-11T12:02:48Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": ".NET MAUI Cloud Skills Challenge - Learn .NET MAUI, Get Stickers!",
+      "Url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-cloud-skills-challenge/",
+      "Description": "Learn how to build multi-platform apps with .NET MAUI with Cloud Skills Challenge, register now, complete modules, and get some stickers!",
+      "EditionId": "361",
+      "Author": "Matt Soucoup",
+      "Id": "361-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Creating Engaging Mobile App Design",
+      "Url": "https://www.uxpin.com/studio/blog/app-design-guide/",
+      "Description": "Tips on creating an engaging app design that will make your users fall in love with the experience you offer.",
+      "EditionId": "361",
+      "Author": "UXPin",
+      "Id": "361-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Looping iOS Remote Simulator Connection Issue with .NET MAUI",
+      "Url": "https://blog.verslu.is/maui/looping-ios-remote-simulator-connection-issue-with-net-maui/",
+      "Description": "Having issues with the iOS Remote Simulator on Visual Studio? It's looping the connection status but never connects? Check this!",
+      "EditionId": "361",
+      "Author": "Gerald Versluis",
+      "Id": "361-3",
+      "Category": "IOS"
+    },
+    {
+      "Title": "Learn Animation in .NET MAUI: Part 1",
+      "Url": "https://www.syncfusion.com/blogs/post/learn-performing-animation-in-net-maui-part-1.aspx",
+      "Description": "This blog posts looks into Animations within MUAI",
+      "EditionId": "361",
+      "Author": "Selva Ganapathy Kathiresan",
+      "Id": "361-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Creating a Spinner Popup for .NET MAUI",
+      "Url": "https://www.andreasnesheim.no/creating-a-spinner-popup-for-net-maui/",
+      "Description": "Andreas looks into creating a spinner popup using the .NET MAUI Community Toolkit",
+      "EditionId": "361",
+      "Author": "Andreas Nesheim",
+      "Id": "361-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI Windows Unpackaged Apps",
+      "Url": "https://blog.verslu.is/maui/dotnet-maui-windows-unpackaged-apps/",
+      "Description": "Want to learn how to distribute your .NET MAUI Windows app as an unpackaged app? AKA no MSIX? Just an exe? This post is for you!",
+      "EditionId": "361",
+      "Author": "Gerald Versluis",
+      "Id": "361-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sharing Code with Blazor & .NET MAUI",
+      "Url": "https://www.telerik.com/blogs/sharing-code-blazor-dotnet-maui",
+      "Description": "Shared Blazor components can power UI across web & native apps, thanks to .NET MAUI.",
+      "EditionId": "361",
+      "Author": "Sam Basu",
+      "Id": "361-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Learning To Use Menu Bar in .NET MAUI",
+      "Url": "https://www.telerik.com/blogs/learning-use-menu-bar-dotnet-maui",
+      "Description": "An investigation into how to use one of the primary tools for any app—a menu bar!",
+      "EditionId": "361",
+      "Author": "Leomaris Reyes",
+      "Id": "361-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #71",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-71",
+      "Description": "Sam Basu provides a summary of the week in MAUI news",
+      "EditionId": "361",
+      "Author": "Sam Basu",
+      "Id": "361-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Learn Live - Create a cross-platform app with .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=Z7V2DfT9KW4",
+      "Description": "Join James Montemagno and Matt Soucoup for this Learn Live session where you will learn how to use Visual Studio with .NET MAUI to create a cross-platform app.",
+      "EditionId": "361",
+      "Author": "Microsoft Developer",
+      "Id": "361-10",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Visual Studio Live! - Native Cross-Platform Mobile & Desktop Apps with .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=X0M9t8o_ezQ",
+      "Description": "Join James Montemagno to get a first look of .NET MAUI in .NET 6 and learn how you can start using it today to build native apps with C# for iOS, Android, macOS, and Windows. James will break down every part of .NET MAUI that you need to know about and how you can leverage your existing C# and .NET skills, libraries, and tools to build awesome apps.",
+      "EditionId": "361",
+      "Id": "361-11",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI & Blazor - Sharing code between app and web",
+      "Url": "https://www.youtube.com/watch?v=A_C8X-b2qXE",
+      "Description": "In this video, Daniel will show you how to create a project for .NET MAUI and Blazor and how to structure the code so it can be shared between the app and the web.",
+      "EditionId": "361",
+      "Author": "Daniel Hindrikes",
+      "Id": "361-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Build a .NET MAUI app from \"file, new project\"",
+      "Url": "https://www.youtube.com/watch?v=SAhZCCQ052I",
+      "Description": "In this live stream, Daniel Hindrikes will build a .NET MAUI from scratch.",
+      "EditionId": "361",
+      "Author": "Daniel Hindrikes",
+      "Id": "361-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Play Sound in .NET MAUI with Plugin.Maui.Audio",
+      "Url": "https://www.youtube.com/watch?v=oIYnEuZ9oew",
+      "Description": "If you need to play a small sound effect or just a song this plugin is for you! With Plugin.Maui.Audio it's very easy to just add one or multiple sounds to your application. Ideal for your audio feedback whenever the user taps on something or maybe you're building a game PEW PEW!",
+      "EditionId": "361",
+      "Author": "Gerald Versluis",
+      "Id": "361-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 322: Making Money with Subscriptions",
+      "Url": "https://www.mergeconflict.fm/322",
+      "Description": "Subscriptions, love them or hate them, here is how you can make some money with them.",
+      "EditionId": "361",
+      "Author": "Merge Conflict",
+      "Id": "361-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Maps: A First Look - Pins, Polygons and more!",
+      "Url": "https://www.youtube.com/watch?v=pjPou4xKrQo",
+      "Description": "It's finally here! .NET MAUI Maps is making its way into the .NET MAUI codebase so let's have a first look at what it can do. Can you keep a secret? I will also tell you how to get hold of the first bits to try .NET MAUI Maps out yourself... Today!",
+      "EditionId": "361",
+      "Author": "Gerald Versluis",
+      "Id": "361-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Tutorial for Beginners",
+      "Url": "https://www.youtube.com/watch?v=rumfIg9qJ_Y",
+      "Description": "Let's start our journey together to build beautiful native multi-platform apps with .NET MAUI, C#, .NET, and Visual Studio! In this video I am going to guide you through the entire process and describe everything that is in File - New Project for .NET MAUI to build apps for iOS, Android, macOS, and Windows. We will explore what .NET MAUI is, how it works, what you need to get started, how to deploy and debug, navigate, style your app, and so much more.",
+      "EditionId": "361",
+      "Author": "James Montemagno",
+      "Id": "361-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Let's Build a Conference App with .NET MAUI Live!",
+      "Url": "https://www.youtube.com/watch?v=SAcv4nGDU_I",
+      "Description": "James Montemagno loves building conference apps! He built the Evolve 2014 and Evolve 2016 apps with Xamarin.Forms, but .NET MAUI is here and let's see how fast we can build out a full conference application with agenda, speakers, favorites, sponsors, and more!",
+      "EditionId": "361",
+      "Author": "James Montemagno",
+      "Id": "361-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI Community Toolkit Monthly Standup (September 2022)",
+      "Url": "https://www.youtube.com/watch?v=Jehqf7B8zzQ",
+      "Description": "Join in for the discussions about the current happenings in the .NET MAUI Community Toolkit!",
+      "EditionId": "361",
+      "Author": ".NET Foundation",
+      "Id": "361-19",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
