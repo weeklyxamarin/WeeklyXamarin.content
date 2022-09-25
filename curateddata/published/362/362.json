@@ -1,0 +1,517 @@
+{
+  "number": 362,
+  "title": "Issue 362",
+  "summary": "MAUI and .NET 7 Preview already... where does the time go?",
+  "url": "https://weeklyxamarin.com/issues/362",
+  "publication_status": "published",
+  "published_at": "2022-09-25T07:13:51+01:00",
+  "updated_at": "2022-09-25T07:13:54+01:00",
+  "categories": [
+    {
+      "code": "kymphillpotts",
+      "name": "KYM PHILLPOTTS",
+      "items": [
+        {
+          "type": "Text",
+          "title": "",
+          "description": "<p>G'day everyone, welcome to issue #362 of Weekly Xamarin - a wrap-up of this week's Xamarin and DotNet MAUI community news and articles.</p>\n\n<p>If you are brave you can now have a look at .NET MAUI in .NET 7 with Visual Studio 2022 Preview. Just be careful and don't update your only environment. Ask me how I know. ;-)</p>\n\n<p>I hope you all have a great week ahead.</p>",
+          "description_markdown": "G'day everyone, welcome to issue #362 of Weekly Xamarin - a wrap-up of this week's Xamarin and DotNet MAUI community news and articles.\r\n\r\nIf you are brave you can now have a look at .NET MAUI in .NET 7 with Visual Studio 2022 Preview. Just be careful and don't update your only environment. Ask me how I know. ;-)\r\n\r\nI hope you all have a great week ahead.",
+          "footer": "<p>Weekly Xamarin</p>",
+          "embedded_links": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "code": "news",
+      "name": "NEWS",
+      "items": [
+        {
+          "identifier": "1ctfw1g",
+          "type": "Link",
+          "title": ".NET MAUI in .NET 7 Release Candidate 1",
+          "url_domain": "microsoft.com",
+          "url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-in-dotnet-7-rc1/",
+          "description": "<p>.NET MAUI is now part of .NET 7 in RC1 with tons of improvements, and a few new features.</p>\n\n<p><a href=\"https://devblogs.microsoft.com/dotnet/dotnet-maui-in-dotnet-7-rc1/\"><strong>.NET MAUI in .NET 7 Release Candidate 1</strong></a> by <a href=\"https://twitter.com/davidortinau\">David Ortinau</a></p>",
+          "description_markdown": ".NET MAUI is now part of .NET 7 in RC1 with tons of improvements, and a few new features.\r\n\r\n[**.NET MAUI in .NET 7 Release Candidate 1**](https://devblogs.microsoft.com/dotnet/dotnet-maui-in-dotnet-7-rc1/) by [David Ortinau](https://twitter.com/davidortinau)",
+          "embedded_links": [
+            {
+              "identifier": "Lxb3R2x",
+              "title": "**.NET MAUI in .NET 7 Release Candidate 1**",
+              "url_domain": "microsoft.com",
+              "url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-in-dotnet-7-rc1/"
+            },
+            {
+              "identifier": "xSswDC1",
+              "title": "David Ortinau",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/davidortinau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design",
+      "name": "DESIGN",
+      "items": [
+        {
+          "identifier": "W7umcKc",
+          "type": "Link",
+          "title": "Figma to MAUI Graphics",
+          "url_domain": "github.com",
+          "url": "https://github.com/jsuarezruiz/figma-to-maui-graphics",
+          "description": "<p>FigmaSharp.Maui.Graphics turns your Figma design into .NET MAUI Graphics code.</p>\n\n<p><a href=\"https://github.com/jsuarezruiz/figma-to-maui-graphics\"><strong>Figma to MAUI Graphics</strong></a> by <a href=\"https://twitter.com/jsuarezruiz\">Javier Suarez</a></p>",
+          "description_markdown": "FigmaSharp.Maui.Graphics turns your Figma design into .NET MAUI Graphics code.\r\n\r\n[**Figma to MAUI Graphics**](https://github.com/jsuarezruiz/figma-to-maui-graphics) by [Javier Suarez](https://twitter.com/jsuarezruiz)",
+          "embedded_links": [
+            {
+              "identifier": "dvTZnj6",
+              "title": "**Figma to MAUI Graphics**",
+              "url_domain": "github.com",
+              "url": "https://github.com/jsuarezruiz/figma-to-maui-graphics"
+            },
+            {
+              "identifier": "GhkVAPl",
+              "title": "Javier Suarez",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jsuarezruiz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "businessandmarketing",
+      "name": "BUSINESS & MARKETING",
+      "items": [
+        {
+          "identifier": "UpmvId6",
+          "type": "Link",
+          "title": "Enabling Users to Manage Subscriptions on iOS/Android",
+          "url_domain": "montemagno.com",
+          "url": "https://montemagno.com/enabling-users-to-manage-subscriptions-on-ios-android/",
+          "description": "<p>Let's take a look at how easy it is to implement a Manage Subscriptions action on iOS/Android to adhere to the new guidelines.</p>\n\n<p><a href=\"https://montemagno.com/enabling-users-to-manage-subscriptions-on-ios-android/\"><strong>Enabling Users to Manage Subscriptions on iOS/Android</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Let's take a look at how easy it is to implement a Manage Subscriptions action on iOS/Android to adhere to the new guidelines.\r\n\r\n[**Enabling Users to Manage Subscriptions on iOS/Android**](https://montemagno.com/enabling-users-to-manage-subscriptions-on-ios-android/) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "uUhZ3kL",
+              "title": "**Enabling Users to Manage Subscriptions on iOS/Android**",
+              "url_domain": "montemagno.com",
+              "url": "https://montemagno.com/enabling-users-to-manage-subscriptions-on-ios-android/"
+            },
+            {
+              "identifier": "LPlbZH1",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "maui",
+      "name": "MAUI",
+      "items": [
+        {
+          "identifier": "wr0zuzH",
+          "type": "Link",
+          "title": "Playing audio with .NET MAUI",
+          "url_domain": "davidbritch.com",
+          "url": "https://www.davidbritch.com/2022/09/playing-audio-with-net-maui.html",
+          "description": "<p>Many apps, whether mobile or desktop, require the ability to play audio. David Britch digs into using audio in your MAUI Apps</p>\n\n<p><a href=\"https://www.davidbritch.com/2022/09/playing-audio-with-net-maui.html\"><strong>Playing audio with .NET MAUI</strong></a> by <a href=\"https://twitter.com/britchdavid\">David Britch</a></p>",
+          "description_markdown": "Many apps, whether mobile or desktop, require the ability to play audio. David Britch digs into using audio in your MAUI Apps\r\n\r\n[**Playing audio with .NET MAUI**](https://www.davidbritch.com/2022/09/playing-audio-with-net-maui.html) by [David Britch](https://twitter.com/britchdavid)",
+          "embedded_links": [
+            {
+              "identifier": "uhSqi1W",
+              "title": "**Playing audio with .NET MAUI**",
+              "url_domain": "davidbritch.com",
+              "url": "https://www.davidbritch.com/2022/09/playing-audio-with-net-maui.html"
+            },
+            {
+              "identifier": "WVWyqNk",
+              "title": "David Britch",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/britchdavid"
+            }
+          ]
+        },
+        {
+          "identifier": "6dS6xIZ",
+          "type": "Link",
+          "title": "Adding Fonts in .NET MAUI",
+          "url_domain": "askxammy.com",
+          "url": "https://askxammy.com/adding-fonts-in-net-maui/",
+          "description": "<p>This blog post will help you get started with using fonts within your MAUI Application</p>\n\n<p><a href=\"https://askxammy.com/adding-fonts-in-net-maui/\"><strong>Adding Fonts in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "This blog post will help you get started with using fonts within your MAUI Application\r\n\r\n[**Adding Fonts in .NET MAUI**](https://askxammy.com/adding-fonts-in-net-maui/) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "7arTVM6",
+              "title": "**Adding Fonts in .NET MAUI**",
+              "url_domain": "askxammy.com",
+              "url": "https://askxammy.com/adding-fonts-in-net-maui/"
+            },
+            {
+              "identifier": "Bnlp95R",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "oVli4Gy",
+          "type": "Link",
+          "title": "Replicating an Immersive UI in .NET MAUI",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/replicating-an-immersive-ui-in-net-maui.aspx",
+          "description": "<p>This blog replicates an immersive UI in .NET MAUI based on this Dribbble design.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/replicating-an-immersive-ui-in-net-maui.aspx\"><strong>Replicating an Immersive UI in .NET MAUI</strong></a> by <a href=\"https://twitter.com/leomarisreyes11\">Leomaris Reyes</a></p>",
+          "description_markdown": "This blog replicates an immersive UI in .NET MAUI based on this Dribbble design. \r\n\r\n[**Replicating an Immersive UI in .NET MAUI**](https://www.syncfusion.com/blogs/post/replicating-an-immersive-ui-in-net-maui.aspx) by [Leomaris Reyes](https://twitter.com/leomarisreyes11)",
+          "embedded_links": [
+            {
+              "identifier": "GhS9NBH",
+              "title": "**Replicating an Immersive UI in .NET MAUI**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/replicating-an-immersive-ui-in-net-maui.aspx"
+            },
+            {
+              "identifier": "vvrAzw8",
+              "title": "Leomaris Reyes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/leomarisreyes11"
+            }
+          ]
+        },
+        {
+          "identifier": "uBwgGOX",
+          "type": "Link",
+          "title": "Syncfusion Avatarview",
+          "url_domain": "syncfusion.com",
+          "url": "https://www.syncfusion.com/blogs/post/create-group-chat-profile-view-in-net-maui-app.aspx",
+          "description": "<p>This blog post digs into the Syncfusion Avatar View, which has some nice features like Group images.</p>\n\n<p><a href=\"https://www.syncfusion.com/blogs/post/create-group-chat-profile-view-in-net-maui-app.aspx\"><strong>Syncfusion Avatarview</strong></a> by <a href=\"https://www.syncfusion.com/blogs/author/selva-ganapathy-k\">Selva Ganapathy Kathiresan</a></p>",
+          "description_markdown": "This blog post digs into the Syncfusion Avatar View, which has some nice features like Group images.\r\n\r\n[**Syncfusion Avatarview**](https://www.syncfusion.com/blogs/post/create-group-chat-profile-view-in-net-maui-app.aspx) by [Selva Ganapathy Kathiresan](https://www.syncfusion.com/blogs/author/selva-ganapathy-k)",
+          "embedded_links": [
+            {
+              "identifier": "UCdyg1g",
+              "title": "**Syncfusion Avatarview**",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/post/create-group-chat-profile-view-in-net-maui-app.aspx"
+            },
+            {
+              "identifier": "uNPIiQv",
+              "title": "Selva Ganapathy Kathiresan",
+              "url_domain": "syncfusion.com",
+              "url": "https://www.syncfusion.com/blogs/author/selva-ganapathy-k"
+            }
+          ]
+        },
+        {
+          "identifier": "de9yaXv",
+          "type": "Link",
+          "title": "Push notifications in .NET MAUI with Firebase",
+          "url_domain": "andreasnesheim.no",
+          "url": "https://www.andreasnesheim.no/push-notifications-in-net-maui-with-firebase/",
+          "description": "<p>This post shows you how you can implement push notifications in your .NET MAUI app using Firebase.</p>\n\n<p><a href=\"https://www.andreasnesheim.no/push-notifications-in-net-maui-with-firebase/\"><strong>Push notifications in .NET MAUI with Firebase</strong></a> by <a href=\"https://twitter.com/andreasnesheim\">Andreas Nesheim</a></p>",
+          "description_markdown": "This post shows you how you can implement push notifications in your .NET MAUI app using Firebase.\r\n\r\n[**Push notifications in .NET MAUI with Firebase**](https://www.andreasnesheim.no/push-notifications-in-net-maui-with-firebase/) by [Andreas Nesheim](https://twitter.com/andreasnesheim)",
+          "embedded_links": [
+            {
+              "identifier": "bHOU25J",
+              "title": "**Push notifications in .NET MAUI with Firebase**",
+              "url_domain": "andreasnesheim.no",
+              "url": "https://www.andreasnesheim.no/push-notifications-in-net-maui-with-firebase/"
+            },
+            {
+              "identifier": "jlfCSPj",
+              "title": "Andreas Nesheim",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/andreasnesheim"
+            }
+          ]
+        },
+        {
+          "identifier": "ghjkpjh",
+          "type": "Link",
+          "title": "Telerik Reporting in .NET MAUI and .NET MAUI Blazor",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/telerik-reporting-conquers-dotnet-maui-blazor",
+          "description": "<p>In this blog post, you will see how to display a Telerik Reporting report into a .NET MAUI and .NET MAUI Blazor app by using the HTML5 Report Viewer and the Blazor Report Viewer.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/telerik-reporting-conquers-dotnet-maui-blazor\"><strong>Telerik Reporting in .NET MAUI and .NET MAUI Blazor</strong></a> by <a href=\"https://twitter.com/Telerik\">Telerik</a></p>",
+          "description_markdown": "In this blog post, you will see how to display a Telerik Reporting report into a .NET MAUI and .NET MAUI Blazor app by using the HTML5 Report Viewer and the Blazor Report Viewer.\r\n\r\n[**Telerik Reporting in .NET MAUI and .NET MAUI Blazor**](https://www.telerik.com/blogs/telerik-reporting-conquers-dotnet-maui-blazor) by [Telerik](https://twitter.com/Telerik)",
+          "embedded_links": [
+            {
+              "identifier": "8XeOhck",
+              "title": "**Telerik Reporting in .NET MAUI and .NET MAUI Blazor**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/telerik-reporting-conquers-dotnet-maui-blazor"
+            },
+            {
+              "identifier": "YbQ43yQ",
+              "title": "Telerik",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/Telerik"
+            }
+          ]
+        },
+        {
+          "identifier": "JvK31Xw",
+          "type": "Link",
+          "title": "Sands of MAUI: Issue #72",
+          "url_domain": "telerik.com",
+          "url": "https://www.telerik.com/blogs/sands-maui-issue-72",
+          "description": "<p>Sam rounds up his favorite links for the week.</p>\n\n<p><a href=\"https://www.telerik.com/blogs/sands-maui-issue-72\"><strong>Sands of MAUI: Issue #72</strong></a> by <a href=\"https://twitter.com/samidip\">Sam Basu</a></p>",
+          "description_markdown": "Sam rounds up his favorite links for the week.\r\n\r\n[**Sands of MAUI: Issue #72**](https://www.telerik.com/blogs/sands-maui-issue-72) by [Sam Basu](https://twitter.com/samidip)",
+          "embedded_links": [
+            {
+              "identifier": "t6e0FMR",
+              "title": "**Sands of MAUI: Issue #72**",
+              "url_domain": "telerik.com",
+              "url": "https://www.telerik.com/blogs/sands-maui-issue-72"
+            },
+            {
+              "identifier": "lrPWToP",
+              "title": "Sam Basu",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/samidip"
+            }
+          ]
+        },
+        {
+          "identifier": "z0z7Hgk",
+          "type": "Link",
+          "title": ".NET MAUI in .NET 7 Fills In Xamarin Gaps",
+          "url_domain": "visualstudiomagazine.com",
+          "url": "https://visualstudiomagazine.com/articles/2022/09/22/net-maui-rc1.aspx",
+          "description": "<p>With the new .NET MAUI in .NET 7 Release Candidate 1, the dev team has continued to polish things up ahead of a November GA debut while at the same time filling in gaps from its predecessor, Xamarin.</p>\n\n<p><a href=\"https://visualstudiomagazine.com/articles/2022/09/22/net-maui-rc1.aspx\"><strong>.NET MAUI in .NET 7 Fills In Xamarin Gaps</strong></a> by <a href=\"https://twitter.com/dramel\">David Ramel</a></p>",
+          "description_markdown": "With the new .NET MAUI in .NET 7 Release Candidate 1, the dev team has continued to polish things up ahead of a November GA debut while at the same time filling in gaps from its predecessor, Xamarin.\r\n\r\n[**.NET MAUI in .NET 7 Fills In Xamarin Gaps**](https://visualstudiomagazine.com/articles/2022/09/22/net-maui-rc1.aspx) by [David Ramel](https://twitter.com/dramel)",
+          "embedded_links": [
+            {
+              "identifier": "DxuoAqP",
+              "title": "**.NET MAUI in .NET 7 Fills In Xamarin Gaps**",
+              "url_domain": "visualstudiomagazine.com",
+              "url": "https://visualstudiomagazine.com/articles/2022/09/22/net-maui-rc1.aspx"
+            },
+            {
+              "identifier": "PAHrM39",
+              "title": "David Ramel",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/dramel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "podcastsandvideos",
+      "name": "PODCASTS & VIDEOS",
+      "items": [
+        {
+          "identifier": "XYprflL",
+          "type": "Link",
+          "title": "Change Status Bar Color for Android and iOS in .NET MAUI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=dWj0PdImH10",
+          "description": "<p>Are you having trouble changing the background color of the status bar in your .NET MAUI app? Watch this video! With the .NET MAUI Community Toolkit you now get the StatusBarBehavior which allows you to change the status bar color in your app very easily and even per page or dynamically!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=dWj0PdImH10\"><strong>Change Status Bar Color for Android and iOS in .NET MAUI</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Are you having trouble changing the background color of the status bar in your .NET MAUI app? Watch this video! With the .NET MAUI Community Toolkit you now get the StatusBarBehavior which allows you to change the status bar color in your app very easily and even per page or dynamically!\r\n\r\n[**Change Status Bar Color for Android and iOS in .NET MAUI**](https://www.youtube.com/watch?v=dWj0PdImH10) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "IzZxhE9",
+              "title": "**Change Status Bar Color for Android and iOS in .NET MAUI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=dWj0PdImH10"
+            },
+            {
+              "identifier": "cBN8ycS",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "yISnjMy",
+          "type": "Link",
+          "title": "How to Install Multiple Versions of Xcode on Your Mac",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=41h0xIKusT0",
+          "description": "<p>Xcodes is a glorious application that solves the age old problem of installing, managing, and settings default versions of Xcode. Sit back for this whirlwind tour of this amazing free tool that you NEED right now!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=41h0xIKusT0\"><strong>How to Install Multiple Versions of Xcode on Your Mac</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Xcodes is a glorious application that solves the age old problem of installing, managing, and settings default versions of Xcode. Sit back for this whirlwind tour of this amazing free tool that you NEED right now!\r\n\r\n[**How to Install Multiple Versions of Xcode on Your Mac**](https://www.youtube.com/watch?v=41h0xIKusT0) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "st4WwWb",
+              "title": "**How to Install Multiple Versions of Xcode on Your Mac**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=41h0xIKusT0"
+            },
+            {
+              "identifier": "I1kTfq1",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "Stn4fe9",
+          "type": "Link",
+          "title": "Create a .NET MAUI App By Clicking?! You Can With Grial Kit!",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=cb4fLkxXFSg",
+          "description": "<p>Have you ever heard about Grial Kit? It's about time you did! This amazing product is loaded with ready to use templates for your .NET MAUI and Xamarin.Forms apps. In this video I will show you how you can click together your app in a web portal, download the code and start building... Prepare to be amazed!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=cb4fLkxXFSg\"><strong>Create a .NET MAUI App By Clicking?! You Can With Grial Kit!</strong></a> by <a href=\"https://twitter.com/jfversluis\">Gerald Versluis</a></p>",
+          "description_markdown": "Have you ever heard about Grial Kit? It's about time you did! This amazing product is loaded with ready to use templates for your .NET MAUI and Xamarin.Forms apps. In this video I will show you how you can click together your app in a web portal, download the code and start building... Prepare to be amazed!\r\n\r\n[**Create a .NET MAUI App By Clicking?! You Can With Grial Kit!**](https://www.youtube.com/watch?v=cb4fLkxXFSg) by [Gerald Versluis](https://twitter.com/jfversluis)",
+          "embedded_links": [
+            {
+              "identifier": "Fm0wjnY",
+              "title": "**Create a .NET MAUI App By Clicking?! You Can With Grial Kit!**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=cb4fLkxXFSg"
+            },
+            {
+              "identifier": "WgyOcSK",
+              "title": "Gerald Versluis",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jfversluis"
+            }
+          ]
+        },
+        {
+          "identifier": "XMnJk4T",
+          "type": "Link",
+          "title": "Let's Explore .NET MAUI in .NET 7 RC 1",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=qR_YlN3ZrLo",
+          "description": "<p>James looks into the new goodies in .NET MAUI and .NET 7 in Release Candidate 1 including maps, desktop improvements, and a lot more!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=qR_YlN3ZrLo\"><strong>Let's Explore .NET MAUI in .NET 7 RC 1</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "James looks into the new goodies in .NET MAUI and .NET 7 in Release Candidate 1 including maps, desktop improvements, and a lot more!\r\n\r\n[**Let's Explore .NET MAUI in .NET 7 RC 1**](https://www.youtube.com/watch?v=qR_YlN3ZrLo) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "y2qBO4g",
+              "title": "**Let's Explore .NET MAUI in .NET 7 RC 1**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=qR_YlN3ZrLo"
+            },
+            {
+              "identifier": "2QgAEut",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "tOzfMDB",
+          "type": "Link",
+          "title": ".NET MAUI - NoSQL with LiteDB",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=m03IjT1b2Hs",
+          "description": "<p>In this video, Daniel will show how to add a local NoSql database to your .NET MAUI app.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=m03IjT1b2Hs\"><strong>.NET MAUI - NoSQL with LiteDB</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "In this video, Daniel will show how to add a local NoSql database to your .NET MAUI app.\r\n\r\n[**.NET MAUI - NoSQL with LiteDB**](https://www.youtube.com/watch?v=m03IjT1b2Hs) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "FSP13wT",
+              "title": "**.NET MAUI - NoSQL with LiteDB**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=m03IjT1b2Hs"
+            },
+            {
+              "identifier": "p4oAKxt",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        },
+        {
+          "identifier": "vsfTYuM",
+          "type": "Link",
+          "title": ".NET MAUI & Blazor - Inspect the web UI",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=iIa0HhV1ZsY",
+          "description": "<p>Web developers are used to being able to use browser developer tools to inspect HTML, CSS, etc. In this video, Daniel will show you how to use that even in a -NET MAUI Blazor Hybrid app.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=iIa0HhV1ZsY\"><strong>.NET MAUI &amp; Blazor - Inspect the web UI</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "Web developers are used to being able to use browser developer tools to inspect HTML, CSS, etc. In this video, Daniel will show you how to use that even in a -NET MAUI Blazor Hybrid app.\r\n\r\n[**.NET MAUI & Blazor - Inspect the web UI**](https://www.youtube.com/watch?v=iIa0HhV1ZsY) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "oyhe4bV",
+              "title": "**.NET MAUI & Blazor - Inspect the web UI**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=iIa0HhV1ZsY"
+            },
+            {
+              "identifier": "8kXF607",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        },
+        {
+          "identifier": "3CmlnR7",
+          "type": "Link",
+          "title": "Building your own custom controls",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=3Cd3amJ-qcw",
+          "description": "<p>In this video, Daniel walks through how to create your own reusable custom controls when using .NET MAUI.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=3Cd3amJ-qcw\"><strong>Building your own custom controls</strong></a> by <a href=\"https://twitter.com/hindrikes\">Daniel Hindrikes</a></p>",
+          "description_markdown": "In this video, Daniel walks through how to create your own reusable custom controls when using .NET MAUI.\r\n\r\n[**Building your own custom controls**](https://www.youtube.com/watch?v=3Cd3amJ-qcw) by [Daniel Hindrikes](https://twitter.com/hindrikes)",
+          "embedded_links": [
+            {
+              "identifier": "uvVFVGn",
+              "title": "**Building your own custom controls**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=3Cd3amJ-qcw"
+            },
+            {
+              "identifier": "grBon9L",
+              "title": "Daniel Hindrikes",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/hindrikes"
+            }
+          ]
+        },
+        {
+          "identifier": "EJ6GPMF",
+          "type": "Link",
+          "title": ".NET MAUI CardViews & Circle Images with Borders, Shapes, and Shadows",
+          "url_domain": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=x-kyAeAGFVg",
+          "description": "<p>Let's use some new controls in .NET MAUI to make reusable CardViews out of Borders, Shapes, Geometry, and Shadows from scratch! Goodbye Frames, because we now have full control to build some beautiful UI. Oh, also why not make some circle images as well!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=x-kyAeAGFVg\"><strong>.NET MAUI CardViews &amp; Circle Images with Borders, Shapes, and Shadows</strong></a> by <a href=\"https://twitter.com/jamesmontemagno\">James Montemagno</a></p>",
+          "description_markdown": "Let's use some new controls in .NET MAUI to make reusable CardViews out of Borders, Shapes, Geometry, and Shadows from scratch! Goodbye Frames, because we now have full control to build some beautiful UI. Oh, also why not make some circle images as well!\r\n\r\n[**.NET MAUI CardViews & Circle Images with Borders, Shapes, and Shadows**](https://www.youtube.com/watch?v=x-kyAeAGFVg) by [James Montemagno](https://twitter.com/jamesmontemagno)",
+          "embedded_links": [
+            {
+              "identifier": "ZnhFAaG",
+              "title": "**.NET MAUI CardViews & Circle Images with Borders, Shapes, and Shadows**",
+              "url_domain": "youtube.com",
+              "url": "https://www.youtube.com/watch?v=x-kyAeAGFVg"
+            },
+            {
+              "identifier": "7UPR7VD",
+              "title": "James Montemagno",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/jamesmontemagno"
+            }
+          ]
+        },
+        {
+          "identifier": "DRL2dB7",
+          "type": "Link",
+          "title": "Merge Conflict: 324: Revisiting GitHub Copilot",
+          "url_domain": "mergeconflict.fm",
+          "url": "https://www.mergeconflict.fm/324",
+          "description": "<p>It has been several months since we last talked about GitHub Copilot, the automated AI coding friend inside of Visual Studio &amp; Visual Studio Code. Let's revisit and give our hands on thoughts of what we think of this new technology.</p>\n\n<p><a href=\"https://www.mergeconflict.fm/324\"><strong>Merge Conflict: 324: Revisiting GitHub Copilot</strong></a> by <a href=\"https://twitter.com/mergeconflictfm\">Merge Conflict</a></p>",
+          "description_markdown": "It has been several months since we last talked about GitHub Copilot, the automated AI coding friend inside of Visual Studio & Visual Studio Code. Let's revisit and give our hands on thoughts of what we think of this new technology.\r\n\r\n[**Merge Conflict: 324: Revisiting GitHub Copilot**](https://www.mergeconflict.fm/324) by [Merge Conflict](https://twitter.com/mergeconflictfm)",
+          "embedded_links": [
+            {
+              "identifier": "WOA1JSg",
+              "title": "**Merge Conflict: 324: Revisiting GitHub Copilot**",
+              "url_domain": "mergeconflict.fm",
+              "url": "https://www.mergeconflict.fm/324"
+            },
+            {
+              "identifier": "I3hYWKv",
+              "title": "Merge Conflict",
+              "url_domain": "twitter.com",
+              "url": "https://twitter.com/mergeconflictfm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,6 +2,15 @@
   "UpdatedTimeStamp": "2021-07-19T12:30:47Z",
   "Editions": [
     {
+      "Id": "362",
+      "Name": "Issue 362",
+      "UpdatedTimeStamp": "2022-09-25T06:13:54Z",
+      "Summary": "MAUI and .NET 7 Preview already... where does the time go?",
+      "PublishDate": "2022-09-25T06:13:51Z",
+      "Curators": "",
+      "Articles": []
+    },
+    {
       "Id": "361",
       "Name": "Issue 361",
       "UpdatedTimeStamp": "2022-09-11T12:02:54Z",

@@ -1,0 +1,191 @@
+{
+  "Id": "362",
+  "Name": "Issue 362",
+  "UpdatedTimeStamp": "2022-09-25T06:13:54Z",
+  "Summary": "MAUI and .NET 7 Preview already... where does the time go?",
+  "Introduction": "G'day everyone, welcome to issue #362 of Weekly Xamarin - a wrap-up of this week's Xamarin and DotNet MAUI community news and articles. If you are brave you can now have a look at .NET MAUI in .NET 7 with Visual Studio 2022 Preview. Just be careful and don't update your only environment. Ask me how I know. ;-) I hope you all have a great week ahead.",
+  "PublishDate": "2022-09-25T06:13:51Z",
+  "Curators": "Kym Phillpotts",
+  "Articles": [
+    {
+      "Title": ".NET MAUI in .NET 7 Release Candidate 1",
+      "Url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-in-dotnet-7-rc1/",
+      "Description": ".NET MAUI is now part of .NET 7 in RC1 with tons of improvements, and a few new features.",
+      "EditionId": "362",
+      "Author": "David Ortinau",
+      "Id": "362-1",
+      "Category": "NEWS"
+    },
+    {
+      "Title": "Figma to MAUI Graphics",
+      "Url": "https://github.com/jsuarezruiz/figma-to-maui-graphics",
+      "Description": "FigmaSharp.Maui.Graphics turns your Figma design into .NET MAUI Graphics code.",
+      "EditionId": "362",
+      "Author": "Javier Suarez",
+      "Id": "362-2",
+      "Category": "DESIGN"
+    },
+    {
+      "Title": "Enabling Users to Manage Subscriptions on iOS/Android",
+      "Url": "https://montemagno.com/enabling-users-to-manage-subscriptions-on-ios-android/",
+      "Description": "Let's take a look at how easy it is to implement a Manage Subscriptions action on iOS/Android to adhere to the new guidelines.",
+      "EditionId": "362",
+      "Author": "James Montemagno",
+      "Id": "362-3",
+      "Category": "BUSINESS & MARKETING"
+    },
+    {
+      "Title": "Playing audio with .NET MAUI",
+      "Url": "https://www.davidbritch.com/2022/09/playing-audio-with-net-maui.html",
+      "Description": "Many apps, whether mobile or desktop, require the ability to play audio. David Britch digs into using audio in your MAUI Apps",
+      "EditionId": "362",
+      "Author": "David Britch",
+      "Id": "362-4",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Adding Fonts in .NET MAUI",
+      "Url": "https://askxammy.com/adding-fonts-in-net-maui/",
+      "Description": "This blog post will help you get started with using fonts within your MAUI Application",
+      "EditionId": "362",
+      "Author": "Leomaris Reyes",
+      "Id": "362-5",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Replicating an Immersive UI in .NET MAUI",
+      "Url": "https://www.syncfusion.com/blogs/post/replicating-an-immersive-ui-in-net-maui.aspx",
+      "Description": "This blog replicates an immersive UI in .NET MAUI based on this Dribbble design.",
+      "EditionId": "362",
+      "Author": "Leomaris Reyes",
+      "Id": "362-6",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Syncfusion Avatarview",
+      "Url": "https://www.syncfusion.com/blogs/post/create-group-chat-profile-view-in-net-maui-app.aspx",
+      "Description": "This blog post digs into the Syncfusion Avatar View, which has some nice features like Group images.",
+      "EditionId": "362",
+      "Author": "Selva Ganapathy Kathiresan",
+      "Id": "362-7",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Push notifications in .NET MAUI with Firebase",
+      "Url": "https://www.andreasnesheim.no/push-notifications-in-net-maui-with-firebase/",
+      "Description": "This post shows you how you can implement push notifications in your .NET MAUI app using Firebase.",
+      "EditionId": "362",
+      "Author": "Andreas Nesheim",
+      "Id": "362-8",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Telerik Reporting in .NET MAUI and .NET MAUI Blazor",
+      "Url": "https://www.telerik.com/blogs/telerik-reporting-conquers-dotnet-maui-blazor",
+      "Description": "In this blog post, you will see how to display a Telerik Reporting report into a .NET MAUI and .NET MAUI Blazor app by using the HTML5 Report Viewer and the Blazor Report Viewer.",
+      "EditionId": "362",
+      "Author": "Telerik",
+      "Id": "362-9",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Sands of MAUI: Issue #72",
+      "Url": "https://www.telerik.com/blogs/sands-maui-issue-72",
+      "Description": "Sam rounds up his favorite links for the week.",
+      "EditionId": "362",
+      "Author": "Sam Basu",
+      "Id": "362-10",
+      "Category": "MAUI"
+    },
+    {
+      "Title": ".NET MAUI in .NET 7 Fills In Xamarin Gaps",
+      "Url": "https://visualstudiomagazine.com/articles/2022/09/22/net-maui-rc1.aspx",
+      "Description": "With the new .NET MAUI in .NET 7 Release Candidate 1, the dev team has continued to polish things up ahead of a November GA debut while at the same time filling in gaps from its predecessor, Xamarin.",
+      "EditionId": "362",
+      "Author": "David Ramel",
+      "Id": "362-11",
+      "Category": "MAUI"
+    },
+    {
+      "Title": "Change Status Bar Color for Android and iOS in .NET MAUI",
+      "Url": "https://www.youtube.com/watch?v=dWj0PdImH10",
+      "Description": "Are you having trouble changing the background color of the status bar in your .NET MAUI app? Watch this video! With the .NET MAUI Community Toolkit you now get the StatusBarBehavior which allows you to change the status bar color in your app very easily and even per page or dynamically!",
+      "EditionId": "362",
+      "Author": "Gerald Versluis",
+      "Id": "362-12",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "How to Install Multiple Versions of Xcode on Your Mac",
+      "Url": "https://www.youtube.com/watch?v=41h0xIKusT0",
+      "Description": "Xcodes is a glorious application that solves the age old problem of installing, managing, and settings default versions of Xcode. Sit back for this whirlwind tour of this amazing free tool that you NEED right now!",
+      "EditionId": "362",
+      "Author": "James Montemagno",
+      "Id": "362-13",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Create a .NET MAUI App By Clicking?! You Can With Grial Kit!",
+      "Url": "https://www.youtube.com/watch?v=cb4fLkxXFSg",
+      "Description": "Have you ever heard about Grial Kit? It's about time you did! This amazing product is loaded with ready to use templates for your .NET MAUI and Xamarin.Forms apps. In this video I will show you how you can click together your app in a web portal, download the code and start building... Prepare to be amazed!",
+      "EditionId": "362",
+      "Author": "Gerald Versluis",
+      "Id": "362-14",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Let's Explore .NET MAUI in .NET 7 RC 1",
+      "Url": "https://www.youtube.com/watch?v=qR_YlN3ZrLo",
+      "Description": "James looks into the new goodies in .NET MAUI and .NET 7 in Release Candidate 1 including maps, desktop improvements, and a lot more!",
+      "EditionId": "362",
+      "Author": "James Montemagno",
+      "Id": "362-15",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI - NoSQL with LiteDB",
+      "Url": "https://www.youtube.com/watch?v=m03IjT1b2Hs",
+      "Description": "In this video, Daniel will show how to add a local NoSql database to your .NET MAUI app.",
+      "EditionId": "362",
+      "Author": "Daniel Hindrikes",
+      "Id": "362-16",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI & Blazor - Inspect the web UI",
+      "Url": "https://www.youtube.com/watch?v=iIa0HhV1ZsY",
+      "Description": "Web developers are used to being able to use browser developer tools to inspect HTML, CSS, etc. In this video, Daniel will show you how to use that even in a -NET MAUI Blazor Hybrid app.",
+      "EditionId": "362",
+      "Author": "Daniel Hindrikes",
+      "Id": "362-17",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Building your own custom controls",
+      "Url": "https://www.youtube.com/watch?v=3Cd3amJ-qcw",
+      "Description": "In this video, Daniel walks through how to create your own reusable custom controls when using .NET MAUI.",
+      "EditionId": "362",
+      "Author": "Daniel Hindrikes",
+      "Id": "362-18",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": ".NET MAUI CardViews & Circle Images with Borders, Shapes, and Shadows",
+      "Url": "https://www.youtube.com/watch?v=x-kyAeAGFVg",
+      "Description": "Let's use some new controls in .NET MAUI to make reusable CardViews out of Borders, Shapes, Geometry, and Shadows from scratch! Goodbye Frames, because we now have full control to build some beautiful UI. Oh, also why not make some circle images as well!",
+      "EditionId": "362",
+      "Author": "James Montemagno",
+      "Id": "362-19",
+      "Category": "PODCASTS & VIDEOS"
+    },
+    {
+      "Title": "Merge Conflict: 324: Revisiting GitHub Copilot",
+      "Url": "https://www.mergeconflict.fm/324",
+      "Description": "It has been several months since we last talked about GitHub Copilot, the automated AI coding friend inside of Visual Studio & Visual Studio Code. Let's revisit and give our hands on thoughts of what we think of this new technology.",
+      "EditionId": "362",
+      "Author": "Merge Conflict",
+      "Id": "362-20",
+      "Category": "PODCASTS & VIDEOS"
+    }
+  ]
+}
